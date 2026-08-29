@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="A comparison of the readable and literal English translations of a passage from Religion and Socialism, with the Arabic source available alongside them.">
+<title>Translation Comparison — Religion and Socialism</title>
+<script>(function(){var r=document.documentElement;try{var t=localStorage.getItem('minimal-library-theme');if(!t)t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';r.dataset.theme=t}catch(e){}})();</script>
+<style>
+:root{color-scheme:light;--bg:#f7f5ef;--surface:#fffdf8;--surface-2:#eeebe3;--text:#25231f;--muted:#6b675f;--line:#d9d4c9;--accent:#80552f;--accent-soft:rgba(128,85,47,.10);--shadow:0 14px 38px rgba(38,32,24,.08);--ui:ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;--serif:Charter,"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;--arabic:"Noto Naskh Arabic","Noto Sans Arabic","Geeza Pro",Tahoma,Arial,sans-serif}
+html[data-theme="dark"]{color-scheme:dark;--bg:#151513;--surface:#1d1c19;--surface-2:#26241f;--text:#e8e3d9;--muted:#aaa49a;--line:#38352f;--accent:#d4a36f;--accent-soft:rgba(212,163,111,.11);--shadow:0 14px 42px rgba(0,0,0,.24)}
+*{box-sizing:border-box}html{scroll-padding-top:82px}body{margin:0;background:var(--bg);color:var(--text);font-family:var(--serif);transition:background .18s ease,color .18s ease}a{color:var(--accent)}button,a{-webkit-tap-highlight-color:transparent}.icon-btn{appearance:none;border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:9px;min-width:36px;height:36px;padding:0 10px;cursor:pointer;font:600 13px/1 var(--ui);box-shadow:0 1px 0 rgba(0,0,0,.03)}.icon-btn:hover{background:var(--surface-2)}.icon-btn:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.topbar{position:fixed;inset:0 0 auto 0;z-index:50;height:62px;display:flex;align-items:center;gap:12px;padding:0 18px;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(14px);border-bottom:1px solid var(--line);font-family:var(--ui)}.back{color:var(--text);text-decoration:none;font-size:13px;white-space:nowrap}.bar-title{min-width:0;flex:1;color:var(--muted);font-size:13px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.controls{display:flex;gap:6px;align-items:center;flex:0 0 auto}.arabic-toggle{min-width:72px}
+.shell{width:min(1440px,calc(100% - 48px));margin:0 auto;padding:122px 0 84px}.eyebrow{font:600 11px/1.2 var(--ui);letter-spacing:.14em;text-transform:uppercase;color:var(--accent);margin-bottom:20px}.page-title{font:600 clamp(42px,6vw,72px)/.98 var(--serif);letter-spacing:-.035em;margin:0 0 22px;max-width:900px;text-wrap:balance}.intro{font:400 18px/1.55 var(--serif);color:var(--muted);max-width:850px;margin:0 0 50px}.legend{display:flex;gap:12px;align-items:center;margin-bottom:16px;font:11px/1.4 var(--ui);color:var(--muted)}.legend span{display:inline-flex;align-items:center;gap:6px}.legend i{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--accent)}
+.compare{--cols:2;display:grid;grid-template-columns:repeat(var(--cols),minmax(0,1fr));border:1px solid var(--line);border-radius:14px;overflow:hidden;background:var(--surface);box-shadow:var(--shadow)}body.show-arabic .compare{--cols:3}.col-head{position:relative;z-index:1;background:var(--surface);padding:18px 22px;border-bottom:1px solid var(--line);font-family:var(--ui)}.col-head+.col-head{border-inline-start:1px solid var(--line)}.col-kicker{font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);margin-bottom:8px}.col-head h2{font:650 17px/1.25 var(--serif);margin:0;letter-spacing:-.01em}.col-head h2 a{text-decoration:none;color:inherit}.col-head h2 sup{font:600 10px/1 var(--ui);margin-left:3px;color:var(--accent)}.col-note{font:11px/1.4 var(--ui);color:var(--muted);margin-top:7px}.arabic-col{display:none}body.show-arabic .arabic-col{display:block}.arabic-col.col-head{font-family:var(--arabic);direction:rtl;text-align:right}.arabic-col.col-head .col-kicker,.arabic-col.col-head .col-note{font-family:var(--ui);direction:ltr;text-align:right}.arabic-col.col-head h2{font-family:var(--arabic);font-weight:600;line-height:1.5;letter-spacing:0}
+.segment{display:contents}.cell{padding:25px 22px 27px;border-bottom:1px solid var(--line);min-width:0}.cell+.cell{border-inline-start:1px solid var(--line)}.segment:last-child .cell{border-bottom:0}.cell p{font-size:17px;line-height:1.67;margin:0 0 1.05em}.cell p:last-child{margin-bottom:0}.cell strong{font-weight:700}.literal{color:color-mix(in srgb,var(--text) 92%,var(--muted))}.arabic-col.cell{font-family:var(--arabic);direction:rtl;text-align:right}.arabic-col.cell p{font-size:19px;line-height:1.92}.segment-no{display:none}
+.footer{margin-top:28px;padding-top:18px;border-top:1px solid var(--line);color:var(--muted);font:12px/1.6 var(--ui)}
+@media(max-width:980px){.shell{width:calc(100% - 28px);padding-top:102px}.compare,.compare[style]{display:block;border:0;background:transparent;box-shadow:none}.col-head{position:relative;top:auto;border:1px solid var(--line);border-radius:12px 12px 0 0;margin-top:20px}.col-head+.col-head{border-inline-start:1px solid var(--line)}.col-head:first-child{margin-top:0}.cell{display:block;border:1px solid var(--line);border-top:0;background:var(--surface);padding:22px 19px}.cell+.cell{border-inline-start:1px solid var(--line)}.segment{display:block}.segment:not(:first-of-type){margin-top:18px}.segment .cell:first-child{border-radius:12px 12px 0 0;border-top:1px solid var(--line)}.segment .cell:last-child{border-radius:0 0 12px 12px}.compare>.col-head{display:none}.segment .cell::before{display:block;font:600 10px/1 var(--ui);letter-spacing:.12em;text-transform:uppercase;color:var(--accent);margin-bottom:13px}.segment .readable::before{content:"Readable translation"}.segment .literal::before{content:"Literal translation"}.segment .arabic-col::before{content:"Arabic source";direction:ltr;text-align:right}.arabic-col.cell p{font-size:19px}.intro{margin-bottom:34px}}
+@media(max-width:560px){.topbar{padding:0 8px;gap:7px;max-width:100vw;overflow:hidden}.back{font-size:12px}.bar-title{font-size:11.5px}.controls{gap:4px}.icon-btn{min-width:32px;height:36px;padding:0 7px}.arabic-toggle{min-width:62px;padding-inline:7px}.shell{width:calc(100% - 24px);padding-top:92px}.page-title{font-size:40px}.intro{font-size:16.5px}.cell p{font-size:16.5px;line-height:1.7}.arabic-col.cell p{font-size:18.5px;line-height:1.95}}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+@media print{.topbar,.footer{display:none}.shell{width:100%;padding:0}.compare{box-shadow:none}.col-head{position:static}body.show-arabic .compare{grid-template-columns:repeat(3,1fr)}}
+</style>
+</head>
+<body>
+<header class="topbar">
+  <a class="back" href="../">← Religion and Socialism</a>
+  <div class="bar-title">Translation comparison</div>
+  <div class="controls">
+    <button class="icon-btn arabic-toggle" id="arabic-toggle" type="button" aria-pressed="false" title="Show Arabic source">العربية</button>
+    <button class="icon-btn" id="theme-toggle" type="button" aria-label="Use dark mode" title="Use dark mode">☾</button>
+  </div>
+</header>
+<main class="shell">
+  <div class="eyebrow">Reviewer reference</div>
+  <h1 class="page-title">Readable and literal translation</h1>
+  <p class="intro">A short passage from <em>Religion and Socialism</em>, shown in the published, easy-to-read English translation and in a deliberately literal rendering. The literal version keeps much more of the Arabic syntax and idiom, even where the result is awkward in English. Use the Arabic control above to display the transcribed source alongside both versions.</p>
+
+  <section class="compare" aria-label="Translation comparison">
+    <header class="col-head">
+      <div class="col-kicker">Published translation</div>
+      <h2><a href="../#en-notes-note-4">Religion, Socialism and Marxism<sup>4</sup></a></h2>
+      <div class="col-note">Modern, natural English</div>
+    </header>
+    <header class="col-head">
+      <div class="col-kicker">Literal rendering</div>
+      <h2><a href="../#ar-notes-note-4">Religion – Socialism – Marxism<sup>4</sup></a></h2>
+      <div class="col-note">Close to the Arabic wording and structure</div>
+    </header>
+    <header class="col-head arabic-col" lang="ar" dir="rtl">
+      <div class="col-kicker">Arabic source</div>
+      <h2><a href="../#ar-notes-note-4">الدين - الاشتراكية - الماركسية<sup>٤</sup></a></h2>
+      <div class="col-note">Transcribed Arabic</div>
+    </header>
+
+    <div class="segment">
+      <div class="cell readable">
+        <p>While enemy forces occupy our land, while rearmament and reconstruction demand all our energy, and while we face the challenge of catching up with the modern world, the cry has begun to rise again from more than one direction:</p>
+        <p><strong>Wolf! Wolf!</strong></p>
+      </div>
+      <div class="cell literal">
+        <p>While the enemy occupies our land, and the troubles of armament and reconstruction need all our energies, and the challenge of catching up with the age faces us... there rose again, once more, and from more than one place, the cry: The wolf! The wolf!!</p>
+      </div>
+      <div class="cell arabic-col" lang="ar" dir="rtl">
+        <p>بينما العدو يحتل أرضنا، ومتاعب التسليح والتعمير تحتاج إلى كل طاقاتنا، وتحدي اللحاق بالعصر يواجهنا.. عادت ترتفع مرة أخرى، ومن أكثر من مكان، صيحة:<br>الذئب! الذئب!!</p>
+      </div>
+    </div>
+
+    <div class="segment">
+      <div class="cell readable">
+        <p>Once again we are being frightened with a monster called <strong>atheism</strong>, unleashed upon the world by an even greater monster which some call <strong>Marxism</strong> and others <strong>socialism</strong>.</p>
+      </div>
+      <div class="cell literal">
+        <p>The frightening with a ghoul whose name is atheism has returned, let loose upon the world by its ghoul-mother... which, in the opinion of some, is (Marxism), and in the opinion of others (socialism).</p>
+      </div>
+      <div class="cell arabic-col" lang="ar" dir="rtl">
+        <p>عاد التخويف من غول اسمه الإلحاد، أطلقته على الدنيا أمه الغولة .. التي هي في رأي البعض (الماركسية) وفي رأي البعض الآخر (الاشتراكية).</p>
+      </div>
+    </div>
+
+    <div class="segment">
+      <div class="cell readable">
+        <p>So what is the real issue?</p>
+      </div>
+      <div class="cell literal">
+        <p>So what is the story exactly?</p>
+      </div>
+      <div class="cell arabic-col" lang="ar" dir="rtl">
+        <p>فما هي الحكاية بالضبط؟</p>
+      </div>
+    </div>
+
+    <div class="segment">
+      <div class="cell readable">
+        <p>I hesitated before writing about Marxism and atheism because I believed there were more urgent matters demanding our attention.</p>
+        <p>Our country bears the wounds of war. We are trying to build a future under external threats and in the middle of serious economic difficulties.</p>
+      </div>
+      <div class="cell literal">
+        <p>And the truth is that I hesitated before writing around this subject about Marxism and atheism. And I used to imagine that there are other subjects more urgent and more entitled to attention. For our countries are heavily wounded with the wounds of wars, and they look forward to building the future among external threats and amid economic difficulties.</p>
+      </div>
+      <div class="cell arabic-col" lang="ar" dir="rtl">
+        <p>والحقيقة أنني ترددت قبل الكتابة حول هذا الموضوع عن الماركسية والإلحاد. وكنت أتصور أن هناك موضوعات أخرى أكثر إلحاحاً وأحق بالاهتمام. فبلادنا مثخنة بجراح الحروب، وهي تتطلع إلى بناء المستقبل بين تهديدات خارجية ووسط مصاعب اقتصادية.</p>
+      </div>
+    </div>
+
+    <div class="segment">
+      <div class="cell readable">
+        <p>Those concrete problems, I believed—and still believe—deserve our concentration, our debate, and even our disagreements.</p>
+        <p>But some people have succeeded in forcing the question of belief and unbelief back onto the agenda. They insist that it comes before everything else. And because they identify Marxism with atheism, and claim that Marxism in particular is the threat to our religious values, the matter has to be clarified.</p>
+      </div>
+      <div class="cell literal">
+        <p>And these real problems are the ones that deserve the concentration of effort and dialogue and disagreement. I used to imagine this, and I still do. But it appears that some succeed in inserting the question of atheism and faith into the agenda, and some see that discussing this question comes before any other matter. And since this opinion declares that atheism equals Marxism—indeed, it sees that the threat to our religious values comes only from Marxism in particular—then it has become necessary to clarify the truth.</p>
+      </div>
+      <div class="cell arabic-col" lang="ar" dir="rtl">
+        <p>وهذه المشاكل الواقعية هي التي تستحق تركيز الجهد والحوار والخلاف، كنت أتصور هذا، ولا زلت. ولكن يبدو إن البعض ينجح في إقحام قضية الإلحاد والإيمان في جدول الأعمال، ويرى البعض أن مناقشة هذه القضية يأتي قبل أي مسألة أخرى، وبما أن هذا الرأي يعلن أن الإلحاد يساوي الماركسية، بل وهو يرى أن ـ التهديد لقيمنا الدينية لا يأتي إلا من الماركسية بالذات، وإذن فقد وجب توضيح الحقيقة.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">This comparison page is intended as a reviewer aid. The literal rendering is deliberately diagnostic rather than polished prose.</footer>
+</main>
+<script>
+const root=document.documentElement;
+const storage={get(k){try{return localStorage.getItem(k)}catch{return null}},set(k,v){try{localStorage.setItem(k,v)}catch{}}};
+const themeKey='minimal-library-theme';
+let theme=root.dataset.theme||storage.get(themeKey)||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');
+function applyTheme(){root.dataset.theme=theme;const b=document.getElementById('theme-toggle');b.textContent=theme==='dark'?'☀︎':'☾';b.setAttribute('aria-label',theme==='dark'?'Use light mode':'Use dark mode');b.title=b.getAttribute('aria-label')}
+applyTheme();
+document.getElementById('theme-toggle').addEventListener('click',()=>{theme=theme==='dark'?'light':'dark';storage.set(themeKey,theme);applyTheme()});
+const arabicBtn=document.getElementById('arabic-toggle');
+function setArabic(show){document.body.classList.toggle('show-arabic',show);arabicBtn.setAttribute('aria-pressed',String(show));arabicBtn.textContent=show?'Hide عربي':'العربية';arabicBtn.title=show?'Hide Arabic source':'Show Arabic source'}
+setArabic(new URLSearchParams(location.search).get('arabic')==='1');
+arabicBtn.addEventListener('click',()=>setArabic(!document.body.classList.contains('show-arabic')));
+</script>
+</body>
+</html>
