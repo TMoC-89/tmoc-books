@@ -7,3 +7,5 @@ Static reading site for the TMoC book translations.
 - Local preview: `python3 -m http.server 8000`
 
 The site has no build step or external runtime dependencies.
+
+Current library: **Heroes Without History**, **Right and Left in Islam**, **Sophia**, **Religion and Socialism**, and **Patience and Victory**.
