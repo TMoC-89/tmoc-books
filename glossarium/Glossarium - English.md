@@ -431,6 +431,8 @@ It is the terrible reality itself, recognized and spoken aloud:
 
 the inability to distinguish war from peace.
 
+---
+
 **29 Aug. 1947**
 
 The inability to distinguish war from peace is at the same time *fas nefasque mixtum*: right and wrong mixed together.
@@ -483,6 +485,8 @@ The Calvinists, by contrast, recognize the *a Deo excitatus*: the man raised up 
 
 The right to religious error—the right to be wrong in matters of religion—became the foundation of modern constitutional law as we have known it until now.)
 
+---
+
 **30 Aug. 1947**
 
 The present legal order “does not recognize enmity” (Otto Brunner, *Land und Herrschaft*, p. 38).
@@ -496,6 +500,8 @@ Is that why my definition of the political provokes such horror?
 The other reason for this hostility toward hostility itself: H. Heller and Willy Haas.
 
 They smuggle in the assumption that enmity necessarily means annihilation.
+
+---
 
 **31 Aug. 1947**
 
@@ -535,6 +541,8 @@ That is what is new:
 
 the enemy is disqualified more and more completely.
 
+---
+
 **1 September 1947**
 
 What follows from this? asks J. Shotwell.
@@ -558,6 +566,8 @@ Perhaps politics can no longer be merely the nineteenth-century “art of what i
 Perhaps precisely the desire to save our most precious inheritance, precisely the awareness that we are living through an enormous turning point, precisely the dynamic character of the present, precisely our awareness that war has become incalculable—perhaps all of this will produce a new kind of Realpolitik.
 
 A Realpolitik that includes this awareness within itself, and that does not fear matching the other side’s willingness to face danger with an equal willingness of its own, provided it knows that it possesses the right weapons.
+
+---
 
 **2 September 1947**
 
@@ -645,6 +655,8 @@ We must distinguish between an agonistic understanding of the enemy and an ethic
 
 And when we do, the agonistic understanding comes out unexpectedly well—even morally.
 
+---
+
 **3 September 1947**
 
 To Gerhard Günther:
@@ -698,6 +710,8 @@ Is it Strauss’s theory of tradition that enrages Bauer and Nietzsche, those tw
 The concept of the Jew in Hamann, Bruno Bauer, Kierkegaard, and Nietzsche.
 
 A concept becomes virulent once it is stripped of theology.
+
+---
 
 **4 September 1947**
 
@@ -791,6 +805,8 @@ that is what they must now **do**, even if they would prefer not to speak openly
 
 What a confusion of fronts!
 
+---
+
 **5 September 1947, journey to Dortmund
 (6 September to Menden)**
 
@@ -827,6 +843,8 @@ That black trail of ink that Annette feared so much, with death and life followi
 (In Neuenrade:
 
 “That passes clearly east and west as a sign.”)
+
+---
 
 **Sunday, 7 September 1947**
 
@@ -932,6 +950,8 @@ Claudel, in his introduction to Abbé Tardif de Moidrey’s commentary on Ruth, 
 
 Heart of Jesus, filled with reproach.
 
+---
+
 **8 September 1947**
 
 Annette, the wise-foolish virgin.
@@ -951,6 +971,8 @@ It is the first and only “landscape” in the sense of a secularized paradise.
 It still believes completely in landscape.
 
 This Rousseau-like effect in the *Pastoral* is even more important than Rousseau’s influence on Kant, Fichte, the young Hegel, Hölderlin, and Schiller.
+
+---
 
 **9 September 1947**
 
@@ -993,6 +1015,8 @@ Once nobody can even believe in his honest intention to remain impartial?
 We must recognize the connection between legality, rationality, and political neutrality between parties.
 
 It is already there in Bodin, *Republic*, p. 636, and elsewhere.
+
+---
 
 **10 September 1947**
 
@@ -1047,6 +1071,8 @@ What a pity I could never show that to Franz Blei.
 But perhaps he already knew it.
 
 <…>[^fn-p02-pdf06-n02]
+
+---
 
 **13 September 1947**
 
@@ -1132,6 +1158,8 @@ The materialist view of the world:
 
 the world as an institution for satisfying needs.
 
+---
+
 **19 September 1947**
 
 Conceptual connections:
@@ -1152,6 +1180,8 @@ But in my haste I wrote only:
 And then I forgot what the insight actually was.
 
 A side effect of realizing how important it seemed.
+
+---
 
 **20 September 1947**
 
@@ -1200,6 +1230,8 @@ But if that is so, when in 1941 he attacks the Soviet Union and covers it with w
 Again:
 
 the essential connection between the Monroe Doctrine and this concept of neutrality!
+
+---
 
 **21 September 1947**
 
@@ -1317,6 +1349,8 @@ My present.
 
 I lose my time and gain my space.
 
+---
+
 **22 September 1947**
 
 The “ground” of our being is our body in all its complicated functioning.
@@ -1340,6 +1374,8 @@ Only one thing I inherited:
 my own body.
 
 While living, I consume it.
+
+---
 
 **23 September 1947**
 
@@ -1413,6 +1449,8 @@ At best they were followers of Goethe and neutralized humanitarians.
 
 So the non-jurists who were listening in could leap upon every word and every formulation and tear me apart as a “Desert Fox.”
 
+---
+
 **24 September 1947**
 
 Conceptual realism as the necessary basis of jurisprudence.
@@ -1424,6 +1462,8 @@ Letter to Otto Veit.
 flight from freedom into technology.
 
 Compare 21 April 1948.)
+
+---
 
 **25 September 1947**
 
@@ -1452,6 +1492,8 @@ not Russians and Anglo-Saxons at once,
 not communists and capitalists at once.
 
 <…>
+
+---
 
 **26 September 1947**
 
@@ -1482,6 +1524,8 @@ But Heraclitus does not say:
 *outopos*—
 
 nowhere.
+
+---
 
 **27 September 1947**
 
@@ -1669,6 +1713,8 @@ The result of every human work.
 
 My path from Berlin through Nuremberg to Plettenberg.
 
+---
+
 **28 September 1947**
 
 Freedom from want.
@@ -1726,6 +1772,8 @@ Therefore:
 the struggle for survival becomes more intense the closer paradise comes.
 
 Forward, to the final battle!
+
+---
 
 **29 September 1947**
 
@@ -1811,6 +1859,8 @@ Biedermeier as a mask of feeling placed over nihilism.
 
 Lortzing’s *The Poacher* is just as clear a symptom and even a document of Berlin and Prussia as Offenbach’s *La Belle Hélène* and *Orpheus* were of Paris and France.[^fn-p02-pdf12-n01]
 
+---
+
 **30 September 1947**
 
 The elite of the drivers.
@@ -1834,6 +1884,8 @@ The others walk on the pavements, where pavements still exist, as a concession g
 The man in the street is the master of the street.
 
 That is modern democracy.
+
+---
 
 **1 October 1947**
 
@@ -1889,6 +1941,8 @@ I found great pleasure in an interesting task:
 
 comparing the picture of France between 1848 and 1851 drawn by Donoso with the picture drawn by Karl Marx.
 
+---
+
 **2 October 1947**
 
 Very struck by H. Blüher’s *Erhebung*, especially the remarks on the king.
@@ -1936,6 +1990,8 @@ Carl Schmitt:
 the one compelled.
 
 The man of blind prior commands.
+
+---
 
 **3 October 1947**
 
@@ -2069,6 +2125,8 @@ Sepúlveda’s *Democrates alter*, written in 1547, was not printed until 1892.
 
 For that long, the reviewers employed by those supposedly gentle and tolerant humanitarians managed to keep him silent.
 
+---
+
 **4 October 1947**
 
 So:
@@ -2147,6 +2205,8 @@ naked and bare as at birth,
 
 seeing and feeling that Being itself is all I possess.
 
+---
+
 **Sunday, 5 October 1947, Plettenberg**
 
 Look up what Klemens M.[öllenbrock] says about Annette’s poem on the Trinity!
@@ -2181,6 +2241,8 @@ bursts forth without measure, while our own world receives so little …
 Atoms must have a measure, a limit, and a bridle.”
 
 I want to send that last line to Heisenberg or Pascual Jordan.
+
+---
 
 **6 October 1947**
 
@@ -2291,6 +2353,8 @@ How profound that word is in her.
 And how un-Romantic.
 
 As with Konrad Weiß.
+
+---
 
 **7 October 1947**
 
@@ -2438,6 +2502,8 @@ Or perhaps he does.
 
 But he does it loutishly, not deceitfully.
 
+---
+
 **8 October 1947**
 
 Disgusting aftertaste from Däubler’s *Africana*.
@@ -2528,6 +2594,8 @@ Does no human ear hear my voice?)
 
 Poor dispenser of justice that you are.
 
+---
+
 **9 October 1947**
 
 The poor Germans today are really the orphans of Leviathan.
@@ -2571,6 +2639,8 @@ Those whom Leviathan has spat out.
 We, who possess the great possibility of advancing from the relative beyond into which we are being pushed toward the absolute beyond:
 
 the overcoming of the world itself.
+
+---
 
 **10 October 1947**
 
@@ -2696,6 +2766,8 @@ Something already formed rather than something that forms?
 
 Form that has become rather than form still becoming?
 
+---
+
 **11 October 1947**
 
 Is this return to my own body, to my one true possession, merely an individual tendency in me?
@@ -2820,6 +2892,8 @@ It does not interfere with God’s sovereign power.
 
 It interferes with the murderous claims made by my human enemies.
 
+---
+
 **Sunday, 12 October 1947**
 
 Inside the space of a war that has no recognized form, different standards apply from those that apply elsewhere.
@@ -2853,6 +2927,8 @@ Consider what it actually means to be:
 outside the law.
 
 Must a person really be required to submit to that?[^fn-p02-pdf20-n02]
+
+---
 
 **13 October 1947**
 
@@ -2903,6 +2979,8 @@ This kind of cleanliness is a sign of moral qualities that are rare among us.
 The terrible loneliness of such a jurist in Germany.
 
 The chatterers of every camp regard me as an enemy.
+
+---
 
 **14 October 1947**
 
@@ -3014,6 +3092,8 @@ A republic without a thing.
 
 A mere state of consciousness.
 
+---
+
 **23 October 1947, Elberfeld**
 
 There is no quantization in the Being of Parmenides.
@@ -3023,6 +3103,8 @@ Gerhard Nebel said this.
 Prayer of Duns Scotus:
 
 “In You there is no quantity.”
+
+---
 
 **27 October 1947**
 
@@ -3037,6 +3119,8 @@ the aggressor is the one who drops the first atomic bomb.
 The duty, then, is to wait until the first atomic bomb has actually been dropped.
 
 That is the “juridical” solution to the problem.
+
+---
 
 **29 October 1947**
 
@@ -3053,6 +3137,8 @@ The romanticizing itself—“the dark and mysterious poetry of this story”—
 Compare H.[itler]: “My life is a novel.”
 
 This kind of preface is almost a literary genre of its own. But only someone who knew not merely the preface but also the works it introduces in detail could say anything really useful about that.
+
+---
 
 **30 October 1947**
 
@@ -3084,6 +3170,8 @@ An essay by Kautsky on this subject can ruin the most beautiful autumn day.
 
 In any case, the subject belongs to the larger complex: the idea of genius in the nineteenth century; Max Stirner; the Wilhelmine types; and finally Brother Straubinger as an object of cult worship, with the Nobel Prize as the cult-mythic laurel wreath.
 
+---
+
 **31 October 1947**
 
 Franz Kafka could have written a novel called *The Enemy*.
@@ -3101,6 +3189,8 @@ Once the enemy has been clearly defined, anxiety comes to an end. At most, fear 
 But how are we supposed to pull anything out of this state of uncertainty and give it a definite form when we no longer possess any concepts in common?
 
 One of the defining features of civil war is precisely that the enemies no longer share a common language of concepts. Every concept then becomes an intrusion across the enemy line.
+
+---
 
 **3 November 1947**
 
@@ -3128,9 +3218,13 @@ That applies to Brother Straubinger.
 
 But it applies just as much to those who declare him to be the one and only enemy and keep him alive through the idea of collective responsibility.
 
+---
+
 **4 November 1947**
 
 Now I hardly dare even draw breath, for fear of distracting the mysterious hand that is guiding things.
+
+---
 
 **5 November 1947**
 
@@ -3163,6 +3257,8 @@ No road leading out into the open.
 No room in which free forces can measure themselves against one another and test their strength.
 
 One World.
+
+---
 
 **7 November 1947**
 
@@ -3201,6 +3297,8 @@ That, then, is the kind of *metabolē* in which we are sitting today.
 Understood cyclically: a world-age of reversal and counter-movement.
 
 The movement into the opposite.
+
+---
 
 **9 November 1947**
 
@@ -3276,6 +3374,8 @@ There is something similar in Bodin.
 
 I was startled by the sheer, unsupported arrogance with which Kelsen criticized my theory of the neutral guardian of the constitution and tried to discredit it as unscientific.
 
+---
+
 **10 November 1947**
 
 On Sohm:
@@ -3291,6 +3391,8 @@ Does it contradict the essence of spirit that musical scores and written poems e
 Fixed intervals?
 
 Firm lines?
+
+---
 
 **12 November 1947**
 
@@ -3377,6 +3479,8 @@ A very important question!
 
 Because the façade is false.[^fn-p03-pdf04-n01]
 
+---
+
 **13 November 1947**
 
 To Ernst Jünger:
@@ -3414,6 +3518,8 @@ An indirect—and for that reason more reliable and deeper—influence of Kierke
 Joy is an acceleration of the circulation of the blood, Hobbes says.
 
 That is Walter Pater’s “as many pulsations as possible” from 1868.
+
+---
 
 **15 November 1947**
 
@@ -3468,6 +3574,8 @@ Hobbes’s rational law already knows only legality.
 Everything else has already become mere façade—above all, the image of Leviathan.
 
 <…>
+
+---
 
 **16 November 1947**
 
@@ -3545,6 +3653,8 @@ See above, 15 November 1947; below, 21 November 1947.
 
 <…>
 
+---
+
 **17 November 1947**
 
 The only thing I inherit is my own body.
@@ -3598,6 +3708,8 @@ Beautiful to look at and terrible to be.
 But anyone who does not want merely to contemplate the world but to change it must necessarily find the world in need of change—which means bad.
 
 I am disgusted by the pathos of moral outrage that arises when someone wants to create the world anew so that he can indulge his will to power and destroy his enemies.
+
+---
 
 **18 November 1947**
 
@@ -3675,6 +3787,8 @@ Under such circumstances one should not proclaim general theories about a resurr
 
 Typical of the Swiss and others who sit safely far from the firing line while laying down ethical and legal demands for everyone else.
 
+---
+
 **19 November 1947**
 
 Before God, everything that lies in the future has already happened.
@@ -3737,6 +3851,8 @@ Is it not narrower and more rigid than the *regula fidei*, the rule of faith, of
 
 Does every act of turning something into dogma also turn it into law?
 
+---
+
 **20 November 1947**
 
 The purer and more absolute contemplation becomes, the more this world becomes, for the contemplative person, the best of all possible worlds.
@@ -3776,6 +3892,8 @@ In the eyes of the contemplative person, the activist is a wild animal.
 In the eyes of the activist, the contemplative person is a sophisticated social parasite, a reactionary idler and saboteur.
 
 And the God of the contemplative person is a product of Epicurean boredom—at worst a password used by the fifth column, at best an excuse for people who have simply remained sitting where they are.
+
+---
 
 **21 November 1947**
 
@@ -3885,6 +4003,8 @@ Huxley comes from the point at which the modern industrial and technological wor
 
 (Then a question about the word: *corny*.)
 
+---
+
 **22 November 1947**
 
 So, my dear Max, nothing is above You.
@@ -3965,6 +4085,8 @@ The typical superiority of Brother Straubinger—to whom Stirner also belongs, a
 
 The people are the powerless.
 
+---
+
 **23 November 1947**
 
 The totality of mobilization consists in this:
@@ -3986,6 +4108,8 @@ that in this way we might one day produce the *Ens perfectissimum* ourselves.
 Then the rule becomes:
 
 Whoever is not on the road experiences nothing.
+
+---
 
 **24 November 1947**
 
@@ -4079,6 +4203,8 @@ History made ever more consciously, ever more deliberately, ever more according 
 
 History developing into the conscious and total planning of things to come.
 
+---
+
 **25 November 1947**
 
 At half past three in the morning, I came across the letter Popitz wrote to me on 1 November 1930 about *The Concept of the Political*.
@@ -4163,6 +4289,8 @@ nationalism and socialism.
 
 Until finally the fanatical drive toward unity produced a fourfold division imposed from outside.
 
+---
+
 **26 November 1947**
 
 In this movement, the most subtle, most theological distinctions of the spirit found their Acheron—their descent into the underworld.
@@ -4217,6 +4345,8 @@ And I believe it is precisely the antithesis that saves the subject from becomin
 
 That is the present form taken, in legal concepts, by the problem of obedience and resistance.[^fn-p03-pdf14-n01]
 
+---
+
 **27 November 1947**
 
 (To H. P. Ipsen:)
@@ -4244,6 +4374,8 @@ Carl Tobias:
 a good pseudonym.
 
 Primal positions based on basic states of existence.
+
+---
 
 **28 November 1947**
 
@@ -4301,6 +4433,8 @@ Of course!
 
 Once war is no longer legal and legal wars come to an end, legitimate wars begin!
 
+---
+
 **29 November 1947**
 
 How could I have allowed myself to be annoyed for even a second by Hans Barth’s petty human subordination and his article on Leviathan?
@@ -4335,6 +4469,8 @@ And why does he refuse to let them apply to us?
 
 Or is this kind of generosity and wisdom merely an internal Swiss ethic that does not apply to Germans?
 
+---
+
 **30 November 1947**
 
 Under the influence of Barion’s letter of 11 November, I feel a strong temptation to write a continuation of *B.[enito] C.[ereno]* on another level:
@@ -4360,6 +4496,8 @@ The problem of every political trial?
 Before an admiralty court, he has a chance.
 
 Before a special tribunal created to combat Spanish imperialism, he has none.
+
+---
 
 **1 December 1947**
 
@@ -4401,6 +4539,8 @@ What does this communication mean?
 Certainly more than an exchange of letters.
 
 Only do not try to turn your thinking into a possession.
+
+---
 
 **2 December 1947**
 
@@ -4449,6 +4589,8 @@ And a true sociologist feels understanding—or rather, “understands”—the 
 And now I am reading in Baader that it can be proved to every human being that his greatest pleasure, even the worst one, is ultimately nothing more than an answered prayer.
 
 Strange protective masks are growing inside us, allowing us to pass through Advent undisturbed.
+
+---
 
 **3 December 1947**
 
@@ -4500,6 +4642,8 @@ What is the sociological home of the theologians of Scholasticism?
 
 And what, therefore, did the removal of theology from legal science mean—especially in international law?
 
+---
+
 **4 December 1947**
 
 Endlessly stirring up the rubbish bin again.
@@ -4511,6 +4655,8 @@ At bottom, none of this interests either victor or defeated.
 It interests only that third person who is both involved and uninvolved and wants to enjoy his entirely personal revenge.
 
 Let him enjoy it.
+
+---
 
 **5 December 1947**
 
@@ -4546,6 +4692,8 @@ In criminalization there is a mismatch within the legal definition of the factua
 
 The “outlawing” of “war” replaces the atavism of war with the atavism of outlawry!
 
+---
+
 **6 December 1947**
 
 To R. Stoedter:
@@ -4560,6 +4708,8 @@ For example, the prohibition of alcohol—which was introduced without retroacti
 
 Another reliable measure is how deeply discrimination penetrates once it is based upon criminalization.
 
+---
+
 **7 December 1947**
 
 The will to—
@@ -4569,6 +4719,8 @@ the right to—
 and the academy for—
 
 these are the three symbols of a world turned upside down, divided against itself and uncertain of itself.
+
+---
 
 **8 December 1947**
 
@@ -4606,6 +4758,8 @@ Rivarol says:
 
 Against the hammer-and-anvil ideology of the will to power!
 
+---
+
 **9 December 1947**
 
 Again and again:
@@ -4641,6 +4795,8 @@ Translate your dream:
 sum, sum, sum—
 
 buzz, buzz, buzz, little bee.
+
+---
 
 **10 December 1947**
 
@@ -4681,6 +4837,8 @@ Outside the law.
 An outlaw.
 
 A foolish emotion.
+
+---
 
 **11 December 1947**
 
@@ -4732,6 +4890,8 @@ B. replies that this is not a binding to the past because the understanding of t
 
 But the same is true of the fixed words of the legislator, especially if—as Sohm himself said—the law is wiser than the legislator.
 
+---
+
 **13 December 1947**
 
 More than ten years ago I came across the sentence:
@@ -4739,6 +4899,8 @@ More than ten years ago I came across the sentence:
 “They have violated the spirit.”
 
 It still comforts me today.
+
+---
 
 **14 December 1947**
 
@@ -4778,6 +4940,8 @@ More can now be canonized, while Huxley—
 
 “own mouth.”
 
+---
+
 **15 December 1947**
 
 *Deus sive Natura.*
@@ -4791,6 +4955,8 @@ Nature, or Genius.
 Genius = Nature, in the Romantic sense.
 
 What a cabinet of curiosities! Та[^fn-p03-pdf19-n04]
+
+---
 
 **16 December 1947**
 
@@ -4854,6 +5020,8 @@ There is no empty space.
 
 But neither is there any completely full space.[^fn-p03-pdf20-n01]
 
+---
+
 **17 December 1947**
 
 Karl Marx says that the emancipation of the J.[ews] took place by turning Christians into Jews.
@@ -4881,6 +5049,8 @@ Have the former not yet been captured so completely?
 Are they less capable of being captured and occupied by a hierarchical ruling authority?
 
 Is this popular Christianity alongside institutional Church Christianity?
+
+---
 
 **18 December 1947**
 
@@ -4939,6 +5109,8 @@ the page that writes—and writes itself.
 Dietrich Reinking, scholar of international law, Lutheran and loyal to the emperor (1590–1664), was arrested by the Swedes in Stade in 1645 and kept for four months in strict imprisonment.
 
 Arthur Wegner, *History of International Law*, 1936, p. 192.
+
+---
 
 **19 December 1947**
 
@@ -5010,6 +5182,8 @@ I am sure that we could even agree on many concrete names right down to the pres
 
 Donoso Cortés failed theologically because this concept remained unknown to him.
 
+---
+
 **20 December 1947**
 
 Delusion everywhere.
@@ -5079,6 +5253,8 @@ Mr Winckelmann will certainly have noticed the astonishing forecast in the lette
 Here too appears the quotation:
 
 “The ocean is free, and freer still are springs.”
+
+---
 
 **21 December 1947**
 
@@ -5168,6 +5344,8 @@ The final result: the beautiful animal, and the image presented by the self-cons
 
 That was the end of a road prepared, among others, by an honest Englishman, H. S. Chamberlain, and an honest Jew, Otto Weininger.
 
+---
+
 **22 December 1947**
 
 To Gerhard Nebel:
@@ -5203,6 +5381,8 @@ And every time, this new theogony ends with a new elite.
 Better, then, to stick with the old elites we already know!
 
 Though of course these gentlemen of refined taste need protection themselves.[^fn-p04-pdf02-n01]
+
+---
 
 **23 December 1947**
 
@@ -5276,6 +5456,8 @@ This is the deeply moving lament of collapse.
 
 And from precisely this depth of nihilism, Christianity rises.
 
+---
+
 **24 December 1947**
 
 Still thinking about the passage in Lucan, VII, 440–460.
@@ -5346,6 +5528,8 @@ The emptier the vessel, the purer it is.
 
 Meter is the empty vessel not for the content, but for the magical vibration.
 
+---
+
 **25 December 1947**
 
 To H. Bung, on the repeated confusion between me and my namesake in Tübingen:
@@ -5365,6 +5549,8 @@ A great deal of it may be blown into my face, but I have not allowed my thoughts
 Most of what people are thinking today, insofar as it is new and interesting, we already thought in advance.
 
 And whatever is worth thinking over afterward—in the manner of Epimetheus—we have thought over.
+
+---
 
 **27 December 1947**
 
@@ -5418,6 +5604,8 @@ But what about after 1814?
 
 A restored katechon?
 
+---
+
 **28 December 1947**
 
 Refreshing to read Hobbes on the legal position of the prisoner.
@@ -5433,6 +5621,8 @@ Power in itself is evil, says the highly cultivated Swiss gentleman.
 All I can say in reply is:
 
 and powerlessness is spiteful and malicious in itself.
+
+---
 
 **29 December 1947**
 
@@ -5494,6 +5684,8 @@ Always the same “paradox” again:
 
 the identity of opposites.
 
+---
+
 **30 December 1947**
 
 Existentialism without Christianity:
@@ -5501,6 +5693,8 @@ Existentialism without Christianity:
 that really is a performance of *Hamlet* without the Prince of Denmark.
 
 Compared with that, the Marxists have a major advantage.
+
+---
 
 **31 December 1947**
 
@@ -5586,6 +5780,8 @@ And now the abyss of the dilemma opens before it:
 
 theology or technology.
 
+---
+
 **2 January 1948**
 
 Greater sensitivity means greater hostility and an enormous increase in the possibilities of hostility.
@@ -5609,6 +5805,8 @@ an arrow that has already been fired returns to the bowstring and seems to ask t
 The somewhat naïve assumption is that the bowstring is still as tight and strong as it was fifty years ago.
 
 Strangely, no one thinks about the archer.
+
+---
 
 **5 January 1948**
 
@@ -5656,6 +5854,8 @@ So declare it criminal and destroy it!
 
 Make sure you secure the position of prosecutor in good time!
 
+---
+
 **6 January 1948**
 
 To R. Smend:
@@ -5671,6 +5871,8 @@ And the rubble left by the sceptical break with it now seems to be turning into 
 But you know your own path.
 
 And I sincerely hope that in the coming year too you will feel rewarded, through good results and worthwhile achievements, for work that has demanded so much sacrifice from you.
+
+---
 
 **7 January 1948**
 
@@ -5758,6 +5960,8 @@ This too will pass through you.
 
 It may be that he is still the same old ego-mad seeker after gods and fetishes, who only wants the right to find the god he has been seeking and then contemptuously throw him into a corner.[^fn-p04-pdf11-n01]
 
+---
+
 **8 January 1948**
 
 (To H. Barion:)
@@ -5810,6 +6014,8 @@ But correct insights do not establish themselves so quickly.
 
 Least of all among officials serving state institutions.[^fn-p04-pdf11-n02]
 
+---
+
 **9 January 1948**
 
 Identity:
@@ -5828,6 +6034,8 @@ re-presentations, acts of making-present, re-presentifications, attempts to forc
 
 A brilliant and successful representation on the grand scale comes dangerously close to these manufactured acts of re-presenting.
 
+---
+
 **10 January 1948**
 
 So now the people with the “cast-iron concepts” are arriving, as Dostoevsky called them.
@@ -5835,6 +6043,8 @@ So now the people with the “cast-iron concepts” are arriving, as Dostoevsky 
 But the cast iron is already beginning to dissolve.
 
 For:
+
+---
 
 **11 January 1948**
 
@@ -5968,6 +6178,8 @@ Bernanos’s pronouncements no longer interest me.
 
 (Mrs Schmitt asks whether the letter of August 1947 for Mrs Linn arrived, and also a small September gift—a little piece of Venetian lace <perhaps>.)
 
+---
+
 **12 January 1948**
 
 What?
@@ -6052,6 +6264,8 @@ I like that.
 
 Hobbes as Bacon’s pupil.[^fn-p04-pdf14-n03]
 
+---
+
 **13 January 1948**
 
 An encounter with the grand style of German Idealism:
@@ -6079,6 +6293,8 @@ Not the irony of the great English writers.
 “Is not machinery linked with animal life in an infinite variety of ways?”
 
 This belongs with the *Leviathan* as the great machine.
+
+---
 
 **15 January 1948**
 
@@ -6174,6 +6390,8 @@ Hegel above all.
 
 He will cease to be, in theory, a museum piece preserved by academic philosophy, and in practice, a weapon monopolized by Moscow Marxism.
 
+---
+
 **16 January 1948**
 
 If Heidegger, with his acts of re-ontologizing, can produce such broad effects even in *Gallia docens*, teaching and learned France, what depth of effect will Konrad Weiss’s “Christian Epimetheus” have in Germany!
@@ -6235,6 +6453,8 @@ U-topia:
 the transformation of a place with an exceptionally strong sense of location into nothing.
 
 Destruction.
+
+---
 
 **17 January 1948**
 
@@ -6340,6 +6560,8 @@ No-place against U-topia?
 
 The space I gain is the *ἄτοπον*!!
 
+---
+
 **18 January 1948**
 
 To H. P. Ipsen:
@@ -6357,6 +6579,8 @@ The concept of subjugation, which you deliberately avoid bringing to the foregro
 The fundamental injustice of this condition seems to me to lie in the fact that the eternal connection between protection and obedience—a connection valid even in Hobbes’s state of nature—has been torn apart.
 
 The person who has been subjugated obeys, and despite obeying is cast into misery.
+
+---
 
 **19 January 1948**
 
@@ -6530,6 +6754,8 @@ Its true poet is Wilhelm Busch:
 
 the humorist of malicious pleasure and envy.
 
+---
+
 **22 January 1948**
 
 When I read what Edmund A. Walsh had written about me and my *Concept of the Political* in *True Rather Than False Geopolitics for Germany* (1946), the word *Schafsnase* escaped my lips.
@@ -6561,6 +6787,8 @@ The sheep-noses.
 So let them carry on working.
 
 God had long since turned everything toward the good by the time [they] pulled the trigger and set their tools and projectiles in motion.
+
+---
 
 **23 January 1948**
 
@@ -6682,6 +6910,8 @@ And behold:
 
 Christ walks upon the sea.
 
+---
+
 **24 January 1948**
 
 With Annette, the sign of the cross becomes only the “phosphorus plant,” the plant of life.
@@ -6701,6 +6931,8 @@ But why does she say “temple”?
 She is not ancient at all.
 
 There is nothing humanist or classical about her.[^fn-p04-pdf19-n02]
+
+---
 
 **30 January 1948**
 
@@ -6752,6 +6984,8 @@ No ruler has ever given up such an opportunity.
 
 This too belongs to the total phenomenon of legal “positivism” in the age of legality.
 
+---
+
 **31 January 1948**
 
 I take nothing into the grave.
@@ -6782,6 +7016,8 @@ Goethe’s heroic poem about old Blücher—
 
 “conscious and great”!
 
+---
+
 **1 February 1948**
 
 Measured by the standards that rule today, Kierkegaard was a dreadful reactionary and enemy of the people.
@@ -6793,6 +7029,8 @@ And that is without even mentioning D.[onoso] C.[ortés].
 My mistake was the good-naturedness of my attempts to adapt.
 
 My inability to believe that human beings could really be as stupid and vulgar as they are, and as they prove to me every day.[^fn-p04-pdf20-n02]
+
+---
 
 **2 February 1948**
 
@@ -6809,6 +7047,8 @@ Do you now understand the full enormity of my crime? It is one of those crimes t
 Augustin Cochin, *Sociétés de pensée*, p. 111: “The thesis of self-defense appears with democracy itself.”
 
 Always the same thing: utopia—the product of abstract thought—against reality.
+
+---
 
 **3 February 1948**
 
@@ -6836,6 +7076,8 @@ All those Germans in Paris from 1940 to 1944 were, after all, nothing but *convi
 
 Compare the Chief Forester of 1939.
 
+---
+
 **7 February 1948**
 
 Is there a parallel today with the “stillness” of 1938?[^fn-p05-pdf02-n01]
@@ -6860,6 +7102,8 @@ Uchronias?
 
 Why are uchronias—imaginary versions of history—more ridiculous than utopias?
 
+---
+
 **8 February 1948**
 
 Anxiety is the possibility of freedom. Whoever has learned how to be properly anxious has learned the highest thing of all. Reality is easier than possibility. We must not cheat the possibility that wants to teach us; we must not dishonestly reject the anxiety that wants to save us, and so on.
@@ -6875,6 +7119,8 @@ Where does the pain go when it has been “killed”? Martin Beheim-Schwarzbach 
 And where do the anxieties go when they are described away?
 
 I am becoming very interested in this Martin Beheim-Schwarzbach. He is more reflective, and less clouded, than Thomas Mann.
+
+---
 
 **9 February 1948**
 
@@ -6915,6 +7161,8 @@ And now, on top of everything else, “education for freedom.”
 Just look at these heroes of freedom of the Ilya Ehrenburg type.
 
 The brainwashers!
+
+---
 
 **10 February 1948**
 
@@ -7042,6 +7290,8 @@ I could afford many things, and I allowed myself many things.
 
 It sounds less deluded that way, and it does not entirely forget the cost.
 
+---
+
 **11 February 1948**
 
 My dislike of diaries and diary writers is too strong.
@@ -7061,6 +7311,8 @@ That is wonderful.
 And with the deepest historical justice he was therefore made a saint—or, to put it more cautiously, absolved of the unintended consequences of his *peccatum*.
 
 Vitoria will not be canonized, although he too is such a dialectical *atopos*.
+
+---
 
 **12 February 1948**
 
@@ -7093,6 +7345,8 @@ The great *clerc*.
 Bodin was one too.
 
 Hobbes, by contrast, was a solitary wolf.
+
+---
 
 **13 February 1948**
 
@@ -7156,6 +7410,8 @@ So would Léon Bloy.
 
 So would Drieu.
 
+---
+
 **14 February 1948**
 
 Listen to this:
@@ -7188,6 +7444,8 @@ An unexpected revival of Max Stirner—especially his chapter on the relationshi
 
 Stirner’s “I,” too, refuses to become an object of thought.
 
+---
+
 **15 February 1948**
 
 Carl Brinkmann considered it “unworthy of scholarship” not to mention my name in a bibliography.
@@ -7211,6 +7469,8 @@ Where does thirst go when it is quenched, and hunger when it is satisfied?
 (See 8 February 1948.)
 
 Where does the urge move to—the energy that was active in thirst and hunger?
+
+---
 
 **16 February 1948**
 
@@ -7251,6 +7511,8 @@ Pan disappears; the plan enters the scene!
 A beautiful example of the built-in oracular quality of the German language.
 
 All you have to do is cultivate this sort of thing and you become a famous author.
+
+---
 
 **17 February 1948**
 
@@ -7302,6 +7564,8 @@ The sign of the cross performed in a name other than that of Father, Son, and Sp
 
 Freud belongs within this same dethroning of the Father.
 
+---
+
 **18 February 1948**
 
 The unbearable verbal sophistries of poor Karl Max.
@@ -7317,6 +7581,8 @@ Is there actually anything solid at the core, or is all of this merely deception
 A core?
 
 Most of it is half-insane hairsplitting, interrupted here and there by individual grains of genuine existentialism.
+
+---
 
 **19 February 1948**
 
@@ -7386,6 +7652,8 @@ They will be unable to decide.
 
 And they will hang steel bells in their churches.
 
+---
+
 **20 February 1948**
 
 Stay with Hobbes and do not move on to Bacon, even if Bacon really did have a hand in Shakespeare’s finest plays.
@@ -7429,6 +7697,8 @@ He wants to be interesting as a writer.
 So instead of letting this fabulous material appear and work by itself, he arranges it.
 
 He illuminates it with fake problems like “Shakespeare or Bacon” in order to interest the educated reader, and in doing so only produces an even greater disappointment.[^fn-p05-pdf09-n01]
+
+---
 
 **21 February 1948**
 
@@ -7478,6 +7748,8 @@ G. Ferrero called American optimism one of the pillars of European civilization�
 
 Wicked optimism.
 
+---
+
 **22 February 1948**
 
 It is almost tangible: the “superman” imagined in the nineteenth century is the machine, the motorized apparatus.
@@ -7518,6 +7790,8 @@ And am I not supposed to become depressed when people come asking me for tips fo
 
 Perhaps it would be useful to reserve the word *Landnahme*—“land-appropriation”—for the occupation of land regarded as free for the taking, and to use “territorial transfer” for changes of territory within an already bounded legal order.[^fn-p05-pdf10-n01]
 
+---
+
 **23 February 1948**
 
 The key to the intellectual history lies with Rudolf Sohm—and with Below and Max Weber.
@@ -7533,6 +7807,8 @@ I possess every charter and exemption certificate that the World Spirit can issu
 Performances of Mendelssohn, reverence for Heine, admiration for Thomas Mann: three cult forms of subjugation.
 
 That would be a subject for Theodor Haecker, the great polemicist—for the old Theodor Haecker, meaning the young one.
+
+---
 
 **24 February 1948**
 
@@ -7551,6 +7827,8 @@ What he said about it then differs so radically from what he says about it today
 After all, discontinuity is ultimately a form of mental illness, however great the human capacity for transformation may be, and however wildly Bacchic and fantastic the festival of metamorphoses becomes.
 
 (The same *accidens*; compare 13 February 1948.)
+
+---
 
 **26 February 1948**
 
@@ -7606,6 +7884,8 @@ So what does he want?
 
 He wants control of the argument so that he can retain intellectual leadership.
 
+---
+
 **27 February 1948**
 
 To understand *Silete Theologi*—“Theologians, be silent”—one must know the great debate between Las Casas and Sepúlveda at Valladolid in 1550.
@@ -7635,6 +7915,8 @@ What heirs!
 What a probate court!
 
 More likely the Church will inherit them first.)
+
+---
 
 **28 February 1948**
 
@@ -7676,11 +7958,15 @@ And so intellectual leadership passed into the hands of the men of letters.
 
 For me, as a jurist of the *jus publicum Europaeum*, the European public-law order, Bodin and Hobbes provide a better vehicle and better companions than the polarity of Savigny and Hegel.
 
+---
+
 **1 March 1948**
 
 In party-political Germany, the festival of metamorphoses has for several decades been turning into a festival of false beards.
 
 Most people think they have undergone a metamorphosis when all they have done is remove a false beard.
+
+---
 
 **2 March 1948**
 
@@ -7737,6 +8023,8 @@ Gueydan:
 I am very proud of my discipline, the science of the *jus publicum Europaeum*, and I am looking for a young person in whom I can awaken the same pride.
 
 You have no reason to be ashamed of your discipline.”[^fn-p05-pdf13-n02]
+
+---
 
 **5 March 1948**
 
@@ -7838,6 +8126,8 @@ It is the Spanish counterpart to the French saying:
 
 At least he still says *juridicidad*, juridical-mindedness, rather than *legalidad*, legality.
 
+---
+
 **6 March 1948**
 
 Space is magic.
@@ -7851,6 +8141,8 @@ Time flows.
 Space stands or lies still.
 
 Movement abolishes space by turning it into an empty container for the movement taking place within it.
+
+---
 
 **7 March 1948**
 
@@ -7871,6 +8163,8 @@ My love for the old images of the Crucifixion.
 The wood of the Cross.
 
 Holy Week.
+
+---
 
 **8 March 1948**
 
@@ -7912,6 +8206,8 @@ Now listen carefully to this sentence from Martin Heidegger:
 
 (*Being and Time*, p. 322.)
 
+---
+
 **9 March 1948**
 
 The magnificently desperate power of abstraction in Thomas Hobbes.
@@ -7927,6 +8223,8 @@ J. Vialatoux is merely an apologist.
 He drives everyone else into the dead end of an either-or and then presents himself as the victor with “Love.”
 
 In that case, give me Hobbes.
+
+---
 
 **10 March 1948**
 
@@ -7980,6 +8278,8 @@ For them utopia is a vehicle for criticism of the age, irony, and so on.
 
 For the French utopians, it is bitterly serious and polemical.
 
+---
+
 **11 March 1948**
 
 Today suicide contains a renunciation of the grave.
@@ -7987,6 +8287,8 @@ Today suicide contains a renunciation of the grave.
 Or, to put it the other way around:
 
 it is a conclusion drawn from the realization that the grave has been taken from us, that we no longer have a grave.
+
+---
 
 **12 March 1948**
 
@@ -8038,6 +8340,8 @@ In a genuine utopia, only crematoria are permissible.
 
 Utopia hollows out heaven.
 
+---
+
 **13 March 1948**
 
 The great acts of placing and displacement now taking place in Prague.
@@ -8079,6 +8383,8 @@ Just as Joseph de Maistre’s parents told their child, while he was playing, in
 How do I grasp the depth of this moment?
 
 How long can I manage to remain at this depth?[^fn-p05-pdf17-n03]
+
+---
 
 **14 March 1948**
 
@@ -8132,6 +8438,8 @@ And the émigrés do not want to know us either.
 
 They merely want to prove that the positions they held twenty years ago were right and to collect their compensation.
 
+---
+
 **15 March 1948**
 
 The *tu quoque*—“you too”—reveals the murky kind of cleverness characteristic of people like Küster.
@@ -8156,6 +8464,8 @@ The *status naturae*.
 
 The state of nature.
 
+---
+
 **16 March 1948**
 
 Two beautiful confirming quotations come running toward me like messengers:
@@ -8178,6 +8488,8 @@ Wrote Veronica a postscript about my *Legality and Legitimacy*.
 
 Compare 2 March 1948.
 
+---
+
 **17 March 1948**
 
 Balzac:
@@ -8185,6 +8497,8 @@ Balzac:
 *The Art of Being a Victim.*
 
 Quoted by Günther Krauss.
+
+---
 
 **18 March 1948**
 
@@ -8216,6 +8530,8 @@ It does not simply mean “back.”
 
 But perhaps it originally connects with tendencies toward restoration.
 
+---
+
 **19 March 1948**
 
 Sociology from the standpoint of the dispossessed:
@@ -8237,6 +8553,8 @@ Sociology apparently is an “oppositional science.”
 The intellectual curiosity it presupposes is already highly suspicious.
 
 The victor feels no intellectual curiosity.
+
+---
 
 **21 March 1948**
 
@@ -8264,6 +8582,8 @@ Apart from that:
 
 an empty stomach has no ears.
 
+---
+
 **22 March 1948**
 
 The great Cisneros founded the University of Alcalá, opened in 1510, without a law faculty.
@@ -8286,9 +8606,13 @@ The three careers that led to wealth in Spain at the time:
 
 the Church, the sea, the royal household.
 
+---
+
 **25 March 1948**
 
 I am now more than Thomas Masaryk.
+
+---
 
 **27 March 1948**
 
@@ -8301,6 +8625,8 @@ Also, from Harnack, *History of Dogma*, 4th ed., I, p. 651 n.:
 Basil, in *Epistle 210 ad prim. Neocaes.*, explains a troubling passage in Gregory Thaumaturgus by saying that the remark was made not *δογματικῶς*, dogmatically, but *ἀγωνιστικῶς*, in the course of struggle or argument.
 
 And Jerome, *Ad Pammachium*, Epistle 48, chapter 13, proclaims the right to write *γυμναστικῶς*—gymnastically, as an intellectual exercise.
+
+---
 
 **30 March 1948**
 
@@ -8356,6 +8682,8 @@ Is there an image from physics that can describe this?
 
 Or must one suspect that the whole of your modern physics is itself only a precisely constructed, experimentally mounted reflection of sociological reality—the reality that today enters our existential consciousness through concepts such as “elite,” “innermost central power group,” and so on?
 
+---
+
 **1 April 1948**
 
 The deepest, deadliest, and most common of all sins:
@@ -8371,6 +8699,8 @@ At the same time, it is the most contemptible form of cowardly evasion and the m
 Keep kicking at the crimes of the defeated, armed with all the licenses granted by the current victor.
 
 The victor secures immunity for his own crimes by appointing himself judge over the crimes of the defeated.
+
+---
 
 **2 April 1948**
 
@@ -8413,6 +8743,8 @@ The introduction to Thucydides is in fact a *Historiographeia in nuce*—a theor
 (Remember my note on Tocqueville, and Hobbes’s introduction to his translation of Thucydides.)
 
 Hobbes, with his overpowering objectivity, belongs to that glorious chorus.
+
+---
 
 **3 April 1948**
 
@@ -8495,6 +8827,8 @@ So, with thanks, I confirm that I have received what you sent me. With every goo
 Yours,
 [C. S.][^fn-p06-pdf01-n01]
 
+---
+
 **4 April 1948**
 
 On 4 April 1948, while sunk in the most helpless depression, I was suddenly and comfortingly distracted by the discovery of an astonishing phrase. Goethe’s genius for language—which never stops astonishing me—had tossed it off casually, almost in passing, in a letter to Johann H. Meyer dated 6 June 1797.
@@ -8557,6 +8891,8 @@ But the *profiteurs de Léon Bloy*—the people who profited from Bloy—such as
 
 The baseness of that hatred makes both of them ripe for the curse of today’s *pèlerin de l’Absolu*—the pilgrim of the Absolute.[^fn-p06-pdf02-n03]
 
+---
+
 **6 April 1948**
 
 To H. Barion, referring to W. Grewe and the discussion of Nuremberg as a legal question:
@@ -8572,6 +8908,8 @@ That seems important to me.
 For the sake of the German name, and for every lawyer anywhere in the world who thinks scientifically. Also for the honour of the legal profession itself.
 
 Defamed, discriminated against, dismantled, contaminated, underprivileged on every side.[^fn-p06-pdf03-n01]
+
+---
 
 **7 April 1948**
 
@@ -8613,6 +8951,8 @@ Very good, Günther Krauss’s question:
 
 Defeated in the name of Christianity, we ask ourselves where this Christianity is actually to be found.
 
+---
+
 **8 April 1948**
 
 To Arnold Gehlen:
@@ -8634,6 +8974,8 @@ Modern lawyers have long since begun speaking instead of a *situation établie*�
 The heart of the problem lies in the relationship between legality and legitimacy.
 
 See my 1932 essay[^fn-p06-pdf03-n05] and the question above from 2 March 1948.
+
+---
 
 **9 April 1948**
 
@@ -8662,6 +9004,8 @@ Russian communism.
 He is the Spengler of the postwar age after the Second World War, just as Churchill became the Clemenceau of the Second World War.
 
 No *katechon*.[^fn-p06-pdf04-n02]
+
+---
 
 **10 April 1948**
 
@@ -8711,6 +9055,8 @@ Which today means:
 
 globally.
 
+---
+
 **11 April 1948**
 
 Ernst Jünger says, on the occasion of Arnold Toynbee being brought into the great American defence council, that philosophers of history are now more important than atomic physicists.
@@ -8757,6 +9103,8 @@ Isn’t it time he appeared?[^fn-p06-pdf05-n02]
 
 (Addition, 8 September 1951: after reading *Der Spiegel* on Erich [actually Richard] Sorge: oh God, oh God.)
 
+---
+
 **12 April 1948**
 
 Europe is a balance between land and sea, between oceanic and continental existence, with ports opening both onto the ocean and onto inland seas.
@@ -8776,6 +9124,8 @@ But the United States is not sea.
 The ship called England is not being towed behind a salvage tug.
 
 It now sits inside the force field of a remote-control system.
+
+---
 
 **13 April 1948**
 
@@ -8813,6 +9163,8 @@ Until now I thought this was because lawyers had narrowed the whole issue down i
 
 But the Nuremberg trials do not seem to possess the same power to electrify people.
 
+---
+
 **14 April 1948**
 
 Georges de Lagarde, *Recherches sur l’esprit politique de la Réforme* (1926):
@@ -8830,6 +9182,8 @@ Territorial.
 The totality of the temporal.
 
 Transfer this to the entire earth, and what results is not merely a wider but, through the dropping of the atomic bomb, also a deeper temporality, territoriality, and totality.
+
+---
 
 **15 April 1948**
 
@@ -8875,6 +9229,8 @@ The sculptor in wood and stone works by overcoming resistance and making use of 
 
 Phrases.)
 
+---
+
 **17 April 1948**
 
 Read Ernst Jünger’s *Strahlungen*, whose manuscript G. Nebel gave me yesterday in Wuppertal.
@@ -8906,6 +9262,8 @@ make a crown.
 Yes.
 
 And many thanks for the correct diagnosis!
+
+---
 
 **18 April 1948**
 
@@ -8971,6 +9329,8 @@ From the other they come from the irony of critics, parody, and Enlightenment mo
 
 And the two sides penetrate each other irresistibly.[^fn-p06-pdf08-n01]
 
+---
+
 **19 April 1948**
 
 Third:
@@ -9010,6 +9370,8 @@ The commercial and journalistic exploitation of something that has not yet been 
 Photocopies of palimpsests instead of genuine editions.
 
 (Like <…>.)
+
+---
 
 **20 April 1948**
 
@@ -9122,6 +9484,8 @@ That is Léon Bloy’s answer.
 
 And this answer, which is correct, could have arisen only among a nation of lawyers and in a language shaped by lawyers.
 
+---
+
 **21 April 1948**
 
 This posthumous second volume of Sohm’s *Church Law* is extraordinary.
@@ -9227,6 +9591,8 @@ Nor someone who supplied fig leaves.
 But neither was he someone who ripped the fig leaves away and then forced his way into what they had concealed.
 
 Again and again I am moved when I see the extraordinary conceptual power of this man, reaching into the centre from every direction.
+
+---
 
 **22 April 1948**
 
@@ -9355,6 +9721,8 @@ With sincere admiration and gratitude,
 Yours,
 C. S.
 
+---
+
 **23 April 1948**
 
 So now an ambitious former student of Thoma, who has meanwhile converted to Marxism and shows traces of an anti-Roman hostility, publishes a pamphlet against
@@ -9378,6 +9746,8 @@ Or is he simply the good-hearted soul who brings one small piece of wood for the
 O holy simplicity!
 
 Man is a Radbruch to man!
+
+---
 
 **24 April 1948**
 
@@ -9451,6 +9821,8 @@ To the extent that the first judgment loses the self-evident authority of the re
 
 (Dix called my memorandum from the summer of 1945 “a seminar exercise in international law.”)
 
+---
+
 **25 April 1948**
 
 The point at which the entire logic of objective power relations became choked together with the completely subjective opinions of an individual who happened to possess power.
@@ -9462,6 +9834,8 @@ world revolution in Germany.
 Hitler:
 
 attack on allied Russia.
+
+---
 
 **26 April 1948**
 
@@ -9498,6 +9872,8 @@ With *ratio status*: reason of state.
 All the qualities of the impartial third party—or, in Hegelian language, of objective reason—that were historically connected with the state during this period disappeared once the totality of the state could become an instrument of the totality of a party.
 
 And once that happened, the word also lost its logical capacity to serve as a genuine universal concept.
+
+---
 
 **27 April 1948**
 
@@ -9567,6 +9943,8 @@ The sufferings of captivity are, after all, the surest protection against Pepysi
 
 Jünger never spent a single day in captivity.[^fn-p06-pdf16-n02]
 
+---
+
 **28 April 1948**
 
 The fate of my little essay *The Concept of the Political* is already becoming part of the concept itself.
@@ -9607,6 +9985,8 @@ I put this at the end of a chapter from *The Nomos of the Earth*, on modern war 
 
 What did humanity need today when the modern means of annihilation appeared?
 
+---
+
 **30 April 1948**
 
 Found in E. Jünger’s *The Adventurous Heart* the motto:
@@ -9646,6 +10026,8 @@ That is why, for example, the passage about the two hunters on p. 23 is an impor
 West or East.
 
 The question of who, in the long run, will become the authentic successor of the German soldier of the East has not yet been answered.
+
+---
 
 **1 May 1948**
 
@@ -9825,6 +10207,8 @@ Further rule:
 
 29 June 1948.
 
+---
+
 **4 May 1948**
 
 New joy in my work so far on *The Nomos of the Earth*.
@@ -9850,6 +10234,8 @@ Let him.
 
 He will cut his paws on them.
 
+---
+
 **5 May 1948**
 
 Sent Ernst Jünger, for his “collection of last words,” the note containing Chopin’s last words:
@@ -9865,6 +10251,8 @@ Ask your wife about Chopin sometime.
 Musicians, after all, do not belong to your world.
 
 Then drew his attention, in connection with his plan for an “inversion of utopia,” to Samuel Butler’s *Erewhon*.
+
+---
 
 **6 May 1948**
 
@@ -9950,6 +10338,8 @@ Do they take strength away from me?
 
 Only to the extent that I spend time on them and think about them.
 
+---
+
 **7 May 1948**
 
 Theodor Haecker said in 1917 that the old medieval cathedrals must cry out for their own destruction when the aesthetic literary class covers them in the slobbering cultural and educational slime of this kind.
@@ -9968,6 +10358,8 @@ Spirit finds executors and people willing to carry things through who are themse
 
 Yet as accelerators against their own will, they end up accelerating things entirely different from those they themselves wanted to accelerate.
 
+---
+
 **8 May 1948**
 
 To a legal scholar:[^fn-p07-pdf01-n01] I have reread the good old Hall, *International Law*, in Higgins’s edition (8th ed., Oxford, 1924). He is old, and probably old-fashioned too, but that is exactly what makes him so instructive and so superior to positivists of the Strupp, Lauterpacht, etc. variety. His criticism of the doctrine that an occupying power exercises the sovereignty of the occupied country deserves very close attention: this would “enable to brand acts of resistance on the part of an invaded population with a stigma of criminality which is as useless as it is unjust.” Hall even has a separate chapter entitled “Postliminium.” The whole thing, in this 1924 edition, is a good example of how English jurists never experienced the break with the pre-positivist tradition that had such catastrophic consequences in Germany.[^fn-p07-pdf01-n02] I already noticed this years ago when reading Westlake.
@@ -9979,6 +10371,8 @@ Then there is the question of how to distinguish the theatre of war from occupie
 Then 21 April 1948 and 1 May 1948: Formosus, *Titulus*, Sallust.
 
 Belgium, which you have come to know, has become a peculiar centre from which the destruction of the classical law of war first began.[^fn-p07-pdf01-n04] Neutrality was originally devised to guarantee security, and <…> the atomic bomb stripped that security away. You will read something in the *Nomos* about the genuine and great scholar Ernest Nys. But also read note 39 in my *The Concept of the Discriminating War*; and remember Cardinal Mercier’s Christmas pastoral letter of 1914: the legitimate authority is and remains the government of the occupied state, not the occupying power. In itself that is correct. Here, however, it was meant in a discriminatory sense and had a discriminatory effect, with the result that even the remarkable, classically developed institution of *occupatio bellica*—military occupation—was destroyed by it.
+
+---
 
 **10 May 1948**
 
@@ -10007,6 +10401,8 @@ A prediction for a consistently Americanized world.
 The true German—that is, the productive German—is still more likely to be a Bakuninist than an Americanist.
 
 Do not let yourselves be deceived about that.
+
+---
 
 **15 May 1948**
 
@@ -10086,6 +10482,8 @@ Existentially understood, that is the death blow to utopia.
 
 The existentialists: the new Captains of Köpenick.
 
+---
+
 **16 May 1948**
 
 For the isolated individual struggling to maintain himself, and especially for the great “untimely” individuals—those who are precisely suited to the wrong time—the objective powers automatically become relative.
@@ -10111,6 +10509,8 @@ That is existentialism in its pure form.
 The moment it is taught from university chairs, of course, it becomes comic.
 
 Then comes a cramped, convulsive moment of mutual revenge: the empty individual takes revenge on the objective powers and uses them merely as instruments of power for his own empty ego; and the objective powers take revenge for this abuse on an individual who has become crazed by his own ego.
+
+---
 
 **17 May 1948**
 
@@ -10160,6 +10560,8 @@ That is where Heidegger remained.
 
 What a betrayal of Kierkegaard, of Bruno Bauer, and of the Christianity that was discovered—and rediscovered—in about 1840.
 
+---
+
 **18 May 1948**
 
 “Youth without Goethe” (Max Kommerell): for us, from about 1910 onward, that meant in concrete terms youth with Hölderlin.
@@ -10169,6 +10571,8 @@ It meant the transition from an optimistic, peace-seeking, neutralizing cult of 
 But it remained within the cult of genius and, in fact, deepened it to infinite depths.
 
 Norbert von Hellingrath is more important than Stefan George and Rilke.
+
+---
 
 **23 May 1948**
 
@@ -10250,6 +10654,8 @@ On Karl Schulte: he does not know what he is doing when, from the murky twilight
 
 I am not one of those moths that consider it good fortune to flutter around in the miserable light of such a licensed public sphere.
 
+---
+
 **24 May 1948**
 
 To Gerhard Hess in Heidelberg:
@@ -10280,6 +10686,8 @@ For when it comes to the logic, tactics, and practice of an emptied-out legality
 
 (How could Hess, that profiteer from penitence, know this?)[^fn-p07-pdf06-n04]
 
+---
+
 **26 May 1948**
 
 Read the following sentences aloud to anyone today, in 1948:
@@ -10304,6 +10712,8 @@ But it appeared in a journal edited by Franz Blei in 1913, *Der Lose Vogel*, pub
 
 And it refers to Cecil Rhodes.
 
+---
+
 **27 May 1948**
 
 Son of this consecration, you should tremble!
@@ -10312,6 +10722,8 @@ Listen and suffer!
 
 The water demon dies and Pan no longer smiles
 (*Christmas Triptych*).
+
+---
 
 **29 May 1948**
 
@@ -10324,6 +10736,8 @@ Now it is flowing into the utterly overwhelming rhythm of Theodor Däubler’s �
 I am certain that great things will become clear if Gerhard Nebel reads this *Dance of Death* aloud to us one day.
 
 (Mythology of the dwarf.)
+
+---
 
 **30 May 1948**
 
@@ -10352,6 +10766,8 @@ The simplest, deepest, and most beautiful words a father could speak in such a s
 How sad that reading many passages from these *Radiations* will have to be a great disappointment to Gueydan and cause him deep pain.
 
 What confusion in the so-called battle lines![^fn-p07-pdf08-n03]
+
+---
 
 **31 May 1948**
 
@@ -10387,6 +10803,8 @@ obedience to the measures of the occupation authorities.
 
 But then it ought to be self-evident that the population cannot simply disappear into a void in international law if the territory itself is not annexed.
 
+---
+
 **1 June 1948**
 
 The enemy is not something that is simply expelled or excreted.
@@ -10407,6 +10825,8 @@ The defeated man is thrown onto the dung heap—or, in modern terms, into the ru
 
 He is handed over to the knacker.
 
+---
+
 **2 June 1948**
 
 He wanted to force his way into the class that ruled the world and gain access to its secret.
@@ -10416,6 +10836,8 @@ He did not want to tear that secret away from them. He merely wanted to share in
 He wanted to be admitted to the exclusive club, finally to become a truly great gentleman, a lord.[^fn-p07-pdf09-n01]
 
 But that secret really did lie in the idea of race.
+
+---
 
 **3 June 1948**
 
@@ -10438,6 +10860,8 @@ And here lies the great problem:
 all power comes either from God or from the people.
 
 From the people—in the sense of an identity between power and powerlessness, in the sense that the command is made legitimate by obedience.
+
+---
 
 **4 June 1948**
 
@@ -10487,6 +10911,8 @@ The powerful man does not speak of power.
 
 He does not think about power.
 
+---
+
 **5 June 1948**
 
 The word is a sign from beyond.
@@ -10510,6 +10936,8 @@ Haecker, the outsider, triumphed.
 Even the weakling Maritain, and his hate-filled Raïssa.
 
 “Now you stand naked, naked as at birth, in desolate spaces.”
+
+---
 
 **6 June 1948**
 
@@ -10557,6 +10985,8 @@ The world will certainly serve you.
 
 *Avoir pour savoir*—to have in order to know.
 
+---
+
 **8 June 1948**
 
 Gueydan is magnificent:
@@ -10572,6 +11002,8 @@ Or:
 Attacks by the press are a certificate of honesty for their victims.
 
 The press sentences people to death and disgrace, and the state courts carry out the sentence.
+
+---
 
 **9 June 1948**
 
@@ -10604,6 +11036,8 @@ The will to power is the will to *potestas directa*—direct power.
 But what is the will to *potestas indirecta*, indirect power, mere influence?
 
 Is the will to indirect power somehow morally superior to the will to direct power?
+
+---
 
 **10 June 1948**
 
@@ -10675,6 +11109,8 @@ A new criminal offence:
 
 Anyone who destroys the human feeling of happiness in a heartless way attacks the foundations of the social order and shall be outlawed as an enemy of humanity.[^fn-p07-pdf12-n01]
 
+---
+
 **11 June 1948**
 
 Tried in vain to decipher Däubler’s two “brother” sonnets, addressed to R. Pannwitz and me.
@@ -10731,11 +11167,15 @@ He remains posthumous.
 
 His *maquis est une création posthume*—his Resistance is a posthumous creation—as Gueydan puts it so nicely in his *Thoughts of a Dean*.
 
+---
+
 **12 June 1948**
 
 Oppressive evening.
 
 [astrological signs for Jupiter]
+
+---
 
 **13 June 1948**
 
@@ -10779,6 +11219,8 @@ Nietzsche, then, was not merely a precursor of Hitlerism.
 
 He was also a precursor of Bolshevism.[^fn-p07-pdf13-n01]
 
+---
+
 **14 June 1948**
 
 Humanism:
@@ -10796,6 +11238,8 @@ Completely blind chance and the most exact, detailed planning are conceptual opp
 The moment we begin to think, we find ourselves caught between such opposites.
 
 But people then group themselves into friends and enemies by using these patterns of thought.
+
+---
 
 **15 June 1948**
 
@@ -10828,6 +11272,8 @@ For the moment, Nuremberg belongs instead to the subject “grace and politics.�
 And that is certainly a structural transformation of grace, something different from the kind of grace that can be related to law.
 
 Then legality and the concept of the political; see 28 April 1948.
+
+---
 
 **16 June 1948**
 
@@ -10889,6 +11335,8 @@ Even Hugo Ball.
 
 Only Konrad Weiß remained, and faithful friends such as Paul Adams.[^fn-p07-pdf15-n01]
 
+---
+
 **17 June 1948**
 
 On Güllich:
@@ -10927,6 +11375,8 @@ I find that touching.
 
 His fellow Holsteiner Ferdinand Tönnies, a Social Democrat of the old school, is of an entirely different calibre.
 
+---
+
 **18 June 1948**
 
 (To E. R. Huber:)
@@ -10945,6 +11395,8 @@ The posthumously published second volume of Rudolf Sohm’s *Church Law* is a tr
 
 (Then more in the spirit of 1 May 1948: I saved the honour.)
 
+---
+
 **19 June 1948**
 
 Hobbes is the first modern thinker in whom hatred of ideologues becomes visible.
@@ -10962,6 +11414,8 @@ That is not so very far from Kierkegaard.
 Kierkegaard would certainly have agreed with him enthusiastically.
 
 A preacher of repentance such as Jaspers, who has not even been beaten up, does not deserve our interest.
+
+---
 
 **20 June 1948**
 
@@ -11035,6 +11489,8 @@ The greatness of present-day Germany:
 
 it talks about former colleagues who were silenced.
 
+---
+
 **21 June 1948**
 
 An ugly stab when Gerhard Nebel wrote to me that he and Gebhard had tried in vain to discover the meaning of Konrad Weiß’s *Cumaean Sibyl*:
@@ -11051,6 +11507,8 @@ Iskar comes with friendly eyes.
 Enticingly he swings his rope.
 Follow me; I know the hole
 through which Thomas Hobbes once crawled.
+
+---
 
 **22 June 1948**
 
@@ -11090,6 +11548,8 @@ that is the first of all distinctions.
 
 Just as, for the Stoic, every virtue begins by distinguishing the sphere that lies within our power from the sphere that lies outside it.
 
+---
+
 **23 June 1948**
 
 The human body and soul are like a musical instrument on which invisible players, in some mysterious performance, produce music that is often pleasurable and often extremely painful to us, the instruments themselves.
@@ -11109,6 +11569,8 @@ The dialectical reverse test also works:
 poor in thought and rich in deeds.
 
 In that case, I still prefer Genoveva, rich in suffering.[^fn-p07-pdf17-n01]
+
+---
 
 **24 June 1948**
 
@@ -11205,6 +11667,8 @@ It remains within a frame.
 
 It grinds its teeth, but it does not call out for an echo from infinity.
 
+---
+
 **25 June 1948**
 
 But I will cultivate within myself the seed of freedom.
@@ -11215,6 +11679,8 @@ Isn’t that so, beggars of the air? We shall remain forever strong and poor.
 (II. 495)
 
 Isn’t that so, beggars of the air!
+
+---
 
 **26 June 1948**
 
@@ -11239,6 +11705,8 @@ Only now is our conversation of 1912 unfolding in all its fullness and becoming 
 *Jamjam hiscit flammeus!*
 
 Now the fiery one is opening his mouth!
+
+---
 
 **27 June 1948**
 
@@ -11267,6 +11735,8 @@ Yes:
 a return to private war.
 
 And now there he stands, with his honourable subjectivity, helpless between the objective powers, which tear him to pieces.
+
+---
 
 **28 June 1948**
 
@@ -11319,6 +11789,8 @@ Däubler, incidentally, was the first to make use of the magic in the word “sp
 But, however, and in spite of everything:
 
 I know the dear Germans already, etc.[^fn-p07-pdf19-n01]
+
+---
 
 **29 June 1948**
 
@@ -11444,6 +11916,8 @@ You compare my situation to Rossini being booed. That is not right. Today, the p
 
 My brother thinks *Captiva Captivitas* is far better and much more worth reading than Ernst Jünger’s *Strahlungen*, precisely because Jünger was never a prisoner. The *Pour le Mérite* has already found its new forms, and Kierkegaard said all of this clearly enough back in 1848.
 
+---
+
 **1 July 1948**
 
 Since 1936[^fn-p08-pdf01-n01] I have been through terrible things, and several times I have been swallowed by the Leviathan that was already the object of my scholarly observation and research—and which, because of these experiences, became even more so. Being hunted for years as the quarry has made me somewhat tired.[^fn-p08-pdf01-n02] But I am still able to tell right from wrong, which my persecutors apparently can no longer do. I am also still able to classify my hunter in conceptual terms.
@@ -11457,6 +11931,8 @@ Why do I feel such terrible pity for the little shopkeeper who waits in vain for
 Can this be a psychological accident, some lingering effect of the sad look I saw on the face of a small shopkeeper when I was a child? Or does it come from realizing that the merchant is now falling victim to the very risk he trusted in—from a deep sense that he is the victim of the supposed free market and its deceptions, that buying is better than selling, that money—until the next currency reform—is better than goods?
 
 All of this shows just how many insights, experiences, diagnoses, calculations, and predictions can be packed into feelings of this kind.
+
+---
 
 **2 July 1948**
 
@@ -11510,6 +11986,8 @@ So that, then, would be the enemy. Bruno Bauer comes close to it.
 
 “But it is not in our power to decide what enters our consciousness and what does not” (W. Schubart).
 
+---
+
 **3 July 1948**
 
 For all the people who write diaries:
@@ -11520,6 +11998,8 @@ Nothing fills up more easily
 Than a calendar.
 
 ([Goethe,] *Sayings in Rhyme, Tame Xenien IV*).
+
+---
 
 **4 July 1948**
 
@@ -11535,6 +12015,8 @@ Anyone who says “God” is trying to deceive. There is, after all, nothing tha
 
 Even the person who denies God wants to say something about God; he too wants to deceive.
 
+---
+
 **5 July 1948**
 
 Däubler is more language than word; Konrad Weiß is only word, hardly language at all.
@@ -11546,6 +12028,8 @@ Language is rhythm.
 Däubler is carried by rhythm, not held by tone.
 
 Rhythmic and harmonic chords.
+
+---
 
 **7 July 1948**
 
@@ -11611,6 +12095,8 @@ Listen and suffer!
 
 C. S.
 
+---
+
 **10 July 1948**
 
 The death of Georges Bernanos, on 5 July 1948. When he appeared in Geneva, I knew that this meant the end for him, and he was decent enough not to survive that end for very long.[^fn-p08-pdf04-n01]
@@ -11622,6 +12108,8 @@ Otherwise, the only protection is for the free individual to exploit the interna
 A magnificent field for the fearless dialectician and for partisans of the World Spirit such as Bruno Bauer, but not for eunuchs who need a licence.
 
 A wonderful theme: the point from which one makes the leap *εἰς ἄλλο γένος*—into another order altogether.[^fn-p08-pdf04-n02]
+
+---
 
 **14 July 1948**
 
@@ -11646,6 +12134,8 @@ Am I supposed to become this-worldly in my old age?
 I, who from childhood was an ultramontane, someone who looked beyond the Alps to Rome?
 
 Only now those mountains are no longer the Alps, but the Himalayas.
+
+---
 
 **16 July 1948**
 
@@ -11691,6 +12181,8 @@ The only men who would have had the strength to do it, Karl Binding and Max Webe
 
 Well, it is enough if I tell a few people today—for example, Forsthoff.
 
+---
+
 **19 July 1948**
 
 What exactly does *collaborateur* or *collaborationist* mean?
@@ -11729,6 +12221,8 @@ Every movement aimed at preventing or limiting power turns into an attempt to se
 
 There is no point in confronting political myths, and doing so is extremely dangerous.
 
+---
+
 **20 July 1948**
 
 Compare Henry Adams (*The Education of Henry Adams*, ch. IX, “Foes and Friends,” 1862):
@@ -11740,6 +12234,8 @@ The difference between Konrad Weiß and Theodor Däubler:
 Konrad Weiß: a tone holds him; he is Word.
 
 Theodor Däubler: a rhythm carries him; he is thought and speech and cosmic radiation.
+
+---
 
 **21 July 1948**
 
@@ -11762,6 +12258,8 @@ In naval warfare, by contrast, he **is** an enemy.
 And that means that even between two wars—in other words, during peace—he remains a potential enemy.
 
 The condition of peace between two land wars is therefore something fundamentally different from the condition of peace between two naval wars.
+
+---
 
 **22 July 1948**
 
@@ -11825,6 +12323,8 @@ If you hear someone call for “burden equalization” at a public meeting, then
 
 it is good business to be officially recognized as a victim.
 
+---
+
 **23 July 1948**
 
 I read in Rilke:
@@ -11859,6 +12359,8 @@ I did, however, encounter it years ago in the work of a Viennese lawyer who was 
 
 The phrase itself is legal in character.
 
+---
+
 **24 July 1948**
 
 In response to a disappointing letter congratulating me, the following verses began whirling around in the lower part of my brain:
@@ -11867,6 +12369,8 @@ Do not linger in the mass grave,
 Cast this mistake away from you.
 
 Deep insights often do their work through bad rhymes.
+
+---
 
 **25 July 1948**
 
@@ -11879,6 +12383,8 @@ Machiavelli never gave advice like the advice Bacon gives, for example, in his e
 *cum subtristes homines sunt, aut aliquantulum morosi, tempus est iram incendendi*—
 
 when people are somewhat sad or gloomy, that is the time to inflame their anger.
+
+---
 
 **26 July 1948**
 
@@ -11903,6 +12409,8 @@ What it really means is placing the intellectuals into particular political fron
 It means placing them in the front of the Left.
 
 It means granting the absolution of the World Spirit to every crime committed on the Left, while mobilizing the just war against the Right.
+
+---
 
 **27 July 1948**
 
@@ -11966,6 +12474,8 @@ The West has not even noticed the split between legality and legitimacy.
 
 The Anglo-Saxons and the Catholic Church <…> still do not make this distinction. <…>
 
+---
+
 **1 August 1948**
 
 Romanticism, according to the Schlegel brothers, is the Middle Ages.
@@ -12013,6 +12523,8 @@ Are we perhaps supposed to be angry at the distinguished tone of the *NZZ*, at W
 
 Are we even supposed to start talking about Phariseeism?
 
+---
+
 **2 August 1948**
 
 No!
@@ -12044,6 +12556,8 @@ There is no hidden Marxist motive behind this, or any other kind of hidden motiv
 No revolutionary purpose.
 
 No desire to change the world.
+
+---
 
 **3 August 1948**
 
@@ -12149,6 +12663,8 @@ Or to air?
 
 (Sound waves?)
 
+---
+
 **5 August 1948**
 
 In one of Alain’s *Propos* I found the following quotation:
@@ -12193,6 +12709,8 @@ Forces are powers that have not yet been located.
 
 Powers are forces that have been given a location.
 
+---
+
 **6 August 1948**
 
 Virgil, Horace—all of it *littérature dirigée*, directed literature; all of it *engagée*, committed literature.
@@ -12218,6 +12736,8 @@ basic concepts that are simply assumed—the concept of nature and the concept o
 a picture with a hundred different faces and a hundred wax noses.
 
 How could something like that **not** win universal approval?
+
+---
 
 **9 August 1948**
 
@@ -12257,6 +12777,8 @@ Oh, you poor men setting out to break new ground!
 
 It was not difficult for your enemy to brand you as criminals.[^fn-p08-pdf12-n04]
 
+---
+
 **10 August 1948**
 
 A bone-note rattles inside the dress.
@@ -12282,6 +12804,8 @@ How panic-stricken, plant-like, and passive is the feeling that leads someone ca
 It is heliotropic, geotropic, hydrotropic, aerotropic—and at the same time monarch-tropic, aristocracy-tropic, and power-tropic.
 
 A Pan-orama and a Pan-tropama in one.
+
+---
 
 **11 August 1948**
 
@@ -12355,6 +12879,8 @@ It can only be answered theologically.
 
 A dialectical theology of the most concrete kind arises when the destroyer claims that all he wants is to destroy the destroyer.
 
+---
+
 **13 August 1948**
 
 Something never seen before?
@@ -12375,6 +12901,8 @@ But no one must be allowed to catch up with us, or worse:
 
 repeat us.
 
+---
+
 **14 August 1948**
 
 My invulnerability does not come from having a hardened skin.
@@ -12390,6 +12918,8 @@ The persecutor who wants to arrest me can, at most, seize and comprehend my corp
 He can then test his hatred on it by burning it and giving the ashes back to the elements.
 
 “The ashes will not stop; they blow through every land.”
+
+---
 
 **15 August 1948**
 
@@ -12413,6 +12943,8 @@ The people who operate today’s machinery of legality are not even legislators.
 
 They are merely setters of laws—in the worst sense of that ugly expression.
 
+---
+
 **17 August 1948**
 
 *Freitod*: voluntary death.
@@ -12432,6 +12964,8 @@ Behind every neutralization stands an unavoidable decisionism.
 Behind every humanitarianism stands the claim:
 
 **I decide who counts as human.**
+
+---
 
 **18 August 1948**
 
@@ -12464,6 +12998,8 @@ Suppose we added:
 What would happen if we inserted that sentence into the constitution of a one-party state?
 
 With retroactive effect, naturally.[^fn-p08-pdf15-n01]
+
+---
 
 **20 August 1948**
 
@@ -12593,6 +13129,8 @@ Doing so only produces surprising increases in his value, until eventually the p
 
 (Then about Niebel, who came instead of Nebel.)
 
+---
+
 **23 August 1948**
 
 The law governing every great *Conquista* of a New World:
@@ -12622,6 +13160,8 @@ Industrialism belongs to the sea, no longer to the land.
 The unique, the fantastic, the utopian.
 
 Is the next step supposed to lead still higher into the utopian?
+
+---
 
 **25 August 1948**
 
@@ -12666,9 +13206,13 @@ They also steal flags and colours, songs and sacraments.
 
 In the end, they even steal the wreaths from the grave of the defeated enemy.
 
+---
+
 **31 August 1948**
 
 Often I am crushed by the loneliness of knowing about a *scelus infandum*—an unspeakable crime.[^fn-p08-pdf17-n01]
+
+---
 
 **1 September 1948**
 
@@ -12748,6 +13292,8 @@ The pacifists claim that the Earth has actually been living in a condition of pe
 
 The others,[^fn-p08-pdf18-n03] however, claim that Germany won the just war and therefore finds itself in the paradisiacal condition reflected in its constitutions.
 
+---
+
 **2 September 1948**
 
 *Versari in re illicita*: being involved in an unlawful matter.
@@ -12759,6 +13305,8 @@ The monster is even said to have abused small children.
 In his shop, investigators discover paintings by a certain Rembrandt.
 
 The responsible prosecuting authority therefore places Rembrandt on the blacklist and orders the immediate destruction of every work produced by this disgusting accomplice.
+
+---
 
 **4 September 1948**
 
@@ -12774,9 +13322,13 @@ The true constitutional principles of present-day Germany are:
 
    For anyone involved in an unlawful act, everything counts against him. For anyone defeated in a just war, everything counts against him. Whoever is defeated in a just war is treated as someone involved in an unlawful act—and everything counts against him.
 
+---
+
 **5 September 1948**
 
 I will lay *The Nomos of the Earth* on the grave of European international law, like a flowering branch grown from my own discrimination.[^fn-p09-pdf01-n01]
+
+---
 
 **8 September 1948**
 
@@ -12785,6 +13337,8 @@ I will lay *The Nomos of the Earth* on the grave of European international law, 
 “Citizens are less often unjustly condemned when one man rules than when the people rule.” Ibid.
 
 Those are sentences that speak directly to the heart of someone being persecuted today.
+
+---
 
 **14 September 1948**
 
@@ -12803,6 +13357,8 @@ Nobel’s dynamite and the Nobel Prize are simply two sides of the same reality,
 The competitive impulse Thomas Hobbes had in mind is harmless compared with the will to plan that drives the technological mind.
 
 Again and again, the Hobbesian uncertainty relation.
+
+---
 
 **16 September 1948**
 
@@ -12866,6 +13422,8 @@ There are still many New Worlds to discover.
 
 They simply no longer lie on the surface of the earth we know today.
 
+---
+
 **18 September 1948**
 
 There is something bad about combining *setting* and *giving* in the German compound *Gesetz-Geber*—law-giver.
@@ -12920,6 +13478,8 @@ Guide, helmsman, director, leader,
 What guardians! What fire-stokers!
 Charisma in any case.
 
+---
+
 **21 September 1948**
 
 It drives me deeper into the depression of powerlessness when, in my helplessness, I realize:
@@ -12943,6 +13503,8 @@ Sir Henry James Sumner Maine, *Ancient Law*, 1861, in the chapter “Law of Natu
 Quite right.
 
 But surely the priests are not the legal problem here.
+
+---
 
 **23 September 1948**
 
@@ -12969,6 +13531,8 @@ Poems such as “The Night Wanderer” or “Listener on a Blue Meadow” should
 They would have to be read together with the dozen other poems of the “Flaming Stream of Lava.”
 
 And from mere experiments, miraculous flowers would bloom.
+
+---
 
 **28 September 1948**
 
@@ -13024,6 +13588,8 @@ But law itself is only a fragment of human nature, and it therefore reaches only
 
 (*The Spirit of Christianity*, p. 288.)
 
+---
+
 **30 September 1948**
 
 There is historical proof—more than proof, in fact.
@@ -13052,6 +13618,8 @@ There was no third possibility.
 
 The moment man tries to rise above himself—and he has to, because *l’homme surpasse l’homme*, man surpasses man—this alternative appears and the abyss opens.
 
+---
+
 **3 October 1948**
 
 The lukewarm and neutralized become agitated about atheism and nihilism without noticing that one much admired and endlessly quoted remark by Jakob Burckhardt contains infinitely more atheism and nihilism than all of Bakunin’s writings.
@@ -13063,6 +13631,8 @@ Power is evil in itself.
 Who today understands that this sentence means the same thing as:
 
 God is dead.
+
+---
 
 **5 October 1948**
 
@@ -13080,6 +13650,8 @@ It is embarrassing:
 
 the excited polemic of a man who emigrated in good time and in complete comfort, who never spent a single day in prison and never lived through a bombing raid, and who now comes back to beat us Europeans over the head with his standards.
 
+---
+
 **6 October 1948**
 
 The old ghosts that cannot die are happy to forgive.
@@ -13096,15 +13668,21 @@ They want to go on living.
 
 They do not even want merely to survive.
 
+---
+
 **7 October 1948**
 
 This Karl Barth really has no more to do with the Christ of the reborn human being than any pope—or, for that matter, Pope Joan.
+
+---
 
 **8 October 1948**
 
 “If I had the misfortune to be German, I freely admit that at Munich, standing before Daladier and Chamberlain, the two Big Men of that time, I would have been tempted to think myself not merely a lord, but God.”
 
 So says Georges Bernanos in *La France contre les Robots*—robot = machine!!—1946, p. 173.
+
+---
 
 **10 October 1948**
 
@@ -13117,6 +13695,8 @@ How else could a cosmos ever arise?
 But to discern the spirits already means distinguishing friend from enemy.
 
 Anything else would be a joke.
+
+---
 
 **16 October 1948**
 
@@ -13235,6 +13815,8 @@ May every good spirit assist him in it.
 
 These victors are not even capable of establishing a clear spatial order for the earth.
 
+---
+
 **18 October 1948**
 
 At last, another new enemy.
@@ -13283,6 +13865,8 @@ Spirit serves as seasoning so that one can swallow the stinking flesh.
 
 The result is a myth of blood and excrement whose potential for killing is considerable.
 
+---
+
 **21 October 1948**
 
 “In the face of the field of ruins.”
@@ -13328,6 +13912,8 @@ We do not possess the image directly.
 We possess only writing.
 
 We can count ourselves lucky if we are at least the first to write something down ourselves—as with so-called customary law—instead of being forced to rewrite a law that has already been written.
+
+---
 
 **27 October 1948**
 
@@ -13385,6 +13971,8 @@ A fine dedication between Germans:
 To one involved in an unlawful situation.
 To those co-existing in an unlawful situation.
 
+---
+
 **5 November 1948**
 
 Today “natural law” is nothing more than the phosphorescent product of decay left behind after two thousand years of talking the subject to death.
@@ -13409,6 +13997,8 @@ The unrestricted veto places the great power above the peace order.
 
 It makes the great power the final authority on questions of peace and therefore also on the justice of war.
 
+---
+
 **7 November 1948**
 
 Anthropology since Pascal:
@@ -13432,6 +14022,8 @@ Existentialist imperative No. 1.[^fn-p09-pdf08-n01]
 2. European legal scholarship is in exile.
 
 3. We belong to the government-in-exile.
+
+---
 
 **11 November 1948**
 
@@ -13491,6 +14083,8 @@ The scientific word for this is:
 
 result.
 
+---
+
 **15 November 1948**
 
 From presence to presentation, and from there to representation.
@@ -13513,6 +14107,8 @@ Artificial virginity.
 
 Re-presentification.
 
+---
+
 **30 November 1948**
 
 This world unleashed.
@@ -13520,6 +14116,8 @@ This world unleashed.
 Machine:
 
 the unleashed activism of a world unleashed.
+
+---
 
 **2 December 1948**
 
@@ -13589,6 +14187,8 @@ That would be a completely meaningless and useless *protestatio factis et actis 
 
 We cannot reasonably attribute that to an educated Roman of the period.
 
+---
+
 **4 December 1948**
 
 How sad and hopeless.
@@ -13617,6 +14217,8 @@ Advent in the Lenne Mountains is overwhelming:
 
 the total presence of pure waiting and expectation.
 
+---
+
 **12 December 1948**
 
 Here is a Thomist or neo-Thomist in 1948 who fears the world will be “de-spiritualized” unless we remain Thomists.
@@ -13640,6 +14242,8 @@ The Yogi and the Commissar?
 No:
 
 the Martyr and the Grand Inquisitor!
+
+---
 
 **14 December 1948**
 
@@ -13687,6 +14291,8 @@ Today the great teacher of international law sits in Moscow.
 
 From there he directed the Nuremberg Trials.
 
+---
+
 **15 December 1948**
 
 Give your enemies no way to understand you.
@@ -13704,6 +14310,8 @@ They would stand exposed in their own true existence.
 That revelation is what terrifies them.
 
 That fear forces them to lie.
+
+---
 
 **16 December 1948**
 
@@ -13732,6 +14340,8 @@ My fellow member in the black-list card index!
 Hail, you who grow silent in the secret!
 
 We give them no way to understand us.[^fn-p09-pdf11-n01]
+
+---
 
 **18 December 1948**
 
@@ -13762,6 +14372,8 @@ Eternal process.
 Eternal unrest.
 
 Anyone who understands that no longer needs redemption.
+
+---
 
 **20 December 1948**
 
@@ -13812,6 +14424,8 @@ And still he must walk the path and bring the threat into clarity.
 
 And as a German one is then expected to listen to the banalities of a follower of Spengler such as Toynbee—or to the even murkier enthusiasm for Toynbee displayed by ambitious German schoolmasters and obedient subjects.
 
+---
+
 **22 December 1948**
 
 Reading Georg Lukács’s *The Young Hegel* presents me with a great task:
@@ -13838,6 +14452,8 @@ Hegel is a nihilist, not a positivist.
 
 Nothing is stronger than something.
 
+---
+
 **24 December 1948**
 
 The bootlickers of the West declare the bootlickers of the East to be barbarians and subhumans.
@@ -13853,6 +14469,8 @@ Caliban has a new master.
 And now, with complete freedom of speech and of the press, he is permitted to insult his murdered former master and every enemy of his present master.
 
 What progress.
+
+---
 
 **25 December 1948**
 
@@ -13895,6 +14513,8 @@ A well-meant piece of advice to people[^fn-p09-pdf13-n03] such as Kurt Hiller, H
 
 The spade of our enemies is our own question embodied.[^fn-p09-pdf13-n05]
 
+---
+
 **10 January 1949**
 
 The enemy gives us our laws (*Communist Manifesto*, 1847).
@@ -13916,6 +14536,8 @@ In his association.
 Not in the state against the party or the association.
 
 And where does the poor man find bread?[^fn-p09-pdf13-n06]
+
+---
 
 **14 January 1949**
 
@@ -13991,6 +14613,8 @@ Parity between radically opposing fronts.
 
 The just judge is torn apart by both sides.
 
+---
+
 **15 January 1949**
 
 The most thankless political role is that of guardian of a democratic constitution against undemocratic parties that use democratic methods.
@@ -14056,6 +14680,8 @@ Rites of de-ghettoization.
 Myth is the interpretation of the symbol.
 
 Where is the symbol here?
+
+---
 
 **17 January 1949**
 
@@ -14131,6 +14757,8 @@ The cunning of power?
 
 Hobbes meant what he said directly and honestly.
 
+---
+
 **19 January 1949**
 
 Again:
@@ -14140,6 +14768,8 @@ one must remain incomprehensible to one’s enemies.
 But when I understand them, do I turn myself into them?
 
 Or do I turn them into me?
+
+---
 
 **22 January 1949**
 
@@ -14158,6 +14788,8 @@ At most I would add:
 I have nothing left to lose except my corpse.
 
 And I would rather not leave that in the hands of my enemies.
+
+---
 
 **26 January 1949**
 
@@ -14182,6 +14814,8 @@ We are the invisible ones.
 If the Catholic Church becomes an asylum for us, it proves itself to be the Church:
 
 the dialectical synthesis of visibility and invisibility.
+
+---
 
 **27 January 1949**
 
@@ -14227,6 +14861,8 @@ Article 3: Freedom is inviolable.
 
 Its content is determined by the laws of liberation.
 
+---
+
 **29 January 1949**
 
 Schelsky’s second world:
@@ -14236,6 +14872,8 @@ a world created by human beings for human beings, made up not merely of tools bu
 Technology is the age of plastics.
 
 The most horrifying of all utopias.
+
+---
 
 **13 February 1949**
 
@@ -14275,6 +14913,8 @@ Adam and Eve had two sons:
 
 Cain and Abel.
 
+---
+
 **15 February 1949**
 
 I can renounce only what I actually possess.
@@ -14302,6 +14942,8 @@ Nothing enrages the lord of the world more than someone renouncing his world.
 He will try to exterminate you.
 
 On this point, he cannot be deceived.
+
+---
 
 **19 February 1949**
 
@@ -14348,6 +14990,8 @@ The greatest happiness of the greatest number.
 Anyone who interferes with this is an enemy of humanity and a criminal.
 
 The criminalization of the disturber.
+
+---
 
 **22 February 1949**
 
@@ -14414,6 +15058,8 @@ C. M. O. van Nispen tot Sevenaer (The Hague, 1946) confirms my fears.
 
 Barandon’s Hamburg radio lecture on the Bochum dismantling trials of February 1949, meanwhile, shows that even an old and cautious diplomat can become tactless through sheer excess of caution.
 
+---
+
 **24 February 1949**
 
 Until now, Germans have generally been able to distinguish only between I and non-I, not between friend and enemy.
@@ -14435,6 +15081,8 @@ This is not about epistemology or metaphysics.
 It is about concentrations of power within which one has to hold one’s ground.
 
 “One”—yes, **one**, you dreary pedant, with your cheap, smug, pseudo-philosophical criticism of the word *one*!
+
+---
 
 **25 February 1949**
 
@@ -14486,6 +15134,8 @@ Unfortunately, it is precisely honest and helpful people who underestimate the e
 
 It would be wrong of me to bring people who want to help me into contact with the existential hatred and will to destroy that drive those persecutors.[^fn-p09-pdf19-n03]
 
+---
+
 **27 February 1949**
 
 “That immediate giving of laws is therefore the tyrannical outrage that turns arbitrary will into law and ethical life into obedience to it—obedience to laws that are merely laws and not at the same time commandments.”
@@ -14501,6 +15151,8 @@ Everything “double-meaning” and double-faced.
 Hegel’s double face is the authentic German face.
 
 His double meaning is the German way of making sense.
+
+---
 
 **1 March 1949**
 
@@ -14543,6 +15195,8 @@ It had to be deposited in the asylum offered by the Dominicans.
 Not everyone has the right to offer me asylum.
 
 One genuine asylum today means more than many written constitutions.[^fn-p09-pdf20-n02]
+
+---
 
 **3 March 1949**
 
@@ -14616,6 +15270,8 @@ If we keep this level of readability, I think we have the right voice for the re
 
 What a flood of throwbacks to the past—this liberation of Germany through the psychoses of 1945!
 
+---
+
 **4 March 1949**
 
 Do not forget the striking parallel between foreign and domestic affairs throughout the whole development from 1919 to 1939.
@@ -14632,6 +15288,8 @@ It means many things. Among them, that figures like Hitler are genuine executors
 
 You moral people, filled with outrage: one day you will be taken at your word.
 
+---
+
 **6 March 1949**
 
 For the first time, establish jurisprudence as an independent intellectual authority, instead of what it has been until now: a function of political, social, or professional developments and interests.
@@ -14647,6 +15305,8 @@ The claim that justice itself can be cultivated as the profession and official d
 Perhaps one could imagine an order whose members were prepared to accept martyrdom for justice.
 
 But they would not be lawyers.
+
+---
 
 **7 March 1949**
 
@@ -14665,6 +15325,8 @@ At the very least, a meal at the Prytaneum—or a CARE package?
 Hobbes had already lived through the experiences and confirmations that Erasmus still had ahead of him.
 
 Erasmus knew nothing yet of St Bartholomew’s Day massacres, Gunpowder Plots, or *amity lines*.[^fn-p10-pdf01-n02]
+
+---
 
 **8 March 1949**
 
@@ -14698,6 +15360,8 @@ The hour is long.
 
 I want to be thought of, I who am entirely thought.
 
+---
+
 **10 March 1949**
 
 So far, the *Song of the Sixty-Year-Old*, both as a whole and in its details, has been understood only by people who have themselves physically been inside a prison cell.[^fn-p10-pdf02-n01]
@@ -14730,6 +15394,8 @@ The opposite danger is the transformation of conversation into a chain of causal
 
 Then all resonance and radiation stop.
 
+---
+
 **12 March 1949**
 
 I am the messenger in the chain,
@@ -14741,6 +15407,8 @@ a messenger am I in the chain.
 (The end of the Letter to the Ephesians, Eph. 6:20.)
 
 Therefore.
+
+---
 
 **13 March 1949**
 
@@ -14788,6 +15456,8 @@ Anyone who dances on this stage has already been judged, directed, and brought i
 
 Just like poor Bernanos on the UNESCO stage in Geneva—when he was not elected.
 
+---
+
 **14 March 1949**
 
 A Luxembourg newspaper (*Journal d’Esch*, 13 December 1948) calls the German judges who were being prosecuted in Luxembourg
@@ -14832,6 +15502,8 @@ For the first principle of a good father is also:
 
 **Know the situation!**
 
+---
+
 **15 March 1949**
 
 Being incorruptible is not much;
@@ -14847,6 +15519,8 @@ a sociologist’s son,[^fn-p10-pdf03-n01] a schoolmaster’s son, and a former s
 
 Sad.
 
+---
+
 **16 March 1949**
 
 The anti-fascist concept of the “victim”:
@@ -14856,6 +15530,8 @@ not so much a substitute for religion, or a substitute religion, but rather a su
 A moral foundation for receiving privileges while standing in line and when jobs are being handed out.
 
 A moral justification for elbowing better-qualified competitors out of the way under a manipulated system of legality.
+
+---
 
 **18 March 1949**
 
@@ -14873,6 +15549,8 @@ Socrates, Julius Caesar, and Jesus Christ.
 
 But the greatness and moral superiority of the Romans can be seen in the fact that they did **not** kill their man through a judicial procedure.
 
+---
+
 **22 March 1949**
 
 *The trend from unanimity to majority* (Guggenheim, *International Law*, p. 222).
@@ -14887,6 +15565,8 @@ What we are experiencing today is precisely the next step:
 
 *from (manipulated) majority to unanimity.*
 
+---
+
 **25 March 1949**
 
 Prohibition of alcohol as a form of hostility toward the Catholic sacrament of the altar.
@@ -14895,11 +15575,15 @@ Wine is neutralized into “alcohol.”
 
 The wine drinker is turned into a criminal.
 
+---
+
 **26 March 1949**
 
 What is a prohibitionist?
 
 A person who is no longer European and who, because he feels that **he himself** no longer has the right to drink wine, wants to forbid everyone else from drinking it too, in order to destroy what is sacred.
+
+---
 
 **31 March 1949**
 
@@ -14910,6 +15594,8 @@ the injustice of Versailles intensifies into the injustice of Hitler, and that i
 The law governing these ever-escalating chain reactions.
 
 Judicial procedure as the final peak.
+
+---
 
 **3 April 1949**
 
@@ -14922,6 +15608,8 @@ You will be surprised.
 Then suddenly this world will become the Wholly Other in relation to the world beyond.
 
 Then you and I will speak privately, face to face, and put your “Wholly Other” to the test—that Wholly Other which you imagine you have taken out an exclusive lease on against everyone else.
+
+---
 
 **4 April 1949**
 
@@ -14971,6 +15659,8 @@ That is what matters.
 
 It does not matter whether this acquittal means condemning those who invented the new crime.
 
+---
+
 **10 April 1949**
 
 Truly, they sit upon their justice as though sitting upon plunder.
@@ -15017,6 +15707,8 @@ So he is better left as a sacred cat among the idolaters.
 
 At least there he has an effect instead of growing mold in an atmosphere of scheming boredom.
 
+---
+
 **12 April 1949**
 
 In Germany, spirit acts with the greatest strength and immediacy.
@@ -15036,6 +15728,8 @@ The monastic orders are guards whom we station at their posts.
 We must not make them drink with us when we hold our great feasts of culture and education.
 
 Pleasure lies in the eyes, not in the belly.
+
+---
 
 **13 April 1949**
 
@@ -15061,6 +15755,8 @@ It is not even about denazification.
 
 It is about clearing profitable jobs for new occupants and giving legal cover to the dirtiest forms of unfair competition.[^fn-p10-pdf06-n01]
 
+---
+
 **14 April 1949**
 
 Current pseudonym:
@@ -15075,11 +15771,15 @@ secretly, for fear of the Jews.
 
 John 19:38.
 
+---
+
 **15 April 1949**
 
 I place the whole of exact natural science under suspicion of ideology.
 
 For me there is no grosser form of self-deception than the theory of atoms—atomic nuclei, protons, neutrons, and so on.
+
+---
 
 **16 April 1949, Easter Sunday**
 
@@ -15107,6 +15807,8 @@ It can also become a stimulant to injustice.
 
 But the Crucified leaves me to myself.
 
+---
+
 **20 April 1949**
 
 Good Gerhard Nebel.
@@ -15124,6 +15826,8 @@ the economic interpretation of history, psychoanalysis, sociological unmasking, 
 all of them really are “means for the complete apprehension of alien realities.”
 
 That is Pascual Jordan’s phrase for the abstractness of relativity theory.
+
+---
 
 **22 April 1949**
 
@@ -15155,6 +15859,8 @@ A thousand questions and answers meet there, introduce themselves to the reader,
 
 That is how I imagine a lecture by Descartes before Queen Christina.
 
+---
+
 **23 April 1949**
 
 Do not imagine that these humbly grinning intriguers will help you when the killers of Christ persecute you—this time in Christ’s own name, presenting themselves as victims of Christian persecution so that they can collect compensation claims worth three hundred percent.[^fn-p10-pdf07-n03]
@@ -15178,6 +15884,8 @@ It survives only in Konrad Weiss’s *Cumaean Sibyl*, in the poem “Fulfilment.
 Yes—
 
 where does the weak man get bread?
+
+---
 
 **24 April 1949**
 
@@ -15246,6 +15954,8 @@ these are Heidegger’s essential words.
 That is where he is genuine:
 
 a lump of gold in the garbage bin of polemics and a lump of philosophical butter in the German language’s word-milking shed.
+
+---
 
 **25 April 1949**
 
@@ -15478,6 +16188,8 @@ He destroys the entire house—
 
 and himself with it.
 
+---
+
 **26 April 1949**
 
 Language is the house of Being.
@@ -15546,6 +16258,8 @@ And §247:
 
 the maritime basis of industrialism and civil society.
 
+---
+
 **27 April 1949**
 
 Not only:
@@ -15565,6 +16279,8 @@ And not even only that, but:
 *taedio futuro taediatus*—
 
 already bored by future boredom.
+
+---
 
 **29 April 1949**
 
@@ -15623,6 +16339,8 @@ And Ch.[urchill] appears as the Clemenceau of the Second World War.
 So that this euthanasia will not be disturbed, Germany is supposed to perish in the most horrific dysthanasia—
 
 a terrible, prolonged death.
+
+---
 
 **1 May 1949**
 
@@ -15759,6 +16477,8 @@ a Walloon.
 
 These are materials that form an indispensable precondition for every future attempt to interpret the phenomenon of the years 1933–45.
 
+---
+
 **2 May 1949**
 
 The pure dialectic of this German purity.
@@ -15772,6 +16492,8 @@ The person who acts, simply because he acts, is already guilty and impure in som
 If he becomes nothing but action, pure action, then the purer he becomes as a man of action, the more impure he becomes.
 
 So, in the Goethe year of 1949, we discover Schiller.
+
+---
 
 **5 May 1949**
 
@@ -15792,6 +16514,8 @@ The true victims in Germany include, for example, the Party members with members
 They are victims both of the Nazis and of the persecutors of Nazis.
 
 It is at their expense that the others are elevated into the status of victims and granted privileges.
+
+---
 
 **7 May 1949**
 
@@ -15821,6 +16545,8 @@ It exists only in that almost impossible-to-grasp instant when the old discrimin
 
 The fairy-tale interval in which neither the Nazis persecute the Jews nor the Jews persecute the Nazis.
 
+---
+
 **9 May 1949**
 
 Again, Schiller finds the exact formulation.
@@ -15842,6 +16568,8 @@ What is crime?
 That which calls up against itself a force of validity greater than the strength of the person who acts.
 
 So Kommerell, p. 16.
+
+---
 
 **10 May 1949**
 
@@ -15873,6 +16601,8 @@ To speak of you with a *vent furibond de la concupiscence*—a furious wind of d
 
 All you can still do is shout “unconditional surrender” at the poor Germans while Roosevelt and Stalin blow into your old flag and puff it up.
 
+---
+
 **11 May 1949**
 
 I am still shattered by Sussmann’s requiem for Däubler—
@@ -15884,6 +16614,8 @@ prepared by Jakob Hegner.[^fn-p10-pdf14-n01]
 The noble knight of the sorrowful figure of the imperialist Worker, with the *Pour le Mérite* and a claim on the Nobel Peace Prize.
 
 *Ecco* 1949.
+
+---
 
 **15 May 1949**
 
@@ -15927,6 +16659,8 @@ abyss,
 
 boredom.
 
+---
+
 **17 May 1949**
 
 Max Weber still coined his highly scientific sociological concepts in foreign-language forms:
@@ -15965,6 +16699,8 @@ Then meditate on the picture.
 
 Meditate on it for several years.
 
+---
+
 **18 May 1949**
 
 A remarkable shift:
@@ -15991,6 +16727,8 @@ We possess *potestas indirecta*—indirect power.
 
 Or perhaps there is a superiority that rises even above this shame?!
 
+---
+
 **20 May 1949**
 
 Level 1:
@@ -16008,6 +16746,8 @@ There are people who receive compensation because they were given a prize not by
 Miracle of the Deutsche Mark:
 
 Thomas Mann appears in Germany again!
+
+---
 
 **21 May 1949**
 
@@ -16043,6 +16783,8 @@ Max Kommerell puts it exactly:
 > and did not know how to keep it.
 
 Kommerell as the most important heir to the spirit of Schiller and to Schiller’s greatness, hidden beneath bourgeois myths.
+
+---
 
 **23 May 1949**
 
@@ -16142,6 +16884,8 @@ Goethe’s pure lyricism is wonderful.
 
 But how sad and depressing it becomes when a lyric poet takes himself onto the public stage, externalizes what is effortlessly present into dialectical-dialogical representation, and tries to make us take a dramatic interest in the prima-donna problems of a Tasso-like existence.
 
+---
+
 **26 May 1949**
 
 From 1933 to 1936 I felt so infinitely superior to those <…> poor thieves who were seizing power that even then my personal problem became identical with the general ontological question of the relation between spirit and mass, idea and interest.
@@ -16208,6 +16952,8 @@ But the lady leaves the stage with a decisive:
 
 And she does not return.
 
+---
+
 **31 May 1949**
 
 The depth of the phrase:
@@ -16270,6 +17016,8 @@ Above all, there is the classic passage on p. 343:
 
 That passage belongs at the beginning of every study of the individual’s direct standing under international law.
 
+---
+
 **17 June 1949**
 
 The twin brotherhood of pacifism and Malthusianism; the united front of abortionists, advocates of cremation, and pacifists; the bodily sensibility of the women of the Anglo-Saxon elite.
@@ -16287,6 +17035,8 @@ The earth is smaller than the Tower of Babel, and within this cramped space the 
 America + Russia; colonial war + civil war.
 
 That is the reality behind the return of the just war.
+
+---
 
 **18 June 1949**
 
@@ -16319,6 +17069,8 @@ And what does the return of the just war, brought about by America and Russia, m
 
 It means turning war between states back into colonial war and civil war.
 
+---
+
 **23 June 1949**
 
 Only hopes that are free of intention can attract what is hoped for.
@@ -16334,6 +17086,8 @@ Today, after the introduction of the just war, it no longer means that.
 So it means nothing at all.
 
 The Mexicans are right with their Estrada Doctrine and with Article 9 of the Bogotá Charter of May 1948!
+
+---
 
 **25 June 1949**
 
@@ -16357,6 +17111,8 @@ Every German word produces a shifting echo.
 
 It lacks an image, searches for an image, and wavers between images.
 
+---
+
 **27 June 1949**
 
 Kleist sought the sensual pleasure of the grave, the bed of the Empress.
@@ -16368,6 +17124,8 @@ Nor was protest against the political situation the decisive thing. His act was 
 After the ending of *Penthesilea*, it was really only consistent.
 
 The deed itself was simply the ripe fruit growing from the tree of a feeling that knew with complete certainty.
+
+---
 
 **28 June 1949**
 
@@ -16386,6 +17144,8 @@ At last, the genius falls out of character and receives the well-deserved classi
 Indeed we do not.
 
 A beautiful subject for the Goethe Year, with E. R. Curtius as the custodian of high culture, defending the humanist cult-image of Goethe with all the zeal of a churchwarden and all the quotation-covered pedantry of a schoolmaster.
+
+---
 
 **30 June 1949**
 
@@ -16415,6 +17175,8 @@ So says Baader, whom that fraud Lüth dares to invoke against me.
 
 Baader, of course, got it from Jakob Böhme.
 
+---
+
 **2 July 1949**
 
 The bodily and spiritual sensibility of the Gnostic:
@@ -16440,6 +17202,8 @@ calories and cinemas.
 *Panem et circenses*—bread and circuses—would still be too substantial for this *massa perditionis*, this mass of perdition.
 
 What they need is carrion-fun.
+
+---
 
 **3 July 1949**
 
@@ -16476,6 +17240,8 @@ That could have been written by Balzac.
 It has great charm.
 
 But for how much longer?
+
+---
 
 **4 July 1949**
 
@@ -16549,6 +17315,8 @@ And then they call this tragedy!
 
 Sohm’s thesis does not apply only to canon law.
 
+---
+
 **7 July 1949**
 
 Jesus Christ in America.
@@ -16566,6 +17334,8 @@ But when they heard this, they shouted:
 And they stoned the woman and tried to hit the Lord as well.
 
 But he passed through the middle of them and went away.
+
+---
 
 **8 July 1949**
 
@@ -16682,6 +17452,8 @@ Across this planetary globe.
 
 “A great people in upheaval does nothing but carry out executions” (Rivarol).
 
+---
+
 **9 July 1949**
 
 The Movement was a mixing bowl.
@@ -16731,6 +17503,8 @@ Rossini could still find lodging with Rothschild.
 
 Wagner could no longer do so.
 
+---
+
 **11 July 1949**
 
 We have known it for a long time:
@@ -16752,6 +17526,8 @@ People are even prepared to forgive me.
 I am granted an amnesty.
 
 But if I also say the sentences that follow, the ones about mankind and humanity, then I am thrown into prison in the name of mankind and humanity.
+
+---
 
 **12 July 1949**
 
@@ -16791,6 +17567,8 @@ They are no more likely to lose their pensions today than they were in 1933.
 
 So onward into battle for freedom of speech and human rights.
 
+---
+
 **13 July 1949**
 
 This is really not a *trahison des clercs*.
@@ -16808,6 +17586,8 @@ He is responsible for unconditional surrender.
 That is the betrayal of the old whisky drinkers.
 
 We poor continental Europeans will hardly ever manage to surpass that betrayal.
+
+---
 
 **14 July 1949**
 
@@ -16829,6 +17609,8 @@ These are the *horkia*, the sworn agreements and covenants at the end of the *Od
 
 The parties swear to end the feud.
 
+---
+
 **15 July 1949**
 
 There they go, walking around talking about Europe, in France and in Germany.
@@ -16848,6 +17630,8 @@ In Germany, the disciples of George, the disciples of Rilke, even the Wiechert f
 Proud that they are not among those being accused, only among those doing the accusing.
 
 Shame.
+
+---
 
 **17 July 1949**
 
@@ -16938,6 +17722,8 @@ Only to time.
 
 Time will tell.
 
+---
+
 **19 July 1949**
 
 Title:
@@ -16972,6 +17758,8 @@ A persecution psychosis has been legalized and institutionalized for more than f
 
 That is why it has now become almost impossible to overcome.
 
+---
+
 **20 July 1949**
 
 Reading the Bonn Basic Law fills me with the cheerful amusement of an old man who has seen everything.
@@ -16981,6 +17769,8 @@ I am almost frightened by the force with which Werner Weber attacks the work.
 *Bella gerant alii.*
 
 Let others wage the wars.
+
+---
 
 **22 July 1949**
 
@@ -17005,6 +17795,8 @@ How tactful.
 But of course the slaughtering is silently understood.
 
 And it would be inhuman—indeed bestial—to say the word “slaughter” aloud.
+
+---
 
 **23 July 1949**
 
@@ -17073,6 +17865,8 @@ Then he looked at Ernst Jünger’s handwriting and said:
 
 this man has a strong weakness for the fair sex.
 
+---
+
 **26 July 1949**
 
 A time will come when people discuss the following question:
@@ -17106,6 +17900,8 @@ You used it to set me up as a target in your shooting gallery.
 Now the anti-shooting-gallery has arrived and proudly announces that it has found a shooting-gallery target in me.
 
 The cycle of the antiphon.
+
+---
 
 **28 July 1949**
 
@@ -17142,6 +17938,8 @@ What lesson in order are we supposed to read in the heavens of modern astrophysi
 It is no longer much of a lesson in order.
 
 It looks more like a manifesto of chaotic explosiveness.
+
+---
 
 **4 August 1949**
 
@@ -17187,6 +17985,8 @@ The cry for the just war is probably one of these upsurges.
 
 (More on the situation: 13 August 1949.)
 
+---
+
 **6 August 1949**
 
 How eerily the definition of religion given by Reinach, Durkheim, and other emancipated Jews applies to themselves and turns back upon the very people who gave it.
@@ -17211,6 +18011,8 @@ the land without normality, and therefore full of norms and normativity.
 
 This is where its kinship lies with the Jews of the transitional age.[^fn-p11-pdf14-n02]
 
+---
+
 **12 August 1949**
 
 The *justus hostis*, the lawful enemy, from the sixteenth to the nineteenth century:
@@ -17226,6 +18028,8 @@ re-demonization, existentialism, fear.
 The Leviathan threatens to devour us.
 
 The evil enemy.
+
+---
 
 **13 August 1949**
 
@@ -17258,6 +18062,8 @@ That assumes that what is to be filled has already been prepared and divided int
 
 It assumes the typing and standardization of the people whose leisure is being managed.[^fn-p11-pdf14-n04]
 
+---
+
 **14 August 1949**
 
 The German *tu quoque* is a touching appeal.[^fn-p11-pdf14-n05]
@@ -17283,6 +18089,8 @@ touching.[^fn-p11-pdf15-n01]
 “Let the one among you who is without sin cast the first stone!”
 
 (Compare 7 July 1949.)
+
+---
 
 **17 August 1949**
 
@@ -17350,6 +18158,8 @@ Herr Roosevelt-Morgenthau-Löwenstein-Ebenstein.
 
 I am disgusted by a world made by human beings for human beings.
 
+---
+
 **20 August 1949**
 
 “Science will overcome death.”
@@ -17408,6 +18218,8 @@ Inconspicuous.
 
 The shepherd of Being is inconspicuous.
 
+---
+
 **21 August 1949**
 
 Genocide, the murder of peoples:
@@ -17423,6 +18235,8 @@ Automatic <Arrest>.
 They drive these people to suicide.
 
 But against me they are committing the most shameless ideocide.
+
+---
 
 **22 August 1949**
 
@@ -17548,6 +18362,8 @@ Jünger is a *Privatier*, a private gentleman of independent means.
 
 Unfortunately, he never became a *privateer*.
 
+---
+
 **23 August 1949**
 
 *Nos actes nous suivent, nos théories nous suivent, nos paroles nous suivent.*
@@ -17644,6 +18460,8 @@ It produces no *Pax*.
 
 It produces only the abolition of war between states and its transformation into global civil war.[^fn-p11-pdf18-n01]
 
+---
+
 **26 August 1949**
 
 One good side effect of the excommunication of Communism in July 1949:
@@ -17662,6 +18480,8 @@ The united front of the abortionists is ready to strangle me!
 
 What do you call verses with seven stresses?
 
+---
+
 **27 August 1949**
 
 A horrifying aspect of eternal recurrence:
@@ -17678,6 +18498,8 @@ Here is a truly great one:
 
 European rationalism is immunity to the intoxicating drugs of the enemy.
 
+---
+
 **28 August 1949**
 
 From this point of view, we can measure the *infandum scelus*, the unspeakable crime contained in these two sentences:
@@ -17688,6 +18510,8 @@ From this point of view, we can measure the *infandum scelus*, the unspeakable c
 Both sentences come from the period before 1848.
 
 Their echo took almost a century to arrive.
+
+---
 
 **1 September 1949**
 
@@ -17719,6 +18543,8 @@ He probably did not know it himself.
 
 At that time, after all, he was still wearing the German Hitler uniform.
 
+---
+
 **4 September 1949**
 
 Do you think you can impress me with the “starry heavens above me”?
@@ -17732,6 +18558,8 @@ A pinch of consciousness!
 Bless you!
 
 Besides, modern astrophysics has turned your entire starry heaven into an explosive mixture of hydrogen and helium.[^fn-p11-pdf19-n02]
+
+---
 
 **16 September 1949**
 
@@ -17748,6 +18576,8 @@ He lives from merit, from the *opus operatum*, the accomplished work.
 My own *opus operatum* has been lost to me as a possession.
 
 It has fermented into time itself.
+
+---
 
 **<19> September 1949**
 
@@ -17772,6 +18602,8 @@ the resurrection of the flesh.
 Of these three mysteries, only the second contains the beginning of history:
 
 through the Virgin’s consent to the will of the Lord.
+
+---
 
 **21 September 1949**
 
@@ -17831,6 +18663,8 @@ He becomes God and animal at once.
 
 And then the enemy simply has to be treated as an animal, because he cannot be turned into a god.
 
+---
+
 **23 September 1949**
 
 Mass action against an enemy can work only with crude and deadly labels.
@@ -17882,6 +18716,8 @@ Do not do to another what you would not want done to you.
 These criminalizers always forget that.
 
 We should not forget it.[^fn-p11-pdf20-n01]
+
+---
 
 **24 September 1949**
 
@@ -17957,6 +18793,8 @@ Instead, Jellinek speaks of law as a “minimum.”
 
 An ethical minimum, even.
 
+---
+
 **25 September 1949**
 
 Our task now is to make sure that jurisprudence does not die the same death as the myth of the *Legislateur*, the great lawgiver.[^fn-p11-pdf21-n01]
@@ -17982,6 +18820,8 @@ If the ruler strikes you on the left cheek, offer him the right one as well.
 But that does not mean you also have to lick his boots.
 
 Not even under the presumption that his acts are lawful, and not even under the doctrine of *obéissance préalable*, prior obedience.
+
+---
 
 **26 September 1949**
 
@@ -18024,6 +18864,8 @@ I refused to let myself be appropriated.
 And the people who are convinced that they are right, because they failed to bring me under their control, call that:
 
 lack of character.[^fn-p11-pdf22-n02]
+
+---
 
 **1 October 1949**
 
@@ -18123,6 +18965,8 @@ Not *humanitas*, but *humilitas*.
 
 Not humanity, but humility.
 
+---
+
 **2 October 1949**
 
 *Regnare enim dicitur non qui agendo, sed qui loquendo, id est praeceptis et minis regit.*
@@ -18150,6 +18994,8 @@ A law is general.
 That means:
 
 indirect.
+
+---
 
 **5 October 1949**
 
@@ -18211,9 +19057,13 @@ The passage quoted above can be found on p. 303 of that translation.
 
 Haecker also added an afterword in which he predicted that the Christian churches would have no difficulty joining themselves to democracy as well.
 
+---
+
 **6 October 1949**
 
 In this whole vast dispute over the justice and injustice of the Nuremberg trials, I can afford to wait and let the eager public speakers of the day exhaust themselves. I am old and ill. But I possess the bow of Philoctetes.[^fn-p12-pdf01-n01]
+
+---
 
 **9 October 1949**
 
@@ -18226,6 +19076,8 @@ Shepherd boy, shepherd boy,
 one day they will sing to you there too.
 
 *Christ und Welt* has printed a nice little piece of mine, with an advertisement for Nivea cream inserted into it. That is as it should be. Under the tsars, Russian nihilists wrapped their bombs in bouquets of flowers. Why should I not surround my equivalent concerns with Nivea advertising? Or, the other way around, appear merely as the frame around an advertisement for Nivea cream, so as not to provoke my persecutors?
+
+---
 
 **10 October 1949**
 
@@ -18243,6 +19095,8 @@ the Spinozist God, or Spinozist Nature.
 Ah, what a <paniera>!
 <…>[^fn-p12-pdf01-n02]
 
+---
+
 **11 October 1949**
 
 The more man busies himself making plans,
@@ -18251,6 +19105,8 @@ And God’s plan, when it finally appears,
 reduces friend and enemy alike *ad absurdum*.
 
 The word *Anschluss* already belonged to the vocabulary of mechanized politics. It neutralizes every legal idea and is no better than the word *Gleichschaltung*—“bringing into line.” Is “Christinform” really much worse than Christian socialism?
+
+---
 
 **27 October 1949**
 
@@ -18263,6 +19119,8 @@ But stop.
 Be careful.
 
 A man classifies himself by the enemy he chooses.
+
+---
 
 **1 November 1949**
 
@@ -18288,6 +19146,8 @@ the soul leaps free of chaos.
 
 Rhyme cannot be isolated. Everything is encounter, echo, and answering echo between words. Everything is the highest freedom and the highest order.
 
+---
+
 **3 November 1949**
 
 The history of ideas contains not only secularizations but also theologizations.
@@ -18301,6 +19161,8 @@ First, critically, through dialectical negation.
 Second, uncritically, through apologetic affirmation.
 
 The second is the surest method of destruction.
+
+---
 
 **6 November 1949**
 
@@ -18326,6 +19188,8 @@ A man defending himself is more vicious than a man attacking.
 
 When he is defending himself, he feels that he is in the right. That makes him cruel and gives him the clear conscience he needs to punish the defeated enemy—or even to “educate” him, meaning to inject a different soul into him.
 
+---
+
 **7 November 1949**
 
 How rich we were in ideas! How full of sudden insights! How extravagantly we wasted ourselves in conversation!
@@ -18335,6 +19199,8 @@ I rejoice in that waste when I look at these people today who make use of absolu
 I am the only one capable of judging this polished economy of spirit.
 
 [later deleted:] And Paul Adams is the only person I could tell this to.
+
+---
 
 **13 November 1949**
 
@@ -18354,6 +19220,8 @@ There are no graves anymore. We are cremated, and our ashes are scattered into t
 
 The ashes refuse to disappear. They drift as dust through every land.
 
+---
+
 **15 November 1949**
 
 Anyone who lays down broad general clauses and works with deliberately vague concepts must keep a very firm grip on things.
@@ -18367,6 +19235,8 @@ So when a block this heavily armored in its own ego shows even the faintest glim
 I knock, and—listen!—a bell rings, and a door opens into other worlds.
 
 And so the door is opened to me.
+
+---
 
 **16 November 1949**
 
@@ -18425,6 +19295,8 @@ Everyone—even the righteous black-marketeer—is convinced that the better you
 What follows from all these undeniable truths and obvious realities?
 
 It follows that Don Capisco—Don “I Understand”—has every chance of being declared *hostis generis humani*, an enemy of the human race.
+
+---
 
 **25 November 1949**
 
@@ -18504,6 +19376,8 @@ I cannot write directly about the man who can directly proscribe me.
 
 The present international debate about Vitoria and the legality of the Spanish Conquest is the sad background music accompanying the destruction of the glorious European overseas empires and the transformation of India and Indonesia into sovereign states and equal members of the United Nations.
 
+---
+
 **26 November 1949**
 
 The memorandum by R. P. Bruckberger of 5 October 1949, written at El Abid near Géryville in southern Oran:
@@ -18560,6 +19434,8 @@ Answer:
 
 Theologians, keep silent outside the Church!
 
+---
+
 **30 November 1949**
 
 So Prussia has been destroyed, erased, exterminated.
@@ -18572,6 +19448,8 @@ Councillors of State remain.
 
 States disappear; State Councillors endure.
 
+---
+
 **3 December 1949**
 
 *Dabitur donum fortitudinis.*
@@ -18583,6 +19461,8 @@ The gift of courage will be given.
 Above all, courage.
 
 And then one thinks of the Ernst Jünger of the First World War.
+
+---
 
 **4 December 1949**
 
@@ -18605,6 +19485,8 @@ My reply to him:
 Today and tomorrow and forever, my dear Professor Fichte, we would rather be spared the sight of your world being created.
 
 But do you not see the creators of the new world?
+
+---
 
 **6 December 1949**
 
@@ -18674,6 +19556,8 @@ What then, you criminalizers?
 
 What if he was not merely a consequence and a result, but only the immediate echo?
 
+---
+
 **8 December 1949**
 
 What are you, really?
@@ -18696,9 +19580,13 @@ I mean that it is better for me to keep silent.
 
 From the right and from the left, from above and from below, every objective power, spiritual and secular, stops my mouth.
 
+---
+
 **10 December 1949**
 
 Whenever someone utters the word “humanity,” the elites take the safeties off their bombs and the masses start looking for a bomb-proof shelter.
+
+---
 
 **13 December 1949**
 
@@ -18735,6 +19623,8 @@ This concerns the word *fatum*.
 A Christian would do better not to use it.
 
 Unfortunately, the freedom of thought and speech that was almost real in Europe during the years 1925–32 is not among the things restored in this period of restoration—a restoration that had become due after a second world war.[^fn-p12-pdf07-n02]
+
+---
 
 **20 December 1949**
 
@@ -18824,6 +19714,8 @@ And what rhymes with *Beute*—prey?
 
 *Expressiones*
 
+---
+
 **22 December 1949**
 
 As soon as I recognize a plan and see through it, I am able to escape it.
@@ -18858,6 +19750,8 @@ What follows from that?
 
 It follows that we know no more about posterity than we know about life after death.
 
+---
+
 **24 December 1949**
 
 The Hamburg judgment against the German general Manstein as a gift for Stalin’s seventieth birthday.
@@ -18874,12 +19768,16 @@ And your other Providence as well, you stupid <…> Roosevelt-Morgenthau.
 
 (Stalin’s superiority lies in the fact that, in relation to this Morgenthau planning, he is on the defensive, while Hitler hopes he can still make it over to the other side.)[^fn-p12-pdf09-n02]
 
+---
+
 **27 December 1949**
 
 What is man?
 
 A circulation of blood,
 with one poor will-o’-the-wisp perched above.
+
+---
 
 **28 December 1949**
 
@@ -18925,6 +19823,8 @@ Let us try dividing the persecutors into five categories:
 
 5. Those who earned good money and merely felt afraid, without anything actually happening to them.
 
+---
+
 **29 December 1949**
 
 The Germans have competence. They often have spirit, and sometimes even genius.
@@ -18966,6 +19866,8 @@ Life exists only on earth.
 The sun is a chaotic mixture of continuous explosions.
 
 A modern searchlight.
+
+---
 
 **30 December 1949**
 
@@ -19011,6 +19913,8 @@ Further examples from *Pharsalia* VIII, 484 ff. (the speech of Pothinus), or VII
 
 Ernst Jünger fails when confronted with the figure of Scaeva.
 
+---
+
 **31 December 1949**
 
 Strictly speaking, we are not *Chaopolites*—citizens of chaos—but Chao-hoplites, soldiers of chaos.
@@ -19020,6 +19924,8 @@ Chaos does not belong to the citizen but to the partisan, the freebooter, the bu
 The development from the seventeenth to the twentieth century:
 
 from the filibuster to the partisan.
+
+---
 
 **9 January 1950**
 
@@ -19049,6 +19955,8 @@ Argumenta tuae* (lines 868–69).
 Manstein is sentenced by the court in Hamburg to eighteen years in prison, just as Pompey is beheaded by that Greek ruler.
 
 The expression *infandum scelus* appears in the summary of Book VIII in my edition of the *Pharsalia*, edited by Cortius, Leipzig 1726, p. 231.
+
+---
 
 **10 January 1950**
 
@@ -19133,6 +20041,8 @@ I greet you with unchanged feeling and with my old loyalty to you and your cause
 your
 C. S.
 
+---
+
 **12 January 1950**
 
 The dear Germans—I know them already.
@@ -19196,6 +20106,8 @@ But those who inserted themselves are still worse than the returning emigrants e
 They ought to be ashamed
 to take the dollar they are paid.
 
+---
+
 **16 January 1950**
 
 All time is interim time.
@@ -19203,6 +20115,8 @@ All time is interim time.
 Every *regnum* is an interregnum.
 
 *Meaning-time* is *mean-time*, etc.
+
+---
 
 **17 January 1950**
 
@@ -19286,6 +20200,8 @@ Nor should it begin with economic materialism.
 
 Economic materialism possesses only the time-bound truth of the nineteenth century’s self-destruction and is itself an ideological superstructure built over the Industrial Revolution of the eighteenth and nineteenth centuries.
 
+---
+
 **4 February 1950**
 
 *Favor victoris.*
@@ -19331,6 +20247,8 @@ A nihilist?
 An eighteen-year-old schoolboy said of this:
 
 “This is supposed to be a nihilist—a man as completely convinced of, and coated in, himself as E.[rnst] J.[ünger]?”
+
+---
 
 **5 February 1950**
 
@@ -19668,6 +20586,8 @@ That is what the Jesuits did on 24 June 1621 when they defended Macao against th
 
 See Joseph Duhr, S. J., *Un jésuite en Chine: Adam Schall, astronome et conseiller impérial (1592–1666)*, Brussels 1936, p. 34.
 
+---
+
 **8 February 1950**
 
 If nothing remains to me except the choice between a defeated devil and a victorious devil, I choose the defeated one.
@@ -19704,6 +20624,8 @@ So in the end the whole thing comes down to *en que*—“as a Christian”—an
 
 And you expect to save the whole thing with that?!
 
+---
+
 **17 March 1950**
 
 What is it, exactly, that we are experiencing now?
@@ -19719,6 +20641,8 @@ those who ran away declare the forerunners to be mere followers.
 (Poor Orwell has still not understood that with his *1984* he is merely a follower of 1894!)
 
 Those who ran away declare those who stood their ground to be mere followers.
+
+---
 
 **21 March 1950**
 
@@ -19766,6 +20690,8 @@ What is the face of a people supposed to look like when the vengeful emigrant is
 
 They stomp all over Germany and then wonder why its face looks horrible.[^fn-p12-pdf19-n01]
 
+---
+
 **23 March 1950**
 
 There is something I like about Sartre:
@@ -19798,6 +20724,8 @@ Son of this consecration, you have been dispossessed of yourself.
 
 Listen and suffer.
 
+---
+
 **24 March 1950**
 
 Rousseau speaks of the stake with which the first owner marked off his property.
@@ -19812,11 +20740,15 @@ But today there are other symbols of the same kind, symbols that open an age of 
 
 The blue tax stamp used as a postage stamp is one such symbol.
 
+---
+
 **28 March 1950**
 
 Money distorts the world.
 
 It turns everything into merchandise.
+
+---
 
 **1 April 1950**
 
@@ -19825,6 +20757,8 @@ Heideggerisms:
 By “publishing”—that is, by having my thoughts typeset and printed—I am already displaced, distorted, ordered, employed:
 
 *engagé*.
+
+---
 
 **12 April 1950**
 
@@ -19866,6 +20800,8 @@ Written above it:
 
 *Le voilà*—there he is, the companion!”
 
+---
+
 **21 April 1950**
 
 An important current subject:
@@ -19873,6 +20809,8 @@ An important current subject:
 a sociological problem, a problem in intellectual history, and a problem in other respects as well:
 
 a detailed comparison between the people who profited from the upheaval of 1933 and the people who profited from the collapse of 1945.
+
+---
 
 **28 April 1950**
 
@@ -19892,6 +20830,8 @@ That is it:
 
 The exclusive reign of the Law.
 
+---
+
 **2 May 1950**
 
 The exact title of the book by Karl Binding and Alfred Hoche really is:
@@ -19908,12 +20848,16 @@ Orwell should already have noticed back then what sort of world we were living i
 
 “Life unworthy of life.”
 
+---
+
 **3 May 1950**
 
 On issue 4, April 1950, of *Hochland*:
 
 In the so-called *Hochland* the air grows ever more sultry;
 there they pair Konrad Weiß with Else Lasker-Schüler.[^fn-p12-pdf21-n01]
+
+---
 
 **4 May 1950**
 
@@ -19922,6 +20866,8 @@ Asked Hans Schneider to ask Hans Welzel for the exact reference to the passage i
 See p. 19 of Welzel’s work on the erring conscience.
 
 Does Welzel really not see that, at this point, a genuine declaration of enmity suddenly tears apart the whole moralizing fabric?[^fn-p12-pdf21-n02]
+
+---
 
 **5 May 1950**
 
@@ -19945,9 +20891,13 @@ medieval,
 
 old-fashioned.
 
+---
+
 **10 May 1950**
 
 If the donkeys of the present restoration really manage to identify Hitler with Richard Wagner in the artistic sphere, and with me in the intellectual sphere, then we can expect comebacks of an entirely different and far more astonishing kind than the harmless ones we have seen so far—or than the moral rectitude of the denazified could ever dream of.
+
+---
 
 **13 May 1950**
 
@@ -19957,6 +20907,8 @@ Is this the great, absolute abnormality—the one unforgivable offense in a worl
 
 Good faith alone is not enough.
 You also need some brains.
+
+---
 
 **19 May 1950**
 
@@ -19971,10 +20923,14 @@ And God has no other refuge.
 
 Found a note from 24 August 1915 (Munich): the poet’s liberation is purely social. He speaks about himself and finds people who hear [and] understand him. Depending on the case, that is either divine or contemptible.
 
+---
+
 **21 May 1950**
 
 There is no ultra-word to match ultrasound;
 the ultra-man reproduces himself into the void.
+
+---
 
 **23 May 1950**
 
@@ -19993,6 +20949,8 @@ Returned, like you, to the ancient peace.
 One must work legally (p. 296). One must be able to determine the law before sending out one’s murderers.
 
 There is no need to bend the law. Applying it is enough.
+
+---
 
 **28 May 1950**
 
@@ -20027,6 +20985,8 @@ I cannot imagine that you would hold it against an old specialist in constitutio
 Yours most devotedly,
 C. S.
 
+---
+
 **29 May 1950**
 
 When the enemy becomes the judge, the judge becomes the enemy.
@@ -20046,6 +21006,8 @@ How monstrously stupid must the opponents of aggression be if the revolutionarie
 Who sees whom—which today means: who manages to get whom in front of the lens—is surely nothing more than a question of the situation.
 
 I decide who sees whom.
+
+---
 
 **31 May 1950**
 
@@ -20069,6 +21031,8 @@ Or *Capital*, Volume I, Chapter <…>, note 33: the history of landed property f
 
 Why secret?
 
+---
+
 **3 June 1950**
 
 In any case, the question of who has the authority to banish me from the realm of the German spirit has now been happily settled by this article by Dr. Lewald in the *NJW*.[^fn-p13-pdf03-n02]
@@ -20084,6 +21048,8 @@ I have never deified anyone or anything.
 At most, for a time, I deified my wife Duschka.
 
 And she deserved it![^fn-p13-pdf03-n03]
+
+---
 
 **7 June 1950**
 
@@ -20148,6 +21114,8 @@ What, then, will arise from Yalta and Potsdam?
 
 Versailles stands to Yalta and Potsdam as Wilhelm II stands to Hitler!
 
+---
+
 **8 June 1950**
 
 The Schleiermacher-Hegel *argumentum ad canem*—the argument from the dog—says, and apparently expects to count as an argument:
@@ -20157,6 +21125,8 @@ The Schleiermacher-Hegel *argumentum ad canem*—the argument from the dog—say
 But you are not a dog.
 
 Though <apparently> you would like to be one.[^fn-p13-pdf04-n01]
+
+---
 
 **12 June 1950**
 
@@ -20205,6 +21175,8 @@ Millions of priests perform this act hundreds of millions of times.
 
 And then <the theologians> are surprised by Adolf.
 
+---
+
 **15 June 1950**
 
 In Paradise, human beings are naked.
@@ -20235,9 +21207,13 @@ But these poor Jews!!
 
 Who do not want to be Zionists!
 
+---
+
 **22 June 1950**
 
 Worse than the criminals are the people who criminalize them![^fn-p13-pdf05-n01]
+
+---
 
 **23 June 1950**
 
@@ -20283,6 +21259,8 @@ What would you have answered on the questionnaire—or under interrogation by Mr
 
 Old André Gide, you never had to sit across from one of these sweet interrogators.
 
+---
+
 **5 July 1950**
 
 God is the wholly Other?
@@ -20305,6 +21283,8 @@ God is I.
 
 The distance between the typical working legal practitioner and the science of law is much greater than the distance between the typical public-health-insurance doctor and medical science.[^fn-p13-pdf05-n03]
 
+---
+
 **23 July 1950**
 
 The cabinet of legal monstrosities:
@@ -20321,6 +21301,8 @@ Unlimited power of revision.
 
 *Reformatio in peius*—revision that makes the position of the accused worse—made permanent.
 
+---
+
 **26 July 1950**
 
 It was a postmaster who, in 1792, prevented the King of France from escaping and thereby determined the further course of European history.
@@ -20335,6 +21317,8 @@ The problem of master and servant, according to Hegel’s *Phenomenology*.
 
 (Noted on the day King Leopold returned to Belgium.)
 
+---
+
 **27 July 1950**
 
 Become a de-de-ifier!
@@ -20344,6 +21328,8 @@ A de-anti-ifier!
 The great program of de-anti-fication!
 
 With unlimited powers.
+
+---
 
 **1 August 1950**
 
@@ -20363,6 +21349,8 @@ Then I said:
 
 You damned pack of swine.
 
+---
+
 **8 August 1950**
 
 *Homo homini Radbruch.*
@@ -20378,6 +21366,8 @@ You do not kill anyone.
 You drive the other person to suicide.
 
 Very gently.
+
+---
 
 **11 August 1950**
 
@@ -20413,6 +21403,8 @@ Recommended dissertation topic for ambitious young German male and female studen
 
 Carlo Schmid and the fine arts.
 
+---
+
 **16 August 1950**
 
 <!-- FACSIMILE_INSERT: asset="facsimiles/P13_source-252_facsimile-01.jpeg" part="13" printed-page="236" source-page="252" part-pdf-page="7" sequence="1-of-1" -->
@@ -20436,6 +21428,8 @@ Nothing pays better.
 Newspaper clipping dated 3 August 1950 pasted in, with a cartoon about the Korean War. Written beneath it:
 
 “Only someone who knows his prey better than the prey knows itself can conquer it.”
+
+---
 
 **29 August 1950**
 
@@ -20505,6 +21499,8 @@ I am still alive only because the shades pursuing me are no longer capable of pe
 
 That is what saves me.
 
+---
+
 **1 September 1950**
 
 Every discussion of the sound of the German word *Raum*—space—should include Nietzsche’s phonetically astonishing sentence, astonishing even by the standards of Nietzsche’s own prose:
@@ -20520,6 +21516,8 @@ Immediately before it:
 (No. 127.)
 
 Has Heidegger ever quoted that?
+
+---
 
 **13 September 1950**
 
@@ -20548,6 +21546,8 @@ There are translations—for example the German Schott Bible—that actually say
 Galatians 3:19.
 
 <…>
+
+---
 
 **30 September 1950**
 
@@ -20603,6 +21603,8 @@ Hopefully <Spranger> sees [the] antistrophe:
 
 Kill with C. S.
 
+---
+
 **4 October 1950**
 
 Between theology and technology:
@@ -20653,6 +21655,8 @@ He collects beetles and last words:
 
 insects and dying people.
 
+---
+
 **22 October 1950**
 
 Should we now cry:
@@ -20668,6 +21672,8 @@ Even the three righteous combmakers are, in the end, still our brothers.
 So let us allow them to live.
 
 For if we killed them all, we would simply take their place.
+
+---
 
 **10 November 1950**
 
@@ -20727,6 +21733,8 @@ But today we can see that they are not capable of discerning the spirits at all.
 
 Today they run after Americanism.
 
+---
+
 **27 February 1951**
 
 Words and sentences from dreams:
@@ -20744,6 +21752,8 @@ Or:
 Protestant Security Service.
 
 Analyze that phonetically!
+
+---
 
 **28 February 1951**
 
@@ -20783,6 +21793,8 @@ Acts of the Apostles, chapter 7, Stephen:
 
 You murdered the heir.
 
+---
+
 **1 March 1951**
 
 A worker is someone who has the right to a workplace assigned to him by the responsible organization.
@@ -20809,6 +21821,8 @@ I did not write a book called *The Worker*.
 
 Nor did I mistake a salaried employee obsessed with his pension and benefits for an “imperial type.”
 
+---
+
 **4 March 1951**
 
 So what remains?
@@ -20822,6 +21836,8 @@ Their distinction remains.
 *Distinguo ergo sum.*
 
 I distinguish, therefore I am.
+
+---
 
 **6 March 1951**
 
@@ -20838,6 +21854,8 @@ If I have no power, I will be devoured.
 But there is already the old story:
 
 they go hungry when they do not have power.
+
+---
 
 **7 April 1951**
 
@@ -20873,6 +21891,8 @@ And with the word, we have the thing itself and the situation itself:
 
 the blind first commitment.
 
+---
+
 **22 April 1951**
 
 Even more important than the questions on the questionnaires are the great central questions that “they”—that is, Roosevelt and Stalin acting as a single coalition!—put to the Germans in 1945.[^fn-p13-pdf11-n01]
@@ -20889,6 +21909,8 @@ To every question of this kind I answer firmly:
 
 Count me out!
 
+---
+
 **14 June 1951**
 
 Monarchical-dynastic legitimacy ends in disputes over family law, wars of succession, and harassment over family trees.
@@ -20898,6 +21920,8 @@ Democratic legitimacy ends in the sordid tricks of electoral law and in argument
 Which is worse?
 
 Obviously the latter.
+
+---
 
 **15 June 1951**
 
@@ -20939,6 +21963,8 @@ my three enemies.
 
 Tobit 12:7.
 
+---
+
 **16 June 1951**
 
 I was just about to become annoyed when I read about the great academic honor that the University of Maryland (!) had bestowed, *pari passu*, on Cloy and Heuss and Friesenhahn.
@@ -20966,6 +21992,8 @@ O Wisdom, you speak like old Hobbes!
 You continue the catalogue in Hamlet’s monologue:
 
 The disgrace, …
+
+---
 
 **22 June 1951**
 
@@ -20996,6 +22024,8 @@ A beautiful opening sentence for a novel.
 Better to leave the rest unwritten.
 
 It would not win the Nobel Prize anyway.
+
+---
 
 **24 June 1951**
 
@@ -21037,6 +22067,8 @@ Law through peace is meaningful and decent.
 
 Peace through law is an imperialist claim to rule.
 
+---
+
 **2 July 1951**
 
 Between you and us, on both sides, lie too many desecrated bodies.
@@ -21046,6 +22078,8 @@ Too many dishonored corpses.
 The burning of the men hanged at Nuremberg made this condition even worse.
 
 Now they cannot even be buried after the fact.
+
+---
 
 **4 July 1951**
 
@@ -21079,6 +22113,8 @@ Yes, it really did erupt:
 
 August Stramm.
 
+---
+
 **6 July 1951**
 
 Two remarks about the word *Raum*—space:
@@ -21094,6 +22130,8 @@ So that explains the hatred of the word *Raum* one finds in people like Hausenst
 So that explains the hatred of the word *Raum* too.
 
 This hatred is simply a displaced, unanalyzed anti-Roman feeling.
+
+---
 
 **13 July 1951**
 
@@ -21116,6 +22154,8 @@ That is very important.
 They can take possession of philosophers and poets as though intellectual history were a brothel and literary history a cheap dive.
 
 They walk in wearing brass knuckles and impress the appropriate ladies.
+
+---
 
 **14 July 1951**
 
@@ -21154,6 +22194,8 @@ Bring all of Friedrich Nietzsche with you,
 And stamp hard on the bourgeois man’s toe,
 As Franz Blei once did.
 
+---
+
 **19 July 1951**
 
 Friedrich Schiller’s *Don Carlos*:
@@ -21188,6 +22230,8 @@ Only now do I recognize Loerke’s greatness—thanks to Wilhelm Lehmann’s <tr
 
 “If you gave an answer, it would be deception.”[^fn-p13-pdf14-n05]
 
+---
+
 **20 July 1951**
 
 “Termites with space neurosis,” says Gottfried Benn with the confidence of an expert.
@@ -21220,6 +22264,8 @@ And that is still human.
 
 “In the piercing feeling of my nothingness” is another such revealing sentence.
 
+---
+
 **23 July 1951**
 
 How refined, how cunning these idealists in the style of Friedrich von Schiller are!
@@ -21239,6 +22285,8 @@ in a world where every act is a betrayal of the idea,
 every realization becomes a forfeiture,
 
 and everyone who acts becomes a wrongdoer.
+
+---
 
 **5 August 1951**
 
@@ -21279,6 +22327,8 @@ In my life I have done nothing except give careful, thoroughly considered, selfl
 But every time, the people I warned experienced those warnings as an irritating disturbance.
 
 And in the end they brought me down.
+
+---
 
 **14 August 1951**
 
@@ -21328,11 +22378,15 @@ Ford: history is bunk.
 
 Bosanquet: “History is the doubtful story of successive events.”
 
+---
+
 **20 August 1951**
 
 Our *nomos*: these are our cultivated fields; our factories and businesses, our managers, technicians, and workers.
 
 Our *nomos*: it is the beauty of our women and children; it is our piece of earth; it is the space that we fill with our presence!
+
+---
 
 **24 August 1951**
 
@@ -21354,6 +22408,8 @@ Newspaper clipping from the *FAZ*, 20 August 1951, pasted in: Karl Korn’s revi
 
 “The alienation effect makes sense only in a friend-enemy situation. It preserves the clarity of the distinction. It prevents the two sides from melting into one another. The alienation effect rests on the emotional force of the friend-enemy distinction. *Verfremdung*—alienation—really means *Verfehmung*: putting someone under the ban!”
 
+---
+
 **26 August 1951**
 
 And then the Mohr publishing house in Tübingen!
@@ -21361,6 +22417,8 @@ And then the Mohr publishing house in Tübingen!
 There is nothing of the honest *Mohr* left in it anymore. It is a *Mal-Mann*, a man who has already brought himself into line several times, and who as a result now—in 1951—<…> throws me out into the street.
 
 Let him keep bringing himself into line.
+
+---
 
 **29 August 1951**
 
@@ -21407,6 +22465,8 @@ Newspaper clipping containing a quotation from Werner Heisenberg pasted in. Abov
 
 “What is the <physicist>? A criminal or a mentally ill person? Somehow, the answer depends on what we decide to do with him?”
 
+---
+
 **31 August 1951**
 
 *Le secret de l’église catholique*—the secret of the Catholic Church. Compare:
@@ -21414,6 +22474,8 @@ Newspaper clipping containing a quotation from Werner Heisenberg pasted in. Abov
 1. Villiers de l’Isle-Adam: *c’est qu’il n’y a pas de purgatoire*—that there is no purgatory.
 
 2. Me: *c’est qu’il n’y a pas de pouvoir indirect*—that there is no indirect power.
+
+---
 
 **3 September 1951**
 
@@ -21432,6 +22494,8 @@ For that very reason, the dualism ought to end in unity—if there were really n
 But the underlying unity does not exhaust the unity of the world.
 
 It would be terrible. It would be a disaster, a horror. It would mean the simultaneous end of spirit, life, and soul if the underlying unity shared by these two parties actually resulted in a real unity.
+
+---
 
 **6 September 1951**
 
@@ -21452,6 +22516,8 @@ First, that I am a human being and not an animal.
 Second, that I am a man and not a woman.[^fn-p14-pdf08-n01]
 
 Third, that I am a Prussian State Councillor and not a Nobel Prize winner.[^fn-p14-pdf08-n02]
+
+---
 
 **7 September 1951**
 
@@ -21480,6 +22546,8 @@ But poisoned by what?
 Because too many corpses have been desecrated and burned, and their ashes have been blown into the air; because the air is full of the ashes of desecrated dead people who were denied an honest burial.
 
 For the continuation, compare 29 August 1951.
+
+---
 
 **8 September 1951**
 
@@ -21555,6 +22623,8 @@ But the professors of Kierkegaard in Basel—Karl Barth and Jaspers, or whatever
 
 But all it took was a Fr. J. Stahl-Jolson, and by 1840 it was virginal no longer.
 
+---
+
 **9 September 1951**
 
 Any history of the relationship between theologians and lawyers would also have to include the contemptuous word used by the Roman cardinals for the work of lawyers:
@@ -21567,6 +22637,8 @@ Bacon of Verulam was particularly irritated by this (*De laude*, no. LI of the *
 
 And here, amid sentences that are otherwise so wise, a sudden flash reveals an abyss of hostility.
 
+---
+
 **10 September 1951**
 
 Otto Weininger claims that Schiller “completely ruined” tragedy.
@@ -21577,11 +22649,15 @@ He finds Schiller “entirely shallow and ametaphysical.”
 
 Ametaphysical in the way that every powerful criminal is a moralist, and for that very reason ametaphysical.
 
+---
+
 **11 September 1951**
 
 The defeated man writes history.
 
 The man who has failed is the wiser man.
+
+---
 
 **12 September 1951**
 
@@ -21620,6 +22696,8 @@ R. M. Rilke, *Late Poems*, 1934, “Vase Picture.”
 I ask kindly disposed[^fn-p14-pdf10-n01] readers of historical works or lyric poetry to send me any examples they encounter in their reading.
 
 Historians and lyric poets from the last fifty years will receive preferential treatment.
+
+---
 
 **14 September 1951**
 
@@ -21660,6 +22738,8 @@ This, gentlemen, is the essence of present-day humanism.
 Nothing more.
 
 What we are dealing with, then, is discrimination and criminalization.
+
+---
 
 **17 September 1951**
 
@@ -21729,6 +22809,8 @@ But once the technocrats have conquered the whole earth, then it will work!
 
 Then they can draw lots!
 
+---
+
 **19 September 1951**
 
 The subject-object roller rolls,
@@ -21741,11 +22823,15 @@ And says: you may, because you can.
 
 The philosophy of Sub-Ob—or rather Ob-Sub.
 
+---
+
 **24 September 1951**
 
 “Let them mock us, so long as they spare us their pity.”
 
 (Walter Warnach.)
+
+---
 
 **25 September 1951**
 
@@ -21754,6 +22840,8 @@ Once again, one of the deepest feelings in my soul comes to the surface:
 the *amor amaritudinis*—the love of bitterness.
 
 It is more bitter,[^fn-p14-pdf11-n01] stronger, and deeper than the *amor fati*—the love of fate.
+
+---
 
 **26 September 1951**
 
@@ -21772,6 +22860,8 @@ He stands before me as a celibate, and yet he has a father and a mother. He was 
 And above all, there is the *Congrua*.
 
 The *Congrua* is the woman he loves above everything else.
+
+---
 
 **27 September 1951**
 
@@ -21807,6 +22897,8 @@ So by all means keep thinking.
 
 Sweet dreams!
 
+---
+
 **5 October 1951**
 
 Motto for the struggle against the *potestates indirectae*—the indirect powers—and for how one should behave toward the terror that no one dares to name:
@@ -21828,6 +22920,8 @@ In the same place (p. 99):
 *Quelque crime toujours précède au plus grand crime.*
 
 Some crime always comes before the greatest crime.
+
+---
 
 **7 October 1951**
 
@@ -21959,6 +23053,8 @@ Tattoo the skin,
 While in blank-verse iambs
 A quiet forget-me-not blooms.
 
+---
+
 **15 October 1951**
 
 “We arrive at our conduct more against ourselves than out of ourselves.”
@@ -22034,6 +23130,8 @@ And no uchronist.[^fn-p14-pdf16-n04]
 
 13. An intellectual moonlighter.
 
+---
+
 **17 October 1951**
 
 Anachronist, anchorite, anacoluthon.
@@ -22045,6 +23143,8 @@ Yet these same Germans have no idea what an enormous act of intellectual surrend
 Today the Germans complain about the art that the Russians and the other victors are taking from Germany.
 
 They do not realize that, by giving up Hegel, they authorized this consequence of their surrender in advance.[^fn-p14-pdf16-n05]
+
+---
 
 **21 October 1951**
 
@@ -22117,6 +23217,8 @@ Why not say at the same time:
 there is no law; there is only love and legislation.
 
 Take a closer look at these apostles of love.
+
+---
 
 **23 October 1951**
 
@@ -22191,6 +23293,8 @@ How much longer do they intend to keep discussing?
 Until 1952?
 
 Or even 1954?”
+
+---
 
 **25 October 1951**
 
@@ -22276,6 +23380,8 @@ Standard practice sentence for typists.
 
 (Letter to *Der Spiegel*, no. 45.)”
 
+---
+
 **7 November 1951**
 
 In the house of the hanged man, one does not speak of the rope.
@@ -22285,6 +23391,8 @@ That is sympathetic.
 But in the house of the executioner, people speak all the more about law and justice.
 
 That is horrifying.
+
+---
 
 **8 November 1951**
 
@@ -22313,6 +23421,8 @@ The people will then be those who have to pay the bill—to pay it to a new set 
 
 That is the circulation of elites and the identity of the people.
 
+---
+
 **13 November 1951**
 
 I think, therefore I have enemies.
@@ -22324,6 +23434,8 @@ That is the essence of historicity—of what it means to exist in history—and 
 It is the essence of everything that can possibly be thought about thought and being. It is concrete thinking in its purest form.
 
 The uneducated person, by contrast, thinks in abstractions.
+
+---
 
 **28 November 1951**
 
@@ -22355,6 +23467,8 @@ For an old German professor who has been persecuted and mistreated by his former
 
 *Newspaper clipping dated 16 November 1951 pasted in. Above it: “16 November 1951. Do you choose the tie salesman Tr[uman] or the bank robber St[alin]?”*
 
+---
+
 **29 November 1951**
 
 O wise, knowing Thomas Hobbes!
@@ -22364,6 +23478,8 @@ O wise, knowing Thomas Hobbes!
 So it was a monarchy (= dictatorship) of the Roman people over the Jewish people!
 
 Germany’s constitution in 1951.[^fn-p15-pdf03-n01]
+
+---
 
 **22 December 1951**
 
@@ -22397,6 +23513,8 @@ That is precisely how the educated European of 1848—Bruno Bauer—saw the newl
 
 Heine as a German poet—who outdid Mörike precisely as a German!—etc.
 
+---
+
 **12 January 1952**
 
 J. von Kürenberg, *Was Everything Wrong? A Biography of Wilhelm II*, Bonn 1951, p. 220:
@@ -22413,6 +23531,8 @@ I was too disgusted by E. Kaufmann.
 
 (Another parallel: Kortner—W. Krauss.)
 
+---
+
 **20 January 1952**
 
 Answer to the question: definition of the “name.”
@@ -22426,6 +23546,8 @@ Fritsch, diary entry of 1 February 1938, quoted in Friedrich Hoßbach, *Between 
 “The namesake of my colleague Mr Carlo Schmid of the Parliamentary Council, except that his name is spelled with two ‘t’s.”
 
 (Süsterhenn in the Parliamentary Council, 2nd session, 8 September 1948, p. 25.)
+
+---
 
 **3 February 1952**
 
@@ -22456,6 +23578,8 @@ This sentence of Karl Marx is the most important statement of the nineteenth cen
 
 The Blessing of St Blaise is more important than the entire Herder publishing house; and more important than the whole doctrine of natural law, from Vitoria to the anti-Vit[oria] hero Baron von der Heydte.
 
+---
+
 **5 February 1952**
 
 G. Nebel: a Caliban who knows Greek.
@@ -22475,6 +23599,8 @@ Poor Kriesenhahn is allowed to crow along a little, but what is he beside a Brit
 Beside one of those he feels comfortable, and better about himself.
 
 Beside a German like C. S., he feels uneasy.
+
+---
 
 **1 March 1952**
 
@@ -22496,6 +23622,8 @@ What is permitted against a German—what is even considered right and a duty—
 
 The German is the eternal ox.
 
+---
+
 **6 March 1952**
 
 <!-- FACSIMILE_INSERT: asset="facsimiles/P15_source-286_facsimile-01.jpeg" part="15" printed-page="270" source-page="286" part-pdf-page="6" sequence="1-of-1" -->
@@ -22512,6 +23640,8 @@ I have fallen among murderers.
 
 *Newspaper clipping from* Die Zeit, *28 February 1952.*
 
+---
+
 **8 March 1952**
 
 For our *animus procreandi*—our will to procreate, our great struggle against pseudo-Puritan birth control—we need no celibate bureaucracy, no vicariates-general, and above all no Görres Society, together with its glorious Görres-like president Hans Peters, head of studies at the Nazi Academy of Administration and swearer of oaths: some religious, to Adolf; some non-religious, to Adenauer.
@@ -22519,6 +23649,8 @@ For our *animus procreandi*—our will to procreate, our great struggle against 
 Definition of C. S.:
 
 a man who has never filed a claim for compensation.[^fn-p15-pdf06-n01]
+
+---
 
 **9 March 1952**
 
@@ -22543,6 +23675,8 @@ While out walking, he suffered the attack of weakness that marked the beginning 
 A mysterious end.
 
 He was a Kaspar Hauser, and the fate of Kaspar Hauser caught up with him.
+
+---
 
 **20 March 1952**
 
@@ -22570,6 +23704,8 @@ The Nobél-Prize stampers did.
 2. prize: Miching Mallecho.
 3. Nobél.
 
+---
+
 **23 March 1952**
 
 No tongue in the world can express the full extent of my contempt.
@@ -22579,6 +23715,8 @@ No pen in the world, no typewriter in the world, can put onto paper the disgust 
 Poor Nobel’s bad conscience—the honestly bad conscience of a desperate, lonely inventor of explosives and ecrasite—has been dressed up institutionally as comfortable posts and grants for people like Thomas Mann and Hermann Hesse:
 
 plush-upholstered products churned out by a cottage industry.
+
+---
 
 **2 April 1952**
 
@@ -22591,6 +23729,8 @@ That is a lot of history
 And quite a lot of drama.
 The herring rises upward and begins
 Practicing psychosomatics.
+
+---
 
 **8 April 1952**
 
@@ -22637,6 +23777,8 @@ Had they all voted as I did, no disaster would ever have happened.
 What question is answered by the sentence:
 
 You, Earth, remained steadfast through this night as well?[^fn-p15-pdf08-n02]
+
+---
 
 **11 April 1952**
 
@@ -22753,6 +23895,8 @@ Economic miracle—social miracle.
 
 <!-- FACSIMILE_INSERT: asset="facsimiles/P15_source-290_facsimile-01.jpeg" part="15" printed-page="274" source-page="290" part-pdf-page="10" sequence="1-of-1" -->
 
+---
+
 **27 April 1952**
 
 A wonderful passage in Buffon’s *Natural History*, quoted by Rousseau in the *Discourse on Inequality*:
@@ -22773,6 +23917,8 @@ Animals and human beings are different.
 
 *Beneath: “The Tatbestand—the legally defined set of facts—is supposed to count! But the Sachverhalt—the actual state of affairs—is not?”*
 
+---
+
 **27 April 1952**
 
 “What a spectacle for a Carib: the exhausting and envied labors of a European minister!”
@@ -22783,6 +23929,8 @@ Animals and human beings are different.
 
 (Written in Hamburg on 1 May 1952, in the copy of the *Discourse* that I gave to Hans P. Ipsen.)
 
+---
+
 **3 May 1952**
 
 Paul Adams wrote in response to the letter sent in February 1952 by Rabbi Jacob Taubes in Jerusalem.
@@ -22792,6 +23940,8 @@ Taubes had reported that Jewish soldiers, acting on orders from the Minister of 
 Adams wrote:
 
 “The rabbi’s letter is astonishing. The *Teoria de la Constitucion* as a kind of Ark of the Covenant, protected by soldiers and carried out of the Arab sector, from Mount Scopus into Israel—that is something. It is more than a Heideggerian ‘wood path.’”
+
+---
 
 **14 May 1952**
 
@@ -22819,6 +23969,8 @@ The merchant turns into the distributor.
 
 There you have it.
 
+---
+
 **17 May 1952**
 
 A conversation about the philosophy of history.
@@ -22834,6 +23986,8 @@ Don Capisco:[^fn-p15-pdf11-n01]
 From the attempt to prevent it.
 
 A fine catch-all rule for Don Capisco.
+
+---
 
 **18 May 1952**
 
@@ -22879,6 +24033,8 @@ How charming.
 
 An earthworm decides to silence the amphibians out of existence.
 
+---
+
 **23 May 1952**
 
 Schiller would certainly have become a Nobél laureate.
@@ -22892,6 +24048,8 @@ Shakespeare, absolutely not.
 This is not meant to raise the standing of Thomas Mann or Hermann Hesse.
 
 <…>
+
+---
 
 **24 May 1952**
 
@@ -22914,6 +24072,8 @@ Let us remember that for the coming Schiller Year of 1959.
 
 After the millions embrace
 Come the explosions.
+
+---
 
 **11 June 1952**
 
@@ -22973,6 +24133,8 @@ let the world perish.
 
 *Newspaper clipping dated 2 June 1952 pasted in. Above it: “2 June 1952.” To the left, partly in shorthand: “On the same day, law <…>, likewise Curtius above. Compare the Prussian p.[our] l.[e] mérite! 1954: some time later: the women, who <…> the arms <…> strike <…> and can no longer speak.”*
 
+---
+
 **12 June 1952**
 
 They—the victors of 1945—have nothing left to say about God except that he is the Wholly Other.
@@ -23017,6 +24179,8 @@ Then what exactly is this “the”?
 
 Please show me this Good without a good man!
 
+---
+
 **13 June 1952**
 
 Sometimes the deceived deceive better.
@@ -23029,12 +24193,16 @@ The infant outside the womb is the μικρός ἄνθρωπος, the *mikros a
 
 enveloped by the μάκρος ἄνθρωπος, the *makros anthropos*, the great human being.
 
+---
+
 **14 June 1952**
 
 Someone wants to make himself secure;
 All I can do is snicker.
 
 A rhyme that reduces the entire age of security—including all the insurance companies of Basel—to absurdity.
+
+---
 
 **16 June 1952**
 
@@ -23043,6 +24211,8 @@ What do you actually want?
 What do I want?
 
 I want to bring ruin upon the people who are ruining this earth!
+
+---
 
 **18 June 1952**
 
@@ -23053,6 +24223,8 @@ You are figures without light or shadow
 And need nothing further but laws.
 
 (*Konradin*, Act 3, Scene 2)
+
+---
 
 **3 July 1952**
 
@@ -23110,6 +24282,8 @@ Still, I gladly accept that injustice rather than appear in the same category as
 
 I refuse to identify myself with his identification.
 
+---
+
 **4 July 1952**
 
 <!-- FACSIMILE_INSERT: asset="facsimiles/P15_source-295_facsimile-01.jpeg" part="15" printed-page="279" source-page="295" part-pdf-page="15" sequence="1-of-1" -->
@@ -23147,6 +24321,8 @@ Philosophers of language.
 *Künstler*, Lit[erat], Artist.
 
 They compare *Brille* with *pince-nez* and *prince-né*, and from this conclude that German is more authentic than French!
+
+---
 
 **13 July 1952**
 
@@ -23198,6 +24374,8 @@ In war, war is war.
 
 *Homo homini homo* means no more than that.
 
+---
+
 **14 July 1952**
 
 If, as Karl Marx already said in 1840, the emancipation of the Jews took place by turning Christians into Jews, then surely it must be a pleasure for Jews to convert to one of the Christian churches and enthusiastically profess their loyalty to it.
@@ -23206,11 +24384,15 @@ God became man.
 
 The Christians became Jews.
 
+---
+
 **20 July 1952**
 
 Like the underlings, like the master!
 
 No wonder the underlings plant a bomb beneath your seat.
+
+---
 
 **24 July 1952**
 
@@ -23244,6 +24426,8 @@ Léon Bloy, *The Ungrateful Beggar* I, note from May 1893:
 
 “Zola’s speech to the students. Preserve this. This idiot replaces God with work!”
 
+---
+
 **28 July 1952**
 
 Poor Christian, hide!
@@ -23269,6 +24453,8 @@ But if you entered a completely foreign environment, would you be able to identi
 *Salus ex oriente.*
 
 Salvation from the East.
+
+---
 
 **29 July 1952**
 
@@ -23303,6 +24489,8 @@ The *Taktstaat* against the *Rechtsstaat*.
 The conductor’s baton, the *Taktstock*, before the state governed by law.
 
 Stick against state.
+
+---
 
 **30 July 1952**
 
@@ -23343,6 +24531,8 @@ of Jüngerism;
 
 of printed *Radiations*.
 
+---
+
 **5 August 1952**
 
 The just enemy—
@@ -23365,11 +24555,15 @@ Who trusts his own big mouth,
 And when a man cannot fight back,
 Smashes him straight in the face.
 
+---
+
 **10 August 1952**
 
 A good German replacement for the word *radio*: **sound-sludge sprayer**.
 
 So don’t tell me there is anything wrong with replacing foreign words with German ones. Sometimes doing so can clarify what the thing really is and make the whole situation visible.
+
+---
 
 **14 August 1952**
 
@@ -23383,9 +24577,13 @@ But there is something else. There is a deeper understanding of the opposition b
 
 And there is the seventh consulship of the old Marius.
 
+---
+
 **11 September 1952**
 
 The exhausted age, *il tempo esaurito*; the exhausted tonality; the exhausted legal process, with every remedy used up—and then, on top of all that, the poor exhausted human being who is expected to endure all these different kinds of exhaustion.
+
+---
 
 **13 September 1952**
 
@@ -23419,6 +24617,8 @@ What if whatever remains of humanity after they have finished with it were final
 
 Léon Bloy was the first to do it, in 1903.[^fn-p16-pdf02-n01]
 
+---
+
 **15 September 1952**
 
 You do not know what you are doing when you eat an onion, or a schnitzel, or anything else—and yet you want to talk about causality and draw up Five-Year Plans?
@@ -23437,6 +24637,8 @@ When I put my savings into public institutions:
 2. I draw attention to the fact that I have them;
 3. I make them immediately accessible to anyone who wants to seize them.
 
+---
+
 **17 September 1952**
 
 The earth itself will crush any human being and any human organization that tries to lift it up and carry it.
@@ -23454,6 +24656,8 @@ So says the American architect Frank Lloyd Wright, now eighty-three years old. C
 *People Without Space*
 *People Without Me.*
 
+---
+
 **18 September 1952**
 
 Even the opposition between the corpuscular theory and the wave theory is only another version of the opposition between land and sea.
@@ -23461,6 +24665,8 @@ Even the opposition between the corpuscular theory and the wave theory is only a
 The only question is whether that opposition has now been overtaken by the addition of the two other elements:
 
 air and fire.
+
+---
 
 **21 September 1952**
 
@@ -23494,6 +24700,8 @@ I am the man who cannot be confused with anyone else—the man whose name is spe
 
 For further definitions, compare 15 October 1951, etc.
 
+---
+
 **29 September 1952**
 
 Three statements are decisive for the nineteenth century.
@@ -23512,11 +24720,15 @@ Every variation reveals the same deep historical process.
 
 And they can of course also be used to defend the old power, the old God, the old property, etc.[^fn-p16-pdf03-n02]
 
+---
+
 **30 September 1952**
 
 On *Godenholm*:
 
 Why do they all suddenly want to become alternative healers?
+
+---
 
 **5 October 1952**
 
@@ -23536,6 +24748,8 @@ The great event dispossesses the owners and appropriates for itself the very “
 
 There you have it.
 
+---
+
 **6 October 1952**
 
 Gneiss:
@@ -23546,6 +24760,8 @@ But God can also, if He wishes, raise SS men from them.
 
 Unfortunately, we have lived to see that happen.
 
+---
+
 **28 October 1952**
 
 Authorized, not motorized.
@@ -23553,6 +24769,8 @@ Authorized, not motorized.
 Motorized, not authorized.
 
 Driven, not called.
+
+---
 
 **5 November 1952**
 
@@ -23576,6 +24794,8 @@ So that is what I am.
 
 And if Herr Ernst Friesenhahn kicks me in the left arse cheek, I will offer him the right one as well.
 
+---
+
 **12 November 1952**
 
 First: **Take!**
@@ -23597,6 +24817,8 @@ His advice is:
 *Prends-la!*
 
 Take her!
+
+---
 
 **15 November 1952**
 
@@ -23624,6 +24846,8 @@ So the dying Laertes says to the dying Hamlet, V.2.
 Schlegel translates it:
 
 “Let us exchange forgiveness, noble Hamlet!”
+
+---
 
 **16 November 1952**
 
@@ -23661,6 +24885,8 @@ All he dares to say, boldly and imperiously—after 1945—is:
 
 Candidates for French civilization.
 
+---
+
 **22 November 1952**
 
 Nobel-Prize Christianity.
@@ -23679,6 +24905,8 @@ Below that:
 
 Meanwhile, Christian shame flees for refuge to the pagans.”
 
+---
+
 **23 November 1952**
 
 Answer to the question:
@@ -23691,6 +24919,8 @@ I wait where I am and cling tightly to the word,
 until a word, clinging tightly around me, carries me away like seed.
 
 —Konrad Weiß, *Largiris*[^fn-p16-pdf06-n01]
+
+---
 
 **25 November 1952**
 
@@ -23705,6 +24935,8 @@ And remember this for the coming politics of the Federal Republic:
 Böhm of the three and a half billion
 is pleasing to the Jews.
 
+---
+
 **11 December 1952**
 
 Another self-definition.
@@ -23714,6 +24946,8 @@ During a conversation with Michael Thomas in Düsseldorf, at the Breidenbacher H
 Lilian Winstanley admires German objectivity because I rescued her book on *Hamlet* from oblivion and restored it to honour.
 
 She praises German scholars and has no idea that in Germany I am a white raven—a complete rarity—whose name appears on every blacklist.
+
+---
 
 **12 December 1952**
 
@@ -23733,6 +24967,8 @@ Watch out!
 
 That all of you one day the <…>.
 
+---
+
 **14 December 1952**
 
 The clergy took the chalice away from the laity.
@@ -23746,6 +24982,8 @@ Gentlemen of the clergy!
 Repent and give the chalice back to the laity!
 
 In return, we will give you back your total questionnaire.
+
+---
 
 **7 January 1953**
 
@@ -23771,6 +25009,8 @@ The abstract separates.
 The concrete unites.
 
 The concrete is the sum of the bonds people enter into with one another.
+
+---
 
 **1 February 1953**
 
@@ -23816,6 +25056,8 @@ For us, it has lasted from 1919 until today, becoming more severe all the time!
 
 Interpreting the exceptional situation of the **first post-war period**, and then continuing that interpretation through the **second post-war period**, leads to preparation for the **third**.
 
+---
+
 **5 February 1953**
 
 <!-- FACSIMILE_INSERT: asset="facsimiles/P16_source-307_facsimile-01.jpeg" part="16" printed-page="291" source-page="307" part-pdf-page="8" sequence="1-of-1" -->
@@ -23848,6 +25090,8 @@ On this, Guido Vernani of Rimini, beginning of the fourteenth century:
 
 ‘I, however, believe that the Jewish people, both because of the location of their land <…> and because of their religion, had a greater right than the Romans to rule over the nations.’”
 
+---
+
 **15 February 1953**
 
 What is Max Stirner’s deepest concern?
@@ -23867,6 +25111,8 @@ But in the criminal law of piracy, even this does him no good.
 There the rule is:
 
 caught together, even if you yourself remain perfectly unencumbered.
+
+---
 
 **17 February 1953**
 
@@ -23890,11 +25136,15 @@ The axis was and remains the Son of God;
 Watch yourself—the Devil has already taken note.
 Yet with Christ <the Devil plays> at skittles.
 
+---
+
 **18 February 1953**
 
 Whenever things seem to be going especially well for me, I tell myself:
 
 I know no more about my situation than the young Mexican whom the priests first fed and then slaughtered knew about his.
+
+---
 
 **19 February 1953**
 
@@ -23940,6 +25190,8 @@ The problem of *error in persona*—mistaken identity—as grounds for invalidit
 
 <!-- FACSIMILE_INSERT: asset="facsimiles/P16_source-312_facsimile-01.jpeg" part="16" printed-page="296" source-page="312" part-pdf-page="13" sequence="1-of-1" -->
 
+---
+
 **22 March 1953**
 
 The invisible order is stronger and deeper than the visible one.
@@ -23962,6 +25214,8 @@ The secret of the Catholic Church is that there is no such thing as indirect pow
 
 Can this strange combination of visibility and indirectness still be held together by the old formula of a *complexio oppositorum*—a union of opposites?
 
+---
+
 **10 April 1953**
 
 You betrayed the Word.
@@ -23975,6 +25229,8 @@ And now you are surprised that all of it, under the banner of **Democracy**, has
 Luther, Hamann, Bruno Bauer
 turned your wine unbearably sour.
 
+---
+
 **20 May 1953**
 
 What, after all, is nihilism?
@@ -23987,6 +25243,8 @@ A thoroughly un-Scholastic answer.
 
 A nihilistic answer—in the eyes of the frauds.
 
+---
+
 **21 May 1953**
 
 Jean Bodin’s advice:
@@ -23994,6 +25252,8 @@ Jean Bodin’s advice:
 Never challenge the fury of the people.
 
 (<…> p. XIX.)
+
+---
 
 **10 June 1953**
 
@@ -24065,6 +25325,8 @@ I am neither a full enforcer nor an empty one.
 
 <!-- FACSIMILE_INSERT: asset="facsimiles/P16_source-314_facsimile-01.jpeg" part="16" printed-page="298" source-page="314" part-pdf-page="15" sequence="1-of-1" -->
 
+---
+
 **17 July 1953**
 
 I have no insurance of any kind.
@@ -24094,6 +25356,8 @@ Written on it:
 “*Sonntagsblatt*, 19 July 1953.”
 
 —there finally arise, through terrible torture and persecution, the **free oaths**, the *conjurations*, and the new men who are once again capable of oath, of God, and of power.
+
+---
 
 **21 July 1953**
 
@@ -24186,6 +25450,8 @@ I was not in the Resistance,
 I no longer have a chance,
 I’ll join the Foreign Legion.
 
+---
+
 **27 July 1953**
 
 (To Friedhelm Kemp, on the occasion of Simone Weil:)
@@ -24215,6 +25481,8 @@ That is the **trap of traps**, if Simone Weil’s phrase is to be corrected prop
 Therefore:
 
 *Homo homini Radbruch.*
+
+---
 
 **5 August 1953**
 
@@ -24264,6 +25532,8 @@ Or:
 
 (*Pharsalia* IX, 248–249.)
 
+---
+
 **6 August 1953**
 
 So the criminalizations had already begun in the Middle Ages.
@@ -24281,6 +25551,8 @@ The connection between theology and criminalization.
 The curse against Louis of Bavaria in 1346.
 
 Mirbt, p. 167.
+
+---
 
 **8 August 1953**
 
@@ -24307,6 +25579,8 @@ This rule governing language is Stalin’s real victory of 1945 over every other
 
 And it is only because of this that 1945 became the year of the real decision.
 
+---
+
 **18 August 1953**
 
 *Homo homini Homo.*
@@ -24321,11 +25595,15 @@ A mark is a mark, and a man is a man.
 
 Meanwhile Moju triumphs, the distinguished specialist in *schmonzes*—sentimental nonsense.
 
+---
+
 **24 August 1953**
 
 The mistake of German Classicism:
 
 looking for the homeland of the soul among the Greeks.
+
+---
 
 **25 August 1953**
 
@@ -24336,6 +25614,8 @@ Wine was no longer a sacrament.
 It had become nothing but alcohol.
 
 So instead he drank the pasteurized milk of conformist thought and ate the milk chocolate of the legality of the social welfare state.
+
+---
 
 **29 August 1953**
 
@@ -24354,6 +25634,8 @@ In reality, today:
 Freedom is sacred.
 
 Its actual content is determined by the liberation laws.
+
+---
 
 **30 August 1953**
 
@@ -24375,6 +25657,8 @@ Psalm 40:6.
 
 Augustine, *The City of God*, XVII.18.
 
+---
+
 **3 September 1953**
 
 The social administrative state turns the private citizen into an official of its own administration.
@@ -24394,6 +25678,8 @@ Even an innkeeper’s actual business of serving guests is now merely the starti
 And then there is the blue tax stamp as well.
 
 Compare:
+
+---
 
 **9 September 1953**
 
@@ -24416,6 +25702,8 @@ and immediately cancelling one another out again.
 
 The moment I hear the beginning of all this clattering, I would rather switch it off.
 
+---
+
 **11 September 1953**
 
 Book title:
@@ -24429,6 +25717,8 @@ Better:
 Even better:
 
 *One Was Left.*
+
+---
 
 **12 September 1953**
 
@@ -24496,6 +25786,8 @@ Above all, they appear in his accusations against himself.
 
 His *Radiations* are still going to cost Ernst Jünger dearly.
 
+---
+
 **18 September 1953**
 
 God became man.
@@ -24528,6 +25820,8 @@ Or, even more up to date:
 
 *Homo homini Radbruch.*
 
+---
+
 **24 September 1953**
 
 Again and again I think of that conversation on the express train.
@@ -24553,6 +25847,8 @@ Humanity has two scourges:
 McCarthyism
 
 and anti-McCarthyism.
+
+---
 
 **25 September 1953**
 
@@ -24590,6 +25886,8 @@ Or, in the trivial conceptual language people use today:
 
 Legal certainty takes priority over justice.
 
+---
+
 **29 September 1953**
 
 Lenin says there are two kinds of war:
@@ -24611,6 +25909,8 @@ After all, what he is doing is **education**.
 *The Education of Henry Adams.*
 
 *The Re-education of Carl Schmitt.*
+
+---
 
 **21 October 1953**
 
@@ -24641,6 +25941,8 @@ The frauds live off this little game of dominoes.
 And so does *Homo homini Radbruch*, with his humanitarian syllogism.
 
 Compare above.
+
+---
 
 **27 October 1953**
 
@@ -24696,13 +25998,19 @@ On the Jürgen Habermas campaign against Heidegger in the summer of 1953:[^fn-p1
 
 Bravo! And Jürgen Habermas was the given, predestined name for the Haberfeld-style public shaming campaign against Martin Heidegger.
 
+---
+
 **9 December 1953**
 
 (On Petwaidic and Bourdin): The elite are those whose sociology no one dares to write.
 
+---
+
 **22 December 1953**
 
 A fine subject: the relationship between the French Revolution and the Industrial Revolution (compare Lorenz von Stein’s remark), understood as the historical opposition between land and sea.
+
+---
 
 **26 December 1953**
 
@@ -24723,6 +26031,8 @@ Carry your uncomprehended heart to the dead!
 Stop letting yourself be invited, only to be uninvited again. Stop letting yourself be spat on by windbag intellectuals like Moritz Bonn, and recognize your own Νόμος—your own *Nomos*!
 
 End of the year 1953.
+
+---
 
 **12 March 1954**
 
@@ -24778,6 +26088,8 @@ The cardinals will have to give it their blessing. After all, they took the wine
 
 *Tacito rumore Mosella*—the Moselle with its quiet murmur; that is, of course, the Moselle before it has been canalized.
 
+---
+
 **15 March 1954**
 
 They strum the devastation on harps,
@@ -24785,6 +26097,8 @@ And trumpet the Last Judgment.
 They fiddle away at indignation,
 And play our nothingness on harpsichords.
 (Rilke)
+
+---
 
 **16 March 1954**
 
@@ -24817,6 +26131,8 @@ Written below:
 
 “A reasonable compromise: *laicus taceat in ecclesia, clericus taceat extra ecclesiam*—let the layman keep silent inside the Church, and the cleric keep silent outside it.”
 
+---
+
 **9 June 1954**
 
 The age of limitless compatibility is followed by the age of limitless convertibility.
@@ -24825,7 +26141,11 @@ The convert, Herr Hausenstein, as the prototype of German Catholicism: *taceat e
 
 *Treason of the Intellectuals*: they recommend mescaline instead of wine. That tells us exactly where they stand. Compare:
 
+---
+
 **15 March 1954 and 16 March 1954 (Aldous Huxley).**
+
+---
 
 **9 July 1954**
 
@@ -24845,6 +26165,8 @@ B. Excuse me: on the subject of the word “brothers,” I must insist: no frate
 
 A. Fine. Then these fathers, these papal sources of the father complex.[^fn-p17-pdf04-n01]
 
+---
+
 **10 July 1954**
 
 On my sixty-sixth birthday:
@@ -24854,6 +26176,8 @@ I am old. I have gradually had enough of life—and more than enough of being pe
 But I would still like to postpone, for a little while longer, the day when the rabble dances on my grave.
 
 That is a natural wish. It can keep even an old man standing for quite a long time, and hold him firmly on this earth.
+
+---
 
 **15 July 1954**
 
@@ -24865,6 +26189,8 @@ On 19 July 1954,[^fn-p17-pdf04-n02] Heinz Weitzel of Frankfurt told me: “I hav
 
 So apparently the thought is an obvious one—and concretely true.
 
+---
+
 **26 July 1954**
 
 I discovered an illuminating prediction at the end of a nervous, flickering essay by Anton Kuh:
@@ -24872,6 +26198,8 @@ I discovered an illuminating prediction at the end of a nervous, flickering essa
 “The great night of fire, foretold by Nietzsche’s flame, is still to come. Perhaps it will come one day in the future, after the plebeian, bursting strength of the New World has taken possession of the Old and we have all become Americans—when Nietzsche’s work, like Samson, brings the skyscrapers crashing down upon itself.”
 
 (Sic. Published on 25 August 1930 in *Neue Rundschau*, p. 865.)
+
+---
 
 **27 July 1954**
 
@@ -24885,11 +26213,15 @@ This is how the New World lives, and these are its ideals:
 
 (Disinfectant, infection-killer B 43, for shaving cream.)
 
+---
+
 **30 July 1954**
 
 Why should the name “Israel” in the Psalms bother us during Christian worship?
 
 The “Fiat” in the *Paternoster* does not bother us either!
+
+---
 
 **1 August 1954**
 
@@ -24923,6 +26255,8 @@ Newspaper clipping from the *Frankfurter Allgemeine Zeitung*, 30 July 1954. Writ
 
 “<…> Poor, brave Werner Schütz! Why not do what Hausenstein did? Or are you not convertible?”
 
+---
+
 **30 August 1954**
 
 *Un sot trouve toujours un plus sot, qui l’admire.*
@@ -24934,6 +26268,8 @@ Yes. But today something else is much more relevant:
 *Un criminel trouve toujours un plus criminel, qui le justifie.*
 
 A criminal always finds a greater criminal who justifies him.
+
+---
 
 **12 September 1954**
 
@@ -24957,6 +26293,8 @@ Compared with all the professors and lecturers beside whom I taught from a Germa
 
 I owe it to my blind forerunners, and I must neither lose it nor deny it.
 
+---
+
 **1 November 1954**
 
 In truth, it is an undeserved piece of good fortune that throughout all these years since Germany’s downfall I have no longer been allowed to practice my profession as a teacher of constitutional law.
@@ -24969,6 +26307,8 @@ It destroys one’s own identity, which cannot be separated from the identity of
 
 Meanwhile Herr L. triumphs as a *sujet mixte*, a mixed subject, and guards a constitution in which *sujets mixtes* can themselves serve as guardians of the constitution.
 
+---
+
 **14 November 1954**
 
 Who are you?
@@ -24977,6 +26317,8 @@ I read in a diary entry from 3 February 1941:
 
 I am poor Benito Cereno.[^fn-p17-pdf06-n01]
 
+---
+
 **4 December 1954**
 
 I am the non-convert in the age of unlimited convertibility.
@@ -24984,6 +26326,8 @@ I am the non-convert in the age of unlimited convertibility.
 I am the incompatible one.
 
 He doubts the <Jews’> <work>.[^fn-p17-pdf06-n02]
+
+---
 
 **12 December 1954**
 
@@ -25011,6 +26355,8 @@ Desecration and slaughter by Carl Linfert on NWDR (22 November 1954).
 
 *Memor approbii.*
 
+---
+
 **11 January 1955**
 
 I can now see the source of the hatred that pursues me and wants to destroy me.
@@ -25024,6 +26370,8 @@ their plans for destruction shattered against me.
 Every foreign idea shattered against me.
 
 That means something in a country occupied by foreigners, subjugated by foreigners, and ruled by foreigners.
+
+---
 
 **12 January 1955**
 
@@ -25043,6 +26391,8 @@ I was born on
 
 11 July 1888, and on the occasion of 11 July 1948 I wrote a “Song of the Sixty-Year-Old,” from which everything else can be learned.
 
+---
+
 **24 January 1955**
 
 People tell me about the vile things my persecutors are doing.
@@ -25054,6 +26404,8 @@ I yawn.
 One really can say:
 
 I yawn, therefore I am.
+
+---
 
 **30 January 1955, Sunday**
 
@@ -25079,6 +26431,8 @@ Why are you afraid?
 
 And there was a great calm.[^fn-p17-pdf07-n01]
 
+---
+
 **14 February 1955**
 
 Nothing but world-historical progress:
@@ -25087,6 +26441,8 @@ from (Father of Gymnastics) Jahn
 to (Brother in Camouflage) John;
 from (terrorist) Nero
 to (pacifist) Nehru;[^fn-p17-pdf07-n02]
+
+---
 
 **15 March 1955**
 
@@ -25101,6 +26457,8 @@ East and West, West and East,
 all serve equally well.
 
 In the end he has to laugh himself.
+
+---
 
 **19 March 1955**
 
@@ -25123,6 +26481,8 @@ Let us not be careless about names.
 “In the name of the king” means: in the name of the person who carried out the great taking, to whom we owe the law under whose concrete order we live.
 
 That is the Νόμος Βασιλεύς—the *Nomos Basileus*, Nomos as king.[^fn-p17-pdf08-n01]
+
+---
 
 **20 March 1955**
 
@@ -25161,6 +26521,8 @@ Clearly some secret curse is driving him toward the abyss.
 *Qui vivra, verra.*
 
 Whoever lives will see.
+
+---
 
 **3 April 1955**
 
@@ -25212,6 +26574,8 @@ We are looking for the primordial taker.
 
 <!-- FACSIMILE_INSERT: asset="facsimiles/P17_source-328_facsimile-01.jpeg" part="17" printed-page="312" source-page="328" part-pdf-page="9" sequence="1-of-1" -->
 
+---
+
 **5 April 1955**
 
 God is the primordial giver—that is, the primordial distributor.
@@ -25248,6 +26612,8 @@ December 1958: I sent a copy of my *Großraumordnung* (3rd ed.), in which this d
 
 The Europe curve belongs here, with the hieroglyph of the Western World (from 11 July 1956, V p. 67 [= 349]).”
 
+---
+
 **10 April 1955, Easter Sunday**
 
 On the subject of iconography.
@@ -25268,6 +26634,8 @@ The Heine monument as the new Gessler’s hat!
 
 With Günther Krauss I really was *anthropophagus cordis mei*, an eater of my own heart, to borrow a Pythagorean phrase.
 
+---
+
 **16 April 1955**
 
 If all distinctions—such as state and society, political and economic—and all incompatibilities dissolve, then only one distinction really remains:
@@ -25277,6 +26645,8 @@ friend and enemy.[^fn-p17-pdf10-n01]
 Domestic political order consists in using secondary distinctions to hold down the latent, primary, ultimate distinction.[^fn-p17-pdf10-n02]
 
 The neutral state as *katechon*—the restraining power.
+
+---
 
 **17 April 1955**
 
@@ -25332,6 +26702,8 @@ Kurt Hiller, Kempner.
 
 Unfortunately, that does not work either.
 
+---
+
 **19 April 1955**
 
 Look reverently at the vibration of leaves, branches, twigs, and the tops of fir trees.
@@ -25372,6 +26744,8 @@ equal = levelled.
 
 equal = brought into line.
 
+---
+
 **4 May 1955**
 
 “The interim is mine”!
@@ -25396,6 +26770,8 @@ One could become very thoughtful about that.
 
 Because the interim of Christianity has gradually begun to last much too long.
 
+---
+
 **9 May 1955**
 
 Perhaps for my sixty-seventh birthday:
@@ -25412,6 +26788,8 @@ Automation becomes global,
 And the layman gets Veronal.[^fn-p17-pdf11-n01]
 
 That would make a fine poem in memory of Hugo Ball.
+
+---
 
 **30 May 1955, Pentecost**
 
@@ -25445,6 +26823,8 @@ the cunning of lust.[^fn-p17-pdf12-n01]
 Outwit it!
 
 (On this, 1 John: “Desire conceives and gives birth to sin.”)
+
+---
 
 **1 June 1955**
 
@@ -25489,6 +26869,8 @@ Magnificent.
 Now the liars of the Peterson type can tremble—the people who tried to persuade us that the doctrine of the Trinity makes political theology impossible.
 
 And the converts of recent decades can start inventing new forms of defamation and drawing up new blacklists.
+
+---
 
 **5 June 1955**
 
@@ -25552,6 +26934,8 @@ It is all Christian dialectic.
 
 (Yesterday I wrote to Kojève.)
 
+---
+
 **11 June 1955**
 
 Several thousand Göttingen Sevens have appeared in Göttingen and gloriously defeated one poor devil.[^fn-p17-pdf13-n01]
@@ -25563,6 +26947,8 @@ The relationship to 1837 is clear.
 These new fairy-tale brothers of 1955 stand in relation to their model of 1837 exactly as their opponent, poor Schlüter, stands in relation to the opponent of 1837, King Ernst August of Hanover.
 
 What a happy age, in which seven thousand Göttingen Sevens can suddenly be found![^fn-p17-pdf13-n02]
+
+---
 
 **12 June 1955, Sunday**
 
@@ -25594,6 +26980,8 @@ the wild-boar thief as overthrower of ministers.
 
 (The whole thing: a guaranteed, risk-free way of satisfying society’s accumulated demand for displays of civil courage.)
 
+---
+
 **6 July 1955**
 
 *Magnus homo / magno homini*: magnus homo.
@@ -25617,6 +27005,8 @@ Otherwise:
 
 The great man: a little God and a great wolf.
 
+---
+
 **8 July 1955**
 
 Progress upon progress:
@@ -25636,6 +27026,8 @@ Or at least three thousand five hundred?
 Four-thousandfold resistance to authority.
 
 What an enormous success for re-education!
+
+---
 
 **5 August 1955**
 
@@ -25658,6 +27050,8 @@ So the only thing left, following Heidegger’s example, is to write in future:
 Being, crossed out.
 
 Man, crucified.
+
+---
 
 **9 August 1955**
 
@@ -25699,6 +27093,8 @@ Below:
 
 “Protection exists only outside contemporary history. *L’obscurité protège mieux.* Obscurity protects better.”
 
+---
+
 **14 August 1955**
 
 So Thomas Mann is dead.
@@ -25723,6 +27119,8 @@ Write:
 
 Today the world resembles a totem clan with taboos more than it resembles a medieval Swiss peasant tribe with an imperial governor named Gessler and a William Tell.
 
+---
+
 **15 August 1955**
 
 When I think back to the years 1928–32, and when Adolf Caspary, Leo Strauss, Walter Benjamin—and everyone who belongs with them—ask me today:
@@ -25738,6 +27136,8 @@ A partner in thought, a partner in conversation, and—as my fate from 1945 unti
 Because without sharing that fate, all this partnership in thought and conversation is worthless.
 
 (Thought and written while preparing a lecture on *Hamlet*, under the impact of Walter Benjamin’s words “sacrifice for the life of the national community that is not yet born,” *The Origin of German Tragic Drama*, 1930, p. 99.)
+
+---
 
 **22 August 1955**
 
@@ -25763,6 +27163,8 @@ Perhaps that is the effect of the universal priesthood.
 
 Man is a cleric to man.
 
+---
+
 **23 August 1955**
 
 Desire conceives and gives birth to sin!
@@ -25774,6 +27176,8 @@ Horrible to imagine that—or to picture it.
 But perhaps the will to eternity that Nietzsche places inside desire is precisely this conception of sin.
 
 Just as it is not power itself but the **will to power** that is sinful.
+
+---
 
 **1 September 1955**
 
@@ -25803,6 +27207,8 @@ Lamennais was a poor young man driven mad by faith.
 
 And Michel Mourre places himself on the side of authority, which of course is always right—*siempre ragione*—on the side of the celibate bureaucracy, which of course can never itself become an object of psychoanalysis and whose sociology not even Max Weber dared to write.
 
+---
+
 **14 September 1955**
 
 Under the impact of the news from Adenauer’s trip to Moscow (9–14 September 1955):
@@ -25811,6 +27217,8 @@ The world in which Professor Wilhelm Grewe’s little light shines lies behind m
 
 The full-blooded Moju can do it better;
 He sharpens the ritual-murder knife.
+
+---
 
 **15 September 1955**
 
@@ -25844,6 +27252,8 @@ The hair on the head and the sparrow on the roof!
 
 “Come along, Wilamowitz-Moellendorff,” I say now, in 1955.
 
+---
+
 **17 September 1955**
 
 What is the car horn jeering?
@@ -25851,6 +27261,8 @@ What is the car horn jeering?
 God is dead!
 
 But Adenauer is alive—and Pope Pius XII!!!
+
+---
 
 **21 September 1955**
 
@@ -25876,6 +27288,8 @@ A grotesque *complexio oppositorum*, a combination of opposites, used as neutral
 
 A subject for Kafka.
 
+---
+
 **25 September 1955, Sunday**
 
 From the Christian point of view, the definition of the Jew would have to be:
@@ -25883,6 +27297,8 @@ From the Christian point of view, the definition of the Jew would have to be:
 A Jew is anyone who takes revenge.
 
 But precisely here one sees most clearly that the Christians have become Jews, and that Karl Marx was right on this point.
+
+---
 
 **30 September 1955**
 
@@ -25914,6 +27330,8 @@ From *Storm of Steel* to the tourist trip.
 
 From the false taking of land to the true one.
 
+---
+
 **4 October 1955**
 
 “Property entails obligations.”
@@ -25943,6 +27361,8 @@ I think, therefore I am.
 We think, therefore we are.
 
 Correct thinking is the thinking of a subject that is not individualistic.
+
+---
 
 **5 October 1955**
 
@@ -25987,6 +27407,8 @@ The victor is the idealist.
 The defeated man either had no ideals at all or—which is worse—had ideals harmful to society.
 
 A closer examination of the defeated man’s past will prove that victorious war is the social ideal, and that the victor is the person entitled to make claims for restitution.
+
+---
 
 **6 October 1955**
 
@@ -26064,6 +27486,8 @@ They killed him.
 
 *Vigens disciplina, fides moribunda*: discipline flourishing, faith dying.
 
+---
+
 **15 October 1955**
 
 In Hegel, an awareness of the Christian age is still alive.
@@ -26075,6 +27499,8 @@ World history is approaching a different center from Golgotha, the Place of the 
 But that cannot be.
 
 We must break away from the false guardians and beneficiaries of the empty tomb—from the knights of the empty tomb.
+
+---
 
 **26 October 1955**
 
@@ -26134,6 +27560,8 @@ Melville’s *Benito Cereno* should have had the subtitle:
 
 And so Pierre Leyris’s marvelous starting point runs aground in the abstract banality of scholastic theology and all its endless talk.
 
+---
+
 **27 October 1955**
 
 These Black men killed the heir, poor Don Alejandro.
@@ -26165,6 +27593,8 @@ Hegel too was a great *katechon*.
 The great German emperors were *katechontes*.
 
 Hence the hatred of Hegel—a hatred that would otherwise be impossible to explain.
+
+---
 
 **28 October 1955**
 
@@ -26209,6 +27639,8 @@ And who so bold as to say that he sees it?
 
 Again and again I have fallen for the fraud.
 
+---
+
 **5 November 1955**
 
 Schiller’s Marianism is a subject that could be treated together with Hegel’s Marianism.
@@ -26235,6 +27667,8 @@ For 155 years Germans have been watching and listening to this scene, and no one
 
 Perhaps it will become clear to us on Schiller’s 200th birthday in 1959.
 
+---
+
 **6 November 1955, Sunday**
 
 Bring me my writing tablet!
@@ -26258,6 +27692,8 @@ When a serious individual enters into a race with the public in an atmosphere wh
 Thanks to the angel who grabbed me by the hair and set me down outside this Christian cultural establishment; who knocked this cup of the murkiest poison out of my hand before it reached my lips; and who showed me the spring from which I am allowed to drink:
 
 the spring of poverty and freedom.
+
+---
 
 **8 November 1955**
 
@@ -26296,6 +27732,8 @@ Woe to you if one of them should ever get the idea of noticing you at all, in or
 Then you will discover the connection between protection and obedience.
 
 And every other great power, which you can no longer obey, will become your enemy.
+
+---
 
 **10 November 1955**
 
@@ -26387,6 +27825,8 @@ the lay apostolate.
 
 Now she is running after the Jews.
 
+---
+
 **11 November 1955**
 
 “And powers of delusion, hating without restraint,
@@ -26401,6 +27841,8 @@ A Christian cannot leave this earth as a demigod, or even as a hero.
 But suppose this ambitious Peter Schneider really did catch me.
 
 Then all that would be needed would be the decent resolve to make oneself impossible to classify once again for these dogcatchers and distributors of dog tags.
+
+---
 
 **16 November 1955, Day of Repentance and Prayer**
 
@@ -26451,6 +27893,8 @@ Let someone else try to match that.
 
 Better stop now, or you will be arrested at once.
 
+---
+
 **17 November 1955**
 
 Conversation with a wine drinker.
@@ -26490,6 +27934,8 @@ But what about its sacraments?
 Do they too fall into the underworld along with this celibate bureaucracy?
 
 Not so fast!
+
+---
 
 **18 November 1955**
 
@@ -26546,6 +27992,8 @@ allowing himself to be beaten to death.
 
 But they live in the economic miracle which, as I said, is a miracle of repentance—and vice versa.
 
+---
+
 **23 November 1955**
 
 Of course the song is not finished yet.
@@ -26567,6 +28015,8 @@ repentance ends,
 and with it the whole beautiful Caux co-existence!
 
 Then the preachers of repentance will no longer be able to travel around in their *Mercedes Apostolorum* and will turn back into honest black-market petrol dealers.
+
+---
 
 **24 November 1955**
 
@@ -26644,6 +28094,8 @@ But the Christian ought to be on the side of pain.
 
 Take a look at Christians from that point of view.
 
+---
+
 **25 November 1955**
 
 Terrible.
@@ -26671,6 +28123,8 @@ in the concept of the political;
 in the concept of sovereignty;
 
 in the discovery of the *Nomos of the Earth*.
+
+---
 
 **28 November 1955**
 
@@ -26701,6 +28155,8 @@ A naïve, primitive Hegelianism.
 But with an ability to grasp the concrete.
 
 And that matters more than any amount of philosophical schooling—even more than the schooling of dialectical materialism, which after all is only émigré philosophy.
+
+---
 
 **4 December 1955, Second Sunday of Advent**
 
@@ -26754,6 +28210,8 @@ Then, as everyone is made equal to the King and the universal priesthood spreads
 
 Singing, however, remains singing and is not called playing.
 
+---
+
 **6 December 1955**
 
 To give a name: that is a giving contained within genuine taking, and it is this giving that distinguishes *Nahme*—taking understood as a constituting act—from mere grabbing, robbing, and devouring.[^fn-p18-pdf12-n01]
@@ -26800,6 +28258,8 @@ I rejected the offer without thinking much about it.
 
 Cleverer people accepted it and profited greatly.
 
+---
+
 **17 December 1955**
 
 “So that we may make a name for ourselves,” the people build the tower, which then, as punishment, receives the name Babel.
@@ -26831,6 +28291,8 @@ These post-Exilic people are terrifying possessors and setters of right and powe
 The answer that actual history gave to Hegel’s *Phenomenology of Spirit* was the restoration of the Jesuit order and its return from exile.
 
 So be careful!
+
+---
 
 **19 December 1955**
 
@@ -26886,6 +28348,8 @@ And then “values”—which this valuer drives into your back out of duty!!
 
 We Christian folk now rejoice.
 
+---
+
 **26 December 1955**
 
 Self-assertion—self-definition.
@@ -26895,6 +28359,8 @@ Who are you?
 *Tu quis es?*
 
 I am a man of the Moselle who can never, for all eternity, be canalized—and who is therefore cursed by the Pope with every ban and anathema.[^fn-p18-pdf13-n01]
+
+---
 
 **30 December 1955**
 
@@ -26911,6 +28377,8 @@ Outside Germany it is difficult.
 And for that they need Germany again.
 
 Hence this compulsion.[^fn-p18-pdf13-n02]
+
+---
 
 **4 January 1956**
 
@@ -26978,6 +28446,8 @@ Agnosticism produces anxiety rather than fear;
 
 means of annihilation rather than weapons.
 
+---
+
 **12 January 1956**
 
 The great man, the *magnus homo*, is a great father, or a great brother, or else a great beast—namely Leviathan.
@@ -26998,6 +28468,8 @@ The great man drops bombs upon the small;
 Thus mankind makes itself one whole.
 It need only negate the other’s No,
 And everyone will think the same.
+
+---
 
 **31 January 1956**
 
@@ -27032,6 +28504,8 @@ Left: *FAZ*, 22 November 1955.
 To the right of the right-hand clipping:
 
 “I thought: against every.”
+
+---
 
 **1 February 1956**
 
@@ -27094,6 +28568,8 @@ Do you know who said that?
 But how could these poor dogs know such a thing?!
 
 Shame on you for asking them.
+
+---
 
 **2 February 1956**
 
@@ -27195,6 +28671,8 @@ The main thing is to make sure the pig is slaughtered kosher.
 
 The theologians will see to that.
 
+---
+
 **4 February 1956**
 
 For a long time now:
@@ -27216,6 +28694,8 @@ Do not let yourself be drawn into this Augean stable by an invitation to partici
 Not even by the urgent demand that you help with the supposedly necessary cleaning of the Augean stable.
 
 Not even on the grounds that doing so is surely the ethical duty of every decent Hercules.
+
+---
 
 **15 February 1956**
 
@@ -27256,6 +28736,8 @@ So be careful with your theory of taking.
 The great takers do not like people talking about them while they are still taking—or while they still hope to inherit what has already been taken.
 
 Later, later, my brave professor of constitutional law!!
+
+---
 
 **16 February 1956**
 
@@ -27299,6 +28781,8 @@ millions of hearts and one beat from the fist of the great Schlagintweit.
 
 Strike, poet, strike with force;
 Strike the reader to the core.
+
+---
 
 **18 February 1956**
 
@@ -27344,6 +28828,8 @@ I am the polyglot who understands Polyphemus and no longer cares to make himself
 
 <!-- FACSIMILE_INSERT: asset="facsimiles/P18_source-358_facsimile-01.jpeg" part="18" printed-page="342" source-page="358" part-pdf-page="20" sequence="1-of-1" -->
 
+---
+
 **1 March 1956**
 
 Three premiums, three premiums, I planted upon my grave.
@@ -27369,6 +28855,8 @@ They contain it—that is, they contain a genuine totality without ever having t
 The poor fool who openly wrote “totality” on his banner was therefore almost harmless compared with the implication contained in a power that exercises totality indirectly, through the back door, and all the more effectively:
 
 the holders of power and law.
+
+---
 
 **5 March 1956**
 
@@ -27396,6 +28884,8 @@ a kind of divination through vibration for our mysterious self and the selves of
 
 creation out of nothing through the word.
 
+---
+
 **16 March 1956**
 
 Everything is determined by the first imprint, the first ray of light that reaches the newborn child.
@@ -27409,6 +28899,8 @@ There is no escaping the *jus primae noctis*, the right of the first night.
 The struggle over the school and the kindergarten becomes the struggle over the *jus primae noctis*.
 
 No constitution, no social order, no system of law, and no religion can escape this central problem of the *prima nox*.
+
+---
 
 **30 March 1956, Good Friday**
 
@@ -27636,6 +29128,8 @@ Below it:
 
 “Atheism of the non-academic Stoics; compare Lucan (*sed victa Catoni*).”
 
+---
+
 **2 April 1956, Easter Monday**
 
 In Henri Lévy-Bruhl I found the following contrast (in an article from 29 March 1956 in *Le Monde*): socialism is the opposite of paternalism.
@@ -27652,11 +29146,15 @@ But who did you inherit it from?
 
 In the age of fertilization at a distance.
 
+---
+
 **4 April 1956**
 
 Who are you?
 
 I am a layman in whom the millions of cartloads of wine are still fermenting that the Roman priests took away from the laity.
+
+---
 
 **5 April 1956**
 
@@ -27675,6 +29173,8 @@ So that means: a Christian in 1956. CDU, or where exactly?
 My dear friend, Christianity is in safe hands!
 
 If you want to become a Christian, you will be packed straight into an extremely concrete system.
+
+---
 
 **7 April 1956**
 
@@ -27696,6 +29196,8 @@ If all human unhappiness comes from our inability to remain quietly “in a room
 
 But too many of us have been driven out of our rooms too many times.
 
+---
+
 **10 April 1956**
 
 There is a good, German, true, genuine, wonderfully cozy translation of the word “social.”
@@ -27713,6 +29215,8 @@ The Yankees cannot possibly be *leutselig*, because they come from Calvinist sto
 The Puritan is not *leutselig*.
 
 But he keeps smiling and shouts, “Hello!”
+
+---
 
 **12 April 1956**
 
@@ -27742,6 +29246,8 @@ coexistence of the two asceticisms.
 
 The development of technology seems to be working in favor of property asceticism—against private property—and against sexual asceticism, which is becoming ridiculous and uninteresting.
 
+---
+
 **6 May 1956**
 
 How sad and hopeless it is to put one more note on paper while knowing that nobody has any time left to read or think about anything.
@@ -27767,6 +29273,8 @@ But all these perspectives and relativities shatter against one fact: time canno
 Time is irreversible.
 
 And so people flee into the future—which is destroyed by that very flight—and into the cosmos—which is destroyed in exactly the same way.
+
+---
 
 **10 May 1956**
 
@@ -27797,6 +29305,8 @@ More persecutors than visitors, these great frauds.
 Whoever says “God” wants to deceive.
 
 Whoever has power must deceive.
+
+---
 
 **13 May 1956**
 
@@ -27838,6 +29348,8 @@ With ruthlessly humanitarian commitment!
 
 Forward to nuclear democracy!!
 
+---
+
 **22 May 1956**
 
 I appeared in this world in July 1888.
@@ -27853,6 +29365,8 @@ Ejaculated.
 Dear good Papa, by now already a grandfather.
 
 Please forgive me.
+
+---
 
 **29 May 1956**
 
@@ -27870,6 +29384,8 @@ But Mr. von Sedlmayr says nothing about that.
 
 Here the art historian’s politeness falls silent.
 
+---
+
 **31 May 1956**
 
 God is dead and Reaction keeps marching anyway—and now it is only the marching that matters, in the spirit of Forward Everywhere.
@@ -27877,6 +29393,8 @@ God is dead and Reaction keeps marching anyway—and now it is only the marching
 But whatever it may be—God dead or alive, Reaction or Revolution, whatever it may be—sociology will hunt all these foxes out of their holes, reactionary and revolutionary alike, and drive them into the open.
 
 In the end, Reaction and Revolution will form a coalition and coexist, if only to exterminate this kind of sociology as a form of fascism.
+
+---
 
 **Corpus Christi, evening**
 
@@ -27940,6 +29458,8 @@ Fulfills his quota.
 Quota-fills his full.
 And gets a professorship for it.[^fn-p19-pdf04-n01]
 
+---
+
 **7 June 1956**
 
 Everything is really so terribly simple.
@@ -27994,6 +29514,8 @@ You may enjoy what you have taken in complete security.
 
 So make sure that you are in the right, so that things may go well for you and you may live long upon the earth.
 
+---
+
 **6 July 1956**
 
 My copy of Leo Strauss’s book on Spinoza (1930) has recently fallen into the hands of Karl Löwith.
@@ -28034,6 +29556,8 @@ Unintentionally.
 
 And only faithfully.
 
+---
+
 **10 July 1956**
 
 Listen to this prophecy from the year 1904:[^fn-p19-pdf05-n02]
@@ -28055,6 +29579,8 @@ Hitler was living there at the time, a fifteen-year-old adolescent tough.
 
 And the antennae of a Jewish writer sensed him and his destiny, in connection with the Great Wurstel, with whom a whole century of beautiful appearances and pure play had to come to an end.
 
+---
+
 **11 July 1956**
 
 Hieroglyph of the Western world:[^fn-p19-pdf05-n03]
@@ -28066,6 +29592,8 @@ Hieroglyph of the Western world:[^fn-p19-pdf05-n03]
 1958: the entire Western world is Hamlet.
 
 Compare the illustration for Gelimer’s laughter: 24 March 1955 (IV, p. 104).
+
+---
 
 **12 July 1956**
 
@@ -28092,6 +29620,8 @@ And with that he wanted to make the conscience of the individual the final court
 But conscience is not a court.
 
 It is an abyss.
+
+---
 
 **16 July 1956**
 
@@ -28137,6 +29667,8 @@ The brotherhood remains—impossible to exterminate.
 
 No massacre of the children of Bethlehem, no gassing operation, no Katyn, no Hiroshima bomb, no Morgenthau Plan, and no invention by Nobel Prize winners can destroy us.
 
+---
+
 **5 August 1956**
 
 A beautiful parallel:
@@ -28179,6 +29711,8 @@ Coexistence means status quo.
 
 In every case, after it all,
 the status quo wins in the Augean stall.
+
+---
 
 **17 August 1956**
 
@@ -28223,6 +29757,8 @@ Max Kommerell is right to make fun of it.
 Even from the Jewish point of view, I would prefer Shylock.
 
 The parable of the counterfeit rings could only have been invented in the brain of a counterfeiter and believed by harmless idealists.
+
+---
 
 **25 August 1956**
 
@@ -28290,11 +29826,15 @@ the **Wholly Other** is the continuation of the **Wholly Similar** by other mean
 
 though, admittedly, by wholly other means.
 
+---
+
 **26 September 1956, Wednesday**
 
 Eleven years ago today, on 26 September 1945 at ten in the morning, the officers of my persecutors appeared at my home in Schlachtensee and threw me for a year into what they called “automatic arrest.”
 
 This is my memorial day.
+
+---
 
 **4 October 1956**
 
@@ -28311,6 +29851,8 @@ I have to tell myself:
 in the house of the hanged man, one does not speak of the rope.
 
 But in the house of the executioner, people talk all the more about law and justice.
+
+---
 
 **9 November 1956**
 
@@ -28346,6 +29888,8 @@ Becoming houseless as a form of clearing out the clutter.
 
 The atomic bomb as the specific instrument of clearing out the clutter.
 
+---
+
 **18 November 1956**
 
 The Greek popular assembly sat.
@@ -28363,6 +29907,8 @@ From *status* to movement!
 From statesman to gangster!
 
 Irresistible progress!
+
+---
 
 **23 November 1956**
 
@@ -28387,6 +29933,8 @@ The monad has no windows.
 Then perhaps it should try making the sign of the Cross.
 
 Perhaps a few windows would open.
+
+---
 
 **28 November 1956**
 
@@ -28415,6 +29963,8 @@ The theory of relativity is Judaism for Nobel Prize winners with no education in
 Darwinism is a doctrine of salvation and a system of education for social climbers and Manchester men.
 
 And so on and so on.
+
+---
 
 **5 December 1956**
 
@@ -28459,6 +30009,8 @@ Every sharpening of the point harms your case.
 
 Suffer and listen,
 listen and suffer!
+
+---
 
 **End of the year 1956**
 
@@ -28536,6 +30088,8 @@ You can see this both in the preface and at the end of *The Nomos of the Earth*.
 
 Will another person ever be found who understands it?
 
+---
+
 **18 January 1957**
 
 Konrad Kaletsch told me about the incident involving Flick, de Menthon, and Armengaud during the visit of the delegates from the Coal and Steel Community to the Maxhütte works.
@@ -28555,6 +30109,8 @@ I am defenseless and Flick is powerful.
 But I am bound to conscious language and speech.
 
 Even so, I felt deep sympathy for the capable old Flick, and as a jurist I was ashamed of the legal criminalizer who becomes trapped in his own constructions and can no longer make peace.
+
+---
 
 **21 January 1957**
 
@@ -28610,6 +30166,8 @@ Then you will have statistics unlike anything any previous social order has ever
 I already sensed this during the First World War and described it in my essay “The Buribunks” (*Summa*, 1917/18).
 
 But at the time I knew nothing yet of the questionnaire—invented by the Anglo-Saxons—or of all its later refinements.
+
+---
 
 **3 February 1957**
 
@@ -28707,6 +30265,8 @@ Bavarian Radio probably hung it around his neck.
 
 I would rather give a lecture on the Bavarian Party and the electoral threshold.
 
+---
+
 **28 February 1957**
 
 “Those bells were never yours,
@@ -28754,6 +30314,8 @@ But this remains:
 Those were never your saints,
 and I cannot part from them.
 
+---
+
 **17 March 1957**
 
 Peter Schneider’s book *State of Exception and Norm: A Study of the Legal Theory of C. S.* has finally appeared.
@@ -28780,6 +30342,8 @@ Today anyone can kill anyone.
 
 That is total jurisdiction.
 
+---
+
 **18 March 1957**
 
 Walter Warnach thinks, rightly, that Catholics are more restrained in their speech than Protestants.
@@ -28797,6 +30361,8 @@ Priests cannot speak freely with laypeople.
 Laypeople cannot speak freely with priests.
 
 Secularized priests and secularized laypeople continue this habit for generations.
+
+---
 
 **25 March 1957**
 
@@ -28844,6 +30410,8 @@ How was this author supposed to digest a life’s work such as mine?
 
 And how was he allowed to appear before the German public while suffering from such obvious digestive problems?
 
+---
+
 **30 March 1957**
 
 Meanwhile Hans Zehrer blows a tremendous trumpet blast into empty space by publishing an article on the permanent state of exception in *Die Welt* of 30 March 1957.
@@ -28855,6 +30423,8 @@ Zehrer dares to say openly that atomic power—which by its nature depends on se
 Today, when a small sworn circle decides matters concerning the atom, we live under a permanent state of exception that more or less suspends democracy.
 
 Faced with concrete realities like these, our Swiss ostrich prefers to stick his head into a bowl of whipped cream.
+
+---
 
 **10 April 1957**
 
@@ -28932,6 +30502,8 @@ Peter Schneider’s book pushes me further into the problem of the judicial proc
 
    My opinion of 25 August 1945 on the *scelus infandum*—the unspeakable crime.
 
+---
+
 **13 April 1957**
 
 Listen to this Ernst Bloch:
@@ -28953,6 +30525,8 @@ And in this way the monstrous super-state called the **Soviet Union** is justifi
 Such faith I have found nowhere but in Israel!
 
 Such justification by the final end I have not found even among the Jesuits!
+
+---
 
 **24 April 1957**
 
@@ -28983,6 +30557,8 @@ Why, madman, do you groan? Why pour out useless tears,
 instead of admitting that of your own free will
 you obey the crime and fall into line the moment things become serious?
 
+---
+
 **28 April 1957**
 
 Lucan also gives us the most brilliant example of how a sense of law, in a situation of civil war, must lead to disaster—and all the more disastrously the better justified it is.
@@ -28998,6 +30574,8 @@ we are being dragged along under the name of peace.
 Everything can be applied to the present world situation.[^fn-p19-pdf16-n01]
 
 The Roman is the man of law precisely because he knows the limits of law.
+
+---
 
 **22 May 1957**
 
@@ -29084,6 +30662,8 @@ Compare the story in Funck-Brentano, *Le Roi* (1907):
 
 “Your Majesty will decide the case personally.”
 
+---
+
 **1 June 1957**
 
 The editors of the *Rheinischer Merkur*—Roegele—deleted my name from an article by Walter Warnach about Spain and Calvo Serer.[^fn-p19-pdf18-n01]
@@ -29095,6 +30675,8 @@ He guides the hand of these people who strike my name out.
 They intend evil, and the guardian angel turns it into good.
 
 I would have been very embarrassed if my name had appeared in that article.
+
+---
 
 **10 June 1957, Whit Monday**
 
@@ -29151,6 +30733,8 @@ An alibi before whom?
 
 Before another human being!
 
+---
+
 **11 June 1957**
 
 You pray to false gods.
@@ -29163,10 +30747,14 @@ Religion becomes the opium of the people when the laity has its wine taken away.
 
 Naturally they have to run to foreign gods once they start taking foreign intoxicants.
 
+---
+
 **12 June 1957**
 
 The priest has stolen away the wine.
 We have a great deal to make up for.
+
+---
 
 **17 June 1957**
 
@@ -29190,6 +30778,8 @@ The democratic way of life.
 
 It is the road forced upon us by the logic of concepts of this kind.
 
+---
+
 **20 June 1957**
 
 The final result of a jurist’s existence:
@@ -29199,6 +30789,8 @@ I do not want to have power.
 But I want even less to be in the right.
 
 So my heartfelt condolences on your constitutional state!
+
+---
 
 **1 July 1957**
 
@@ -29216,6 +30808,8 @@ not even my schnapps anymore.
 
 It is Coca-Cola-coalition music.
 
+---
+
 **21 July 1957**
 
 In Heidelberg I quoted to Carl-Joachim Friedrich the line:
@@ -29229,6 +30823,8 @@ He said:
 
 In America you rarely hear church bells ringing.
 
+---
+
 **30 July 1957**
 
 In Wiesbaden, at Hans Freyer’s seventieth birthday, we laughed at Adorno’s revealing remark about Hegel’s “grandiose peasant cunning.”
@@ -29236,6 +30832,8 @@ In Wiesbaden, at Hans Freyer’s seventieth birthday, we laughed at Adorno’s r
 In that remark you can see a cloven hoof that may turn into a boomerang and, as Hans Barion added, strike an Achilles heel.
 
 How amusing these self-revelations of the great revealers are.
+
+---
 
 **10 August 1957**
 
@@ -29267,6 +30865,8 @@ And Samuel Pepys crawls into his diary.
 
 Switzerland is certainly no *katechon*.
 
+---
+
 **12 August 1957**
 
 When I was talking with A. Kojève about the falsification of the sacrament and complained about the withholding of the wine, he replied:
@@ -29278,6 +30878,8 @@ At that moment I noticed that he was a cleric and I was a layman.
 And yet no Iron Curtain fell between us.
 
 Nor did the speaking grille of a confessional.
+
+---
 
 **17 August 1957**
 
@@ -29314,6 +30916,8 @@ Wars will cease.
 Class struggles will cease.
 
 Socialism ends in sociology.[^fn-p19-pdf20-n01]
+
+---
 
 **21 August 1957**
 
@@ -29361,6 +30965,8 @@ Perhaps you should sing of progress?
 
 Yes indeed!
 
+---
+
 **2 September 1957**
 
 Yes indeed!
@@ -29388,6 +30994,8 @@ Come into your own where you inherit your failure!!
 And carry out progress in the mode of failure!
 
 That would make a fine antistrophe to the many forms of terror in the Song of the Sixty-Year-Old!
+
+---
 
 **13 September 1957**
 
@@ -29423,6 +31031,8 @@ atheist rationalists and Marxists such as Georg Lukács suddenly find themselves
 
 So perhaps we could all quite happily philosophize together about knowledge and power, *sagesse et tyrannie*—wisdom and tyranny—without insulting one another and criminalizing one another as traitors to the spirit.
 
+---
+
 **4 October 1957**
 
 By creating the world out of nothing, God thereby made Nothing into Something it had not been before:
@@ -29449,6 +31059,8 @@ It certainly looks like it.
 
 Which only makes this Nothing from which it was created more and more interesting.
 
+---
+
 **5 October 1957**
 
 The problem of the order:
@@ -29460,6 +31072,8 @@ Material for a new world war.
 I find it unbelievable that wine comes before woman.
 
 Woman is the first stage.
+
+---
 
 **6 October 1957**
 
@@ -29497,6 +31111,8 @@ Fine.
 
 But that sealing-off produced the first map of the province.
 
+---
+
 **28 October 1957**
 
 Three grim prophecies for the Germans:
@@ -29517,6 +31133,8 @@ Three grim prophecies for the Germans:
 
 6. Like the Poles and Czechs.[^fn-p19-pdf23-n01]
 
+---
+
 **29 October 1957**
 
 Why exactly did Ernst Bloch become so furious when I spoke of the “proletarian consciousness of having been cheated”?[^fn-p19-pdf23-n02]
@@ -29532,6 +31150,8 @@ All I have left is progress in the consciousness of having been cheated.
 From time to time I change the kind of person I allow to cheat me.
 
 Then the discarded swindler rages after me and calls me a characterless traitor.
+
+---
 
 **31 December 1957**
 
@@ -29557,6 +31177,8 @@ We should not envy them for it.
 
 If I had the power, I would gladly guarantee every one of them death from old age.
 
+---
+
 **4 January 1958**
 
 Today human beings use technology to create their own environment.
@@ -29569,11 +31191,15 @@ They become animals, like other animals.
 
 No wonder there has never been so much talk about Man and humanity as there is today.
 
+---
+
 **[6 April 1958], Easter 1958**
 
 And your race is ’89!
 
 (Michelet)
+
+---
 
 **[25 May 1958], Pentecost 1958**
 
@@ -29584,6 +31210,8 @@ Protestantism ends as Hamlet.
 Sons of Puritans become Jesuits.
 
 The entire Western world is Hamlet and will give its dying voice to a Fortinbras.
+
+---
 
 **Constitutional-Theory Pentecost Festival, 1958**
 
@@ -29645,6 +31273,8 @@ For that purpose Holy Scripture was good enough for them as the holy Ur-Urkunde�
 
 complete with primordial fresh-cell interpretations.
 
+---
+
 **1 June 1958**
 
 After reading C. F. von Weizsäcker’s discussion of “the present prospects for limiting the danger of atomic war”:
@@ -29659,6 +31289,8 @@ The whole West ends as Hamlet.
 
 It begins as a revenge drama—revenge on Hitler’s Germany—and will end as a murder ballad in which, at last, every character lies dead on the stage and Fortinbras inherits everything, legitimized by the dying Hamlet and his dying voice.
 
+---
+
 **3 June 1958**
 
 There are, after all, two Carl Schmitts:
@@ -29666,6 +31298,8 @@ There are, after all, two Carl Schmitts:
 the exoteric one—who therefore calls himself Carlo—and the esoteric one.
 
 On Otto Weininger’s hatred of the Viennese waltz: hatred of the Leviathan, hatred of chthonic life. Compare my *Leviathan*, p.[^fn-p20-pdf01-n01]
+
+---
 
 **5 June 1958, Corpus Christi**
 
@@ -29707,6 +31341,8 @@ An anxious question from the seventy-year-old:
 
 Will I live to see the de-Nathanization of Germany?[^fn-p20-pdf02-n01]
 
+---
+
 **July 1958, in Casalonga**
 
 A great encounter with land and sea at Cape Finisterre.
@@ -29731,6 +31367,8 @@ the collected essays and the commemorative volume.[^fn-p20-pdf02-n03]
 
 Only a born counterfeiter could have come up with the idea of the three rings in *Nathan the Wise*.
 
+---
+
 **16 August 1958**
 
 The key sentence—which also applies to the whole invasion of Wilhelmine Germany by people coming out of the declining Habsburg [Monarchy], people such as Reinhardt, Freud, Schnitzler, Werfel, Rilke, and Däubler—is found quite near the beginning of Hitler’s *Mein Kampf*, on p. 57, in the second chapter, “Years of Study and Suffering in Vienna”:
@@ -29740,6 +31378,8 @@ The key sentence—which also applies to the whole invasion of Wilhelmine German
 1908!!
 
 [^fn-p20-pdf02-n04]
+
+---
 
 **22 August 1958**
 
@@ -29762,6 +31402,8 @@ And there is joy in feeling death.
 Lucan’s religion, without those who exploit it and falsify it.
 
 The religion of a young man who had access to Nero.
+
+---
 
 **25 August 1958**
 
@@ -29813,6 +31455,8 @@ But who were the Monopantones then?
 
 And who are they today?
 
+---
+
 **26 August 1958**
 
 No human being has ever spoken to his persecutors more calmly and reasonably than I have.[^fn-p20-pdf03-n01]
@@ -29821,6 +31465,8 @@ Through gentleness—practice this duty—
 You will defeat your enemy.
 Oh, do not rob your soul
 Of this heavenly pleasure.[^fn-p20-pdf03-n02]
+
+---
 
 **27 August 1958**
 
@@ -29839,6 +31485,8 @@ Hiroshima, for example, in August;
 the Morgenthau Plan;
 
 a Devil’s Calendar instead of a Calendar of Saints.
+
+---
 
 **3 September 1958**
 
@@ -29864,6 +31512,8 @@ And those, naturally, are deadly.
 
 Then begins the hopeless struggle over what is genuine and what is false—which means friend and enemy—with all its satanic violence and all its Nathan-like fraud.
 
+---
+
 **7 September 1958, Sunday**
 
 “The genuine ring was presumably lost.”
@@ -29875,6 +31525,8 @@ There it is!
 The fraud reveals itself.
 
 The destruction of genuineness as such![^fn-p20-pdf03-n03]
+
+---
 
 **9 September 1958**
 
@@ -29922,6 +31574,8 @@ It cannot go on.
 
 Gelimer’s laughter is still the mildest possible answer to insults as deadly as these.
 
+---
+
 **16 September 1958**
 
 Consensus follows power.
@@ -29954,6 +31608,8 @@ On one of them, someone plays a beautiful melody.
 
 On another, some dreadful incompetent scratches away.
 
+---
+
 **21 September 1958**
 
 Consensus follows power and thereby becomes genuine consensus.
@@ -29976,6 +31632,8 @@ The question, therefore, is who can get control of the monopoly possessed by the
 
 The trade unions have succeeded in doing so.
 
+---
+
 **22 September 1958**
 
 When Hegel says “God is dead,” there is still something of the magic of Good Friday in it.
@@ -29987,6 +31645,8 @@ It is most dangerous of all in Bonald:
 “God is dead” means:
 
 God is absent.
+
+---
 
 **27 September 1958**
 
@@ -30023,6 +31683,8 @@ Let him stick with him now.
 
 The social ideal is Jünger’s war.
 
+---
+
 **10 October 1958**
 
 Yesterday morning, at around four o’clock, God Almighty summoned the Roman Pope, who had sat upon the Holy See, before His own throne—the judgment seat of the Almighty and All-Knowing.[^fn-p20-pdf05-n04]
@@ -30039,6 +31701,8 @@ after prolonging matters for so long and so often, and after so long playing the
 The sentimental newspaper, radio, and television chatter that poured out in streams over this death now flows into the scale on the left.
 
 God have mercy on the poor diplomat’s soul.
+
+---
 
 **30 October 1958**
 
@@ -30088,6 +31752,8 @@ What identity!
 
 I had better say no more, “out of consideration for the society in which I live.”
 
+---
+
 **4 November 1958**
 
 All Jews come to grief against me.
@@ -30095,6 +31761,8 @@ All Jews come to grief against me.
 But as long as I, Carl Schmitt, remain alive, the Jews still have a chance.
 
 Feast day of Saint Charles Borromeo.
+
+---
 
 **9 November 1958**
 
@@ -30172,6 +31840,8 @@ I think the deliberately drunken Helot is Europe today.
 
 And Montherlant imagines himself to be a Spartan because, with the permission and applause of the masters, he helps mix the drink.
 
+---
+
 **11 November 1958**
 
 Today we are Pasternakized.
@@ -30202,6 +31872,8 @@ They remain trapped inside the simplest possible dilemma:
 
 *If the Germans are not what he (Connor) says they are—what is he?*
 
+---
+
 **12 November 1958**
 
 An important proposal for relieving our burden:
@@ -30229,6 +31901,8 @@ PASTERNAKISTAN
 Under the banner of this name, recognition of our ascent into humanity will be made much easier, and our chances of admission to the United Nations will be greatly improved.
 
 Erich Strauss.
+
+---
 
 **16 November 1958**
 
@@ -30291,6 +31965,8 @@ Only parasites can live off such things.
 No honest person can.[^fn-p20-pdf08-n02]
 
 Aggression is supposed to be a crime in an age of unleashed progress!
+
+---
 
 **7 December 1958, Sunday**
 
@@ -30358,6 +32034,8 @@ the thousand-year kingdom began long ago.
 
 It continues unchanged, with the elites circulating through it.
 
+---
+
 **8 December 1958**
 
 Irony will never become popular.
@@ -30401,6 +32079,8 @@ It was Theodor Haecker, in his 1918 afterword to *The Concept of the Chosen One*
 Nothing more occurs to you when you think of Hitler?
 
 When **I** think of Hitler, all of **you** occur to me!
+
+---
 
 **28 December 1958**
 
@@ -30450,6 +32130,8 @@ Because something occurred to him when he thought about Hitler.
 
 Ludwig Feuchtwanger, Ernst Bloch, and Paul Joachimsen had already confirmed that to me in a letter from October 1923, in connection with *Political Romanticism* and my book on parliamentarism.
 
+---
+
 **30 December 1958**
 
 At Christmas I received a Christmas greeting from Otto Kirchheimer:
@@ -30467,6 +32149,8 @@ And yet I still prefer him to Nathan the Wise and Satan the Quiet.
 But:
 
 Those were never your bells.[^fn-p20-pdf10-n01]
+
+---
 
 **31 December 1958**
 
@@ -31007,6 +32691,8 @@ She was challenged just as deeply, and she was every bit as lovely, but infinite
 
 How firmly she keeps both her reason and her moral bearing!
 
+---
+
 **28 April 1949**
 
 Quoted by H. Güllich from a letter by G. [von] Le Fort dated 17 January 1949:
@@ -31023,6 +32709,8 @@ The clay lips of the liars—
 How your wordless mouth prophesies!
 
 *[Folio 5/6r]*
+
+---
 
 **25 August 1947**
 
@@ -31126,6 +32814,8 @@ Politics.
 
 On the great parallel.
 
+---
+
 **26 August 1947**
 
 Law is eternal.
@@ -31193,6 +32883,8 @@ pest control;
 the extermination of bedbugs.
 
 And its great form, the criminal trial, accordingly becomes a technical measure carried out by police officers, doctors, propagandists, and the chemists of wars of annihilation.
+
+---
 
 **26 August 1947**
 
@@ -31348,6 +33040,8 @@ those poor fat caterpillars trying to glue a butterfly in flight with their slim
 
 and precisely that is supposed to disappear early!)
 
+---
+
 **26 August [1947], evening**
 
 Again and again:
@@ -31437,6 +33131,8 @@ She could think of Mary’s purity only with terror.
 Oh, poor Annette.
 
 *[Folio 9r]*
+
+---
 
 **27 August 1947**
 
