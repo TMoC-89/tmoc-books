@@ -8,4 +8,4 @@ Static reading site for the TMoC book translations.
 
 The site has no build step or external runtime dependencies.
 
-Current library: **Heroes Without History**, **Right and Left in Islam**, **Sophia**, **Religion and Socialism**, and **Patience and Victory**.
+Current library: **Heroes Without History**, **Right and Left in Islam**, **Sophia**, **Religion and Socialism**, **Patience and Victory**, and **Glossarium**.
