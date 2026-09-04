@@ -7029,8 +7029,6 @@ Transfer this to the entire earth, and what results is not merely a wider but, t
 
 **15 April 1948**
 
-<!-- FACSIMILE_INSERT: asset="facsimiles/P06_source-113_facsimile-01.jpeg" part="06" printed-page="97" source-page="113" part-pdf-page="7" sequence="1-of-1" -->
-
 Sohm II, p. 233.
 
 A list of the contaminated, used to determine which groups were to be discriminated against after victory:
@@ -7047,13 +7045,15 @@ Stir it thoroughly into a 40 percent claim to social responsibility.
 
 Add less than 9 percent Christianity. And do not forget to reserve the remaining percentage for an exception that cancels out everything you have just added. Then you have turned wood-pulp paper into a new German constitution.
 
-A newspaper clipping from the *FAZ* of 29 September 1953 pasted in.
+<!-- FACSIMILE_INSERT: asset="facsimiles/P06_source-113_facsimile-01.jpeg" part="06" printed-page="97" source-page="113" part-pdf-page="7" sequence="1-of-1" -->
 
-On the left: the astrological sign of Jupiter, drawn in red.
-
-On and beside the clipping:
-
-“On the book by James P. Warburg, *Germany, Key to Peace*, [Cambridge] 1953.”
+> A newspaper clipping from the *FAZ* of 29 September 1953 pasted in.
+>
+> On the left: the astrological sign of Jupiter, drawn in red.
+>
+> On and beside the clipping:
+>
+> “On the book by James P. Warburg, *Germany, Key to Peace*, [Cambridge] 1953.”
 
 Rikus:
 
@@ -15073,8 +15073,6 @@ His definition is:
 
 Crimes against humanity are crimes committed by Germans.
 
-<!-- FACSIMILE_INSERT: asset="facsimiles/P12_source-230_facsimile-01.jpeg" part="12" printed-page="214" source-page="230" part-pdf-page="6" sequence="1-of-1" -->
-
 On the subject of crimes against humanity:
 
 Take a close look at this Monsieur Aroneanu.[^fn-p12-pdf06-n01]
@@ -15087,23 +15085,25 @@ Crimes against humanity can only be committed by Germans.
 
 (P.[ère] Laberthonnière.)
 
-Newspaper clipping pasted in.
+<!-- FACSIMILE_INSERT: asset="facsimiles/P12_source-230_facsimile-01.jpeg" part="12" printed-page="214" source-page="230" part-pdf-page="6" sequence="1-of-1" -->
 
-*The Times Weekly*, 15 February 1950.
-
-On the left:
-
-In the total state, equal rights become equal burdens.
-
-Clear enough.
-
-But these burdens do not fall on the elite. The elite eats butter and fires cannons. The elite proclaims that labor, not gold, creates value. That means workers’ wages are paid not in gold but in home-made ration coupons.[^fn-p12-pdf07-n01]
-
-In the total state, equal burden-sharing is only a formal transitional stage.
-
-In reality, it is merely a passing moment in democracy’s dialectical abolition of itself.
-
-The stage immediately after it—a stage already contained within that transition—is one of extreme over-privilege and under-privilege. These arise automatically when the former, defeated elite is destroyed and preventive measures are taken against the beginnings and formation of new elites.
+> Newspaper clipping pasted in.
+>
+> *The Times Weekly*, 15 February 1950.
+>
+> On the left:
+>
+> In the total state, equal rights become equal burdens.
+>
+> Clear enough.
+>
+> But these burdens do not fall on the elite. The elite eats butter and fires cannons. The elite proclaims that labor, not gold, creates value. That means workers’ wages are paid not in gold but in home-made ration coupons.[^fn-p12-pdf07-n01]
+>
+> In the total state, equal burden-sharing is only a formal transitional stage.
+>
+> In reality, it is merely a passing moment in democracy’s dialectical abolition of itself.
+>
+> The stage immediately after it—a stage already contained within that transition—is one of extreme over-privilege and under-privilege. These arise automatically when the former, defeated elite is destroyed and preventive measures are taken against the beginnings and formation of new elites.
 
 But what if Hitler was only an echo?
 
@@ -15867,8 +15867,6 @@ Heresy is a crime under ordinary law.
 
 St. Gregory is different. He exhorts Gennadius, the exarch of Africa, “to resist with force for the good of the Christian people.”
 
-<!-- FACSIMILE_INSERT: asset="facsimiles/P12_source-241_facsimile-01.jpeg" part="12" printed-page="225" source-page="241" part-pdf-page="17" sequence="1-of-1" -->
-
 *Ecclesiastica proelia sicut bellatores Domini fortiter dimicatis!!*
 
 You fight the battles of the Church bravely, like warriors of the Lord!!
@@ -15899,11 +15897,13 @@ All from the letters of St. Gregory.
 
 *Patrologia Latina* LXXVII, cols. 528–29.
 
-Newspaper cutting from *Die Zeit*, 9 February 1950, pasted in.
+<!-- FACSIMILE_INSERT: asset="facsimiles/P12_source-241_facsimile-01.jpeg" part="12" printed-page="225" source-page="241" part-pdf-page="17" sequence="1-of-1" -->
 
-Written above it:
-
-“Illustration of the Just War. *Die Zeit*; yes indeed, *Die Zeit*.”
+> Newspaper cutting from *Die Zeit*, 9 February 1950, pasted in.
+>
+> Written above it:
+>
+> “Illustration of the Just War. *Die Zeit*; yes indeed, *Die Zeit*.”
 
 Carl Erdmann speaks of the “Gregorian missionary war.”
 
@@ -16101,8 +16101,6 @@ Today that consists of the millions who have been discriminated against.
 
 The more their condemnation into this underground realm is carried out in the name of humanity and human rights, and for the protection of true peace, the more final and eternal that condemnation becomes.
 
-<!-- FACSIMILE_INSERT: asset="facsimiles/P12_source-244_facsimile-01.jpeg" part="12" printed-page="228" source-page="244" part-pdf-page="20" sequence="1-of-1" -->
-
 In 1926 I wrote and published the claim that one could tell, from every work dealing with constitutional questions, whether its author knew the writing of the young Hegel.
 
 Twenty-five years later, I see how childish this appeal to the education of German teachers of law really was.
@@ -16117,13 +16115,15 @@ And people today are still talking about natural law—people who do not even kn
 
 Talking about the rule-of-law state without knowing the passage about the spirit of the earth rising upright.
 
-A cutting from an English-language newspaper of 12 April 1950 is pasted in, showing a “High Flying Suit.”
+<!-- FACSIMILE_INSERT: asset="facsimiles/P12_source-244_facsimile-01.jpeg" part="12" printed-page="228" source-page="244" part-pdf-page="20" sequence="1-of-1" -->
 
-Written above it:
-
-“Ah, no bodily wing will ever join the wings of the spirit.
-
-*Le voilà*—there he is, the companion!”
+> A cutting from an English-language newspaper of 12 April 1950 is pasted in, showing a “High Flying Suit.”
+>
+> Written above it:
+>
+> “Ah, no bodily wing will ever join the wings of the spirit.
+>
+> *Le voilà*—there he is, the companion!”
 
 ---
 
@@ -16658,8 +16658,6 @@ Carlo Schmid and the fine arts.
 
 **16 August 1950**
 
-<!-- FACSIMILE_INSERT: asset="facsimiles/P13_source-252_facsimile-01.jpeg" part="13" printed-page="236" source-page="252" part-pdf-page="7" sequence="1-of-1" -->
-
 De Maistre thought that nothing worse could happen to a decent man than to find himself in the position of having to sit in judgment over the murderer of his own son.
 
 Very beautiful.
@@ -16674,9 +16672,11 @@ It pays to be a victim.
 
 Nothing pays better.
 
-Newspaper clipping dated 3 August 1950 pasted in, with a cartoon about the Korean War. Written beneath it:
+<!-- FACSIMILE_INSERT: asset="facsimiles/P13_source-252_facsimile-01.jpeg" part="13" printed-page="236" source-page="252" part-pdf-page="7" sequence="1-of-1" -->
 
-“Only someone who knows his prey better than the prey knows itself can conquer it.”
+> Newspaper clipping dated 3 August 1950 pasted in, with a cartoon about the Korean War. Written beneath it:
+>
+> “Only someone who knows his prey better than the prey knows itself can conquer it.”
 
 ---
 
@@ -17390,9 +17390,9 @@ You faithful light of the world.
 
 <!-- FACSIMILE_INSERT: asset="facsimiles/P14_source-264_facsimile-01.jpeg" part="14" printed-page="248" source-page="264" part-pdf-page="4" sequence="1-of-1" -->
 
-Newspaper clipping from the *FAZ*, 20 August 1951, pasted in: Karl Korn’s review of B. Brecht, *Versuche*. Above it:
-
-“The alienation effect makes sense only in a friend-enemy situation. It preserves the clarity of the distinction. It prevents the two sides from melting into one another. The alienation effect rests on the emotional force of the friend-enemy distinction. *Verfremdung*—alienation—really means *Verfehmung*: putting someone under the ban!”
+> Newspaper clipping from the *FAZ*, 20 August 1951, pasted in: Karl Korn’s review of B. Brecht, *Versuche*. Above it:
+>
+> “The alienation effect makes sense only in a friend-enemy situation. It preserves the clarity of the distinction. It prevents the two sides from melting into one another. The alienation effect rests on the emotional force of the friend-enemy distinction. *Verfremdung*—alienation—really means *Verfehmung*: putting someone under the ban!”
 
 ---
 
@@ -17427,25 +17427,25 @@ They drift through every land!
 
 And then there is the decayed printer’s ink of stale ideologies. That, too, drifts through every land.
 
+Here in the Sauerland, the mountains breathe through gills. In return, the land itself is mute. And the mountains look like turtles. The soul breathes through gills.
+
 <!-- FACSIMILE_INSERT: asset="facsimiles/P14_source-266_facsimile-01.jpeg" part="14" printed-page="250" source-page="266" part-pdf-page="6" sequence="1-of-2" -->
 
-Here in the Sauerland, the mountains breathe through gills. In return, the land itself is mute. And the mountains look like turtles. The soul breathes through gills.
+> Newspaper clipping from the *FAZ*, 28 February 1953, pasted in. Above it: “Continuation, 1953.”
 
 <!-- FACSIMILE_INSERT: asset="facsimiles/P14_source-266_facsimile-02.jpeg" part="14" printed-page="250" source-page="266" part-pdf-page="6" sequence="2-of-2" -->
 
-Newspaper clipping from the *FAZ*, 28 February 1953, pasted in. Above it: “Continuation, 1953.”
+> Another newspaper clipping pasted in. Beside it: “*Christ und Welt*, 25 August 1951. Access to the summit of power.”
+>
+> On the right: “Touching example of the problem of gaining access to the summit of power. What must things be like with Stalin? The bottleneck.”
+>
+> Underneath: “Continuation, *FAZ*, 28 February 1953: problem of access to the ruler. (And these heroes of freedom put up with this for years!)”
 
 <!-- FACSIMILE_INSERT: asset="facsimiles/P14_source-267_facsimile-01.jpeg" part="14" printed-page="251" source-page="267" part-pdf-page="7" sequence="1-of-1" -->
 
-Another newspaper clipping pasted in. Beside it: “*Christ und Welt*, 25 August 1951. Access to the summit of power.”
-
-On the right: “Touching example of the problem of gaining access to the summit of power. What must things be like with Stalin? The bottleneck.”
-
-Underneath: “Continuation, *FAZ*, 28 February 1953: problem of access to the ruler. (And these heroes of freedom put up with this for years!)”
-
-Newspaper clipping containing a quotation from Werner Heisenberg pasted in. Above it:
-
-“What is the <physicist>? A criminal or a mentally ill person? Somehow, the answer depends on what we decide to do with him?”
+> Newspaper clipping containing a quotation from Werner Heisenberg pasted in. Above it:
+>
+> “What is the <physicist>? A criminal or a mentally ill person? Somehow, the answer depends on what we decide to do with him?”
 
 ---
 
@@ -17877,8 +17877,6 @@ Perhaps as rector of the university?
 
 And would he have gone to Paris if Napoleon had invited him in 1808—instead of Goethe?
 
-<!-- FACSIMILE_INSERT: asset="facsimiles/P14_source-273_facsimile-01.jpeg" part="14" printed-page="257" source-page="273" part-pdf-page="13" sequence="1-of-1" -->
-
 Beautiful words from Heidegger on thinking:
 
 “The word of the thinker has no authority. The word of thinkers knows no authors. The word of thinking has neither brilliance nor charm. The word of thinking rests in sobriety toward what it says.”
@@ -17889,45 +17887,47 @@ Thinking is a thankless activity.
 
 Unthinkably thankless.
 
-Newspaper clipping from the *FAZ*, 21 August 1950, pasted in. Above it: “9 October 1951.”
+<!-- FACSIMILE_INSERT: asset="facsimiles/P14_source-273_facsimile-01.jpeg" part="14" printed-page="257" source-page="273" part-pdf-page="13" sequence="1-of-1" -->
 
-To the left:
-
-“*Character assassination as one of the fine arts.*
-
-Masters of this art: Ebenstein & Löwenstein, Kaufmann & Radbruch.
-
-The internal enemy!
-
-How is anyone supposed to make sense of this anymore?
-
-He does not say ‘enemy’; he says ‘aggression.’
-
-What is more <human>?
-
-Gustav Radbruch, William Ebenstein, and the pack that repeats what they say—all examples of *character assassination*; obscenity of the soul.
-
-The essential thing: the conviction that <…> one is right.”
-
-To the right:
-
-“Does he not dare to name him?
-
-That is the terror that no one dares to name!”
-
-<!-- FACSIMILE_INSERT: asset="facsimiles/P14_source-274_facsimile-01.jpeg" part="14" printed-page="258" source-page="274" part-pdf-page="14" sequence="1-of-1" -->
+> Newspaper clipping from the *FAZ*, 21 August 1950, pasted in. Above it: “9 October 1951.”
+>
+> To the left:
+>
+> “*Character assassination as one of the fine arts.*
+>
+> Masters of this art: Ebenstein & Löwenstein, Kaufmann & Radbruch.
+>
+> The internal enemy!
+>
+> How is anyone supposed to make sense of this anymore?
+>
+> He does not say ‘enemy’; he says ‘aggression.’
+>
+> What is more <human>?
+>
+> Gustav Radbruch, William Ebenstein, and the pack that repeats what they say—all examples of *character assassination*; obscenity of the soul.
+>
+> The essential thing: the conviction that <…> one is right.”
+>
+> To the right:
+>
+> “Does he not dare to name him?
+>
+> That is the terror that no one dares to name!”
 
 Poor in deeds and rich in thoughts. That had to reverse itself. And so a realm rich in deeds really did appear—namely Adolf Tatenreich—and turned Germany into a realm rich in pain.
 
 And when <…> poor in thoughts and poor in deeds and ex<.> <…>, Theodor Heuss <appeared>.[^fn-p14-pdf13-n01]
 
-Two newspaper clippings pasted in, one from *Die Zeit*, 27 September 1951, and one from the *FAZ*, 15 October 1951.
+<!-- FACSIMILE_INSERT: asset="facsimiles/P14_source-274_facsimile-01.jpeg" part="14" printed-page="258" source-page="274" part-pdf-page="14" sequence="1-of-1" -->
 
-Above them: “11 October 1951.”
-
-Marginal notes on the first:
-
-“On Hans Peters, president of the Görres Society, CDU representative; proposes Steiniger for membership in the Association of German Constitutional Law Teachers; carries out his own policy of self-insurance; represents the constitutional state.”
+> Two newspaper clippings pasted in, one from *Die Zeit*, 27 September 1951, and one from the *FAZ*, 15 October 1951.
+>
+> Above them: “11 October 1951.”
+>
+> Marginal notes on the first:
+>
+> “On Hans Peters, president of the Görres Society, CDU representative; proposes Steiniger for membership in the Association of German Constitutional Law Teachers; carries out his own policy of self-insurance; represents the constitutional state.”
 
 <!-- FACSIMILE_INSERT: asset="facsimiles/P14_source-275_facsimile-01.jpeg" part="14" printed-page="259" source-page="275" part-pdf-page="15" sequence="1-of-1" -->
 
@@ -18024,8 +18024,6 @@ Today the Germans complain about the art that the Russians and the other victors
 
 **21 October 1951**
 
-<!-- FACSIMILE_INSERT: asset="facsimiles/P14_source-277_facsimile-01.jpeg" part="14" printed-page="261" source-page="277" part-pdf-page="17" sequence="1-of-1" -->
-
 The body is the outward expression, the visible activity of the self.
 
 Compare *Phenomenology of Spirit*, p. 233 (245/6).
@@ -18036,53 +18034,53 @@ Deed—falling away from the idea, falling away from purity—misdeed—guilt—
 
 Sohm, that utterly noble man, says the same thing: there is no law of the Church, only a community of love.
 
-Newspaper clipping from the *FAZ*, 5 November 1951, pasted in.
+<!-- FACSIMILE_INSERT: asset="facsimiles/P14_source-277_facsimile-01.jpeg" part="14" printed-page="261" source-page="277" part-pdf-page="17" sequence="1-of-1" -->
 
-On it, above the headline: “<…> Clear!!”
-
-Above and to the right:
-
-“Is property theft?
-
-Is resistance treason?
-
-Is treason resistance?
-
-Is taxation punishment?
-
-(Sweetener tax: punishment for eating chocolate.)
-
-Is self-help a crime?
-
-Is crime self-help?
-
-Psychoanalytically:
-
-Is shaving oneself pederasty?
-
-Is drinking beer masturbation?
-
-Is blowing one’s nose sadism?
-
-Is shaving oneself narcissism?
-
-Is shaving oneself undeclared labour?
-
-(Petition by the National Association of Barbers.)”
-
-On the left:
-
-“All work of the mind is good undeclared labour.
-
-So it says in a publication of the Economic and Political Society from 1947 (Frankfurt); compare p. 73.”
+> Newspaper clipping from the *FAZ*, 5 November 1951, pasted in.
+>
+> On it, above the headline: “<…> Clear!!”
+>
+> Above and to the right:
+>
+> “Is property theft?
+>
+> Is resistance treason?
+>
+> Is treason resistance?
+>
+> Is taxation punishment?
+>
+> (Sweetener tax: punishment for eating chocolate.)
+>
+> Is self-help a crime?
+>
+> Is crime self-help?
+>
+> Psychoanalytically:
+>
+> Is shaving oneself pederasty?
+>
+> Is drinking beer masturbation?
+>
+> Is blowing one’s nose sadism?
+>
+> Is shaving oneself narcissism?
+>
+> Is shaving oneself undeclared labour?
+>
+> (Petition by the National Association of Barbers.)”
+>
+> On the left:
+>
+> “All work of the mind is good undeclared labour.
+>
+> So it says in a publication of the Economic and Political Society from 1947 (Frankfurt); compare p. 73.”
 
 Then why is there such a thing as law at all? Why not say at the same time: there is no law; there is only love and legislation. Take a closer look at these apostles of love.
 
 ---
 
 **23 October 1951**
-
-<!-- FACSIMILE_INSERT: asset="facsimiles/P14_source-278_facsimile-01.jpeg" part="14" printed-page="262" source-page="278" part-pdf-page="18" sequence="1-of-1" -->
 
 *Character assassination as one of the fine arts.* Ebenstein and Löwenstein, Erich Kaufmann and Gustav Radbruch, Rosenbaum, Leibholz—all these character assassins as masters of that fine art.
 
@@ -18098,71 +18096,71 @@ Anyone who calls that progress or an improvement is a fraud.
 
 I am the bowstring that the World Spirit draws tight and from which it shoots its arrows. Now I am growing old, and the string is getting weaker. The string grows weaker, but the longing grows stronger.
 
-Newspaper clipping, “Foreign Policy in the Glass House. Hallstein and Carlo Schmid in the Paulskirche,” from the *FAZ*, <?> 1951, pasted in.
+<!-- FACSIMILE_INSERT: asset="facsimiles/P14_source-278_facsimile-01.jpeg" part="14" printed-page="262" source-page="278" part-pdf-page="18" sequence="1-of-1" -->
 
-Above it:
-
-“Forest or glass house, or politics nobly offered. Compare reverse.”
-
-On the left:
-
-“‘Noble’ politics is offered only within the bloc; compare p. 25v.
-
-That is: the unity of Europe at Germany’s expense, that is: world peace at Germany’s expense, that is: Germany as the sacrificial animal.”
-
-Centre left:
-
-“1951, Nobel Prize song.
-
-At least politics is being offered nobly—so also in Ernst Jünger’s *Forest Passage*.
-
-Germany is the higher third.”
-
-Centre right:
-
-“How so?
-
-The great artist Hallstein, *one of the fine arts*.”
-
-On the right:
-
-“No leap into the realm of freedom, but one step toward European unity—that is, toward sacrificing Germany on the altar of European unity.
-
-In Bonn politics is offered less ‘nobly.’
-
-The politics of Little Moritz, nobly offered.
-
-How much longer do they intend to keep discussing?
-
-Until 1952?
-
-Or even 1954?”
+> Newspaper clipping, “Foreign Policy in the Glass House. Hallstein and Carlo Schmid in the Paulskirche,” from the *FAZ*, <?> 1951, pasted in.
+>
+> Above it:
+>
+> “Forest or glass house, or politics nobly offered. Compare reverse.”
+>
+> On the left:
+>
+> “‘Noble’ politics is offered only within the bloc; compare p. 25v.
+>
+> That is: the unity of Europe at Germany’s expense, that is: world peace at Germany’s expense, that is: Germany as the sacrificial animal.”
+>
+> Centre left:
+>
+> “1951, Nobel Prize song.
+>
+> At least politics is being offered nobly—so also in Ernst Jünger’s *Forest Passage*.
+>
+> Germany is the higher third.”
+>
+> Centre right:
+>
+> “How so?
+>
+> The great artist Hallstein, *one of the fine arts*.”
+>
+> On the right:
+>
+> “No leap into the realm of freedom, but one step toward European unity—that is, toward sacrificing Germany on the altar of European unity.
+>
+> In Bonn politics is offered less ‘nobly.’
+>
+> The politics of Little Moritz, nobly offered.
+>
+> How much longer do they intend to keep discussing?
+>
+> Until 1952?
+>
+> Or even 1954?”
 
 ---
 
 **25 October 1951**
 
-<!-- FACSIMILE_INSERT: asset="facsimiles/P14_source-279_facsimile-01.jpeg" part="14" printed-page="263" source-page="279" part-pdf-page="19" sequence="1-of-1" -->
-
 Earlier, in the nineteenth century, Anglophilia replaced political thought. But at least that was still a *philia*—an affection for something. Today, since 1945, antifascism has replaced political thought. And that is precisely an *anti*: against everything that is not for Moscow.[^fn-p14-pdf18-n01]
 
 Shakespeare’s Hamlet is James I. There is no longer any question about it.[^fn-p14-pdf18-n02] Lilian Winstanley proved it.
 
-Shakespeare was more immediately rooted in the actual London of his day, more topical and concrete, than Bert—Newspaper clipping from the *FAZ*, 6 November 1951, pasted in.
+Shakespeare was more immediately rooted in the actual London of his day, more topical and concrete, than Bert—Brecht in present-day Moscow.
 
-Above the headline: “Nobility only within the bloc.”
+<!-- FACSIMILE_INSERT: asset="facsimiles/P14_source-279_facsimile-01.jpeg" part="14" printed-page="263" source-page="279" part-pdf-page="19" sequence="1-of-1" -->
 
-At bottom right:
-
-“This would be the place for an analysis of false compassion.
-
-Tell me whom you pity, and in what situation, and I will tell you who you are!”
-
-—Brecht in present-day Moscow.
+> Newspaper clipping from the *FAZ*, 6 November 1951, pasted in.
+>
+> Above the headline: “Nobility only within the bloc.”
+>
+> At bottom right:
+>
+> “This would be the place for an analysis of false compassion.
+>
+> Tell me whom you pity, and in what situation, and I will tell you who you are!”
 
 Shakespeare was not a literary man, nor was he a writer of plays in the manner of Schiller, still less Hebbel. He was a *popular dramatist with intense appeal*.
-
-<!-- FACSIMILE_INSERT: asset="facsimiles/P14_source-280_facsimile-01.jpeg" part="14" printed-page="264" source-page="280" part-pdf-page="20" sequence="1-of-1" -->
 
 Germany is Hamlet: the dead father is Catholic.
 
@@ -18178,29 +18176,31 @@ But his son Charles is executed by the people. Philosophy and theology are swept
 
 They had no idea <to> what extent in Germany a white raven <would appear>—a white raven who, for that very reason, appears on every blacklist.
 
-Newspaper clipping from the *FAZ*, 6 November 1951, pasted in.
+<!-- FACSIMILE_INSERT: asset="facsimiles/P14_source-280_facsimile-01.jpeg" part="14" printed-page="264" source-page="280" part-pdf-page="20" sequence="1-of-1" -->
 
-Above it:
-
-“*FAZ*, 6 November. Another suicide: Forrestal, November 1949; compare diary, 5 November 1951.”
-
-On the left:
-
-“Helped toward enormous successes.
-
-The legal government and the principle of nothing—or non-non-intervention—in international law.”
-
-Centre:
-
-“For <Communists> disguised as liberals, fabulous conditions, including in Germany after 1945.”
-
-On the right:
-
-“*Now is the time for all good men to come to the aid of their country.*
-
-Standard practice sentence for typists.
-
-(Letter to *Der Spiegel*, no. 45.)”
+> Newspaper clipping from the *FAZ*, 6 November 1951, pasted in.
+>
+> Above it:
+>
+> “*FAZ*, 6 November. Another suicide: Forrestal, November 1949; compare diary, 5 November 1951.”
+>
+> On the left:
+>
+> “Helped toward enormous successes.
+>
+> The legal government and the principle of nothing—or non-non-intervention—in international law.”
+>
+> Centre:
+>
+> “For <Communists> disguised as liberals, fabulous conditions, including in Germany after 1945.”
+>
+> On the right:
+>
+> “*Now is the time for all good men to come to the aid of their country.*
+>
+> Standard practice sentence for typists.
+>
+> (Letter to *Der Spiegel*, no. 45.)”
 
 ---
 
@@ -18249,23 +18249,21 @@ A warning to the Americans about the doctrine of the just war and the *justus ho
 
 But also a warning to all those who silence people and try to remove them: you cannot live forever on the *privilegium ignorantiae*, the privilege of ignorance!
 
-It seems to me that Emmanuel Hirsch has adopted my explanation of the difference between Hobbes and Spinoza (*History of Modern Protestant Theology*, 1949, vol. I, pp. 46–49: “a complete shift in ethical meaning”; Spinoza’s doctrine is “the doctrine
+It seems to me that Emmanuel Hirsch has adopted my explanation of the difference between Hobbes and Spinoza (*History of Modern Protestant Theology*, 1949, vol. I, pp. 46–49: “a complete shift in ethical meaning”; Spinoza’s doctrine is “the doctrine of an outsider who is not connected to a community by the bonds of feeling and history …,” p. 48).[^fn-p15-pdf02-n01]
 
 <!-- FACSIMILE_INSERT: asset="facsimiles/P15_source-282_facsimile-01.jpeg" part="15" printed-page="266" source-page="282" part-pdf-page="2" sequence="1-of-1" -->
 
-*Two newspaper clippings dated 27 November 1951 are pasted in. To the right of the second: “Catholicism: rival of Judaism. Hence this fanatical anti-fascism.” Beneath it: “<…> Rest. Board of Herford!”*
-
-of an outsider who is not connected to a community by the bonds of feeling and history …,” p. 48).[^fn-p15-pdf02-n01]
+> Two newspaper clippings dated 27 November 1951 are pasted in. To the right of the second: “Catholicism: rival of Judaism. Hence this fanatical anti-fascism.” Beneath it: “<…> Rest. Board of Herford!”
 
 <…> Smend wrote exactly the same thing to me in 1938! So I let the cat out of the bag, and now I have to pay for it. All the more reason why the sentences on p. 86 of my *Leviathan* stand so firmly. It gives me tremendous strength to read them again today, thirteen years later, after reading Emmanuel Hirsch.
-
-<!-- FACSIMILE_INSERT: asset="facsimiles/P15_source-283_facsimile-01.jpeg" part="15" printed-page="267" source-page="283" part-pdf-page="3" sequence="1-of-1" -->
 
 For an old German professor who has been persecuted and mistreated by his former colleagues, it is comforting to read in Bakunin’s *Confession*:
 
 “There is nothing more narrow-minded, more contemptible, more ridiculous than the German professor.”
 
-*Newspaper clipping dated 16 November 1951 pasted in. Above it: “16 November 1951. Do you choose the tie salesman Tr[uman] or the bank robber St[alin]?”*
+<!-- FACSIMILE_INSERT: asset="facsimiles/P15_source-283_facsimile-01.jpeg" part="15" printed-page="267" source-page="283" part-pdf-page="3" sequence="1-of-1" -->
+
+> Newspaper clipping dated 16 November 1951 pasted in. Above it: “16 November 1951. Do you choose the tie salesman Tr[uman] or the bank robber St[alin]?”
 
 ---
 
@@ -18336,15 +18334,13 @@ For taking dollars all the same.
 
 Taking rubles is another matter.
 
-<!-- FACSIMILE_INSERT: asset="facsimiles/P15_source-285_facsimile-01.jpeg" part="15" printed-page="269" source-page="285" part-pdf-page="5" sequence="1-of-1" -->
-
 We are supposed to de-Nazify ourselves, de-Bonapartize ourselves, de-circumcise ourselves, de-baptize ourselves, de-clericalize ourselves, de-Bismarckize ourselves. Every little monkey found another <combination>, another thing that could still be “de-”d. And anyone who still had anything about him that could be “de-”d was finished. He had to submit to it—to total de-de-ing, total *Ent-Entung*.
 
-Hitler
+Hitler wanted to exterminate the Jews; bad enough.
 
-*Newspaper clipping from the FAZ, 28 November 1951. Above it: “Wonderful, there it is. Freestyle wrestling, or the great guilty party we need.” To the right: “Someone commits an offense! That is the criminalization of aggression. Exactly, Herta, that’s it!”*
+<!-- FACSIMILE_INSERT: asset="facsimiles/P15_source-285_facsimile-01.jpeg" part="15" printed-page="269" source-page="285" part-pdf-page="5" sequence="1-of-1" -->
 
-wanted to exterminate the Jews; bad enough.
+> Newspaper clipping from the FAZ, 28 November 1951. Above it: “Wonderful, there it is. Freestyle wrestling, or the great guilty party we need.” To the right: “Someone commits an offense! That is the criminalization of aggression. Exactly, Herta, that’s it!”
 
 But it never occurred to him to de-Judaize them. The emancipation of the Jews, however, is well known to have taken place by turning the Christians into Jews. This sentence of Karl Marx is the most important statement of the nineteenth century.
 
@@ -18386,11 +18382,11 @@ The German is the eternal ox.
 
 **6 March 1952**
 
-<!-- FACSIMILE_INSERT: asset="facsimiles/P15_source-286_facsimile-01.jpeg" part="15" printed-page="270" source-page="286" part-pdf-page="6" sequence="1-of-1" -->
-
 Get this clearly into your head: even the Kaspar Hauser myth eventually leads only to new criminalizations. We are among murderers. I have fallen among murderers. (Kaufmann and Smend wanted to kill me; the fate of *Miorița*.)
 
-*Newspaper clipping from* Die Zeit, *28 February 1952.*
+<!-- FACSIMILE_INSERT: asset="facsimiles/P15_source-286_facsimile-01.jpeg" part="15" printed-page="270" source-page="286" part-pdf-page="6" sequence="1-of-1" -->
+
+> Newspaper clipping from *Die Zeit*, 28 February 1952.
 
 ---
 
@@ -18533,8 +18529,6 @@ Offspring!
 Stay a while—you are so beautiful; on the one hand.
 Get out of here; on the other.
 
-<!-- FACSIMILE_INSERT: asset="facsimiles/P15_source-289_facsimile-01.jpeg" part="15" printed-page="273" source-page="289" part-pdf-page="9" sequence="1-of-1" -->
-
 You are provided for—coffined, you might say. You are even insured.
 
 You?
@@ -18575,7 +18569,9 @@ Obviously.
 
 Otherwise insurance could never exist in the first place.
 
-*Newspaper clipping from* Gegenwart, *5 October 1955, pasted in. Above it: “Well, well. What do I hear?”*
+<!-- FACSIMILE_INSERT: asset="facsimiles/P15_source-289_facsimile-01.jpeg" part="15" printed-page="273" source-page="289" part-pdf-page="9" sequence="1-of-1" -->
+
+> Newspaper clipping from *Gegenwart*, 5 October 1955, pasted in. Above it: “Well, well. What do I hear?”
 
 Social Sorcery
 
@@ -18599,8 +18595,6 @@ The first miracle.
 
 Economic miracle—social miracle.
 
-<!-- FACSIMILE_INSERT: asset="facsimiles/P15_source-290_facsimile-01.jpeg" part="15" printed-page="274" source-page="290" part-pdf-page="10" sequence="1-of-1" -->
-
 ---
 
 **27 April 1952**
@@ -18609,13 +18603,15 @@ A wonderful passage in Buffon’s *Natural History*, quoted by Rousseau in the *
 
 The plant lives more from air and water than from the earth. But when it dies and decays, it gives everything back to the earth. It gives the earth more than it took from it. Animals and human beings are different.
 
-*Newspaper clipping from the FAZ, 25 April 1952, pasted in. Above it: “cf. p. 94 [= p. 306] and p. 120 [= p. 320]; cf. 21 July 1956 (V p. 67); cf. p. 74 [= pp. 293 ff.].”*
+<!-- FACSIMILE_INSERT: asset="facsimiles/P15_source-290_facsimile-01.jpeg" part="15" printed-page="274" source-page="290" part-pdf-page="10" sequence="1-of-1" -->
 
-*To the left: “25 April 1952. Encyclical 1939: renegatur et rejiciatur Norma—let Norma be denied and rejected. Norma, Norma, you have vanished! The congrua as the basis of the normativist’s superiority over the concrete situation, and of his supposed freedom from any situation. Cf. Hermann Heller’s interjections during the Prussia–Reich trial in Leipzig, October 1932, and the same interjections by Adolf Arndt in the Constitutional Committee in Bonn, October 1952.”*
-
-*To the right: “cf. p. 74 [= pp. 293 ff.], cf. p. 94 [= p. 306], cf. CDU deputy Nellen in the Bonn Bundestag on 6 July 1956 concerning conscientious objection to military service (12 July 1956). So take a closer look for once at these eternal concepts and their ‘purposefulness’!!”*
-
-*Beneath: “The Tatbestand—the legally defined set of facts—is supposed to count! But the Sachverhalt—the actual state of affairs—is not?”*
+> Newspaper clipping from the FAZ, 25 April 1952, pasted in. Above it: “cf. p. 94 [= p. 306] and p. 120 [= p. 320]; cf. 21 July 1956 (V p. 67); cf. p. 74 [= pp. 293 ff.].”
+>
+> To the left: “25 April 1952. Encyclical 1939: renegatur et rejiciatur Norma—let Norma be denied and rejected. Norma, Norma, you have vanished! The congrua as the basis of the normativist’s superiority over the concrete situation, and of his supposed freedom from any situation. Cf. Hermann Heller’s interjections during the Prussia–Reich trial in Leipzig, October 1932, and the same interjections by Adolf Arndt in the Constitutional Committee in Bonn, October 1952.”
+>
+> To the right: “cf. p. 74 [= pp. 293 ff.], cf. p. 94 [= p. 306], cf. CDU deputy Nellen in the Bonn Bundestag on 6 July 1956 concerning conscientious objection to military service (12 July 1956). So take a closer look for once at these eternal concepts and their ‘purposefulness’!!”
+>
+> Beneath: “The Tatbestand—the legally defined set of facts—is supposed to count! But the Sachverhalt—the actual state of affairs—is not?”
 
 ---
 
@@ -18737,8 +18733,6 @@ Come the explosions.
 
 Human hunger can never be satisfied. Human beings also suffer from future hunger. This human being is *fame futura famelicus*: hungry from hunger that has not yet arrived. That is what distinguishes human hunger from animal hunger: our inability to be satisfied, and our habit of planning ahead for the hunger that will come in the future. Human beings differ from animals through their insatiability. The will to power is only one form of this specifically human inability to be satisfied. Hobbes understood this and made it a foundation of his thought. That is why he is a deeper and more thorough thinker than Nietzsche.
 
-<!-- FACSIMILE_INSERT: asset="facsimiles/P15_source-293_facsimile-01.jpeg" part="15" printed-page="277" source-page="293" part-pdf-page="13" sequence="1-of-1" -->
-
 Let the world perish!
 
 *Pereat mundus.*
@@ -18769,7 +18763,9 @@ Law and justice!
 
 But here and now, “law and justice” really does mean: let the world perish.
 
-*Newspaper clipping dated 2 June 1952 pasted in. Above it: “2 June 1952.” To the left, partly in shorthand: “On the same day, law <…>, likewise Curtius above. Compare the Prussian p.[our] l.[e] mérite! 1954: some time later: the women, who <…> the arms <…> strike <…> and can no longer speak.”*
+<!-- FACSIMILE_INSERT: asset="facsimiles/P15_source-293_facsimile-01.jpeg" part="15" printed-page="277" source-page="293" part-pdf-page="13" sequence="1-of-1" -->
+
+> Newspaper clipping dated 2 June 1952 pasted in. Above it: “2 June 1952.” To the left, partly in shorthand: “On the same day, law <…>, likewise Curtius above. Compare the Prussian p.[our] l.[e] mérite! 1954: some time later: the women, who <…> the arms <…> strike <…> and can no longer speak.”
 
 ---
 
@@ -18886,10 +18882,6 @@ And yet what an injustice I do to myself with that no. Still, I gladly accept th
 
 **4 July 1952**
 
-<!-- FACSIMILE_INSERT: asset="facsimiles/P15_source-295_facsimile-01.jpeg" part="15" printed-page="279" source-page="295" part-pdf-page="15" sequence="1-of-1" -->
-
-<!-- FACSIMILE_INSERT: asset="facsimiles/P15_source-296_facsimile-01.jpeg" part="15" printed-page="280" source-page="296" part-pdf-page="16" sequence="1-of-1" -->
-
 The problem of how the question is framed.
 
 I ask you:
@@ -18910,9 +18902,13 @@ They are saved!!
 
 Are you Napoleon, or are you a louse?
 
-*Newspaper clipping dated 15 July 1952. To the right: “not denied!! 14 July 1952.” Beneath: “Thus Eisenhower in the summer of 1960 <July> the <Seckendorf> <…> about suicide etc.”*
+<!-- FACSIMILE_INSERT: asset="facsimiles/P15_source-295_facsimile-01.jpeg" part="15" printed-page="279" source-page="295" part-pdf-page="15" sequence="1-of-1" -->
 
-*Two newspaper clippings pasted in. On the first: “Sonntagsblatt, 24 October 1952.”*
+> Newspaper clipping dated 15 July 1952. To the right: “not denied!! 14 July 1952.” Beneath: “Thus Eisenhower in the summer of 1960 <July> the <Seckendorf> <…> about suicide etc.”
+
+<!-- FACSIMILE_INSERT: asset="facsimiles/P15_source-296_facsimile-01.jpeg" part="15" printed-page="280" source-page="296" part-pdf-page="16" sequence="1-of-1" -->
+
+> Two newspaper clippings pasted in. On the first: “Sonntagsblatt, 24 October 1952.”
 
 Philosophers of language.
 
@@ -19351,8 +19347,6 @@ Badly.
 
 So says Pope Clement in Konrad Weiß, *Konradin*, p. 106.
 
-<!-- FACSIMILE_INSERT: asset="facsimiles/P16_source-304_facsimile-01.jpeg" part="16" printed-page="288" source-page="304" part-pdf-page="5" sequence="1-of-1" -->
-
 Suddenly they all turn **light** into an absolute.
 
 Light, *la lumière*, even *les lumières*—the Enlightenment—progress, *le progrès*, and so on.
@@ -19375,17 +19369,19 @@ Nobel-Prize Christianity.
 
 Nobel-Prize Catholicism.
 
-Newspaper clipping.
+<!-- FACSIMILE_INSERT: asset="facsimiles/P16_source-304_facsimile-01.jpeg" part="16" printed-page="288" source-page="304" part-pdf-page="5" sequence="1-of-1" -->
 
-Written on it:
-
-“18 November 1952. Let him earn it.”
-
-Below that:
-
-“Romano Guardini is due next year!
-
-Meanwhile, Christian shame flees for refuge to the pagans.”
+> Newspaper clipping.
+>
+> Written on it:
+>
+> “18 November 1952. Let him earn it.”
+>
+> Below that:
+>
+> “Romano Guardini is due next year!
+>
+> Meanwhile, Christian shame flees for refuge to the pagans.”
 
 ---
 
@@ -19504,23 +19500,23 @@ The Constitutional Court therefore finds itself in a miserable dilemma: Either i
 
 <!-- FACSIMILE_INSERT: asset="facsimiles/P16_source-308_facsimile-01.jpeg" part="16" printed-page="292" source-page="308" part-pdf-page="9" sequence="1-of-1" -->
 
-Newspaper clipping.
-
-Written on it:
-
-“Phraseology as bloc-building creates a right wing against the doubts of the left wing.”
-
-Above it:
-
-“7 February 1953. Martin Buber (*Neue Zeitung*), 7 February 1953.”
-
-Beside it and below:
-
-“Located; here it is permitted. Elsewhere—in my case—Herr Pringsheim finds it inadmissible.
-
-On this, Guido Vernani of Rimini, beginning of the fourteenth century:
-
-‘I, however, believe that the Jewish people, both because of the location of their land <…> and because of their religion, had a greater right than the Romans to rule over the nations.’”
+> Newspaper clipping.
+>
+> Written on it:
+>
+> “Phraseology as bloc-building creates a right wing against the doubts of the left wing.”
+>
+> Above it:
+>
+> “7 February 1953. Martin Buber (*Neue Zeitung*), 7 February 1953.”
+>
+> Beside it and below:
+>
+> “Located; here it is permitted. Elsewhere—in my case—Herr Pringsheim finds it inadmissible.
+>
+> On this, Guido Vernani of Rimini, beginning of the fourteenth century:
+>
+> ‘I, however, believe that the Jewish people, both because of the location of their land <…> and because of their religion, had a greater right than the Romans to rule over the nations.’”
 
 ---
 
@@ -19564,8 +19560,6 @@ Whenever things seem to be going especially well for me, I tell myself: I know n
 
 **19 February 1953**
 
-<!-- FACSIMILE_INSERT: asset="facsimiles/P16_source-311_facsimile-01.jpeg" part="16" printed-page="295" source-page="311" part-pdf-page="12" sequence="1-of-1" -->
-
 “In Germany today, the intellectual worker has become an off-the-books worker.”
 
 So says the Frankfurt Society for Economic Policy, founded in 1947, in the year 1952, p. …[^fn-p16-pdf11-n01]
@@ -19586,21 +19580,25 @@ Into the darkest tunnel far and wide.
 Greetings, Germany, from
 the very bottom!
 
-—Newspaper clipping.
+—
 
-Above it:
+<!-- FACSIMILE_INSERT: asset="facsimiles/P16_source-311_facsimile-01.jpeg" part="16" printed-page="295" source-page="311" part-pdf-page="12" sequence="1-of-1" -->
 
-“Situation ethics, compare p. 54 [= newspaper clipping p. 279].”
-
-Below it:
-
-“*Error in persona*.”
-
-In the margin:
-
-“Compare p. 44 [= newspaper clipping p. 274].
-
-The problem of *error in persona*—mistaken identity—as grounds for invalidity.”
+> Newspaper clipping.
+>
+> Above it:
+>
+> “Situation ethics, compare p. 54 [= newspaper clipping p. 279].”
+>
+> Below it:
+>
+> “*Error in persona*.”
+>
+> In the margin:
+>
+> “Compare p. 44 [= newspaper clipping p. 274].
+>
+> The problem of *error in persona*—mistaken identity—as grounds for invalidity.”
 
 <!-- FACSIMILE_INSERT: asset="facsimiles/P16_source-312_facsimile-01.jpeg" part="16" printed-page="296" source-page="312" part-pdf-page="13" sequence="1-of-1" -->
 
@@ -19651,8 +19649,6 @@ Jean Bodin’s advice: Never challenge the fury of the people.
 
 **10 June 1953**
 
-<!-- FACSIMILE_INSERT: asset="facsimiles/P16_source-313_facsimile-01.jpeg" part="16" printed-page="297" source-page="313" part-pdf-page="14" sequence="1-of-1" -->
-
 What is law? (What is God? Today the two are the same.) Something that is valid, and that is successfully made valid—with a real chance of forcing obedience—which means something that can be enforced by coercion.
 
 So what is a jurist? Someone whose profession is making things legally valid. A professional enforcer of validity. These validity-makers are worse than the money-makers.
@@ -19661,43 +19657,43 @@ Get it?
 
 From the positivist point of view—that is, when there is a clearly defined and predictable legal rule—things are still manageable.
 
-But God help us when natural-law infiltration—Newspaper clippings reporting Stalin’s death.
+But God help us when natural-law infiltration—begins, and broad general clauses start being enforced!
 
-Written above:
+<!-- FACSIMILE_INSERT: asset="facsimiles/P16_source-313_facsimile-01.jpeg" part="16" printed-page="297" source-page="313" part-pdf-page="14" sequence="1-of-1" -->
 
-“The death of the ruler; newspapers from 5 March 1953.”
-
-Below:
-
-“March 1954, one year later: the seriously ill Holy Father is suffering from hiccups.
-
-Summer 1954: he has Niehans’s fresh-cell treatment injected into him so that he can live a little longer.”
-
-On the page to the left:
-
-“On this, Khrushchev’s speech at the Twentieth Congress of the Communist Party of the Soviet Union, February 1956, and de-Stalinization in spring 1956!!
-
-The revelation of the complete speech at the beginning of June 1956.
-
-And when will de-Rooseveltization follow?
-
-And de-Lincolnization?
-
-And de-Calvinization?
-
-And the Pope’s death in 1958, with Galeazzi-Lisi.
-
-The triumph of medicine.
-
-Thanks to Niehans’s fresh cells, he lived long enough to witness de-Stalinization.
-
-No doubt a miracle through God’s providence and <…>.”
-
-—begins, and broad general clauses start being enforced!
+> Newspaper clippings reporting Stalin’s death.
+>
+> Written above:
+>
+> “The death of the ruler; newspapers from 5 March 1953.”
+>
+> Below:
+>
+> “March 1954, one year later: the seriously ill Holy Father is suffering from hiccups.
+>
+> Summer 1954: he has Niehans’s fresh-cell treatment injected into him so that he can live a little longer.”
+>
+> On the page to the left:
+>
+> “On this, Khrushchev’s speech at the Twentieth Congress of the Communist Party of the Soviet Union, February 1956, and de-Stalinization in spring 1956!!
+>
+> The revelation of the complete speech at the beginning of June 1956.
+>
+> And when will de-Rooseveltization follow?
+>
+> And de-Lincolnization?
+>
+> And de-Calvinization?
+>
+> And the Pope’s death in 1958, with Galeazzi-Lisi.
+>
+> The triumph of medicine.
+>
+> Thanks to Niehans’s fresh cells, he lived long enough to witness de-Stalinization.
+>
+> No doubt a miracle through God’s providence and <…>.”
 
 But what am I? I am a survivor. I have neither been standardized into a professional validity-enforcer nor infiltrated by natural law. I am neither a full enforcer nor an empty one.
-
-<!-- FACSIMILE_INSERT: asset="facsimiles/P16_source-314_facsimile-01.jpeg" part="16" printed-page="298" source-page="314" part-pdf-page="15" sequence="1-of-1" -->
 
 ---
 
@@ -19715,17 +19711,19 @@ But every *status quo* wants eternity and demands oaths of eternal loyalty.
 
 By doing precisely that, it reduces the oath itself to mere legality.
 
-Then—Newspaper clipping from *Sonntagsblatt*, 19 July 1953.
+Then—there finally arise, through terrible torture and persecution, the **free oaths**, the *conjurations*, and the new men who are once again capable of oath, of God, and of power.
 
-Written above:
+<!-- FACSIMILE_INSERT: asset="facsimiles/P16_source-314_facsimile-01.jpeg" part="16" printed-page="298" source-page="314" part-pdf-page="15" sequence="1-of-1" -->
 
-“A sympathetic poem about women, in the manner of Gertrud von Le Fort and Claudel.”
-
-Written on it:
-
-“*Sonntagsblatt*, 19 July 1953.”
-
-—there finally arise, through terrible torture and persecution, the **free oaths**, the *conjurations*, and the new men who are once again capable of oath, of God, and of power.
+> Newspaper clipping from *Sonntagsblatt*, 19 July 1953.
+>
+> Written above:
+>
+> “A sympathetic poem about women, in the manner of Gertrud von Le Fort and Claudel.”
+>
+> Written on it:
+>
+> “*Sonntagsblatt*, 19 July 1953.”
 
 ---
 
@@ -20277,17 +20275,17 @@ Wine is no longer a sacrament today. Aldous Huxley recommends mescaline instead.
 Now and then each man took the best;
 I shall hold fast to these beautiful remnants.
 
-<!-- FACSIMILE_INSERT: asset="facsimiles/P17_source-322_facsimile-01.jpeg" part="17" printed-page="306" source-page="322" part-pdf-page="3" sequence="1-of-1" -->
-
 How does an islander, living out of his maritime existence, come to recommend foreign intoxicating drugs when he has probably not tasted even the smallest fraction of Europe’s wonderful wines? I ought to write to *Der Spiegel*, which discusses Huxley’s discovery without protest (March 1954): Why are you spreading false teachings that help uproot today’s Europeans from place? But there is no point protesting anymore. They would only think it was a joke.
 
-Newspaper clipping. Written above it:
+<!-- FACSIMILE_INSERT: asset="facsimiles/P17_source-322_facsimile-01.jpeg" part="17" printed-page="306" source-page="322" part-pdf-page="3" sequence="1-of-1" -->
 
-“1) Encyclical 1930: <…> *quod Norma renegatur et rejiciatur!!*—that the norm is denied and rejected!! Cause: energy, energy of the box. 2) p. 44; the Pope on situation ethics, [(]25 April 1952); 3) 1 June 1954: *laicus taceat in et extra ecclesiam nisi acclamat ordinario competenti*—the layman must be silent both inside and outside the Church unless he is applauding the competent Ordinary.”
-
-Written below:
-
-“A reasonable compromise: *laicus taceat in ecclesia, clericus taceat extra ecclesiam*—let the layman keep silent inside the Church, and the cleric keep silent outside it.”
+> Newspaper clipping. Written above it:
+>
+> “1) Encyclical 1930: <…> *quod Norma renegatur et rejiciatur!!*—that the norm is denied and rejected!! Cause: energy, energy of the box. 2) p. 44; the Pope on situation ethics, [(]25 April 1952); 3) 1 June 1954: *laicus taceat in et extra ecclesiam nisi acclamat ordinario competenti*—the layman must be silent both inside and outside the Church unless he is applauding the competent Ordinary.”
+>
+> Written below:
+>
+> “A reasonable compromise: *laicus taceat in ecclesia, clericus taceat extra ecclesiam*—let the layman keep silent inside the Church, and the cleric keep silent outside it.”
 
 ---
 
@@ -20369,15 +20367,15 @@ Why should the name “Israel” in the Psalms bother us during Christian worshi
 
 To one particular persecutor of mine, whom I believe to be honest: Why are you persecuting me? My situation is very close to yours. We are jumping from one ice floe to another, and it is childish of you to imagine that your ice floe is somehow more permanent than the one I happen to be drifting on at the moment. I know perfectly well that you do not really believe this either. But instead of recognizing how similar our situations are, you appeal to the owners of the ice floe on which you happen to stand.
 
-<!-- FACSIMILE_INSERT: asset="facsimiles/P17_source-324_facsimile-01.jpeg" part="17" printed-page="308" source-page="324" part-pdf-page="5" sequence="1-of-1" -->
-
 From *status* to *situs*. Churchill says: anyone who can sit should not stand, and anyone who can lie down should not sit. So the ideal is: lying down!
 
 The situation—the *Lage*. No more standing. No more sitting. Either flying or lying!
 
-Newspaper clipping from the *Frankfurter Allgemeine Zeitung*, 30 July 1954. Written above:
+<!-- FACSIMILE_INSERT: asset="facsimiles/P17_source-324_facsimile-01.jpeg" part="17" printed-page="308" source-page="324" part-pdf-page="5" sequence="1-of-1" -->
 
-“<…> Poor, brave Werner Schütz! Why not do what Hausenstein did? Or are you not convertible?”
+> Newspaper clipping from the *Frankfurter Allgemeine Zeitung*, 30 July 1954. Written above:
+>
+> “<…> Poor, brave Werner Schütz! Why not do what Hausenstein did? Or are you not convertible?”
 
 ---
 
@@ -20600,8 +20598,6 @@ And therefore: taking, dividing, pasturing.
 
 We are looking for the primordial taker.
 
-<!-- FACSIMILE_INSERT: asset="facsimiles/P17_source-328_facsimile-01.jpeg" part="17" printed-page="312" source-page="328" part-pdf-page="9" sequence="1-of-1" -->
-
 ---
 
 **5 April 1955**
@@ -20616,29 +20612,31 @@ Now man is supposed to take his place.
 
 That means giving production priority over distribution, and abolishing taking and *Nahme* altogether.
 
-Newspaper clipping, cartoon about Yalta. Written above:
+<!-- FACSIMILE_INSERT: asset="facsimiles/P17_source-328_facsimile-01.jpeg" part="17" printed-page="312" source-page="328" part-pdf-page="9" sequence="1-of-1" -->
 
-“Illustration of Gelimer’s laughter, *Die Zeit*, Hamburg, 24 March 1955.”
-
-On the right:
-
-“Compare my diary entry, Berlin, Thursday 6 April 1933, 8 p.m., Prinz Leopold Palace, (<like the greedy>[^fn-p17-pdf09-n01] bull in the arena before the *toreada*[^fn-p17-pdf09-n02]) like the knight, thrust already prepared; at the moment.”
-
-Written underneath:
-
-“The ritual murder of Yalta, February 1945. And this picture can pass without objection in 1955?”
-
-On the right:
-
-“February 1945: this happens.
-
-March 1955: the world learns about it.
-
-February 1956: de-Stalinization begins (Communist Party Congress, Russia; Stalin exposed by Khrushchev as a mass murderer).
-
-December 1958: I sent a copy of my *Großraumordnung* (3rd ed.), in which this drawing had been pasted, to H. Recknagel, Essen-Stadtwald, Frankenstr. 72.
-
-The Europe curve belongs here, with the hieroglyph of the Western World (from 11 July 1956, V p. 67 [= 349]).”
+> Newspaper clipping, cartoon about Yalta. Written above:
+>
+> “Illustration of Gelimer’s laughter, *Die Zeit*, Hamburg, 24 March 1955.”
+>
+> On the right:
+>
+> “Compare my diary entry, Berlin, Thursday 6 April 1933, 8 p.m., Prinz Leopold Palace, (<like the greedy>[^fn-p17-pdf09-n01] bull in the arena before the *toreada*[^fn-p17-pdf09-n02]) like the knight, thrust already prepared; at the moment.”
+>
+> Written underneath:
+>
+> “The ritual murder of Yalta, February 1945. And this picture can pass without objection in 1955?”
+>
+> On the right:
+>
+> “February 1945: this happens.
+>
+> March 1955: the world learns about it.
+>
+> February 1956: de-Stalinization begins (Communist Party Congress, Russia; Stalin exposed by Khrushchev as a mass murderer).
+>
+> December 1958: I sent a copy of my *Großraumordnung* (3rd ed.), in which this drawing had been pasted, to H. Recknagel, Essen-Stadtwald, Frankenstr. 72.
+>
+> The Europe curve belongs here, with the hieroglyph of the Western World (from 11 July 1956, V p. 67 [= 349]).”
 
 ---
 
@@ -20961,8 +20959,6 @@ So the only thing left, following Heidegger’s example, is to write in future: 
 
 **9 August 1955**
 
-<!-- FACSIMILE_INSERT: asset="facsimiles/P17_source-334_facsimile-01.jpeg" part="17" printed-page="318" source-page="334" part-pdf-page="15" sequence="1-of-1" -->
-
 A happy encounter with a remark by James-Hamlet: when the jurist Sir Edward Coke told the king that he was “defended by the laws,” the king replied that this was “foolish.” A king, he said, is not protected by laws but by God. Is that not magnificent?
 
 And place it as the polar—or dialectical—opposite of Rivarol: *L’obscurité protège mieux que la loi.* Obscurity protects better than the law.
@@ -20973,17 +20969,19 @@ Immeasurable happiness in discoveries and encounters like these. And who gave me
 
 It is enough to make one Disraelitic!
 
-Newspaper clipping. Written above:
+<!-- FACSIMILE_INSERT: asset="facsimiles/P17_source-334_facsimile-01.jpeg" part="17" printed-page="318" source-page="334" part-pdf-page="15" sequence="1-of-1" -->
 
-“6 August 1955. Extra: contemporary-history *protectus*.”
-
-On the right:
-
-“7 August 1955.”
-
-Below:
-
-“Protection exists only outside contemporary history. *L’obscurité protège mieux.* Obscurity protects better.”
+> Newspaper clipping. Written above:
+>
+> “6 August 1955. Extra: contemporary-history *protectus*.”
+>
+> On the right:
+>
+> “7 August 1955.”
+>
+> Below:
+>
+> “Protection exists only outside contemporary history. *L’obscurité protège mieux.* Obscurity protects better.”
 
 ---
 
@@ -21063,8 +21061,6 @@ But perhaps the will to eternity that Nietzsche places inside desire is precisel
 
 **1 September 1955**
 
-<!-- FACSIMILE_INSERT: asset="facsimiles/P17_source-336_facsimile-01.jpeg" part="17" printed-page="320" source-page="336" part-pdf-page="17" sequence="1-of-1" -->
-
 Michel Mourre, *Lamennais*, p. 141: “Féli, you must surrender! You know it perfectly well, Féli. ‘Society’ means, first of all, your failing bookselling business; it means your creditors …” (p. 172).
 
 Féli the poor.
@@ -21100,13 +21096,13 @@ O God, O God!
 
 Am I supposed to long for the satisfaction promised by the thought of posthumous fame?
 
-Am I supposed to look to posterity for comfort—for some vindication like the one Johann Jacob Reiske of the eighteenth century received from Wilamowitz-Moellendorff at the end of the
+Am I supposed to look to posterity for comfort—for some vindication like the one Johann Jacob Reiske of the eighteenth century received from Wilamowitz-Moellendorff at the end of the nineteenth century?
 
-Newspaper clipping from 8 September 1955. Written above:
+<!-- FACSIMILE_INSERT: asset="facsimiles/P17_source-336_facsimile-01.jpeg" part="17" printed-page="320" source-page="336" part-pdf-page="17" sequence="1-of-1" -->
 
-“Compare p. 44 [= 274] and p. 94 [= 306], compare 25 April 1952 (p. 44 l), 21 September 1955. After Michel Mourre’s *Lamennais*, this highly edifying High-Mass reading for excessively zealous laymen. Sunday, 11 September 1955; poor Donoso.”
-
-nineteenth century?
+> Newspaper clipping from 8 September 1955. Written above:
+>
+> “Compare p. 44 [= 274] and p. 94 [= 306], compare 25 April 1952 (p. 44 l), 21 September 1955. After Michel Mourre’s *Lamennais*, this highly edifying High-Mass reading for excessively zealous laymen. Sunday, 11 September 1955; poor Donoso.”
 
 Am I supposed to flee from these miserable Germans somewhere else—into the future, or into posterity?
 
@@ -22055,8 +22051,6 @@ And everyone will think the same.
 
 **31 January 1956**
 
-<!-- FACSIMILE_INSERT: asset="facsimiles/P18_source-353_facsimile-01.jpeg" part="18" printed-page="337" source-page="353" part-pdf-page="15" sequence="1-of-1" -->
-
 In January 1956 the GDR—the German Democratic Republic—introduced a criminal prohibition, a law threatening with death the crime of *Abwerbung*, enticing or recruiting people away.
 
 Magnificent.
@@ -22075,19 +22069,19 @@ Young Paris poached beautiful Helen from old Menelaus. And the Russians poached 
 
 Naturally these are all crimes for which the abolished death penalty must immediately be brought back.
 
-Newspaper clippings pasted in.
+<!-- FACSIMILE_INSERT: asset="facsimiles/P18_source-353_facsimile-01.jpeg" part="18" printed-page="337" source-page="353" part-pdf-page="15" sequence="1-of-1" -->
 
-Left: *FAZ*, 22 November 1955.
-
-To the right of the right-hand clipping:
-
-“I thought: against every.”
+> Newspaper clippings pasted in.
+>
+> Left: *FAZ*, 22 November 1955.
+>
+> To the right of the right-hand clipping:
+>
+> “I thought: against every.”
 
 ---
 
 **1 February 1956**
-
-<!-- FACSIMILE_INSERT: asset="facsimiles/P18_source-354_facsimile-01.jpeg" part="18" printed-page="338" source-page="354" part-pdf-page="16" sequence="1-of-1" -->
 
 And here, ladies and gentlemen, you have one-hundred-percent *potestas indirecta*, indirect power, to which nothing can ever happen because it will certainly end up on the side of the victor, no matter what that victor looks like. For the Christian-social ideal is the victorious war won by other people, after which one joins the victor. And if, while exercising our divine right to political error, we should happen to bet even slightly on the wrong side, we afterwards swing ourselves all the more energetically onto the victor’s side. There are victors, and there are those who belong with the victors.
 
@@ -22095,19 +22089,21 @@ We, at any rate, always belong to those who belong.
 
 So listen <…> to this supremely legitimized representative of *potestas indirecta*:
 
-Newspaper clipping pasted in.
+<!-- FACSIMILE_INSERT: asset="facsimiles/P18_source-354_facsimile-01.jpeg" part="18" printed-page="338" source-page="354" part-pdf-page="16" sequence="1-of-1" -->
 
-On it:
-
-“*Frankfurter Allgemeine Zeitung*, 23 November 1955.”
-
-Above it:
-
-“23 November 1955.”
-
-Below it:
-
-“The Pope too has a right to a private life; and the public has a right to learn about this private life—insofar as it is edifying.”
+> Newspaper clipping pasted in.
+>
+> On it:
+>
+> “*Frankfurter Allgemeine Zeitung*, 23 November 1955.”
+>
+> Above it:
+>
+> “23 November 1955.”
+>
+> Below it:
+>
+> “The Pope too has a right to a private life; and the public has a right to learn about this private life—insofar as it is edifying.”
 
 Who are you?
 
@@ -22328,8 +22324,6 @@ In the age of interrogations and of everything being called into question.
 
 I am the polyglot who understands Polyphemus and no longer cares to make himself understandable—that is, understandable enough to be heard, interrogated, and finally taken in and appropriated.
 
-<!-- FACSIMILE_INSERT: asset="facsimiles/P18_source-358_facsimile-01.jpeg" part="18" printed-page="342" source-page="358" part-pdf-page="20" sequence="1-of-1" -->
-
 ---
 
 **1 March 1956**
@@ -22352,7 +22346,9 @@ There is no need to claim totality in order to be total. Totality emerges all by
 
 When I read yesterday afternoon the diary notes from April, May, and June 1945, it became clear to me that every word spoken by a human being is filled with content and meaning by the particular space in which that person presently exists, and that the word retains its unique tone.
 
-Typewritten report from the German Time Archive pasted in; concerning the report in the *FAZ* of 23 March 1956.
+<!-- FACSIMILE_INSERT: asset="facsimiles/P18_source-358_facsimile-01.jpeg" part="18" printed-page="342" source-page="358" part-pdf-page="20" sequence="1-of-1" -->
+
+> Typewritten report from the German Time Archive pasted in; concerning the report in the *FAZ* of 23 March 1956.
 
 What is it that is being preserved there?
 
@@ -22432,8 +22428,6 @@ He was probably thinking of Jews and Greeks. These are the small peoples from wh
 
 II.
 
-<!-- FACSIMILE_INSERT: asset="facsimiles/P18_source-360_facsimile-01.jpeg" part="18" printed-page="344" source-page="360" part-pdf-page="22" sequence="1-of-1" -->
-
 These peoples are not eternal. The great empires, by contrast, establish themselves for eternity.
 
 The great model for us is *Roma aeterna*, eternal Rome.
@@ -22498,15 +22492,17 @@ Insights born from the intuition of decline, in the hour of death;
 
 superiority over the fraud of eternity represented by this *Roma aeterna*.
 
-Newspaper clipping.
+<!-- FACSIMILE_INSERT: asset="facsimiles/P18_source-360_facsimile-01.jpeg" part="18" printed-page="344" source-page="360" part-pdf-page="22" sequence="1-of-1" -->
 
-On it:
-
-“End of March 1956.”
-
-Below it:
-
-“Atheism of the non-academic Stoics; compare Lucan (*sed victa Catoni*).”
+> Newspaper clipping.
+>
+> On it:
+>
+> “End of March 1956.”
+>
+> Below it:
+>
+> “Atheism of the non-academic Stoics; compare Lucan (*sed victa Catoni*).”
 
 ---
 
@@ -35688,3 +35684,4 @@ There are also difficult-to-read shorthand notes:
 [^fn-p21-pdf01-n01]: **Note 1.** Originally: “Materials toward the clearing of a (juristic) existence.” See entry of 19 July 1949.
 
 [^fn-p21-pdf01-n02]: **Note 2.** Crossed out: “the.”
+

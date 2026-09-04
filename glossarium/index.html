@@ -97,9 +97,9 @@ body.review-mode .layout{grid-template-columns:300px minmax(0,1fr)!important;dir
 
 /* Glossarium: reviewer-only German source and interleaved facsimiles */
 .review-source-store{display:none!important}
-.facsimile{width:min(780px,100%);margin:52px auto 58px;padding:0;text-align:center;break-inside:avoid}.facsimile-zoom{display:block;width:100%;padding:0;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--surface-2);cursor:zoom-in;box-shadow:0 12px 34px rgba(0,0,0,.08)}.facsimile img{display:block;width:100%;height:auto}.facsimile figcaption{margin-top:10px;color:var(--muted);font:600 10px/1.4 var(--ui);letter-spacing:.08em;text-transform:uppercase}.facsimile-lightbox[hidden]{display:none!important}.facsimile-lightbox{position:fixed;inset:0;z-index:160;display:grid;place-items:center;padding:24px;background:rgba(0,0,0,.78);backdrop-filter:blur(5px)}.facsimile-lightbox-inner{position:relative;max-width:min(1200px,96vw);max-height:92vh}.facsimile-lightbox img{display:block;max-width:100%;max-height:86vh;width:auto;height:auto;border-radius:8px;background:#fff;box-shadow:0 28px 80px rgba(0,0,0,.4)}.facsimile-lightbox-caption{margin-top:9px;text-align:center;color:#eee;font:600 11px/1.4 var(--ui)}.facsimile-lightbox-close{position:absolute;top:-14px;right:-14px;width:38px;height:38px;border-radius:50%;border:1px solid rgba(255,255,255,.35);background:#171717;color:#fff;cursor:pointer;font:700 20px/1 var(--ui)}
+.facsimile{width:min(780px,100%);margin:52px auto 58px;padding:0;text-align:center;break-inside:avoid}.facsimile-zoom{display:block;width:100%;padding:0;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--surface-2);cursor:zoom-in;box-shadow:0 12px 34px rgba(0,0,0,.08)}.facsimile img{display:block;width:100%;height:auto}.facsimile figcaption{margin-top:10px;color:var(--muted);font:600 10px/1.4 var(--ui);letter-spacing:.08em;text-transform:uppercase}.book-section .facsimile-caption{margin-top:-34px;margin-bottom:3em;padding:.15em 0 .15em 1.15em;border-left:2px solid color-mix(in srgb,var(--accent) 72%,var(--line));color:var(--muted);font-size:.88em;line-height:1.58}.book-section .facsimile-caption p{margin:0 0 .62em}.book-section .facsimile-caption p:last-child{margin-bottom:0}.facsimile-lightbox[hidden]{display:none!important}.facsimile-lightbox{position:fixed;inset:0;z-index:160;display:grid;place-items:center;padding:24px;background:rgba(0,0,0,.78);backdrop-filter:blur(5px)}.facsimile-lightbox-inner{position:relative;max-width:min(1200px,96vw);max-height:92vh}.facsimile-lightbox img{display:block;max-width:100%;max-height:86vh;width:auto;height:auto;border-radius:8px;background:#fff;box-shadow:0 28px 80px rgba(0,0,0,.4)}.facsimile-lightbox-caption{margin-top:9px;text-align:center;color:#eee;font:600 11px/1.4 var(--ui)}.facsimile-lightbox-close{position:absolute;top:-14px;right:-14px;width:38px;height:38px;border-radius:50%;border:1px solid rgba(255,255,255,.35);background:#171717;color:#fff;cursor:pointer;font:700 20px/1 var(--ui)}
 .review-source-panel[lang="de"],.review-source-edit[lang="de"]{font-family:var(--serif);direction:ltr;text-align:left}.review-source-panel[lang="de"]{font-size:var(--reader-size);line-height:1.67}.review-source-edit[lang="de"]{font-size:var(--reader-size);line-height:1.68}.review-facsimile{margin:16px 0 24px}.review-facsimile .facsimile{margin:0 auto;width:min(680px,100%)}.review-facsimile .facsimile-zoom{cursor:zoom-in}.gloss-footnote{display:grid;grid-template-columns:38px minmax(0,1fr);gap:11px;padding:10px 0;border-bottom:1px solid color-mix(in srgb,var(--line) 65%,transparent);scroll-margin-top:78px}.gloss-footnote-number{font:700 11px/1.45 var(--ui);color:var(--accent);padding-top:2px}.gloss-footnote-body{font-size:calc(var(--reader-size) - 2px);line-height:1.58}.gloss-footnote-body p{margin:0}.gloss-footnote .backref{font-family:var(--ui);font-size:11px;text-decoration:none;margin-left:5px}.book-section table{display:block;max-width:100%;overflow-x:auto}
-@media(max-width:620px){.facsimile{margin:34px auto 40px}.facsimile-lightbox{padding:10px}.facsimile-lightbox-close{top:5px;right:5px}.gloss-footnote{grid-template-columns:30px minmax(0,1fr);gap:7px}.review-facsimile{margin:12px 0 20px}}
+@media(max-width:620px){.facsimile{margin:34px auto 40px}.book-section .facsimile-caption{margin-top:-24px;margin-bottom:2.4em}.facsimile-lightbox{padding:10px}.facsimile-lightbox-close{top:5px;right:5px}.gloss-footnote{grid-template-columns:30px minmax(0,1fr);gap:7px}.review-facsimile{margin:12px 0 20px}}
 
 /* Glossarium: expandable year/month navigation for the five journal books. */
 .gloss-nav-book{margin:1px 0}.gloss-nav-book-row{display:grid;grid-template-columns:minmax(0,1fr) 30px;align-items:center;gap:2px}.gloss-nav-book-row>.nav-link{min-width:0;margin:0}.gloss-nav-toggle,.gloss-year-toggle{appearance:none;border:0;background:transparent;color:var(--muted);cursor:pointer;display:grid;place-items:center;border-radius:7px;padding:0;font-family:var(--ui)}.gloss-nav-toggle{width:30px;height:32px}.gloss-year-toggle{width:26px;height:28px}.gloss-nav-toggle:hover,.gloss-year-toggle:hover{background:var(--surface-2);color:var(--text)}.gloss-nav-toggle:focus-visible,.gloss-year-toggle:focus-visible,.gloss-date-link:focus-visible{outline:2px solid var(--accent);outline-offset:1px}.gloss-nav-toggle span,.gloss-year-toggle span{display:block;font-size:18px;line-height:1;transition:transform .14s ease}.gloss-nav-book.open>.gloss-nav-book-row .gloss-nav-toggle span,.gloss-year-group.open>.gloss-year-row .gloss-year-toggle span{transform:rotate(90deg)}.gloss-date-tree{padding:4px 0 8px 12px}.gloss-date-tree[hidden],.gloss-month-list[hidden]{display:none!important}.gloss-year-group{margin:1px 0}.gloss-year-row{display:grid;grid-template-columns:minmax(0,1fr) 26px;align-items:center;gap:1px}.gloss-year-link,.gloss-month-link{display:block;text-decoration:none;color:var(--muted);border-radius:7px;font-family:var(--ui);line-height:1.25}.gloss-year-link{padding:6px 8px;font-size:11.5px;font-weight:650;letter-spacing:.035em}.gloss-month-list{padding:1px 0 4px 10px}.gloss-month-link{padding:5px 8px;font-size:11.5px}.gloss-year-link:hover,.gloss-month-link:hover{background:var(--surface-2);color:var(--text)}.gloss-year-link.active{color:var(--accent);font-weight:750}.gloss-month-link.active{background:var(--accent-soft);color:var(--text);font-weight:650}.gloss-month-link.active::before{content:"";display:inline-block;width:4px;height:4px;border-radius:50%;background:var(--accent);margin:0 7px 2px 0}.gloss-nav-book-row>.nav-link.active{font-weight:700}.gloss-date-tree{animation:gloss-nav-open .12s ease-out}@keyframes gloss-nav-open{from{opacity:.45;transform:translateY(-2px)}to{opacity:1;transform:none}}body.review-mode .gloss-date-tree,body.review-mode .gloss-nav-toggle{display:none!important}body.review-mode .gloss-nav-book-row{display:block}body.review-mode .gloss-nav-book{margin:1px 0}@media(max-width:900px){.gloss-date-tree{padding-left:16px}.gloss-month-link{padding-block:7px;font-size:12px}.gloss-year-link{padding-block:7px;font-size:12px}.gloss-nav-toggle{height:36px}}
@@ -3527,7 +3527,7 @@ they scatter through every land?<sup class="note-ref" id="en-note-ref-144-1"><a 
 <p>The totality of the temporal.</p>
 <p>Transfer this to the entire earth, and what results is not merely a wider but, through the dropping of the atomic bomb, also a deeper temporality, territoriality, and totality.</p>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1948-04-15"><strong>15 April 1948</strong></p>
-<figure class="facsimile" data-facsimile="1" data-printed-page="97"><button aria-label="Enlarge Facsimile · printed page 97" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 97" data-facsimile-src="facsimiles/P06_source-113_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 97" decoding="async" loading="lazy" src="facsimiles/P06_source-113_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 97</figcaption></figure>
+
 <p>Sohm II, p. 233.</p>
 <p>A list of the contaminated, used to determine which groups were to be discriminated against after victory:</p>
 <p>Even in the third century, not only actors, charioteers, gladiators, hunters, sculptors—when they made images of the gods—executioners, brothel-keepers, and magicians, but also schoolteachers, because they worked with pagan literature, and above all soldiers and people who exercised the state’s power to punish, were excluded from membership in Christianity.</p>
@@ -3536,10 +3536,13 @@ they scatter through every land?<sup class="note-ref" id="en-note-ref-144-1"><a 
 <p>Take less than 1 percent freedom.</p>
 <p>Stir it thoroughly into a 40 percent claim to social responsibility.</p>
 <p>Add less than 9 percent Christianity. And do not forget to reserve the remaining percentage for an exception that cancels out everything you have just added. Then you have turned wood-pulp paper into a new German constitution.</p>
+<figure class="facsimile" data-facsimile="1" data-printed-page="97"><button aria-label="Enlarge Facsimile · printed page 97" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 97" data-facsimile-src="facsimiles/P06_source-113_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 97" decoding="async" loading="lazy" src="facsimiles/P06_source-113_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 97</figcaption></figure>
+<blockquote class="facsimile-caption">
 <p>A newspaper clipping from the <em>FAZ</em> of 29 September 1953 pasted in.</p>
 <p>On the left: the astrological sign of Jupiter, drawn in red.</p>
 <p>On and beside the clipping:</p>
 <p>“On the book by James P. Warburg, <em>Germany, Key to Peace</em>, [Cambridge] 1953.”</p>
+</blockquote>
 <p>Rikus:</p>
 <p>Wood and stone are not matter but the breath of creation.</p>
 <p>The modeller works with clay and earth, kneading them freely, arbitrarily, with brilliant, speculative, fantastical freedom.</p>
@@ -7462,13 +7465,15 @@ the soul leaps free of chaos.</p>
 <p>And that is what one would have to say in response to Eugène Aroneanu’s essay <em>Le Crime contre l’Humanité</em>, in the <em>Nouvelle Revue de Droit International Privé</em>, 1946.</p>
 <p>His definition is:</p>
 <p>Crimes against humanity are crimes committed by Germans.</p>
-<figure class="facsimile" data-facsimile="3" data-printed-page="214"><button aria-label="Enlarge Facsimile · printed page 214" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 214" data-facsimile-src="facsimiles/P12_source-230_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 214" decoding="async" loading="lazy" src="facsimiles/P12_source-230_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 214</figcaption></figure>
+
 <p>On the subject of crimes against humanity:</p>
 <p>Take a close look at this Monsieur Aroneanu.<sup class="note-ref" id="en-note-ref-384-1"><a aria-label="Note 1" href="#en-note-fn-p12-pdf06-n01">1</a></sup></p>
 <p>His definition:</p>
 <p>Crimes against humanity can only be committed by Germans.</p>
 <p>“We do not compare the victims. We compare only the judges.”</p>
 <p>(P.[ère] Laberthonnière.)</p>
+<figure class="facsimile" data-facsimile="3" data-printed-page="214"><button aria-label="Enlarge Facsimile · printed page 214" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 214" data-facsimile-src="facsimiles/P12_source-230_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 214" decoding="async" loading="lazy" src="facsimiles/P12_source-230_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 214</figcaption></figure>
+<blockquote class="facsimile-caption">
 <p>Newspaper clipping pasted in.</p>
 <p><em>The Times Weekly</em>, 15 February 1950.</p>
 <p>On the left:</p>
@@ -7478,6 +7483,7 @@ the soul leaps free of chaos.</p>
 <p>In the total state, equal burden-sharing is only a formal transitional stage.</p>
 <p>In reality, it is merely a passing moment in democracy’s dialectical abolition of itself.</p>
 <p>The stage immediately after it—a stage already contained within that transition—is one of extreme over-privilege and under-privilege. These arise automatically when the former, defeated elite is destroyed and preventive measures are taken against the beginnings and formation of new elites.</p>
+</blockquote>
 <p>But what if Hitler was only an echo?</p>
 <p>A reverberation?</p>
 <p>An after-echo?</p>
@@ -7863,7 +7869,7 @@ to take the dollar they are paid.</p>
 <p>So all of this already belongs to the sacral order of the Middle Ages.</p>
 <p>Heresy is a crime under ordinary law.</p>
 <p>St. Gregory is different. He exhorts Gennadius, the exarch of Africa, “to resist with force for the good of the Christian people.”</p>
-<figure class="facsimile" data-facsimile="4" data-printed-page="225"><button aria-label="Enlarge Facsimile · printed page 225" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 225" data-facsimile-src="facsimiles/P12_source-241_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 225" decoding="async" loading="lazy" src="facsimiles/P12_source-241_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 225</figcaption></figure>
+
 <p><em>Ecclesiastica proelia sicut bellatores Domini fortiter dimicatis!!</em></p>
 <p>You fight the battles of the Church bravely, like warriors of the Lord!!</p>
 <p>“This is already, if one wishes (!!), a holy war.”</p>
@@ -7879,9 +7885,12 @@ to take the dollar they are paid.</p>
 <p>And so suddenly it becomes “indirect.”</p>
 <p>All from the letters of St. Gregory.</p>
 <p><em>Patrologia Latina</em> LXXVII, cols. 528–29.</p>
+<figure class="facsimile" data-facsimile="4" data-printed-page="225"><button aria-label="Enlarge Facsimile · printed page 225" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 225" data-facsimile-src="facsimiles/P12_source-241_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 225" decoding="async" loading="lazy" src="facsimiles/P12_source-241_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 225</figcaption></figure>
+<blockquote class="facsimile-caption">
 <p>Newspaper cutting from <em>Die Zeit</em>, 9 February 1950, pasted in.</p>
 <p>Written above it:</p>
 <p>“Illustration of the Just War. <em>Die Zeit</em>; yes indeed, <em>Die Zeit</em>.”</p>
+</blockquote>
 <p>Carl Erdmann speaks of the “Gregorian missionary war.”</p>
 <p>Another example:</p>
 <p>Erlembald, the first knight commissioned by Pope Gregory VII, military leader of the Patarenes in Milan.</p>
@@ -7972,7 +7981,7 @@ to take the dollar they are paid.</p>
 <p>Every political community, and especially every democracy, has its “underground” part.</p>
 <p>Today that consists of the millions who have been discriminated against.</p>
 <p>The more their condemnation into this underground realm is carried out in the name of humanity and human rights, and for the protection of true peace, the more final and eternal that condemnation becomes.</p>
-<figure class="facsimile" data-facsimile="5" data-printed-page="228"><button aria-label="Enlarge Facsimile · printed page 228" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 228" data-facsimile-src="facsimiles/P12_source-244_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 228" decoding="async" loading="lazy" src="facsimiles/P12_source-244_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 228</figcaption></figure>
+
 <p>In 1926 I wrote and published the claim that one could tell, from every work dealing with constitutional questions, whether its author knew the writing of the young Hegel.</p>
 <p>Twenty-five years later, I see how childish this appeal to the education of German teachers of law really was.</p>
 <p>I write this today under the impact of rereading <em>The Scientific Ways of Treating Natural Law</em>.</p>
@@ -7980,10 +7989,13 @@ to take the dollar they are paid.</p>
 <p>How naïve!</p>
 <p>And people today are still talking about natural law—people who do not even know this essay by Hegel!</p>
 <p>Talking about the rule-of-law state without knowing the passage about the spirit of the earth rising upright.</p>
+<figure class="facsimile" data-facsimile="5" data-printed-page="228"><button aria-label="Enlarge Facsimile · printed page 228" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 228" data-facsimile-src="facsimiles/P12_source-244_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 228" decoding="async" loading="lazy" src="facsimiles/P12_source-244_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 228</figcaption></figure>
+<blockquote class="facsimile-caption">
 <p>A cutting from an English-language newspaper of 12 April 1950 is pasted in, showing a “High Flying Suit.”</p>
 <p>Written above it:</p>
 <p>“Ah, no bodily wing will ever join the wings of the spirit.</p>
 <p><em>Le voilà</em>—there he is, the companion!”</p>
+</blockquote>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1950-04-21"><strong>21 April 1950</strong></p>
 <p>An important current subject: a sociological problem, a problem in intellectual history, and a problem in other respects as well: a detailed comparison between the people who profited from the upheaval of 1933 and the people who profited from the collapse of 1945.</p>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1950-04-28"><strong>28 April 1950</strong></p>
@@ -8231,7 +8243,7 @@ a bearer of duties.</p>
 <p><em>Carlo Schmid et les beaux arts.</em></p>
 <p>Carlo Schmid and the fine arts.</p>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1950-08-16"><strong>16 August 1950</strong></p>
-<figure class="facsimile" data-facsimile="6" data-printed-page="236"><button aria-label="Enlarge Facsimile · printed page 236" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 236" data-facsimile-src="facsimiles/P13_source-252_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 236" decoding="async" loading="lazy" src="facsimiles/P13_source-252_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 236</figcaption></figure>
+
 <p>De Maistre thought that nothing worse could happen to a decent man than to find himself in the position of having to sit in judgment over the murderer of his own son.</p>
 <p>Very beautiful.</p>
 <p>Very delicate. But unworthy of a modern humanitarian.</p>
@@ -8239,8 +8251,11 @@ a bearer of duties.</p>
 <p>The victims rush upon their own victims as prosecutors, judges, and above all as executioners—as Habebald and Eilebeute, greedy for plunder.</p>
 <p>It pays to be a victim.</p>
 <p>Nothing pays better.</p>
+<figure class="facsimile" data-facsimile="6" data-printed-page="236"><button aria-label="Enlarge Facsimile · printed page 236" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 236" data-facsimile-src="facsimiles/P13_source-252_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 236" decoding="async" loading="lazy" src="facsimiles/P13_source-252_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 236</figcaption></figure>
+<blockquote class="facsimile-caption">
 <p>Newspaper clipping dated 3 August 1950 pasted in, with a cartoon about the Korean War. Written beneath it:</p>
 <p>“Only someone who knows his prey better than the prey knows itself can conquer it.”</p>
+</blockquote>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1950-08-29"><strong>29 August 1950</strong></p>
 <p>Ernst Jünger and Monsieur Quine:</p>
 <p>Quine has something of the entomologist about him (p. 242 of Bernanos’s novel).</p>
@@ -8576,9 +8591,12 @@ You ancient spirit of flame.</p>
 <p>The ending is poor. Perhaps this would be more beautiful and better:</p>
 <p>So long as I may preserve you,
 You faithful light of the world.</p>
+
 <figure class="facsimile" data-facsimile="7" data-printed-page="248"><button aria-label="Enlarge Facsimile · printed page 248" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 248" data-facsimile-src="facsimiles/P14_source-264_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 248" decoding="async" loading="lazy" src="facsimiles/P14_source-264_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 248</figcaption></figure>
+<blockquote class="facsimile-caption">
 <p>Newspaper clipping from the <em>FAZ</em>, 20 August 1951, pasted in: Karl Korn’s review of B. Brecht, <em>Versuche</em>. Above it:</p>
 <p>“The alienation effect makes sense only in a friend-enemy situation. It preserves the clarity of the distinction. It prevents the two sides from melting into one another. The alienation effect rests on the emotional force of the friend-enemy distinction. <em>Verfremdung</em>—alienation—really means <em>Verfehmung</em>: putting someone under the ban!”</p>
+</blockquote>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1951-08-26"><strong>26 August 1951</strong></p>
 <p>And then the Mohr publishing house in Tübingen!</p>
 <p>There is nothing of the honest <em>Mohr</em> left in it anymore. It is a <em>Mal-Mann</em>, a man who has already brought himself into line several times, and who as a result now—in 1951—&lt;…&gt; throws me out into the street.</p>
@@ -8594,16 +8612,25 @@ You faithful light of the world.</p>
 <p>The ashes will not let us be,
 They drift through every land!</p>
 <p>And then there is the decayed printer’s ink of stale ideologies. That, too, drifts through every land.</p>
-<figure class="facsimile" data-facsimile="9" data-printed-page="250"><button aria-label="Enlarge Facsimile · printed page 250 · 1 of 2" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 250 · 1 of 2" data-facsimile-src="facsimiles/P14_source-266_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 250 · 1 of 2" decoding="async" loading="lazy" src="facsimiles/P14_source-266_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 250 · 1 of 2</figcaption></figure>
+
 <p>Here in the Sauerland, the mountains breathe through gills. In return, the land itself is mute. And the mountains look like turtles. The soul breathes through gills.</p>
-<figure class="facsimile" data-facsimile="10" data-printed-page="250"><button aria-label="Enlarge Facsimile · printed page 250 · 2 of 2" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 250 · 2 of 2" data-facsimile-src="facsimiles/P14_source-266_facsimile-02.jpeg" type="button"><img alt="Facsimile · printed page 250 · 2 of 2" decoding="async" loading="lazy" src="facsimiles/P14_source-266_facsimile-02.jpeg"/></button><figcaption>Facsimile · printed page 250 · 2 of 2</figcaption></figure>
+
+<figure class="facsimile" data-facsimile="9" data-printed-page="250"><button aria-label="Enlarge Facsimile · printed page 250 · 1 of 2" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 250 · 1 of 2" data-facsimile-src="facsimiles/P14_source-266_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 250 · 1 of 2" decoding="async" loading="lazy" src="facsimiles/P14_source-266_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 250 · 1 of 2</figcaption></figure>
+<blockquote class="facsimile-caption">
 <p>Newspaper clipping from the <em>FAZ</em>, 28 February 1953, pasted in. Above it: “Continuation, 1953.”</p>
-<figure class="facsimile" data-facsimile="11" data-printed-page="251"><button aria-label="Enlarge Facsimile · printed page 251" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 251" data-facsimile-src="facsimiles/P14_source-267_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 251" decoding="async" loading="lazy" src="facsimiles/P14_source-267_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 251</figcaption></figure>
+</blockquote>
+
+<figure class="facsimile" data-facsimile="10" data-printed-page="250"><button aria-label="Enlarge Facsimile · printed page 250 · 2 of 2" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 250 · 2 of 2" data-facsimile-src="facsimiles/P14_source-266_facsimile-02.jpeg" type="button"><img alt="Facsimile · printed page 250 · 2 of 2" decoding="async" loading="lazy" src="facsimiles/P14_source-266_facsimile-02.jpeg"/></button><figcaption>Facsimile · printed page 250 · 2 of 2</figcaption></figure>
+<blockquote class="facsimile-caption">
 <p>Another newspaper clipping pasted in. Beside it: “<em>Christ und Welt</em>, 25 August 1951. Access to the summit of power.”</p>
 <p>On the right: “Touching example of the problem of gaining access to the summit of power. What must things be like with Stalin? The bottleneck.”</p>
 <p>Underneath: “Continuation, <em>FAZ</em>, 28 February 1953: problem of access to the ruler. (And these heroes of freedom put up with this for years!)”</p>
+</blockquote>
+<figure class="facsimile" data-facsimile="11" data-printed-page="251"><button aria-label="Enlarge Facsimile · printed page 251" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 251" data-facsimile-src="facsimiles/P14_source-267_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 251" decoding="async" loading="lazy" src="facsimiles/P14_source-267_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 251</figcaption></figure>
+<blockquote class="facsimile-caption">
 <p>Newspaper clipping containing a quotation from Werner Heisenberg pasted in. Above it:</p>
 <p>“What is the <physicist>? A criminal or a mentally ill person? Somehow, the answer depends on what we decide to do with him?”</physicist></p>
+</blockquote>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1951-08-31"><strong>31 August 1951</strong></p>
 <p><em>Le secret de l’église catholique</em>—the secret of the Catholic Church. Compare:</p>
 <ol>
@@ -8822,12 +8849,14 @@ And says: you may, because you can.</p>
 <p>Was he ever invited to a court celebration?</p>
 <p>Perhaps as rector of the university?</p>
 <p>And would he have gone to Paris if Napoleon had invited him in 1808—instead of Goethe?</p>
-<figure class="facsimile" data-facsimile="12" data-printed-page="257"><button aria-label="Enlarge Facsimile · printed page 257" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 257" data-facsimile-src="facsimiles/P14_source-273_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 257" decoding="async" loading="lazy" src="facsimiles/P14_source-273_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 257</figcaption></figure>
+
 <p>Beautiful words from Heidegger on thinking:</p>
 <p>“The word of the thinker has no authority. The word of thinkers knows no authors. The word of thinking has neither brilliance nor charm. The word of thinking rests in sobriety toward what it says.”</p>
 <p>That is my fate as a professor.</p>
 <p>Thinking is a thankless activity.</p>
 <p>Unthinkably thankless.</p>
+<figure class="facsimile" data-facsimile="12" data-printed-page="257"><button aria-label="Enlarge Facsimile · printed page 257" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 257" data-facsimile-src="facsimiles/P14_source-273_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 257" decoding="async" loading="lazy" src="facsimiles/P14_source-273_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 257</figcaption></figure>
+<blockquote class="facsimile-caption">
 <p>Newspaper clipping from the <em>FAZ</em>, 21 August 1950, pasted in. Above it: “9 October 1951.”</p>
 <p>To the left:</p>
 <p>“<em>Character assassination as one of the fine arts.</em></p>
@@ -8841,13 +8870,17 @@ And says: you may, because you can.</p>
 <p>To the right:</p>
 <p>“Does he not dare to name him?</p>
 <p>That is the terror that no one dares to name!”</p>
-<figure class="facsimile" data-facsimile="13" data-printed-page="258"><button aria-label="Enlarge Facsimile · printed page 258" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 258" data-facsimile-src="facsimiles/P14_source-274_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 258" decoding="async" loading="lazy" src="facsimiles/P14_source-274_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 258</figcaption></figure>
+</blockquote>
+
 <p>Poor in deeds and rich in thoughts. That had to reverse itself. And so a realm rich in deeds really did appear—namely Adolf Tatenreich—and turned Germany into a realm rich in pain.</p>
 <p>And when &lt;…&gt; poor in thoughts and poor in deeds and ex&lt;.&gt; &lt;…&gt;, Theodor Heuss <appeared>.<sup class="note-ref" id="en-note-ref-457-1"><a aria-label="Note 1" href="#en-note-fn-p14-pdf13-n01">1</a></sup></appeared></p>
+<figure class="facsimile" data-facsimile="13" data-printed-page="258"><button aria-label="Enlarge Facsimile · printed page 258" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 258" data-facsimile-src="facsimiles/P14_source-274_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 258" decoding="async" loading="lazy" src="facsimiles/P14_source-274_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 258</figcaption></figure>
+<blockquote class="facsimile-caption">
 <p>Two newspaper clippings pasted in, one from <em>Die Zeit</em>, 27 September 1951, and one from the <em>FAZ</em>, 15 October 1951.</p>
 <p>Above them: “11 October 1951.”</p>
 <p>Marginal notes on the first:</p>
 <p>“On Hans Peters, president of the Görres Society, CDU representative; proposes Steiniger for membership in the Association of German Constitutional Law Teachers; carries out his own policy of self-insurance; represents the constitutional state.”</p>
+</blockquote>
 <figure class="facsimile" data-facsimile="14" data-printed-page="259"><button aria-label="Enlarge Facsimile · printed page 259" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 259" data-facsimile-src="facsimiles/P14_source-275_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 259" decoding="async" loading="lazy" src="facsimiles/P14_source-275_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 259</figcaption></figure>
 <p>(Lyrical-nihilistic) Gottfried.</p>
 <p>Gliding on sultry dactyls,
@@ -8917,12 +8950,14 @@ Whom every child laughs at.</p>
 <p>Today the Germans complain about the works of art stolen from Germany by the Russians and the other victors. Yet these same Germans have no idea what an enormous act of intellectual surrender they carried out over the last hundred years when they abandoned Hegel to the Russians—and now even leave him to the French.</p>
 <p>Today the Germans complain about the art that the Russians and the other victors are taking from Germany. They do not realize that, by giving up Hegel, they authorized this consequence of their surrender in advance.<sup class="note-ref" id="en-note-ref-463-1"><a aria-label="Note 5" href="#en-note-fn-p14-pdf16-n05">5</a></sup></p>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1951-10-21"><strong>21 October 1951</strong></p>
-<figure class="facsimile" data-facsimile="15" data-printed-page="261"><button aria-label="Enlarge Facsimile · printed page 261" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 261" data-facsimile-src="facsimiles/P14_source-277_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 261" decoding="async" loading="lazy" src="facsimiles/P14_source-277_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 261</figcaption></figure>
+
 <p>The body is the outward expression, the visible activity of the self.</p>
 <p>Compare <em>Phenomenology of Spirit</em>, p. 233 (245/6).</p>
 <p>Outwardness, visibility, activity—it is always the same thing: visibility is deed and history; deed is &lt;…&gt; betrayal; deed is misdeed; realization is forfeiture.<sup class="note-ref" id="en-note-ref-464-1"><a aria-label="Note 6" href="#en-note-fn-p14-pdf16-n06">6</a></sup></p>
 <p>Deed—falling away from the idea, falling away from purity—misdeed—guilt—crime.</p>
 <p>Sohm, that utterly noble man, says the same thing: there is no law of the Church, only a community of love.</p>
+<figure class="facsimile" data-facsimile="15" data-printed-page="261"><button aria-label="Enlarge Facsimile · printed page 261" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 261" data-facsimile-src="facsimiles/P14_source-277_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 261" decoding="async" loading="lazy" src="facsimiles/P14_source-277_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 261</figcaption></figure>
+<blockquote class="facsimile-caption">
 <p>Newspaper clipping from the <em>FAZ</em>, 5 November 1951, pasted in.</p>
 <p>On it, above the headline: “&lt;…&gt; Clear!!”</p>
 <p>Above and to the right:</p>
@@ -8943,9 +8978,10 @@ Whom every child laughs at.</p>
 <p>On the left:</p>
 <p>“All work of the mind is good undeclared labour.</p>
 <p>So it says in a publication of the Economic and Political Society from 1947 (Frankfurt); compare p. 73.”</p>
+</blockquote>
 <p>Then why is there such a thing as law at all? Why not say at the same time: there is no law; there is only love and legislation. Take a closer look at these apostles of love.</p>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1951-10-23"><strong>23 October 1951</strong></p>
-<figure class="facsimile" data-facsimile="16" data-printed-page="262"><button aria-label="Enlarge Facsimile · printed page 262" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 262" data-facsimile-src="facsimiles/P14_source-278_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 262" decoding="async" loading="lazy" src="facsimiles/P14_source-278_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 262</figcaption></figure>
+
 <p><em>Character assassination as one of the fine arts.</em> Ebenstein and Löwenstein, Erich Kaufmann and Gustav Radbruch, Rosenbaum, Leibholz—all these character assassins as masters of that fine art.</p>
 <p>Mass psychology has its own vocabulary.</p>
 <p>The words change rapidly and keep sinking lower and lower!</p>
@@ -8953,6 +8989,8 @@ Whom every child laughs at.</p>
 <p>One says <em>defendant</em> and <em>aggressor</em>.</p>
 <p>Anyone who calls that progress or an improvement is a fraud.</p>
 <p>I am the bowstring that the World Spirit draws tight and from which it shoots its arrows. Now I am growing old, and the string is getting weaker. The string grows weaker, but the longing grows stronger.</p>
+<figure class="facsimile" data-facsimile="16" data-printed-page="262"><button aria-label="Enlarge Facsimile · printed page 262" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 262" data-facsimile-src="facsimiles/P14_source-278_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 262" decoding="async" loading="lazy" src="facsimiles/P14_source-278_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 262</figcaption></figure>
+<blockquote class="facsimile-caption">
 <p>Newspaper clipping, “Foreign Policy in the Glass House. Hallstein and Carlo Schmid in the Paulskirche,” from the <em>FAZ</em>, &lt;?&gt; 1951, pasted in.</p>
 <p>Above it:</p>
 <p>“Forest or glass house, or politics nobly offered. Compare reverse.”</p>
@@ -8973,18 +9011,22 @@ Whom every child laughs at.</p>
 <p>How much longer do they intend to keep discussing?</p>
 <p>Until 1952?</p>
 <p>Or even 1954?”</p>
+</blockquote>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1951-10-25"><strong>25 October 1951</strong></p>
-<figure class="facsimile" data-facsimile="17" data-printed-page="263"><button aria-label="Enlarge Facsimile · printed page 263" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 263" data-facsimile-src="facsimiles/P14_source-279_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 263" decoding="async" loading="lazy" src="facsimiles/P14_source-279_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 263</figcaption></figure>
+
 <p>Earlier, in the nineteenth century, Anglophilia replaced political thought. But at least that was still a <em>philia</em>—an affection for something. Today, since 1945, antifascism has replaced political thought. And that is precisely an <em>anti</em>: against everything that is not for Moscow.<sup class="note-ref" id="en-note-ref-465-1"><a aria-label="Note 1" href="#en-note-fn-p14-pdf18-n01">1</a></sup></p>
 <p>Shakespeare’s Hamlet is James I. There is no longer any question about it.<sup class="note-ref" id="en-note-ref-466-1"><a aria-label="Note 2" href="#en-note-fn-p14-pdf18-n02">2</a></sup> Lilian Winstanley proved it.</p>
-<p>Shakespeare was more immediately rooted in the actual London of his day, more topical and concrete, than Bert—Newspaper clipping from the <em>FAZ</em>, 6 November 1951, pasted in.</p>
+<p>Shakespeare was more immediately rooted in the actual London of his day, more topical and concrete, than Bert—Brecht in present-day Moscow.</p>
+<figure class="facsimile" data-facsimile="17" data-printed-page="263"><button aria-label="Enlarge Facsimile · printed page 263" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 263" data-facsimile-src="facsimiles/P14_source-279_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 263" decoding="async" loading="lazy" src="facsimiles/P14_source-279_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 263</figcaption></figure>
+<blockquote class="facsimile-caption">
+<p>Newspaper clipping from the <em>FAZ</em>, 6 November 1951, pasted in.</p>
 <p>Above the headline: “Nobility only within the bloc.”</p>
 <p>At bottom right:</p>
 <p>“This would be the place for an analysis of false compassion.</p>
 <p>Tell me whom you pity, and in what situation, and I will tell you who you are!”</p>
-<p>—Brecht in present-day Moscow.</p>
+</blockquote>
 <p>Shakespeare was not a literary man, nor was he a writer of plays in the manner of Schiller, still less Hebbel. He was a <em>popular dramatist with intense appeal</em>.</p>
-<figure class="facsimile" data-facsimile="18" data-printed-page="264"><button aria-label="Enlarge Facsimile · printed page 264" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 264" data-facsimile-src="facsimiles/P14_source-280_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 264" decoding="async" loading="lazy" src="facsimiles/P14_source-280_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 264</figcaption></figure>
+
 <p>Germany is Hamlet: the dead father is Catholic.</p>
 <p>The mother is Catholic too.</p>
 <p>But the son himself is Protestant and studied at Wittenberg.<sup class="note-ref" id="en-note-ref-467-1"><a aria-label="Note 1" href="#en-note-fn-p14-pdf19-n01">1</a></sup></p>
@@ -8992,6 +9034,8 @@ Whom every child laughs at.</p>
 <p>The son philosophizes because he cannot find his bearings.</p>
 <p>But his son Charles is executed by the people. Philosophy and theology are swept aside by very primitive Ironsides—the Essex element, Acts 4/5. But instead of Fortinbras, Cromwell appeared.</p>
 <p>They had no idea <to> what extent in Germany a white raven <would appear="">—a white raven who, for that very reason, appears on every blacklist.</would></to></p>
+<figure class="facsimile" data-facsimile="18" data-printed-page="264"><button aria-label="Enlarge Facsimile · printed page 264" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 264" data-facsimile-src="facsimiles/P14_source-280_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 264" decoding="async" loading="lazy" src="facsimiles/P14_source-280_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 264</figcaption></figure>
+<blockquote class="facsimile-caption">
 <p>Newspaper clipping from the <em>FAZ</em>, 6 November 1951, pasted in.</p>
 <p>Above it:</p>
 <p>“<em>FAZ</em>, 6 November. Another suicide: Forrestal, November 1949; compare diary, 5 November 1951.”</p>
@@ -9004,6 +9048,7 @@ Whom every child laughs at.</p>
 <p>“<em>Now is the time for all good men to come to the aid of their country.</em></p>
 <p>Standard practice sentence for typists.</p>
 <p>(Letter to <em>Der Spiegel</em>, no. 45.)”</p>
+</blockquote>
 <hr class="journal-separator" aria-hidden="true"><p id="gloss-book-iv-date-1951-11" data-journal-date="1951-11-07"><strong>7 November 1951</strong></p>
 <p>In the house of the hanged man, one does not speak of the rope.</p>
 <p>That is sympathetic.</p>
@@ -9025,15 +9070,19 @@ The utterly wrong direction.</p>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1951-11-28"><strong>28 November 1951</strong></p>
 <p>A warning to the Americans about the doctrine of the just war and the <em>justus hostis</em>—the legitimate enemy.</p>
 <p>But also a warning to all those who silence people and try to remove them: you cannot live forever on the <em>privilegium ignorantiae</em>, the privilege of ignorance!</p>
-<p>It seems to me that Emmanuel Hirsch has adopted my explanation of the difference between Hobbes and Spinoza (<em>History of Modern Protestant Theology</em>, 1949, vol. I, pp. 46–49: “a complete shift in ethical meaning”; Spinoza’s doctrine is “the doctrine</p>
+<p>It seems to me that Emmanuel Hirsch has adopted my explanation of the difference between Hobbes and Spinoza (<em>History of Modern Protestant Theology</em>, 1949, vol. I, pp. 46–49: “a complete shift in ethical meaning”; Spinoza’s doctrine is “the doctrine of an outsider who is not connected to a community by the bonds of feeling and history …,” p. 48).<sup class="note-ref" id="en-note-ref-468-1"><a aria-label="Note 1" href="#en-note-fn-p15-pdf02-n01">1</a></sup></p>
 <figure class="facsimile" data-facsimile="20" data-printed-page="266"><button aria-label="Enlarge Facsimile · printed page 266" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 266" data-facsimile-src="facsimiles/P15_source-282_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 266" decoding="async" loading="lazy" src="facsimiles/P15_source-282_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 266</figcaption></figure>
-<p><em>Two newspaper clippings dated 27 November 1951 are pasted in. To the right of the second: “Catholicism: rival of Judaism. Hence this fanatical anti-fascism.” Beneath it: “&lt;…&gt; Rest. Board of Herford!”</em></p>
-<p>of an outsider who is not connected to a community by the bonds of feeling and history …,” p. 48).<sup class="note-ref" id="en-note-ref-468-1"><a aria-label="Note 1" href="#en-note-fn-p15-pdf02-n01">1</a></sup></p>
+<blockquote class="facsimile-caption">
+<p>Two newspaper clippings dated 27 November 1951 are pasted in. To the right of the second: “Catholicism: rival of Judaism. Hence this fanatical anti-fascism.” Beneath it: “&lt;…&gt; Rest. Board of Herford!”</p>
+</blockquote>
 <p>&lt;…&gt; Smend wrote exactly the same thing to me in 1938! So I let the cat out of the bag, and now I have to pay for it. All the more reason why the sentences on p. 86 of my <em>Leviathan</em> stand so firmly. It gives me tremendous strength to read them again today, thirteen years later, after reading Emmanuel Hirsch.</p>
-<figure class="facsimile" data-facsimile="21" data-printed-page="267"><button aria-label="Enlarge Facsimile · printed page 267" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 267" data-facsimile-src="facsimiles/P15_source-283_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 267" decoding="async" loading="lazy" src="facsimiles/P15_source-283_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 267</figcaption></figure>
+
 <p>For an old German professor who has been persecuted and mistreated by his former colleagues, it is comforting to read in Bakunin’s <em>Confession</em>:</p>
 <p>“There is nothing more narrow-minded, more contemptible, more ridiculous than the German professor.”</p>
-<p><em>Newspaper clipping dated 16 November 1951 pasted in. Above it: “16 November 1951. Do you choose the tie salesman Tr[uman] or the bank robber St[alin]?”</em></p>
+<figure class="facsimile" data-facsimile="21" data-printed-page="267"><button aria-label="Enlarge Facsimile · printed page 267" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 267" data-facsimile-src="facsimiles/P15_source-283_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 267" decoding="async" loading="lazy" src="facsimiles/P15_source-283_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 267</figcaption></figure>
+<blockquote class="facsimile-caption">
+<p>Newspaper clipping dated 16 November 1951 pasted in. Above it: “16 November 1951. Do you choose the tie salesman Tr[uman] or the bank robber St[alin]?”</p>
+</blockquote>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1951-11-29"><strong>29 November 1951</strong></p>
 <p>O wise, knowing Thomas Hobbes!</p>
 <p>“The Roman people ruled Judaea after it had been conquered under Pompey. What, then, should the form of government of the Jews under the Roman people be called? It was not a democracy, nor was it an aristocracy, because it was not governed by an assembly of Jewish men.”</p>
@@ -9064,11 +9113,13 @@ The utterly wrong direction.</p>
 <p>She really ought to feel some shame
 For taking dollars all the same.</p>
 <p>Taking rubles is another matter.</p>
-<figure class="facsimile" data-facsimile="22" data-printed-page="269"><button aria-label="Enlarge Facsimile · printed page 269" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 269" data-facsimile-src="facsimiles/P15_source-285_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 269" decoding="async" loading="lazy" src="facsimiles/P15_source-285_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 269</figcaption></figure>
+
 <p>We are supposed to de-Nazify ourselves, de-Bonapartize ourselves, de-circumcise ourselves, de-baptize ourselves, de-clericalize ourselves, de-Bismarckize ourselves. Every little monkey found another <combination>, another thing that could still be “de-”d.</combination> And anyone who still had anything about him that could be “de-”d was finished. He had to submit to it—to total de-de-ing, total <em>Ent-Entung</em>.</p>
-<p>Hitler</p>
-<p><em>Newspaper clipping from the FAZ, 28 November 1951. Above it: “Wonderful, there it is. Freestyle wrestling, or the great guilty party we need.” To the right: “Someone commits an offense! That is the criminalization of aggression. Exactly, Herta, that’s it!”</em></p>
-<p>wanted to exterminate the Jews; bad enough.</p>
+<p>Hitler wanted to exterminate the Jews; bad enough.</p>
+<figure class="facsimile" data-facsimile="22" data-printed-page="269"><button aria-label="Enlarge Facsimile · printed page 269" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 269" data-facsimile-src="facsimiles/P15_source-285_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 269" decoding="async" loading="lazy" src="facsimiles/P15_source-285_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 269</figcaption></figure>
+<blockquote class="facsimile-caption">
+<p>Newspaper clipping from the FAZ, 28 November 1951. Above it: “Wonderful, there it is. Freestyle wrestling, or the great guilty party we need.” To the right: “Someone commits an offense! That is the criminalization of aggression. Exactly, Herta, that’s it!”</p>
+</blockquote>
 <p>But it never occurred to him to de-Judaize them. The emancipation of the Jews, however, is well known to have taken place by turning the Christians into Jews. This sentence of Karl Marx is the most important statement of the nineteenth century.</p>
 <p>The Blessing of St Blaise is more important than the entire Herder publishing house; and more important than the whole doctrine of natural law, from Vitoria to the anti-Vit[oria] hero Baron von der Heydte.</p>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1952-02-05"><strong>5 February 1952</strong></p>
@@ -9086,9 +9137,12 @@ For taking dollars all the same.</p>
 <p>What is permitted against a German—what is even considered right and a duty—is by no means permitted against Koreans.</p>
 <p>The German is the eternal ox.</p>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1952-03-06"><strong>6 March 1952</strong></p>
-<figure class="facsimile" data-facsimile="23" data-printed-page="270"><button aria-label="Enlarge Facsimile · printed page 270" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 270" data-facsimile-src="facsimiles/P15_source-286_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 270" decoding="async" loading="lazy" src="facsimiles/P15_source-286_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 270</figcaption></figure>
+
 <p>Get this clearly into your head: even the Kaspar Hauser myth eventually leads only to new criminalizations. We are among murderers. I have fallen among murderers. (Kaufmann and Smend wanted to kill me; the fate of <em>Miorița</em>.)</p>
-<p><em>Newspaper clipping from</em> Die Zeit, <em>28 February 1952.</em></p>
+<figure class="facsimile" data-facsimile="23" data-printed-page="270"><button aria-label="Enlarge Facsimile · printed page 270" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 270" data-facsimile-src="facsimiles/P15_source-286_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 270" decoding="async" loading="lazy" src="facsimiles/P15_source-286_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 270</figcaption></figure>
+<blockquote class="facsimile-caption">
+<p>Newspaper clipping from <em>Die Zeit</em>, 28 February 1952.</p>
+</blockquote>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1952-03-08"><strong>8 March 1952</strong></p>
 <p>For our <em>animus procreandi</em>—our will to procreate, our great struggle against pseudo-Puritan birth control—we need no celibate bureaucracy, no vicariates-general, and above all no Görres Society, together with its glorious Görres-like president Hans Peters, head of studies at the Nazi Academy of Administration and swearer of oaths: some religious, to Adolf; some non-religious, to Adenauer.</p>
 <p>Definition of C. S.: a man who has never filed a claim for compensation.<sup class="note-ref" id="en-note-ref-471-1"><a aria-label="Note 1" href="#en-note-fn-p15-pdf06-n01">1</a></sup></p>
@@ -9161,7 +9215,7 @@ And that paid off for him—the enemy.</p>
 <p>Offspring!</p>
 <p>Stay a while—you are so beautiful; on the one hand.
 Get out of here; on the other.</p>
-<figure class="facsimile" data-facsimile="24" data-printed-page="273"><button aria-label="Enlarge Facsimile · printed page 273" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 273" data-facsimile-src="facsimiles/P15_source-289_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 273" decoding="async" loading="lazy" src="facsimiles/P15_source-289_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 273</figcaption></figure>
+
 <p>You are provided for—coffined, you might say. You are even insured.</p>
 <p>You?</p>
 <p>Me?</p>
@@ -9182,7 +9236,10 @@ Get out of here; on the other.</p>
 <p>Insurance insures the insurer first of all.</p>
 <p>Obviously.</p>
 <p>Otherwise insurance could never exist in the first place.</p>
-<p><em>Newspaper clipping from</em> Gegenwart, <em>5 October 1955, pasted in. Above it: “Well, well. What do I hear?”</em></p>
+<figure class="facsimile" data-facsimile="24" data-printed-page="273"><button aria-label="Enlarge Facsimile · printed page 273" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 273" data-facsimile-src="facsimiles/P15_source-289_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 273" decoding="async" loading="lazy" src="facsimiles/P15_source-289_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 273</figcaption></figure>
+<blockquote class="facsimile-caption">
+<p>Newspaper clipping from <em>Gegenwart</em>, 5 October 1955, pasted in. Above it: “Well, well. What do I hear?”</p>
+</blockquote>
 <p>Social Sorcery</p>
 <p>The first temptation:</p>
 <p>Command these stones to become bread.</p>
@@ -9194,14 +9251,17 @@ Get out of here; on the other.</p>
 <p>Social sorcery.</p>
 <p>The first miracle.</p>
 <p>Economic miracle—social miracle.</p>
-<figure class="facsimile" data-facsimile="25" data-printed-page="274"><button aria-label="Enlarge Facsimile · printed page 274" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 274" data-facsimile-src="facsimiles/P15_source-290_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 274" decoding="async" loading="lazy" src="facsimiles/P15_source-290_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 274</figcaption></figure>
+
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1952-04-27"><strong>27 April 1952</strong></p>
 <p>A wonderful passage in Buffon’s <em>Natural History</em>, quoted by Rousseau in the <em>Discourse on Inequality</em>:</p>
 <p>The plant lives more from air and water than from the earth. But when it dies and decays, it gives everything back to the earth. It gives the earth more than it took from it. Animals and human beings are different.</p>
-<p><em>Newspaper clipping from the FAZ, 25 April 1952, pasted in. Above it: “cf. p. 94 [= p. 306] and p. 120 [= p. 320]; cf. 21 July 1956 (V p. 67); cf. p. 74 [= pp. 293 ff.].”</em></p>
-<p><em>To the left: “25 April 1952. Encyclical 1939: renegatur et rejiciatur Norma—let Norma be denied and rejected. Norma, Norma, you have vanished! The congrua as the basis of the normativist’s superiority over the concrete situation, and of his supposed freedom from any situation. Cf. Hermann Heller’s interjections during the Prussia–Reich trial in Leipzig, October 1932, and the same interjections by Adolf Arndt in the Constitutional Committee in Bonn, October 1952.”</em></p>
-<p><em>To the right: “cf. p. 74 [= pp. 293 ff.], cf. p. 94 [= p. 306], cf. CDU deputy Nellen in the Bonn Bundestag on 6 July 1956 concerning conscientious objection to military service (12 July 1956). So take a closer look for once at these eternal concepts and their ‘purposefulness’!!”</em></p>
-<p><em>Beneath: “The Tatbestand—the legally defined set of facts—is supposed to count! But the Sachverhalt—the actual state of affairs—is not?”</em></p>
+<figure class="facsimile" data-facsimile="25" data-printed-page="274"><button aria-label="Enlarge Facsimile · printed page 274" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 274" data-facsimile-src="facsimiles/P15_source-290_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 274" decoding="async" loading="lazy" src="facsimiles/P15_source-290_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 274</figcaption></figure>
+<blockquote class="facsimile-caption">
+<p>Newspaper clipping from the FAZ, 25 April 1952, pasted in. Above it: “cf. p. 94 [= p. 306] and p. 120 [= p. 320]; cf. 21 July 1956 (V p. 67); cf. p. 74 [= pp. 293 ff.].”</p>
+<p>To the left: “25 April 1952. Encyclical 1939: renegatur et rejiciatur Norma—let Norma be denied and rejected. Norma, Norma, you have vanished! The congrua as the basis of the normativist’s superiority over the concrete situation, and of his supposed freedom from any situation. Cf. Hermann Heller’s interjections during the Prussia–Reich trial in Leipzig, October 1932, and the same interjections by Adolf Arndt in the Constitutional Committee in Bonn, October 1952.”</p>
+<p>To the right: “cf. p. 74 [= pp. 293 ff.], cf. p. 94 [= p. 306], cf. CDU deputy Nellen in the Bonn Bundestag on 6 July 1956 concerning conscientious objection to military service (12 July 1956). So take a closer look for once at these eternal concepts and their ‘purposefulness’!!”</p>
+<p>Beneath: “The Tatbestand—the legally defined set of facts—is supposed to count! But the Sachverhalt—the actual state of affairs—is not?”</p>
+</blockquote>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1952-04-27"><strong>27 April 1952</strong></p>
 <p>“What a spectacle for a Carib: the exhausting and envied labors of a European minister!”</p>
 <p>(<em>Discourse on Inequality</em>, near the end.)</p>
@@ -9256,7 +9316,7 @@ To see it rise into the sky.<sup class="note-ref" id="en-note-ref-477-1"><a aria
 Come the explosions.</p>
 <hr class="journal-separator" aria-hidden="true"><p id="gloss-book-iv-date-1952-06" data-journal-date="1952-06-11"><strong>11 June 1952</strong></p>
 <p>Human hunger can never be satisfied. Human beings also suffer from future hunger. This human being is <em>fame futura famelicus</em>: hungry from hunger that has not yet arrived. That is what distinguishes human hunger from animal hunger: our inability to be satisfied, and our habit of planning ahead for the hunger that will come in the future. Human beings differ from animals through their insatiability. The will to power is only one form of this specifically human inability to be satisfied. Hobbes understood this and made it a foundation of his thought. That is why he is a deeper and more thorough thinker than Nietzsche.</p>
-<figure class="facsimile" data-facsimile="26" data-printed-page="277"><button aria-label="Enlarge Facsimile · printed page 277" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 277" data-facsimile-src="facsimiles/P15_source-293_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 277" decoding="async" loading="lazy" src="facsimiles/P15_source-293_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 277</figcaption></figure>
+
 <p>Let the world perish!</p>
 <p><em>Pereat mundus.</em></p>
 <p>Surely that, too, is a form of nihilism.</p>
@@ -9272,7 +9332,10 @@ Come the explosions.</p>
 <p>Law and justice!</p>
 <p><em>Pereat mundus!</em></p>
 <p>But here and now, “law and justice” really does mean: let the world perish.</p>
-<p><em>Newspaper clipping dated 2 June 1952 pasted in. Above it: “2 June 1952.” To the left, partly in shorthand: “On the same day, law &lt;…&gt;, likewise Curtius above. Compare the Prussian p.[our] l.[e] mérite! 1954: some time later: the women, who &lt;…&gt; the arms &lt;…&gt; strike &lt;…&gt; and can no longer speak.”</em></p>
+<figure class="facsimile" data-facsimile="26" data-printed-page="277"><button aria-label="Enlarge Facsimile · printed page 277" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 277" data-facsimile-src="facsimiles/P15_source-293_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 277" decoding="async" loading="lazy" src="facsimiles/P15_source-293_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 277</figcaption></figure>
+<blockquote class="facsimile-caption">
+<p>Newspaper clipping dated 2 June 1952 pasted in. Above it: “2 June 1952.” To the left, partly in shorthand: “On the same day, law &lt;…&gt;, likewise Curtius above. Compare the Prussian p.[our] l.[e] mérite! 1954: some time later: the women, who &lt;…&gt; the arms &lt;…&gt; strike &lt;…&gt; and can no longer speak.”</p>
+</blockquote>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1952-06-12"><strong>12 June 1952</strong></p>
 <p>They—the victors of 1945—have nothing left to say about God except that he is the Wholly Other. Well, throughout my life I have encountered nothing but the Wholly Other. Every friend was the Wholly Other. Every woman was the Wholly Other. And I really did worship them. But that hardly made them God, even by the definition of that great anti-fascist theologian Karl Barth. If God is nothing but the Wholly Other of the anti-fascists, then the proof that he exists is that today, in 1952, he is dead.</p>
 <p>All these technicians tell you: Technology can also serve the good. Fine. Please show me this good man.</p>
@@ -9325,8 +9388,8 @@ And need nothing further but laws.</p>
 <p>No!</p>
 <p>And yet what an injustice I do to myself with that no. Still, I gladly accept that injustice rather than appear in the same category as Eduard Spranger. I refuse to identify myself with his identification.</p>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1952-07-04"><strong>4 July 1952</strong></p>
-<figure class="facsimile" data-facsimile="27" data-printed-page="279"><button aria-label="Enlarge Facsimile · printed page 279" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 279" data-facsimile-src="facsimiles/P15_source-295_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 279" decoding="async" loading="lazy" src="facsimiles/P15_source-295_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 279</figcaption></figure>
-<figure class="facsimile" data-facsimile="28" data-printed-page="280"><button aria-label="Enlarge Facsimile · printed page 280" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 280" data-facsimile-src="facsimiles/P15_source-296_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 280" decoding="async" loading="lazy" src="facsimiles/P15_source-296_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 280</figcaption></figure>
+
+
 <p>The problem of how the question is framed.</p>
 <p>I ask you:</p>
 <p>Are you a decent human being, or are you a Nobel laureate?!</p>
@@ -9337,8 +9400,14 @@ And need nothing further but laws.</p>
 <p>Thank God!</p>
 <p>They are saved!!</p>
 <p>Are you Napoleon, or are you a louse?</p>
-<p><em>Newspaper clipping dated 15 July 1952. To the right: “not denied!! 14 July 1952.” Beneath: “Thus Eisenhower in the summer of 1960 <july> the <seckendorf> &lt;…&gt; about suicide etc.”</seckendorf></july></em></p>
-<p><em>Two newspaper clippings pasted in. On the first: “Sonntagsblatt, 24 October 1952.”</em></p>
+<figure class="facsimile" data-facsimile="27" data-printed-page="279"><button aria-label="Enlarge Facsimile · printed page 279" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 279" data-facsimile-src="facsimiles/P15_source-295_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 279" decoding="async" loading="lazy" src="facsimiles/P15_source-295_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 279</figcaption></figure>
+<blockquote class="facsimile-caption">
+<p>Newspaper clipping dated 15 July 1952. To the right: “not denied!! 14 July 1952.” Beneath: “Thus Eisenhower in the summer of 1960 <july> the <seckendorf> &lt;…&gt; about suicide etc.”</seckendorf></july></p>
+</blockquote>
+<figure class="facsimile" data-facsimile="28" data-printed-page="280"><button aria-label="Enlarge Facsimile · printed page 280" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 280" data-facsimile-src="facsimiles/P15_source-296_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 280" decoding="async" loading="lazy" src="facsimiles/P15_source-296_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 280</figcaption></figure>
+<blockquote class="facsimile-caption">
+<p>Two newspaper clippings pasted in. On the first: “Sonntagsblatt, 24 October 1952.”</p>
+</blockquote>
 <p>Philosophers of language.</p>
 <p><em>Arzt</em> and <em>Mediziner</em>.</p>
 <p><em>Künstler</em>, Lit[erat], Artist.</p>
@@ -9562,7 +9631,7 @@ Never and always Echo comes upon you.</p>
 <p>Badly.</p>
 <p>“And these Germans are like a wound in the Christian age, and they tear it open again and pass through history into meaning, and they cling to meaning as though it were a curse.”</p>
 <p>So says Pope Clement in Konrad Weiß, <em>Konradin</em>, p. 106.</p>
-<figure class="facsimile" data-facsimile="31" data-printed-page="288"><button aria-label="Enlarge Facsimile · printed page 288" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 288" data-facsimile-src="facsimiles/P16_source-304_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 288" decoding="async" loading="lazy" src="facsimiles/P16_source-304_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 288</figcaption></figure>
+
 <p>Suddenly they all turn <strong>light</strong> into an absolute.</p>
 <p>Light, <em>la lumière</em>, even <em>les lumières</em>—the Enlightenment—progress, <em>le progrès</em>, and so on.</p>
 <p>(One must not say that aloud in the presence of Mercury from the left bank of the Rhine.)</p>
@@ -9573,12 +9642,15 @@ Never and always Echo comes upon you.</p>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1952-11-22"><strong>22 November 1952</strong></p>
 <p>Nobel-Prize Christianity.</p>
 <p>Nobel-Prize Catholicism.</p>
+<figure class="facsimile" data-facsimile="31" data-printed-page="288"><button aria-label="Enlarge Facsimile · printed page 288" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 288" data-facsimile-src="facsimiles/P16_source-304_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 288" decoding="async" loading="lazy" src="facsimiles/P16_source-304_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 288</figcaption></figure>
+<blockquote class="facsimile-caption">
 <p>Newspaper clipping.</p>
 <p>Written on it:</p>
 <p>“18 November 1952. Let him earn it.”</p>
 <p>Below that:</p>
 <p>“Romano Guardini is due next year!</p>
 <p>Meanwhile, Christian shame flees for refuge to the pagans.”</p>
+</blockquote>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1952-11-23"><strong>23 November 1952</strong></p>
 <p>Answer to the question:</p>
 <p>What are you doing?</p>
@@ -9637,7 +9709,9 @@ Who protects me while I sleep?</p>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1953-02-05"><strong>5 February 1953</strong></p>
 <figure class="facsimile" data-facsimile="32" data-printed-page="291"><button aria-label="Enlarge Facsimile · printed page 291" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 291" data-facsimile-src="facsimiles/P16_source-307_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 291" decoding="async" loading="lazy" src="facsimiles/P16_source-307_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 291</figcaption></figure>
 <p>The Constitutional Court therefore finds itself in a miserable dilemma: Either it avoids every important decision, thereby calling its own reason for existence into question; or it becomes a breeding ground for unofficial and disguised acts of sovereignty. (Addition, March 1954: it chose the second.)<sup class="note-ref" id="en-note-ref-497-1"><a aria-label="Note 1" href="#en-note-fn-p16-pdf08-n01">1</a></sup></p>
+
 <figure class="facsimile" data-facsimile="33" data-printed-page="292"><button aria-label="Enlarge Facsimile · printed page 292" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 292" data-facsimile-src="facsimiles/P16_source-308_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 292" decoding="async" loading="lazy" src="facsimiles/P16_source-308_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 292</figcaption></figure>
+<blockquote class="facsimile-caption">
 <p>Newspaper clipping.</p>
 <p>Written on it:</p>
 <p>“Phraseology as bloc-building creates a right wing against the doubts of the left wing.”</p>
@@ -9647,6 +9721,7 @@ Who protects me while I sleep?</p>
 <p>“Located; here it is permitted. Elsewhere—in my case—Herr Pringsheim finds it inadmissible.</p>
 <p>On this, Guido Vernani of Rimini, beginning of the fourteenth century:</p>
 <p>‘I, however, believe that the Jewish people, both because of the location of their land &lt;…&gt; and because of their religion, had a greater right than the Romans to rule over the nations.’”</p>
+</blockquote>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1953-02-15"><strong>15 February 1953</strong></p>
 <p>What is Max Stirner’s deepest concern? He wants to become <strong>unencumbered</strong>. He feels himself deeply caught up and constrained, and he wants to become free of it. To be <em>befangen</em>—caught, compromised, entangled—is alienation.</p>
 <p>Quite right.</p>
@@ -9666,7 +9741,7 @@ Yet with Christ <the devil="" plays=""> at skittles.</the></p>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1953-02-18"><strong>18 February 1953</strong></p>
 <p>Whenever things seem to be going especially well for me, I tell myself: I know no more about my situation than the young Mexican whom the priests first fed and then slaughtered knew about his.</p>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1953-02-19"><strong>19 February 1953</strong></p>
-<figure class="facsimile" data-facsimile="36" data-printed-page="295"><button aria-label="Enlarge Facsimile · printed page 295" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 295" data-facsimile-src="facsimiles/P16_source-311_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 295" decoding="async" loading="lazy" src="facsimiles/P16_source-311_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 295</figcaption></figure>
+
 <p>“In Germany today, the intellectual worker has become an off-the-books worker.”</p>
 <p>So says the Frankfurt Society for Economic Policy, founded in 1947, in the year 1952, p. …<sup class="note-ref" id="en-note-ref-499-1"><a aria-label="Note 1" href="#en-note-fn-p16-pdf11-n01">1</a></sup></p>
 <p>How beautiful.</p>
@@ -9679,7 +9754,10 @@ At the earliest hour I descend
 Into the darkest tunnel far and wide.
 Greetings, Germany, from
 the very bottom!</p>
-<p>—Newspaper clipping.</p>
+<p>—</p>
+<figure class="facsimile" data-facsimile="36" data-printed-page="295"><button aria-label="Enlarge Facsimile · printed page 295" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 295" data-facsimile-src="facsimiles/P16_source-311_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 295" decoding="async" loading="lazy" src="facsimiles/P16_source-311_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 295</figcaption></figure>
+<blockquote class="facsimile-caption">
+<p>Newspaper clipping.</p>
 <p>Above it:</p>
 <p>“Situation ethics, compare p. 54 [= newspaper clipping p. 279].”</p>
 <p>Below it:</p>
@@ -9687,6 +9765,7 @@ the very bottom!</p>
 <p>In the margin:</p>
 <p>“Compare p. 44 [= newspaper clipping p. 274].</p>
 <p>The problem of <em>error in persona</em>—mistaken identity—as grounds for invalidity.”</p>
+</blockquote>
 <figure class="facsimile" data-facsimile="37" data-printed-page="296"><button aria-label="Enlarge Facsimile · printed page 296" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 296" data-facsimile-src="facsimiles/P16_source-312_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 296" decoding="async" loading="lazy" src="facsimiles/P16_source-312_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 296</figcaption></figure>
 <hr class="journal-separator" aria-hidden="true"><p id="gloss-book-iv-date-1953-03" data-journal-date="1953-03-22"><strong>22 March 1953</strong></p>
 <p>The invisible order is stronger and deeper than the visible one. Heraclitus says this, and in doing so strikes directly at the claim made by the visible Church. Yet this very same visible Church describes the power it claims as an <strong>indirect power</strong>, a <em>potestas indirecta</em>.</p>
@@ -9707,12 +9786,15 @@ turned your wine unbearably sour.</p>
 <p>Jean Bodin’s advice: Never challenge the fury of the people.</p>
 <p>(&lt;…&gt; p. XIX.)</p>
 <hr class="journal-separator" aria-hidden="true"><p id="gloss-book-iv-date-1953-06" data-journal-date="1953-06-10"><strong>10 June 1953</strong></p>
-<figure class="facsimile" data-facsimile="38" data-printed-page="297"><button aria-label="Enlarge Facsimile · printed page 297" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 297" data-facsimile-src="facsimiles/P16_source-313_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 297" decoding="async" loading="lazy" src="facsimiles/P16_source-313_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 297</figcaption></figure>
+
 <p>What is law? (What is God? Today the two are the same.) Something that is valid, and that is successfully made valid—with a real chance of forcing obedience—which means something that can be enforced by coercion.</p>
 <p>So what is a jurist? Someone whose profession is making things legally valid. A professional enforcer of validity. These validity-makers are worse than the money-makers.</p>
 <p>Get it?</p>
 <p>From the positivist point of view—that is, when there is a clearly defined and predictable legal rule—things are still manageable.</p>
-<p>But God help us when natural-law infiltration—Newspaper clippings reporting Stalin’s death.</p>
+<p>But God help us when natural-law infiltration—begins, and broad general clauses start being enforced!</p>
+<figure class="facsimile" data-facsimile="38" data-printed-page="297"><button aria-label="Enlarge Facsimile · printed page 297" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 297" data-facsimile-src="facsimiles/P16_source-313_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 297" decoding="async" loading="lazy" src="facsimiles/P16_source-313_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 297</figcaption></figure>
+<blockquote class="facsimile-caption">
+<p>Newspaper clippings reporting Stalin’s death.</p>
 <p>Written above:</p>
 <p>“The death of the ruler; newspapers from 5 March 1953.”</p>
 <p>Below:</p>
@@ -9728,9 +9810,9 @@ turned your wine unbearably sour.</p>
 <p>The triumph of medicine.</p>
 <p>Thanks to Niehans’s fresh cells, he lived long enough to witness de-Stalinization.</p>
 <p>No doubt a miracle through God’s providence and &lt;…&gt;.”</p>
-<p>—begins, and broad general clauses start being enforced!</p>
+</blockquote>
 <p>But what am I? I am a survivor. I have neither been standardized into a professional validity-enforcer nor infiltrated by natural law. I am neither a full enforcer nor an empty one.</p>
-<figure class="facsimile" data-facsimile="39" data-printed-page="298"><button aria-label="Enlarge Facsimile · printed page 298" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 298" data-facsimile-src="facsimiles/P16_source-314_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 298" decoding="async" loading="lazy" src="facsimiles/P16_source-314_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 298</figcaption></figure>
+
 <hr class="journal-separator" aria-hidden="true"><p id="gloss-book-iv-date-1953-07" data-journal-date="1953-07-17"><strong>17 July 1953</strong></p>
 <p>I have no insurance of any kind. I would regard it as an insult to the great universal insurer—the “welfare state”—if I were to permit myself any additional insurance.</p>
 <p>I am legal.</p>
@@ -9738,12 +9820,15 @@ turned your wine unbearably sour.</p>
 <p>I have sworn no oath.</p>
 <p>But every <em>status quo</em> wants eternity and demands oaths of eternal loyalty.</p>
 <p>By doing precisely that, it reduces the oath itself to mere legality.</p>
-<p>Then—Newspaper clipping from <em>Sonntagsblatt</em>, 19 July 1953.</p>
+<p>Then—there finally arise, through terrible torture and persecution, the <strong>free oaths</strong>, the <em>conjurations</em>, and the new men who are once again capable of oath, of God, and of power.</p>
+<figure class="facsimile" data-facsimile="39" data-printed-page="298"><button aria-label="Enlarge Facsimile · printed page 298" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 298" data-facsimile-src="facsimiles/P16_source-314_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 298" decoding="async" loading="lazy" src="facsimiles/P16_source-314_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 298</figcaption></figure>
+<blockquote class="facsimile-caption">
+<p>Newspaper clipping from <em>Sonntagsblatt</em>, 19 July 1953.</p>
 <p>Written above:</p>
 <p>“A sympathetic poem about women, in the manner of Gertrud von Le Fort and Claudel.”</p>
 <p>Written on it:</p>
 <p>“<em>Sonntagsblatt</em>, 19 July 1953.”</p>
-<p>—there finally arise, through terrible torture and persecution, the <strong>free oaths</strong>, the <em>conjurations</em>, and the new men who are once again capable of oath, of God, and of power.</p>
+</blockquote>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1953-07-21"><strong>21 July 1953</strong></p>
 <p>Now I am old. Now I have crossed the age limit.</p>
 <p>With the usual farewell music:</p>
@@ -10006,12 +10091,15 @@ And play our nothingness on harpsichords.
 <p>Wine is no longer a sacrament today. Aldous Huxley recommends mescaline instead. But some magnificent remnants of wine still survive. Let us drink them before the Moselle is canalized and France is integrated. Let us drink these beautiful remnants!</p>
 <p>Now and then each man took the best;
 I shall hold fast to these beautiful remnants.</p>
-<figure class="facsimile" data-facsimile="40" data-printed-page="306"><button aria-label="Enlarge Facsimile · printed page 306" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 306" data-facsimile-src="facsimiles/P17_source-322_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 306" decoding="async" loading="lazy" src="facsimiles/P17_source-322_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 306</figcaption></figure>
+
 <p>How does an islander, living out of his maritime existence, come to recommend foreign intoxicating drugs when he has probably not tasted even the smallest fraction of Europe’s wonderful wines? I ought to write to <em>Der Spiegel</em>, which discusses Huxley’s discovery without protest (March 1954): Why are you spreading false teachings that help uproot today’s Europeans from place? But there is no point protesting anymore. They would only think it was a joke.</p>
+<figure class="facsimile" data-facsimile="40" data-printed-page="306"><button aria-label="Enlarge Facsimile · printed page 306" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 306" data-facsimile-src="facsimiles/P17_source-322_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 306" decoding="async" loading="lazy" src="facsimiles/P17_source-322_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 306</figcaption></figure>
+<blockquote class="facsimile-caption">
 <p>Newspaper clipping. Written above it:</p>
 <p>“1) Encyclical 1930: &lt;…&gt; <em>quod Norma renegatur et rejiciatur!!</em>—that the norm is denied and rejected!! Cause: energy, energy of the box. 2) p. 44; the Pope on situation ethics, [(]25 April 1952); 3) 1 June 1954: <em>laicus taceat in et extra ecclesiam nisi acclamat ordinario competenti</em>—the layman must be silent both inside and outside the Church unless he is applauding the competent Ordinary.”</p>
 <p>Written below:</p>
 <p>“A reasonable compromise: <em>laicus taceat in ecclesia, clericus taceat extra ecclesiam</em>—let the layman keep silent inside the Church, and the cleric keep silent outside it.”</p>
+</blockquote>
 <hr class="journal-separator" aria-hidden="true"><p id="gloss-book-iv-date-1954-06" data-journal-date="1954-06-09"><strong>9 June 1954</strong></p>
 <p>The age of limitless compatibility is followed by the age of limitless convertibility. The convert, Herr Hausenstein, as the prototype of German Catholicism: <em>taceat extra ecclesiam</em>—let him keep silent outside the Church. <em>Treason of the Intellectuals</em>: they recommend mescaline instead of wine. That tells us exactly where they stand. Compare:</p>
 <hr class="journal-separator" aria-hidden="true"><p><strong>15 March 1954 and 16 March 1954 (Aldous Huxley).</strong></p>
@@ -10043,11 +10131,14 @@ I shall hold fast to these beautiful remnants.</p>
 <p>Why should the name “Israel” in the Psalms bother us during Christian worship? The “Fiat” in the <em>Paternoster</em> does not bother us either!</p>
 <hr class="journal-separator" aria-hidden="true"><p id="gloss-book-iv-date-1954-08" data-journal-date="1954-08-01"><strong>1 August 1954</strong></p>
 <p>To one particular persecutor of mine, whom I believe to be honest: Why are you persecuting me? My situation is very close to yours. We are jumping from one ice floe to another, and it is childish of you to imagine that your ice floe is somehow more permanent than the one I happen to be drifting on at the moment. I know perfectly well that you do not really believe this either. But instead of recognizing how similar our situations are, you appeal to the owners of the ice floe on which you happen to stand.</p>
-<figure class="facsimile" data-facsimile="41" data-printed-page="308"><button aria-label="Enlarge Facsimile · printed page 308" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 308" data-facsimile-src="facsimiles/P17_source-324_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 308" decoding="async" loading="lazy" src="facsimiles/P17_source-324_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 308</figcaption></figure>
+
 <p>From <em>status</em> to <em>situs</em>. Churchill says: anyone who can sit should not stand, and anyone who can lie down should not sit. So the ideal is: lying down!</p>
 <p>The situation—the <em>Lage</em>. No more standing. No more sitting. Either flying or lying!</p>
+<figure class="facsimile" data-facsimile="41" data-printed-page="308"><button aria-label="Enlarge Facsimile · printed page 308" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 308" data-facsimile-src="facsimiles/P17_source-324_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 308" decoding="async" loading="lazy" src="facsimiles/P17_source-324_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 308</figcaption></figure>
+<blockquote class="facsimile-caption">
 <p>Newspaper clipping from the <em>Frankfurter Allgemeine Zeitung</em>, 30 July 1954. Written above:</p>
 <p>“&lt;…&gt; Poor, brave Werner Schütz! Why not do what Hausenstein did? Or are you not convertible?”</p>
+</blockquote>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1954-08-30"><strong>30 August 1954</strong></p>
 <p><em>Un sot trouve toujours un plus sot, qui l’admire.</em></p>
 <p>A fool always finds a greater fool who admires him.</p>
@@ -10148,13 +10239,15 @@ all serve equally well.</p>
 <p>Through taking, all these things are related.</p>
 <p>And therefore: taking, dividing, pasturing.</p>
 <p>We are looking for the primordial taker.</p>
-<figure class="facsimile" data-facsimile="42" data-printed-page="312"><button aria-label="Enlarge Facsimile · printed page 312" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 312" data-facsimile-src="facsimiles/P17_source-328_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 312" decoding="async" loading="lazy" src="facsimiles/P17_source-328_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 312</figcaption></figure>
+
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1955-04-05"><strong>5 April 1955</strong></p>
 <p>God is the primordial giver—that is, the primordial distributor.</p>
 <p>God gives: he distributes what he has created.</p>
 <p>He does not need to take.</p>
 <p>Now man is supposed to take his place.</p>
 <p>That means giving production priority over distribution, and abolishing taking and <em>Nahme</em> altogether.</p>
+<figure class="facsimile" data-facsimile="42" data-printed-page="312"><button aria-label="Enlarge Facsimile · printed page 312" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 312" data-facsimile-src="facsimiles/P17_source-328_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 312" decoding="async" loading="lazy" src="facsimiles/P17_source-328_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 312</figcaption></figure>
+<blockquote class="facsimile-caption">
 <p>Newspaper clipping, cartoon about Yalta. Written above:</p>
 <p>“Illustration of Gelimer’s laughter, <em>Die Zeit</em>, Hamburg, 24 March 1955.”</p>
 <p>On the right:</p>
@@ -10167,6 +10260,7 @@ all serve equally well.</p>
 <p>February 1956: de-Stalinization begins (Communist Party Congress, Russia; Stalin exposed by Khrushchev as a mass murderer).</p>
 <p>December 1958: I sent a copy of my <em>Großraumordnung</em> (3rd ed.), in which this drawing had been pasted, to H. Recknagel, Essen-Stadtwald, Frankenstr. 72.</p>
 <p>The Europe curve belongs here, with the hieroglyph of the Western World (from 11 July 1956, V p. 67 [= 349]).”</p>
+</blockquote>
 <hr class="journal-separator" aria-hidden="true"><p><strong>10 April 1955, Easter Sunday</strong></p>
 <p>On the subject of iconography.</p>
 <p>A transformation of the icon is itself a form of iconoclasm.<sup class="note-ref" id="en-note-ref-524-1"><a aria-label="Note 3" href="#en-note-fn-p17-pdf09-n03">3</a></sup></p>
@@ -10329,18 +10423,21 @@ Small man to small man: man.</p>
 <p>Here is Rhodes! Jump here! Hence those tears!</p>
 <p>So the only thing left, following Heidegger’s example, is to write in future: Being, crossed out. Man, crucified.</p>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1955-08-09"><strong>9 August 1955</strong></p>
-<figure class="facsimile" data-facsimile="43" data-printed-page="318"><button aria-label="Enlarge Facsimile · printed page 318" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 318" data-facsimile-src="facsimiles/P17_source-334_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 318" decoding="async" loading="lazy" src="facsimiles/P17_source-334_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 318</figcaption></figure>
+
 <p>A happy encounter with a remark by James-Hamlet: when the jurist Sir Edward Coke told the king that he was “defended by the laws,” the king replied that this was “foolish.” A king, he said, is not protected by laws but by God. Is that not magnificent?</p>
 <p>And place it as the polar—or dialectical—opposite of Rivarol: <em>L’obscurité protège mieux que la loi.</em> Obscurity protects better than the law.</p>
 <p>Immeasurable depth!</p>
 <p>Immeasurable happiness in discoveries and encounters like these. And who gave me this encounter with James-Hamlet’s remark? Isaac Disraeli—the father of the famous Disraeli, Lord Beaconsfield—in his <em>Character of James the First</em>, p. 423 (<em>Works of I. D.</em>, London 1859, &lt;…&gt;).</p>
 <p>It is enough to make one Disraelitic!</p>
+<figure class="facsimile" data-facsimile="43" data-printed-page="318"><button aria-label="Enlarge Facsimile · printed page 318" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 318" data-facsimile-src="facsimiles/P17_source-334_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 318" decoding="async" loading="lazy" src="facsimiles/P17_source-334_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 318</figcaption></figure>
+<blockquote class="facsimile-caption">
 <p>Newspaper clipping. Written above:</p>
 <p>“6 August 1955. Extra: contemporary-history <em>protectus</em>.”</p>
 <p>On the right:</p>
 <p>“7 August 1955.”</p>
 <p>Below:</p>
 <p>“Protection exists only outside contemporary history. <em>L’obscurité protège mieux.</em> Obscurity protects better.”</p>
+</blockquote>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1955-08-14"><strong>14 August 1955</strong></p>
 <p>So Thomas Mann is dead.</p>
 <p>A Gessler’s hat falls from its pole.<sup class="note-ref" id="en-note-ref-538-1"><a aria-label="Note 1" href="#en-note-fn-p17-pdf15-n01">1</a></sup></p>
@@ -10375,7 +10472,7 @@ Small man to small man: man.</p>
 <p>Horrible to imagine that—or to picture it.</p>
 <p>But perhaps the will to eternity that Nietzsche places inside desire is precisely this conception of sin. Just as it is not power itself but the <strong>will to power</strong> that is sinful.</p>
 <hr class="journal-separator" aria-hidden="true"><p id="gloss-book-iv-date-1955-09" data-journal-date="1955-09-01"><strong>1 September 1955</strong></p>
-<figure class="facsimile" data-facsimile="44" data-printed-page="320"><button aria-label="Enlarge Facsimile · printed page 320" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 320" data-facsimile-src="facsimiles/P17_source-336_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 320" decoding="async" loading="lazy" src="facsimiles/P17_source-336_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 320</figcaption></figure>
+
 <p>Michel Mourre, <em>Lamennais</em>, p. 141: “Féli, you must surrender! You know it perfectly well, Féli. ‘Society’ means, first of all, your failing bookselling business; it means your creditors …” (p. 172).</p>
 <p>Féli the poor.</p>
 <p>Féli the defeated.</p>
@@ -10392,10 +10489,12 @@ He sharpens the ritual-murder knife.</p>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1955-09-15"><strong>15 September 1955</strong></p>
 <p>O God, O God!</p>
 <p>Am I supposed to long for the satisfaction promised by the thought of posthumous fame?</p>
-<p>Am I supposed to look to posterity for comfort—for some vindication like the one Johann Jacob Reiske of the eighteenth century received from Wilamowitz-Moellendorff at the end of the</p>
+<p>Am I supposed to look to posterity for comfort—for some vindication like the one Johann Jacob Reiske of the eighteenth century received from Wilamowitz-Moellendorff at the end of the nineteenth century?</p>
+<figure class="facsimile" data-facsimile="44" data-printed-page="320"><button aria-label="Enlarge Facsimile · printed page 320" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 320" data-facsimile-src="facsimiles/P17_source-336_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 320" decoding="async" loading="lazy" src="facsimiles/P17_source-336_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 320</figcaption></figure>
+<blockquote class="facsimile-caption">
 <p>Newspaper clipping from 8 September 1955. Written above:</p>
 <p>“Compare p. 44 [= 274] and p. 94 [= 306], compare 25 April 1952 (p. 44 l), 21 September 1955. After Michel Mourre’s <em>Lamennais</em>, this highly edifying High-Mass reading for excessively zealous laymen. Sunday, 11 September 1955; poor Donoso.”</p>
-<p>nineteenth century?</p>
+</blockquote>
 <p>Am I supposed to flee from these miserable Germans somewhere else—into the future, or into posterity?</p>
 <p>How pathetic!</p>
 <p>And then, suddenly: how comforting.</p>
@@ -10858,7 +10957,7 @@ Thus mankind makes itself one whole.
 It need only negate the other’s No,
 And everyone will think the same.</p>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1956-01-31"><strong>31 January 1956</strong></p>
-<figure class="facsimile" data-facsimile="45" data-printed-page="337"><button aria-label="Enlarge Facsimile · printed page 337" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 337" data-facsimile-src="facsimiles/P18_source-353_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 337" decoding="async" loading="lazy" src="facsimiles/P18_source-353_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 337</figcaption></figure>
+
 <p>In January 1956 the GDR—the German Democratic Republic—introduced a criminal prohibition, a law threatening with death the crime of <em>Abwerbung</em>, enticing or recruiting people away.</p>
 <p>Magnificent.</p>
 <p>A new offense.</p>
@@ -10868,15 +10967,20 @@ And everyone will think the same.</p>
 <p>After all, a manufacturer once poached my cleaning woman.</p>
 <p>Young Paris poached beautiful Helen from old Menelaus. And the Russians poached several Nobel Prize winners and atomic physicists from the Americans, and they were certainly no Helens.</p>
 <p>Naturally these are all crimes for which the abolished death penalty must immediately be brought back.</p>
+<figure class="facsimile" data-facsimile="45" data-printed-page="337"><button aria-label="Enlarge Facsimile · printed page 337" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 337" data-facsimile-src="facsimiles/P18_source-353_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 337" decoding="async" loading="lazy" src="facsimiles/P18_source-353_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 337</figcaption></figure>
+<blockquote class="facsimile-caption">
 <p>Newspaper clippings pasted in.</p>
 <p>Left: <em>FAZ</em>, 22 November 1955.</p>
 <p>To the right of the right-hand clipping:</p>
 <p>“I thought: against every.”</p>
+</blockquote>
 <hr class="journal-separator" aria-hidden="true"><p id="gloss-book-v-date-1956-02" data-journal-date="1956-02-01"><strong>1 February 1956</strong></p>
-<figure class="facsimile" data-facsimile="46" data-printed-page="338"><button aria-label="Enlarge Facsimile · printed page 338" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 338" data-facsimile-src="facsimiles/P18_source-354_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 338" decoding="async" loading="lazy" src="facsimiles/P18_source-354_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 338</figcaption></figure>
+
 <p>And here, ladies and gentlemen, you have one-hundred-percent <em>potestas indirecta</em>, indirect power, to which nothing can ever happen because it will certainly end up on the side of the victor, no matter what that victor looks like. For the Christian-social ideal is the victorious war won by other people, after which one joins the victor. And if, while exercising our divine right to political error, we should happen to bet even slightly on the wrong side, we afterwards swing ourselves all the more energetically onto the victor’s side. There are victors, and there are those who belong with the victors.</p>
 <p>We, at any rate, always belong to those who belong.</p>
 <p>So listen &lt;…&gt; to this supremely legitimized representative of <em>potestas indirecta</em>:</p>
+<figure class="facsimile" data-facsimile="46" data-printed-page="338"><button aria-label="Enlarge Facsimile · printed page 338" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 338" data-facsimile-src="facsimiles/P18_source-354_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 338" decoding="async" loading="lazy" src="facsimiles/P18_source-354_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 338</figcaption></figure>
+<blockquote class="facsimile-caption">
 <p>Newspaper clipping pasted in.</p>
 <p>On it:</p>
 <p>“<em>Frankfurter Allgemeine Zeitung</em>, 23 November 1955.”</p>
@@ -10884,6 +10988,7 @@ And everyone will think the same.</p>
 <p>“23 November 1955.”</p>
 <p>Below it:</p>
 <p>“The Pope too has a right to a private life; and the public has a right to learn about this private life—insofar as it is edifying.”</p>
+</blockquote>
 <p>Who are you?</p>
 <p>I am what I do!</p>
 <p>What do you do?</p>
@@ -10989,7 +11094,7 @@ Strike the reader to the core.</p>
 <p>Who are you?</p>
 <p>In the age of interrogations and of everything being called into question.</p>
 <p>I am the polyglot who understands Polyphemus and no longer cares to make himself understandable—that is, understandable enough to be heard, interrogated, and finally taken in and appropriated.</p>
-<figure class="facsimile" data-facsimile="47" data-printed-page="342"><button aria-label="Enlarge Facsimile · printed page 342" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 342" data-facsimile-src="facsimiles/P18_source-358_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 342" decoding="async" loading="lazy" src="facsimiles/P18_source-358_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 342</figcaption></figure>
+
 <hr class="journal-separator" aria-hidden="true"><p id="gloss-book-v-date-1956-03" data-journal-date="1956-03-01"><strong>1 March 1956</strong></p>
 <p>Three premiums, three premiums, I planted upon my grave. They are the three premiums attached to the legal possession of power:</p>
 <p><em>obéissance préalable</em>—obedience in advance;</p>
@@ -10999,7 +11104,10 @@ Strike the reader to the core.</p>
 <p>There is no need to claim totality in order to be total. Totality emerges all by itself. Those three premiums, without which no system can function at all, contain everything needed. They contain it—that is, they contain a genuine totality without ever having to expose themselves as totality. The poor fool who openly wrote “totality” on his banner was therefore almost harmless compared with the implication contained in a power that exercises totality indirectly, through the back door, and all the more effectively: the holders of power and law.</p>
 <hr class="journal-separator" aria-hidden="true"><p data-journal-date="1956-03-05"><strong>5 March 1956</strong></p>
 <p>When I read yesterday afternoon the diary notes from April, May, and June 1945, it became clear to me that every word spoken by a human being is filled with content and meaning by the particular space in which that person presently exists, and that the word retains its unique tone.</p>
+<figure class="facsimile" data-facsimile="47" data-printed-page="342"><button aria-label="Enlarge Facsimile · printed page 342" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 342" data-facsimile-src="facsimiles/P18_source-358_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 342" decoding="async" loading="lazy" src="facsimiles/P18_source-358_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 342</figcaption></figure>
+<blockquote class="facsimile-caption">
 <p>Typewritten report from the German Time Archive pasted in; concerning the report in the <em>FAZ</em> of 23 March 1956.</p>
+</blockquote>
 <p>What is it that is being preserved there?</p>
 <p>Time that exists.</p>
 <p>We are located within it, and every word we speak is located within it. But what, then, does it mean that only a few hours later my eagerness to write books and publish things seemed to me like the behavior of an eager little boy placing paper boats on a raging river in competition with other boys doing the same thing? That was probably an image produced by exhaustion and despair.</p>
@@ -11037,7 +11145,7 @@ Strike the reader to the core.</p>
 <p>I.</p>
 <p>He was probably thinking of Jews and Greeks. These are the small peoples from whom the great impulses went out.</p>
 <p>II.</p>
-<figure class="facsimile" data-facsimile="48" data-printed-page="344"><button aria-label="Enlarge Facsimile · printed page 344" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 344" data-facsimile-src="facsimiles/P18_source-360_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 344" decoding="async" loading="lazy" src="facsimiles/P18_source-360_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 344</figcaption></figure>
+
 <p>These peoples are not eternal. The great empires, by contrast, establish themselves for eternity.</p>
 <p>The great model for us is <em>Roma aeterna</em>, eternal Rome.</p>
 <p>It cannot and will not die.</p>
@@ -11070,11 +11178,14 @@ Strike the reader to the core.</p>
 <p>The English, from whom the Industrial Revolution came?</p>
 <p>Insights born from the intuition of decline, in the hour of death;</p>
 <p>superiority over the fraud of eternity represented by this <em>Roma aeterna</em>.</p>
+<figure class="facsimile" data-facsimile="48" data-printed-page="344"><button aria-label="Enlarge Facsimile · printed page 344" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 344" data-facsimile-src="facsimiles/P18_source-360_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 344" decoding="async" loading="lazy" src="facsimiles/P18_source-360_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 344</figcaption></figure>
+<blockquote class="facsimile-caption">
 <p>Newspaper clipping.</p>
 <p>On it:</p>
 <p>“End of March 1956.”</p>
 <p>Below it:</p>
 <p>“Atheism of the non-academic Stoics; compare Lucan (<em>sed victa Catoni</em>).”</p>
+</blockquote>
 <hr class="journal-separator" aria-hidden="true"><p><strong>2 April 1956, Easter Monday</strong></p>
 <p>In Henri Lévy-Bruhl I found the following contrast (in an article from 29 March 1956 in <em>Le Monde</em>): socialism is the opposite of paternalism. The rule of law—<em>de la loi</em>—was also opposed to paternalism: law against the father, <em>loi contre le père</em>. This was already there in Michelet. So socialism = rejection of inheritance rights.</p>
 <p>Property without inheritance.</p>
@@ -25325,7 +25436,7 @@ const progress=document.getElementById('progress');function updateProgress(){con
 </script><script>
 (()=>{
 'use strict';
-const REVIEW_CONFIG={"slug": "glossarium", "title": "Glossarium", "sourceLanguage": "de", "sourceLabel": "German original", "sourceLang": "de", "sourceDir": "ltr", "version": "2063de282f8d4161", "englishMarkdown": "Glossarium - English.md", "sourceMarkdown": null};
+const REVIEW_CONFIG={"slug": "glossarium", "title": "Glossarium", "sourceLanguage": "de", "sourceLabel": "German original", "sourceLang": "de", "sourceDir": "ltr", "version": "305c0f20795e7b05", "englishMarkdown": "Glossarium - English.md", "sourceMarkdown": null};
 const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
 const safeStore={get(k){try{return localStorage.getItem(k)}catch{return null}},set(k,v){try{localStorage.setItem(k,v);return true}catch{return false}}};
 const root=document.documentElement, body=document.body, workspace=$('#reviewer-workspace'), sidebar=$('.sidebar'), topCurrent=$('.current'), menuBtn=$('#menu-toggle');
