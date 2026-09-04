@@ -100,7 +100,10 @@ body.review-mode .layout{grid-template-columns:300px minmax(0,1fr)!important;dir
 .facsimile{width:min(780px,100%);margin:52px auto 58px;padding:0;text-align:center;break-inside:avoid}.facsimile-zoom{display:block;width:100%;padding:0;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--surface-2);cursor:zoom-in;box-shadow:0 12px 34px rgba(0,0,0,.08)}.facsimile img{display:block;width:100%;height:auto}.facsimile figcaption{margin-top:10px;color:var(--muted);font:600 10px/1.4 var(--ui);letter-spacing:.08em;text-transform:uppercase}.facsimile-lightbox[hidden]{display:none!important}.facsimile-lightbox{position:fixed;inset:0;z-index:160;display:grid;place-items:center;padding:24px;background:rgba(0,0,0,.78);backdrop-filter:blur(5px)}.facsimile-lightbox-inner{position:relative;max-width:min(1200px,96vw);max-height:92vh}.facsimile-lightbox img{display:block;max-width:100%;max-height:86vh;width:auto;height:auto;border-radius:8px;background:#fff;box-shadow:0 28px 80px rgba(0,0,0,.4)}.facsimile-lightbox-caption{margin-top:9px;text-align:center;color:#eee;font:600 11px/1.4 var(--ui)}.facsimile-lightbox-close{position:absolute;top:-14px;right:-14px;width:38px;height:38px;border-radius:50%;border:1px solid rgba(255,255,255,.35);background:#171717;color:#fff;cursor:pointer;font:700 20px/1 var(--ui)}
 .review-source-panel[lang="de"],.review-source-edit[lang="de"]{font-family:var(--serif);direction:ltr;text-align:left}.review-source-panel[lang="de"]{font-size:var(--reader-size);line-height:1.67}.review-source-edit[lang="de"]{font-size:var(--reader-size);line-height:1.68}.review-facsimile{margin:16px 0 24px}.review-facsimile .facsimile{margin:0 auto;width:min(680px,100%)}.review-facsimile .facsimile-zoom{cursor:zoom-in}.gloss-footnote{display:grid;grid-template-columns:38px minmax(0,1fr);gap:11px;padding:10px 0;border-bottom:1px solid color-mix(in srgb,var(--line) 65%,transparent);scroll-margin-top:78px}.gloss-footnote-number{font:700 11px/1.45 var(--ui);color:var(--accent);padding-top:2px}.gloss-footnote-body{font-size:calc(var(--reader-size) - 2px);line-height:1.58}.gloss-footnote-body p{margin:0}.gloss-footnote .backref{font-family:var(--ui);font-size:11px;text-decoration:none;margin-left:5px}.book-section table{display:block;max-width:100%;overflow-x:auto}
 @media(max-width:620px){.facsimile{margin:34px auto 40px}.facsimile-lightbox{padding:10px}.facsimile-lightbox-close{top:5px;right:5px}.gloss-footnote{grid-template-columns:30px minmax(0,1fr);gap:7px}.review-facsimile{margin:12px 0 20px}}
-</style></head><body><div id="progress" aria-hidden="true"></div><header class="topbar"><button class="icon-btn menu-btn" id="menu-toggle" aria-label="Open chapter navigation" aria-expanded="false">☰</button><div class="brand"><strong><a href="../" id="brand-title">Glossarium</a></strong><span class="current">Front Matter</span></div><div class="controls" aria-label="Reading controls"><button class="icon-btn" id="font-down" aria-label="Decrease font size" title="Decrease font size">A−</button><button class="icon-btn" id="font-up" aria-label="Increase font size" title="Increase font size">A+</button><a class="icon-btn download-btn" href="Glossarium - English.md" download aria-label="Download English Markdown" title="Download English Markdown">⇩</a><button class="icon-btn review-enter-btn" id="review-enter" aria-label="Enter Reviewer Mode" title="Reviewer Mode"><span class="review-label">Review</span><span class="review-glyph">✎</span></button><button class="review-count review-only" id="review-count" type="button" aria-label="0 passages selected" title="Selected passages"><span class="review-count-number">0</span><span class="review-count-label"> selected</span></button><button class="icon-btn review-action-btn review-only" id="review-action" type="button" disabled title="Review selected passages"><span class="review-action-label">Review selected</span><span class="review-action-glyph">✓</span></button><button class="icon-btn review-exit-btn review-only" id="review-exit" type="button" aria-label="Exit Reviewer Mode" title="Exit Reviewer Mode"><span class="review-exit-label">Exit</span><span class="review-exit-glyph">×</span></button><button class="icon-btn" id="theme-toggle" aria-label="Use dark mode" title="Use dark mode">☾</button></div></header><div class="sidebar-backdrop" aria-hidden="true"></div><div class="layout"><aside class="sidebar" aria-label="Chapter navigation"><a class="sidebar-home" href="../"><span>←</span><span id="library-label">Library</span></a><div class="sidebar-title">Books & sections</div><nav id="chapter-nav"><a href="#gloss-front-matter" class="nav-link nav-level-1" data-title="Front Matter"><span>Front Matter</span></a><a href="#gloss-contents" class="nav-link nav-level-1" data-title="Contents"><span>Contents</span></a><a href="#gloss-introduction" class="nav-link nav-level-1" data-title="Introduction"><span>Introduction</span></a><a href="#gloss-works-cited" class="nav-link nav-level-1" data-title="Works Cited"><span>Works Cited</span></a><a href="#gloss-book-i" class="nav-link nav-level-1" data-title="Book I · 1947"><span>Book I · 1947</span></a><a href="#gloss-book-ii" class="nav-link nav-level-1" data-title="Book II · 1948–1949"><span>Book II · 1948–1949</span></a><a href="#gloss-book-iii" class="nav-link nav-level-1" data-title="Book III · 1949–1951"><span>Book III · 1949–1951</span></a><a href="#gloss-book-iv" class="nav-link nav-level-1" data-title="Book IV · 1951–1955"><span>Book IV · 1951–1955</span></a><a href="#gloss-book-v" class="nav-link nav-level-1" data-title="Book V · 1955–1958"><span>Book V · 1955–1958</span></a><a href="#gloss-appendix" class="nav-link nav-level-1" data-title="Appendix to Books I–V"><span>Appendix to Books I–V</span></a><a href="#gloss-appendix-book-i" class="nav-link nav-level-1" data-title="Appendix · Book I"><span>Appendix · Book I</span></a><a href="#gloss-appendix-book-ii" class="nav-link nav-level-1" data-title="Appendix · Book II"><span>Appendix · Book II</span></a><a href="#gloss-appendix-book-iii" class="nav-link nav-level-1" data-title="Appendix · Book III"><span>Appendix · Book III</span></a><a href="#gloss-appendix-book-iv" class="nav-link nav-level-1" data-title="Appendix · Book IV"><span>Appendix · Book IV</span></a><a href="#gloss-appendix-book-v" class="nav-link nav-level-1" data-title="Appendix · Book V"><span>Appendix · Book V</span></a><a href="#gloss-commentary" class="nav-link nav-level-1" data-title="Commentary"><span>Commentary</span></a><a href="#gloss-index-of-persons" class="nav-link nav-level-1" data-title="Index of Persons"><span>Index of Persons</span></a><a href="#gloss-footnotes" class="nav-link nav-level-1" data-title="Footnotes"><span>Footnotes</span></a></nav></aside><main class="main"><section class="cover" id="top"><div class="cover-inner"><div class="kicker">English Translation</div><h1>Glossarium</h1><h2>Notes from the Years 1947 to 1958</h2><div class="author">Carl Schmitt</div><div class="edition">Expanded, corrected, and annotated edition · Duncker & Humblot, 2015</div><a class="scroll-cue" href="#gloss-front-matter">Begin reading ↓</a></div></section><section class="book-section major-section" id="gloss-front-matter" data-key="front-matter" data-title="Front Matter"><h1 id="en-front-matter-glossarium">Glossarium</h1>
+
+/* Glossarium: expandable year/month navigation for the five journal books. */
+.gloss-nav-book{margin:1px 0}.gloss-nav-book-row{display:grid;grid-template-columns:minmax(0,1fr) 30px;align-items:center;gap:2px}.gloss-nav-book-row>.nav-link{min-width:0;margin:0}.gloss-nav-toggle,.gloss-year-toggle{appearance:none;border:0;background:transparent;color:var(--muted);cursor:pointer;display:grid;place-items:center;border-radius:7px;padding:0;font-family:var(--ui)}.gloss-nav-toggle{width:30px;height:32px}.gloss-year-toggle{width:26px;height:28px}.gloss-nav-toggle:hover,.gloss-year-toggle:hover{background:var(--surface-2);color:var(--text)}.gloss-nav-toggle:focus-visible,.gloss-year-toggle:focus-visible,.gloss-date-link:focus-visible{outline:2px solid var(--accent);outline-offset:1px}.gloss-nav-toggle span,.gloss-year-toggle span{display:block;font-size:18px;line-height:1;transition:transform .14s ease}.gloss-nav-book.open>.gloss-nav-book-row .gloss-nav-toggle span,.gloss-year-group.open>.gloss-year-row .gloss-year-toggle span{transform:rotate(90deg)}.gloss-date-tree{padding:4px 0 8px 12px}.gloss-date-tree[hidden],.gloss-month-list[hidden]{display:none!important}.gloss-year-group{margin:1px 0}.gloss-year-row{display:grid;grid-template-columns:minmax(0,1fr) 26px;align-items:center;gap:1px}.gloss-year-link,.gloss-month-link{display:block;text-decoration:none;color:var(--muted);border-radius:7px;font-family:var(--ui);line-height:1.25}.gloss-year-link{padding:6px 8px;font-size:11.5px;font-weight:650;letter-spacing:.035em}.gloss-month-list{padding:1px 0 4px 10px}.gloss-month-link{padding:5px 8px;font-size:11.5px}.gloss-year-link:hover,.gloss-month-link:hover{background:var(--surface-2);color:var(--text)}.gloss-year-link.active{color:var(--accent);font-weight:750}.gloss-month-link.active{background:var(--accent-soft);color:var(--text);font-weight:650}.gloss-month-link.active::before{content:"";display:inline-block;width:4px;height:4px;border-radius:50%;background:var(--accent);margin:0 7px 2px 0}.gloss-nav-book-row>.nav-link.active{font-weight:700}.gloss-date-tree{animation:gloss-nav-open .12s ease-out}@keyframes gloss-nav-open{from{opacity:.45;transform:translateY(-2px)}to{opacity:1;transform:none}}body.review-mode .gloss-date-tree,body.review-mode .gloss-nav-toggle{display:none!important}body.review-mode .gloss-nav-book-row{display:block}body.review-mode .gloss-nav-book{margin:1px 0}@media(max-width:900px){.gloss-date-tree{padding-left:16px}.gloss-month-link{padding-block:7px;font-size:12px}.gloss-year-link{padding-block:7px;font-size:12px}.gloss-nav-toggle{height:36px}}
+</style></head><body><div id="progress" aria-hidden="true"></div><header class="topbar"><button class="icon-btn menu-btn" id="menu-toggle" aria-label="Open chapter navigation" aria-expanded="false">☰</button><div class="brand"><strong><a href="../" id="brand-title">Glossarium</a></strong><span class="current">Front Matter</span></div><div class="controls" aria-label="Reading controls"><button class="icon-btn" id="font-down" aria-label="Decrease font size" title="Decrease font size">A−</button><button class="icon-btn" id="font-up" aria-label="Increase font size" title="Increase font size">A+</button><a class="icon-btn download-btn" href="Glossarium - English.md" download aria-label="Download English Markdown" title="Download English Markdown">⇩</a><button class="icon-btn review-enter-btn" id="review-enter" aria-label="Enter Reviewer Mode" title="Reviewer Mode"><span class="review-label">Review</span><span class="review-glyph">✎</span></button><button class="review-count review-only" id="review-count" type="button" aria-label="0 passages selected" title="Selected passages"><span class="review-count-number">0</span><span class="review-count-label"> selected</span></button><button class="icon-btn review-action-btn review-only" id="review-action" type="button" disabled title="Review selected passages"><span class="review-action-label">Review selected</span><span class="review-action-glyph">✓</span></button><button class="icon-btn review-exit-btn review-only" id="review-exit" type="button" aria-label="Exit Reviewer Mode" title="Exit Reviewer Mode"><span class="review-exit-label">Exit</span><span class="review-exit-glyph">×</span></button><button class="icon-btn" id="theme-toggle" aria-label="Use dark mode" title="Use dark mode">☾</button></div></header><div class="sidebar-backdrop" aria-hidden="true"></div><div class="layout"><aside class="sidebar" aria-label="Chapter navigation"><a class="sidebar-home" href="../"><span>←</span><span id="library-label">Library</span></a><div class="sidebar-title">Books & sections</div><nav id="chapter-nav"><a href="#gloss-front-matter" class="nav-link nav-level-1" data-title="Front Matter"><span>Front Matter</span></a><a href="#gloss-contents" class="nav-link nav-level-1" data-title="Contents"><span>Contents</span></a><a href="#gloss-introduction" class="nav-link nav-level-1" data-title="Introduction"><span>Introduction</span></a><a href="#gloss-works-cited" class="nav-link nav-level-1" data-title="Works Cited"><span>Works Cited</span></a><div class="gloss-nav-book" data-book="book-i"><div class="gloss-nav-book-row"><a href="#gloss-book-i" class="nav-link nav-level-1" data-title="Book I · 1947"><span>Book I · 1947</span></a><button class="gloss-nav-toggle" type="button" aria-expanded="false" aria-label="Show dates in Book I · 1947" title="Show dates"><span aria-hidden="true">›</span></button></div><div class="gloss-date-tree" hidden><div class="gloss-year-group" data-year="1947"><div class="gloss-year-row"><a href="#gloss-book-i-date-1947-08" class="gloss-year-link gloss-date-link" data-book="book-i" data-year="1947" data-title="1947">1947</a><button class="gloss-year-toggle" type="button" aria-expanded="false" aria-label="Show months in 1947" title="Show months in 1947"><span aria-hidden="true">›</span></button></div><div class="gloss-month-list" hidden><a href="#gloss-book-i-date-1947-08" class="gloss-month-link gloss-date-link" data-book="book-i" data-year="1947" data-month="1947-08" data-title="August 1947"><span>August</span></a><a href="#gloss-book-i-date-1947-09" class="gloss-month-link gloss-date-link" data-book="book-i" data-year="1947" data-month="1947-09" data-title="September 1947"><span>September</span></a><a href="#gloss-book-i-date-1947-10" class="gloss-month-link gloss-date-link" data-book="book-i" data-year="1947" data-month="1947-10" data-title="October 1947"><span>October</span></a><a href="#gloss-book-i-date-1947-11" class="gloss-month-link gloss-date-link" data-book="book-i" data-year="1947" data-month="1947-11" data-title="November 1947"><span>November</span></a><a href="#gloss-book-i-date-1947-12" class="gloss-month-link gloss-date-link" data-book="book-i" data-year="1947" data-month="1947-12" data-title="December 1947"><span>December</span></a></div></div></div></div><div class="gloss-nav-book" data-book="book-ii"><div class="gloss-nav-book-row"><a href="#gloss-book-ii" class="nav-link nav-level-1" data-title="Book II · 1948–1949"><span>Book II · 1948–1949</span></a><button class="gloss-nav-toggle" type="button" aria-expanded="false" aria-label="Show dates in Book II · 1948–1949" title="Show dates"><span aria-hidden="true">›</span></button></div><div class="gloss-date-tree" hidden><div class="gloss-year-group" data-year="1948"><div class="gloss-year-row"><a href="#gloss-book-ii-date-1948-01" class="gloss-year-link gloss-date-link" data-book="book-ii" data-year="1948" data-title="1948">1948</a><button class="gloss-year-toggle" type="button" aria-expanded="false" aria-label="Show months in 1948" title="Show months in 1948"><span aria-hidden="true">›</span></button></div><div class="gloss-month-list" hidden><a href="#gloss-book-ii-date-1948-01" class="gloss-month-link gloss-date-link" data-book="book-ii" data-year="1948" data-month="1948-01" data-title="January 1948"><span>January</span></a><a href="#gloss-book-ii-date-1948-02" class="gloss-month-link gloss-date-link" data-book="book-ii" data-year="1948" data-month="1948-02" data-title="February 1948"><span>February</span></a><a href="#gloss-book-ii-date-1948-03" class="gloss-month-link gloss-date-link" data-book="book-ii" data-year="1948" data-month="1948-03" data-title="March 1948"><span>March</span></a><a href="#gloss-book-ii-date-1948-04" class="gloss-month-link gloss-date-link" data-book="book-ii" data-year="1948" data-month="1948-04" data-title="April 1948"><span>April</span></a><a href="#gloss-book-ii-date-1948-05" class="gloss-month-link gloss-date-link" data-book="book-ii" data-year="1948" data-month="1948-05" data-title="May 1948"><span>May</span></a><a href="#gloss-book-ii-date-1948-06" class="gloss-month-link gloss-date-link" data-book="book-ii" data-year="1948" data-month="1948-06" data-title="June 1948"><span>June</span></a><a href="#gloss-book-ii-date-1948-07" class="gloss-month-link gloss-date-link" data-book="book-ii" data-year="1948" data-month="1948-07" data-title="July 1948"><span>July</span></a><a href="#gloss-book-ii-date-1948-08" class="gloss-month-link gloss-date-link" data-book="book-ii" data-year="1948" data-month="1948-08" data-title="August 1948"><span>August</span></a><a href="#gloss-book-ii-date-1948-09" class="gloss-month-link gloss-date-link" data-book="book-ii" data-year="1948" data-month="1948-09" data-title="September 1948"><span>September</span></a><a href="#gloss-book-ii-date-1948-10" class="gloss-month-link gloss-date-link" data-book="book-ii" data-year="1948" data-month="1948-10" data-title="October 1948"><span>October</span></a><a href="#gloss-book-ii-date-1948-11" class="gloss-month-link gloss-date-link" data-book="book-ii" data-year="1948" data-month="1948-11" data-title="November 1948"><span>November</span></a><a href="#gloss-book-ii-date-1948-12" class="gloss-month-link gloss-date-link" data-book="book-ii" data-year="1948" data-month="1948-12" data-title="December 1948"><span>December</span></a></div></div><div class="gloss-year-group" data-year="1949"><div class="gloss-year-row"><a href="#gloss-book-ii-date-1949-01" class="gloss-year-link gloss-date-link" data-book="book-ii" data-year="1949" data-title="1949">1949</a><button class="gloss-year-toggle" type="button" aria-expanded="false" aria-label="Show months in 1949" title="Show months in 1949"><span aria-hidden="true">›</span></button></div><div class="gloss-month-list" hidden><a href="#gloss-book-ii-date-1949-01" class="gloss-month-link gloss-date-link" data-book="book-ii" data-year="1949" data-month="1949-01" data-title="January 1949"><span>January</span></a><a href="#gloss-book-ii-date-1949-02" class="gloss-month-link gloss-date-link" data-book="book-ii" data-year="1949" data-month="1949-02" data-title="February 1949"><span>February</span></a><a href="#gloss-book-ii-date-1949-03" class="gloss-month-link gloss-date-link" data-book="book-ii" data-year="1949" data-month="1949-03" data-title="March 1949"><span>March</span></a><a href="#gloss-book-ii-date-1949-04" class="gloss-month-link gloss-date-link" data-book="book-ii" data-year="1949" data-month="1949-04" data-title="April 1949"><span>April</span></a><a href="#gloss-book-ii-date-1949-05" class="gloss-month-link gloss-date-link" data-book="book-ii" data-year="1949" data-month="1949-05" data-title="May 1949"><span>May</span></a></div></div></div></div><div class="gloss-nav-book" data-book="book-iii"><div class="gloss-nav-book-row"><a href="#gloss-book-iii" class="nav-link nav-level-1" data-title="Book III · 1949–1951"><span>Book III · 1949–1951</span></a><button class="gloss-nav-toggle" type="button" aria-expanded="false" aria-label="Show dates in Book III · 1949–1951" title="Show dates"><span aria-hidden="true">›</span></button></div><div class="gloss-date-tree" hidden><div class="gloss-year-group" data-year="1949"><div class="gloss-year-row"><a href="#gloss-book-iii-date-1949-06" class="gloss-year-link gloss-date-link" data-book="book-iii" data-year="1949" data-title="1949">1949</a><button class="gloss-year-toggle" type="button" aria-expanded="false" aria-label="Show months in 1949" title="Show months in 1949"><span aria-hidden="true">›</span></button></div><div class="gloss-month-list" hidden><a href="#gloss-book-iii-date-1949-06" class="gloss-month-link gloss-date-link" data-book="book-iii" data-year="1949" data-month="1949-06" data-title="June 1949"><span>June</span></a><a href="#gloss-book-iii-date-1949-07" class="gloss-month-link gloss-date-link" data-book="book-iii" data-year="1949" data-month="1949-07" data-title="July 1949"><span>July</span></a><a href="#gloss-book-iii-date-1949-08" class="gloss-month-link gloss-date-link" data-book="book-iii" data-year="1949" data-month="1949-08" data-title="August 1949"><span>August</span></a><a href="#gloss-book-iii-date-1949-09" class="gloss-month-link gloss-date-link" data-book="book-iii" data-year="1949" data-month="1949-09" data-title="September 1949"><span>September</span></a><a href="#gloss-book-iii-date-1949-10" class="gloss-month-link gloss-date-link" data-book="book-iii" data-year="1949" data-month="1949-10" data-title="October 1949"><span>October</span></a><a href="#gloss-book-iii-date-1949-11" class="gloss-month-link gloss-date-link" data-book="book-iii" data-year="1949" data-month="1949-11" data-title="November 1949"><span>November</span></a><a href="#gloss-book-iii-date-1949-12" class="gloss-month-link gloss-date-link" data-book="book-iii" data-year="1949" data-month="1949-12" data-title="December 1949"><span>December</span></a></div></div><div class="gloss-year-group" data-year="1950"><div class="gloss-year-row"><a href="#gloss-book-iii-date-1950-01" class="gloss-year-link gloss-date-link" data-book="book-iii" data-year="1950" data-title="1950">1950</a><button class="gloss-year-toggle" type="button" aria-expanded="false" aria-label="Show months in 1950" title="Show months in 1950"><span aria-hidden="true">›</span></button></div><div class="gloss-month-list" hidden><a href="#gloss-book-iii-date-1950-01" class="gloss-month-link gloss-date-link" data-book="book-iii" data-year="1950" data-month="1950-01" data-title="January 1950"><span>January</span></a><a href="#gloss-book-iii-date-1950-02" class="gloss-month-link gloss-date-link" data-book="book-iii" data-year="1950" data-month="1950-02" data-title="February 1950"><span>February</span></a><a href="#gloss-book-iii-date-1950-03" class="gloss-month-link gloss-date-link" data-book="book-iii" data-year="1950" data-month="1950-03" data-title="March 1950"><span>March</span></a><a href="#gloss-book-iii-date-1950-04" class="gloss-month-link gloss-date-link" data-book="book-iii" data-year="1950" data-month="1950-04" data-title="April 1950"><span>April</span></a><a href="#gloss-book-iii-date-1950-05" class="gloss-month-link gloss-date-link" data-book="book-iii" data-year="1950" data-month="1950-05" data-title="May 1950"><span>May</span></a><a href="#gloss-book-iii-date-1950-06" class="gloss-month-link gloss-date-link" data-book="book-iii" data-year="1950" data-month="1950-06" data-title="June 1950"><span>June</span></a><a href="#gloss-book-iii-date-1950-07" class="gloss-month-link gloss-date-link" data-book="book-iii" data-year="1950" data-month="1950-07" data-title="July 1950"><span>July</span></a><a href="#gloss-book-iii-date-1950-08" class="gloss-month-link gloss-date-link" data-book="book-iii" data-year="1950" data-month="1950-08" data-title="August 1950"><span>August</span></a><a href="#gloss-book-iii-date-1950-09" class="gloss-month-link gloss-date-link" data-book="book-iii" data-year="1950" data-month="1950-09" data-title="September 1950"><span>September</span></a><a href="#gloss-book-iii-date-1950-10" class="gloss-month-link gloss-date-link" data-book="book-iii" data-year="1950" data-month="1950-10" data-title="October 1950"><span>October</span></a><a href="#gloss-book-iii-date-1950-11" class="gloss-month-link gloss-date-link" data-book="book-iii" data-year="1950" data-month="1950-11" data-title="November 1950"><span>November</span></a></div></div><div class="gloss-year-group" data-year="1951"><div class="gloss-year-row"><a href="#gloss-book-iii-date-1951-02" class="gloss-year-link gloss-date-link" data-book="book-iii" data-year="1951" data-title="1951">1951</a><button class="gloss-year-toggle" type="button" aria-expanded="false" aria-label="Show months in 1951" title="Show months in 1951"><span aria-hidden="true">›</span></button></div><div class="gloss-month-list" hidden><a href="#gloss-book-iii-date-1951-02" class="gloss-month-link gloss-date-link" data-book="book-iii" data-year="1951" data-month="1951-02" data-title="February 1951"><span>February</span></a><a href="#gloss-book-iii-date-1951-03" class="gloss-month-link gloss-date-link" data-book="book-iii" data-year="1951" data-month="1951-03" data-title="March 1951"><span>March</span></a><a href="#gloss-book-iii-date-1951-04" class="gloss-month-link gloss-date-link" data-book="book-iii" data-year="1951" data-month="1951-04" data-title="April 1951"><span>April</span></a><a href="#gloss-book-iii-date-1951-06" class="gloss-month-link gloss-date-link" data-book="book-iii" data-year="1951" data-month="1951-06" data-title="June 1951"><span>June</span></a><a href="#gloss-book-iii-date-1951-07" class="gloss-month-link gloss-date-link" data-book="book-iii" data-year="1951" data-month="1951-07" data-title="July 1951"><span>July</span></a><a href="#gloss-book-iii-date-1951-08" class="gloss-month-link gloss-date-link" data-book="book-iii" data-year="1951" data-month="1951-08" data-title="August 1951"><span>August</span></a></div></div></div></div><div class="gloss-nav-book" data-book="book-iv"><div class="gloss-nav-book-row"><a href="#gloss-book-iv" class="nav-link nav-level-1" data-title="Book IV · 1951–1955"><span>Book IV · 1951–1955</span></a><button class="gloss-nav-toggle" type="button" aria-expanded="false" aria-label="Show dates in Book IV · 1951–1955" title="Show dates"><span aria-hidden="true">›</span></button></div><div class="gloss-date-tree" hidden><div class="gloss-year-group" data-year="1951"><div class="gloss-year-row"><a href="#gloss-book-iv-date-1951-08" class="gloss-year-link gloss-date-link" data-book="book-iv" data-year="1951" data-title="1951">1951</a><button class="gloss-year-toggle" type="button" aria-expanded="false" aria-label="Show months in 1951" title="Show months in 1951"><span aria-hidden="true">›</span></button></div><div class="gloss-month-list" hidden><a href="#gloss-book-iv-date-1951-08" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1951" data-month="1951-08" data-title="August 1951"><span>August</span></a><a href="#gloss-book-iv-date-1951-09" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1951" data-month="1951-09" data-title="September 1951"><span>September</span></a><a href="#gloss-book-iv-date-1951-10" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1951" data-month="1951-10" data-title="October 1951"><span>October</span></a><a href="#gloss-book-iv-date-1951-11" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1951" data-month="1951-11" data-title="November 1951"><span>November</span></a><a href="#gloss-book-iv-date-1951-12" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1951" data-month="1951-12" data-title="December 1951"><span>December</span></a></div></div><div class="gloss-year-group" data-year="1952"><div class="gloss-year-row"><a href="#gloss-book-iv-date-1952-01" class="gloss-year-link gloss-date-link" data-book="book-iv" data-year="1952" data-title="1952">1952</a><button class="gloss-year-toggle" type="button" aria-expanded="false" aria-label="Show months in 1952" title="Show months in 1952"><span aria-hidden="true">›</span></button></div><div class="gloss-month-list" hidden><a href="#gloss-book-iv-date-1952-01" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1952" data-month="1952-01" data-title="January 1952"><span>January</span></a><a href="#gloss-book-iv-date-1952-02" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1952" data-month="1952-02" data-title="February 1952"><span>February</span></a><a href="#gloss-book-iv-date-1952-03" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1952" data-month="1952-03" data-title="March 1952"><span>March</span></a><a href="#gloss-book-iv-date-1952-04" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1952" data-month="1952-04" data-title="April 1952"><span>April</span></a><a href="#gloss-book-iv-date-1952-05" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1952" data-month="1952-05" data-title="May 1952"><span>May</span></a><a href="#gloss-book-iv-date-1952-06" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1952" data-month="1952-06" data-title="June 1952"><span>June</span></a><a href="#gloss-book-iv-date-1952-07" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1952" data-month="1952-07" data-title="July 1952"><span>July</span></a><a href="#gloss-book-iv-date-1952-08" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1952" data-month="1952-08" data-title="August 1952"><span>August</span></a><a href="#gloss-book-iv-date-1952-09" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1952" data-month="1952-09" data-title="September 1952"><span>September</span></a><a href="#gloss-book-iv-date-1952-10" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1952" data-month="1952-10" data-title="October 1952"><span>October</span></a><a href="#gloss-book-iv-date-1952-11" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1952" data-month="1952-11" data-title="November 1952"><span>November</span></a><a href="#gloss-book-iv-date-1952-12" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1952" data-month="1952-12" data-title="December 1952"><span>December</span></a></div></div><div class="gloss-year-group" data-year="1953"><div class="gloss-year-row"><a href="#gloss-book-iv-date-1953-01" class="gloss-year-link gloss-date-link" data-book="book-iv" data-year="1953" data-title="1953">1953</a><button class="gloss-year-toggle" type="button" aria-expanded="false" aria-label="Show months in 1953" title="Show months in 1953"><span aria-hidden="true">›</span></button></div><div class="gloss-month-list" hidden><a href="#gloss-book-iv-date-1953-01" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1953" data-month="1953-01" data-title="January 1953"><span>January</span></a><a href="#gloss-book-iv-date-1953-02" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1953" data-month="1953-02" data-title="February 1953"><span>February</span></a><a href="#gloss-book-iv-date-1953-03" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1953" data-month="1953-03" data-title="March 1953"><span>March</span></a><a href="#gloss-book-iv-date-1953-04" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1953" data-month="1953-04" data-title="April 1953"><span>April</span></a><a href="#gloss-book-iv-date-1953-05" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1953" data-month="1953-05" data-title="May 1953"><span>May</span></a><a href="#gloss-book-iv-date-1953-06" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1953" data-month="1953-06" data-title="June 1953"><span>June</span></a><a href="#gloss-book-iv-date-1953-07" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1953" data-month="1953-07" data-title="July 1953"><span>July</span></a><a href="#gloss-book-iv-date-1953-08" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1953" data-month="1953-08" data-title="August 1953"><span>August</span></a><a href="#gloss-book-iv-date-1953-09" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1953" data-month="1953-09" data-title="September 1953"><span>September</span></a><a href="#gloss-book-iv-date-1953-10" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1953" data-month="1953-10" data-title="October 1953"><span>October</span></a><a href="#gloss-book-iv-date-1953-12" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1953" data-month="1953-12" data-title="December 1953"><span>December</span></a></div></div><div class="gloss-year-group" data-year="1954"><div class="gloss-year-row"><a href="#gloss-book-iv-date-1954-03" class="gloss-year-link gloss-date-link" data-book="book-iv" data-year="1954" data-title="1954">1954</a><button class="gloss-year-toggle" type="button" aria-expanded="false" aria-label="Show months in 1954" title="Show months in 1954"><span aria-hidden="true">›</span></button></div><div class="gloss-month-list" hidden><a href="#gloss-book-iv-date-1954-03" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1954" data-month="1954-03" data-title="March 1954"><span>March</span></a><a href="#gloss-book-iv-date-1954-06" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1954" data-month="1954-06" data-title="June 1954"><span>June</span></a><a href="#gloss-book-iv-date-1954-07" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1954" data-month="1954-07" data-title="July 1954"><span>July</span></a><a href="#gloss-book-iv-date-1954-08" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1954" data-month="1954-08" data-title="August 1954"><span>August</span></a><a href="#gloss-book-iv-date-1954-09" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1954" data-month="1954-09" data-title="September 1954"><span>September</span></a><a href="#gloss-book-iv-date-1954-11" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1954" data-month="1954-11" data-title="November 1954"><span>November</span></a><a href="#gloss-book-iv-date-1954-12" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1954" data-month="1954-12" data-title="December 1954"><span>December</span></a></div></div><div class="gloss-year-group" data-year="1955"><div class="gloss-year-row"><a href="#gloss-book-iv-date-1955-01" class="gloss-year-link gloss-date-link" data-book="book-iv" data-year="1955" data-title="1955">1955</a><button class="gloss-year-toggle" type="button" aria-expanded="false" aria-label="Show months in 1955" title="Show months in 1955"><span aria-hidden="true">›</span></button></div><div class="gloss-month-list" hidden><a href="#gloss-book-iv-date-1955-01" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1955" data-month="1955-01" data-title="January 1955"><span>January</span></a><a href="#gloss-book-iv-date-1955-02" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1955" data-month="1955-02" data-title="February 1955"><span>February</span></a><a href="#gloss-book-iv-date-1955-03" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1955" data-month="1955-03" data-title="March 1955"><span>March</span></a><a href="#gloss-book-iv-date-1955-04" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1955" data-month="1955-04" data-title="April 1955"><span>April</span></a><a href="#gloss-book-iv-date-1955-05" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1955" data-month="1955-05" data-title="May 1955"><span>May</span></a><a href="#gloss-book-iv-date-1955-06" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1955" data-month="1955-06" data-title="June 1955"><span>June</span></a><a href="#gloss-book-iv-date-1955-07" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1955" data-month="1955-07" data-title="July 1955"><span>July</span></a><a href="#gloss-book-iv-date-1955-08" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1955" data-month="1955-08" data-title="August 1955"><span>August</span></a><a href="#gloss-book-iv-date-1955-09" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1955" data-month="1955-09" data-title="September 1955"><span>September</span></a><a href="#gloss-book-iv-date-1955-10" class="gloss-month-link gloss-date-link" data-book="book-iv" data-year="1955" data-month="1955-10" data-title="October 1955"><span>October</span></a></div></div></div></div><div class="gloss-nav-book" data-book="book-v"><div class="gloss-nav-book-row"><a href="#gloss-book-v" class="nav-link nav-level-1" data-title="Book V · 1955–1958"><span>Book V · 1955–1958</span></a><button class="gloss-nav-toggle" type="button" aria-expanded="false" aria-label="Show dates in Book V · 1955–1958" title="Show dates"><span aria-hidden="true">›</span></button></div><div class="gloss-date-tree" hidden><div class="gloss-year-group" data-year="1955"><div class="gloss-year-row"><a href="#gloss-book-v-date-1955-10" class="gloss-year-link gloss-date-link" data-book="book-v" data-year="1955" data-title="1955">1955</a><button class="gloss-year-toggle" type="button" aria-expanded="false" aria-label="Show months in 1955" title="Show months in 1955"><span aria-hidden="true">›</span></button></div><div class="gloss-month-list" hidden><a href="#gloss-book-v-date-1955-10" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1955" data-month="1955-10" data-title="October 1955"><span>October</span></a><a href="#gloss-book-v-date-1955-11" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1955" data-month="1955-11" data-title="November 1955"><span>November</span></a><a href="#gloss-book-v-date-1955-12" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1955" data-month="1955-12" data-title="December 1955"><span>December</span></a></div></div><div class="gloss-year-group" data-year="1956"><div class="gloss-year-row"><a href="#gloss-book-v-date-1956-01" class="gloss-year-link gloss-date-link" data-book="book-v" data-year="1956" data-title="1956">1956</a><button class="gloss-year-toggle" type="button" aria-expanded="false" aria-label="Show months in 1956" title="Show months in 1956"><span aria-hidden="true">›</span></button></div><div class="gloss-month-list" hidden><a href="#gloss-book-v-date-1956-01" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1956" data-month="1956-01" data-title="January 1956"><span>January</span></a><a href="#gloss-book-v-date-1956-02" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1956" data-month="1956-02" data-title="February 1956"><span>February</span></a><a href="#gloss-book-v-date-1956-03" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1956" data-month="1956-03" data-title="March 1956"><span>March</span></a><a href="#gloss-book-v-date-1956-04" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1956" data-month="1956-04" data-title="April 1956"><span>April</span></a><a href="#gloss-book-v-date-1956-05" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1956" data-month="1956-05" data-title="May 1956"><span>May</span></a><a href="#gloss-book-v-date-1956-06" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1956" data-month="1956-06" data-title="June 1956"><span>June</span></a><a href="#gloss-book-v-date-1956-07" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1956" data-month="1956-07" data-title="July 1956"><span>July</span></a><a href="#gloss-book-v-date-1956-08" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1956" data-month="1956-08" data-title="August 1956"><span>August</span></a><a href="#gloss-book-v-date-1956-10" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1956" data-month="1956-10" data-title="October 1956"><span>October</span></a><a href="#gloss-book-v-date-1956-11" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1956" data-month="1956-11" data-title="November 1956"><span>November</span></a><a href="#gloss-book-v-date-1956-12" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1956" data-month="1956-12" data-title="December 1956"><span>December</span></a></div></div><div class="gloss-year-group" data-year="1957"><div class="gloss-year-row"><a href="#gloss-book-v-date-1957-01" class="gloss-year-link gloss-date-link" data-book="book-v" data-year="1957" data-title="1957">1957</a><button class="gloss-year-toggle" type="button" aria-expanded="false" aria-label="Show months in 1957" title="Show months in 1957"><span aria-hidden="true">›</span></button></div><div class="gloss-month-list" hidden><a href="#gloss-book-v-date-1957-01" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1957" data-month="1957-01" data-title="January 1957"><span>January</span></a><a href="#gloss-book-v-date-1957-02" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1957" data-month="1957-02" data-title="February 1957"><span>February</span></a><a href="#gloss-book-v-date-1957-03" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1957" data-month="1957-03" data-title="March 1957"><span>March</span></a><a href="#gloss-book-v-date-1957-04" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1957" data-month="1957-04" data-title="April 1957"><span>April</span></a><a href="#gloss-book-v-date-1957-05" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1957" data-month="1957-05" data-title="May 1957"><span>May</span></a><a href="#gloss-book-v-date-1957-06" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1957" data-month="1957-06" data-title="June 1957"><span>June</span></a><a href="#gloss-book-v-date-1957-07" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1957" data-month="1957-07" data-title="July 1957"><span>July</span></a><a href="#gloss-book-v-date-1957-08" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1957" data-month="1957-08" data-title="August 1957"><span>August</span></a><a href="#gloss-book-v-date-1957-09" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1957" data-month="1957-09" data-title="September 1957"><span>September</span></a><a href="#gloss-book-v-date-1957-10" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1957" data-month="1957-10" data-title="October 1957"><span>October</span></a><a href="#gloss-book-v-date-1957-12" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1957" data-month="1957-12" data-title="December 1957"><span>December</span></a></div></div><div class="gloss-year-group" data-year="1958"><div class="gloss-year-row"><a href="#gloss-book-v-date-1958-01" class="gloss-year-link gloss-date-link" data-book="book-v" data-year="1958" data-title="1958">1958</a><button class="gloss-year-toggle" type="button" aria-expanded="false" aria-label="Show months in 1958" title="Show months in 1958"><span aria-hidden="true">›</span></button></div><div class="gloss-month-list" hidden><a href="#gloss-book-v-date-1958-01" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1958" data-month="1958-01" data-title="January 1958"><span>January</span></a><a href="#gloss-book-v-date-1958-06" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1958" data-month="1958-06" data-title="June 1958"><span>June</span></a><a href="#gloss-book-v-date-1958-08" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1958" data-month="1958-08" data-title="August 1958"><span>August</span></a><a href="#gloss-book-v-date-1958-09" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1958" data-month="1958-09" data-title="September 1958"><span>September</span></a><a href="#gloss-book-v-date-1958-10" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1958" data-month="1958-10" data-title="October 1958"><span>October</span></a><a href="#gloss-book-v-date-1958-11" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1958" data-month="1958-11" data-title="November 1958"><span>November</span></a><a href="#gloss-book-v-date-1958-12" class="gloss-month-link gloss-date-link" data-book="book-v" data-year="1958" data-month="1958-12" data-title="December 1958"><span>December</span></a></div></div></div></div><a href="#gloss-appendix" class="nav-link nav-level-1" data-title="Appendix to Books I–V"><span>Appendix to Books I–V</span></a><a href="#gloss-appendix-book-i" class="nav-link nav-level-1" data-title="Appendix · Book I"><span>Appendix · Book I</span></a><a href="#gloss-appendix-book-ii" class="nav-link nav-level-1" data-title="Appendix · Book II"><span>Appendix · Book II</span></a><a href="#gloss-appendix-book-iii" class="nav-link nav-level-1" data-title="Appendix · Book III"><span>Appendix · Book III</span></a><a href="#gloss-appendix-book-iv" class="nav-link nav-level-1" data-title="Appendix · Book IV"><span>Appendix · Book IV</span></a><a href="#gloss-appendix-book-v" class="nav-link nav-level-1" data-title="Appendix · Book V"><span>Appendix · Book V</span></a><a href="#gloss-commentary" class="nav-link nav-level-1" data-title="Commentary"><span>Commentary</span></a><a href="#gloss-index-of-persons" class="nav-link nav-level-1" data-title="Index of Persons"><span>Index of Persons</span></a><a href="#gloss-footnotes" class="nav-link nav-level-1" data-title="Footnotes"><span>Footnotes</span></a></nav></aside><main class="main"><section class="cover" id="top"><div class="cover-inner"><div class="kicker">English Translation</div><h1>Glossarium</h1><h2>Notes from the Years 1947 to 1958</h2><div class="author">Carl Schmitt</div><div class="edition">Expanded, corrected, and annotated edition · Duncker & Humblot, 2015</div><a class="scroll-cue" href="#gloss-front-matter">Begin reading ↓</a></div></section><section class="book-section major-section" id="gloss-front-matter" data-key="front-matter" data-title="Front Matter"><h1 id="en-front-matter-glossarium">Glossarium</h1>
 <h2 id="en-front-matter-notes-from-the-years-1947-to-1958">Notes from the Years 1947 to 1958</h2>
 <p><strong>Carl Schmitt</strong></p>
 <p><em>Expanded, corrected, and annotated new edition</em></p>
@@ -276,7 +279,7 @@ Carl Schmitt, <em>Verfassungslehre</em>, 9th ed., Berlin 2003 (first published M
 Konrad Weiß, <em>Gedichte 1914–1939</em>. Edited by Friedhelm Kemp, Munich 1961</p>
 <nav class="chapter-pager" aria-label="Section navigation"><a class="pager-link prev" href="#gloss-introduction"><span>Previous</span><strong>Introduction</strong></a><a class="pager-link next" href="#gloss-book-i"><span>Next</span><strong>Book I · 1947</strong></a></nav></section><section class="book-section major-section" id="gloss-book-i" data-key="book-i" data-title="Book I · 1947"><h1 id="en-book-i-book-i">Book I</h1>
 <p>28 Aug. 1947–31 Dec. 1947</p>
-<p data-journal-date="1947-08-28"><strong>28 Aug. 1947</strong></p>
+<p id="gloss-book-i-date-1947-08" data-journal-date="1947-08-28"><strong>28 Aug. 1947</strong></p>
 <p>At night: noble simplicity and quiet grandeur. Yes—quiet!</p>
 <p>The quiet of ordinary people living quietly in the land. Pietist and humanist quiet.</p>
 <p>But quiet in opposition to what?</p>
@@ -404,7 +407,7 @@ Decision — institution</p>
 <p>The more terrible the weapons become, the less respect they leave for the enemy.</p>
 <p>That is what is new:</p>
 <p>the enemy is disqualified more and more completely.</p>
-<p data-journal-date="1947-09-01"><strong>1 September 1947</strong></p>
+<p id="gloss-book-i-date-1947-09" data-journal-date="1947-09-01"><strong>1 September 1947</strong></p>
 <p>What follows from this? asks J. Shotwell.</p>
 <p>His answer: because war has stopped being predictable—as it supposedly was in the static, repetitive age—it no longer belongs to Realpolitik. We must therefore develop a Realpolitik of peace: the League of Nations, international justice, Locarno.<sup class="note-ref" id="en-note-ref-6-1"><a aria-label="Note 2" href="#en-note-fn-p02-pdf01-n02">2</a></sup></p>
 <p>My view is different.</p>
@@ -1066,7 +1069,7 @@ Decision — institution</p>
 <p>The others walk on the pavements, where pavements still exist, as a concession granted by traffic police.</p>
 <p>The man in the street is the master of the street.</p>
 <p>That is modern democracy.</p>
-<p data-journal-date="1947-10-01"><strong>1 October 1947</strong></p>
+<p id="gloss-book-i-date-1947-10" data-journal-date="1947-10-01"><strong>1 October 1947</strong></p>
 <p>Again and again, Donoso.</p>
 <p>He says that he neither polemicizes nor argues.</p>
 <p>“The word is a seed. I throw it into the wind and leave it to God to decide whether it falls on barren rock or fertile soil.”</p>
@@ -1702,7 +1705,7 @@ Come into your own where you inherit your shipwreck.”</p>
 <p>Once the enemy has been clearly defined, anxiety comes to an end. At most, fear remains.</p>
 <p>But how are we supposed to pull anything out of this state of uncertainty and give it a definite form when we no longer possess any concepts in common?</p>
 <p>One of the defining features of civil war is precisely that the enemies no longer share a common language of concepts. Every concept then becomes an intrusion across the enemy line.</p>
-<p data-journal-date="1947-11-03"><strong>3 November 1947</strong></p>
+<p id="gloss-book-i-date-1947-11" data-journal-date="1947-11-03"><strong>3 November 1947</strong></p>
 <p>The mistake of F. A. Kramer (<em>Before the Ruins of Germany</em>, Koblenz, August 1945), Reck-Malleczewen, and the others:</p>
 <p>Such a tiny man, such an enormous sinner!</p>
 <p>The more insignificant this Brother Straubinger is, the more remarkable the whole thing becomes. The more purely he functions as an empty amplifier, as nothing more than a device for projecting sound, the more uncanny becomes the current of power that carries him and the <shrill> words that <his hatred=""> bellows so loudly.</his></shrill></p>
@@ -2344,7 +2347,7 @@ Emperor — Wallenstein</p>
 <p>The problem of every political trial?</p>
 <p>Before an admiralty court, he has a chance.</p>
 <p>Before a special tribunal created to combat Spanish imperialism, he has none.</p>
-<p data-journal-date="1947-12-01"><strong>1 December 1947</strong></p>
+<p id="gloss-book-i-date-1947-12" data-journal-date="1947-12-01"><strong>1 December 1947</strong></p>
 <p>Magnificent, Aldous Huxley’s comment in <em>Time Must Have a Stop</em> on the dying Hotspur’s lines from <em>Henry IV, Part One</em>, Act V:</p>
 <p>Thought is the slave of life;
 life is time’s fool;
@@ -2937,7 +2940,7 @@ Will freedom never return?</p>
 <p>The horns sing.</p>
 <nav class="chapter-pager" aria-label="Section navigation"><a class="pager-link prev" href="#gloss-works-cited"><span>Previous</span><strong>Works Cited</strong></a><a class="pager-link next" href="#gloss-book-ii"><span>Next</span><strong>Book II · 1948–1949</strong></a></nav></section><section class="book-section major-section" id="gloss-book-ii" data-key="book-ii" data-title="Book II · 1948–1949"><h1 id="en-book-ii-book-ii">Book II</h1>
 <p>1 January 1948–31 May 1949</p>
-<p data-journal-date="1948-01-01"><strong>1 January 1948</strong></p>
+<p id="gloss-book-ii-date-1948-01" data-journal-date="1948-01-01"><strong>1 January 1948</strong></p>
 <p>“O brave new world,
 That has such people in’t.”</p>
 <p><em>The Tempest</em>, V.1.</p>
@@ -3566,7 +3569,7 @@ How many goodly creatures are there here!”</p>
 <p>The reverse case is fundamentally the same:</p>
 <p>Goethe’s heroic poem about old Blücher—</p>
 <p>“conscious and great”!</p>
-<p data-journal-date="1948-02-01"><strong>1 February 1948</strong></p>
+<p id="gloss-book-ii-date-1948-02" data-journal-date="1948-02-01"><strong>1 February 1948</strong></p>
 <p>Measured by the standards that rule today, Kierkegaard was a dreadful reactionary and enemy of the people.</p>
 <p>He would have to be discriminated against, defamed, dismantled, and exterminated.</p>
 <p>And that is without even mentioning D.[onoso] C.[ortés].</p>
@@ -4016,7 +4019,7 @@ How many goodly creatures are there here!”</p>
 <p>Compared with Savigny, Hegel was the thinker of public law, but he had been pushed aside into philosophy.</p>
 <p>And so intellectual leadership passed into the hands of the men of letters.</p>
 <p>For me, as a jurist of the <em>jus publicum Europaeum</em>, the European public-law order, Bodin and Hobbes provide a better vehicle and better companions than the polarity of Savigny and Hegel.</p>
-<p data-journal-date="1948-03-01"><strong>1 March 1948</strong></p>
+<p id="gloss-book-ii-date-1948-03" data-journal-date="1948-03-01"><strong>1 March 1948</strong></p>
 <p>In party-political Germany, the festival of metamorphoses has for several decades been turning into a festival of false beards.</p>
 <p>Most people think they have undergone a metamorphosis when all they have done is remove a false beard.</p>
 <p data-journal-date="1948-03-02"><strong>2 March 1948</strong></p>
@@ -4360,7 +4363,7 @@ How many goodly creatures are there here!”</p>
 <p>The innermost central power group?</p>
 <p>Is there an image from physics that can describe this?</p>
 <p>Or must one suspect that the whole of your modern physics is itself only a precisely constructed, experimentally mounted reflection of sociological reality—the reality that today enters our existential consciousness through concepts such as “elite,” “innermost central power group,” and so on?</p>
-<p data-journal-date="1948-04-01"><strong>1 April 1948</strong></p>
+<p id="gloss-book-ii-date-1948-04" data-journal-date="1948-04-01"><strong>1 April 1948</strong></p>
 <p>The deepest, deadliest, and most common of all sins:</p>
 <p>continuing the struggle against an enemy who has already been defeated.</p>
 <p>Fighting yesterday’s enemy, who no longer exists, so that one does not have to face the real and present enemy of today.</p>
@@ -5014,7 +5017,7 @@ C. S.</p>
 <p>That is why, for example, the passage about the two hunters on p. 23 is an important corrective to the superficiality of many versions of the choice that otherwise threatens to cut us apart:</p>
 <p>West or East.</p>
 <p>The question of who, in the long run, will become the authentic successor of the German soldier of the East has not yet been answered.</p>
-<p data-journal-date="1948-05-01"><strong>1 May 1948</strong></p>
+<p id="gloss-book-ii-date-1948-05" data-journal-date="1948-05-01"><strong>1 May 1948</strong></p>
 <p>The third confirmation of my thesis about the “Disraelitism” of rabid Germanness—Hitler as a Disraelite.<sup class="note-ref" id="en-note-ref-178-1"><a aria-label="Note 2" href="#en-note-fn-p06-pdf17-n02">2</a></sup></p>
 <p>First confirmation:</p>
 <p>race = key, etc.</p>
@@ -5400,7 +5403,7 @@ Listen and suffer!
 <p>What remains is pure legality:</p>
 <p>obedience to the measures of the occupation authorities.</p>
 <p>But then it ought to be self-evident that the population cannot simply disappear into a void in international law if the territory itself is not annexed.</p>
-<p data-journal-date="1948-06-01"><strong>1 June 1948</strong></p>
+<p id="gloss-book-ii-date-1948-06" data-journal-date="1948-06-01"><strong>1 June 1948</strong></p>
 <p>The enemy is not something that is simply expelled or excreted.</p>
 <p>The relationship between friend and enemy is not the relationship between food and excrement.</p>
 <p>It is much closer to mixture and mating: the wedding night of opposites, a Heraclitean orgy.</p>
@@ -5932,7 +5935,7 @@ Isn’t that so, beggars of the air? We shall remain forever strong and poor.</p
 <p>All the more eager, therefore, are our home-grown beneficiaries of the psychosis of 1945.</p>
 <p>You compare my situation to Rossini being booed. That is not right. Today, the press pronounces the defamations and death sentences; the courts of the state merely carry them out.</p>
 <p>My brother thinks <em>Captiva Captivitas</em> is far better and much more worth reading than Ernst Jünger’s <em>Strahlungen</em>, precisely because Jünger was never a prisoner. The <em>Pour le Mérite</em> has already found its new forms, and Kierkegaard said all of this clearly enough back in 1848.</p>
-<p data-journal-date="1948-07-01"><strong>1 July 1948</strong></p>
+<p id="gloss-book-ii-date-1948-07" data-journal-date="1948-07-01"><strong>1 July 1948</strong></p>
 <p>Since 1936<sup class="note-ref" id="en-note-ref-241-1"><a aria-label="Note 1" href="#en-note-fn-p08-pdf01-n01">1</a></sup> I have been through terrible things, and several times I have been swallowed by the Leviathan that was already the object of my scholarly observation and research—and which, because of these experiences, became even more so. Being hunted for years as the quarry has made me somewhat tired.<sup class="note-ref" id="en-note-ref-242-1"><a aria-label="Note 2" href="#en-note-fn-p08-pdf01-n02">2</a></sup> But I am still able to tell right from wrong, which my persecutors apparently can no longer do. I am also still able to classify my hunter in conceptual terms.</p>
 <p>The ugly deception involved in my first attempt at marriage: is there a parallel between that and the self-deception involved in working with Frank? Or was the deception itself only a side effect of some secret desire to deceive myself? A desire to make myself cheap? An inability to deceive and disappoint other people? A helplessness against being steamrolled by people making brazen demands on me?</p>
 <p>Was I too weak to find the courage to disappoint others? That false pity for the fraudster whose fraud I had already seen through? That terrible pity for an offer that nobody accepts?</p>
@@ -6221,7 +6224,7 @@ Cast this mistake away from you.</p>
 <p>Today this legitimacy has been monopolized in the East.<sup class="note-ref" id="en-note-ref-260-1"><a aria-label="Note 3" href="#en-note-fn-p08-pdf09-n03">3</a></sup></p>
 <p>The West has not even noticed the split between legality and legitimacy.</p>
 <p>The Anglo-Saxons and the Catholic Church &lt;…&gt; still do not make this distinction. &lt;…&gt;</p>
-<p data-journal-date="1948-08-01"><strong>1 August 1948</strong></p>
+<p id="gloss-book-ii-date-1948-08" data-journal-date="1948-08-01"><strong>1 August 1948</strong></p>
 <p>Romanticism, according to the Schlegel brothers, is the Middle Ages.</p>
 <p>Both are mixtures of the Romance and the Germanic.</p>
 <p>Both are identical with Europe.</p>
@@ -6577,7 +6580,7 @@ He is, of course, not silent.</p>
 <p>In the end, they even steal the wreaths from the grave of the defeated enemy.</p>
 <p data-journal-date="1948-08-31"><strong>31 August 1948</strong></p>
 <p>Often I am crushed by the loneliness of knowing about a <em>scelus infandum</em>—an unspeakable crime.<sup class="note-ref" id="en-note-ref-276-1"><a aria-label="Note 1" href="#en-note-fn-p08-pdf17-n01">1</a></sup></p>
-<p data-journal-date="1948-09-01"><strong>1 September 1948</strong></p>
+<p id="gloss-book-ii-date-1948-09" data-journal-date="1948-09-01"><strong>1 September 1948</strong></p>
 <p>“Natural law” is a misleading and outdated expression in an age of natural science and of rule by the concrete results produced by natural science.<sup class="note-ref" id="en-note-ref-277-1"><a aria-label="Note 2" href="#en-note-fn-p08-pdf17-n02">2</a></sup></p>
 <p>But after the development of legality and legitimacy, law today has found refuge only in legal scholarship, no longer in legislation.</p>
 <p>There will therefore be only as much law as legal scholarship is able to recognize, grasp, and bring to life.</p>
@@ -6776,7 +6779,7 @@ Charisma in any case.</p>
 <p>or declare him an enemy, a <em>princeps hostis</em>.</p>
 <p>There was no third possibility.</p>
 <p>The moment man tries to rise above himself—and he has to, because <em>l’homme surpasse l’homme</em>, man surpasses man—this alternative appears and the abyss opens.</p>
-<p data-journal-date="1948-10-03"><strong>3 October 1948</strong></p>
+<p id="gloss-book-ii-date-1948-10" data-journal-date="1948-10-03"><strong>3 October 1948</strong></p>
 <p>The lukewarm and neutralized become agitated about atheism and nihilism without noticing that one much admired and endlessly quoted remark by Jakob Burckhardt contains infinitely more atheism and nihilism than all of Bakunin’s writings.</p>
 <p>I mean the sentence:</p>
 <p>Power is evil in itself.</p>
@@ -6944,7 +6947,7 @@ Too weak and tired to persecute.</p>
 <em>Co-existentibus in re illicita.</em></p>
 <p>To one involved in an unlawful situation.
 To those co-existing in an unlawful situation.</p>
-<p data-journal-date="1948-11-05"><strong>5 November 1948</strong></p>
+<p id="gloss-book-ii-date-1948-11" data-journal-date="1948-11-05"><strong>5 November 1948</strong></p>
 <p>Today “natural law” is nothing more than the phosphorescent product of decay left behind after two thousand years of talking the subject to death.</p>
 <p>The mere possibility that a thought might someday be communicated—even if that possibility remains completely unconscious—already falsifies the result of thinking.</p>
 <p>So what are we supposed to make of everything that has been spoken?</p>
@@ -7017,7 +7020,7 @@ To those co-existing in an unlawful situation.</p>
 <p>This world unleashed.</p>
 <p>Machine:</p>
 <p>the unleashed activism of a world unleashed.</p>
-<p data-journal-date="1948-12-02"><strong>2 December 1948</strong></p>
+<p id="gloss-book-ii-date-1948-12" data-journal-date="1948-12-02"><strong>2 December 1948</strong></p>
 <p>They issue emergency-contribution stamps—that is, tax stamps—and require people to stick them onto letters before those letters can be sent.</p>
 <p>The post office refuses to carry letters and other mail if the tax stamp is missing.</p>
 <p>The postal service is transformed into a tax-enforcement agency.</p>
@@ -7212,7 +7215,7 @@ And he will drive us, as we drive him, toward the same end.”</p>
 <p>Anyone who cannot answer the question from his own knowledge<sup class="note-ref" id="en-note-ref-300-1"><a aria-label="Note 2" href="#en-note-fn-p09-pdf13-n02">2</a></sup> should be careful about commenting on the difficult subject of that little book.</p>
 <p>A well-meant piece of advice to people<sup class="note-ref" id="en-note-ref-301-1"><a aria-label="Note 3" href="#en-note-fn-p09-pdf13-n03">3</a></sup> such as Kurt Hiller, Hans Barth, and William Ebenstein.<sup class="note-ref" id="en-note-ref-302-1"><a aria-label="Note 4" href="#en-note-fn-p09-pdf13-n04">4</a></sup></p>
 <p>The spade of our enemies is our own question embodied.<sup class="note-ref" id="en-note-ref-303-1"><a aria-label="Note 5" href="#en-note-fn-p09-pdf13-n05">5</a></sup></p>
-<p data-journal-date="1949-01-10"><strong>10 January 1949</strong></p>
+<p id="gloss-book-ii-date-1949-01" data-journal-date="1949-01-10"><strong>10 January 1949</strong></p>
 <p>The enemy gives us our laws (<em>Communist Manifesto</em>, 1847).</p>
 <p>The law of the state remains law only as long as the independent individuality of the individual remains a reality.</p>
 <p>That is what a “constitution with fundamental rights of the individual” means.</p>
@@ -7384,7 +7387,7 @@ the world is not fine.</p>
 <p>a world created by human beings for human beings, made up not merely of tools but also of man-made materials.</p>
 <p>Technology is the age of plastics.</p>
 <p>The most horrifying of all utopias.</p>
-<p data-journal-date="1949-02-13"><strong>13 February 1949</strong></p>
+<p id="gloss-book-ii-date-1949-02" data-journal-date="1949-02-13"><strong>13 February 1949</strong></p>
 <p>Authority and asylum:</p>
 <p>the two belong together.</p>
 <p>The only asylum ever granted to a German was granted by the Vatican.</p>
@@ -7520,7 +7523,7 @@ To whom my devotion belongs!</p>
 <p>Everything “double-meaning” and double-faced.</p>
 <p>Hegel’s double face is the authentic German face.</p>
 <p>His double meaning is the German way of making sense.</p>
-<p data-journal-date="1949-03-01"><strong>1 March 1949</strong></p>
+<p id="gloss-book-ii-date-1949-03" data-journal-date="1949-03-01"><strong>1 March 1949</strong></p>
 <p>“The men of the German National Assembly in Frankfurt wanted to found a Reich whose very existence would have been equivalent to a European revolution.”</p>
 <p>They failed.</p>
 <p>Instead, another Reich was founded whose very existence became equivalent to a world revolution.<sup class="note-ref" id="en-note-ref-316-1"><a aria-label="Note 1" href="#en-note-fn-p09-pdf20-n01">1</a></sup></p>
@@ -7730,7 +7733,7 @@ being impossible to deceive is the goal.</p>
 <p>the injustice of Versailles intensifies into the injustice of Hitler, and that intensifies into the injustice of Yalta, Moscow, and Nuremberg.</p>
 <p>The law governing these ever-escalating chain reactions.</p>
 <p>Judicial procedure as the final peak.</p>
-<p data-journal-date="1949-04-03"><strong>3 April 1949</strong></p>
+<p id="gloss-book-ii-date-1949-04" data-journal-date="1949-04-03"><strong>3 April 1949</strong></p>
 <p>Watch out, friend Barth.</p>
 <p>Suddenly the Wholly Other will arrive—and in a wholly different way.</p>
 <p>You will be surprised.</p>
@@ -8115,7 +8118,7 @@ For absolute natural law goes completely wrong.</p>
 <p>And Ch.[urchill] appears as the Clemenceau of the Second World War.</p>
 <p>So that this euthanasia will not be disturbed, Germany is supposed to perish in the most horrific dysthanasia—</p>
 <p>a terrible, prolonged death.</p>
-<p data-journal-date="1949-05-01"><strong>1 May 1949</strong></p>
+<p id="gloss-book-ii-date-1949-05" data-journal-date="1949-05-01"><strong>1 May 1949</strong></p>
 <p>For a scholar of the humanities there can be no doubt that the opposition between corpuscular and wave theories and phenomena in modern physics is nothing other than the opposition between classical and romantic, with all its shades and forms.</p>
 <p>And at an even deeper level, it is the opposition between land and sea.</p>
 <p>On the waves, everything becomes wave.</p>
@@ -8447,7 +8450,7 @@ shines their transfigured light.</p>
 <p>But the man they are calling upon has already been lost.</p>
 <nav class="chapter-pager" aria-label="Section navigation"><a class="pager-link prev" href="#gloss-book-i"><span>Previous</span><strong>Book I · 1947</strong></a><a class="pager-link next" href="#gloss-book-iii"><span>Next</span><strong>Book III · 1949–1951</strong></a></nav></section><section class="book-section major-section" id="gloss-book-iii" data-key="book-iii" data-title="Book III · 1949–1951"><h1 id="en-book-iii-book-iii">Book III</h1>
 <p>16 June 1949–14 August 1951</p>
-<p data-journal-date="1949-06-16"><strong>16 June 1949</strong></p>
+<p id="gloss-book-iii-date-1949-06" data-journal-date="1949-06-16"><strong>16 June 1949</strong></p>
 <p>Hobbes was the archetype of internal emigration. All the great figures of the seventeenth century withdrew into esoteric thought. In that sense, he was authentic.</p>
 <p>The clear precision of Hobbes’s language confirms his own philosophy of language in his own case: <em>homo verbo fit potentior</em>—man becomes more powerful through words.<sup class="note-ref" id="en-note-ref-340-1"><a aria-label="Note 1" href="#en-note-fn-p11-pdf04-n01">1</a></sup></p>
 <p>But the English rejected Hobbes and cast him out.</p>
@@ -8528,7 +8531,7 @@ from the state of nature to the state.</p>
 <p>But the worm born in darkness and born for darkness feels perfectly at home there and does not even recognize darkness as darkness.</p>
 <p>So says Baader, whom that fraud Lüth dares to invoke against me.</p>
 <p>Baader, of course, got it from Jakob Böhme.</p>
-<p data-journal-date="1949-07-02"><strong>2 July 1949</strong></p>
+<p id="gloss-book-iii-date-1949-07" data-journal-date="1949-07-02"><strong>2 July 1949</strong></p>
 <p>The bodily and spiritual sensibility of the Gnostic:</p>
 <p>crystalline purity;
 the filth of blood overcome in pure radiation;
@@ -8905,7 +8908,7 @@ Fertilized from afar by Moscow.</p>
 <p>What lesson in order are we supposed to read in the heavens of modern astrophysics?</p>
 <p>It is no longer much of a lesson in order.</p>
 <p>It looks more like a manifesto of chaotic explosiveness.</p>
-<p data-journal-date="1949-08-04"><strong>4 August 1949</strong></p>
+<p id="gloss-book-iii-date-1949-08" data-journal-date="1949-08-04"><strong>4 August 1949</strong></p>
 <p>Look at that wonderful sun!</p>
 <p>The sun does not protect me.</p>
 <p>It does not help me.</p>
@@ -9185,7 +9188,7 @@ for the eastern half, a Stalin Plan.</p>
 </ol>
 <p>Both sentences come from the period before 1848.</p>
 <p>Their echo took almost a century to arrive.</p>
-<p data-journal-date="1949-09-01"><strong>1 September 1949</strong></p>
+<p id="gloss-book-iii-date-1949-09" data-journal-date="1949-09-01"><strong>1 September 1949</strong></p>
 <p>Instead of “decision,” I could also say “imprinting” or “stamping”:</p>
 <p>coins are stamped.</p>
 <p>Communion wafers are stamped.</p>
@@ -9358,7 +9361,7 @@ the resurrection of the flesh.</p>
 <p>I refused to let myself be appropriated.</p>
 <p>And the people who are convinced that they are right, because they failed to bring me under their control, call that:</p>
 <p>lack of character.<sup class="note-ref" id="en-note-ref-372-1"><a aria-label="Note 2" href="#en-note-fn-p11-pdf22-n02">2</a></sup></p>
-<p data-journal-date="1949-10-01"><strong>1 October 1949</strong></p>
+<p id="gloss-book-iii-date-1949-10" data-journal-date="1949-10-01"><strong>1 October 1949</strong></p>
 <p>Why do you refuse to undergo denazification?</p>
 <p>First:</p>
 <p>because I do not like being appropriated.</p>
@@ -9491,7 +9494,7 @@ reduces friend and enemy alike <em>ad absurdum</em>.</p>
 <p>But stop.</p>
 <p>Be careful.</p>
 <p>A man classifies himself by the enemy he chooses.</p>
-<p data-journal-date="1949-11-01"><strong>1 November 1949</strong></p>
+<p id="gloss-book-iii-date-1949-11" data-journal-date="1949-11-01"><strong>1 November 1949</strong></p>
 <p>Beware of every polemical impulse!</p>
 <p>How weak and embarrassing these lines by the otherwise thoughtful Friedrich Ernst Peters sound:</p>
 <p>They say “spirit” and mean a ghost.
@@ -9646,7 +9649,7 @@ the soul leaps free of chaos.</p>
 <p>States pass away.</p>
 <p>Councillors of State remain.</p>
 <p>States disappear; State Councillors endure.</p>
-<p data-journal-date="1949-12-03"><strong>3 December 1949</strong></p>
+<p id="gloss-book-iii-date-1949-12" data-journal-date="1949-12-03"><strong>3 December 1949</strong></p>
 <p><em>Dabitur donum fortitudinis.</em></p>
 <p>The gift of courage will be given.</p>
 <p>“These are all <em>dona</em>—gifts,” Father Franziskus Stratmann said beautifully.</p>
@@ -9881,7 +9884,7 @@ with one poor will-o’-the-wisp perched above.</p>
 <p>Chaos does not belong to the citizen but to the partisan, the freebooter, the buccaneer, and the privateer.</p>
 <p>The development from the seventeenth to the twentieth century:</p>
 <p>from the filibuster to the partisan.</p>
-<p data-journal-date="1950-01-09"><strong>9 January 1950</strong></p>
+<p id="gloss-book-iii-date-1950-01" data-journal-date="1950-01-09"><strong>9 January 1950</strong></p>
 <p>I put this question to you as an old, experienced man of sixty-two:</p>
 <p>What is the most unbelievable, the most improbable thing you have experienced in your long and eventful life?</p>
 <p>Answer:</p>
@@ -10020,7 +10023,7 @@ to take the dollar they are paid.</p>
 <p>Our historical dialectic must begin with these elements, not, as in Hegel’s lectures, with the written material of historical knowledge.</p>
 <p>Nor should it begin with economic materialism.</p>
 <p>Economic materialism possesses only the time-bound truth of the nineteenth century’s self-destruction and is itself an ideological superstructure built over the Industrial Revolution of the eighteenth and nineteenth centuries.</p>
-<p data-journal-date="1950-02-04"><strong>4 February 1950</strong></p>
+<p id="gloss-book-iii-date-1950-02" data-journal-date="1950-02-04"><strong>4 February 1950</strong></p>
 <p><em>Favor victoris.</em></p>
 <p>Favor toward the victor.</p>
 <p>What use is a clear and compelling argument in international law in Germany’s favor today?</p>
@@ -10234,7 +10237,7 @@ to take the dollar they are paid.</p>
 <p>So in the end the whole thing comes down to <em>en que</em>—“as a Christian”—and <em>en tant que</em>—“in the capacity of a Christian”—and <em>comme tel</em>—“as such”!</p>
 <p><em>En que</em>—<em>en tant que</em>.</p>
 <p>And you expect to save the whole thing with that?!</p>
-<p data-journal-date="1950-03-17"><strong>17 March 1950</strong></p>
+<p id="gloss-book-iii-date-1950-03" data-journal-date="1950-03-17"><strong>17 March 1950</strong></p>
 <p>What is it, exactly, that we are experiencing now?</p>
 <p>The deserters declare the front-line soldiers to be cowards.</p>
 <p>The emigrants declare those who did not emigrate to be enemies of their country.</p>
@@ -10291,7 +10294,7 @@ to take the dollar they are paid.</p>
 <p data-journal-date="1950-03-28"><strong>28 March 1950</strong></p>
 <p>Money distorts the world.</p>
 <p>It turns everything into merchandise.</p>
-<p data-journal-date="1950-04-01"><strong>1 April 1950</strong></p>
+<p id="gloss-book-iii-date-1950-04" data-journal-date="1950-04-01"><strong>1 April 1950</strong></p>
 <p>Heideggerisms:</p>
 <p>By “publishing”—that is, by having my thoughts typeset and printed—I am already displaced, distorted, ordered, employed:</p>
 <p><em>engagé</em>.</p>
@@ -10328,7 +10331,7 @@ to take the dollar they are paid.</p>
 <p>That is it:</p>
 <p><em>le règne exclusif de la Loi.</em></p>
 <p>The exclusive reign of the Law.</p>
-<p data-journal-date="1950-05-02"><strong>2 May 1950</strong></p>
+<p id="gloss-book-iii-date-1950-05" data-journal-date="1950-05-02"><strong>2 May 1950</strong></p>
 <p>The exact title of the book by Karl Binding and Alfred Hoche really is:</p>
 <p><em>Permitting the Destruction of Life Unworthy of Life</em>.</p>
 <p>Leipzig, Felix Meiner, 1920.</p>
@@ -10420,7 +10423,7 @@ C. S.</p>
 <p>Inhabited land is a more direct instrument of power than an atomic bomb.</p>
 <p>Or <em>Capital</em>, Volume I, Chapter &lt;…&gt;, note 33: the history of landed property forms the secret history of the Roman Republic.</p>
 <p>Why secret?</p>
-<p data-journal-date="1950-06-03"><strong>3 June 1950</strong></p>
+<p id="gloss-book-iii-date-1950-06" data-journal-date="1950-06-03"><strong>3 June 1950</strong></p>
 <p>In any case, the question of who has the authority to banish me from the realm of the German spirit has now been happily settled by this article by Dr. Lewald in the <em>NJW</em>.<sup class="note-ref" id="en-note-ref-417-1"><a aria-label="Note 2" href="#en-note-fn-p13-pdf03-n02">2</a></sup></p>
 <p>Apart from this positive result, the article is merely a document of cultural history. It belongs in the same category as the jurisprudence of the witch hunts.</p>
 <p>It has prompted me, very profitably, to reread Count Spee’s <em>Cautio Criminalis</em> of 1631.</p>
@@ -10529,7 +10532,7 @@ a bearer of duties.</p>
 <p>What would you have answered on the questionnaire—or under interrogation by Mr. Ebenstein—if he had asked you:</p>
 <p>“What is your position on the Jewish question?”</p>
 <p>Old André Gide, you never had to sit across from one of these sweet interrogators.</p>
-<p data-journal-date="1950-07-05"><strong>5 July 1950</strong></p>
+<p id="gloss-book-iii-date-1950-07" data-journal-date="1950-07-05"><strong>5 July 1950</strong></p>
 <p>God is the wholly Other?</p>
 <p>So the theologians proclaim.</p>
 <p>Well, yes—the theologians of the Christian Churches.</p>
@@ -10564,7 +10567,7 @@ a bearer of duties.</p>
 <p>A de-anti-ifier!</p>
 <p>The great program of de-anti-fication!</p>
 <p>With unlimited powers.</p>
-<p data-journal-date="1950-08-01"><strong>1 August 1950</strong></p>
+<p id="gloss-book-iii-date-1950-08" data-journal-date="1950-08-01"><strong>1 August 1950</strong></p>
 <p>How proudly I once wrote:</p>
 <p>Welcome, good and evil!</p>
 <p>And behold:</p>
@@ -10644,7 +10647,7 @@ a bearer of duties.</p>
 <p>And that makes me the predestined sacrificial victim of ritual murder, like Kafka’s accused man in <em>The Trial</em>.</p>
 <p>I am still alive only because the shades pursuing me are no longer capable of performing rites, and therefore are no longer capable of ritual murder.</p>
 <p>That is what saves me.</p>
-<p data-journal-date="1950-09-01"><strong>1 September 1950</strong></p>
+<p id="gloss-book-iii-date-1950-09" data-journal-date="1950-09-01"><strong>1 September 1950</strong></p>
 <p>Every discussion of the sound of the German word <em>Raum</em>—space—should include Nietzsche’s phonetically astonishing sentence, astonishing even by the standards of Nietzsche’s own prose:</p>
 <p>“With firm shoulders, space braces itself against nothingness. Where there is space, there is Being.”</p>
 <p>(Kröner, vol. 7 II, p. 58, no. 128.)<sup class="note-ref" id="en-note-ref-426-1"><a aria-label="Note 1" href="#en-note-fn-p13-pdf08-n01">1</a></sup></p>
@@ -10693,7 +10696,7 @@ a bearer of duties.</p>
 <p>Wonderful, what Schelsky says about the total school.</p>
 <p>Hopefully <spranger> sees [the] antistrophe:</spranger></p>
 <p>Kill with C. S.</p>
-<p data-journal-date="1950-10-04"><strong>4 October 1950</strong></p>
+<p id="gloss-book-iii-date-1950-10" data-journal-date="1950-10-04"><strong>4 October 1950</strong></p>
 <p>Between theology and technology:</p>
 <p>that means between two totalitarian realms.<sup class="note-ref" id="en-note-ref-430-1"><a aria-label="Note 1" href="#en-note-fn-p13-pdf09-n01">1</a></sup></p>
 <p>Theology is necessarily totalitarian in its substance and in its result.</p>
@@ -10726,7 +10729,7 @@ a bearer of duties.</p>
 <p>Even the three righteous combmakers are, in the end, still our brothers.</p>
 <p>So let us allow them to live.</p>
 <p>For if we killed them all, we would simply take their place.</p>
-<p data-journal-date="1950-11-10"><strong>10 November 1950</strong></p>
+<p id="gloss-book-iii-date-1950-11" data-journal-date="1950-11-10"><strong>10 November 1950</strong></p>
 <p>It is at least a step toward better understanding when A. Mitscherlich (<em>Der Monat</em>, no. 25, October 1950) sets the Kaspar Hauser myth—the complex of modern abandonment—against the Oedipus complex.</p>
 <p>“I would say that the human being of our time suffers to a very great degree from a fate that coincides with Kaspar Hauser’s.”</p>
 <p>No amount of care or hygiene can hide from us</p>
@@ -10755,7 +10758,7 @@ a bearer of duties.</p>
 <p>The wine is the discernment of spirits, which they reserved for themselves.</p>
 <p>But today we can see that they are not capable of discerning the spirits at all.</p>
 <p>Today they run after Americanism.</p>
-<p data-journal-date="1951-02-27"><strong>27 February 1951</strong></p>
+<p id="gloss-book-iii-date-1951-02" data-journal-date="1951-02-27"><strong>27 February 1951</strong></p>
 <p>Words and sentences from dreams:</p>
 <p>Death is the good-for-nothing of our experiences.</p>
 <p>It makes them good for nothing.</p>
@@ -10783,7 +10786,7 @@ a bearer of duties.</p>
 <p>At the beginning of Christianity:</p>
 <p>Acts of the Apostles, chapter 7, Stephen:</p>
 <p>You murdered the heir.</p>
-<p data-journal-date="1951-03-01"><strong>1 March 1951</strong></p>
+<p id="gloss-book-iii-date-1951-03" data-journal-date="1951-03-01"><strong>1 March 1951</strong></p>
 <p>A worker is someone who has the right to a workplace assigned to him by the responsible organization.</p>
 <p>Work and labor law.</p>
 <p>That is what it comes down to.</p>
@@ -10811,7 +10814,7 @@ a bearer of duties.</p>
 <p>If I have no power, I will be devoured.</p>
 <p>But there is already the old story:</p>
 <p>they go hungry when they do not have power.</p>
-<p data-journal-date="1951-04-07"><strong>7 April 1951</strong></p>
+<p id="gloss-book-iii-date-1951-04" data-journal-date="1951-04-07"><strong>7 April 1951</strong></p>
 <p>The three-hundredth anniversary celebration of <em>Leviathan</em> in Frankfurt, with Alfred Andersch, Nicolaus Sombart, Anima, Hannes and Freda Winckelmann, Hausenstein.</p>
 <p>Andersch strongly emphasized and repeatedly affirmed his belief in human free will.</p>
 <p>I told him:</p>
@@ -10836,7 +10839,7 @@ a bearer of duties.</p>
 <p>Do you consider Robert Kempner or Erich Kaufmann the true representatives of the German sense of law and justice?</p>
 <p>To every question of this kind I answer firmly:</p>
 <p>Count me out!</p>
-<p data-journal-date="1951-06-14"><strong>14 June 1951</strong></p>
+<p id="gloss-book-iii-date-1951-06" data-journal-date="1951-06-14"><strong>14 June 1951</strong></p>
 <p>Monarchical-dynastic legitimacy ends in disputes over family law, wars of succession, and harassment over family trees.</p>
 <p>Democratic legitimacy ends in the sordid tricks of electoral law and in arguments over proportional representation, electoral districts, and the calculation of that mysterious quantity called “the majority.”</p>
 <p>Which is worse?</p>
@@ -10912,7 +10915,7 @@ a bearer of duties.</p>
 <p>a situation.</p>
 <p>Law through peace is meaningful and decent.</p>
 <p>Peace through law is an imperialist claim to rule.</p>
-<p data-journal-date="1951-07-02"><strong>2 July 1951</strong></p>
+<p id="gloss-book-iii-date-1951-07" data-journal-date="1951-07-02"><strong>2 July 1951</strong></p>
 <p>Between you and us, on both sides, lie too many desecrated bodies.</p>
 <p>Too many dishonored corpses.</p>
 <p>The burning of the men hanged at Nuremberg made this condition even worse.</p>
@@ -11019,7 +11022,7 @@ As Franz Blei once did.</p>
 <p>in a world where every act is a betrayal of the idea,</p>
 <p>every realization becomes a forfeiture,</p>
 <p>and everyone who acts becomes a wrongdoer.</p>
-<p data-journal-date="1951-08-05"><strong>5 August 1951</strong></p>
+<p id="gloss-book-iii-date-1951-08" data-journal-date="1951-08-05"><strong>5 August 1951</strong></p>
 <p>Should I end with Francis Bacon’s Parable 25?</p>
 <p>The parable reads:</p>
 <p><em>Fons turbatus pede &amp; vena corrupta est iustus cadens coram impio.</em></p>
@@ -11050,7 +11053,7 @@ As Franz Blei once did.</p>
 <p>I’ll keep this exact balance for the remaining parts: fully contemporary English, maximum readability, and no reduction of Schmitt’s substance, repetitions, provocations, or conceptual detail.</p>
 <nav class="chapter-pager" aria-label="Section navigation"><a class="pager-link prev" href="#gloss-book-ii"><span>Previous</span><strong>Book II · 1948–1949</strong></a><a class="pager-link next" href="#gloss-book-iv"><span>Next</span><strong>Book IV · 1951–1955</strong></a></nav></section><section class="book-section major-section" id="gloss-book-iv" data-key="book-iv" data-title="Book IV · 1951–1955"><h1 id="en-book-iv-book-iv">Book IV</h1>
 <p>20 August 1951–6 October 1955</p>
-<p data-journal-date="1951-08-20"><strong>20 August 1951</strong></p>
+<p id="gloss-book-iv-date-1951-08" data-journal-date="1951-08-20"><strong>20 August 1951</strong></p>
 <p>R. G. Collingwood, <em>An Autobiography</em>, 1939 (Oxford University Press; also Penguin Book A. 136, New York/Harmondsworth 1944). Died 1943 (born around 1888). Father: friend and follower of Ruskin. 1942: <em>The New Leviathan</em>, Oxford, Clarendon Press.</p>
 <p>– 1940: “Fascism and Nazism,” in <em>Philosophy</em>, vol. 15. 1941: <em>The Three Laws of Politics</em>, L. T. Hobhouse Memorial Lecture no. 11, Oxford University Press.</p>
 <p>Question-and-answer logic.</p>
@@ -11113,7 +11116,7 @@ They drift through every land!</p>
 <li><p>Me: <em>c’est qu’il n’y a pas de pouvoir indirect</em>—that there is no indirect power.</p>
 </li>
 </ol>
-<p data-journal-date="1951-09-03"><strong>3 September 1951</strong></p>
+<p id="gloss-book-iv-date-1951-09" data-journal-date="1951-09-03"><strong>3 September 1951</strong></p>
 <p>Diogenes—the son of God—is condemned to death by the victorious conquerors of the city of Corinth as a collaborator and war criminal.</p>
 <p>Why?</p>
 <p>Because during the siege, when everyone else was working hard on the defence of the city, he busily rolled his empty barrel backwards and forwards so that he would not be idle while everyone else was working.</p>
@@ -11326,7 +11329,7 @@ And says: you may, because you can.</p>
 <p>Nobody will disturb you in this kind of thinking.</p>
 <p>So by all means keep thinking.</p>
 <p>Sweet dreams!</p>
-<p data-journal-date="1951-10-05"><strong>5 October 1951</strong></p>
+<p id="gloss-book-iv-date-1951-10" data-journal-date="1951-10-05"><strong>5 October 1951</strong></p>
 <p>Motto for the struggle against the <em>potestates indirectae</em>—the indirect powers—and for how one should behave toward the terror that no one dares to name:</p>
 <p><em>Ne rien blâmer de ce qu’ils font, ne rien croire de ce qu’ils disent.</em></p>
 <p>Blame nothing they do; believe nothing they say.</p>
@@ -11585,7 +11588,7 @@ Whom every child laughs at.</p>
 <p>“<em>Now is the time for all good men to come to the aid of their country.</em></p>
 <p>Standard practice sentence for typists.</p>
 <p>(Letter to <em>Der Spiegel</em>, no. 45.)”</p>
-<p data-journal-date="1951-11-07"><strong>7 November 1951</strong></p>
+<p id="gloss-book-iv-date-1951-11" data-journal-date="1951-11-07"><strong>7 November 1951</strong></p>
 <p>In the house of the hanged man, one does not speak of the rope.</p>
 <p>That is sympathetic.</p>
 <p>But in the house of the executioner, people speak all the more about law and justice.</p>
@@ -11631,7 +11634,7 @@ The utterly wrong direction.</p>
 <p>“The Roman people ruled Judaea after it had been conquered under Pompey. What, then, should the form of government of the Jews under the Roman people be called? It was not a democracy, nor was it an aristocracy, because it was not governed by an assembly of Jewish men.”</p>
 <p>So it was a monarchy (= dictatorship) of the Roman people over the Jewish people!</p>
 <p>Germany’s constitution in 1951.<sup class="note-ref" id="en-note-ref-469-1"><a aria-label="Note 1" href="#en-note-fn-p15-pdf03-n01">1</a></sup></p>
-<p data-journal-date="1951-12-22"><strong>22 December 1951</strong></p>
+<p id="gloss-book-iv-date-1951-12" data-journal-date="1951-12-22"><strong>22 December 1951</strong></p>
 <p>The priests took the chalice away from the people; that is, they destroyed the sacrament of bread and wine.</p>
 <p>Terrible.</p>
 <p>But Prohibition in America in 1919 was surely even worse, although it was really the same thing.</p>
@@ -11647,7 +11650,7 @@ The utterly wrong direction.</p>
 <p>Hannah Arendt, <em>The Burden of Our Time</em>, London 1951, p. 192.</p>
 <p>That is precisely how the educated European of 1848—Bruno Bauer—saw the newly emancipated (!) ghetto Jew.</p>
 <p>Heine as a German poet—who outdid Mörike precisely as a German!—etc.</p>
-<p data-journal-date="1952-01-12"><strong>12 January 1952</strong></p>
+<p id="gloss-book-iv-date-1952-01" data-journal-date="1952-01-12"><strong>12 January 1952</strong></p>
 <p>J. von Kürenberg, <em>Was Everything Wrong? A Biography of Wilhelm II</em>, Bonn 1951, p. 220:</p>
 <p>“If Eulenburg had behaved more conciliatorily toward Harden, or as brutally as Holstein, or as cleverly as Bülow, then this ‘prelude’”—Harden’s first article attacking Eulenburg in <em>Die Zukunft</em>—“would never have been followed by the tragedy that came afterward. But Eulenburg was so disgusted by Harden that he refused either to negotiate with him or to make any compromise.”</p>
 <p>Now I understand why, in 1937, I suddenly became so interested in the Eulenburg affair.</p>
@@ -11662,7 +11665,7 @@ The utterly wrong direction.</p>
 <p>Fritsch, diary entry of 1 February 1938, quoted in Friedrich Hoßbach, <em>Between the Wehrmacht and Hitler</em>, 1949, pp. 70–71; and in Hermann Foertsch, <em>Guilt and Fate</em>, 1951, p. 147, note 67.</p>
 <p>“The namesake of my colleague Mr Carlo Schmid of the Parliamentary Council, except that his name is spelled with two ‘t’s.”</p>
 <p>(Süsterhenn in the Parliamentary Council, 2nd session, 8 September 1948, p. 25.)</p>
-<p data-journal-date="1952-02-03"><strong>3 February 1952</strong></p>
+<p id="gloss-book-iv-date-1952-02" data-journal-date="1952-02-03"><strong>3 February 1952</strong></p>
 <p>She really ought to feel some shame
 For taking dollars all the same.</p>
 <p>Taking rubles is another matter.</p>
@@ -11687,7 +11690,7 @@ For taking dollars all the same.</p>
 <p>Poor Kriesenhahn is allowed to crow along a little, but what is he beside a British subject or a U.S. citizen?</p>
 <p>Beside one of those he feels comfortable, and better about himself.</p>
 <p>Beside a German like C. S., he feels uneasy.</p>
-<p data-journal-date="1952-03-01"><strong>1 March 1952</strong></p>
+<p id="gloss-book-iv-date-1952-03" data-journal-date="1952-03-01"><strong>1 March 1952</strong></p>
 <p>Article 1:</p>
 <p><em>Quod licet Jovi, non licet bovi.</em></p>
 <p>What is permitted to Jove is not permitted to the ox.</p>
@@ -11742,7 +11745,7 @@ For taking dollars all the same.</p>
 <p>No pen in the world, no typewriter in the world, can put onto paper the disgust that comes over me whenever I hear the word “Nobél laureate.”</p>
 <p>Poor Nobel’s bad conscience—the honestly bad conscience of a desperate, lonely inventor of explosives and ecrasite—has been dressed up institutionally as comfortable posts and grants for people like Thomas Mann and Hermann Hesse:</p>
 <p>plush-upholstered products churned out by a cottage industry.</p>
-<p data-journal-date="1952-04-02"><strong>2 April 1952</strong></p>
+<p id="gloss-book-iv-date-1952-04" data-journal-date="1952-04-02"><strong>2 April 1952</strong></p>
 <p>This is about multiplying nature through history;</p>
 <p>Then suddenly they trip me up:
 Through natural history.
@@ -11849,7 +11852,7 @@ Get out of here; on the other.</p>
 <p>(<em>Discourse on Inequality</em>, near the end.)</p>
 <p>“What a spectacle for a Carib: the blather of such a sophist!”</p>
 <p>(Written in Hamburg on 1 May 1952, in the copy of the <em>Discourse</em> that I gave to Hans P. Ipsen.)</p>
-<p data-journal-date="1952-05-03"><strong>3 May 1952</strong></p>
+<p id="gloss-book-iv-date-1952-05" data-journal-date="1952-05-03"><strong>3 May 1952</strong></p>
 <p>Paul Adams wrote in response to the letter sent in February 1952 by Rabbi Jacob Taubes in Jerusalem.</p>
 <p>Taubes had reported that Jewish soldiers, acting on orders from the Minister of Justice of the State of Israel, had retrieved my <em>Constitutional Theory</em> from Mount Scopus.</p>
 <p>Adams wrote:</p>
@@ -11917,7 +11920,7 @@ To see it rise into the sky.<sup class="note-ref" id="en-note-ref-477-1"><a aria
 <p>Let us remember that for the coming Schiller Year of 1959.</p>
 <p>After the millions embrace
 Come the explosions.</p>
-<p data-journal-date="1952-06-11"><strong>11 June 1952</strong></p>
+<p id="gloss-book-iv-date-1952-06" data-journal-date="1952-06-11"><strong>11 June 1952</strong></p>
 <p>Human hunger can never be satisfied.</p>
 <p>Human beings also suffer from future hunger.</p>
 <p>This human being is <em>fame futura famelicus</em>: hungry from hunger that has not yet arrived.</p>
@@ -11988,7 +11991,7 @@ All I can do is snicker.</p>
 You are figures without light or shadow
 And need nothing further but laws.</p>
 <p>(<em>Konradin</em>, Act 3, Scene 2)</p>
-<p data-journal-date="1952-07-03"><strong>3 July 1952</strong></p>
+<p id="gloss-book-iv-date-1952-07" data-journal-date="1952-07-03"><strong>3 July 1952</strong></p>
 <p>A good conscience makes a soft pillow.</p>
 <p>Surely we are still allowed to quote that.</p>
 <p>Even the censorship of the 1945 liberators would permit it.</p>
@@ -12133,7 +12136,7 @@ I am the king of Iserlohn.</p>
 <p>of historicism;</p>
 <p>of Jüngerism;</p>
 <p>of printed <em>Radiations</em>.</p>
-<p data-journal-date="1952-08-05"><strong>5 August 1952</strong></p>
+<p id="gloss-book-iv-date-1952-08" data-journal-date="1952-08-05"><strong>5 August 1952</strong></p>
 <p>The just enemy—</p>
 <p>how could such a thing still exist?</p>
 <p>There are only “righteous comb-makers” now.</p>
@@ -12157,7 +12160,7 @@ Smashes him straight in the face.</p>
 <p>For me there can be no come-back, if only because I do not step into the same river twice, and certainly not into the same sewer twice.</p>
 <p>But there is something else. There is a deeper understanding of the opposition between friend and enemy.</p>
 <p>And there is the seventh consulship of the old Marius.</p>
-<p data-journal-date="1952-09-11"><strong>11 September 1952</strong></p>
+<p id="gloss-book-iv-date-1952-09" data-journal-date="1952-09-11"><strong>11 September 1952</strong></p>
 <p>The exhausted age, <em>il tempo esaurito</em>; the exhausted tonality; the exhausted legal process, with every remedy used up—and then, on top of all that, the poor exhausted human being who is expected to endure all these different kinds of exhaustion.</p>
 <p data-journal-date="1952-09-13"><strong>13 September 1952</strong></p>
 <p>Criminalizations. Examples:<sup class="note-ref" id="en-note-ref-480-1"><a aria-label="Note 1" href="#en-note-fn-p16-pdf01-n01">1</a></sup></p>
@@ -12244,7 +12247,7 @@ Smashes him straight in the face.</p>
 <p data-journal-date="1952-09-30"><strong>30 September 1952</strong></p>
 <p>On <em>Godenholm</em>:</p>
 <p>Why do they all suddenly want to become alternative healers?</p>
-<p data-journal-date="1952-10-05"><strong>5 October 1952</strong></p>
+<p id="gloss-book-iv-date-1952-10" data-journal-date="1952-10-05"><strong>5 October 1952</strong></p>
 <p>Symbols for the position of the intelligentsia:</p>
 <ol>
 <li>In Hobbes, <em>De Cive</em>, X § 3, annotation:</li>
@@ -12266,7 +12269,7 @@ Smashes him straight in the face.</p>
 <p>Authorized, not motorized.</p>
 <p>Motorized, not authorized.</p>
 <p>Driven, not called.</p>
-<p data-journal-date="1952-11-05"><strong>5 November 1952</strong></p>
+<p id="gloss-book-iv-date-1952-11" data-journal-date="1952-11-05"><strong>5 November 1952</strong></p>
 <p>Me:</p>
 <p>A German professor of law who for seven years has been deprived of his position and livelihood without any legal proceeding whatsoever, without even the <shadow a="" of="" proceeding="">.<sup class="note-ref" id="en-note-ref-491-1"><a aria-label="Note 1" href="#en-note-fn-p16-pdf04-n01">1</a></sup></shadow></p>
 <p>A German professor of law thrown out onto the street.</p>
@@ -12345,7 +12348,7 @@ until a word, clinging tightly around me, carries me away like seed.</p>
 <p>And remember this for the coming politics of the Federal Republic:</p>
 <p>Böhm of the three and a half billion
 is pleasing to the Jews.</p>
-<p data-journal-date="1952-12-11"><strong>11 December 1952</strong></p>
+<p id="gloss-book-iv-date-1952-12" data-journal-date="1952-12-11"><strong>11 December 1952</strong></p>
 <p>Another self-definition.</p>
 <p>During a conversation with Michael Thomas in Düsseldorf, at the Breidenbacher Hof, Palette, two in the morning:</p>
 <p>Lilian Winstanley admires German objectivity because I rescued her book on <em>Hamlet</em> from oblivion and restored it to honour.</p>
@@ -12366,7 +12369,7 @@ is pleasing to the Jews.</p>
 <p>Gentlemen of the clergy!</p>
 <p>Repent and give the chalice back to the laity!</p>
 <p>In return, we will give you back your total questionnaire.</p>
-<p data-journal-date="1953-01-07"><strong>7 January 1953</strong></p>
+<p id="gloss-book-iv-date-1953-01" data-journal-date="1953-01-07"><strong>7 January 1953</strong></p>
 <p>Which commentator or interpreter of <em>Faust</em> has ever noticed that the line</p>
 <blockquote>
 <p>An actor could teach a priest</p>
@@ -12385,7 +12388,7 @@ Who protects me while I sleep?</p>
 <p>The abstract separates.</p>
 <p>The concrete unites.</p>
 <p>The concrete is the sum of the bonds people enter into with one another.</p>
-<p data-journal-date="1953-02-01"><strong>1 February 1953</strong></p>
+<p id="gloss-book-iv-date-1953-02" data-journal-date="1953-02-01"><strong>1 February 1953</strong></p>
 <p>An important parallel to my own legal thinking, which begins from the exceptional situation—and an illustration of my own fate:</p>
 <p>Keynes.</p>
 <p>Keynes constructs economics from an exceptional situation, namely a shortage of demand. He begins with <strong>spending</strong>, instead of beginning with saving and production.</p>
@@ -12473,7 +12476,7 @@ the very bottom!</p>
 <p>“Compare p. 44 [= newspaper clipping p. 274].</p>
 <p>The problem of <em>error in persona</em>—mistaken identity—as grounds for invalidity.”</p>
 <figure class="facsimile" data-facsimile="37" data-printed-page="296"><button aria-label="Enlarge Facsimile · printed page 296" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 296" data-facsimile-src="facsimiles/P16_source-312_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 296" decoding="async" loading="lazy" src="facsimiles/P16_source-312_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 296</figcaption></figure>
-<p data-journal-date="1953-03-22"><strong>22 March 1953</strong></p>
+<p id="gloss-book-iv-date-1953-03" data-journal-date="1953-03-22"><strong>22 March 1953</strong></p>
 <p>The invisible order is stronger and deeper than the visible one.</p>
 <p>Heraclitus says this, and in doing so strikes directly at the claim made by the visible Church.</p>
 <p>Yet this very same visible Church describes the power it claims as an <strong>indirect power</strong>, a <em>potestas indirecta</em>.</p>
@@ -12484,14 +12487,14 @@ the very bottom!</p>
 <p><em>Le secret de l’église catholique—c’est qu’il n’y a pas de pouvoir indirect.</em></p>
 <p>The secret of the Catholic Church is that there is no such thing as indirect power.</p>
 <p>Can this strange combination of visibility and indirectness still be held together by the old formula of a <em>complexio oppositorum</em>—a union of opposites?</p>
-<p data-journal-date="1953-04-10"><strong>10 April 1953</strong></p>
+<p id="gloss-book-iv-date-1953-04" data-journal-date="1953-04-10"><strong>10 April 1953</strong></p>
 <p>You betrayed the Word.</p>
 <p>You betrayed Scripture.</p>
 <p>You betrayed the wine—by taking the chalice away from the laity.</p>
 <p>And now you are surprised that all of it, under the banner of <strong>Democracy</strong>, has you by the throat?</p>
 <p>Luther, Hamann, Bruno Bauer
 turned your wine unbearably sour.</p>
-<p data-journal-date="1953-05-20"><strong>20 May 1953</strong></p>
+<p id="gloss-book-iv-date-1953-05" data-journal-date="1953-05-20"><strong>20 May 1953</strong></p>
 <p>What, after all, is nihilism?</p>
 <p>When a human being travels at more than forty kilometres an hour, gentlemen:</p>
 <p>that is nihilism.</p>
@@ -12501,7 +12504,7 @@ turned your wine unbearably sour.</p>
 <p>Jean Bodin’s advice:</p>
 <p>Never challenge the fury of the people.</p>
 <p>(&lt;…&gt; p. XIX.)</p>
-<p data-journal-date="1953-06-10"><strong>10 June 1953</strong></p>
+<p id="gloss-book-iv-date-1953-06" data-journal-date="1953-06-10"><strong>10 June 1953</strong></p>
 <figure class="facsimile" data-facsimile="38" data-printed-page="297"><button aria-label="Enlarge Facsimile · printed page 297" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 297" data-facsimile-src="facsimiles/P16_source-313_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 297" decoding="async" loading="lazy" src="facsimiles/P16_source-313_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 297</figcaption></figure>
 <p>What is law?</p>
 <p>(What is God?</p>
@@ -12536,7 +12539,7 @@ turned your wine unbearably sour.</p>
 <p>I have neither been standardized into a professional validity-enforcer nor infiltrated by natural law.</p>
 <p>I am neither a full enforcer nor an empty one.</p>
 <figure class="facsimile" data-facsimile="39" data-printed-page="298"><button aria-label="Enlarge Facsimile · printed page 298" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 298" data-facsimile-src="facsimiles/P16_source-314_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 298" decoding="async" loading="lazy" src="facsimiles/P16_source-314_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 298</figcaption></figure>
-<p data-journal-date="1953-07-17"><strong>17 July 1953</strong></p>
+<p id="gloss-book-iv-date-1953-07" data-journal-date="1953-07-17"><strong>17 July 1953</strong></p>
 <p>I have no insurance of any kind.</p>
 <p>I would regard it as an insult to the great universal insurer—the “welfare state”—if I were to permit myself any additional insurance.</p>
 <p>I am legal.</p>
@@ -12618,7 +12621,7 @@ I’ll join the Foreign Legion.</p>
 <p>(Reference to Gueydan’s essay.)</p>
 <p>Therefore:</p>
 <p><em>Homo homini Radbruch.</em></p>
-<p data-journal-date="1953-08-05"><strong>5 August 1953</strong></p>
+<p id="gloss-book-iv-date-1953-08" data-journal-date="1953-08-05"><strong>5 August 1953</strong></p>
 <p>Consult the oracles of your senses!</p>
 <p>That is advice, and itself an oracle.</p>
 <p>And it comes not from Nietzsche, but from Francis Bacon.</p>
@@ -12701,7 +12704,7 @@ And to man, everything is man.</p>
 <p>That is my Christianity.</p>
 <p>Psalm 40:6.</p>
 <p>Augustine, <em>The City of God</em>, XVII.18.</p>
-<p data-journal-date="1953-09-03"><strong>3 September 1953</strong></p>
+<p id="gloss-book-iv-date-1953-09" data-journal-date="1953-09-03"><strong>3 September 1953</strong></p>
 <p>The social administrative state turns the private citizen into an official of its own administration.</p>
 <p>It does this by simply taking it for granted that private citizens can be put to work carrying out administrative tasks.</p>
 <p>It began long ago with sticking contribution stamps into social-insurance books, and with the deductions employers were required to make from wages.</p>
@@ -12820,7 +12823,7 @@ and time slipped away.</p>
 <p>After all, what he is doing is <strong>education</strong>.</p>
 <p><em>The Education of Henry Adams.</em></p>
 <p><em>The Re-education of Carl Schmitt.</em></p>
-<p data-journal-date="1953-10-21"><strong>21 October 1953</strong></p>
+<p id="gloss-book-iv-date-1953-10" data-journal-date="1953-10-21"><strong>21 October 1953</strong></p>
 <p>Eternal recurrence.</p>
 <p>The eternal cycle.</p>
 <p>And then Christianity as the disruption of the cycle.</p>
@@ -12862,7 +12865,7 @@ and time slipped away.</p>
 <p>On the Jürgen Habermas campaign against Heidegger in the summer of 1953:<sup class="note-ref" id="en-note-ref-507-1"><a aria-label="Note 1" href="#en-note-fn-p17-pdf01-n01">1</a></sup> Theodor Wiesengrund Adorno’s <em>Minima Moralia</em><sup class="note-ref" id="en-note-ref-508-1"><a aria-label="Note 2" href="#en-note-fn-p17-pdf01-n02">2</a></sup> says, word for word, on p. 365 (the passage dates from 1935):</p>
 <p>“If the bourgeois class has, since time immemorial, cherished the dream of a savage <em>Volksgemeinschaft</em>—a community in which everyone suppresses everyone else—then children already bearing first names like Horst and Jürgen, and surnames like Bergenroth, Bojunga, and Eckhardt, acted out (sic) that dream before the adults were historically mature enough to make it a reality.”</p>
 <p>Bravo! And Jürgen Habermas was the given, predestined name for the Haberfeld-style public shaming campaign against Martin Heidegger.</p>
-<p data-journal-date="1953-12-09"><strong>9 December 1953</strong></p>
+<p id="gloss-book-iv-date-1953-12" data-journal-date="1953-12-09"><strong>9 December 1953</strong></p>
 <p>(On Petwaidic and Bourdin): The elite are those whose sociology no one dares to write.</p>
 <p data-journal-date="1953-12-22"><strong>22 December 1953</strong></p>
 <p>A fine subject: the relationship between the French Revolution and the Industrial Revolution (compare Lorenz von Stein’s remark), understood as the historical opposition between land and sea.</p>
@@ -12876,7 +12879,7 @@ and time slipped away.</p>
 <p>Carry your uncomprehended heart to the dead!</p>
 <p>Stop letting yourself be invited, only to be uninvited again. Stop letting yourself be spat on by windbag intellectuals like Moritz Bonn, and recognize your own Νόμος—your own <em>Nomos</em>!</p>
 <p>End of the year 1953.</p>
-<p data-journal-date="1954-03-12"><strong>12 March 1954</strong></p>
+<p id="gloss-book-iv-date-1954-03" data-journal-date="1954-03-12"><strong>12 March 1954</strong></p>
 <p>God is dead. That means: he is no longer present; he is absent.</p>
 <p>There is no God other than the God who is present—the <em>tutela praesens</em>, the protection that is here with us.<sup class="note-ref" id="en-note-ref-511-1"><a aria-label="Note 5" href="#en-note-fn-p17-pdf01-n05">5</a></sup></p>
 <p>He no longer speaks either.</p>
@@ -12925,12 +12928,12 @@ I shall hold fast to these beautiful remnants.</p>
 <p>“1) Encyclical 1930: &lt;…&gt; <em>quod Norma renegatur et rejiciatur!!</em>—that the norm is denied and rejected!! Cause: energy, energy of the box. 2) p. 44; the Pope on situation ethics, [(]25 April 1952); 3) 1 June 1954: <em>laicus taceat in et extra ecclesiam nisi acclamat ordinario competenti</em>—the layman must be silent both inside and outside the Church unless he is applauding the competent Ordinary.”</p>
 <p>Written below:</p>
 <p>“A reasonable compromise: <em>laicus taceat in ecclesia, clericus taceat extra ecclesiam</em>—let the layman keep silent inside the Church, and the cleric keep silent outside it.”</p>
-<p data-journal-date="1954-06-09"><strong>9 June 1954</strong></p>
+<p id="gloss-book-iv-date-1954-06" data-journal-date="1954-06-09"><strong>9 June 1954</strong></p>
 <p>The age of limitless compatibility is followed by the age of limitless convertibility.</p>
 <p>The convert, Herr Hausenstein, as the prototype of German Catholicism: <em>taceat extra ecclesiam</em>—let him keep silent outside the Church.</p>
 <p><em>Treason of the Intellectuals</em>: they recommend mescaline instead of wine. That tells us exactly where they stand. Compare:</p>
 <p><strong>15 March 1954 and 16 March 1954 (Aldous Huxley).</strong></p>
-<p data-journal-date="1954-07-09"><strong>9 July 1954</strong></p>
+<p id="gloss-book-iv-date-1954-07" data-journal-date="1954-07-09"><strong>9 July 1954</strong></p>
 <p>Progress.</p>
 <p><em>I have entrusted my cause to God</em>; Lutheran hymn (used by Schütz for a set of chorale variations, 1624).</p>
 <p><em>I have based my cause on Nothing</em> (Goethe’s answer, eighteenth century).</p>
@@ -12962,7 +12965,7 @@ I shall hold fast to these beautiful remnants.</p>
 <p data-journal-date="1954-07-30"><strong>30 July 1954</strong></p>
 <p>Why should the name “Israel” in the Psalms bother us during Christian worship?</p>
 <p>The “Fiat” in the <em>Paternoster</em> does not bother us either!</p>
-<p data-journal-date="1954-08-01"><strong>1 August 1954</strong></p>
+<p id="gloss-book-iv-date-1954-08" data-journal-date="1954-08-01"><strong>1 August 1954</strong></p>
 <p>To one particular persecutor of mine, whom I believe to be honest:</p>
 <p>Why are you persecuting me?</p>
 <p>My situation is very close to yours.</p>
@@ -12984,7 +12987,7 @@ I shall hold fast to these beautiful remnants.</p>
 <p>Yes. But today something else is much more relevant:</p>
 <p><em>Un criminel trouve toujours un plus criminel, qui le justifie.</em></p>
 <p>A criminal always finds a greater criminal who justifies him.</p>
-<p data-journal-date="1954-09-12"><strong>12 September 1954</strong></p>
+<p id="gloss-book-iv-date-1954-09" data-journal-date="1954-09-12"><strong>12 September 1954</strong></p>
 <p>The meaning of every answer depends on the question.</p>
 <p>And the question posed by Germany’s situation in the spring of 1933 was correctly raised and correctly formulated only by Konrad Weiß.</p>
 <p>You can find it in <em>Der christliche Epimetheus</em>, p. 92.</p>
@@ -12995,7 +12998,7 @@ I shall hold fast to these beautiful remnants.</p>
 <p>My situation and my fate are now completely clear to me.</p>
 <p>Compared with all the professors and lecturers beside whom I taught from a German university chair for thirty years—jurists, theologians, philosophers, and historians alike—I possess something historically additional, something more.</p>
 <p>I owe it to my blind forerunners, and I must neither lose it nor deny it.</p>
-<p data-journal-date="1954-11-01"><strong>1 November 1954</strong></p>
+<p id="gloss-book-iv-date-1954-11" data-journal-date="1954-11-01"><strong>1 November 1954</strong></p>
 <p>In truth, it is an undeserved piece of good fortune that throughout all these years since Germany’s downfall I have no longer been allowed to practice my profession as a teacher of constitutional law.</p>
 <p>Teaching constitutional law in a state that is not sovereign—or, worse still, in a pseudo-sovereign state—can certainly be financially rewarding, rather like the life of a worm inside rotten wood.</p>
 <p>But morally it is completely destructive.</p>
@@ -13005,7 +13008,7 @@ I shall hold fast to these beautiful remnants.</p>
 <p>Who are you?</p>
 <p>I read in a diary entry from 3 February 1941:</p>
 <p>I am poor Benito Cereno.<sup class="note-ref" id="en-note-ref-516-1"><a aria-label="Note 1" href="#en-note-fn-p17-pdf06-n01">1</a></sup></p>
-<p data-journal-date="1954-12-04"><strong>4 December 1954</strong></p>
+<p id="gloss-book-iv-date-1954-12" data-journal-date="1954-12-04"><strong>4 December 1954</strong></p>
 <p>I am the non-convert in the age of unlimited convertibility.</p>
 <p>I am the incompatible one.</p>
 <p>He doubts the &lt;Jews’&gt; <work>.<sup class="note-ref" id="en-note-ref-517-1"><a aria-label="Note 2" href="#en-note-fn-p17-pdf06-n02">2</a></sup></work></p>
@@ -13022,7 +13025,7 @@ I shall hold fast to these beautiful remnants.</p>
 <p>End of the year 1954.</p>
 <p>Desecration and slaughter by Carl Linfert on NWDR (22 November 1954).</p>
 <p><em>Memor approbii.</em></p>
-<p data-journal-date="1955-01-11"><strong>11 January 1955</strong></p>
+<p id="gloss-book-iv-date-1955-01" data-journal-date="1955-01-11"><strong>11 January 1955</strong></p>
 <p>I can now see the source of the hatred that pursues me and wants to destroy me.</p>
 <p>Why do they persecute me, and why do they want to destroy me?</p>
 <p>I can tell you:</p>
@@ -13056,13 +13059,13 @@ I shall hold fast to these beautiful remnants.</p>
 <p><em>Quid timidi estis! Et facta est tranquillitas magna.</em></p>
 <p>Why are you afraid?</p>
 <p>And there was a great calm.<sup class="note-ref" id="en-note-ref-518-1"><a aria-label="Note 1" href="#en-note-fn-p17-pdf07-n01">1</a></sup></p>
-<p data-journal-date="1955-02-14"><strong>14 February 1955</strong></p>
+<p id="gloss-book-iv-date-1955-02" data-journal-date="1955-02-14"><strong>14 February 1955</strong></p>
 <p>Nothing but world-historical progress:</p>
 <p>from (Father of Gymnastics) Jahn
 to (Brother in Camouflage) John;
 from (terrorist) Nero
 to (pacifist) Nehru;<sup class="note-ref" id="en-note-ref-519-1"><a aria-label="Note 2" href="#en-note-fn-p17-pdf07-n02">2</a></sup></p>
-<p data-journal-date="1955-03-15"><strong>15 March 1955</strong></p>
+<p id="gloss-book-iv-date-1955-03" data-journal-date="1955-03-15"><strong>15 March 1955</strong></p>
 <p>At this they look at one another and grin,
 Thomas’s wife and Thomas Mann,
 and collect their prizes,
@@ -13102,7 +13105,7 @@ all serve equally well.</p>
 <p>Clearly some secret curse is driving him toward the abyss.</p>
 <p><em>Qui vivra, verra.</em></p>
 <p>Whoever lives will see.</p>
-<p data-journal-date="1955-04-03"><strong>3 April 1955</strong></p>
+<p id="gloss-book-iv-date-1955-04" data-journal-date="1955-04-03"><strong>3 April 1955</strong></p>
 <p>The three intellectuals raised into mythical figures:</p>
 <p>Hamlet, Don Quixote, and Faust.</p>
 <p>Three bookworms, three compulsive readers, three products of the art of printing.</p>
@@ -13207,7 +13210,7 @@ all serve equally well.</p>
 <p>Which means:</p>
 <p>equal = levelled.</p>
 <p>equal = brought into line.</p>
-<p data-journal-date="1955-05-04"><strong>4 May 1955</strong></p>
+<p id="gloss-book-iv-date-1955-05" data-journal-date="1955-05-04"><strong>4 May 1955</strong></p>
 <p>“The interim is mine”!</p>
 <p>Who says that?</p>
 <p>I do.</p>
@@ -13250,7 +13253,7 @@ compared with
 the cunning of lust.<sup class="note-ref" id="en-note-ref-531-1"><a aria-label="Note 1" href="#en-note-fn-p17-pdf12-n01">1</a></sup></p>
 <p>Outwit it!</p>
 <p>(On this, 1 John: “Desire conceives and gives birth to sin.”)</p>
-<p data-journal-date="1955-06-01"><strong>1 June 1955</strong></p>
+<p id="gloss-book-iv-date-1955-06" data-journal-date="1955-06-01"><strong>1 June 1955</strong></p>
 <p><em>Le microbe n’est rien, le terrain est tout.</em></p>
 <p>The microbe is nothing; the terrain is everything.</p>
 <p>That saying of the great Pasteur, a man completely above suspicion, is already almost geopolitics.</p>
@@ -13333,7 +13336,7 @@ the cunning of lust.<sup class="note-ref" id="en-note-ref-531-1"><a aria-label="
 </ol>
 <p>the wild-boar thief as overthrower of ministers.</p>
 <p>(The whole thing: a guaranteed, risk-free way of satisfying society’s accumulated demand for displays of civil courage.)</p>
-<p data-journal-date="1955-07-06"><strong>6 July 1955</strong></p>
+<p id="gloss-book-iv-date-1955-07" data-journal-date="1955-07-06"><strong>6 July 1955</strong></p>
 <p><em>Magnus homo / magno homini</em>: magnus homo.
 Great man to great man: great man.</p>
 <p><em>Magnus homo / parvo homini</em>: Deus.
@@ -13356,7 +13359,7 @@ Small man to small man: man.</p>
 <p>Or at least three thousand five hundred?</p>
 <p>Four-thousandfold resistance to authority.</p>
 <p>What an enormous success for re-education!</p>
-<p data-journal-date="1955-08-05"><strong>5 August 1955</strong></p>
+<p id="gloss-book-iv-date-1955-08" data-journal-date="1955-08-05"><strong>5 August 1955</strong></p>
 <p>And behold:</p>
 <p>there is also a <em>Mensch-Nahme</em>—a taking of man!</p>
 <p>A man takes a woman, and she knows him.</p>
@@ -13425,7 +13428,7 @@ Small man to small man: man.</p>
 <p>Horrible to imagine that—or to picture it.</p>
 <p>But perhaps the will to eternity that Nietzsche places inside desire is precisely this conception of sin.</p>
 <p>Just as it is not power itself but the <strong>will to power</strong> that is sinful.</p>
-<p data-journal-date="1955-09-01"><strong>1 September 1955</strong></p>
+<p id="gloss-book-iv-date-1955-09" data-journal-date="1955-09-01"><strong>1 September 1955</strong></p>
 <figure class="facsimile" data-facsimile="44" data-printed-page="320"><button aria-label="Enlarge Facsimile · printed page 320" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 320" data-facsimile-src="facsimiles/P17_source-336_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 320" decoding="async" loading="lazy" src="facsimiles/P17_source-336_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 320</figcaption></figure>
 <p>Michel Mourre, <em>Lamennais</em>, p. 141:</p>
 <p>“Féli, you must surrender! You know it perfectly well, Féli. ‘Society’ means, first of all, your failing bookselling business; it means your creditors …” (p. 172).</p>
@@ -13495,7 +13498,7 @@ He sharpens the ritual-murder knife.</p>
 <p>A whole people of converts.</p>
 <p>From <em>Storm of Steel</em> to the tourist trip.</p>
 <p>From the false taking of land to the true one.</p>
-<p data-journal-date="1955-10-04"><strong>4 October 1955</strong></p>
+<p id="gloss-book-iv-date-1955-10" data-journal-date="1955-10-04"><strong>4 October 1955</strong></p>
 <p>“Property entails obligations.”</p>
 <p>Today this is a cynical justification for destroying and crushing the old form of private property.</p>
 <p>Good old Konrad Beyerle officiously introduced it into Article 153 of the Weimar Constitution.</p>
@@ -13554,7 +13557,7 @@ He sharpens the ritual-murder knife.</p>
 <p>And whatever counts as un-spirit has only itself to blame.</p>
 <nav class="chapter-pager" aria-label="Section navigation"><a class="pager-link prev" href="#gloss-book-iii"><span>Previous</span><strong>Book III · 1949–1951</strong></a><a class="pager-link next" href="#gloss-book-v"><span>Next</span><strong>Book V · 1955–1958</strong></a></nav></section><section class="book-section major-section" id="gloss-book-v" data-key="book-v" data-title="Book V · 1955–1958"><h1 id="en-book-v-book-v">Book V</h1>
 <p><strong>14 October 1955 – 31 December 1958</strong></p>
-<p data-journal-date="1955-10-14"><strong>14 October 1955</strong></p>
+<p id="gloss-book-v-date-1955-10" data-journal-date="1955-10-14"><strong>14 October 1955</strong></p>
 <p>I am too old and too beaten down—too badly beaten down by character assassins and by people who abort everything before it can bear fruit. Otherwise I would have to begin, even today, a book on Hegel’s Marianism and that of Konrad Weiß. I would begin with the passage near the end of the <em>Phenomenology of Spirit</em> where Hegel says that the individual divine man has a Father who exists only in himself, but only one actual, real Mother.<sup class="note-ref" id="en-note-ref-540-1"><a aria-label="Note 1" href="#en-note-fn-p18-pdf03-n01">1</a></sup></p>
 <p>The Good Friday of Spirit in Hegel and the Mount of Olives of world history in Konrad Weiß are pivotal points that no one can possess. But only the Mother is historically real: she actually gave birth to the divine child.</p>
 <p>God is dead. The God-man is dead.</p>
@@ -13643,7 +13646,7 @@ He sharpens the ritual-murder knife.</p>
 <p>Who is so stupid he cannot see the fraud?
 And who so bold as to say that he sees it?</p>
 <p>Again and again I have fallen for the fraud.</p>
-<p data-journal-date="1955-11-05"><strong>5 November 1955</strong></p>
+<p id="gloss-book-v-date-1955-11" data-journal-date="1955-11-05"><strong>5 November 1955</strong></p>
 <p>Schiller’s Marianism is a subject that could be treated together with Hegel’s Marianism.</p>
 <p>The outburst of the exposed traitor Mortimer in <em>Mary Stuart</em>, Act IV, Scene 4, at the end—</p>
 <p>“Mary, holy one, pray for me”—</p>
@@ -13932,7 +13935,7 @@ Begin—blindly hurling beasts—to disappear.</p>
 <p>the King <em>plays</em> the flute.</p>
 <p>Then, as everyone is made equal to the King and the universal priesthood spreads, every instrument comes to be “played.”</p>
 <p>Singing, however, remains singing and is not called playing.</p>
-<p data-journal-date="1955-12-06"><strong>6 December 1955</strong></p>
+<p id="gloss-book-v-date-1955-12" data-journal-date="1955-12-06"><strong>6 December 1955</strong></p>
 <p>To give a name: that is a giving contained within genuine taking, and it is this giving that distinguishes <em>Nahme</em>—taking understood as a constituting act—from mere grabbing, robbing, and devouring.<sup class="note-ref" id="en-note-ref-545-1"><a aria-label="Note 1" href="#en-note-fn-p18-pdf12-n01">1</a></sup></p>
 <p>Whoever gives a name also grants a right by doing so—indeed, grants what today we call personhood and personality.</p>
 <p>Even legal persons must have a name.</p>
@@ -14011,7 +14014,7 @@ Begin—blindly hurling beasts—to disappear.</p>
 <p>Outside Germany it is difficult.</p>
 <p>And for that they need Germany again.</p>
 <p>Hence this compulsion.<sup class="note-ref" id="en-note-ref-548-1"><a aria-label="Note 2" href="#en-note-fn-p18-pdf13-n02">2</a></sup></p>
-<p data-journal-date="1956-01-04"><strong>4 January 1956</strong></p>
+<p id="gloss-book-v-date-1956-01" data-journal-date="1956-01-04"><strong>4 January 1956</strong></p>
 <p>The first greeting of the New Year was <em>miching mallecho</em>: a radio talk by Hermann Heimpel on NWDR calling on us to repent and make reparations, and warning us not to forget that we are criminals while the others, who are entitled to compensation, are the victims of our crimes.</p>
 <p>A quotation from [Franz] Böhm revealed the heart of the matter.</p>
 <p>Keep stirring up our sense of guilt, and paying will become easier for us!</p>
@@ -14074,7 +14077,7 @@ And everyone will think the same.</p>
 <p>Left: <em>FAZ</em>, 22 November 1955.</p>
 <p>To the right of the right-hand clipping:</p>
 <p>“I thought: against every.”</p>
-<p data-journal-date="1956-02-01"><strong>1 February 1956</strong></p>
+<p id="gloss-book-v-date-1956-02" data-journal-date="1956-02-01"><strong>1 February 1956</strong></p>
 <figure class="facsimile" data-facsimile="46" data-printed-page="338"><button aria-label="Enlarge Facsimile · printed page 338" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 338" data-facsimile-src="facsimiles/P18_source-354_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 338" decoding="async" loading="lazy" src="facsimiles/P18_source-354_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 338</figcaption></figure>
 <p>And here, ladies and gentlemen, you have one-hundred-percent <em>potestas indirecta</em>, indirect power, to which nothing can ever happen because it will certainly end up on the side of the victor, no matter what that victor looks like.</p>
 <p>For the Christian-social ideal is the victorious war won by other people, after which one joins the victor.</p>
@@ -14230,7 +14233,7 @@ Strike the reader to the core.</p>
 <p>In the age of interrogations and of everything being called into question.</p>
 <p>I am the polyglot who understands Polyphemus and no longer cares to make himself understandable—that is, understandable enough to be heard, interrogated, and finally taken in and appropriated.</p>
 <figure class="facsimile" data-facsimile="47" data-printed-page="342"><button aria-label="Enlarge Facsimile · printed page 342" class="facsimile-zoom" data-facsimile-caption="Facsimile · printed page 342" data-facsimile-src="facsimiles/P18_source-358_facsimile-01.jpeg" type="button"><img alt="Facsimile · printed page 342" decoding="async" loading="lazy" src="facsimiles/P18_source-358_facsimile-01.jpeg"/></button><figcaption>Facsimile · printed page 342</figcaption></figure>
-<p data-journal-date="1956-03-01"><strong>1 March 1956</strong></p>
+<p id="gloss-book-v-date-1956-03" data-journal-date="1956-03-01"><strong>1 March 1956</strong></p>
 <p>Three premiums, three premiums, I planted upon my grave.</p>
 <p>They are the three premiums attached to the legal possession of power:</p>
 <p><em>obéissance préalable</em>—obedience in advance;</p>
@@ -14384,7 +14387,7 @@ Strike the reader to the core.</p>
 <p>The only thing I inherit is my own body.</p>
 <p>But who did you inherit it from?</p>
 <p>In the age of fertilization at a distance.</p>
-<p data-journal-date="1956-04-04"><strong>4 April 1956</strong></p>
+<p id="gloss-book-v-date-1956-04" data-journal-date="1956-04-04"><strong>4 April 1956</strong></p>
 <p>Who are you?</p>
 <p>I am a layman in whom the millions of cartloads of wine are still fermenting that the Roman priests took away from the laity.</p>
 <p data-journal-date="1956-04-05"><strong>5 April 1956</strong></p>
@@ -14429,7 +14432,7 @@ Strike the reader to the core.</p>
 <p>The result:</p>
 <p>coexistence of the two asceticisms.</p>
 <p>The development of technology seems to be working in favor of property asceticism—against private property—and against sexual asceticism, which is becoming ridiculous and uninteresting.</p>
-<p data-journal-date="1956-05-06"><strong>6 May 1956</strong></p>
+<p id="gloss-book-v-date-1956-05" data-journal-date="1956-05-06"><strong>6 May 1956</strong></p>
 <p>How sad and hopeless it is to put one more note on paper while knowing that nobody has any time left to read or think about anything.</p>
 <p>How strange:</p>
 <p>ever since human beings invented machines to save time, they have had no time.</p>
@@ -14533,7 +14536,7 @@ Strike the reader to the core.</p>
 <p>Fulfills his quota.
 Quota-fills his full.
 And gets a professorship for it.<sup class="note-ref" id="en-note-ref-565-1"><a aria-label="Note 1" href="#en-note-fn-p19-pdf04-n01">1</a></sup></p>
-<p data-journal-date="1956-06-07"><strong>7 June 1956</strong></p>
+<p id="gloss-book-v-date-1956-06" data-journal-date="1956-06-07"><strong>7 June 1956</strong></p>
 <p>Everything is really so terribly simple.</p>
 <p>Whenever you run into some enormous difficulty, whenever something absolutely horrible does not suit you, simply become moral.</p>
 <p>Become highly moral.</p>
@@ -14564,7 +14567,7 @@ And gets a professorship for it.<sup class="note-ref" id="en-note-ref-565-1"><a 
 <p>And your <strong>taking</strong> is then recognized as good and just.</p>
 <p>You may enjoy what you have taken in complete security.</p>
 <p>So make sure that you are in the right, so that things may go well for you and you may live long upon the earth.</p>
-<p data-journal-date="1956-07-06"><strong>6 July 1956</strong></p>
+<p id="gloss-book-v-date-1956-07" data-journal-date="1956-07-06"><strong>6 July 1956</strong></p>
 <p>My copy of Leo Strauss’s book on Spinoza (1930) has recently fallen into the hands of Karl Löwith.</p>
 <p>He threw himself on it like a persecutor finding a trail, like a detective discovering the evidence of a crime, like a fortune hunter finding a will written in his favor.</p>
 <p>But I can think only of the strange destinies of books and of individual copies of books.</p>
@@ -14639,7 +14642,7 @@ Am I myself—or merely a sign?</p>
 <p>The Order flourishes.</p>
 <p>The brotherhood remains—impossible to exterminate.</p>
 <p>No massacre of the children of Bethlehem, no gassing operation, no Katyn, no Hiroshima bomb, no Morgenthau Plan, and no invention by Nobel Prize winners can destroy us.</p>
-<p data-journal-date="1956-08-05"><strong>5 August 1956</strong></p>
+<p id="gloss-book-v-date-1956-08" data-journal-date="1956-08-05"><strong>5 August 1956</strong></p>
 <p>A beautiful parallel:</p>
 <p>Shylock stands to Nathan the Wise as Caliban stands to Papageno.</p>
 <p>This is an example of a whole series of parallels = implications.</p>
@@ -14719,7 +14722,7 @@ the status quo wins in the Augean stall.</p>
 <p><strong>26 September 1956, Wednesday</strong></p>
 <p>Eleven years ago today, on 26 September 1945 at ten in the morning, the officers of my persecutors appeared at my home in Schlachtensee and threw me for a year into what they called “automatic arrest.”</p>
 <p>This is my memorial day.</p>
-<p data-journal-date="1956-10-04"><strong>4 October 1956</strong></p>
+<p id="gloss-book-v-date-1956-10" data-journal-date="1956-10-04"><strong>4 October 1956</strong></p>
 <p>When I was asked to comment on the tenth anniversary of the Nuremberg judgment:</p>
 <p>Ask Mr. Kranzbühler.</p>
 <p>He can do it much more beautifully.<sup class="note-ref" id="en-note-ref-574-1"><a aria-label="Note 2" href="#en-note-fn-p19-pdf08-n02">2</a></sup></p>
@@ -14727,7 +14730,7 @@ the status quo wins in the Augean stall.</p>
 <p>I have to tell myself:</p>
 <p>in the house of the hanged man, one does not speak of the rope.</p>
 <p>But in the house of the executioner, people talk all the more about law and justice.</p>
-<p data-journal-date="1956-11-09"><strong>9 November 1956</strong></p>
+<p id="gloss-book-v-date-1956-11" data-journal-date="1956-11-09"><strong>9 November 1956</strong></p>
 <p>Ceasefire in Egypt.</p>
 <p>A great victory for the idea of peace.</p>
 <p>The world is on its way toward law and nonviolence.</p>
@@ -14779,7 +14782,7 @@ the status quo wins in the Augean stall.</p>
 <p>The theory of relativity is Judaism for Nobel Prize winners with no education in the humanities.</p>
 <p>Darwinism is a doctrine of salvation and a system of education for social climbers and Manchester men.</p>
 <p>And so on and so on.</p>
-<p data-journal-date="1956-12-05"><strong>5 December 1956</strong></p>
+<p id="gloss-book-v-date-1956-12" data-journal-date="1956-12-05"><strong>5 December 1956</strong></p>
 <p>Take care.</p>
 <p>Your persecutors are trying to drive you into persecution mania.</p>
 <p>Only when they have robbed you of your reason and taken away your mind have they truly won.</p>
@@ -14840,7 +14843,7 @@ listen and suffer!</p>
 <p>No human being has ever spoken more calmly or more consciously to his persecutors in the middle of a danger to the world than I did.</p>
 <p>You can see this both in the preface and at the end of <em>The Nomos of the Earth</em>.</p>
 <p>Will another person ever be found who understands it?</p>
-<p data-journal-date="1957-01-18"><strong>18 January 1957</strong></p>
+<p id="gloss-book-v-date-1957-01" data-journal-date="1957-01-18"><strong>18 January 1957</strong></p>
 <p>Konrad Kaletsch told me about the incident involving Flick, de Menthon, and Armengaud during the visit of the delegates from the Coal and Steel Community to the Maxhütte works.</p>
 <p>In the end, the furious accuser and criminalizer was satisfied when the old Friedrich Flick, now seventy-five, agreed not to give a welcoming speech.</p>
 <p>So the two men sat silently at the same table.</p>
@@ -14878,7 +14881,7 @@ only questioning!</p>
 <p>Then you will have statistics unlike anything any previous social order has ever possessed.</p>
 <p>I already sensed this during the First World War and described it in my essay “The Buribunks” (<em>Summa</em>, 1917/18).</p>
 <p>But at the time I knew nothing yet of the questionnaire—invented by the Anglo-Saxons—or of all its later refinements.</p>
-<p data-journal-date="1957-02-03"><strong>3 February 1957</strong></p>
+<p id="gloss-book-v-date-1957-02" data-journal-date="1957-02-03"><strong>3 February 1957</strong></p>
 <p>In his lecture on European colonialism, delivered in Düsseldorf on 16 January 1957, Kojève avoided every word that might sound directly topical.</p>
 <p>And yet the explosive relevance of the subject was bursting out at every corner.</p>
 <p>For me, it was an unbelievable and completely unexpected gain that the specific meaning of the <strong>Großraum</strong> became visible.</p>
@@ -14952,7 +14955,7 @@ and they are no longer mine.</p>
 <p>But this remains:</p>
 <p>Those were never your saints,
 and I cannot part from them.</p>
-<p data-journal-date="1957-03-17"><strong>17 March 1957</strong></p>
+<p id="gloss-book-v-date-1957-03" data-journal-date="1957-03-17"><strong>17 March 1957</strong></p>
 <p>Peter Schneider’s book <em>State of Exception and Norm: A Study of the Legal Theory of C. S.</em> has finally appeared.</p>
 <p>It is presumably intended to <strong>de-Schmittize</strong> German jurisprudence.<sup class="note-ref" id="en-note-ref-580-1"><a aria-label="Note 1" href="#en-note-fn-p19-pdf13-n01">1</a></sup></p>
 <p>A Swiss man who went through none of it summons me, who went through all of it, before his tribunal.</p>
@@ -15003,7 +15006,7 @@ and I cannot part from them.</p>
 <p>Zehrer dares to say openly that atomic power—which by its nature depends on secrecy—and democracy—which demands complete publicity—are incompatible.</p>
 <p>Today, when a small sworn circle decides matters concerning the atom, we live under a permanent state of exception that more or less suspends democracy.</p>
 <p>Faced with concrete realities like these, our Swiss ostrich prefers to stick his head into a bowl of whipped cream.</p>
-<p data-journal-date="1957-04-10"><strong>10 April 1957</strong></p>
+<p id="gloss-book-v-date-1957-04" data-journal-date="1957-04-10"><strong>10 April 1957</strong></p>
 <p>Behind my work on the state of exception lies the problem of the limits of what our modern, highly divided social machinery calls “law.”</p>
 <p>It is the problem of the limits of the courts and of judicial procedure.</p>
 <p>The limit of what a modern legislator can turn into a statutory rule.</p>
@@ -15084,7 +15087,7 @@ you obey the crime and fall into line the moment things become serious?</p>
 <p>we are being dragged along under the name of peace.</p>
 <p>Everything can be applied to the present world situation.<sup class="note-ref" id="en-note-ref-587-1"><a aria-label="Note 1" href="#en-note-fn-p19-pdf16-n01">1</a></sup></p>
 <p>The Roman is the man of law precisely because he knows the limits of law.</p>
-<p data-journal-date="1957-05-22"><strong>22 May 1957</strong></p>
+<p id="gloss-book-v-date-1957-05" data-journal-date="1957-05-22"><strong>22 May 1957</strong></p>
 <p>Everyone screams about Hitler’s violation of the principles of the constitutional state when he crushed the Röhm putsch.</p>
 <p>Today they all scream in moral outrage:</p>
 <p>even the Reichswehr stained itself by taking part in Röhm’s murder.</p>
@@ -15128,7 +15131,7 @@ and you did not have to commit the crime yourself.<sup class="note-ref" id="en-n
 <p>That too is a form of Taking.</p>
 <p>Compare the story in Funck-Brentano, <em>Le Roi</em> (1907):</p>
 <p>“Your Majesty will decide the case personally.”</p>
-<p data-journal-date="1957-06-01"><strong>1 June 1957</strong></p>
+<p id="gloss-book-v-date-1957-06" data-journal-date="1957-06-01"><strong>1 June 1957</strong></p>
 <p>The editors of the <em>Rheinischer Merkur</em>—Roegele—deleted my name from an article by Walter Warnach about Spain and Calvo Serer.<sup class="note-ref" id="en-note-ref-589-1"><a aria-label="Note 1" href="#en-note-fn-p19-pdf18-n01">1</a></sup></p>
 <p>So I still have a guardian angel after all.</p>
 <p>He guides the hand of these people who strike my name out.</p>
@@ -15187,7 +15190,7 @@ We have a great deal to make up for.</p>
 <p>I do not want to have power.</p>
 <p>But I want even less to be in the right.</p>
 <p>So my heartfelt condolences on your constitutional state!</p>
-<p data-journal-date="1957-07-01"><strong>1 July 1957</strong></p>
+<p id="gloss-book-v-date-1957-07" data-journal-date="1957-07-01"><strong>1 July 1957</strong></p>
 <p>The steel bells that call a person to church in this country—</p>
 <p>those are no longer my bells.</p>
 <p>Everything else follows by itself:</p>
@@ -15206,7 +15209,7 @@ and they are no longer mine.</p>
 <p>In Wiesbaden, at Hans Freyer’s seventieth birthday, we laughed at Adorno’s revealing remark about Hegel’s “grandiose peasant cunning.”</p>
 <p>In that remark you can see a cloven hoof that may turn into a boomerang and, as Hans Barion added, strike an Achilles heel.</p>
 <p>How amusing these self-revelations of the great revealers are.</p>
-<p data-journal-date="1957-08-10"><strong>10 August 1957</strong></p>
+<p id="gloss-book-v-date-1957-08" data-journal-date="1957-08-10"><strong>10 August 1957</strong></p>
 <p>How disgusting the whole philosophy of work then becomes:</p>
 <p>with its servant undermining the master,</p>
 <p>its <em>serva padrona</em>—the servant who becomes mistress,</p>
@@ -15270,7 +15273,7 @@ Waiting until the atomic bomb is hurled?</p>
 <p>We shall see.</p>
 <p>Perhaps you should sing of progress?</p>
 <p>Yes indeed!</p>
-<p data-journal-date="1957-09-02"><strong>2 September 1957</strong></p>
+<p id="gloss-book-v-date-1957-09" data-journal-date="1957-09-02"><strong>2 September 1957</strong></p>
 <p>Yes indeed!</p>
 <p>Progress of every kind:</p>
 <p>Progress in the consciousness of freedom, with Hegel.</p>
@@ -15301,7 +15304,7 @@ Waiting until the atomic bomb is hurled?</p>
 <p>But look:</p>
 <p>atheist rationalists and Marxists such as Georg Lukács suddenly find themselves in exactly the same tragicomic situation and are instructed by their own headquarters about their true function.</p>
 <p>So perhaps we could all quite happily philosophize together about knowledge and power, <em>sagesse et tyrannie</em>—wisdom and tyranny—without insulting one another and criminalizing one another as traitors to the spirit.</p>
-<p data-journal-date="1957-10-04"><strong>4 October 1957</strong></p>
+<p id="gloss-book-v-date-1957-10" data-journal-date="1957-10-04"><strong>4 October 1957</strong></p>
 <p>By creating the world out of nothing, God thereby made Nothing into Something it had not been before:</p>
 <p>Something from which a world can be created.<sup class="note-ref" id="en-note-ref-594-1"><a aria-label="Note 1" href="#en-note-fn-p19-pdf22-n01">1</a></sup></p>
 <p>And that is quite something.</p>
@@ -15364,7 +15367,7 @@ Waiting until the atomic bomb is hurled?</p>
 <p>All I have left is progress in the consciousness of having been cheated.</p>
 <p>From time to time I change the kind of person I allow to cheat me.</p>
 <p>Then the discarded swindler rages after me and calls me a characterless traitor.</p>
-<p data-journal-date="1957-12-31"><strong>31 December 1957</strong></p>
+<p id="gloss-book-v-date-1957-12" data-journal-date="1957-12-31"><strong>31 December 1957</strong></p>
 <p>Good Werner Becker expects Rome to make a confession of guilt because of the Renaissance popes.</p>
 <p>Rome will gladly give him one.</p>
 <p>It does not matter anymore.</p>
@@ -15376,7 +15379,7 @@ Waiting until the atomic bomb is hurled?</p>
 <p>a right to die of old age.</p>
 <p>We should not envy them for it.</p>
 <p>If I had the power, I would gladly guarantee every one of them death from old age.</p>
-<p data-journal-date="1958-01-04"><strong>4 January 1958</strong></p>
+<p id="gloss-book-v-date-1958-01" data-journal-date="1958-01-04"><strong>4 January 1958</strong></p>
 <p>Today human beings use technology to create their own environment.</p>
 <p>They cease to be endangered living creatures and attain an improbably advanced age in complete security, with well-organized provision for every need.</p>
 <p>But in doing so, they cease to be the endangered living creature that remains “open” and is bound to no fixed environment.</p>
@@ -15432,7 +15435,7 @@ Waiting until the atomic bomb is hurled?</p>
 <p>But the producers of original documents in Rome could issue their documents only in the pseudo-Isidorian style.</p>
 <p>For that purpose Holy Scripture was good enough for them as the holy Ur-Urkunde—the original original document—</p>
 <p>complete with primordial fresh-cell interpretations.</p>
-<p data-journal-date="1958-06-01"><strong>1 June 1958</strong></p>
+<p id="gloss-book-v-date-1958-06" data-journal-date="1958-06-01"><strong>1 June 1958</strong></p>
 <p>After reading C. F. von Weizsäcker’s discussion of “the present prospects for limiting the danger of atomic war”:</p>
 <p>So the final impression is one of uncertainty—the uncertainty that now dominates precisely those circles in the United States that take the most intense political interest in European problems.</p>
 <p>Poor Delano. Poor Melville.</p>
@@ -15491,7 +15494,7 @@ Waiting until the atomic bomb is hurled?</p>
 <p>And now, in 1958, the third attempt:</p>
 <p>the collected essays and the commemorative volume.<sup class="note-ref" id="en-note-ref-604-1"><a aria-label="Note 3" href="#en-note-fn-p20-pdf02-n03">3</a></sup></p>
 <p>Only a born counterfeiter could have come up with the idea of the three rings in <em>Nathan the Wise</em>.</p>
-<p data-journal-date="1958-08-16"><strong>16 August 1958</strong></p>
+<p id="gloss-book-v-date-1958-08" data-journal-date="1958-08-16"><strong>16 August 1958</strong></p>
 <p>The key sentence—which also applies to the whole invasion of Wilhelmine Germany by people coming out of the declining Habsburg [Monarchy], people such as Reinhardt, Freud, Schnitzler, Werfel, Rilke, and Däubler—is found quite near the beginning of Hitler’s <em>Mein Kampf</em>, on p. 57, in the second chapter, “Years of Study and Suffering in Vienna”:</p>
 <p>“In proud admiration I compared the rise of the Reich with the slow decline of the Austrian state.”</p>
 <p>1908!!</p>
@@ -15547,7 +15550,7 @@ Of this heavenly pleasure.<sup class="note-ref" id="en-note-ref-607-1"><a aria-l
 <p>Hiroshima, for example, in August;</p>
 <p>the Morgenthau Plan;</p>
 <p>a Devil’s Calendar instead of a Calendar of Saints.</p>
-<p data-journal-date="1958-09-03"><strong>3 September 1958</strong></p>
+<p id="gloss-book-v-date-1958-09" data-journal-date="1958-09-03"><strong>3 September 1958</strong></p>
 <p>So God is the Wholly Other.</p>
 <p>Correct.</p>
 <p>The totally Other.</p>
@@ -15640,7 +15643,7 @@ from the rain beneath the eaves.<sup class="note-ref" id="en-note-ref-611-1"><a 
 <p>His friend and chief witness is Ernst Niekisch.</p>
 <p>Let him stick with him now.</p>
 <p>The social ideal is Jünger’s war.</p>
-<p data-journal-date="1958-10-10"><strong>10 October 1958</strong></p>
+<p id="gloss-book-v-date-1958-10" data-journal-date="1958-10-10"><strong>10 October 1958</strong></p>
 <p>Yesterday morning, at around four o’clock, God Almighty summoned the Roman Pope, who had sat upon the Holy See, before His own throne—the judgment seat of the Almighty and All-Knowing.<sup class="note-ref" id="en-note-ref-613-1"><a aria-label="Note 4" href="#en-note-fn-p20-pdf05-n04">4</a></sup></p>
 <p>No fresh-cell injection can help him now.</p>
 <p>Nor can friendship with the rulers of today’s Western world.</p>
@@ -15673,7 +15676,7 @@ before his Judge he now must stand—</p>
 <p>What consistency of method and line!</p>
 <p>What identity!</p>
 <p>I had better say no more, “out of consideration for the society in which I live.”</p>
-<p data-journal-date="1958-11-04"><strong>4 November 1958</strong></p>
+<p id="gloss-book-v-date-1958-11" data-journal-date="1958-11-04"><strong>4 November 1958</strong></p>
 <p>All Jews come to grief against me.</p>
 <p>But as long as I, Carl Schmitt, remain alive, the Jews still have a chance.</p>
 <p>Feast day of Saint Charles Borromeo.</p>
@@ -15808,7 +15811,7 @@ before his Judge he now must stand—</p>
 <p>In other words:</p>
 <p>the thousand-year kingdom began long ago.</p>
 <p>It continues unchanged, with the elites circulating through it.</p>
-<p data-journal-date="1958-12-08"><strong>8 December 1958</strong></p>
+<p id="gloss-book-v-date-1958-12" data-journal-date="1958-12-08"><strong>8 December 1958</strong></p>
 <p>Irony will never become popular.</p>
 <p>Yes, Kierkegaard is right about that.</p>
 <p>More than that:</p>
@@ -29100,7 +29103,9 @@ menu.addEventListener('click',()=>document.body.classList.contains('nav-open')?c
 function smoothNavigate(a){const id=(a.getAttribute('href')||'').replace(/^#/,'');const target=id&&document.getElementById(id);if(!target)return;closeNav();const y=Math.max(0,target.getBoundingClientRect().top+scrollY-70);scrollTo({top:y,behavior:reducedMotion.matches?'auto':'smooth'});try{history.replaceState(null,'','#'+id)}catch{}}
 sidebar.addEventListener('click',e=>{const a=e.target.closest('.nav-link');if(!a)return;if(mobileMQ.matches){e.preventDefault();smoothNavigate(a)}else closeNav()});
 function keepDesktopSidebarLinkVisible(link){if(mobileMQ.matches||!sidebar||!link)return;const top=link.offsetTop,bottom=top+link.offsetHeight,viewTop=sidebar.scrollTop+16,viewBottom=sidebar.scrollTop+sidebar.clientHeight-16;if(top<viewTop)sidebar.scrollTop=Math.max(0,top-16);else if(bottom>viewBottom)sidebar.scrollTop=bottom-sidebar.clientHeight+16}
-const targets=[...document.querySelectorAll('.nav-link')].map(a=>({a,id:a.getAttribute('href').slice(1),el:document.getElementById(a.getAttribute('href').slice(1))})).filter(x=>x.el);let activeRaf=0;const clearActiveNav=()=>{targets.forEach(x=>x.a.classList.remove('active'));setCurrentTitle('')};const syncActiveNav=()=>{activeRaf=0;if(!targets.length)return;const marker=Math.max(72,window.innerHeight*.18),firstTop=targets[0].el.getBoundingClientRect().top;if(firstTop>marker){clearActiveNav();return}let hit=targets[0];for(let i=1;i<targets.length;i++){if(targets[i].el.getBoundingClientRect().top<=marker)hit=targets[i];else break}targets.forEach(x=>x.a.classList.toggle('active',x===hit));setCurrentTitle(hit.a.dataset.title||'');keepDesktopSidebarLinkVisible(hit.a)};const scheduleActiveNav=()=>{if(!activeRaf)activeRaf=requestAnimationFrame(syncActiveNav)};addEventListener('scroll',scheduleActiveNav,{passive:true});addEventListener('resize',scheduleActiveNav);const observer={disconnect(){removeEventListener('scroll',scheduleActiveNav);removeEventListener('resize',scheduleActiveNav);if(activeRaf){cancelAnimationFrame(activeRaf);activeRaf=0}}};syncActiveNav();
+
+const glossDateNav=(()=>{const nav=document.getElementById('chapter-nav'),sidebar=document.querySelector('.sidebar');if(!nav)return{sync(){}};const groups=[...nav.querySelectorAll('.gloss-nav-book')],reduce=matchMedia('(prefers-reduced-motion: reduce)');let currentBook='',currentYear='';const setBookOpen=(group,open)=>{if(!group)return;group.classList.toggle('open',open);const tree=group.querySelector('.gloss-date-tree'),btn=group.querySelector('.gloss-nav-toggle');if(tree)tree.hidden=!open;if(btn){btn.setAttribute('aria-expanded',String(open));btn.setAttribute('aria-label',(open?'Hide':'Show')+' dates in '+(group.querySelector('.nav-link')?.dataset.title||'book'))}};const setYearOpen=(group,open)=>{if(!group)return;group.classList.toggle('open',open);const list=group.querySelector('.gloss-month-list'),btn=group.querySelector('.gloss-year-toggle');if(list)list.hidden=!open;if(btn){btn.setAttribute('aria-expanded',String(open));btn.setAttribute('aria-label',(open?'Hide':'Show')+' months in '+group.dataset.year)}};const openBook=(book)=>{groups.forEach(g=>setBookOpen(g,g.dataset.book===book))};const openYear=(group,year)=>{if(!group)return;group.querySelectorAll('.gloss-year-group').forEach(y=>setYearOpen(y,y.dataset.year===year))};groups.forEach(group=>{group.querySelector('.gloss-nav-toggle')?.addEventListener('click',e=>{e.stopPropagation();const opening=!group.classList.contains('open');if(opening)openBook(group.dataset.book);else setBookOpen(group,false)});group.querySelectorAll('.gloss-year-group').forEach(yg=>yg.querySelector('.gloss-year-toggle')?.addEventListener('click',e=>{e.stopPropagation();const opening=!yg.classList.contains('open');if(opening){setBookOpen(group,true);openYear(group,yg.dataset.year)}else setYearOpen(yg,false)}))});const keepVisible=link=>{if(!link||!sidebar)return;if(matchMedia('(max-width:900px)').matches&&!document.body.classList.contains('nav-open'))return;const top=link.offsetTop,bottom=top+link.offsetHeight,viewTop=sidebar.scrollTop+18,viewBottom=sidebar.scrollTop+sidebar.clientHeight-18;if(top<viewTop)sidebar.scrollTop=Math.max(0,top-18);else if(bottom>viewBottom)sidebar.scrollTop=bottom-sidebar.clientHeight+18};nav.addEventListener('click',e=>{const a=e.target.closest('.gloss-date-link');if(!a)return;const target=document.querySelector(a.getAttribute('href'));if(!target)return;e.preventDefault();document.body.classList.remove('nav-open');document.getElementById('menu-toggle')?.setAttribute('aria-expanded','false');const y=Math.max(0,target.getBoundingClientRect().top+scrollY-70),distance=Math.abs(y-scrollY);scrollTo({top:y,behavior:(reduce.matches||distance>innerHeight*5)?'auto':'smooth'});try{history.replaceState(null,'',a.getAttribute('href'))}catch{}});const sync=hit=>{nav.querySelectorAll('.gloss-month-link.active,.gloss-year-link.active').forEach(a=>a.classList.remove('active'));const book=hit?.id?.replace(/^gloss-/,'')||'';const group=groups.find(g=>g.dataset.book===book);if(!group){groups.forEach(g=>setBookOpen(g,false));currentBook='';currentYear='';return}const marker=Math.max(72,innerHeight*.18),months=[...group.querySelectorAll('.gloss-month-link')].map(a=>({a,el:document.querySelector(a.getAttribute('href'))})).filter(x=>x.el);let month=null;for(const x of months){if(x.el.getBoundingClientRect().top<=marker)month=x;else break}if(book!==currentBook){openBook(book);currentBook=book;currentYear=''}if(!month)return;const year=month.a.dataset.year;if(year!==currentYear){openYear(group,year);currentYear=year}month.a.classList.add('active');const ylink=group.querySelector(`.gloss-year-link[data-year="${year}"]`);ylink?.classList.add('active');keepVisible(month.a)};document.getElementById('menu-toggle')?.addEventListener('click',()=>requestAnimationFrame(()=>{const active=nav.querySelector('.nav-link.active');if(active)sync({id:active.getAttribute('href').slice(1)})}));return{sync}})();
+const targets=[...document.querySelectorAll('.nav-link')].map(a=>({a,id:a.getAttribute('href').slice(1),el:document.getElementById(a.getAttribute('href').slice(1))})).filter(x=>x.el);let activeRaf=0;const clearActiveNav=()=>{targets.forEach(x=>x.a.classList.remove('active'));setCurrentTitle('')};const syncActiveNav=()=>{activeRaf=0;if(!targets.length)return;const marker=Math.max(72,window.innerHeight*.18),firstTop=targets[0].el.getBoundingClientRect().top;if(firstTop>marker){clearActiveNav();return}let hit=targets[0];for(let i=1;i<targets.length;i++){if(targets[i].el.getBoundingClientRect().top<=marker)hit=targets[i];else break}targets.forEach(x=>x.a.classList.toggle('active',x===hit));setCurrentTitle(hit.a.dataset.title||'');keepDesktopSidebarLinkVisible(hit.a);glossDateNav.sync(hit)};const scheduleActiveNav=()=>{if(!activeRaf)activeRaf=requestAnimationFrame(syncActiveNav)};addEventListener('scroll',scheduleActiveNav,{passive:true});addEventListener('resize',scheduleActiveNav);const observer={disconnect(){removeEventListener('scroll',scheduleActiveNav);removeEventListener('resize',scheduleActiveNav);if(activeRaf){cancelAnimationFrame(activeRaf);activeRaf=0}}};syncActiveNav();
 const progress=document.getElementById('progress');function updateProgress(){const h=document.documentElement,max=h.scrollHeight-h.clientHeight;progress.style.width=(max>0?(h.scrollTop/max)*100:0)+'%'}addEventListener('scroll',updateProgress,{passive:true});updateProgress();
 </script><script>
 (()=>{
