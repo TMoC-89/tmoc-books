@@ -21256,9 +21256,7 @@ God is dead. The God-man is dead.
 
 The heir has been killed through the joint action of Jews and Gentiles.
 
-Yes, they killed the heir: Matthew 21:38–39; Mark 12:7–8; Luke 21:14–15; Matthew 24:30; Acts 7, Stephen.
-
-That is the historical beginning of Christianity and of the Christian age.
+Yes, they killed the heir: Matthew 21:38–39; Mark 12:7–8; Luke 21:14–15; Matthew 24:30; Acts 7, Stephen. That is the historical beginning of Christianity and of the Christian age.
 
 The first deed was a crime: the murder of Abel. The second was an even more terrible crime: the public killing of the heir, carried out in the forms of justice, through a conspiracy of Jews and Gentiles.
 
@@ -21272,9 +21270,7 @@ The pagan myth loves and seeks the victorious hero. Napoleon is the most recent 
 
 *Benito Cereno*: the false liberation.
 
-The heir is the *κληρονόμος*.
-
-They killed him.
+The heir is the *κληρονόμος*. They killed him.
 
 *Vigens disciplina, fides moribunda*: discipline flourishing, faith dying.
 
@@ -21282,13 +21278,9 @@ They killed him.
 
 **15 October 1955**
 
-In Hegel, an awareness of the Christian age is still alive.
+In Hegel, an awareness of the Christian age is still alive. But he seems to be saying that this age is now coming to an end. He seems to know it.
 
-But he seems to be saying that this age is now coming to an end. He seems to know it.
-
-World history is approaching a different center from Golgotha, the Place of the Skull.
-
-But that cannot be.
+World history is approaching a different center from Golgotha, the Place of the Skull. But that cannot be.
 
 We must break away from the false guardians and beneficiaries of the empty tomb—from the knights of the empty tomb.
 
@@ -21332,13 +21324,9 @@ Pierre Leyris says that every detail in Melville’s story has a double meaning,
 
 The American literary historians noticed nothing of this, although they did establish the differences between old Amasa Delano’s original report and Melville’s story.
 
-Melville keeps opening up new abysses against his own will.
+Melville keeps opening up new abysses against his own will. He does not speak about the problem of the slave trade.
 
-He does not speak about the problem of the slave trade.
-
-According to Leyris, he turns the slave ship into the condition of original sin: the slave trade itself is original sin.
-
-And the American has fallen under original sin not so deeply, but only weakly—*debilmente*.
+According to Leyris, he turns the slave ship into the condition of original sin: the slave trade itself is original sin. And the American has fallen under original sin not so deeply, but only weakly—*debilmente*.
 
 That was not allowed to happen.
 
@@ -21356,9 +21344,7 @@ And so Pierre Leyris’s marvelous starting point runs aground in the abstract b
 
 **27 October 1955**
 
-These Black men killed the heir, poor Don Alejandro.
-
-Once the heir has been killed, both inheritance and property come to an end.
+These Black men killed the heir, poor Don Alejandro. Once the heir has been killed, both inheritance and property come to an end.
 
 Who, then, are these vineyard tenants in Matthew 21?
 
@@ -21366,9 +21352,7 @@ After the workers in the vineyard in chapter 20, who demand a fair wage, come th
 
 A beautiful subject for a song by Bert Brecht, with a fiery final effect: the heir is beaten to death; the leap into the realm of freedom has been made.
 
-Sigmund Freud still knew what it meant that they had killed the prophets—even Moses himself.
-
-He therefore understood more about Christianity than the whole Thomist tradition of the celibate bureaucracy, which deprives precisely this—the killing of the heir—of its concrete presence and thereby becomes an accomplice.
+Sigmund Freud still knew what it meant that they had killed the prophets—even Moses himself. He therefore understood more about Christianity than the whole Thomist tradition of the celibate bureaucracy, which deprives precisely this—the killing of the heir—of its concrete presence and thereby becomes an accomplice.
 
 Hamann and Bruno Bauer understood this.
 
@@ -21380,9 +21364,7 @@ Nietzsche’s rage against Luther and Hegel was justified from Nietzsche’s own
 
 Hegel too was a great *katechon*.
 
-The great German emperors were *katechontes*.
-
-Hence the hatred of Hegel—a hatred that would otherwise be impossible to explain.
+The great German emperors were *katechontes*. Hence the hatred of Hegel—a hatred that would otherwise be impossible to explain.
 
 ---
 
@@ -21398,11 +21380,7 @@ A beautiful title for a diary.
 
 And what drives Hamlet to make his note?
 
-The discovery of a villain—a villain who smiles.
-
-These are the human things worth thinking about and worth writing down.
-
-These are what fill the *tables*.
+The discovery of a villain—a villain who smiles. These are the human things worth thinking about and worth writing down. These are what fill the *tables*.
 
 This *My tables!* came to me early this morning, at dawn, when I finally understood what happened to me in May 1953 at Herrenalb and Baden-Baden: the insulting way I was thrown out, and the removal of my lecture on the *κατέχων*, so that Gerhard Günther could take over the subject.
 
@@ -21420,9 +21398,7 @@ How slow I am to catch on!
 
 How good-heartedly stupid—and stupidly good-hearted—I am!
 
-It took that article in the *Linksrheinischer Merkur*.
-
-But that article makes it clear.
+It took that article in the *Linksrheinischer Merkur*. But that article makes it clear.
 
 Who is so stupid he cannot see the fraud?
 And who so bold as to say that he sees it?
@@ -21447,9 +21423,7 @@ Goethe’s Marianism has no martial drive.
 
 In Schiller it becomes a conquering *Conquista*.
 
-The earthly Mary and the heavenly Mary flow into one another.
-
-For 155 years Germans have been watching and listening to this scene, and no one dares to think about what is being revealed to them there.
+The earthly Mary and the heavenly Mary flow into one another. For 155 years Germans have been watching and listening to this scene, and no one dares to think about what is being revealed to them there.
 
 Perhaps it will become clear to us on Schiller’s 200th birthday in 1959.
 
@@ -21465,13 +21439,9 @@ Or Rüdiger Altmann, in *Civis*, November 1955: in reality, he says, there is no
 
 What a new Christianity!
 
-And it dares to quote Kierkegaard instead of being honest and beating him to death, as he himself demanded.
+And it dares to quote Kierkegaard instead of being honest and beating him to death, as he himself demanded. But even this preacher of repentance, who declared being beaten to death to be the test of whether a preacher of repentance was genuine—even this Christian who called for himself to be beaten to death—disappeared into the universal irony.
 
-But even this preacher of repentance, who declared being beaten to death to be the test of whether a preacher of repentance was genuine—even this Christian who called for himself to be beaten to death—disappeared into the universal irony.
-
-People only applauded him all the more enthusiastically.
-
-When a serious individual enters into a race with the public in an atmosphere where every ideology has been swallowed by total irony, that poor individual must eventually collapse from sheer exhaustion and die—naturally to the applause of the very same public he thought he was spitting in the face.
+People only applauded him all the more enthusiastically. When a serious individual enters into a race with the public in an atmosphere where every ideology has been swallowed by total irony, that poor individual must eventually collapse from sheer exhaustion and die—naturally to the applause of the very same public he thought he was spitting in the face.
 
 Thanks to the angel who grabbed me by the hair and set me down outside this Christian cultural establishment; who knocked this cup of the murkiest poison out of my hand before it reached my lips; and who showed me the spring from which I am allowed to drink: the spring of poverty and freedom.
 
@@ -21479,15 +21449,9 @@ Thanks to the angel who grabbed me by the hair and set me down outside this Chri
 
 **8 November 1955**
 
-So first there is the little man, the *μικρός ἄνθρωπος*, the *parvus homo*.
+So first there is the little man, the *μικρός ἄνθρωπος*, the *parvus homo*. That is me, for example. And that is you.
 
-That is me, for example.
-
-And that is you.
-
-Then there is the great man, the *magnus homo*.
-
-That is, for example, the USA or the USSR as directly great powers—or the Pope as an indirectly great power.
+Then there is the great man, the *magnus homo*. That is, for example, the USA or the USSR as directly great powers—or the Pope as an indirectly great power.
 
 In short, the question arises: what do you, little man, still want at all?
 
@@ -21507,11 +21471,7 @@ You, being little, have only little worries.
 
 The great ones, however—Mr. Stalin, for example, or Hitler, or the Holy Father—have only great worries.
 
-Woe to you if one of them should ever get the idea of noticing you at all, in order to prove to himself, to the world, and to democracy that the little people too are equal to the great and enjoy the interest of the great.
-
-Then you will discover the connection between protection and obedience.
-
-And every other great power, which you can no longer obey, will become your enemy.
+Woe to you if one of them should ever get the idea of noticing you at all, in order to prove to himself, to the world, and to democracy that the little people too are equal to the great and enjoy the interest of the great. Then you will discover the connection between protection and obedience. And every other great power, which you can no longer obey, will become your enemy.
 
 ---
 
@@ -21526,9 +21486,7 @@ Is a person not supposed to go mad listening to all this talk about Christianity
 To one it is ethos, to another it is value;
 The whole thing is not worth a single shot of powder.
 
-But one can make a living from that too.
-
-It is even a reliable protection against the shot of powder—or against the atom bomb.
+But one can make a living from that too. It is even a reliable protection against the shot of powder—or against the atom bomb.
 
 *La nullité protège mieux.*
 
@@ -21563,9 +21521,7 @@ It serves them right.
 
 The mystery of eating bread and drinking wine: Hegel speaks of it in the *Phenomenology of Spirit*, pp. 82–83.
 
-Kierkegaard should have read that passage before he opened fire.
-
-It is the passage that exposes the fraud of the celibate wielders of indirect power, who destroyed both forms by constructing themselves as official priests and everybody else as—negatively defined—non-priests.
+Kierkegaard should have read that passage before he opened fire. It is the passage that exposes the fraud of the celibate wielders of indirect power, who destroyed both forms by constructing themselves as official priests and everybody else as—negatively defined—non-priests.
 
 Many more answers will still be given to this gigantic fraud.
 
@@ -21591,15 +21547,9 @@ Kierkegaard’s greatness lies in the fact that he recognized the great figures 
 
 Kierkegaard admittedly had it easy.
 
-It is the hump that builds itself a spirit.
+It is the hump that builds itself a spirit. And it is into the hump constructed in this way by the spirit that the psychoanalysts crawl like bedbugs.
 
-And it is into the hump constructed in this way by the spirit that the psychoanalysts crawl like bedbugs.
-
-The old, experienced brothel madam—wise in her own way, tactful and discreet; she has served kings—is looking for fresh flesh.
-
-She calls this: the lay apostolate.
-
-Now she is running after the Jews.
+The old, experienced brothel madam—wise in her own way, tactful and discreet; she has served kings—is looking for fresh flesh. She calls this: the lay apostolate. Now she is running after the Jews.
 
 ---
 
@@ -21612,11 +21562,7 @@ One of these beasts hurled blindly is poor Peter Schneider of Zurich, Switzerlan
 
 A fine entry for the hundredth anniversary of Søren Kierkegaard’s death.
 
-A Christian cannot leave this earth as a demigod, or even as a hero.
-
-But suppose this ambitious Peter Schneider really did catch me.
-
-Then all that would be needed would be the decent resolve to make oneself impossible to classify once again for these dogcatchers and distributors of dog tags.
+A Christian cannot leave this earth as a demigod, or even as a hero. But suppose this ambitious Peter Schneider really did catch me. Then all that would be needed would be the decent resolve to make oneself impossible to classify once again for these dogcatchers and distributors of dog tags.
 
 ---
 
@@ -21685,19 +21631,13 @@ It still tastes good to me!
 
 The fact that it still tastes good to you is irrelevant.
 
-You live in a community where you are allowed to drink wine only under the table—outside the sacrament.
-
-So your pleasure in wine is a private matter.
+You live in a community where you are allowed to drink wine only under the table—outside the sacrament. So your pleasure in wine is a private matter.
 
 Apocryphal.
 
 And above the table?
 
-The poor celibate bureaucracy drinks the wine openly.
-
-But it is no longer capable of any intoxicant; of any marriage; of any asceticism.
-
-It lives in its monasteries like people in caves <…>
+The poor celibate bureaucracy drinks the wine openly. But it is no longer capable of any intoxicant; of any marriage; of any asceticism. It lives in its monasteries like people in caves <…>
 
 Down, then, into the underworld with it and all its concubinages-concordats!!
 
@@ -21721,9 +21661,7 @@ And it is more beautiful than the art of Edith Stein, who allowed herself to be 
 
 I wrote this to Karl Epting.
 
-Simone Weil’s horror at the idea of the *Corpus Christi*, the Body of Christ, is genuine.
-
-But it is also the one decisive test: anyone who does not want to belong to the *Corpus Christi* is not a Christian and does not want to be one, even though that person may still want to speak about Christian matters and impress Christians.
+Simone Weil’s horror at the idea of the *Corpus Christi*, the Body of Christ, is genuine. But it is also the one decisive test: anyone who does not want to belong to the *Corpus Christi* is not a Christian and does not want to be one, even though that person may still want to speak about Christian matters and impress Christians.
 
 Epting thinks the doctrine of the *Corpus mysticum*, the mystical body, is not Lutheran.
 
@@ -21789,28 +21727,16 @@ and the sound-wave hell of their radio hits.
 
 2. What are you doing?
 
-I am losing the time that loses itself and gaining the time that exists.
-
-For I experience and shape concrete concepts.
+I am losing the time that loses itself and gaining the time that exists. For I experience and shape concrete concepts.
 
 And powers of delusion, helplessly hating one another,
 Begin—blindly hurling beasts—to disappear.
 
-Hitler was one such blindly hurled beast, but he was not the only one and not the last.
+Hitler was one such blindly hurled beast, but he was not the only one and not the last. And before he disappeared, he in turn blindly hurled beasts of his own and bound his enemies to his shadow.[^fn-p18-pdf10-n01]
 
-And before he disappeared, he in turn blindly hurled beasts of his own and bound his enemies to his shadow.[^fn-p18-pdf10-n01]
+To speak about this without falling oneself into the unrestrained hatred of those powers of delusion; without oneself being turned into one of those blindly hurled beasts; without theological-demonological cozy talk and without some hidden motive concerning reparations—that is difficult and dangerous.[^fn-p18-pdf10-n02] For the moment, the blindly hurled, the blind haters and avengers, still control the field and allow no objective word to be spoken.
 
-To speak about this without falling oneself into the unrestrained hatred of those powers of delusion; without oneself being turned into one of those blindly hurled beasts; without theological-demonological cozy talk and without some hidden motive concerning reparations—that is difficult and dangerous.[^fn-p18-pdf10-n02]
-
-For the moment, the blindly hurled, the blind haters and avengers, still control the field and allow no objective word to be spoken.
-
-One need only look at the disgusting falsifications that dominate Baron von der Heydte’s article in *Hochland*, January/February 1951.
-
-Above all there is the central and revealing falsification in his quotation of my sentence about prayer as the final refuge, from *Ex Captivitate Salus*, p. 61.
-
-He silently leaves out the crucified God.
-
-He simply suppresses Him.
+One need only look at the disgusting falsifications that dominate Baron von der Heydte’s article in *Hochland*, January/February 1951. Above all there is the central and revealing falsification in his quotation of my sentence about prayer as the final refuge, from *Ex Captivitate Salus*, p. 61. He silently leaves out the crucified God. He simply suppresses Him.
 
 (*Hochland*, p. 289.)
 
@@ -21818,17 +21744,11 @@ By doing so, he strips the sentence of its concrete Christian meaning.
 
 It is as though someone removed a crucifix from a room in order to deceive the visitors.
 
-Informers like to smuggle false documents or pieces of evidence into rooms that are about to be searched.
-
-Here someone does the reverse: he makes a piece of evidence disappear.
-
-And that piece of evidence is the crucified God.
+Informers like to smuggle false documents or pieces of evidence into rooms that are about to be searched. Here someone does the reverse: he makes a piece of evidence disappear. And that piece of evidence is the crucified God.
 
 There is no pleasant taste on your tongue, no pleasure of eye or ear, that does not carry a long history inside it—indeed, the history of your entire physical existence from the moment of conception, and probably from much earlier still.
 
-Analysis is no use here.
-
-Only the concept can help.
+Analysis is no use here. Only the concept can help.
 
 The essence of the human being is historical.
 
@@ -21864,17 +21784,11 @@ Walter Warnach is right.
 
 *Ex Captivitate Salus* has been destroyed.
 
-I sensed it when I saw that I could not arouse even the slightest interest in that fraud in *Hochland* of February 1951.
-
-These mollusks want to lose the defeat.
-
-They want to enjoy it and savor it as the defeat of somebody else, and therefore as their own victory and as a perverse elevation of themselves.
+I sensed it when I saw that I could not arouse even the slightest interest in that fraud in *Hochland* of February 1951. These mollusks want to lose the defeat. They want to enjoy it and savor it as the defeat of somebody else, and therefore as their own victory and as a perverse elevation of themselves.
 
 I have no right to complain.
 
-Several times I have had the pure element of my existence—the concept—so close before me that I touched it and was touched by it.
-
-Those were the great summit moments: in the concept of the political; in the concept of sovereignty; in the discovery of the *Nomos of the Earth*.
+Several times I have had the pure element of my existence—the concept—so close before me that I touched it and was touched by it. Those were the great summit moments: in the concept of the political; in the concept of sovereignty; in the discovery of the *Nomos of the Earth*.
 
 ---
 
@@ -21888,55 +21802,29 @@ It is epic.
 
 It is even perfect mythology.
 
-As a simple description and exciting narrative, it approaches the Greek myths.
-
-And as the occurrence of something completely improbable that is nevertheless made genuinely plausible—as Julian Huxley likes to put it—it approaches *The Thousand and One Nights*.
-
-So I have nothing against the decent and hardworking Darwinians!
-
-These worthy men do more for myth and mythology than all the Walter Ottos and all the Schadewaldts; more than the ridiculous philosophers of myth we have today; more than the manufacturers of myths in our ministries of propaganda and public enlightenment or our newspaper offices.
+As a simple description and exciting narrative, it approaches the Greek myths. And as the occurrence of something completely improbable that is nevertheless made genuinely plausible—as Julian Huxley likes to put it—it approaches *The Thousand and One Nights*. So I have nothing against the decent and hardworking Darwinians! These worthy men do more for myth and mythology than all the Walter Ottos and all the Schadewaldts; more than the ridiculous philosophers of myth we have today; more than the manufacturers of myths in our ministries of propaganda and public enlightenment or our newspaper offices.
 
 Wonderful in Julian Huxley is this constantly recurring paradox, as he calls it: the completely improbable happens and, *via facti*, simply by having happened, becomes completely plausible.
 
 What is utterly imperfect—the first deviation from what had until then been perfect—becomes the starting point of a higher perfection.
 
-A naïve, primitive Hegelianism.
-
-But with an ability to grasp the concrete.
-
-And that matters more than any amount of philosophical schooling—even more than the schooling of dialectical materialism, which after all is only émigré philosophy.
+A naïve, primitive Hegelianism. But with an ability to grasp the concrete. And that matters more than any amount of philosophical schooling—even more than the schooling of dialectical materialism, which after all is only émigré philosophy.
 
 ---
 
 **4 December 1955, Second Sunday of Advent**
 
-For Hegel, the concept is time that has taken concrete existence.
+For Hegel, the concept is time that has taken concrete existence. But merely grasping, seizing, and comprehending is not enough. There must also be a taking.
 
-But merely grasping, seizing, and comprehending is not enough.
+The grasp becomes a *Nahme*, a taking, only through naming—through the *Name*. That is why I say: the name is time that exists.
 
-There must also be a taking.
+Winfried Martini warns, in an article in *Junge Wirtschaft*, November 1955, against the “dangerous provisional state” of the Bonn Basic Law and regime. But Bonn has meaning and stability only as something provisional. This church village on the left bank of the Rhine cannot legitimize itself at all.
 
-The grasp becomes a *Nahme*, a taking, only through naming—through the *Name*.
+At best it can plead that it is provisional. It has no other character, unless one counts that of an eighteenth-century, left-Rhenish, Cologne-archiepiscopal summer residence.
 
-That is why I say: the name is time that exists.
+It is not even a Church state. If this Bonn no longer wishes to be provisional, then it becomes a crime.
 
-Winfried Martini warns, in an article in *Junge Wirtschaft*, November 1955, against the “dangerous provisional state” of the Bonn Basic Law and regime.
-
-But Bonn has meaning and stability only as something provisional.
-
-This church village on the left bank of the Rhine cannot legitimize itself at all.
-
-At best it can plead that it is provisional.
-
-It has no other character, unless one counts that of an eighteenth-century, left-Rhenish, Cologne-archiepiscopal summer residence.
-
-It is not even a Church state.
-
-If this Bonn no longer wishes to be provisional, then it becomes a crime.
-
-I felt like getting annoyed once again at German philosophizing and its destruction of the concrete.
-
-This time it was the philosophy of play, and the philosophy of the game, in Schiller, together with the whole linguistic and conceptual development of eighteenth-century German from which it arose.
+I felt like getting annoyed once again at German philosophizing and its destruction of the concrete. This time it was the philosophy of play, and the philosophy of the game, in Schiller, together with the whole linguistic and conceptual development of eighteenth-century German from which it arose.
 
 A philosophy of home workers, made by home workers who try to rise spiritually above their own piecework.
 
@@ -21948,9 +21836,7 @@ Who is supposed to be “playing” here?
 
 Is playing something higher, finer, nobler?
 
-A badly paid court or church musician blows the flute.
-
-But when His Majesty King Frederick II does exactly the same thing, it is no longer the same thing: the King *plays* the flute.
+A badly paid court or church musician blows the flute. But when His Majesty King Frederick II does exactly the same thing, it is no longer the same thing: the King *plays* the flute.
 
 Then, as everyone is made equal to the King and the universal priesthood spreads, every instrument comes to be “played.”
 
@@ -21962,11 +21848,7 @@ Singing, however, remains singing and is not called playing.
 
 To give a name: that is a giving contained within genuine taking, and it is this giving that distinguishes *Nahme*—taking understood as a constituting act—from mere grabbing, robbing, and devouring.[^fn-p18-pdf12-n01]
 
-Whoever gives a name also grants a right by doing so—indeed, grants what today we call personhood and personality.
-
-Even legal persons must have a name.
-
-Otherwise they would not even be legal persons.
+Whoever gives a name also grants a right by doing so—indeed, grants what today we call personhood and personality. Even legal persons must have a name. Otherwise they would not even be legal persons.
 
 The giver of the name raises whatever he names into the sphere of law—but into a law founded by the one who gives the name.
 
@@ -21974,27 +21856,15 @@ That is *potestas constituens*, constituent power.
 
 Legal acts carried out in the name of God or in the name of the King presuppose a name that has been granted.
 
-Something that has a name can no longer be destroyed at will.
-
-Nor is it any longer completely at someone’s disposal.
-
-But its right rests on the name given to it by a taker who gives names.
+Something that has a name can no longer be destroyed at will. Nor is it any longer completely at someone’s disposal. But its right rests on the name given to it by a taker who gives names.
 
 Who were my worst persecutors?
 
-I knew a highly respected jurist who wrote sharp and intelligent books, gave sharp and intelligent lectures and seminars, and knew many ways of impressing his students and listeners.
-
-This famous and intelligent jurist had a hump and all the resentments of the hunchback, which he knew how to conceal beneath humble and touching gestures.
+I knew a highly respected jurist who wrote sharp and intelligent books, gave sharp and intelligent lectures and seminars, and knew many ways of impressing his students and listeners. This famous and intelligent jurist had a hump and all the resentments of the hunchback, which he knew how to conceal beneath humble and touching gestures.
 
 His real effect on the jurisprudence of his age consisted in making sure, in everything, that every definition took the hump into account.
 
-The definition of the human being had implicitly to recognize the hump, otherwise it was false.
-
-But so did the definition of a mortgage.
-
-And of marriage.
-
-Above all, the definition of property—which he destroyed.
+The definition of the human being had implicitly to recognize the hump, otherwise it was false. But so did the definition of a mortgage. And of marriage. Above all, the definition of property—which he destroyed.
 
 A few cleverly imagined abnormalities always had to be taken into account.
 
@@ -22028,9 +21898,7 @@ Out of love for human beings?
 
 Was Jehovah converted from jealousy to compassion?
 
-These questions lie so close at hand.
-
-And yet there is no point consulting a theologian about them.
+These questions lie so close at hand. And yet there is no point consulting a theologian about them.
 
 These post-Exilic people are terrifying possessors and setters of right and power.
 
@@ -22042,9 +21910,7 @@ So be careful!
 
 **19 December 1955**
 
-“The malignancy in German thought during the interwar period”—meaning the fertile decades from 1919 to 1939—is diagnosed by a poisonous Morgenthau type, speaking as a victor of the Second World War, who thereby quietly presents his own Morgenthau-style benignity as the premise we are required to accept.
-
-This supposedly malignant German thought includes:
+“The malignancy in German thought during the interwar period”—meaning the fertile decades from 1919 to 1939—is diagnosed by a poisonous Morgenthau type, speaking as a victor of the Second World War, who thereby quietly presents his own Morgenthau-style benignity as the premise we are required to accept. This supposedly malignant German thought includes:
 
 Max Scheler, Martin Heidegger, Ernst Schmalenbach, Heisenberg, Eschweiler, Konrad Weiß—in short, the magnificent intellectual awakening on which thinking people in the twentieth century will live for as long as the nineteenth century lived on those extraordinarily fertile years from 1837 to 1847, from Görres to Karl Marx.
 
@@ -22060,9 +21926,7 @@ What does this defamation mean?
 
 What is this method of “declaring something malignant”?
 
-It is always the same thing.
-
-And they are always the same people.
+It is always the same thing. And they are always the same people.
 
 Back then they placed others “under suspicion of ideology.”
 
@@ -22070,9 +21934,7 @@ Today they declare others to be neo-fascists.
 
 It is all *miching mallecho*.
 
-It means mischief.
-
-Now look at the explanation he gives for this mischief!
+It means mischief. Now look at the explanation he gives for this mischief!
 
 Where does this German malignancy come from?
 
@@ -22108,19 +21970,9 @@ I am a man of the Moselle who can never, for all eternity, be canalized—and wh
 
 **30 December 1955**
 
-They took the chalice away from the laity, and in doing so they lost control over the intoxicants.
+They took the chalice away from the laity, and in doing so they lost control over the intoxicants. Now they are dying miserably because of it. And they need the wretched Adolf as a bogeyman so that they can fraternize with the Jews, who for their part have needed such bogeymen for two thousand years in order to raise their own moral standing and collect compensation as victims—provided they can find fools to pay it: reparations, that is.
 
-Now they are dying miserably because of it.
-
-And they need the wretched Adolf as a bogeyman so that they can fraternize with the Jews, who for their part have needed such bogeymen for two thousand years in order to raise their own moral standing and collect compensation as victims—provided they can find fools to pay it: reparations, that is.
-
-Inside Germany this is comparatively easy.
-
-Outside Germany it is difficult.
-
-And for that they need Germany again.
-
-Hence this compulsion.[^fn-p18-pdf13-n02]
+Inside Germany this is comparatively easy. Outside Germany it is difficult. And for that they need Germany again. Hence this compulsion.[^fn-p18-pdf13-n02]
 
 ---
 
@@ -22135,13 +21987,7 @@ Keep stirring up our sense of guilt, and paying will become easier for us!
 Joyfully we pay our billions
 as we hear repentance’s minstrels.
 
-Before this Shylock greeting came my reading of the new Catholic catechism for West Germany.
-
-It is no longer “the Jews” who crucified our Lord and Savior.
-
-That no longer appears in the Roman catechism.
-
-Instead it was:
+Before this Shylock greeting came my reading of the new Catholic catechism for West Germany. It is no longer “the Jews” who crucified our Lord and Savior. That no longer appears in the Roman catechism. Instead it was:
 
 “the leaders of the chosen people.”
 
@@ -22171,13 +22017,9 @@ The concrete exception can arise in two opposite directions and from two opposit
 
 Grace comes from an abundance of security and gives its goodness without needing a reason.
 
-Dictatorship comes from a lack of security and can no longer be good, because it feels threatened by a dangerous enemy.
+Dictatorship comes from a lack of security and can no longer be good, because it feels threatened by a dangerous enemy. That is the polarity between grace and dictatorship.
 
-That is the polarity between grace and dictatorship.
-
-No one thinks about this.
-
-Even Wilhelm Grewe failed to recognize the passage from 1921 in the introductory note to my book on dictatorship, p. IX.
+No one thinks about this. Even Wilhelm Grewe failed to recognize the passage from 1921 in the introductory note to my book on dictatorship, p. IX.
 
 That would probably have been asking too much.
 
@@ -22186,9 +22028,7 @@ The other drops hydrogen-bomb blessings.
 
 The difference between goodness and anxiety.
 
-Agnosticism produces anxiety rather than fear;
-
-means of annihilation rather than weapons.
+Agnosticism produces anxiety rather than fear; means of annihilation rather than weapons.
 
 ---
 
@@ -22231,9 +22071,7 @@ They have my blessing.
 
 After all, a manufacturer once poached my cleaning woman.
 
-Young Paris poached beautiful Helen from old Menelaus.
-
-And the Russians poached several Nobel Prize winners and atomic physicists from the Americans, and they were certainly no Helens.
+Young Paris poached beautiful Helen from old Menelaus. And the Russians poached several Nobel Prize winners and atomic physicists from the Americans, and they were certainly no Helens.
 
 Naturally these are all crimes for which the abolished death penalty must immediately be brought back.
 
@@ -22251,13 +22089,7 @@ To the right of the right-hand clipping:
 
 <!-- FACSIMILE_INSERT: asset="facsimiles/P18_source-354_facsimile-01.jpeg" part="18" printed-page="338" source-page="354" part-pdf-page="16" sequence="1-of-1" -->
 
-And here, ladies and gentlemen, you have one-hundred-percent *potestas indirecta*, indirect power, to which nothing can ever happen because it will certainly end up on the side of the victor, no matter what that victor looks like.
-
-For the Christian-social ideal is the victorious war won by other people, after which one joins the victor.
-
-And if, while exercising our divine right to political error, we should happen to bet even slightly on the wrong side, we afterwards swing ourselves all the more energetically onto the victor’s side.
-
-There are victors, and there are those who belong with the victors.
+And here, ladies and gentlemen, you have one-hundred-percent *potestas indirecta*, indirect power, to which nothing can ever happen because it will certainly end up on the side of the victor, no matter what that victor looks like. For the Christian-social ideal is the victorious war won by other people, after which one joins the victor. And if, while exercising our divine right to political error, we should happen to bet even slightly on the wrong side, we afterwards swing ourselves all the more energetically onto the victor’s side. There are victors, and there are those who belong with the victors.
 
 We, at any rate, always belong to those who belong.
 
@@ -22323,11 +22155,7 @@ The latest examples: the European civil servant; the integration employee; the W
 
 One only has to ask what all of this is called in French, and then in English, and the whole West is exposed as a piece of suburban Bonn magic.
 
-Meanwhile, of course—as for me, in the old way—meanwhile several solid bourgeois families have thoroughly “consolidated” themselves.
-
-That is: they have scraped together something “under their feet,” some real estate, and had it entered in the land register.
-
-And so, if anyone dares to challenge this profit—their strictly legal profit—the matter becomes a problem of the constitutional state itself: first, law; second, state.
+Meanwhile, of course—as for me, in the old way—meanwhile several solid bourgeois families have thoroughly “consolidated” themselves. That is: they have scraped together something “under their feet,” some real estate, and had it entered in the land register. And so, if anyone dares to challenge this profit—their strictly legal profit—the matter becomes a problem of the constitutional state itself: first, law; second, state.
 
 So, for the sake of dear peace, let us grant the whole Holy Family all its plots of land, buildings, investments, shares, securities, and pensions that it carried away as the final result of its heroic struggle against the miserable criminal Hitler.
 
@@ -22367,9 +22195,7 @@ Very well.
 
 Then bon appétit, and *ad multos annos*—may it last for many years!
 
-In any case, the end is always nothing more than the great banquet of the slaughtered Leviathan.
-
-That is: the gigantic pig concerned at that particular moment is slaughtered and eaten.
+In any case, the end is always nothing more than the great banquet of the slaughtered Leviathan. That is: the gigantic pig concerned at that particular moment is slaughtered and eaten.
 
 That is *eschatologia concreta*—concrete eschatology.
 
@@ -22377,9 +22203,7 @@ At the end, when the pig has been slaughtered, every Piefke who ended up on the 
 
 Apparently the Christian age is supposed to end in the same way.
 
-Compared with this, I find Buddhism, which has no eschatology, noble and infinitely superior.
-
-This swinish expectation of the end—the slaughtered Leviathan toward which everything leads in the practical Christianity I have experienced so far—this concrete eschatology was something we recognized in 1945 through Romano Guardini and through Gustav Radbruch.
+Compared with this, I find Buddhism, which has no eschatology, noble and infinitely superior. This swinish expectation of the end—the slaughtered Leviathan toward which everything leads in the practical Christianity I have experienced so far—this concrete eschatology was something we recognized in 1945 through Romano Guardini and through Gustav Radbruch.
 
 Back then, in 1945, the German pig was slaughtered.
 
@@ -22407,11 +22231,7 @@ Moral = Anti-fascist.
 
 Much as, for the ancient Egyptians:
 
-South = upstream.
-
-And then this is proved with the help of some material or substantive natural law—in any case, always a materialist natural law.
-
-For me, the entire present-day discussion of so-called natural law means nothing more than a dead end built out of questions belonging to a situation that has long ceased to exist, and defended by a stubborn scholastic establishment.[^fn-p18-pdf18-n01]
+South = upstream. And then this is proved with the help of some material or substantive natural law—in any case, always a materialist natural law. For me, the entire present-day discussion of so-called natural law means nothing more than a dead end built out of questions belonging to a situation that has long ceased to exist, and defended by a stubborn scholastic establishment.[^fn-p18-pdf18-n01]
 
 Do not keep digging here for nothing!
 
@@ -22429,9 +22249,7 @@ A new crime—in the Eastern Zone, punishable by death since January 1956:
 
 *Abwerbung*, enticing or recruiting people away.[^fn-p18-pdf18-n02]
 
-In Norway, harpooners who hire themselves out to foreign whaling companies are punished by loss of citizenship and confiscation of property.
-
-But they are not punished if they betray the foreign whaling company’s trade secrets to the Norwegians.
+In Norway, harpooners who hire themselves out to foreign whaling companies are punished by loss of citizenship and confiscation of property. But they are not punished if they betray the foreign whaling company’s trade secrets to the Norwegians.
 
 New crimes.
 
@@ -22447,11 +22265,7 @@ Nightmare under the heading:
 
 Looting in the Castle.
 
-I try to prevent the looting.
-
-I give a good speech.
-
-And a gentleman with an aristocratic appearance betrays me to the looters with a wink.
+I try to prevent the looting. I give a good speech. And a gentleman with an aristocratic appearance betrays me to the looters with a wink.
 
 So be careful with your theory of taking.
 
@@ -22469,25 +22283,17 @@ For weeks—from 20 January to 12 February—I was in love with the title:
 
 Only Peter Diederichs advised me against it.
 
-I had won over most of the others.
-
-But it turned out that nobody knew who Hecuba was.[^fn-p18-pdf18-n03]
+I had won over most of the others. But it turned out that nobody knew who Hecuba was.[^fn-p18-pdf18-n03]
 
 Presumably because, in Germany today, Hecuba means nothing to anyone anyway.
 
 A well-educated and well-read Protestant pastor from Bielefeld, fifty years old, thought Hecuba was a name from the Old Testament.
 
-At that point I surrendered.
-
-Now I am obsessed with the title:
+At that point I surrendered. Now I am obsessed with the title:
 
 *Time Breaks into the Play: An Interpretation of Hamlet by Carl Schmitt.*
 
-I think it is very good.
-
-But it still does not hit hard enough.
-
-And everybody wants a title that hits.
+I think it is very good. But it still does not hit hard enough. And everybody wants a title that hits.
 
 Everybody wants nothing but hitting now.
 
@@ -22512,19 +22318,7 @@ Modern conversation:
 
 How many languages do you actually speak?[^fn-p18-pdf19-n01]
 
-Two dead languages, Greek and Latin, I can read well.
-
-I speak five national, which is to say half-dead, languages reasonably well:
-
-German, French, English, Spanish, and Italian.
-
-And I have mastered at least seven living languages—that is, ideological, effective, international languages: humanist, liberal-democratic, fascist, Marxist, Roman Catholic, Protestant Christian, and also positivist and Hegelian.
-
-That makes fourteen languages altogether whose vocabulary, grammar, and syntax my brain has to keep immediately available.
-
-Otherwise I would long ago have been absorbed and ground under.
-
-But as it is, I am still alive and enjoy the freedom of my mind.
+Two dead languages, Greek and Latin, I can read well. I speak five national, which is to say half-dead, languages reasonably well: German, French, English, Spanish, and Italian. And I have mastered at least seven living languages—that is, ideological, effective, international languages: humanist, liberal-democratic, fascist, Marxist, Roman Catholic, Protestant Christian, and also positivist and Hegelian. That makes fourteen languages altogether whose vocabulary, grammar, and syntax my brain has to keep immediately available. Otherwise I would long ago have been absorbed and ground under. But as it is, I am still alive and enjoy the freedom of my mind.
 
 A new answer to the question:
 
@@ -22540,9 +22334,7 @@ I am the polyglot who understands Polyphemus and no longer cares to make himself
 
 **1 March 1956**
 
-Three premiums, three premiums, I planted upon my grave.
-
-They are the three premiums attached to the legal possession of power:
+Three premiums, three premiums, I planted upon my grave. They are the three premiums attached to the legal possession of power:
 
 *obéissance préalable*—obedience in advance;
 
@@ -22552,15 +22344,7 @@ the execution of general clauses.
 
 Children, just picture that for yourselves and you will recognize the stupidity of the Totalitarians!
 
-There is no need to claim totality in order to be total.
-
-Totality emerges all by itself.
-
-Those three premiums, without which no system can function at all, contain everything needed.
-
-They contain it—that is, they contain a genuine totality without ever having to expose themselves as totality.
-
-The poor fool who openly wrote “totality” on his banner was therefore almost harmless compared with the implication contained in a power that exercises totality indirectly, through the back door, and all the more effectively: the holders of power and law.
+There is no need to claim totality in order to be total. Totality emerges all by itself. Those three premiums, without which no system can function at all, contain everything needed. They contain it—that is, they contain a genuine totality without ever having to expose themselves as totality. The poor fool who openly wrote “totality” on his banner was therefore almost harmless compared with the implication contained in a power that exercises totality indirectly, through the back door, and all the more effectively: the holders of power and law.
 
 ---
 
@@ -22574,35 +22358,15 @@ What is it that is being preserved there?
 
 Time that exists.
 
-We are located within it, and every word we speak is located within it.
+We are located within it, and every word we speak is located within it. But what, then, does it mean that only a few hours later my eagerness to write books and publish things seemed to me like the behavior of an eager little boy placing paper boats on a raging river in competition with other boys doing the same thing? That was probably an image produced by exhaustion and despair.
 
-But what, then, does it mean that only a few hours later my eagerness to write books and publish things seemed to me like the behavior of an eager little boy placing paper boats on a raging river in competition with other boys doing the same thing?
-
-That was probably an image produced by exhaustion and despair.
-
-Words and sentences are not paper boats.
-
-They are more like buds and fruit, vibrating branches and leaves of a tree;
-
-a kind of divination through vibration for our mysterious self and the selves of our friends;
-
-*creationes ex nihilo per verbum*: creation out of nothing through the word.
+Words and sentences are not paper boats. They are more like buds and fruit, vibrating branches and leaves of a tree; a kind of divination through vibration for our mysterious self and the selves of our friends; *creationes ex nihilo per verbum*: creation out of nothing through the word.
 
 ---
 
 **16 March 1956**
 
-Everything is determined by the first imprint, the first ray of light that reaches the newborn child.
-
-The murderers try to seize control of this first imprint.
-
-The fathers try to defend themselves against them.
-
-There is no escaping the *jus primae noctis*, the right of the first night.
-
-The struggle over the school and the kindergarten becomes the struggle over the *jus primae noctis*.
-
-No constitution, no social order, no system of law, and no religion can escape this central problem of the *prima nox*.
+Everything is determined by the first imprint, the first ray of light that reaches the newborn child. The murderers try to seize control of this first imprint. The fathers try to defend themselves against them. There is no escaping the *jus primae noctis*, the right of the first night. The struggle over the school and the kindergarten becomes the struggle over the *jus primae noctis*. No constitution, no social order, no system of law, and no religion can escape this central problem of the *prima nox*.
 
 ---
 
@@ -22612,41 +22376,19 @@ Christianity is Judaism for the people.
 
 “The people” are those who do not rule; who do not know Latin; who receive no wine at Communion; who do not ride on horseback but walk; who do not drive a Mercedes; who do not belong to the elite; who—in Germany today—are not entitled to reparations.[^fn-p18-pdf20-n01]
 
-Religion is opium for the people.
-
-An intoxicant.
-
-But the people had the wine taken away from them long ago.
-
-Prohibition at Communion exists in the Roman priestly Church just as much as it does in the Puritan-Methodist-Pietist universal priesthood.
-
-“The people” are those from whom the chalice has been taken.
-
-In return they are given a substitute.
-
-Or they simply take one for themselves—the first cheap rotgut liquor they can find.
+Religion is opium for the people. An intoxicant. But the people had the wine taken away from them long ago. Prohibition at Communion exists in the Roman priestly Church just as much as it does in the Puritan-Methodist-Pietist universal priesthood. “The people” are those from whom the chalice has been taken. In return they are given a substitute. Or they simply take one for themselves—the first cheap rotgut liquor they can find.
 
 A delightful Biedermeier joke: instead of saying “it is high time,” say “it is high railway.”
 
-Today even that is outdated.
+Today even that is outdated. But it is an unconscious expression of the recognition that the railway brought a different kind of time into existence: the time of the timetable; a stricter time than the one before it.
 
-But it is an unconscious expression of the recognition that the railway brought a different kind of time into existence: the time of the timetable; a stricter time than the one before it.
+The joke ceases to be a joke and becomes the objective expression of a gallows situation with gallows humor. It becomes a surrealist work of art: a lightning flash of recognition in a single instant.[^fn-p18-pdf21-n01]
 
-The joke ceases to be a joke and becomes the objective expression of a gallows situation with gallows humor.
-
-It becomes a surrealist work of art: a lightning flash of recognition in a single instant.[^fn-p18-pdf21-n01]
-
-The simplest, most obvious practical logic:
-
-If I read in the constitution of a country the sentence,
+The simplest, most obvious practical logic: If I read in the constitution of a country the sentence,
 
 “He who does not work shall not eat,”
 
-then I know that I am dealing with a country in which the person whom they want to starve is not allowed to work.
-
-And if he is nevertheless forced to work, then that work is punishment and coercion, for which he receives not food but an input of fuel.
-
-Meanwhile the chatter of the ruling class counts as “work,” for which they receive especially good food and an expense allowance.
+then I know that I am dealing with a country in which the person whom they want to starve is not allowed to work. And if he is nevertheless forced to work, then that work is punishment and coercion, for which he receives not food but an input of fuel. Meanwhile the chatter of the ruling class counts as “work,” for which they receive especially good food and an expense allowance.
 
 The backwardness of the bourgeois expression:
 
@@ -22654,37 +22396,11 @@ The backwardness of the bourgeois expression:
 
 “Compensation” is good.
 
-Apparently it is compensation for sacrifice.
+Apparently it is compensation for sacrifice. They make sacrifices. They sacrifice themselves. A sacrifice is something for which one can demand compensation. New definition of the elite: the elite are those whose work counts as sacrifice; as self-sacrifice.
 
-They make sacrifices.
+The difference between concrete and abstract arises from the difference between intoxicants. The European intoxicants—wine and beer, perhaps spirits too?—what is called alcohol, put me into the concrete situation and sharpen my knowledge of reality. *In vino veritas* means: I see myself and other people more clearly and more truthfully. It sharpens my sense for what is actually present in the moment. Then it exaggerates this clarity of vision and finally simply knocks me to the ground. But it is always a concrete insight. That is the effect of good wine.
 
-They sacrifice themselves.
-
-A sacrifice is something for which one can demand compensation.
-
-New definition of the elite: the elite are those whose work counts as sacrifice; as self-sacrifice.
-
-The difference between concrete and abstract arises from the difference between intoxicants.
-
-The European intoxicants—wine and beer, perhaps spirits too?—what is called alcohol, put me into the concrete situation and sharpen my knowledge of reality.
-
-*In vino veritas* means:
-
-I see myself and other people more clearly and more truthfully.
-
-It sharpens my sense for what is actually present in the moment.
-
-Then it exaggerates this clarity of vision and finally simply knocks me to the ground.
-
-But it is always a concrete insight.
-
-That is the effect of good wine.
-
-The other drugs work in a magical and abstract way.
-
-Christian wine worked concretely for as long as it had not yet been taken away from the laity.
-
-For as long as that remained true, it cured people of anthropophagy.
+The other drugs work in a magical and abstract way. Christian wine worked concretely for as long as it had not yet been taken away from the laity. For as long as that remained true, it cured people of anthropophagy.
 
 Mescaline, by contrast, produces abstract utopias.
 
@@ -22694,11 +22410,7 @@ anthropophagy;
 
 cannibalism.
 
-Wine does not create utopias.
-
-On the contrary: it immunizes against them.
-
-There was not a single utopia for as long as the Christian sacrament of bread and wine remained intact—that is, for as long as the layman still took the chalice.
+Wine does not create utopias. On the contrary: it immunizes against them. There was not a single utopia for as long as the Christian sacrament of bread and wine remained intact—that is, for as long as the layman still took the chalice.
 
 **1 April 1956, Easter Sunday**[^fn-p18-pdf21-n02]
 
@@ -22710,25 +22422,19 @@ Good Arator.
 
 Now you have reached that point.
 
-There is a higher law: the people from whom a universal impulse goes out must themselves perish, while the impulse passes beyond them.[^fn-p18-pdf21-n03]
-
-Hegel discovered this higher law.
+There is a higher law: the people from whom a universal impulse goes out must themselves perish, while the impulse passes beyond them.[^fn-p18-pdf21-n03] Hegel discovered this higher law.
 
 (*Positions and Concepts*, p. 113, note.)
 
 I.
 
-He was probably thinking of Jews and Greeks.
-
-These are the small peoples from whom the great impulses went out.
+He was probably thinking of Jews and Greeks. These are the small peoples from whom the great impulses went out.
 
 II.
 
 <!-- FACSIMILE_INSERT: asset="facsimiles/P18_source-360_facsimile-01.jpeg" part="18" printed-page="344" source-page="360" part-pdf-page="22" sequence="1-of-1" -->
 
-These peoples are not eternal.
-
-The great empires, by contrast, establish themselves for eternity.
+These peoples are not eternal. The great empires, by contrast, establish themselves for eternity.
 
 The great model for us is *Roma aeterna*, eternal Rome.
 
@@ -22746,19 +22452,9 @@ Kill the dead at last!
 
 More terrible still, however, are the empires that are dying now before our eyes.
 
-We watch them with horror.
+We watch them with horror. They do not want to die. The older they become, the more tenaciously they cling on. They cling to their vanishing power.
 
-They do not want to die.
-
-The older they become, the more tenaciously they cling on.
-
-They cling to their vanishing power.
-
-Like Moloch, they devour millions of human lives.
-
-They drink rivers of blood merely to remain in this world for one single hour longer.
-
-They have Niehans-style fresh-cell injections administered to themselves, made from the blood of sacrificed hecatombs.
+Like Moloch, they devour millions of human lives. They drink rivers of blood merely to remain in this world for one single hour longer. They have Niehans-style fresh-cell injections administered to themselves, made from the blood of sacrificed hecatombs.
 
 Just ten more years.
 
@@ -22816,17 +22512,11 @@ Below it:
 
 **2 April 1956, Easter Monday**
 
-In Henri Lévy-Bruhl I found the following contrast (in an article from 29 March 1956 in *Le Monde*): socialism is the opposite of paternalism.
-
-The rule of law—*de la loi*—was also opposed to paternalism: law against the father, *loi contre le père*. This was already there in Michelet.
-
-So socialism = rejection of inheritance rights.
+In Henri Lévy-Bruhl I found the following contrast (in an article from 29 March 1956 in *Le Monde*): socialism is the opposite of paternalism. The rule of law—*de la loi*—was also opposed to paternalism: law against the father, *loi contre le père*. This was already there in Michelet. So socialism = rejection of inheritance rights.
 
 Property without inheritance.
 
-The only thing I inherit is my own body.
-
-But who did you inherit it from?
+The only thing I inherit is my own body. But who did you inherit it from?
 
 In the age of fertilization at a distance.
 
@@ -22850,9 +22540,7 @@ Yes, indeed, I want to become a Christian.
 
 A Christian in the abstract, or a Christian in concrete reality?
 
-I should think: in concrete reality.
-
-So that means: a Christian in 1956. CDU, or where exactly?
+I should think: in concrete reality. So that means: a Christian in 1956. CDU, or where exactly?
 
 My dear friend, Christianity is in safe hands!
 
@@ -22870,15 +22558,11 @@ How boldly and openly Hobbes looks at reality.
 
 How centered on the individual Pascal is; how sober and masculine Hobbes is.
 
-How completely Hobbes sees through everyone, including himself, in their hunger for social prestige.
-
-And how painfully cramped and repressed poor Pascal becomes as he slips away into another world!
+How completely Hobbes sees through everyone, including himself, in their hunger for social prestige. And how painfully cramped and repressed poor Pascal becomes as he slips away into another world!
 
 No. Give me Hobbes instead.
 
-If all human unhappiness comes from our inability to remain quietly “in a room”—*dans une chambre*—then surely the first thing to do is give people rest and a room, as Pascal himself had.
-
-But too many of us have been driven out of our rooms too many times.
+If all human unhappiness comes from our inability to remain quietly “in a room”—*dans une chambre*—then surely the first thing to do is give people rest and a room, as Pascal himself had. But too many of us have been driven out of our rooms too many times.
 
 ---
 
@@ -22886,9 +22570,7 @@ But too many of us have been driven out of our rooms too many times.
 
 There is a good, German, true, genuine, wonderfully cozy translation of the word “social.”
 
-It is: **folksy and affable**—*leutselig*.
-
-And so our bigwigs are all wonderfully *leutselig*.
+It is: **folksy and affable**—*leutselig*. And so our bigwigs are all wonderfully *leutselig*.
 
 Stalin was *leutselig*.
 
@@ -22896,9 +22578,7 @@ Hitler was *leutselig*—and how!
 
 The Yankees cannot possibly be *leutselig*, because they come from Calvinist stock.
 
-The Puritan is not *leutselig*.
-
-But he keeps smiling and shouts, “Hello!”
+The Puritan is not *leutselig*. But he keeps smiling and shouts, “Hello!”
 
 ---
 
@@ -22912,13 +22592,9 @@ Magnificent.
 
 No sexual asceticism, and no asceticism of property.
 
-On the European continent, the break takes the form of opposition to the celibate bureaucracy—that is, opposition to sexual asceticism.
+On the European continent, the break takes the form of opposition to the celibate bureaucracy—that is, opposition to sexual asceticism. Once sexual asceticism loses its value, property asceticism becomes overvalued.
 
-Once sexual asceticism loses its value, property asceticism becomes overvalued.
-
-The real world conflict today is between Moscow and Rome: property asceticism—the abolition of private property—against sexual asceticism, preached by a celibate bureaucracy.
-
-But the heroes of asceticism are weakening on both sides.
+The real world conflict today is between Moscow and Rome: property asceticism—the abolition of private property—against sexual asceticism, preached by a celibate bureaucracy. But the heroes of asceticism are weakening on both sides.
 
 Their successors and beneficiaries are willing to negotiate.
 
@@ -22940,17 +22616,11 @@ Space is destroyed by the perspective of space.
 
 Time is destroyed by the perspective of time—that is, by the relativity of systems of motion.
 
-Public opinion ends in front of the little buzzing box of a radio: in front of the isolated, blind listener.
-
-There were times when a person could escape **into public life**.
-
-Today it is better to escape into obscurity.
+Public opinion ends in front of the little buzzing box of a radio: in front of the isolated, blind listener. There were times when a person could escape **into public life**. Today it is better to escape into obscurity.
 
 But all these perspectives and relativities shatter against one fact: time cannot be repeated.
 
-Time is irreversible.
-
-And so people flee into the future—which is destroyed by that very flight—and into the cosmos—which is destroyed in exactly the same way.
+Time is irreversible. And so people flee into the future—which is destroyed by that very flight—and into the cosmos—which is destroyed in exactly the same way.
 
 ---
 
@@ -22974,9 +22644,7 @@ And whatever comes to you is also what is due to you—as I already wrote on 18 
 
 And so they all come into my room on the radio waves of the great broadcasting stations:
 
-Roosevelt and Hitler, statesmen and rulers.
-
-They come into my attic room and pay me a personal visit.
+Roosevelt and Hitler, statesmen and rulers. They come into my attic room and pay me a personal visit.
 
 More persecutors than visitors, these great frauds.
 
@@ -23028,13 +22696,7 @@ Forward to nuclear democracy!!
 
 **22 May 1956**
 
-I appeared in this world in July 1888.
-
-It came as a complete surprise to me, because I had not planned myself.
-
-I had not designed myself.
-
-So I suppose I was thrown.
+I appeared in this world in July 1888. It came as a complete surprise to me, because I had not planned myself. I had not designed myself. So I suppose I was thrown.
 
 Ejaculated.
 
@@ -23046,47 +22708,27 @@ Please forgive me.
 
 **29 May 1956**
 
-*The Loss of the Center*: that is the withholding of the chalice.
-
-The destruction of the sacrament of everyday life.
-
-The destruction of bread and wine—that is, of the Eucharist.
+*The Loss of the Center*: that is the withholding of the chalice. The destruction of the sacrament of everyday life. The destruction of bread and wine—that is, of the Eucharist.
 
 Horrifying.
 
-But Mr. von Sedlmayr says nothing about that.
-
-Here the art historian’s politeness falls silent.
+But Mr. von Sedlmayr says nothing about that. Here the art historian’s politeness falls silent.
 
 ---
 
 **31 May 1956**
 
-God is dead and Reaction keeps marching anyway—and now it is only the marching that matters, in the spirit of Forward Everywhere.
-
-But whatever it may be—God dead or alive, Reaction or Revolution, whatever it may be—sociology will hunt all these foxes out of their holes, reactionary and revolutionary alike, and drive them into the open.
-
-In the end, Reaction and Revolution will form a coalition and coexist, if only to exterminate this kind of sociology as a form of fascism.
+God is dead and Reaction keeps marching anyway—and now it is only the marching that matters, in the spirit of Forward Everywhere. But whatever it may be—God dead or alive, Reaction or Revolution, whatever it may be—sociology will hunt all these foxes out of their holes, reactionary and revolutionary alike, and drive them into the open. In the end, Reaction and Revolution will form a coalition and coexist, if only to exterminate this kind of sociology as a form of fascism.
 
 ---
 
 **Corpus Christi, evening**
 
-Entirely unsuspecting, on the evening of Corpus Christi 1956, I am sitting in my attic room wanting to read something about Hegel.
+Entirely unsuspecting, on the evening of Corpus Christi 1956, I am sitting in my attic room wanting to read something about Hegel. In a situation like this, the best people to read are the officially approved Marxist Hegelians. So I read Ernst Bloch, *Subject-Object: Explanations of Hegel*.[^fn-p19-pdf03-n02]
 
-In a situation like this, the best people to read are the officially approved Marxist Hegelians.
+Yes indeed. Explanations of Hegel. Something we can certainly use today.
 
-So I read Ernst Bloch, *Subject-Object: Explanations of Hegel*.[^fn-p19-pdf03-n02]
-
-Yes indeed.
-
-Explanations of Hegel.
-
-Something we can certainly use today.
-
-I read about the fourteen stages of the road that Spirit passes through, one after another.
-
-They are, of course, the—of all numbers, precisely fourteen—Stations of the Cross prayed by the Catholic Christian people.
+I read about the fourteen stages of the road that Spirit passes through, one after another. They are, of course, the—of all numbers, precisely fourteen—Stations of the Cross prayed by the Catholic Christian people.
 
 Mr. Ernst Bloch knows quite a lot.
 
@@ -23096,13 +22738,7 @@ Extremely edifying.
 
 Thrilling reading.
 
-I sit there reading, astonished by this terrifyingly well-informed Ernst Bloch.[^fn-p19-pdf03-n03]
-
-I read his account of the fourteen stages.
-
-I check Hegel.
-
-I read from a Stations of the Cross prayer book that belonged to my good parents, who many times in their lives walked and prayed the fourteen Stations of the Cross.
+I sit there reading, astonished by this terrifyingly well-informed Ernst Bloch.[^fn-p19-pdf03-n03] I read his account of the fourteen stages. I check Hegel. I read from a Stations of the Cross prayer book that belonged to my good parents, who many times in their lives walked and prayed the fourteen Stations of the Cross.
 
 Everything fits.
 
@@ -23132,85 +22768,29 @@ And gets a professorship for it.[^fn-p19-pdf04-n01]
 
 **7 June 1956**
 
-Everything is really so terribly simple.
-
-Whenever you run into some enormous difficulty, whenever something absolutely horrible does not suit you, simply become moral.
-
-Become highly moral.
-
-Become indignant.
-
-Set yourself up as the prosecutor.
-
-Raise the question of guilt.
-
-Put yourself in the role of accuser and turn the whole thing into a moral problem.
-
-Raise the question of guilt.
-
-But remember the first rule:
+Everything is really so terribly simple. Whenever you run into some enormous difficulty, whenever something absolutely horrible does not suit you, simply become moral. Become highly moral. Become indignant. Set yourself up as the prosecutor. Raise the question of guilt. Put yourself in the role of accuser and turn the whole thing into a moral problem. Raise the question of guilt. But remember the first rule:
 
 1. **Make sure that you are the one who asks the question of guilt.**
 
-Then nothing can happen to you.
-
-You automatically—*eo ipso*—become the morally superior person.
-
-As the accuser, which means as the persecutor, you are recognized as such.
-
-The person who asks the question is master of the answer.
-
-The person who asks who is guilty is master of the situation.
-
-So make sure that **you** are the one who asks the question of guilt.
+Then nothing can happen to you. You automatically—*eo ipso*—become the morally superior person. As the accuser, which means as the persecutor, you are recognized as such. The person who asks the question is master of the answer. The person who asks who is guilty is master of the situation. So make sure that **you** are the one who asks the question of guilt.
 
 And remember the second rule:
 
 2. **Make sure that among the guilty there is at least one person who has something worth taking.**
 
-Perhaps he has a fine office, a fine house, ox and donkey, shares, and all sorts of other pleasant things.
+Perhaps he has a fine office, a fine house, ox and donkey, shares, and all sorts of other pleasant things. Once he has been declared guilty, these things can be taken away from him. He has forfeited them. They can be removed from him once you have secured recognition as his persecutor. Once you have legally obtained that position, you can take whatever he has. And your **taking** is then recognized as good and just.
 
-Once he has been declared guilty, these things can be taken away from him.
-
-He has forfeited them.
-
-They can be removed from him once you have secured recognition as his persecutor.
-
-Once you have legally obtained that position, you can take whatever he has.
-
-And your **taking** is then recognized as good and just.
-
-You may enjoy what you have taken in complete security.
-
-So make sure that you are in the right, so that things may go well for you and you may live long upon the earth.
+You may enjoy what you have taken in complete security. So make sure that you are in the right, so that things may go well for you and you may live long upon the earth.
 
 ---
 
 **6 July 1956**
 
-My copy of Leo Strauss’s book on Spinoza (1930) has recently fallen into the hands of Karl Löwith.
+My copy of Leo Strauss’s book on Spinoza (1930) has recently fallen into the hands of Karl Löwith. He threw himself on it like a persecutor finding a trail, like a detective discovering the evidence of a crime, like a fortune hunter finding a will written in his favor. But I can think only of the strange destinies of books and of individual copies of books.
 
-He threw himself on it like a persecutor finding a trail, like a detective discovering the evidence of a crime, like a fortune hunter finding a will written in his favor.
+Without Strauss’s book, my own book on the *Leviathan* (1938) would never have been written. From 1932 to 1945 it stayed with me. In the summer of 1945 I was still making many notes in it and writing remarks in the margins. Then, in October 1945, the Americans confiscated it along with my other books and carried it away. It was among the books returned to me in 1952, which had most recently been stored in Mainz. From there, in a fit of despair and *taedium fugae*—weariness of flight—I sold the whole collection cheaply to the Kerst antiquarian bookshop in Frankfurt am Main. Now the library in Heidelberg has acquired it, and Löwith has traded in his own bound copy so that he can possess my marginal notes.[^fn-p19-pdf05-n01]
 
-But I can think only of the strange destinies of books and of individual copies of books.
-
-Without Strauss’s book, my own book on the *Leviathan* (1938) would never have been written.
-
-From 1932 to 1945 it stayed with me.
-
-In the summer of 1945 I was still making many notes in it and writing remarks in the margins.
-
-Then, in October 1945, the Americans confiscated it along with my other books and carried it away.
-
-It was among the books returned to me in 1952, which had most recently been stored in Mainz.
-
-From there, in a fit of despair and *taedium fugae*—weariness of flight—I sold the whole collection cheaply to the Kerst antiquarian bookshop in Frankfurt am Main.
-
-Now the library in Heidelberg has acquired it, and Löwith has traded in his own bound copy so that he can possess my marginal notes.[^fn-p19-pdf05-n01]
-
-Obviously, it is not only our actions that follow us.
-
-Our glosses follow us too!
+Obviously, it is not only our actions that follow us. Our glosses follow us too!
 
 Do not worry about finding readers, you good and faithful writers!
 
@@ -23220,11 +22800,7 @@ Should that make us cautious?
 
 On the contrary!
 
-It should encourage us to do everything without intention.
-
-Unintentionally.
-
-And only faithfully.
+It should encourage us to do everything without intention. Unintentionally. And only faithfully.
 
 ---
 
@@ -23239,15 +22815,7 @@ Was I created by law—or arbitrary will?
 Am I a god? A fool … one just like you?
 Am I myself—or merely a sign?
 
-Who could have written that?
-
-It is prophetic enough.
-
-Naturally, it comes from Vienna—the Vienna of 1904.
-
-Hitler was living there at the time, a fifteen-year-old adolescent tough.
-
-And the antennae of a Jewish writer sensed him and his destiny, in connection with the Great Wurstel, with whom a whole century of beautiful appearances and pure play had to come to an end.
+Who could have written that? It is prophetic enough. Naturally, it comes from Vienna—the Vienna of 1904. Hitler was living there at the time, a fifteen-year-old adolescent tough. And the antennae of a Jewish writer sensed him and his destiny, in connection with the Great Wurstel, with whom a whole century of beautiful appearances and pure play had to come to an end.
 
 ---
 
@@ -23267,17 +22835,13 @@ Compare the illustration for Gelimer’s laughter: 24 March 1955 (IV, p. 104).
 
 **12 July 1956**
 
-The speech given by CDU member Nellen in the Bonn Bundestag on Friday evening, 6 July 1956 (159th session, report pp. 8840 ff.)[^fn-p19-pdf06-n01] appeals to the concrete judgment of conscience in each concrete situation, and wants the state to recognize this judgment of the situation in cases of conscientious objection to military service.
-
-The Social Democrats, especially Arndt, applaud.
+The speech given by CDU member Nellen in the Bonn Bundestag on Friday evening, 6 July 1956 (159th session, report pp. 8840 ff.)[^fn-p19-pdf06-n01] appeals to the concrete judgment of conscience in each concrete situation, and wants the state to recognize this judgment of the situation in cases of conscientious objection to military service. The Social Democrats, especially Arndt, applaud.
 
 And nobody shouts:
 
 **Situation ethics!**
 
-That is how deeply these normativists have themselves sunk into the very situation ethics they reject.
-
-Hermann Heller’s cry of “situation!” during the Leipzig trial in October 1932[^fn-p19-pdf06-n02] is still ringing in my ears today.
+That is how deeply these normativists have themselves sunk into the very situation ethics they reject. Hermann Heller’s cry of “situation!” during the Leipzig trial in October 1932[^fn-p19-pdf06-n02] is still ringing in my ears today.
 
 Carlo Schmid called out:
 
@@ -23285,43 +22849,21 @@ Carlo Schmid called out:
 
 Who will judge?
 
-And with that he wanted to make the conscience of the individual the final court of appeal.
-
-But conscience is not a court.
-
-It is an abyss.
+And with that he wanted to make the conscience of the individual the final court of appeal. But conscience is not a court. It is an abyss.
 
 ---
 
 **16 July 1956**
 
-Ernst Jünger counts himself, with justified pride, among the Order of the Shandyists.
+Ernst Jünger counts himself, with justified pride, among the Order of the Shandyists. We, however, belong to the race of Rameau’s nephews.[^fn-p19-pdf06-n03] Only someone who belongs to this race has been initiated into reality.
 
-We, however, belong to the race of Rameau’s nephews.[^fn-p19-pdf06-n03]
+No fascist and no antifascist belongs to it. No persecutor and no believer in restitution belongs to it. But Mr. von Goethe certainly belongs to our brotherhood, at least as an honorary member, because it was he who introduced this Nephew into Germany.
 
-Only someone who belongs to this race has been initiated into reality.
-
-No fascist and no antifascist belongs to it.
-
-No persecutor and no believer in restitution belongs to it.
-
-But Mr. von Goethe certainly belongs to our brotherhood, at least as an honorary member, because it was he who introduced this Nephew into Germany.
-
-Hegel belongs to it, because he raised the Nephew to the rank of his chief witness.
-
-So too does the magnificent gang that wrote Shakespeare’s plays in the sixteenth and seventeenth centuries.
-
-For a long time Marxism was able to live off this genuine membership in the brotherhood of Rameau’s Nephew.
+Hegel belongs to it, because he raised the Nephew to the rank of his chief witness. So too does the magnificent gang that wrote Shakespeare’s plays in the sixteenth and seventeenth centuries. For a long time Marxism was able to live off this genuine membership in the brotherhood of Rameau’s Nephew.
 
 Karl Marx and Friedrich Engels were brothers of the Nephew.
 
-Lenin and his Russian comrades were already exploiters of him.
-
-And with exploitation begins surplus value.
-
-With surplus value begins high politics.
-
-And everything after that is merely what follows with time.
+Lenin and his Russian comrades were already exploiters of him. And with exploitation begins surplus value. With surplus value begins high politics. And everything after that is merely what follows with time.
 
 But we carry on the race of Rameau’s nephews in its pure form.
 
@@ -23343,9 +22885,7 @@ No massacre of the children of Bethlehem, no gassing operation, no Katyn, no Hir
 
 A beautiful parallel:
 
-Shylock stands to Nathan the Wise as Caliban stands to Papageno.
-
-This is an example of a whole series of parallels = implications.
+Shylock stands to Nathan the Wise as Caliban stands to Papageno. This is an example of a whole series of parallels = implications.
 
 Careful!
 
@@ -23357,9 +22897,7 @@ Musil’s *Parallel Action* turns into an automatically parallel reaction!
 
 How grotesque this European nineteenth century was!
 
-What a miserable elite it must have had—a miserable elite in state, Church, and society!
-
-They let Russian professional revolutionaries scare them out of their wits.[^fn-p19-pdf07-n01]
+What a miserable elite it must have had—a miserable elite in state, Church, and society! They let Russian professional revolutionaries scare them out of their wits.[^fn-p19-pdf07-n01]
 
 Conservatism in the face of genuine professional revolutionaries is passivism and masochism.
 
@@ -23367,9 +22905,7 @@ Fortunately, however, the Russian professional revolutionaries died out with Sta
 
 De-Stalinization is the active form of conservatism.
 
-Anyone who has already taken what he wanted now blesses himself and what he owns.
-
-He declares the taking finished and makes security the foundation of the existing order.
+Anyone who has already taken what he wanted now blesses himself and what he owns. He declares the taking finished and makes security the foundation of the existing order.
 
 The Taking is over.
 
@@ -23392,9 +22928,7 @@ There is only one Shakespeare play that is Christian through and through—and C
 
 It is the old Christian theme of the Jew who is cheated and the Devil who is finally cheated too.
 
-Naturally, that can only produce a comedy.
-
-There simply cannot be a Christian tragedy.
+Naturally, that can only produce a comedy. There simply cannot be a Christian tragedy.
 
 At most, there can be a tragedy about the hidden God of the Jansenists, as in Racine.
 
@@ -23404,27 +22938,17 @@ Where things are Christian, comedy is the superior form.
 
 You can still see this in Hegel’s placing of comedy—with its humor and irony—above tragedy, and above all in his association of present reality with comedy.
 
-Lessing’s *Nathan* is, as Kommerell says, the “tragedy” of reconciliation and neutralization.
+Lessing’s *Nathan* is, as Kommerell says, the “tragedy” of reconciliation and neutralization. So it is not a tragedy at all.
 
-So it is not a tragedy at all.
-
-The neutralization is carried not by the state, in the European sense, but by one wise individual.
-
-So from comedy we move onward to neutralization.
-
-Comedy itself is **not yet** neutralization.
+The neutralization is carried not by the state, in the European sense, but by one wise individual. So from comedy we move onward to neutralization. Comedy itself is **not yet** neutralization.
 
 That is very important.
 
-From Shylock the rough to Nathan the sly.
-
-But how can even the wisest man carry the burden of neutralization?
+From Shylock the rough to Nathan the sly. But how can even the wisest man carry the burden of neutralization?
 
 A play about compromise!
 
-Max Kommerell is right to make fun of it.
-
-Even from the Jewish point of view, I would prefer Shylock.
+Max Kommerell is right to make fun of it. Even from the Jewish point of view, I would prefer Shylock.
 
 The parable of the counterfeit rings could only have been invented in the brain of a counterfeiter and believed by harmless idealists.
 
@@ -23432,37 +22956,11 @@ The parable of the counterfeit rings could only have been invented in the brain 
 
 **25 August 1956**
 
-Consumption is the continuation of production by other means.
+Consumption is the continuation of production by other means. That is the splendid definition Jürgen Habermas gave at the “Bund” conference in Wuppertal in October 1955.[^fn-p19-pdf08-n01] The subject was: cultural consumption and consumer culture.
 
-That is the splendid definition Jürgen Habermas gave at the “Bund” conference in Wuppertal in October 1955.[^fn-p19-pdf08-n01]
+Back in 1925, as a joke, I defined consumption as: service to the producer. But Habermas’s definition is much better and has far greater potential. First, it can be reversed any way one likes. Second, it can be applied generally to our present stage of development. For example:
 
-The subject was: cultural consumption and consumer culture.
-
-Back in 1925, as a joke, I defined consumption as: service to the producer.
-
-But Habermas’s definition is much better and has far greater potential.
-
-First, it can be reversed any way one likes.
-
-Second, it can be applied generally to our present stage of development.
-
-For example:
-
-Defense is the continuation of attack by other means—and vice versa.
-
-Leisure is the continuation of working time by other means.
-
-Adultery is the continuation of marriage by other means.
-
-Drinking beer is the continuation of university study by other means—and vice versa.
-
-And finally—if we think about the history of the wars of religion, the Inquisition, and the persecution of heretics—even the Devil is only the continuation of God by other means.
-
-The *opus Dei*, the work of God, passes over into the *opus Diaboli*, the work of the Devil, until in the end the two become interchangeable.
-
-Nathan the Wise becomes the continuation of Shylock by other means.
-
-Their interchangeability shows that “by other means” really means nothing more than “in other words.”
+Defense is the continuation of attack by other means—and vice versa. Leisure is the continuation of working time by other means. Adultery is the continuation of marriage by other means. Drinking beer is the continuation of university study by other means—and vice versa. And finally—if we think about the history of the wars of religion, the Inquisition, and the persecution of heretics—even the Devil is only the continuation of God by other means. The *opus Dei*, the work of God, passes over into the *opus Diaboli*, the work of the Devil, until in the end the two become interchangeable. Nathan the Wise becomes the continuation of Shylock by other means. Their interchangeability shows that “by other means” really means nothing more than “in other words.”
 
 So, for example:
 
@@ -23472,13 +22970,9 @@ Or:
 
 Nathan—in other words, Shylock.
 
-Shylock becomes a tragic hero.
+Shylock becomes a tragic hero. For roughly fifty years now, the theaters have played him that way.
 
-For roughly fifty years now, the theaters have played him that way.
-
-Karl Marx, in *Capital*, Book I, p. 279, in the discussion of the struggle over the normal working day, still treats Shylock as the symbol of exploitative capital.
-
-Now the exploiter and usurer becomes a tragic hero.
+Karl Marx, in *Capital*, Book I, p. 279, in the discussion of the struggle over the normal working day, still treats Shylock as the symbol of exploitative capital. Now the exploiter and usurer becomes a tragic hero.
 
 What magnificent progress in the development of capitalism!
 
@@ -23502,15 +22996,11 @@ This is my memorial day.
 
 When I was asked to comment on the tenth anniversary of the Nuremberg judgment:
 
-Ask Mr. Kranzbühler.
-
-He can do it much more beautifully.[^fn-p19-pdf08-n02]
+Ask Mr. Kranzbühler. He can do it much more beautifully.[^fn-p19-pdf08-n02]
 
 For me, the matter is different.
 
-I have to tell myself: in the house of the hanged man, one does not speak of the rope.
-
-But in the house of the executioner, people talk all the more about law and justice.
+I have to tell myself: in the house of the hanged man, one does not speak of the rope. But in the house of the executioner, people talk all the more about law and justice.
 
 ---
 
@@ -23536,15 +23026,9 @@ What good is all this de-Nazification or de-Stalinization if the most important 
 
 I remember the conversation with Nicolaus.
 
-The German is a monad.
+The German is a monad. He reflects the universe, but he has no windows. A new type now growing up believes he can acquire windows by tearing down his house.
 
-He reflects the universe, but he has no windows.
-
-A new type now growing up believes he can acquire windows by tearing down his house.
-
-Becoming houseless as a form of clearing out the clutter.
-
-The atomic bomb as the specific instrument of clearing out the clutter.
+Becoming houseless as a form of clearing out the clutter. The atomic bomb as the specific instrument of clearing out the clutter.
 
 ---
 
@@ -23572,9 +23056,7 @@ Creation out of nothing.
 
 *Creatio ex nihilo.*
 
-Sociologically, this means: the conquerors come out of the desert;[^fn-p19-pdf09-n01] and then: Taking / Dividing / Grazing.
-
-But no conquerors of the non-Paradise ever come **out of Paradise**.
+Sociologically, this means: the conquerors come out of the desert;[^fn-p19-pdf09-n01] and then: Taking / Dividing / Grazing. But no conquerors of the non-Paradise ever come **out of Paradise**.
 
 From Paradise one can only be expelled.
 
@@ -23618,9 +23100,7 @@ And so on and so on.
 
 Take care.
 
-Your persecutors are trying to drive you into persecution mania.
-
-Only when they have robbed you of your reason and taken away your mind have they truly won.
+Your persecutors are trying to drive you into persecution mania. Only when they have robbed you of your reason and taken away your mind have they truly won.
 
 They want to make you nervous.
 
@@ -23628,26 +23108,16 @@ They want to throw you into a panic.
 
 They want you to tremble in fear at every sound.
 
-Every blast of a car horn is supposed to feel like an attack directed personally at you.
+Every blast of a car horn is supposed to feel like an attack directed personally at you. Every sound that disturbs you is supposed to become their ally. So be careful and remain normal!
 
-Every sound that disturbs you is supposed to become their ally.
-
-So be careful and remain normal!
-
-Every exaggeration harms you.
-
-But so does every understatement through irony, sarcasm, or parody.
-
-Nobody must be allowed to push you off the path of reason.
+Every exaggeration harms you. But so does every understatement through irony, sarcasm, or parody. Nobody must be allowed to push you off the path of reason.
 
 Listen and suffer,
 suffer and listen!
 
 And leave aside the silly pleasure of artistic jokes, no matter how witty they may be.
 
-That includes amusing exercises in rhetorical forms such as **tmesis**: the Suez—oh my God—Canal; or: the science—good heavens—of law.
-
-Every sharpening of the point harms your case.
+That includes amusing exercises in rhetorical forms such as **tmesis**: the Suez—oh my God—Canal; or: the science—good heavens—of law. Every sharpening of the point harms your case.
 
 Suffer and listen,
 listen and suffer!
@@ -23672,11 +23142,7 @@ Humanity had need of them, Hegel says—and immediately they appeared.
 
 The hour of consumer society has arrived.
 
-The essence of the human being ceases to be work and becomes play.
-
-But the atomic bomb enters as the violent intrusion of time into play.
-
-And so—is this still play?—Meyerbeer and Offenbach sit themselves down on top of the system of tonal music that patient monks worked out over a thousand years of Christianity.
+The essence of the human being ceases to be work and becomes play. But the atomic bomb enters as the violent intrusion of time into play. And so—is this still play?—Meyerbeer and Offenbach sit themselves down on top of the system of tonal music that patient monks worked out over a thousand years of Christianity.
 
 **17 January 1957**[^fn-p19-pdf10-n01]
 
@@ -23684,13 +23150,9 @@ I asked Kojève:
 
 What did humanity need when the atomic bomb was invented?
 
-And I asked him for an authentically Hegelian answer.
+And I asked him for an authentically Hegelian answer. He replied:
 
-He replied:
-
-Humanity needed a moral alibi, an excuse that would allow it to stop fighting wars.[^fn-p19-pdf10-n02]
-
-Because a new humanity is beginning: without war, without play, without heroism, without risk.
+Humanity needed a moral alibi, an excuse that would allow it to stop fighting wars.[^fn-p19-pdf10-n02] Because a new humanity is beginning: without war, without play, without heroism, without risk.
 
 Total welfare begins.
 
@@ -23698,17 +23160,9 @@ We are not standing at the end of all security.
 
 We are standing at the beginning of total security.
 
-That was Kojève’s apparently optimistic answer.
+That was Kojève’s apparently optimistic answer. He added that this new Paradise would not be **his** Paradise.
 
-He added that this new Paradise would not be **his** Paradise.
-
-The Anglo-Saxons have a simple answer to my question: humanity needs the atomic bomb so that, if necessary, it can use force to stop the senseless overpopulation of the underdeveloped regions.
-
-That is the meaning of what people such as Julian Huxley say.
-
-It grows out of Malthusianism, itself a product of island anxiety.
-
-But the simplest and most popular answer remains simple criminalization: humanity needs such a weapon of destruction in order to eliminate **my enemy**—the final obstacle standing in the way of world peace.
+The Anglo-Saxons have a simple answer to my question: humanity needs the atomic bomb so that, if necessary, it can use force to stop the senseless overpopulation of the underdeveloped regions. That is the meaning of what people such as Julian Huxley say. It grows out of Malthusianism, itself a product of island anxiety. But the simplest and most popular answer remains simple criminalization: humanity needs such a weapon of destruction in order to eliminate **my enemy**—the final obstacle standing in the way of world peace.
 
 With these reflections I continue the final paragraph of my *Nomos of the Earth*, which suddenly breaks off, quickly drops the curtain, and makes itself invisible to the persecutors.
 
@@ -23724,9 +23178,7 @@ Will another person ever be found who understands it?
 
 Konrad Kaletsch told me about the incident involving Flick, de Menthon, and Armengaud during the visit of the delegates from the Coal and Steel Community to the Maxhütte works.
 
-In the end, the furious accuser and criminalizer was satisfied when the old Friedrich Flick, now seventy-five, agreed not to give a welcoming speech.
-
-So the two men sat silently at the same table.
+In the end, the furious accuser and criminalizer was satisfied when the old Friedrich Flick, now seventy-five, agreed not to give a welcoming speech. So the two men sat silently at the same table.
 
 I must ask Kaletsch sometime whether they shook hands.
 
@@ -23734,21 +23186,13 @@ In Flick’s case, that is how the matter ended.
 
 In my case it cannot end like that.
 
-I am defenseless and Flick is powerful.
-
-But I am bound to conscious language and speech.
-
-Even so, I felt deep sympathy for the capable old Flick, and as a jurist I was ashamed of the legal criminalizer who becomes trapped in his own constructions and can no longer make peace.
+I am defenseless and Flick is powerful. But I am bound to conscious language and speech. Even so, I felt deep sympathy for the capable old Flick, and as a jurist I was ashamed of the legal criminalizer who becomes trapped in his own constructions and can no longer make peace.
 
 ---
 
 **21 January 1957**
 
-There the diary appears as a small institution.
-
-But the great beneficiaries of inherited institutions are much more watchful than the little people who keep diaries.
-
-They do not simply beat these little, honest book-keepers to death.
+There the diary appears as a small institution. But the great beneficiaries of inherited institutions are much more watchful than the little people who keep diaries. They do not simply beat these little, honest book-keepers to death.
 
 Beat them to death?
 
@@ -23787,25 +23231,15 @@ only questioning!
 
 That is enough to make a human being harmless.
 
-Simply prescribe for these diary-keepers the questions they must answer in their diaries.
+Simply prescribe for these diary-keepers the questions they must answer in their diaries. Then the diary becomes the most useful institution of the new Paradise. Then you will have statistics unlike anything any previous social order has ever possessed.
 
-Then the diary becomes the most useful institution of the new Paradise.
-
-Then you will have statistics unlike anything any previous social order has ever possessed.
-
-I already sensed this during the First World War and described it in my essay “The Buribunks” (*Summa*, 1917/18).
-
-But at the time I knew nothing yet of the questionnaire—invented by the Anglo-Saxons—or of all its later refinements.
+I already sensed this during the First World War and described it in my essay “The Buribunks” (*Summa*, 1917/18). But at the time I knew nothing yet of the questionnaire—invented by the Anglo-Saxons—or of all its later refinements.
 
 ---
 
 **3 February 1957**
 
-In his lecture on European colonialism, delivered in Düsseldorf on 16 January 1957, Kojève avoided every word that might sound directly topical.
-
-And yet the explosive relevance of the subject was bursting out at every corner.
-
-For me, it was an unbelievable and completely unexpected gain that the specific meaning of the **Großraum** became visible.
+In his lecture on European colonialism, delivered in Düsseldorf on 16 January 1957, Kojève avoided every word that might sound directly topical. And yet the explosive relevance of the subject was bursting out at every corner. For me, it was an unbelievable and completely unexpected gain that the specific meaning of the **Großraum** became visible.
 
 The *Großraum*—the “large space”—is a provisional name for the scale of the **space of development**, now that the earth is divided between developed and underdeveloped peoples and territories.
 
@@ -23831,21 +23265,11 @@ The greatest difficulty is that Western capitalism and colonialism, which suppos
 
 “No one can baptize this child,” Kojève said, word for word.
 
-Socialism is an accepted name.
-
-But “giving capitalism” and “giving colonialism”?
-
-Nobody will believe those.
-
-There is no such thing as purely giving capitalism—that is, capitalism that takes nothing.
+Socialism is an accepted name. But “giving capitalism” and “giving colonialism”? Nobody will believe those. There is no such thing as purely giving capitalism—that is, capitalism that takes nothing.
 
 That would be absurd.
 
-To give without taking is not human.
-
-That would be God’s affair.
-
-And specifically the affair of a God who can create the world out of nothing.
+To give without taking is not human. That would be God’s affair. And specifically the affair of a God who can create the world out of nothing.
 
 What can the taker give?
 
@@ -23857,9 +23281,7 @@ Nobody can baptize this strange child, this capitalist who develops purchasing p
 
 “Fordism” is not really a name either.
 
-Socialism, by contrast, as I said, still has a certain ring to it despite everything.
-
-And that gives it a historical legitimacy powerful enough to make 200 million Russians, practicing ascetic renunciation of their own consumption, “develop” more than 600 million Chinese, Indonesians, and other peoples!
+Socialism, by contrast, as I said, still has a certain ring to it despite everything. And that gives it a historical legitimacy powerful enough to make 200 million Russians, practicing ascetic renunciation of their own consumption, “develop” more than 600 million Chinese, Indonesians, and other peoples!
 
 I read the chapter “Plotnoi” in Mutius’s *Katorgan* and became suspicious because it smelled too much like Ernst Jünger’s *Forest Passage*.
 
@@ -23873,21 +23295,15 @@ Anyone practicing asceticism today is sabotaging the pure consumer society.
 
 Keynes already said that.
 
-The Russians can justify being ascetics today only by claiming that they are organizing an even more comfortable consumer society for tomorrow.
-
-Otherwise they would be the saboteurs of the new Paradise.
+The Russians can justify being ascetics today only by claiming that they are organizing an even more comfortable consumer society for tomorrow. Otherwise they would be the saboteurs of the new Paradise.
 
 Nicolaus asked about the patriot.
 
 I answered:
 
-The patriot, as such, is neither a producer nor a consumer.
+The patriot, as such, is neither a producer nor a consumer. So what exactly does he want?
 
-So what exactly does he want?
-
-He must go on strike.
-
-But even the strike, if properly organized, can become an institution of the pure consumer society.
+He must go on strike. But even the strike, if properly organized, can become an institution of the pure consumer society.
 
 I do not know how Nicolaus ended up with a subject like this.
 
@@ -23904,15 +23320,11 @@ and they are no longer mine.”
 
 These are extraordinary lines.
 
-You must know them if you want to understand my life.[^fn-p19-pdf12-n01]
-
-They stand at the beginning of the German twentieth century.
+You must know them if you want to understand my life.[^fn-p19-pdf12-n01] They stand at the beginning of the German twentieth century.
 
 At the time they were written, I was a naive thirteen-year-old country boy madly infatuated with a Jewish girl named Meta Gutmann.
 
-I could never have guessed that a poet from the generation before mine, with deeper knowledge, was writing lines like these.
-
-And it would have done no good if someone had quoted them to me and explained them when I was thirteen.
+I could never have guessed that a poet from the generation before mine, with deeper knowledge, was writing lines like these. And it would have done no good if someone had quoted them to me and explained them when I was thirteen.
 
 Everything would have disappeared beneath my completely Catholic upbringing and my rebellion against it.
 
@@ -23920,9 +23332,7 @@ How astonishing these lines are!
 
 Yet I have never found them quoted, much less interpreted.
 
-People passed over them then and continue to pass over them today.
-
-And how easily they can be extended:
+People passed over them then and continue to pass over them today. And how easily they can be extended:
 
 Those were never your myths,
 and they are no longer mine.
@@ -23937,9 +23347,7 @@ Or:
 Those were never your poets,
 and they are no longer mine.
 
-Here, admittedly, the extension seems to fail.
-
-But this remains:
+Here, admittedly, the extension seems to fail. But this remains:
 
 Those were never your saints,
 and I cannot part from them.
@@ -23956,13 +23364,7 @@ A Swiss man who went through none of it summons me, who went through all of it, 
 
 A neutral man without a fate of his own passes judgment on my fate.
 
-At bottom it is completely incompetent.
-
-But it is symptomatic and symbolic.
-
-And that is how I want to accept it, without irony or polemic, as one part of the general fate, like everything else: without submitting, but also without defending myself.
-
-It would be contrary to the style and the *esprit de mon âge*—the spirit of my age in life—to raise questions of jurisdiction, standing, or legal authority to bring the case.
+At bottom it is completely incompetent. But it is symptomatic and symbolic. And that is how I want to accept it, without irony or polemic, as one part of the general fate, like everything else: without submitting, but also without defending myself. It would be contrary to the style and the *esprit de mon âge*—the spirit of my age in life—to raise questions of jurisdiction, standing, or legal authority to bring the case.
 
 Today anyone can kill anyone.
 
@@ -24010,29 +23412,17 @@ nobody can grasp it: the most terrible thing is and remains the celibate bureauc
 
 **27 March 1957**[^fn-p19-pdf14-n02]
 
-This book by Peter Schneider has no form.
+This book by Peter Schneider has no form. It is a cancerous growth of extensive excerpts from a few of my writings, with my life’s work slobbered over by bland C. G. Jung ideas.
 
-It is a cancerous growth of extensive excerpts from a few of my writings, with my life’s work slobbered over by bland C. G. Jung ideas.
+The book has no form because it has no fate. But not fate-less like Hölderlin’s sleeping infant. Fate-less like a Swiss man whose country has been neutral for more than a hundred years.
 
-The book has no form because it has no fate.
-
-But not fate-less like Hölderlin’s sleeping infant.
-
-Fate-less like a Swiss man whose country has been neutral for more than a hundred years.
-
-How was this author supposed to digest a life’s work such as mine?
-
-And how was he allowed to appear before the German public while suffering from such obvious digestive problems?
+How was this author supposed to digest a life’s work such as mine? And how was he allowed to appear before the German public while suffering from such obvious digestive problems?
 
 ---
 
 **30 March 1957**
 
-Meanwhile Hans Zehrer blows a tremendous trumpet blast into empty space by publishing an article on the permanent state of exception in *Die Welt* of 30 March 1957.
-
-It is a magnificent, though anonymous, German answer to the Swiss book’s complete lack of connection with reality.
-
-Zehrer dares to say openly that atomic power—which by its nature depends on secrecy—and democracy—which demands complete publicity—are incompatible.
+Meanwhile Hans Zehrer blows a tremendous trumpet blast into empty space by publishing an article on the permanent state of exception in *Die Welt* of 30 March 1957. It is a magnificent, though anonymous, German answer to the Swiss book’s complete lack of connection with reality. Zehrer dares to say openly that atomic power—which by its nature depends on secrecy—and democracy—which demands complete publicity—are incompatible.
 
 Today, when a small sworn circle decides matters concerning the atom, we live under a permanent state of exception that more or less suspends democracy.
 
@@ -24042,9 +23432,7 @@ Faced with concrete realities like these, our Swiss ostrich prefers to stick his
 
 **10 April 1957**
 
-Behind my work on the state of exception lies the problem of the limits of what our modern, highly divided social machinery calls “law.”
-
-It is the problem of the limits of the courts and of judicial procedure.
+Behind my work on the state of exception lies the problem of the limits of what our modern, highly divided social machinery calls “law.” It is the problem of the limits of the courts and of judicial procedure.
 
 The limit of what a modern legislator can turn into a statutory rule.
 
@@ -24054,17 +23442,9 @@ Naturally, asking about these limits brings one directly up against the territor
 
 As a young, inexperienced jurist, guided by no genuine teacher of constitutional or international law, I made a number of mistakes and violated more than one taboo.[^fn-p19-pdf14-n03]
 
-That was serious and deserves correction.
+That was serious and deserves correction. If Peter Schneider had asked and answered the question in that way, his book would have been magnificent, even if it had not been exhaustive.
 
-If Peter Schneider had asked and answered the question in that way, his book would have been magnificent, even if it had not been exhaustive.
-
-Instead, as he calls it, he approaches the matter “anthropologically,” using a thin infusion of C. G. Jung’s categories, and asks about **my personal secret**—my *Arcanum*—on p. 96 of his book and elsewhere.
-
-And he ignores—with what right, exactly?—the passage in *Ex Captivitate Salus*, p. [75], where I formally deposited that *Arcanum*.
-
-He would have done better to consider my reference to the connection between dictatorship, sovereignty, and grace in the preface to *Dictatorship*, p. IX.
-
-And he should have remembered Rivarol’s warning not to betray the “perplexity of justice” and not to deal with problems “for which Themis has no scales.”[^fn-p19-pdf15-n01]
+Instead, as he calls it, he approaches the matter “anthropologically,” using a thin infusion of C. G. Jung’s categories, and asks about **my personal secret**—my *Arcanum*—on p. 96 of his book and elsewhere. And he ignores—with what right, exactly?—the passage in *Ex Captivitate Salus*, p. [75], where I formally deposited that *Arcanum*. He would have done better to consider my reference to the connection between dictatorship, sovereignty, and grace in the preface to *Dictatorship*, p. IX. And he should have remembered Rivarol’s warning not to betray the “perplexity of justice” and not to deal with problems “for which Themis has no scales.”[^fn-p19-pdf15-n01]
 
 Peter Schneider’s book pushes me further into the problem of the judicial process itself:
 
@@ -24120,13 +23500,9 @@ Peter Schneider’s book pushes me further into the problem of the judicial proc
 
 Listen to this Ernst Bloch:
 
-The country building socialism—that is, today’s Soviet Union—has used all its immense power for one purpose only: to bring power over human beings to an end!
+The country building socialism—that is, today’s Soviet Union—has used all its immense power for one purpose only: to bring power over human beings to an end! So says Ernst Bloch in *The Principle of Hope*, 1953, vol. 2, p. 490!!
 
-So says Ernst Bloch in *The Principle of Hope*, 1953, vol. 2, p. 490!!
-
-All this so that “instead of the so-called constitutional state, which because of its rotten class content has become completely a state of injustice”—Ernst Bloch should never have touched this rickety contrast between Russia and the “state of injustice”; it is beneath him—so that, in the end, “no state at all will be necessary.”
-
-And in this way the monstrous super-state called the **Soviet Union** is justified!
+All this so that “instead of the so-called constitutional state, which because of its rotten class content has become completely a state of injustice”—Ernst Bloch should never have touched this rickety contrast between Russia and the “state of injustice”; it is beneath him—so that, in the end, “no state at all will be necessary.” And in this way the monstrous super-state called the **Soviet Union** is justified!
 
 Such faith I have found nowhere but in Israel!
 
@@ -24140,9 +23516,7 @@ In the spring of 1948 the famous atomic physicist Niels Bohr solemnly declared:
 
 “Humanity will face decisive decisions five years from now. If by then it succeeds in avoiding war, the world will be saved.”
 
-Those were his exact words.
-
-And he continued:
+Those were his exact words. And he continued:
 
 “By the end of those five years, natural science will have advanced so far that war will be impossible.”
 
@@ -24169,9 +23543,7 @@ you obey the crime and fall into line the moment things become serious?
 
 Lucan also gives us the most brilliant example of how a sense of law, in a situation of civil war, must lead to disaster—and all the more disastrously the better justified it is.
 
-This is the story of Petreius.
-
-He stands on the just side, the side of the Senate, and warns against fraternization and betrayal (*Pharsalia* IV.212–235):
+This is the story of Petreius. He stands on the just side, the side of the Senate, and warns against fraternization and betrayal (*Pharsalia* IV.212–235):
 
 *trahimur sub nomine pacis*—we are being dragged along under the name of peace.
 
@@ -24201,15 +23573,7 @@ Is all this shouting about the constitutional state not grotesque if people seri
 
 And if they do **not** seriously mean it for Röhm and the situation of 1934, and only use it to stir up general outrage, is it anything more than the lowest kind of preaching for a purpose?
 
-Lucan’s knowledge of civil war remains simply admirable here too, as it does in the problem of Elizabeth and judicial procedure discussed above in the note of 28 April 1957.
-
-It is a sign of Victorian-aesthetic stupidity when Robert Graves tries to dismiss the magnificent Lucan as rhetorical cardboard kitsch.
-
-He is rhetorical.
-
-Thomas Hobbes already knew that and said so.
-
-But the rhetoric expresses his real situation.
+Lucan’s knowledge of civil war remains simply admirable here too, as it does in the problem of Elizabeth and judicial procedure discussed above in the note of 28 April 1957. It is a sign of Victorian-aesthetic stupidity when Robert Graves tries to dismiss the magnificent Lucan as rhetorical cardboard kitsch. He is rhetorical. Thomas Hobbes already knew that and said so. But the rhetoric expresses his real situation.
 
 It is not unreality.
 
@@ -24232,29 +23596,11 @@ and you did not have to commit the crime yourself.[^fn-p19-pdf17-n01]
 
 Hitler could have said that to the bourgeoisie in 1934 if he had possessed as much sense for law as he possessed for the situation.
 
-But he was clever enough to hold on to legality instead and have the Reichstag give him a certificate clearing him by passing a law.
+But he was clever enough to hold on to legality instead and have the Reichstag give him a certificate clearing him by passing a law. He had boasted that at the time he had been the supreme judge of the nation. But to him that was merely a phrase. He would have found it extremely unpleasant if someone had taken him literally. That is what I naively tried to do in my essay “The Führer Protects the Law,” an essay whose boldness—indeed recklessness—nobody understood at the time.
 
-He had boasted that at the time he had been the supreme judge of the nation.
+The Nazi jurists, including press chief Du Prel and Minister Frank, were completely baffled when they read it. They called it “liberal.”
 
-But to him that was merely a phrase.
-
-He would have found it extremely unpleasant if someone had taken him literally.
-
-That is what I naively tried to do in my essay “The Führer Protects the Law,” an essay whose boldness—indeed recklessness—nobody understood at the time.
-
-The Nazi jurists, including press chief Du Prel and Minister Frank, were completely baffled when they read it.
-
-They called it “liberal.”
-
-Fortunately for me, Hitler himself never saw it.
-
-He would have sensed what it meant: to take the tried-and-tested trick of legality out of his hands and force him into legal responsibility.
-
-He would once again have staged one of his fits of rage against the jurists.
-
-There is only one way for the philosopher or jurist to deal with the ruler: **take him at his word.**
-
-That too is a form of Taking.
+Fortunately for me, Hitler himself never saw it. He would have sensed what it meant: to take the tried-and-tested trick of legality out of his hands and force him into legal responsibility. He would once again have staged one of his fits of rage against the jurists. There is only one way for the philosopher or jurist to deal with the ruler: **take him at his word.** That too is a form of Taking.
 
 Compare the story in Funck-Brentano, *Le Roi* (1907):
 
@@ -24264,13 +23610,7 @@ Compare the story in Funck-Brentano, *Le Roi* (1907):
 
 **1 June 1957**
 
-The editors of the *Rheinischer Merkur*—Roegele—deleted my name from an article by Walter Warnach about Spain and Calvo Serer.[^fn-p19-pdf18-n01]
-
-So I still have a guardian angel after all.
-
-He guides the hand of these people who strike my name out.
-
-They intend evil, and the guardian angel turns it into good.
+The editors of the *Rheinischer Merkur*—Roegele—deleted my name from an article by Walter Warnach about Spain and Calvo Serer.[^fn-p19-pdf18-n01] So I still have a guardian angel after all. He guides the hand of these people who strike my name out. They intend evil, and the guardian angel turns it into good.
 
 I would have been very embarrassed if my name had appeared in that article.
 
@@ -24282,9 +23622,7 @@ At the end of May I wrote to Peter Schneider to acknowledge receipt of his book:
 
 “for me, as the object of this vivisection—or better: this **Arcanoscopy**.”
 
-I thought the coinage “Arcanoscopy”—an inspection of my secret—was especially witty.
-
-But neither Rüdiger Altmann nor Johannes Groß reacted to it.
+I thought the coinage “Arcanoscopy”—an inspection of my secret—was especially witty. But neither Rüdiger Altmann nor Johannes Groß reacted to it.
 
 Apparently my contacts and my antennae are failing.
 
@@ -24313,9 +23651,7 @@ But in a philosophical discussion, *homo homini homo* means nothing other than:
 
 *homo homini alibi.*
 
-Man is an **alibi** for man.
-
-For whom?
+Man is an **alibi** for man. For whom?
 
 For man!
 
@@ -24335,13 +23671,7 @@ Before another human being!
 
 You pray to false gods.
 
-You use the wrong intoxicant.
-
-You take opium instead of drinking wine.[^fn-p19-pdf19-n01]
-
-Religion becomes the opium of the people when the laity has its wine taken away.
-
-Naturally they have to run to foreign gods once they start taking foreign intoxicants.
+You use the wrong intoxicant. You take opium instead of drinking wine.[^fn-p19-pdf19-n01] Religion becomes the opium of the people when the laity has its wine taken away. Naturally they have to run to foreign gods once they start taking foreign intoxicants.
 
 ---
 
@@ -24354,23 +23684,13 @@ We have a great deal to make up for.
 
 **17 June 1957**
 
-The surest way to abolish the priesthood is the universal priesthood.
-
-If all laypeople are supposed to become priests, then all priests are more likely to become laypeople than all laypeople are to become priests.
-
-The level at which the two sides finally meet will be the lowest and most comfortable one: universal lay status.
-
-Not universal priesthood.
-
-That is the path of democracy.
+The surest way to abolish the priesthood is the universal priesthood. If all laypeople are supposed to become priests, then all priests are more likely to become laypeople than all laypeople are to become priests. The level at which the two sides finally meet will be the lowest and most comfortable one: universal lay status. Not universal priesthood. That is the path of democracy.
 
 Democracy is universal kingship.
 
 Everyone his own sovereign.
 
-The democratic way of life.
-
-It is the road forced upon us by the logic of concepts of this kind.
+The democratic way of life. It is the road forced upon us by the logic of concepts of this kind.
 
 ---
 
@@ -24388,11 +23708,7 @@ So my heartfelt condolences on your constitutional state!
 
 **1 July 1957**
 
-The steel bells that call a person to church in this country—those are no longer my bells.
-
-Everything else follows by itself: those are no longer my songs; those are no longer my wines; not even my schnapps anymore.
-
-It is Coca-Cola-coalition music.
+The steel bells that call a person to church in this country—those are no longer my bells. Everything else follows by itself: those are no longer my songs; those are no longer my wines; not even my schnapps anymore. It is Coca-Cola-coalition music.
 
 ---
 
@@ -24435,9 +23751,7 @@ What we have gained is: **progress in the mode of failure.**
 
 The defeated man writes history.
 
-The infiltrator writes sociology.
-
-And Samuel Pepys crawls into his diary.
+The infiltrator writes sociology. And Samuel Pepys crawls into his diary.
 
 Switzerland is certainly no *katechon*.
 
@@ -24449,11 +23763,7 @@ When I was talking with A. Kojève about the falsification of the sacrament and 
 
 The layman has too much blood anyway.
 
-At that moment I noticed that he was a cleric and I was a layman.
-
-And yet no Iron Curtain fell between us.
-
-Nor did the speaking grille of a confessional.
+At that moment I noticed that he was a cleric and I was a layman. And yet no Iron Curtain fell between us. Nor did the speaking grille of a confessional.
 
 ---
 
@@ -24463,9 +23773,7 @@ In Wiesbaden, in his speech for Hans Freyer’s seventieth birthday, Arnold Gehl
 
 The age of history is over.
 
-According to Kojève’s interpretation, Hegel had already said the same thing.
-
-But Hegel did not yet know what Gehlen knows: that the age—one presumably must no longer say **time**—of sociology is now beginning.
+According to Kojève’s interpretation, Hegel had already said the same thing. But Hegel did not yet know what Gehlen knows: that the age—one presumably must no longer say **time**—of sociology is now beginning.
 
 Excellent.
 
@@ -24493,17 +23801,11 @@ Socialism ends in sociology.[^fn-p19-pdf20-n01]
 
 **21 August 1957**
 
-The real explosive force of the atomic bomb strikes the very concept of the human being.
-
-It drives *homo homini homo* out of its comfortable hiding place and blows apart the threefold neutrality of this threefold tautology.
+The real explosive force of the atomic bomb strikes the very concept of the human being. It drives *homo homini homo* out of its comfortable hiding place and blows apart the threefold neutrality of this threefold tautology.
 
 Human beings drop atomic bombs made by human beings onto the heads of other human beings.
 
-That is the reality of *homo homini homo*.
-
-Here human beings are completely among themselves.
-
-So where is the **true human being**?
+That is the reality of *homo homini homo*. Here human beings are completely among themselves. So where is the **true human being**?
 
 And what becomes of the other person, who by consequence is no longer a true human being?
 
@@ -24593,19 +23895,13 @@ One cannot ignore the saying
 
 —where you have no power, desire nothing—without being punished for it.
 
-If a person starts preaching instead of dutifully acclaiming—that is, instead of saying Yes and Amen—he merely causes embarrassing attention.[^fn-p19-pdf21-n01]
-
-But look: atheist rationalists and Marxists such as Georg Lukács suddenly find themselves in exactly the same tragicomic situation and are instructed by their own headquarters about their true function.
-
-So perhaps we could all quite happily philosophize together about knowledge and power, *sagesse et tyrannie*—wisdom and tyranny—without insulting one another and criminalizing one another as traitors to the spirit.
+If a person starts preaching instead of dutifully acclaiming—that is, instead of saying Yes and Amen—he merely causes embarrassing attention.[^fn-p19-pdf21-n01] But look: atheist rationalists and Marxists such as Georg Lukács suddenly find themselves in exactly the same tragicomic situation and are instructed by their own headquarters about their true function. So perhaps we could all quite happily philosophize together about knowledge and power, *sagesse et tyrannie*—wisdom and tyranny—without insulting one another and criminalizing one another as traitors to the spirit.
 
 ---
 
 **4 October 1957**
 
-By creating the world out of nothing, God thereby made Nothing into Something it had not been before:
-
-Something from which a world can be created.[^fn-p19-pdf22-n01]
+By creating the world out of nothing, God thereby made Nothing into Something it had not been before: Something from which a world can be created.[^fn-p19-pdf22-n01]
 
 And that is quite something.
 
@@ -24661,9 +23957,7 @@ How can Hitler’s *scelus infandum*—his unspeakable crime—be atoned for?
 
 Surely not through a judicial process!
 
-That would strip it of its unbelievable character and standardize it.
-
-It would turn the crime into a procedure, into a precedent, and place it inside the realm of what can be foreseen—and reviewed afterward.
+That would strip it of its unbelievable character and standardize it. It would turn the crime into a procedure, into a precedent, and place it inside the realm of what can be foreseen—and reviewed afterward.
 
 Hugo Ball criticized my *Political Romanticism* with the remark:
 
@@ -24709,11 +24003,7 @@ Admittedly, a different kind of proletarian from his.
 
 Not a proletarian hungry for loot.
 
-All I have left is progress in the consciousness of having been cheated.
-
-From time to time I change the kind of person I allow to cheat me.
-
-Then the discarded swindler rages after me and calls me a characterless traitor.
+All I have left is progress in the consciousness of having been cheated. From time to time I change the kind of person I allow to cheat me. Then the discarded swindler rages after me and calls me a characterless traitor.
 
 ---
 
@@ -24727,29 +24017,15 @@ It does not matter anymore.
 
 And are today’s dollar-and-rejuvenation popes really better and more Christian than those genuine sinners?
 
-Those genuine sinners at least still held the trump card of *pecca fortiter*—sin boldly—and by their very existence could refute Luther *eo ipso*.
+Those genuine sinners at least still held the trump card of *pecca fortiter*—sin boldly—and by their very existence could refute Luther *eo ipso*. Today’s popes, by contrast, are merely normativists and righteous peacemakers. Peacemakers with retirement insurance and a right to a long, edifying earthly life. That is: a right to die of old age.
 
-Today’s popes, by contrast, are merely normativists and righteous peacemakers.
-
-Peacemakers with retirement insurance and a right to a long, edifying earthly life.
-
-That is: a right to die of old age.
-
-We should not envy them for it.
-
-If I had the power, I would gladly guarantee every one of them death from old age.
+We should not envy them for it. If I had the power, I would gladly guarantee every one of them death from old age.
 
 ---
 
 **4 January 1958**
 
-Today human beings use technology to create their own environment.
-
-They cease to be endangered living creatures and attain an improbably advanced age in complete security, with well-organized provision for every need.
-
-But in doing so, they cease to be the endangered living creature that remains “open” and is bound to no fixed environment.
-
-They become animals, like other animals.
+Today human beings use technology to create their own environment. They cease to be endangered living creatures and attain an improbably advanced age in complete security, with well-organized provision for every need. But in doing so, they cease to be the endangered living creature that remains “open” and is bound to no fixed environment. They become animals, like other animals.
 
 No wonder there has never been so much talk about Man and humanity as there is today.
 
@@ -24797,23 +24073,15 @@ Pflimlin in the National Assembly, Paris, 20 May 1958.
 
 State Secretary Kühlmann in the German Reichstag, 1917.
 
-A *Kunde* comes with a *Kunde*—a customer comes bearing news.
+A *Kunde* comes with a *Kunde*—a customer comes bearing news. He even comes with an *Ur-Kunde*—an original document.
 
-He even comes with an *Ur-Kunde*—an original document.
-
-*Urkunde*: it has already been written down, and yet it still calls itself *Ur*—original, primordial—and all the more exclusively “original.”
-
-Meanwhile other scribes are writing.
+*Urkunde*: it has already been written down, and yet it still calls itself *Ur*—original, primordial—and all the more exclusively “original.” Meanwhile other scribes are writing.
 
 The Roman scribes in Rome, who for a thousand years deceived Europe with pseudo-Isidorian original documents, now find themselves facing unfair competition.
 
-At least these customers notice that every painter who paints abstractly today also *be-ur-kundet*—certifies, documents, bears witness.
+At least these customers notice that every painter who paints abstractly today also *be-ur-kundet*—certifies, documents, bears witness. They experience that as unfair competition.
 
-They experience that as unfair competition.
-
-Naturally, it has to be stopped.
-
-And any stoppage will do.
+Naturally, it has to be stopped. And any stoppage will do.
 
 First Adolf Hitler.
 
@@ -24825,9 +24093,7 @@ A customer came bearing news!
 
 Einstein was one such customer!
 
-But the producers of original documents in Rome could issue their documents only in the pseudo-Isidorian style.
-
-For that purpose Holy Scripture was good enough for them as the holy Ur-Urkunde—the original original document—complete with primordial fresh-cell interpretations.
+But the producers of original documents in Rome could issue their documents only in the pseudo-Isidorian style. For that purpose Holy Scripture was good enough for them as the holy Ur-Urkunde—the original original document—complete with primordial fresh-cell interpretations.
 
 ---
 
@@ -24841,9 +24107,7 @@ Poor Delano. Poor Melville.
 
 The result is Hamlet.
 
-The whole West ends as Hamlet.
-
-It begins as a revenge drama—revenge on Hitler’s Germany—and will end as a murder ballad in which, at last, every character lies dead on the stage and Fortinbras inherits everything, legitimized by the dying Hamlet and his dying voice.
+The whole West ends as Hamlet. It begins as a revenge drama—revenge on Hitler’s Germany—and will end as a murder ballad in which, at last, every character lies dead on the stage and Fortinbras inherits everything, legitimized by the dying Hamlet and his dying voice.
 
 ---
 
@@ -24899,15 +24163,9 @@ Will I live to see the de-Nathanization of Germany?[^fn-p20-pdf02-n01]
 
 **July 1958, in Casalonga**
 
-A great encounter with land and sea at Cape Finisterre.
+A great encounter with land and sea at Cape Finisterre. A great encounter with the Vandals through Christian Courtois’s book *Les Vandales* (1955). Gelimer’s laughter, *la carcajada de Gelimer*,[^fn-p20-pdf02-n02] and the smiles of Daniel and the Evangelist John in the *Pórtico de la Gloria* at Santiago.
 
-A great encounter with the Vandals through Christian Courtois’s book *Les Vandales* (1955).
-
-Gelimer’s laughter, *la carcajada de Gelimer*,[^fn-p20-pdf02-n02] and the smiles of Daniel and the Evangelist John in the *Pórtico de la Gloria* at Santiago.
-
-Perhaps nothing remains to us but Gelimer’s laughter.
-
-But the smiles of Daniel and the Evangelist follow me into my dreams.
+Perhaps nothing remains to us but Gelimer’s laughter. But the smiles of Daniel and the Evangelist follow me into my dreams.
 
 Two attempts were suppressed and quickly smothered:
 
@@ -24965,11 +24223,7 @@ The night before: an encounter with the *princeps religiosissimus*, the most rel
 
 Vitoria later treated the matter in exactly the same way.
 
-The scandal has already happened.
-
-To undo it would create a new scandal.
-
-So the baptism performed by force remains valid.
+The scandal has already happened. To undo it would create a new scandal. So the baptism performed by force remains valid.
 
 *Coactus voluit.*
 
@@ -24995,17 +24249,9 @@ Against a Jew, a Jew and a half!
 
 *Secundum occasionem et veritatem coactus sive condicionaliter, sive absolute voluit.*
 
-According to the circumstances and the truth of the matter, although he was forced, he nevertheless willed it—whether conditionally or absolutely.
+According to the circumstances and the truth of the matter, although he was forced, he nevertheless willed it—whether conditionally or absolutely. Here lies the true source and practical end result of all Vitoria’s beautiful arguments in *De Indis*, and of his supposed founding of modern international law.
 
-Here lies the true source and practical end result of all Vitoria’s beautiful arguments in *De Indis*, and of his supposed founding of modern international law.
-
-I have discovered another seed as well:
-
-No. 39 of Quevedo’s *Sueños*, *La hora de todos*, is the seed from which *The Protocols of the Elders of Zion* grew.
-
-But who were the Monopantones then?
-
-And who are they today?
+I have discovered another seed as well: No. 39 of Quevedo’s *Sueños*, *La hora de todos*, is the seed from which *The Protocols of the Elders of Zion* grew. But who were the Monopantones then? And who are they today?
 
 ---
 
@@ -25024,9 +24270,7 @@ Of this heavenly pleasure.[^fn-p20-pdf03-n02]
 
 On the note from the end of 1956, at the top of p. 80 [= pp. 353 ff.]:
 
-De Gaulle is only an interlude.
-
-He is catching up with Germany.
+De Gaulle is only an interlude. He is catching up with Germany.
 
 Much will still be repeated elsewhere that we in Germany got ahead of everyone in doing first.
 
@@ -25052,17 +24296,9 @@ Total alienation, in other words.
 
 Wonderful!
 
-That is exactly what human beings need in order to become human.
+That is exactly what human beings need in order to become human. Alienation, then, is not an objection and it is not a refutation.
 
-Alienation, then, is not an objection and it is not a refutation.
-
-Human beings need something of this kind in order to estrange themselves from the animal and become human.
-
-But there are also false forms of alienation.
-
-And those, naturally, are deadly.
-
-Then begins the hopeless struggle over what is genuine and what is false—which means friend and enemy—with all its satanic violence and all its Nathan-like fraud.
+Human beings need something of this kind in order to estrange themselves from the animal and become human. But there are also false forms of alienation. And those, naturally, are deadly. Then begins the hopeless struggle over what is genuine and what is false—which means friend and enemy—with all its satanic violence and all its Nathan-like fraud.
 
 ---
 
@@ -25130,15 +24366,11 @@ Gelimer’s laughter is still the mildest possible answer to insults as deadly a
 
 **16 September 1958**
 
-Consensus follows power.
-
-Power does not follow consensus.
+Consensus follows power. Power does not follow consensus.
 
 Barion puts it very nicely:
 
-My convictions do not follow power.
-
-On the contrary, they set themselves against power.
+My convictions do not follow power. On the contrary, they set themselves against power.
 
 Very good.
 
@@ -25164,9 +24396,7 @@ On another, some dreadful incompetent scratches away.
 
 **21 September 1958**
 
-Consensus follows power and thereby becomes genuine consensus.
-
-Power that follows consensus, however, ceases thereby to be genuine power.
+Consensus follows power and thereby becomes genuine consensus. Power that follows consensus, however, ceases thereby to be genuine power.
 
 “What does blood cost?”
 
@@ -25194,31 +24424,15 @@ With Heidegger, it means something else.
 
 It is most dangerous of all in Bonald:
 
-“God is dead” means:
-
-God is absent.
+“God is dead” means: God is absent.
 
 ---
 
 **27 September 1958**
 
-Bismarck’s Reich had two components.
+Bismarck’s Reich had two components. It was National-Liberal. The national element was the political component. The liberal element was the economic component.
 
-It was National-Liberal.
-
-The national element was the political component.
-
-The liberal element was the economic component.
-
-After the defeat of 1918, these two components came apart, producing a kind of nuclear fission.
-
-That was the critical period of the Weimar Constitution, 1919–1933.[^fn-p20-pdf05-n01]
-
-In 1933, the national element was unleashed as an independent force and grew far beyond all proportion until it finally burst apart in 1944/45.
-
-Today, in the so-called Economic Miracle, the economic element has likewise grown far beyond all proportion.
-
-The two elements split apart and each grew without restraint until it burst.
+After the defeat of 1918, these two components came apart, producing a kind of nuclear fission. That was the critical period of the Weimar Constitution, 1919–1933.[^fn-p20-pdf05-n01] In 1933, the national element was unleashed as an independent force and grew far beyond all proportion until it finally burst apart in 1944/45. Today, in the so-called Economic Miracle, the economic element has likewise grown far beyond all proportion. The two elements split apart and each grew without restraint until it burst.
 
 Fermentation instead of breathing.
 
@@ -25241,9 +24455,7 @@ The social ideal is Jünger’s war.
 
 Yesterday morning, at around four o’clock, God Almighty summoned the Roman Pope, who had sat upon the Holy See, before His own throne—the judgment seat of the Almighty and All-Knowing.[^fn-p20-pdf05-n04]
 
-No fresh-cell injection can help him now.
-
-Nor can friendship with the rulers of today’s Western world.
+No fresh-cell injection can help him now. Nor can friendship with the rulers of today’s Western world.
 
 Ready or not to go,
 before his Judge he now must stand—after prolonging matters for so long and so often, and after so long playing the highest judge himself.
@@ -25260,17 +24472,13 @@ Let us found an organization for the timely criminalization of any possible inha
 
 ORKEMM!
 
-Otherwise the conquest of the Moon and Mars might possibly turn out to be the same kind of thing as the Spanish conquest of America.
-
-And surely that cannot be allowed!
+Otherwise the conquest of the Moon and Mars might possibly turn out to be the same kind of thing as the Spanish conquest of America. And surely that cannot be allowed!
 
 Columbus, Cortés, and Pizarro neglected to do this.
 
 Let us summon any possible natives before a tribunal whose president would, of course, have to be Mr. Henry Morgenthau.
 
-Let us heap the burning coals of collective guilt and collective shame onto their criminal heads!
-
-And then, in the name of humanity: hit them hard!
+Let us heap the burning coals of collective guilt and collective shame onto their criminal heads! And then, in the name of humanity: hit them hard!
 
 Only in this way can our departure into the cosmos be fully prepared and made morally acceptable.
 
@@ -25278,13 +24486,7 @@ It is infamous, the way these people who award the Nobel Prize are playing with 
 
 Infamous, this method of stirring people up—calling on them to resist while remaining safely far from the line of fire.
 
-Exactly as people did against Hitler from 1933 to 1945.
-
-It shows what awaits the Russians if they are ever defeated.
-
-Perhaps they will then receive their just punishment for having taken part at Nuremberg—and, in the main trial, for having been there as the true masters of the court.
-
-Then their successful antifascist trick will fall back onto their own heads.
+Exactly as people did against Hitler from 1933 to 1945. It shows what awaits the Russians if they are ever defeated. Perhaps they will then receive their just punishment for having taken part at Nuremberg—and, in the main trial, for having been there as the true masters of the court. Then their successful antifascist trick will fall back onto their own heads.
 
 Reflections by an Article 131 pensioner on the Pasternak affair.
 
@@ -25304,9 +24506,7 @@ I had better say no more, “out of consideration for the society in which I liv
 
 **4 November 1958**
 
-All Jews come to grief against me.
-
-But as long as I, Carl Schmitt, remain alive, the Jews still have a chance.
+All Jews come to grief against me. But as long as I, Carl Schmitt, remain alive, the Jews still have a chance.
 
 Feast day of Saint Charles Borromeo.
 
@@ -25324,9 +24524,7 @@ How old-fashioned, all this effort over “God is dead.”
 
 We have now entered the second half of *Hamlet*.
 
-No more ghosts appear.
-
-Now begins the hard hand-to-hand struggle for survival.
+No more ghosts appear. Now begins the hard hand-to-hand struggle for survival.
 
 It is no longer about revenge.
 
@@ -25356,9 +24554,7 @@ You will find its key phrase in the naïve confession on p. 148:
 
 Only on the stage is the purity of the Perfect achieved.
 
-Escape into the theater.
-
-There is only one concrete question still worth asking:
+Escape into the theater. There is only one concrete question still worth asking:
 
 Is the soil of Algeria the *sol natal*—the native soil—of France, or is it not?
 
@@ -25366,9 +24562,7 @@ I can imagine who helped this propaganda piece become a literary success.
 
 The one personal gain I have taken from it is this clear realization:
 
-At that time, the Christian Church of the West finally failed.
-
-It withdrew into a wretched *potestas indirecta*, an indirect power, because it no longer possessed the religious strength required for sacred consecration and sacred naming—the strength with which, a thousand years earlier, it had still been able to bind and consecrate the wild conquerors of the Germanic migrations.
+At that time, the Christian Church of the West finally failed. It withdrew into a wretched *potestas indirecta*, an indirect power, because it no longer possessed the religious strength required for sacred consecration and sacred naming—the strength with which, a thousand years earlier, it had still been able to bind and consecrate the wild conquerors of the Germanic migrations.
 
 Europe’s entire conquest of the world:
 
@@ -25376,13 +24570,7 @@ Europe’s entire conquest of the world:
 
 On p. 70:
 
-Alvaro shows Spain to his daughter Marianna in the same way that the Spartans showed their sons a drunken Helot.
-
-These drunken Helots also appear in Annette, in *The Spiritual Year*, on the twenty-fifth Sunday after Pentecost.
-
-I think the deliberately drunken Helot is Europe today.
-
-And Montherlant imagines himself to be a Spartan because, with the permission and applause of the masters, he helps mix the drink.
+Alvaro shows Spain to his daughter Marianna in the same way that the Spartans showed their sons a drunken Helot. These drunken Helots also appear in Annette, in *The Spiritual Year*, on the twenty-fifth Sunday after Pentecost. I think the deliberately drunken Helot is Europe today. And Montherlant imagines himself to be a Spartan because, with the permission and applause of the masters, he helps mix the drink.
 
 ---
 
@@ -25402,17 +24590,13 @@ On the *Spiegel* interview, no. 46, dated 12 November 1958, with “Cassandra,�
 
 The particular achievement of *Der Spiegel*, in my view, is that it exposed a false costume—the mask of Cassandra.
 
-The tragedy of Cassandra, the Trojan woman, includes the fact that Troy lost the war.
-
-But here, in the *Daily Mirror*, we have someone from the side that **won** the war roaring for hatred and revenge and calling himself Cassandra.
+The tragedy of Cassandra, the Trojan woman, includes the fact that Troy lost the war. But here, in the *Daily Mirror*, we have someone from the side that **won** the war roaring for hatred and revenge and calling himself Cassandra.
 
 That is grotesque.
 
 But people of this kind are dangerous.
 
-They can no longer climb down from the exaggerations that brought them success.
-
-They remain trapped inside the simplest possible dilemma:
+They can no longer climb down from the exaggerations that brought them success. They remain trapped inside the simplest possible dilemma:
 
 *If the Germans are not what he (Connor) says they are—what is he?*
 
@@ -25420,25 +24604,9 @@ They remain trapped inside the simplest possible dilemma:
 
 **12 November 1958**
 
-An important proposal for relieving our burden:
+An important proposal for relieving our burden: The name Germany has been discredited. It brings with it shameful memories which, on the one hand, we are not permitted to forget and which, on the other hand, we understandably wish to erase. Given this divided condition, the compelling necessity arises to abolish the old name and introduce a new one.[^fn-p20-pdf07-n01]
 
-The name Germany has been discredited.
-
-It brings with it shameful memories which, on the one hand, we are not permitted to forget and which, on the other hand, we understandably wish to erase.
-
-Given this divided condition, the compelling necessity arises to abolish the old name and introduce a new one.[^fn-p20-pdf07-n01]
-
-Fortunately, today we have an effortless way out of this delicate situation.
-
-The name of a great martyr for freedom comes to our aid: a brilliant poet whose novel *Doctor Zhivago* is now spontaneously bought by every German and—so far as the progress made in organizing our leisure still permits it—also subjected to an attempt at reading.
-
-We have therefore found the correct symbol for our progress in the consciousness of freedom.
-
-Until now, we had tried to read Kafka and thereby justify the name **Kafkania** for our country.
-
-We are now entering a further stage of our development.
-
-For this reason I propose the name:
+Fortunately, today we have an effortless way out of this delicate situation. The name of a great martyr for freedom comes to our aid: a brilliant poet whose novel *Doctor Zhivago* is now spontaneously bought by every German and—so far as the progress made in organizing our leisure still permits it—also subjected to an attempt at reading. We have therefore found the correct symbol for our progress in the consciousness of freedom. Until now, we had tried to read Kafka and thereby justify the name **Kafkania** for our country. We are now entering a further stage of our development. For this reason I propose the name:
 
 PASTERNAKISTAN
 
@@ -25452,15 +24620,7 @@ Erich Strauss.
 
 Please listen to this:
 
-“Here too we see confirmed the instructive observation, typical of the entire course of the revolution, that theory always fails precisely where the situation seems entitled to expect the decisive word from it.”
-
-Who could have said that?
-
-It dates from 1909.
-
-And it was said in Germany!
-
-Who was so intelligent and so experienced?
+“Here too we see confirmed the instructive observation, typical of the entire course of the revolution, that theory always fails precisely where the situation seems entitled to expect the decisive word from it.” Who could have said that? It dates from 1909. And it was said in Germany! Who was so intelligent and so experienced?
 
 By that time, German legal positivism in constitutional law had long since declared:
 
@@ -25470,9 +24630,7 @@ It had solemnly announced:
 
 Constitutional law ends here.
 
-Count me out—that is, precisely in the situation where people expect constitutional law to provide the decisive answer.
-
-So who in Germany, as early as 1909, could have been this intelligent and experienced?
+Count me out—that is, precisely in the situation where people expect constitutional law to provide the decisive answer. So who in Germany, as early as 1909, could have been this intelligent and experienced?
 
 Go on.
 
@@ -25480,17 +24638,7 @@ Search diligently!
 
 You will find it on p. 351 of a book on constitutional theory.[^fn-p20-pdf08-n01]
 
-My own experience, admittedly, was rather different.
-
-In 1932 I found the decisive word.
-
-But the moment the decisive situation actually arrived, my theory received a kick in the teeth.
-
-Later, after everything had gone wrong, the theory was declared to have paved the way for the disaster.
-
-In cases like this, theory serves as the scapegoat.
-
-And for human beings it is more important to have a scapegoat than to have a theory.
+My own experience, admittedly, was rather different. In 1932 I found the decisive word. But the moment the decisive situation actually arrived, my theory received a kick in the teeth. Later, after everything had gone wrong, the theory was declared to have paved the way for the disaster. In cases like this, theory serves as the scapegoat. And for human beings it is more important to have a scapegoat than to have a theory.
 
 Cassandra is particularly well suited to that purpose.
 
@@ -25502,11 +24650,7 @@ I answer:
 
 And you did not stop!
 
-How disgusting, this endless tug-of-war over aggression and the question of guilt.
-
-Only parasites can live off such things.
-
-No honest person can.[^fn-p20-pdf08-n02]
+How disgusting, this endless tug-of-war over aggression and the question of guilt. Only parasites can live off such things. No honest person can.[^fn-p20-pdf08-n02]
 
 Aggression is supposed to be a crime in an age of unleashed progress!
 
@@ -25518,91 +24662,35 @@ In the West German newspaper whose business pages reflect the Economic Miracle a
 
 *Frankfurter Allgemeine Zeitung*, 6 December 1958.
 
-Ernst Jünger serves as Niekisch’s guarantor.
+Ernst Jünger serves as Niekisch’s guarantor. That is the situation. Do not forget it because of your friendship with Ernst Jünger. I wrote to Jünger that I already feel sufficiently humiliated for ever having allowed myself to enter into a conversation with Niekisch—a man who, thirty years later, now presents such “reports” of his conversations with me.
 
-That is the situation.
+Conversations with people like Niekisch were interrogations on the steppe. They end with someone being shot. Anyone who knows that 2 × 2 = 5 simply knows too much.
 
-Do not forget it because of your friendship with Ernst Jünger.
-
-I wrote to Jünger that I already feel sufficiently humiliated for ever having allowed myself to enter into a conversation with Niekisch—a man who, thirty years later, now presents such “reports” of his conversations with me.
-
-Conversations with people like Niekisch were interrogations on the steppe.
-
-They end with someone being shot.
-
-Anyone who knows that 2 × 2 = 5 simply knows too much.
-
-Machiavelli already knew too much.
-
-But with Hobbes it became a matter of life and death, because he knew that **all knowledge is too much**.
-
-And yet he still hoped—as a former tutor to princes, he could never stop hoping—that he might teach those in power.
-
-Until finally he realized:
+Machiavelli already knew too much. But with Hobbes it became a matter of life and death, because he knew that **all knowledge is too much**. And yet he still hoped—as a former tutor to princes, he could never stop hoping—that he might teach those in power. Until finally he realized:
 
 *doceo, sed frustra.*
 
 I teach, but in vain.
 
-When I read Theodor Haecker’s afterword of 1918, I understand Thomas Hobbes’s fury against theological agitators and troublemakers.
+When I read Theodor Haecker’s afterword of 1918, I understand Thomas Hobbes’s fury against theological agitators and troublemakers. And yet Theodor Haecker was my friend at the time! A crocodile wearing clerical neckbands—neckbands that he later exchanged for a rosary.
 
-And yet Theodor Haecker was my friend at the time!
+Who says that during the thousand-year kingdom it must always be the same chosen people—that is, the same beneficiaries—sitting at the top? Perhaps there too a rapid circulation of elites takes place while the thousand-year epoch itself remains unchanged. We experienced such a replacement in 1945. We must be prepared for more.
 
-A crocodile wearing clerical neckbands—neckbands that he later exchanged for a rosary.
+Novalis thought that the Last Day would not be an eternal day but an entire epoch—and specifically that epoch we call the thousand-year kingdom. Obviously no individual human being, and no human group, can endure a thousand years of prosperity. It is too much. We Germans did not even manage twelve years. And we were particularly resilient.
 
-Who says that during the thousand-year kingdom it must always be the same chosen people—that is, the same beneficiaries—sitting at the top?
-
-Perhaps there too a rapid circulation of elites takes place while the thousand-year epoch itself remains unchanged.
-
-We experienced such a replacement in 1945.
-
-We must be prepared for more.
-
-Novalis thought that the Last Day would not be an eternal day but an entire epoch—and specifically that epoch we call the thousand-year kingdom.
-
-Obviously no individual human being, and no human group, can endure a thousand years of prosperity.
-
-It is too much.
-
-We Germans did not even manage twelve years.
-
-And we were particularly resilient.
-
-The Economic Miracle will not last a thousand years either.
-
-But the age of enormously increased production, and therefore enormously increased possibilities of consumption, will remain.
-
-In other words: the thousand-year kingdom began long ago.
-
-It continues unchanged, with the elites circulating through it.
+The Economic Miracle will not last a thousand years either. But the age of enormously increased production, and therefore enormously increased possibilities of consumption, will remain. In other words: the thousand-year kingdom began long ago. It continues unchanged, with the elites circulating through it.
 
 ---
 
 **8 December 1958**
 
-Irony will never become popular.
+Irony will never become popular. Yes, Kierkegaard is right about that. More than that: it will become dangerous to one’s life.
 
-Yes, Kierkegaard is right about that.
+Not among the masses, who will never even sense that irony is there. But among the ruling class and the creatures who serve it.
 
-More than that: it will become dangerous to one’s life.
+In the early stages of a totalitarian system, irony still has a certain amount of room to move. In Germany this lasted until around 1936/37. Then amusement, jokes, and irony came to an end. Eventually they themselves began to seem stupid and childish.
 
-Not among the masses, who will never even sense that irony is there.
-
-But among the ruling class and the creatures who serve it.
-
-In the early stages of a totalitarian system, irony still has a certain amount of room to move.
-
-In Germany this lasted until around 1936/37.
-
-Then amusement, jokes, and irony came to an end.
-
-Eventually they themselves began to seem stupid and childish.
-
-With Kierkegaard—especially in his work on Adler—you can still see how comfortable his existence basically remained, how thoroughly Biedermeier his situation still was.
-
-And the fiercely polemical Theodor Haecker never understood the situation either—first because he was too busy preaching, later because he was too busy playing the sacristan.
-
-He understood neither the First World War nor the Second.
+With Kierkegaard—especially in his work on Adler—you can still see how comfortable his existence basically remained, how thoroughly Biedermeier his situation still was. And the fiercely polemical Theodor Haecker never understood the situation either—first because he was too busy preaching, later because he was too busy playing the sacristan. He understood neither the First World War nor the Second.
 
 “An abyss of mendacity among degenerate *Furche* Pietists.”
 
@@ -25674,15 +24762,9 @@ Ludwig Feuchtwanger, Ernst Bloch, and Paul Joachimsen had already confirmed that
 
 **30 December 1958**
 
-At Christmas I received a Christmas greeting from Otto Kirchheimer: an engraving by Baldung Grien, *jument ruant étalon*—a mare kicking a stallion.
+At Christmas I received a Christmas greeting from Otto Kirchheimer: an engraving by Baldung Grien, *jument ruant étalon*—a mare kicking a stallion. A horrifying Christmas greeting.
 
-A horrifying Christmas greeting.
-
-Kirchheimer certainly has no idea what he is doing.
-
-Nor what he is doing to me by sending it.
-
-And yet I still prefer him to Nathan the Wise and Satan the Quiet.
+Kirchheimer certainly has no idea what he is doing. Nor what he is doing to me by sending it. And yet I still prefer him to Nathan the Wise and Satan the Quiet.
 
 But:
 
@@ -25692,19 +24774,9 @@ Those were never your bells.[^fn-p20-pdf10-n01]
 
 **31 December 1958**
 
-Peaceful as my intentions are, I sit in my room and, suspecting nothing bad, leaf through the *Frankfurter Allgemeine*, which until now had seemed not yet to have been infiltrated by the poisonous vindictiveness of our ambitious present age.
+Peaceful as my intentions are, I sit in my room and, suspecting nothing bad, leaf through the *Frankfurter Allgemeine*, which until now had seemed not yet to have been infiltrated by the poisonous vindictiveness of our ambitious present age. Suddenly someone hits me over the head with a rubber truncheon. What happened?
 
-Suddenly someone hits me over the head with a rubber truncheon.
-
-What happened?
-
-Our venerable head of state—may God preserve him until the Last Judgment—gave a speech on 10 December to mark the tenth anniversary of the United Nations Declaration of Human Rights.
-
-At the end of it, he says that the political friend-enemy thesis, topical some years ago, was certainly flirtatious, but intellectually and psychologically poor and limited.
-
-Those are his exact words: flirtatious, psychologically poor and limited.
-
-A hint delivered with a rubber truncheon.
+Our venerable head of state—may God preserve him until the Last Judgment—gave a speech on 10 December to mark the tenth anniversary of the United Nations Declaration of Human Rights. At the end of it, he says that the political friend-enemy thesis, topical some years ago, was certainly flirtatious, but intellectually and psychologically poor and limited. Those are his exact words: flirtatious, psychologically poor and limited. A hint delivered with a rubber truncheon.
 
 I know what it means when a seventy-five-year-old *pouvoir neutre*, a “neutral power,” makes such an effort to morally defame and destroy the reputation of a defenseless seventy-year-old who has been completely dismissed from public life and is sitting peacefully in some corner of the Sauerland.
 
@@ -25738,9 +24810,7 @@ Not that either!
 
 Far be it from me!
 
-But I actually did have one great New Year’s Eve pleasure: reading Odo Marquard’s essay on the question: Is Kant’s metaphysics reality or a substitute?
-
-It is wonderful.
+But I actually did have one great New Year’s Eve pleasure: reading Odo Marquard’s essay on the question: Is Kant’s metaphysics reality or a substitute? It is wonderful.
 
 The new language of these young Germans!
 
@@ -25752,9 +24822,7 @@ transcendental dialectic as the ironic destruction, by means of parody, of a met
 
 and Adam—the human being—in Kleist’s *The Broken Jug* as defendant and judge at the same time (pp. 106–107 n.).
 
-All three concern me: me, the decisionist; me, the parodist; and me, the propagator of the principle: **I do not compare the victims. I compare only the judges!**
-
-And then there is the motto to the intermediate remark on p. 52, with which I would like to end this year:
+All three concern me: me, the decisionist; me, the parodist; and me, the propagator of the principle: **I do not compare the victims. I compare only the judges!** And then there is the motto to the intermediate remark on p. 52, with which I would like to end this year:
 
 The philosophers have changed the world in various ways.
 
@@ -25774,9 +24842,7 @@ Perhaps this will happen as early as the coming year.
 
 5. Fishing in troubled waters will prove to be child’s play compared with fishing in the hour before the Maelstrom, when the fish are paralyzed by fear.
 
-Khrushchev’s ultimatum has produced just such a paralysis.
-
-Above all, the paralysis consists in no longer wishing to distinguish between friend and enemy.
+Khrushchev’s ultimatum has produced just such a paralysis. Above all, the paralysis consists in no longer wishing to distinguish between friend and enemy.
 
 6. Wonders upon wonders!
 
@@ -25810,11 +24876,7 @@ France, 1815–1830.
 
 Applied to Germany today, this would mean that the present period continues until 1960.
 
-Or, if we begin counting from 1948 or 1949, until 1963/64.
-
-So for the moment we still have a reprieve before the hanging.
-
-We shall thoroughly enjoy the condemned man’s last meal and diligently butter our Nuremberg gallows.
+Or, if we begin counting from 1948 or 1949, until 1963/64. So for the moment we still have a reprieve before the hanging. We shall thoroughly enjoy the condemned man’s last meal and diligently butter our Nuremberg gallows.
 
 9. So many political trials will be conducted in the Federal Republic of Germany that some just people will finally understand my thesis:
 
@@ -25826,19 +24888,11 @@ Some will also understand why I so often quote the sentence:
 
 And the few who are initiated will understand where the development is heading—a development that does not yet fully take the form of justice being killed by political overburdening, but which already reveals precisely that tendency.
 
-Out of *homo homini homo*—man is man to man—out of the complete humanization of law, there arises:
-
-*judex homini lupus.*
-
-The judge is a wolf to man.
+Out of *homo homini homo*—man is man to man—out of the complete humanization of law, there arises: *judex homini lupus.* The judge is a wolf to man.
 
 10. Gelimer’s laughter does not stop.
 
-But that does not have to prevent us from seeing our reality.
-
-On the contrary: it can and should shake the scenery and stage sets of deception.
-
-In that way, it becomes a form of appeal appropriate to the situation:
+But that does not have to prevent us from seeing our reality. On the contrary: it can and should shake the scenery and stage sets of deception. In that way, it becomes a form of appeal appropriate to the situation:
 
 *J’en appelle de ta justice à ta réalité.*
 
