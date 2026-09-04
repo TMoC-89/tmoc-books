@@ -33835,575 +33835,575 @@ Footnotes and marginal notes moved from the main text are collected here in sour
 
 ### Source page 5
 
-[^fn-p01-pdf21-n01]: **Note 1.** A partly shorthand note in the margin is not clearly legible.
+[^fn-p01-pdf21-n01]: **Note 4.** A partly shorthand note in the margin is not clearly legible.
 
 ### Source page 6
 
-[^fn-p02-pdf01-n01]: **Note 1.** In the margin: “This sentence really reveals everything—one of those inexhaustible sentences.”
+[^fn-p02-pdf01-n01]: **Note 5.** In the margin: “This sentence really reveals everything—one of those inexhaustible sentences.”
 
-[^fn-p02-pdf01-n02]: **Note 2.** In the margin: “See 13 June 1948, 9 May 1950.”
+[^fn-p02-pdf01-n02]: **Note 6.** In the margin: “See 13 June 1948, 9 May 1950.”
 
 ### Source page 7
 
-[^fn-p02-pdf02-n01]: **Note 1.** In the margin: “Later note (Nov. 1947): laughable; he has become ambassador in Rome.”
+[^fn-p02-pdf02-n01]: **Note 7.** In the margin: “Later note (Nov. 1947): laughable; he has become ambassador in Rome.”
 
-[^fn-p02-pdf02-n02]: **Note 2.** A mixture of shorthand and longhand in the margin, not entirely legible.
+[^fn-p02-pdf02-n02]: **Note 8.** A mixture of shorthand and longhand in the margin, not entirely legible.
 
 ### Source page 8
 
-[^fn-p02-pdf03-n01]: **Note 1.** In the margin: “See 6 June 1948.”
+[^fn-p02-pdf03-n01]: **Note 9.** In the margin: “See 6 June 1948.”
 
-[^fn-p02-pdf03-n02]: **Note 2.** In the margin: “See 31 Aug. 1947, 1 Sept. 1947.”
+[^fn-p02-pdf03-n02]: **Note 10.** In the margin: “See 31 Aug. 1947, 1 Sept. 1947.”
 
-[^fn-p02-pdf03-n03]: **Note 3.** In the margin: “Guaranteeing freedom from need means guaranteeing freedom from God.”
+[^fn-p02-pdf03-n03]: **Note 11.** In the margin: “Guaranteeing freedom from need means guaranteeing freedom from God.”
 
-[^fn-p02-pdf03-n04]: **Note 4.** In shorthand in the margin: “Some recoil in horror; others cry out: Only now does the real, the true, the cosmic voyage of Columbus begin.”
+[^fn-p02-pdf03-n04]: **Note 12.** In shorthand in the margin: “Some recoil in horror; others cry out: Only now does the real, the true, the cosmic voyage of Columbus begin.”
 
 ### Source page 9
 
-[^fn-p02-pdf04-n01]: **Note 1.** Shorthand note in the margin not legible.
+[^fn-p02-pdf04-n01]: **Note 13.** Shorthand note in the margin not legible.
 
-[^fn-p02-pdf04-n02]: **Note 2.** Shorthand note in the margin not legible.
+[^fn-p02-pdf04-n02]: **Note 14.** Shorthand note in the margin not legible.
 
 ### Source page 10
 
-[^fn-p02-pdf05-n01]: **Note 1.** Shorthand note in the margin: “fabulous, because dialectically very <…> expressed.”
+[^fn-p02-pdf05-n01]: **Note 15.** Shorthand note in the margin: “fabulous, because dialectically very <…> expressed.”
 
 ### Source page 11
 
-[^fn-p02-pdf06-n01]: **Note 1.** In the margin: “De Récalde, *La Cause du Vénérable Bellarmin*, Paris 1923.”
+[^fn-p02-pdf06-n01]: **Note 16.** In the margin: “De Récalde, *La Cause du Vénérable Bellarmin*, Paris 1923.”
 
-[^fn-p02-pdf06-n02]: **Note 2.** A later addition in shorthand, two and a half lines long, is not legible.
+[^fn-p02-pdf06-n02]: **Note 17.** A later addition in shorthand, two and a half lines long, is not legible.
 
-[^fn-p02-pdf06-n03]: **Note 3.** In shorthand in the margin: “After seeing Siedlinghausen and visiting Paul Adams in Plettenberg.” The paragraph that follows is mostly in shorthand.
+[^fn-p02-pdf06-n03]: **Note 18.** In shorthand in the margin: “After seeing Siedlinghausen and visiting Paul Adams in Plettenberg.” The paragraph that follows is mostly in shorthand.
 
-[^fn-p02-pdf06-n04]: **Note 4.** In shorthand in the margin: “Goethe: We live on the past, and the past devours our people.”
+[^fn-p02-pdf06-n04]: **Note 19.** In shorthand in the margin: “Goethe: We live on the past, and the past devours our people.”
 
 ### Source page 12
 
-[^fn-p02-pdf07-n01]: **Note 1.** In the margin: “I am the enemy you killed, my friend.”
+[^fn-p02-pdf07-n01]: **Note 20.** In the margin: “I am the enemy you killed, my friend.”
 
 ### Source page 14
 
-[^fn-p02-pdf09-n01]: **Note 1.** What follows is in shorthand and not completely legible.
+[^fn-p02-pdf09-n01]: **Note 21.** What follows is in shorthand and not completely legible.
 
 ### Source page 15
 
-[^fn-p02-pdf10-n01]: **Note 1.** In the margin: “πάντα τολμητέον (*Theaetetus*)—everything must be dared. A noble risk!”
+[^fn-p02-pdf10-n01]: **Note 22.** In the margin: “πάντα τολμητέον (*Theaetetus*)—everything must be dared. A noble risk!”
 
-[^fn-p02-pdf10-n02]: **Note 2.** In the margin: “Socrates: from myth to logos; the state: from Christian faith to objective reason.”
+[^fn-p02-pdf10-n02]: **Note 23.** In the margin: “Socrates: from myth to logos; the state: from Christian faith to objective reason.”
 
 ### Source page 16
 
-[^fn-p02-pdf11-n01]: **Note 1.** This sentence and the sentence after next are in shorthand and not clearly legible.
+[^fn-p02-pdf11-n01]: **Note 24.** This sentence and the sentence after next are in shorthand and not clearly legible.
 
-[^fn-p02-pdf11-n02]: **Note 2.** In the margin, partly in shorthand: “<…> Pascal’s *moi haïssable*—the hateful self. Counterpart: Ernst Jünger’s armoring of the self.”
+[^fn-p02-pdf11-n02]: **Note 25.** In the margin, partly in shorthand: “<…> Pascal’s *moi haïssable*—the hateful self. Counterpart: Ernst Jünger’s armoring of the self.”
 
 ### Source page 17
 
-[^fn-p02-pdf12-n01]: **Note 1.** Later addition: “and Wilhelm Busch.”
+[^fn-p02-pdf12-n01]: **Note 26.** Later addition: “and Wilhelm Busch.”
 
-[^fn-p02-pdf12-n02]: **Note 2.** In the margin: “The compulsion: *la nation condamnée à perpétuité à la république*—the nation condemned to the republic for life (France in 1851).”
+[^fn-p02-pdf12-n02]: **Note 27.** In the margin: “The compulsion: *la nation condamnée à perpétuité à la république*—the nation condemned to the republic for life (France in 1851).”
 
 ### Source page 18
 
-[^fn-p02-pdf13-n01]: **Note 1.** This sentence is written over a shorthand note, of which the following can be read: “it is not the statute but the law, <…> everything else is <…> systematization for teaching purposes.”
+[^fn-p02-pdf13-n01]: **Note 28.** This sentence is written over a shorthand note, of which the following can be read: “it is not the statute but the law, <…> everything else is <…> systematization for teaching purposes.”
 
 ### Source page 19
 
-[^fn-p02-pdf14-n01]: **Note 1.** In the margin: “Continued 5 Oct. 1947.”
+[^fn-p02-pdf14-n01]: **Note 29.** In the margin: “Continued 5 Oct. 1947.”
 
 ### Source page 21
 
-[^fn-p02-pdf16-n01]: **Note 1.** In shorthand in the margin: “Books of <friends>, books of joy <…>.”
+[^fn-p02-pdf16-n01]: **Note 30.** In shorthand in the margin: “Books of <friends>, books of joy <…>.”
 
-[^fn-p02-pdf16-n02]: **Note 2.** Added later in the margin: “G. Nebel.”
+[^fn-p02-pdf16-n02]: **Note 31.** Added later in the margin: “G. Nebel.”
 
 ### Source page 23
 
-[^fn-p02-pdf18-n01]: **Note 1.** In shorthand in the margin: “Today, however, the occupying power of the state grants concessions, in Kierkegaardian fashion, as <…> that he nevertheless <…> as the professor of the time who was not <…> by any <side>.”
+[^fn-p02-pdf18-n01]: **Note 32.** In shorthand in the margin: “Today, however, the occupying power of the state grants concessions, in Kierkegaardian fashion, as <…> that he nevertheless <…> as the professor of the time who was not <…> by any <side>.”
 
 ### Source page 24
 
-[^fn-p02-pdf19-n01]: **Note 1.** Shorthand note in the margin not legible.
+[^fn-p02-pdf19-n01]: **Note 33.** Shorthand note in the margin not legible.
 
-[^fn-p02-pdf19-n02]: **Note 2.** The original has “exists.”
+[^fn-p02-pdf19-n02]: **Note 34.** The original has “exists.”
 
 ### Source page 25
 
-[^fn-p02-pdf20-n01]: **Note 1.** In the margin: “Civil war became <…> toward death, *amor mortis*, Scaeva, 22 Aug. 1949.”
+[^fn-p02-pdf20-n01]: **Note 35.** In the margin: “Civil war became <…> toward death, *amor mortis*, Scaeva, 22 Aug. 1949.”
 
-[^fn-p02-pdf20-n02]: **Note 2.** Shorthand note in the margin not legible.
+[^fn-p02-pdf20-n02]: **Note 36.** Shorthand note in the margin not legible.
 
-[^fn-p02-pdf20-n03]: **Note 3.** At the top of the page, but apparently referring to this passage: “(On this: dream of Fritz Eisler, pleasure-comrade.)”
+[^fn-p02-pdf20-n03]: **Note 37.** At the top of the page, but apparently referring to this passage: “(On this: dream of Fritz Eisler, pleasure-comrade.)”
 
 ### Source page 26
 
-[^fn-p02-pdf21-n01]: **Note 1.** In the margin: “Causality = calculability = will to power.”
+[^fn-p02-pdf21-n01]: **Note 38.** In the margin: “Causality = calculability = will to power.”
 
-[^fn-p02-pdf21-n02]: **Note 2.** In the margin: “16 Oct. [1947] – 21 Oct. [1947] <…>, see <Medusa>.”
+[^fn-p02-pdf21-n02]: **Note 39.** In the margin: “16 Oct. [1947] – 21 Oct. [1947] <…>, see <Medusa>.”
 
 ### Source page 27
 
-[^fn-p03-pdf01-n01]: **Note 1.** In the margin: “Goethe’s idea of the ‘smallest band’; the clan and the totem.”
+[^fn-p03-pdf01-n01]: **Note 40.** In the margin: “Goethe’s idea of the ‘smallest band’; the clan and the totem.”
 
 ### Source page 28
 
-[^fn-p03-pdf02-n01]: **Note 1.** In the margin: “Wrote this sentence to Stödter.”
+[^fn-p03-pdf02-n01]: **Note 41.** In the margin: “Wrote this sentence to Stödter.”
 
-[^fn-p03-pdf02-n02]: **Note 2.** Shorthand note in the margin: “Freedom is freedom of movement; there is no other kind.”
+[^fn-p03-pdf02-n02]: **Note 42.** Shorthand note in the margin: “Freedom is freedom of movement; there is no other kind.”
 
 ### Source page 29
 
-[^fn-p03-pdf03-n01]: **Note 1.** In the margin: “Wrote to Barion, 9 Dec. 1947.”
+[^fn-p03-pdf03-n01]: **Note 43.** In the margin: “Wrote to Barion, 9 Dec. 1947.”
 
-[^fn-p03-pdf03-n02]: **Note 2.** In the margin: “important for Hobbes.”
+[^fn-p03-pdf03-n02]: **Note 44.** In the margin: “important for Hobbes.”
 
 ### Source page 30
 
-[^fn-p03-pdf04-n01]: **Note 1.** In the margin: “Continued 15 Nov. 1947.”
+[^fn-p03-pdf04-n01]: **Note 45.** In the margin: “Continued 15 Nov. 1947.”
 
 ### Source page 31
 
-[^fn-p03-pdf05-n01]: **Note 1.** In the margin: “Spinoza uncritical, Hobbes not: the façade of legitimacy is built into legality.”
+[^fn-p03-pdf05-n01]: **Note 46.** In the margin: “Spinoza uncritical, Hobbes not: the façade of legitimacy is built into legality.”
 
 ### Source page 34
 
-[^fn-p03-pdf08-n01]: **Note 1.** In the margin: “On 27 Nov. 1947 I came across several remarks by Franz von Baader saying that everything which is merely past in time still exists, only at a distance from me, just as everything future already exists, only at a distance from me. The animal is ‘completely submerged in time’ and does not perceive this; ‘the perception of time can therefore belong only to man in his former amphibious existence, and even more to Satan beneath him.’”
+[^fn-p03-pdf08-n01]: **Note 47.** In the margin: “On 27 Nov. 1947 I came across several remarks by Franz von Baader saying that everything which is merely past in time still exists, only at a distance from me, just as everything future already exists, only at a distance from me. The animal is ‘completely submerged in time’ and does not perceive this; ‘the perception of time can therefore belong only to man in his former amphibious existence, and even more to Satan beneath him.’”
 
 ### Source page 35
 
-[^fn-p03-pdf09-n01]: **Note 1.** In the margin: “There is only utopian socialism—every other socialism is National Socialism. What makes socialism scientific is precisely what is utopian in it.”
+[^fn-p03-pdf09-n01]: **Note 48.** In the margin: “There is only utopian socialism—every other socialism is National Socialism. What makes socialism scientific is precisely what is utopian in it.”
 
 ### Source page 37
 
-[^fn-p03-pdf11-n01]: **Note 1.** Crossed out, with an illegible word written above it.
+[^fn-p03-pdf11-n01]: **Note 49.** Crossed out, with an illegible word written above it.
 
 ### Source page 39
 
-[^fn-p03-pdf13-n01]: **Note 1.** In the margin: “See 2 Aug. 1947; *Politics as a Vocation*, p. 28: ‘a discipline ethical in the highest sense,’ in which the civil servant obeys even an order he believes to be wrong.”
+[^fn-p03-pdf13-n01]: **Note 50.** In the margin: “See 2 Aug. 1947; *Politics as a Vocation*, p. 28: ‘a discipline ethical in the highest sense,’ in which the civil servant obeys even an order he believes to be wrong.”
 
 ### Source page 40
 
-[^fn-p03-pdf14-n01]: **Note 1.** In the margin: “See 19 Jan. 1948, Winckelmann.”
+[^fn-p03-pdf14-n01]: **Note 51.** In the margin: “See 19 Jan. 1948, Winckelmann.”
 
-[^fn-p03-pdf14-n02]: **Note 2.** In the margin: “Rebellion becomes the prevention of civil war; the rebels become capable of governing. Plutarch, *Galba*, ch. 29.”
+[^fn-p03-pdf14-n02]: **Note 52.** In the margin: “Rebellion becomes the prevention of civil war; the rebels become capable of governing. Plutarch, *Galba*, ch. 29.”
 
-[^fn-p03-pdf14-n03]: **Note 3.** In the margin: “Burckhardt’s prediction, letter to Preen dated 26 April 1872.”
+[^fn-p03-pdf14-n03]: **Note 53.** In the margin: “Burckhardt’s prediction, letter to Preen dated 26 April 1872.”
 
-[^fn-p03-pdf14-n04]: **Note 4.** In the margin: “(KDF everything).”
+[^fn-p03-pdf14-n04]: **Note 54.** In the margin: “(KDF everything).”
 
 ### Source page 41
 
-[^fn-p03-pdf15-n01]: **Note 1.** In the margin: “to Barion, 31 Nov. 1947.”
+[^fn-p03-pdf15-n01]: **Note 55.** In the margin: “to Barion, 31 Nov. 1947.”
 
 ### Source page 42
 
-[^fn-p03-pdf16-n01]: **Note 1.** In the margin: “to Paul Adams, 2 Dec. 1947.”
+[^fn-p03-pdf16-n01]: **Note 56.** In the margin: “to Paul Adams, 2 Dec. 1947.”
 
 ### Source page 43
 
-[^fn-p03-pdf17-n01]: **Note 1.** In the margin: “The categorical imperative is indeed law for law’s sake. Judaism after Christ’s birth.”
+[^fn-p03-pdf17-n01]: **Note 57.** In the margin: “The categorical imperative is indeed law for law’s sake. Judaism after Christ’s birth.”
 
 ### Source page 45
 
-[^fn-p03-pdf19-n01]: **Note 1.** In the margin: “to M. Stewens, 14 Dec. 1947.”
+[^fn-p03-pdf19-n01]: **Note 58.** In the margin: “to M. Stewens, 14 Dec. 1947.”
 
-[^fn-p03-pdf19-n02]: **Note 2.** Written over it: “people.”
+[^fn-p03-pdf19-n02]: **Note 59.** Written over it: “people.”
 
-[^fn-p03-pdf19-n03]: **Note 3.** Written over it: “its.”
+[^fn-p03-pdf19-n03]: **Note 60.** Written over it: “its.”
 
-[^fn-p03-pdf19-n04]: **Note 4.** Later addition: “See 19 Jan. 1948.”
+[^fn-p03-pdf19-n04]: **Note 61.** Later addition: “See 19 Jan. 1948.”
 
 ### Source page 46
 
-[^fn-p03-pdf20-n01]: **Note 1.** In the margin: “Continuity of spatial orderings.”
+[^fn-p03-pdf20-n01]: **Note 62.** In the margin: “Continuity of spatial orderings.”
 
-[^fn-p03-pdf20-n02]: **Note 2.** Shorthand not deciphered.
+[^fn-p03-pdf20-n02]: **Note 63.** Shorthand not deciphered.
 
-[^fn-p03-pdf20-n03]: **Note 3.** Written above it: “most subtle.”
+[^fn-p03-pdf20-n03]: **Note 64.** Written above it: “most subtle.”
 
-[^fn-p03-pdf20-n04]: **Note 4.** Written above it: “most sublime.”
+[^fn-p03-pdf20-n04]: **Note 65.** Written above it: “most sublime.”
 
 ### Source page 47
 
-[^fn-p03-pdf21-n01]: **Note 1.** The original has “for.”
+[^fn-p03-pdf21-n01]: **Note 66.** The original has “for.”
 
 ### Source page 48
 
-[^fn-p03-pdf22-n01]: **Note 1.** In the margin and on the facing page, partly in shorthand: “<…> Laberthonnière: an *athéisme éclairé*, an enlightened atheism, creates *le paradis sur terre*, paradise on earth, ‘*seul endroit où il peut être*’—‘the only place where it can exist.’ This Father seems capable of thinking more clearly than Rousseau with his *volonté générale*, his general will. Strange contradiction: the <…> as prosecutor of the law.”
+[^fn-p03-pdf22-n01]: **Note 67.** In the margin and on the facing page, partly in shorthand: “<…> Laberthonnière: an *athéisme éclairé*, an enlightened atheism, creates *le paradis sur terre*, paradise on earth, ‘*seul endroit où il peut être*’—‘the only place where it can exist.’ This Father seems capable of thinking more clearly than Rousseau with his *volonté générale*, his general will. Strange contradiction: the <…> as prosecutor of the law.”
 
 ### Source page 49
 
-[^fn-p04-pdf01-n01]: **Note 1.** In the margin: “Only in one place does something flash up that might touch the essential point: p. 189: ‘Imagine the effect of such a book on Prussian-Protestant minds.’ (Graetz on the writings of Mendelssohn.)”
+[^fn-p04-pdf01-n01]: **Note 68.** In the margin: “Only in one place does something flash up that might touch the essential point: p. 189: ‘Imagine the effect of such a book on Prussian-Protestant minds.’ (Graetz on the writings of Mendelssohn.)”
 
-[^fn-p04-pdf01-n02]: **Note 2.** Presumably “1933” is meant.
+[^fn-p04-pdf01-n02]: **Note 69.** Presumably “1933” is meant.
 
 ### Source page 50
 
-[^fn-p04-pdf02-n01]: **Note 1.** In the margin: “<…> A significant emanation of the theogonic forces that are now rumbling so powerfully.”
+[^fn-p04-pdf02-n01]: **Note 70.** In the margin: “<…> A significant emanation of the theogonic forces that are now rumbling so powerfully.”
 
-[^fn-p04-pdf02-n02]: **Note 2.** In the margin: “Brother Straubinger’s mistake: he took the majority in Germany to be the basis of the majority in the world.”
+[^fn-p04-pdf02-n02]: **Note 71.** In the margin: “Brother Straubinger’s mistake: he took the majority in Germany to be the basis of the majority in the world.”
 
 ### Source page 51
 
-[^fn-p04-pdf03-n01]: **Note 1.** In the margin: “Keyword for Sartre: he has nothing more to say on this question either.”
+[^fn-p04-pdf03-n01]: **Note 72.** In the margin: “Keyword for Sartre: he has nothing more to say on this question either.”
 
-[^fn-p04-pdf03-n02]: **Note 2.** In the margin: “That means: whoever says ‘God’ is trying to deceive.”
+[^fn-p04-pdf03-n02]: **Note 73.** In the margin: “That means: whoever says ‘God’ is trying to deceive.”
 
 ### Source page 53
 
-[^fn-p04-pdf05-n01]: **Note 1.** Shorthand note in the margin not clearly legible.
+[^fn-p04-pdf05-n01]: **Note 74.** Shorthand note in the margin not clearly legible.
 
-[^fn-p04-pdf05-n02]: **Note 2.** In the margin: “The victor may not decide what the victor is allowed to do, but the person who writes the book may.”
+[^fn-p04-pdf05-n02]: **Note 75.** In the margin: “The victor may not decide what the victor is allowed to do, but the person who writes the book may.”
 
 ## Book II
 
 ### Source page 58
 
-[^fn-p04-pdf10-n01]: **Note 1.** In the margin: “better dead than dying.”
+[^fn-p04-pdf10-n01]: **Note 76.** In the margin: “better dead than dying.”
 
-[^fn-p04-pdf10-n02]: **Note 2.** Written beneath it: “theomachic”—fighting against God.
+[^fn-p04-pdf10-n02]: **Note 77.** Written beneath it: “theomachic”—fighting against God.
 
-[^fn-p04-pdf10-n03]: **Note 3.** In the margin: “<…> 13 July 1948. The appropriate poet is not Rilke but Theodor Däubler. (To Mrs. Winckelmann, 27 Feb. 1948); see 30 April 1948.”
+[^fn-p04-pdf10-n03]: **Note 78.** In the margin: “<…> 13 July 1948. The appropriate poet is not Rilke but Theodor Däubler. (To Mrs. Winckelmann, 27 Feb. 1948); see 30 April 1948.”
 
 ### Source page 59
 
-[^fn-p04-pdf11-n01]: **Note 1.** In the margin: “But he does not understand that at all, because he does not want to know it either!!”
+[^fn-p04-pdf11-n01]: **Note 79.** In the margin: “But he does not understand that at all, because he does not want to know it either!!”
 
-[^fn-p04-pdf11-n02]: **Note 2.** Shorthand note in the margin: “Totality <…> necessarily, totality governs itself out of the need to bring together the society just listed. Totality of the <managers>. Totality among the elite.”
+[^fn-p04-pdf11-n02]: **Note 80.** Shorthand note in the margin: “Totality <…> necessarily, totality governs itself out of the need to bring together the society just listed. Totality of the <managers>. Totality among the elite.”
 
 ### Source page 60
 
-[^fn-p04-pdf12-n01]: **Note 1.** In the margin: “I believe in the causal power of Protestantism. But the zeal with which it rules makes me suspicious.”
+[^fn-p04-pdf12-n01]: **Note 81.** In the margin: “I believe in the causal power of Protestantism. But the zeal with which it rules makes me suspicious.”
 
-[^fn-p04-pdf12-n02]: **Note 2.** In the margin: “In a nihilistic age and country?”
+[^fn-p04-pdf12-n02]: **Note 82.** In the margin: “In a nihilistic age and country?”
 
-[^fn-p04-pdf12-n03]: **Note 3.** Written above it: “<…> current <…> of public law.”
+[^fn-p04-pdf12-n03]: **Note 83.** Written above it: “<…> current <…> of public law.”
 
-[^fn-p04-pdf12-n04]: **Note 4.** In the margin: “Everything points to a relapse in my individual case.”
+[^fn-p04-pdf12-n04]: **Note 84.** In the margin: “Everything points to a relapse in my individual case.”
 
 ### Source page 61
 
-[^fn-p04-pdf13-n01]: **Note 1.** According to a marginal note, this paragraph and the next were omitted from the letter.
+[^fn-p04-pdf13-n01]: **Note 85.** According to a marginal note, this paragraph and the next were omitted from the letter.
 
 ### Source page 62
 
-[^fn-p04-pdf14-n01]: **Note 1.** Written over it: “am.”
+[^fn-p04-pdf14-n01]: **Note 86.** Written over it: “am.”
 
-[^fn-p04-pdf14-n02]: **Note 2.** Written over the sentence: “But that certainly does not mean I praise the following:”
+[^fn-p04-pdf14-n02]: **Note 87.** Written over the sentence: “But that certainly does not mean I praise the following:”
 
-[^fn-p04-pdf14-n03]: **Note 3.** Later addition: “See 8 March 1948.”
+[^fn-p04-pdf14-n03]: **Note 88.** Later addition: “See 8 March 1948.”
 
-[^fn-p04-pdf14-n04]: **Note 4.** In the margin: “See 15 May 1948, 18 Aug. 1948, 30 Sept. 1948.”
+[^fn-p04-pdf14-n04]: **Note 89.** In the margin: “See 15 May 1948, 18 Aug. 1948, 30 Sept. 1948.”
 
 ### Source page 63
 
-[^fn-p04-pdf15-n01]: **Note 1.** In the margin: “to Miss Stewens.”
+[^fn-p04-pdf15-n01]: **Note 90.** In the margin: “to Miss Stewens.”
 
-[^fn-p04-pdf15-n02]: **Note 2.** In the margin: “What remains for technology except utopia?”
+[^fn-p04-pdf15-n02]: **Note 91.** In the margin: “What remains for technology except utopia?”
 
 ### Source page 64
 
-[^fn-p04-pdf16-n01]: **Note 1.** Shorthand note in the margin not legible.
+[^fn-p04-pdf16-n01]: **Note 92.** Shorthand note in the margin not legible.
 
-[^fn-p04-pdf16-n02]: **Note 2.** The original has “Rev. 22:1.”
+[^fn-p04-pdf16-n02]: **Note 93.** The original has “Rev. 22:1.”
 
-[^fn-p04-pdf16-n03]: **Note 3.** Later addition: “as long as it is supposed to be democratic?”
+[^fn-p04-pdf16-n03]: **Note 94.** Later addition: “as long as it is supposed to be democratic?”
 
 ### Source page 65
 
-[^fn-p04-pdf17-n01]: **Note 1.** Shorthand note in the margin: “And Sohm, the private tutor of the <…>, seminary teacher.”
+[^fn-p04-pdf17-n01]: **Note 95.** Shorthand note in the margin: “And Sohm, the private tutor of the <…>, seminary teacher.”
 
 ### Source page 66
 
-[^fn-p04-pdf18-n01]: **Note 1.** Shorthand note in the margin: “She wants nothing but herself, wants only to please herself; she is dishonest feeling, the dishonest abyss of total presence.”
+[^fn-p04-pdf18-n01]: **Note 96.** Shorthand note in the margin: “She wants nothing but herself, wants only to please herself; she is dishonest feeling, the dishonest abyss of total presence.”
 
-[^fn-p04-pdf18-n02]: **Note 2.** Later addition in the margin: “See Günther Krauss.”
+[^fn-p04-pdf18-n02]: **Note 97.** Later addition in the margin: “See Günther Krauss.”
 
 ### Source page 67
 
-[^fn-p04-pdf19-n01]: **Note 1.** In the margin: “See 30 Jan. 1948; grave, see 7 April 1948 (*Hic jacet*—Here lies).”
+[^fn-p04-pdf19-n01]: **Note 98.** In the margin: “See 30 Jan. 1948; grave, see 7 April 1948 (*Hic jacet*—Here lies).”
 
-[^fn-p04-pdf19-n02]: **Note 2.** In shorthand in the margin: “26/28 in Wuppertal <…>.”
+[^fn-p04-pdf19-n02]: **Note 99.** In shorthand in the margin: “26/28 in Wuppertal <…>.”
 
 ### Source page 68
 
-[^fn-p04-pdf20-n01]: **Note 1.** In the margin: “23 Jan. 1948.”
+[^fn-p04-pdf20-n01]: **Note 100.** In the margin: “23 Jan. 1948.”
 
-[^fn-p04-pdf20-n02]: **Note 2.** Shorthand note in the margin: “Is that the <utopia>? At last; see 10 Feb. 1948.”
+[^fn-p04-pdf20-n02]: **Note 101.** Shorthand note in the margin: “Is that the <utopia>? At last; see 10 Feb. 1948.”
 
-[^fn-p04-pdf20-n03]: **Note 3.** In the margin: “Mme. de Staël.”
+[^fn-p04-pdf20-n03]: **Note 102.** In the margin: “Mme. de Staël.”
 
 ### Source page 69
 
-[^fn-p05-pdf01-n01]: **Note 1.** In the margin: “*Cité* is better than ‘state’ as the broader term.”
+[^fn-p05-pdf01-n01]: **Note 103.** In the margin: “*Cité* is better than ‘state’ as the broader term.”
 
-[^fn-p05-pdf01-n02]: **Note 2.** Shorthand note in the margin: “You yourself in Apr[il] <4 Feb.> 37. Pity for the <…>. That is you yourself. Anniversary of Gustloff’s murder, Ludendorff’s victory in the soul of the <.>lander <Led.>. (3 Feb. 1938; Led at the burial!)”
+[^fn-p05-pdf01-n02]: **Note 104.** Shorthand note in the margin: “You yourself in Apr[il] <4 Feb.> 37. Pity for the <…>. That is you yourself. Anniversary of Gustloff’s murder, Ludendorff’s victory in the soul of the <.>lander <Led.>. (3 Feb. 1938; Led at the burial!)”
 
 ### Source page 70
 
-[^fn-p05-pdf02-n01]: **Note 1.** Later addition: “1912, 1938?”
+[^fn-p05-pdf02-n01]: **Note 105.** Later addition: “1912, 1938?”
 
-[^fn-p05-pdf02-n02]: **Note 2.** The original has “1918/18.”
+[^fn-p05-pdf02-n02]: **Note 106.** The original has “1918/18.”
 
-[^fn-p05-pdf02-n03]: **Note 3.** In the margin: “Is utopia a possibility? The sinful element: making an infinity real within the finite in order to eliminate fear. Already in Hobbes: producing fear.”
+[^fn-p05-pdf02-n03]: **Note 107.** In the margin: “Is utopia a possibility? The sinful element: making an infinity real within the finite in order to eliminate fear. Already in Hobbes: producing fear.”
 
-[^fn-p05-pdf02-n04]: **Note 4.** “Epochs” written over “history.”
+[^fn-p05-pdf02-n04]: **Note 108.** “Epochs” written over “history.”
 
 ### Source page 71
 
-[^fn-p05-pdf03-n01]: **Note 1.** In the margin, partly in shorthand: “Hobbes wants to be directly practical. No Platonic utopia or Atlantis (end of Book II of the *Leviathan* <…> Plato, in Latin also utopia, Atlantis).”
+[^fn-p05-pdf03-n01]: **Note 109.** In the margin, partly in shorthand: “Hobbes wants to be directly practical. No Platonic utopia or Atlantis (end of Book II of the *Leviathan* <…> Plato, in Latin also utopia, Atlantis).”
 
 ### Source page 72
 
-[^fn-p05-pdf04-n01]: **Note 1.** In the margin: “Diary, see 5 April 1948.”
+[^fn-p05-pdf04-n01]: **Note 110.** In the margin: “Diary, see 5 April 1948.”
 
-[^fn-p05-pdf04-n02]: **Note 2.** In the margin: “It is not yet a completed fraud; if it were, it would also abolish the opposition between land and sea.”
+[^fn-p05-pdf04-n02]: **Note 111.** In the margin: “It is not yet a completed fraud; if it were, it would also abolish the opposition between land and sea.”
 
 ### Source page 73
 
-[^fn-p05-pdf05-n01]: **Note 1.** In the margin: “15 Feb. 1948 to Winckelmann; 24 Feb. 1948 Mrs. Jünger; 13 April 1948 [Przywara] (‘pray for me’); 2 June 1948 E. R. Huber; 13 June 1948 W. Weber.”
+[^fn-p05-pdf05-n01]: **Note 112.** In the margin: “15 Feb. 1948 to Winckelmann; 24 Feb. 1948 Mrs. Jünger; 13 April 1948 [Przywara] (‘pray for me’); 2 June 1948 E. R. Huber; 13 June 1948 W. Weber.”
 
-[^fn-p05-pdf05-n02]: **Note 2.** Shorthand note in the margin: “Did hope make an <…> impression? After so many military victories and triumphs, the <Bolshevik> had to win.”
+[^fn-p05-pdf05-n02]: **Note 113.** Shorthand note in the margin: “Did hope make an <…> impression? After so many military victories and triumphs, the <Bolshevik> had to win.”
 
 ### Source page 74
 
-[^fn-p05-pdf06-n01]: **Note 1.** In the margin: “But compare: *Alexandrian Fantasy*, first wing: the water-demon dies and Pan stops smirking.”
+[^fn-p05-pdf06-n01]: **Note 114.** In the margin: “But compare: *Alexandrian Fantasy*, first wing: the water-demon dies and Pan stops smirking.”
 
-[^fn-p05-pdf06-n02]: **Note 2.** Later shorthand addition: “(In the same letter, 13 Feb. 1948.) <…> His reply of 18 Feb.: since 1933 he has <…> no longer called me a friend because he saw me in a <society of criminals such as Freisler>.”
+[^fn-p05-pdf06-n02]: **Note 115.** Later shorthand addition: “(In the same letter, 13 Feb. 1948.) <…> His reply of 18 Feb.: since 1933 he has <…> no longer called me a friend because he saw me in a <society of criminals such as Freisler>.”
 
 ### Source page 77
 
-[^fn-p05-pdf09-n01]: **Note 1.** In the margin: “See 8 March 1948, 11 Jan. 1948.”
+[^fn-p05-pdf09-n01]: **Note 116.** In the margin: “See 8 March 1948, 11 Jan. 1948.”
 
-[^fn-p05-pdf09-n02]: **Note 2.** Note in the margin not legible.
+[^fn-p05-pdf09-n02]: **Note 117.** Note in the margin not legible.
 
 ### Source page 78
 
-[^fn-p05-pdf10-n01]: **Note 1.** Shorthand note in the margin not clearly legible.
+[^fn-p05-pdf10-n01]: **Note 118.** Shorthand note in the margin not clearly legible.
 
 ### Source page 80
 
-[^fn-p05-pdf12-n01]: **Note 1.** Shorthand note in the margin: “See 21 Feb. 1948, <…>.”
+[^fn-p05-pdf12-n01]: **Note 119.** Shorthand note in the margin: “See 21 Feb. 1948, <…>.”
 
 ### Source page 81
 
-[^fn-p05-pdf13-n01]: **Note 1.** Shorthand note in the margin: “To Veronica, 16 March 1948: the book *Legality and Legitimacy* is a key to understanding everything that has broken over us since 1929—the stock-market crash, which, like the modern Defenestration of Prague of 1419 or 1618, begins an age of civil wars—and everything that will still break over the West.”
+[^fn-p05-pdf13-n01]: **Note 120.** Shorthand note in the margin: “To Veronica, 16 March 1948: the book *Legality and Legitimacy* is a key to understanding everything that has broken over us since 1929—the stock-market crash, which, like the modern Defenestration of Prague of 1419 or 1618, begins an age of civil wars—and everything that will still break over the West.”
 
-[^fn-p05-pdf13-n02]: **Note 2.** In the margin: “2 March 1948 to Winckelmann; 7 April 1948, A. Gehlen; see 4 April 1948; to Ehmke 1954; to Rumpf?; Stödter, see 5 March 1948.”
+[^fn-p05-pdf13-n02]: **Note 121.** In the margin: “2 March 1948 to Winckelmann; 7 April 1948, A. Gehlen; see 4 April 1948; to Ehmke 1954; to Rumpf?; Stödter, see 5 March 1948.”
 
-[^fn-p05-pdf13-n03]: **Note 3.** A later shorthand note in the margin dated “28 May 1948.”
+[^fn-p05-pdf13-n03]: **Note 122.** A later shorthand note in the margin dated “28 May 1948.”
 
 ### Source page 83
 
-[^fn-p05-pdf15-n01]: **Note 1.** In the margin: “See 11 Jan. 1948, 20 Feb. 1948.”
+[^fn-p05-pdf15-n01]: **Note 123.** In the margin: “See 11 Jan. 1948, 20 Feb. 1948.”
 
-[^fn-p05-pdf15-n02]: **Note 2.** In the margin: “The place of the grave is historicity.”
+[^fn-p05-pdf15-n02]: **Note 124.** In the margin: “The place of the grave is historicity.”
 
-[^fn-p05-pdf15-n03]: **Note 3.** In the margin: “Utopia, see 22 June 1951.”
+[^fn-p05-pdf15-n03]: **Note 125.** In the margin: “Utopia, see 22 June 1951.”
 
 ### Source page 84
 
-[^fn-p05-pdf16-n01]: **Note 1.** In shorthand in the margin: “Caution: political novel? Perhaps the state is a novel? Every state a utopia? Today’s constitutions as political novels?”
+[^fn-p05-pdf16-n01]: **Note 126.** In shorthand in the margin: “Caution: political novel? Perhaps the state is a novel? Every state a utopia? Today’s constitutions as political novels?”
 
-[^fn-p05-pdf16-n02]: **Note 2.** In the margin: “Essence: social rationalism; the rational construction of a reasonable community—that is utopia.”
+[^fn-p05-pdf16-n02]: **Note 127.** In the margin: “Essence: social rationalism; the rational construction of a reasonable community—that is utopia.”
 
-[^fn-p05-pdf16-n03]: **Note 3.** In the margin: “12 March 1948 to Stewens.”
+[^fn-p05-pdf16-n03]: **Note 128.** In the margin: “12 March 1948 to Stewens.”
 
 ### Source page 85
 
-[^fn-p05-pdf17-n01]: **Note 1.** Written beneath it: “German.”
+[^fn-p05-pdf17-n01]: **Note 129.** Written beneath it: “German.”
 
-[^fn-p05-pdf17-n02]: **Note 2.** In the margin: “Rohan <…>.”
+[^fn-p05-pdf17-n02]: **Note 130.** In the margin: “Rohan <…>.”
 
-[^fn-p05-pdf17-n03]: **Note 3.** Shorthand note on the facing page from a letter to his daughter: “My dear child! I wrote you this letter only to tell you something whose particular consequences will become clear only in later years. It need not interrupt you in your joys and sorrows. But I do want you to receive it. The great, and by no means insignificant, philosopher Joseph de Maistre experienced it in his youth and never forgot it.”
+[^fn-p05-pdf17-n03]: **Note 131.** Shorthand note on the facing page from a letter to his daughter: “My dear child! I wrote you this letter only to tell you something whose particular consequences will become clear only in later years. It need not interrupt you in your joys and sorrows. But I do want you to receive it. The great, and by no means insignificant, philosopher Joseph de Maistre experienced it in his youth and never forgot it.”
 
 ### Source page 86
 
-[^fn-p05-pdf18-n01]: **Note 1.** In the margin: “Written to Grewe, 4 April 1948.”
+[^fn-p05-pdf18-n01]: **Note 132.** In the margin: “Written to Grewe, 4 April 1948.”
 
 ### Source page 87
 
-[^fn-p05-pdf19-n01]: **Note 1.** In the margin: “while making the helpless attempt to capitulate to the West.”
+[^fn-p05-pdf19-n01]: **Note 133.** In the margin: “while making the helpless attempt to capitulate to the West.”
 
 ### Source page 88
 
-[^fn-p05-pdf20-n01]: **Note 1.** In the margin: “See 5 April 1948.”
+[^fn-p05-pdf20-n01]: **Note 134.** In the margin: “See 5 April 1948.”
 
 ### Source page 90
 
-[^fn-p05-pdf22-n01]: **Note 1.** In the margin: “*Dominus litis*!!”—master of the case!!
+[^fn-p05-pdf22-n01]: **Note 135.** In the margin: “*Dominus litis*!!”—master of the case!!
 
 ### Source page 91
 
-[^fn-p06-pdf01-n01]: **Note 1.** On the facing page, referring to this letter to Grewe, there is a series of mostly shorthand notes: “Should I have observed the *Silete jcti* [*jurisconsulti*]—‘Silence, jurists!’—toward him, Gr.[ewe]?; And did the taboo successfully break through the basis of the trial?; A Nation can only be condemned out of her own mouth; The question of the authority presiding over the court presses toward this: 1) the dualism of these <…> <…>, 2) <…>, because these are, after all, political crimes, and what counts as a political crime in the eyes of a <Bolshevism> fighting for its existence does not necessarily count as one in the eyes of a capitalist state; Addition (22 April 1948): on 1) two kinds of unconditional surrender; that means two kinds of <judicial> authority and two kinds of crime!!; Note on the Dönitz government: by accepting unconditional surrender, <…>; Important point: the touching attempt at a ‘<surrender>’ in Schleswig to the <murderers>! And then the <…> surrender <…> accepted when there was nothing left to surrender; on 2) the constant survey of the two <…>. In legal terms it is <…>, but also contemptible, <…> so brutal that it immediately stops whenever I <…> this or notice it in his trembling; and against the contemptibility of a kind of terrorism, the only remaining response is retreat to the counter-position of silence and stillness.”
+[^fn-p06-pdf01-n01]: **Note 136.** On the facing page, referring to this letter to Grewe, there is a series of mostly shorthand notes: “Should I have observed the *Silete jcti* [*jurisconsulti*]—‘Silence, jurists!’—toward him, Gr.[ewe]?; And did the taboo successfully break through the basis of the trial?; A Nation can only be condemned out of her own mouth; The question of the authority presiding over the court presses toward this: 1) the dualism of these <…> <…>, 2) <…>, because these are, after all, political crimes, and what counts as a political crime in the eyes of a <Bolshevism> fighting for its existence does not necessarily count as one in the eyes of a capitalist state; Addition (22 April 1948): on 1) two kinds of unconditional surrender; that means two kinds of <judicial> authority and two kinds of crime!!; Note on the Dönitz government: by accepting unconditional surrender, <…>; Important point: the touching attempt at a ‘<surrender>’ in Schleswig to the <murderers>! And then the <…> surrender <…> accepted when there was nothing left to surrender; on 2) the constant survey of the two <…>. In legal terms it is <…>, but also contemptible, <…> so brutal that it immediately stops whenever I <…> this or notice it in his trembling; and against the contemptibility of a kind of terrorism, the only remaining response is retreat to the counter-position of silence and stillness.”
 
 ### Source page 92
 
-[^fn-p06-pdf02-n01]: **Note 1.** In the margin: “See 30 April 1948.”
+[^fn-p06-pdf02-n01]: **Note 137.** In the margin: “See 30 April 1948.”
 
-[^fn-p06-pdf02-n02]: **Note 2.** In the margin: “Diary, see 11 Feb. 1948, 18 April 1948.”
+[^fn-p06-pdf02-n02]: **Note 138.** In the margin: “Diary, see 11 Feb. 1948, 18 April 1948.”
 
-[^fn-p06-pdf02-n03]: **Note 3.** Written over it: “reward.”
+[^fn-p06-pdf02-n03]: **Note 139.** Written over it: “reward.”
 
-[^fn-p06-pdf02-n04]: **Note 4.** Shorthand note in the margin not legible.
+[^fn-p06-pdf02-n04]: **Note 140.** Shorthand note in the margin not legible.
 
 ### Source page 93
 
-[^fn-p06-pdf03-n01]: **Note 1.** In the margin: “He did not address this at all in his reply.”
+[^fn-p06-pdf03-n01]: **Note 141.** In the margin: “He did not address this at all in his reply.”
 
-[^fn-p06-pdf03-n02]: **Note 2.** Shorthand note in the margin not legible.
+[^fn-p06-pdf03-n02]: **Note 142.** Shorthand note in the margin not legible.
 
-[^fn-p06-pdf03-n03]: **Note 3.** In the margin: “from *Henry V*, Act IV, Scene 1.”
+[^fn-p06-pdf03-n03]: **Note 143.** In the margin: “from *Henry V*, Act IV, Scene 1.”
 
-[^fn-p06-pdf03-n04]: **Note 4.** In the margin: “See 1 May 1948 (Caesar’s speech).”
+[^fn-p06-pdf03-n04]: **Note 144.** In the margin: “See 1 May 1948 (Caesar’s speech).”
 
-[^fn-p06-pdf03-n05]: **Note 5.** The original has “1939.”
+[^fn-p06-pdf03-n05]: **Note 145.** The original has “1939.”
 
 ### Source page 94
 
-[^fn-p06-pdf04-n01]: **Note 1.** In the margin: “Intermediate position, adaptation, practical question of circumstances, etc. Erasmianism.”
+[^fn-p06-pdf04-n01]: **Note 146.** In the margin: “Intermediate position, adaptation, practical question of circumstances, etc. Erasmianism.”
 
-[^fn-p06-pdf04-n02]: **Note 2.** In the margin: “Continued 10 April 1948.”
+[^fn-p06-pdf04-n02]: **Note 147.** In the margin: “Continued 10 April 1948.”
 
-[^fn-p06-pdf04-n03]: **Note 3.** In the margin: “8 June 1948 to Günther Krauss: I like this very much as an answer to a house chaplain; I assume he said it over good food and drink.”
+[^fn-p06-pdf04-n03]: **Note 148.** In the margin: “8 June 1948 to Günther Krauss: I like this very much as an answer to a house chaplain; I assume he said it over good food and drink.”
 
-[^fn-p06-pdf04-n04]: **Note 4.** In the margin: “15 June 1948 to Walz; (to Jünger?); Ipsen?; continuation from 9 April 1948; also to N. Bobbio.”
+[^fn-p06-pdf04-n04]: **Note 149.** In the margin: “15 June 1948 to Walz; (to Jünger?); Ipsen?; continuation from 9 April 1948; also to N. Bobbio.”
 
-[^fn-p06-pdf04-n05]: **Note 5.** In the margin: “See 1 May 1948, social sorcery.”
+[^fn-p06-pdf04-n05]: **Note 150.** In the margin: “See 1 May 1948, social sorcery.”
 
 ### Source page 95
 
-[^fn-p06-pdf05-n01]: **Note 1.** In the margin: “Beginning of letter to Blötz (about Spengler).”
+[^fn-p06-pdf05-n01]: **Note 151.** In the margin: “Beginning of letter to Blötz (about Spengler).”
 
-[^fn-p06-pdf05-n02]: **Note 2.** In the margin: “Received news of his address, wrote to him, but he did not reply.”
+[^fn-p06-pdf05-n02]: **Note 152.** In the margin: “Received news of his address, wrote to him, but he did not reply.”
 
 ### Source page 96
 
-[^fn-p06-pdf06-n01]: **Note 1.** In the margin: “This sentence also sent to P. Jordan.”
+[^fn-p06-pdf06-n01]: **Note 153.** In the margin: “This sentence also sent to P. Jordan.”
 
-[^fn-p06-pdf06-n02]: **Note 2.** In red in the margin, the astrological symbol for Jupiter.
+[^fn-p06-pdf06-n02]: **Note 154.** In red in the margin, the astrological symbol for Jupiter.
 
-[^fn-p06-pdf06-n03]: **Note 3.** In the margin: “Written to Jup; sent him ‘<Werfel>’ as an answer <…> Güllich; see reverse [meaning the pasted newspaper clipping; see p. 97].”
+[^fn-p06-pdf06-n03]: **Note 155.** In the margin: “Written to Jup; sent him ‘<Werfel>’ as an answer <…> Güllich; see reverse [meaning the pasted newspaper clipping; see p. 97].”
 
 ### Source page 98
 
-[^fn-p06-pdf08-n01]: **Note 1.** In the margin: “5 April 1948.”
+[^fn-p06-pdf08-n01]: **Note 156.** In the margin: “5 April 1948.”
 
 ### Source page 99
 
-[^fn-p06-pdf09-n01]: **Note 1.** In the margin: “See reply, 23 May 1948.”
+[^fn-p06-pdf09-n01]: **Note 157.** In the margin: “See reply, 23 May 1948.”
 
-[^fn-p06-pdf09-n02]: **Note 2.** In the margin: “Rumpf, see 23 May 1948.”
+[^fn-p06-pdf09-n02]: **Note 158.** In the margin: “Rumpf, see 23 May 1948.”
 
-[^fn-p06-pdf09-n03]: **Note 3.** In the margin: “I could also have added: that is why it is so easy to mobilize anti-Roman feeling against me and against everything I say.”
+[^fn-p06-pdf09-n03]: **Note 159.** In the margin: “I could also have added: that is why it is so easy to mobilize anti-Roman feeling against me and against everything I say.”
 
 ### Source page 100
 
-[^fn-p06-pdf10-n01]: **Note 1.** In the margin: “Missing here: conceptual realism, as a constructive achievement, not as a program or school formula!”
+[^fn-p06-pdf10-n01]: **Note 160.** In the margin: “Missing here: conceptual realism, as a constructive achievement, not as a program or school formula!”
 
-[^fn-p06-pdf10-n02]: **Note 2.** In the margin: “See 29 Aug. 1947.” Above it in shorthand: “Pope Aeneas Sylvius wanted to call himself Formosus II because he was so handsome! In the end he did not. Playful tragedy: idea and reality, thought and deed.”
+[^fn-p06-pdf10-n02]: **Note 161.** In the margin: “See 29 Aug. 1947.” Above it in shorthand: “Pope Aeneas Sylvius wanted to call himself Formosus II because he was so handsome! In the end he did not. Playful tragedy: idea and reality, thought and deed.”
 
 ### Source page 101
 
-[^fn-p06-pdf11-n01]: **Note 1.** Shorthand note in the margin not legible.
+[^fn-p06-pdf11-n01]: **Note 162.** Shorthand note in the margin not legible.
 
-[^fn-p06-pdf11-n02]: **Note 2.** In the margin: “Absolute monarchy is also a *titulus absolutus*—an absolute title.”
+[^fn-p06-pdf11-n02]: **Note 163.** In the margin: “Absolute monarchy is also a *titulus absolutus*—an absolute title.”
 
-[^fn-p06-pdf11-n03]: **Note 3.** See appendix.
+[^fn-p06-pdf11-n03]: **Note 164.** See appendix.
 
 ### Source page 102
 
-[^fn-p06-pdf12-n01]: **Note 1.** In the margin: “perhaps to Ipsen.”
+[^fn-p06-pdf12-n01]: **Note 165.** In the margin: “perhaps to Ipsen.”
 
-[^fn-p06-pdf12-n02]: **Note 2.** On the facing page in shorthand: “One example of the model-forming power of this canon law is investiture. See Hauriou: investiture by the state with non-state tasks.”
+[^fn-p06-pdf12-n02]: **Note 166.** On the facing page in shorthand: “One example of the model-forming power of this canon law is investiture. See Hauriou: investiture by the state with non-state tasks.”
 
-[^fn-p06-pdf12-n03]: **Note 3.** In the margin: “with the three types, p. 40, and the blurb for *Leviathan*.”
+[^fn-p06-pdf12-n03]: **Note 167.** In the margin: “with the three types, p. 40, and the blurb for *Leviathan*.”
 
-[^fn-p06-pdf12-n04]: **Note 4.** In the margin: “Disraeli’s and Hitler’s social sorcery; see 1 May 1948.”
+[^fn-p06-pdf12-n04]: **Note 168.** In the margin: “Disraeli’s and Hitler’s social sorcery; see 1 May 1948.”
 
-[^fn-p06-pdf12-n05]: **Note 5.** On the facing page, an illegible shorthand note.
+[^fn-p06-pdf12-n05]: **Note 169.** On the facing page, an illegible shorthand note.
 
 ### Source page 104
 
-[^fn-p06-pdf14-n01]: **Note 1.** In the margin: “See letter to Grewe, 3 April 1948.”
+[^fn-p06-pdf14-n01]: **Note 170.** In the margin: “See letter to Grewe, 3 April 1948.”
 
 ### Source page 105
 
-[^fn-p06-pdf15-n01]: **Note 1.** Shorthand note in the margin: “as an everyday word: why not *cité*?”
+[^fn-p06-pdf15-n01]: **Note 171.** Shorthand note in the margin: “as an everyday word: why not *cité*?”
 
-[^fn-p06-pdf15-n02]: **Note 2.** In the margin: “See 23 May 1948.”
+[^fn-p06-pdf15-n02]: **Note 172.** In the margin: “See 23 May 1948.”
 
-[^fn-p06-pdf15-n03]: **Note 3.** In the margin: “See 15 May 1948.”
+[^fn-p06-pdf15-n03]: **Note 173.** In the margin: “See 15 May 1948.”
 
 ### Source page 106
 
-[^fn-p06-pdf16-n01]: **Note 1.** In the margin: “The ‘thousand-year age’ of the new Eve (Stefan George), with a new God and a new Reich.”
+[^fn-p06-pdf16-n01]: **Note 174.** In the margin: “The ‘thousand-year age’ of the new Eve (Stefan George), with a new God and a new Reich.”
 
-[^fn-p06-pdf16-n02]: **Note 2.** In the margin: “Written to Adams and Günther Krauss.”
+[^fn-p06-pdf16-n02]: **Note 175.** In the margin: “Written to Adams and Günther Krauss.”
 
-[^fn-p06-pdf16-n03]: **Note 3.** In the margin: “Written to Adams and Günther Krauss; on 15 June 1948 to Hans Beym. <…> Gandillac, Nicholas of Cusa.”
+[^fn-p06-pdf16-n03]: **Note 176.** In the margin: “Written to Adams and Günther Krauss; on 15 June 1948 to Hans Beym. <…> Gandillac, Nicholas of Cusa.”
 
 ### Source page 107
 
-[^fn-p06-pdf17-n01]: **Note 1.** In the margin: “perhaps to Speidel or Grewe.”
+[^fn-p06-pdf17-n01]: **Note 177.** In the margin: “perhaps to Speidel or Grewe.”
 
-[^fn-p06-pdf17-n02]: **Note 2.** Shorthand note in the margin not legible.
+[^fn-p06-pdf17-n02]: **Note 178.** Shorthand note in the margin not legible.
 
-[^fn-p06-pdf17-n03]: **Note 3.** In the margin and on the facing page: “social sorcery; see letter to P. Jordan, 22 April 1948. The macro-world of the social. There is also mental sorcery, intellectual sorcery, immaterial sorcery, spiritual sorcery.”
+[^fn-p06-pdf17-n03]: **Note 179.** In the margin and on the facing page: “social sorcery; see letter to P. Jordan, 22 April 1948. The macro-world of the social. There is also mental sorcery, intellectual sorcery, immaterial sorcery, spiritual sorcery.”
 
-[^fn-p06-pdf17-n04]: **Note 4.** In the margin: “See 10 April 1948, Picaro.”
+[^fn-p06-pdf17-n04]: **Note 180.** In the margin: “See 10 April 1948, Picaro.”
 
-[^fn-p06-pdf17-n05]: **Note 5.** In shorthand in the margin: “The impatience of justice torments me deeply and harshly.”
+[^fn-p06-pdf17-n05]: **Note 181.** In shorthand in the margin: “The impatience of justice torments me deeply and harshly.”
 
-[^fn-p06-pdf17-n06]: **Note 6.** In shorthand in the margin: “to Günther Krauss, 3 May 1948; E. R. Huber, 18 June 1948; Ipsen.”
+[^fn-p06-pdf17-n06]: **Note 182.** In shorthand in the margin: “to Günther Krauss, 3 May 1948; E. R. Huber, 18 June 1948; Ipsen.”
 
 ### Source page 108
 
-[^fn-p06-pdf18-n01]: **Note 1.** In shorthand in the margin: “Wrote this reference to Sallust to Günther Krauss, 3 May 1948.”
+[^fn-p06-pdf18-n01]: **Note 183.** In shorthand in the margin: “Wrote this reference to Sallust to Günther Krauss, 3 May 1948.”
 
-[^fn-p06-pdf18-n02]: **Note 2.** Originally: “Gratian’s.”
+[^fn-p06-pdf18-n02]: **Note 184.** Originally: “Gratian’s.”
 
-[^fn-p06-pdf18-n03]: **Note 3.** In the margin: “See 29 June 1948, 22 July 1948.”
+[^fn-p06-pdf18-n03]: **Note 185.** In the margin: “See 29 June 1948, 22 July 1948.”
 
 ### Source page 109
 
-[^fn-p06-pdf19-n01]: **Note 1.** In the margin: “See 3 May 1948.”
+[^fn-p06-pdf19-n01]: **Note 186.** In the margin: “See 3 May 1948.”
 
-[^fn-p06-pdf19-n02]: **Note 2.** Shorthand note in the margin: “to Herbert Nette, with the request that he send it to Scheffer together with *Land and Sea*.”
+[^fn-p06-pdf19-n02]: **Note 187.** Shorthand note in the margin: “to Herbert Nette, with the request that he send it to Scheffer together with *Land and Sea*.”
 
-[^fn-p06-pdf19-n03]: **Note 3.** In the margin: “Poor Jünger.”
+[^fn-p06-pdf19-n03]: **Note 188.** In the margin: “Poor Jünger.”
 
-[^fn-p06-pdf19-n04]: **Note 4.** Shorthand note in the margin: “ready for the crematorium.”
+[^fn-p06-pdf19-n04]: **Note 189.** Shorthand note in the margin: “ready for the crematorium.”
 
 ### Source page 111
 
-[^fn-p07-pdf01-n01]: **Note 1.** Crossed out: “To H. P. Ipsen.”
+[^fn-p07-pdf01-n01]: **Note 190.** Crossed out: “To H. P. Ipsen.”
 
-[^fn-p07-pdf01-n02]: **Note 2.** In the margin: “and hence also the helplessness of the present attempt to return to natural law.”
+[^fn-p07-pdf01-n02]: **Note 191.** In the margin: “and hence also the helplessness of the present attempt to return to natural law.”
 
-[^fn-p07-pdf01-n03]: **Note 3.** Shorthand note in the margin not legible.
+[^fn-p07-pdf01-n03]: **Note 192.** Shorthand note in the margin not legible.
 
-[^fn-p07-pdf01-n04]: **Note 4.** In the margin: “See 31 May 1948.”
+[^fn-p07-pdf01-n04]: **Note 193.** In the margin: “See 31 May 1948.”
 
 ### Source page 112
 
-[^fn-p07-pdf02-n01]: **Note 1.** Written above it: “absorbed.”
+[^fn-p07-pdf02-n01]: **Note 194.** Written above it: “absorbed.”
 
-[^fn-p07-pdf02-n02]: **Note 2.** In the margin: “11 May 1948.”
+[^fn-p07-pdf02-n02]: **Note 195.** In the margin: “11 May 1948.”
 
-[^fn-p07-pdf02-n03]: **Note 3.** Shorthand note in the margin not legible.
+[^fn-p07-pdf02-n03]: **Note 196.** Shorthand note in the margin not legible.
 
-[^fn-p07-pdf02-n04]: **Note 4.** In the margin: “26 May [1948]; see marginal note 27 April 1948, 18 Aug. 1948.”
+[^fn-p07-pdf02-n04]: **Note 197.** In the margin: “26 May [1948]; see marginal note 27 April 1948, 18 Aug. 1948.”
 
-[^fn-p07-pdf02-n05]: **Note 5.** In the margin: “Continued 17 May 1948, 4 March 1949, 1 May 1949, 19 May 1949.”
+[^fn-p07-pdf02-n05]: **Note 198.** In the margin: “Continued 17 May 1948, 4 March 1949, 1 May 1949, 19 May 1949.”
 
 ### Source page 113
 
-[^fn-p07-pdf03-n01]: **Note 1.** Illegible shorthand written above it.
+[^fn-p07-pdf03-n01]: **Note 199.** Illegible shorthand written above it.
 
-[^fn-p07-pdf03-n02]: **Note 2.** On the facing page are notes on this passage that cannot be clearly placed within the running text:
+[^fn-p07-pdf03-n02]: **Note 200.** On the facing page are notes on this passage that cannot be clearly placed within the running text:
 
 – “*Un grand peuple remué*—a great people set in motion—*ne peut faire que des exécutions*—can do nothing but carry out executions (Rivarol, I, 24). To carry out, execution: the program itself is relatively unimportant.”
 
@@ -34419,1269 +34419,1269 @@ There are also difficult-to-read shorthand notes:
 
 ### Source page 114
 
-[^fn-p07-pdf04-n01]: **Note 1.** In the margin: “See 23 June 1948, 26 May, 30 May, 2 June; see also the note from Nov. 1954, <…>.”
+[^fn-p07-pdf04-n01]: **Note 201.** In the margin: “See 23 June 1948, 26 May, 30 May, 2 June; see also the note from Nov. 1954, <…>.”
 
-[^fn-p07-pdf04-n02]: **Note 2.** Shorthand insertion in the margin not legible.
+[^fn-p07-pdf04-n02]: **Note 202.** Shorthand insertion in the margin not legible.
 
-[^fn-p07-pdf04-n03]: **Note 3.** On the facing page, in shorthand: “Hadamovsky says: propaganda adds the power of organization to the weakness [of the argument]. (Hannah Arendt, *The Burden of Our Time*, p. 352.)”
+[^fn-p07-pdf04-n03]: **Note 203.** On the facing page, in shorthand: “Hadamovsky says: propaganda adds the power of organization to the weakness [of the argument]. (Hannah Arendt, *The Burden of Our Time*, p. 352.)”
 
 ### Source page 115
 
-[^fn-p07-pdf05-n01]: **Note 1.** In the margin: “See 3 June 1948, 4 June 1948.”
+[^fn-p07-pdf05-n01]: **Note 204.** In the margin: “See 3 June 1948, 4 June 1948.”
 
-[^fn-p07-pdf05-n02]: **Note 2.** In the margin: “See 20 April 1948.”
+[^fn-p07-pdf05-n02]: **Note 205.** In the margin: “See 20 April 1948.”
 
-[^fn-p07-pdf05-n03]: **Note 3.** Written above it: “injections.”
+[^fn-p07-pdf05-n03]: **Note 206.** Written above it: “injections.”
 
-[^fn-p07-pdf05-n04]: **Note 4.** In the margin: “Analogous situation on 30 June 1955, when Hans Buchheim visited me.”
+[^fn-p07-pdf05-n04]: **Note 207.** In the margin: “Analogous situation on 30 June 1955, when Hans Buchheim visited me.”
 
 ### Source page 116
 
-[^fn-p07-pdf06-n01]: **Note 1.** This sentence, partly in shorthand, was added later.
+[^fn-p07-pdf06-n01]: **Note 208.** This sentence, partly in shorthand, was added later.
 
-[^fn-p07-pdf06-n02]: **Note 2.** Shorthand note in the margin not legible.
+[^fn-p07-pdf06-n02]: **Note 209.** Shorthand note in the margin not legible.
 
-[^fn-p07-pdf06-n03]: **Note 3.** In shorthand in the margin: “I received no reply to this letter.”
+[^fn-p07-pdf06-n03]: **Note 210.** In shorthand in the margin: “I received no reply to this letter.”
 
-[^fn-p07-pdf06-n04]: **Note 4.** This sentence was inserted later. In the margin: “some helpful <clarification> <…>.”
+[^fn-p07-pdf06-n04]: **Note 211.** This sentence was inserted later. In the margin: “some helpful <clarification> <…>.”
 
 ### Source page 117
 
-[^fn-p07-pdf07-n01]: **Note 1.** In the margin: “2 June 1948.”
+[^fn-p07-pdf07-n01]: **Note 212.** In the margin: “2 June 1948.”
 
-[^fn-p07-pdf07-n02]: **Note 2.** In the margin: “Race ideologues: besides Cecil Rhodes, also Mahan, Lord Rosebery, Lord Milner, Joseph Chamberlain.”
+[^fn-p07-pdf07-n02]: **Note 213.** In the margin: “Race ideologues: besides Cecil Rhodes, also Mahan, Lord Rosebery, Lord Milner, Joseph Chamberlain.”
 
-[^fn-p07-pdf07-n03]: **Note 3.** In the margin: “Written to Nebel, 29 May 1948.”
+[^fn-p07-pdf07-n03]: **Note 214.** In the margin: “Written to Nebel, 29 May 1948.”
 
 ### Source page 118
 
-[^fn-p07-pdf08-n01]: **Note 1.** “and sinks away as a victim” was added later in shorthand. There is another illegible shorthand note in the margin.
+[^fn-p07-pdf08-n01]: **Note 215.** “and sinks away as a victim” was added later in shorthand. There is another illegible shorthand note in the margin.
 
-[^fn-p07-pdf08-n02]: **Note 2.** Added later: “Perhaps a little too beautiful.”
+[^fn-p07-pdf08-n02]: **Note 216.** Added later: “Perhaps a little too beautiful.”
 
-[^fn-p07-pdf08-n03]: **Note 3.** Added later in shorthand: “But only this makes the matter clear. George is his friend, not Jünger.”
+[^fn-p07-pdf08-n03]: **Note 217.** Added later in shorthand: “But only this makes the matter clear. George is his friend, not Jünger.”
 
-[^fn-p07-pdf08-n04]: **Note 4.** Difficult-to-read shorthand addition on the facing page.
+[^fn-p07-pdf08-n04]: **Note 218.** Difficult-to-read shorthand addition on the facing page.
 
-[^fn-p07-pdf08-n05]: **Note 5.** In the margin: “See 8 May 1948; because of Gabba <…> 8 June 1948.”
+[^fn-p07-pdf08-n05]: **Note 219.** In the margin: “See 8 May 1948; because of Gabba <…> 8 June 1948.”
 
 ### Source page 119
 
-[^fn-p07-pdf09-n01]: **Note 1.** In the margin: “15 May, 17 May, 26 May, 2 June.”
+[^fn-p07-pdf09-n01]: **Note 220.** In the margin: “15 May, 17 May, 26 May, 2 June.”
 
-[^fn-p07-pdf09-n02]: **Note 2.** In the margin: “See 23 May 1948.”
+[^fn-p07-pdf09-n02]: **Note 221.** In the margin: “See 23 May 1948.”
 
-[^fn-p07-pdf09-n03]: **Note 3.** In the margin: “Touching, Gerhard Ritter:”
+[^fn-p07-pdf09-n03]: **Note 222.** In the margin: “Touching, Gerhard Ritter:”
 
 ### Source page 121
 
-[^fn-p07-pdf11-n01]: **Note 1.** Shorthand note in the margin: “Poor Adolf merely followed the matter through here too.”
+[^fn-p07-pdf11-n01]: **Note 223.** Shorthand note in the margin: “Poor Adolf merely followed the matter through here too.”
 
 ### Source page 122
 
-[^fn-p07-pdf12-n01]: **Note 1.** Written above it: “bestial.”
+[^fn-p07-pdf12-n01]: **Note 224.** Written above it: “bestial.”
 
-[^fn-p07-pdf12-n02]: **Note 2.** In shorthand in the margin: “Perseus defeats his enemy Polydectes by holding up Medusa’s head before him.”
+[^fn-p07-pdf12-n02]: **Note 225.** In shorthand in the margin: “Perseus defeats his enemy Polydectes by holding up Medusa’s head before him.”
 
-[^fn-p07-pdf12-n03]: **Note 3.** Shorthand note in the margin not legible.
+[^fn-p07-pdf12-n03]: **Note 226.** Shorthand note in the margin not legible.
 
-[^fn-p07-pdf12-n04]: **Note 4.** Partly in shorthand in the margin: “<…> ‘the primal dissonance of the chirping of nothingness.’”
+[^fn-p07-pdf12-n04]: **Note 227.** Partly in shorthand in the margin: “<…> ‘the primal dissonance of the chirping of nothingness.’”
 
-[^fn-p07-pdf12-n05]: **Note 5.** In shorthand in the margin: “Not yet written to Jünger. Perhaps seduc[tive].”
+[^fn-p07-pdf12-n05]: **Note 228.** In shorthand in the margin: “Not yet written to Jünger. Perhaps seduc[tive].”
 
 ### Source page 123
 
-[^fn-p07-pdf13-n01]: **Note 1.** At the top of the page: “Hitler is the giant alibi-rabbit.” In the margin: “In Dostoevsky, Kirillov says: Man will become a god and will physically change!”
+[^fn-p07-pdf13-n01]: **Note 229.** At the top of the page: “Hitler is the giant alibi-rabbit.” In the margin: “In Dostoevsky, Kirillov says: Man will become a god and will physically change!”
 
 ### Source page 124
 
-[^fn-p07-pdf14-n01]: **Note 1.** In the margin: “Toynbee, 11 April 1948, 13 April 1948, 29 April 1949.”
+[^fn-p07-pdf14-n01]: **Note 230.** In the margin: “Toynbee, 11 April 1948, 13 April 1948, 29 April 1949.”
 
-[^fn-p07-pdf14-n02]: **Note 2.** In the margin: “That is to say: anarchic chaos is better than nihilistic centralization and imposed rules.”
+[^fn-p07-pdf14-n02]: **Note 231.** In the margin: “That is to say: anarchic chaos is better than nihilistic centralization and imposed rules.”
 
 ### Source page 125
 
-[^fn-p07-pdf15-n01]: **Note 1.** In the margin: “Also the essay by K. Weiß in *Die Schildgenossen*, autumn 1933.”
+[^fn-p07-pdf15-n01]: **Note 232.** In the margin: “Also the essay by K. Weiß in *Die Schildgenossen*, autumn 1933.”
 
 ### Source page 127
 
-[^fn-p07-pdf17-n01]: **Note 1.** The final sentence was added later. In the margin: “See 17 May 1948.”
+[^fn-p07-pdf17-n01]: **Note 233.** The final sentence was added later. In the margin: “See 17 May 1948.”
 
-[^fn-p07-pdf17-n02]: **Note 2.** In the margin: “See 27 April 1948, 23 May 1948, 5 Aug. 1948.”
+[^fn-p07-pdf17-n02]: **Note 234.** In the margin: “See 27 April 1948, 23 May 1948, 5 Aug. 1948.”
 
 ### Source page 128
 
-[^fn-p07-pdf18-n01]: **Note 1.** In shorthand in the margin: “the young <Sombart>.”
+[^fn-p07-pdf18-n01]: **Note 235.** In shorthand in the margin: “the young <Sombart>.”
 
 ### Source page 129
 
-[^fn-p07-pdf19-n01]: **Note 1.** The final sentence was added later.
+[^fn-p07-pdf19-n01]: **Note 236.** The final sentence was added later.
 
-[^fn-p07-pdf19-n02]: **Note 2.** In the margin: “See 3 May 1948, 22 July 1948.”
+[^fn-p07-pdf19-n02]: **Note 237.** In the margin: “See 3 May 1948, 22 July 1948.”
 
-[^fn-p07-pdf19-n03]: **Note 3.** Presumably means: “*non idonei nec legitimi*”—neither suitable nor legitimate.
+[^fn-p07-pdf19-n03]: **Note 238.** Presumably means: “*non idonei nec legitimi*”—neither suitable nor legitimate.
 
-[^fn-p07-pdf19-n04]: **Note 4.** In the margin: “See 3 Aug. 1948.”
+[^fn-p07-pdf19-n04]: **Note 239.** In the margin: “See 3 Aug. 1948.”
 
 ### Source page 130
 
-[^fn-p07-pdf20-n01]: **Note 1.** In the margin: “to Günther, 30 Aug. 1948; to Forsthoff, July 1948.”
+[^fn-p07-pdf20-n01]: **Note 240.** In the margin: “to Günther, 30 Aug. 1948; to Forsthoff, July 1948.”
 
 ### Source page 131
 
-[^fn-p08-pdf01-n01]: **Note 1.** Written over it: “1943.”
+[^fn-p08-pdf01-n01]: **Note 241.** Written over it: “1943.”
 
-[^fn-p08-pdf01-n02]: **Note 2.** In the margin: “to the <forester> Golombek.”
+[^fn-p08-pdf01-n02]: **Note 242.** In the margin: “to the <forester> Golombek.”
 
 ### Source page 132
 
-[^fn-p08-pdf02-n01]: **Note 1.** Presumably means “burn.”
+[^fn-p08-pdf02-n01]: **Note 243.** Presumably means “burn.”
 
 ### Source page 133
 
-[^fn-p08-pdf03-n01]: **Note 1.** This sentence was inserted later in shorthand.
+[^fn-p08-pdf03-n01]: **Note 244.** This sentence was inserted later in shorthand.
 
-[^fn-p08-pdf03-n02]: **Note 2.** In the margin: “See 12 Jan. 1948, first seed.”
+[^fn-p08-pdf03-n02]: **Note 245.** In the margin: “See 12 Jan. 1948, first seed.”
 
 ### Source page 134
 
-[^fn-p08-pdf04-n01]: **Note 1.** In the margin: “Written to Adams.”
+[^fn-p08-pdf04-n01]: **Note 246.** In the margin: “Written to Adams.”
 
-[^fn-p08-pdf04-n02]: **Note 2.** Added again later: “Εἰς ἄλλα γένος”—into another kind/genus.
+[^fn-p08-pdf04-n02]: **Note 247.** Added again later: “Εἰς ἄλλα γένος”—into another kind/genus.
 
-[^fn-p08-pdf04-n03]: **Note 3.** In the margin: “<Sent> three to Hannes Schneider with the song of the sixty-year-old. Likewise to Forsthoff.”
+[^fn-p08-pdf04-n03]: **Note 248.** In the margin: “<Sent> three to Hannes Schneider with the song of the sixty-year-old. Likewise to Forsthoff.”
 
 ### Source page 135
 
-[^fn-p08-pdf05-n01]: **Note 1.** Beneath it: “*industria*.”
+[^fn-p08-pdf05-n01]: **Note 249.** Beneath it: “*industria*.”
 
-[^fn-p08-pdf05-n02]: **Note 2.** Above it, an illegible shorthand note.
+[^fn-p08-pdf05-n02]: **Note 250.** Above it, an illegible shorthand note.
 
-[^fn-p08-pdf05-n03]: **Note 3.** In the margin: “20 Aug. 1948, Jünger.”
+[^fn-p08-pdf05-n03]: **Note 251.** In the margin: “20 Aug. 1948, Jünger.”
 
-[^fn-p08-pdf05-n04]: **Note 4.** The following shorthand sentence is not clearly legible: “Even without <…> experience of civil war. She did not even have 48 D<.>.” In the margin: “Forsthoff <…>.”
+[^fn-p08-pdf05-n04]: **Note 252.** The following shorthand sentence is not clearly legible: “Even without <…> experience of civil war. She did not even have 48 D<.>.” In the margin: “Forsthoff <…>.”
 
 ### Source page 136
 
-[^fn-p08-pdf06-n01]: **Note 1.** Beneath it: “Hitler.”
+[^fn-p08-pdf06-n01]: **Note 253.** Beneath it: “Hitler.”
 
-[^fn-p08-pdf06-n02]: **Note 2.** In the margin: “to Hans Schneider.”
+[^fn-p08-pdf06-n02]: **Note 254.** In the margin: “to Hans Schneider.”
 
 ### Source page 137
 
-[^fn-p08-pdf07-n01]: **Note 1.** In the margin: “See 3 May 1948, 29 June 1948.”
+[^fn-p08-pdf07-n01]: **Note 255.** In the margin: “See 3 May 1948, 29 June 1948.”
 
-[^fn-p08-pdf07-n02]: **Note 2.** In the margin: “Five Songs, 1914: ‘At last, like God!’ and ‘Hail to me, that I see men seized by it!’”
+[^fn-p08-pdf07-n02]: **Note 256.** In the margin: “Five Songs, 1914: ‘At last, like God!’ and ‘Hail to me, that I see men seized by it!’”
 
 ### Source page 138
 
-[^fn-p08-pdf08-n01]: **Note 1.** In shorthand in the margin: “perhaps all the jubilation? See 9 Aug. 1948.”
+[^fn-p08-pdf08-n01]: **Note 257.** In shorthand in the margin: “perhaps all the jubilation? See 9 Aug. 1948.”
 
 ### Source page 139
 
-[^fn-p08-pdf09-n01]: **Note 1.** In the margin: “Visit from Armin Mohler.”
+[^fn-p08-pdf09-n01]: **Note 258.** In the margin: “Visit from Armin Mohler.”
 
-[^fn-p08-pdf09-n02]: **Note 2.** The original has “she.”
+[^fn-p08-pdf09-n02]: **Note 259.** The original has “she.”
 
-[^fn-p08-pdf09-n03]: **Note 3.** Written above it: “left.”
+[^fn-p08-pdf09-n03]: **Note 260.** Written above it: “left.”
 
 ### Source page 140
 
-[^fn-p08-pdf10-n01]: **Note 1.** In the margin: “See 21 June 1948.”
+[^fn-p08-pdf10-n01]: **Note 261.** In the margin: “See 21 June 1948.”
 
 ### Source page 141
 
-[^fn-p08-pdf11-n01]: **Note 1.** Correctly: § 247.
+[^fn-p08-pdf11-n01]: **Note 262.** Correctly: § 247.
 
 ### Source page 142
 
-[^fn-p08-pdf12-n01]: **Note 1.** In the margin: “<of the spirit>.”
+[^fn-p08-pdf12-n01]: **Note 263.** In the margin: “<of the spirit>.”
 
-[^fn-p08-pdf12-n02]: **Note 2.** In the margin: “See 25 April 1949.”
+[^fn-p08-pdf12-n02]: **Note 264.** In the margin: “See 25 April 1949.”
 
-[^fn-p08-pdf12-n03]: **Note 3.** In the margin: “See 26 July 1948.”
+[^fn-p08-pdf12-n03]: **Note 265.** In the margin: “See 26 July 1948.”
 
-[^fn-p08-pdf12-n04]: **Note 4.** Added later: “because 26 July 1948.”
+[^fn-p08-pdf12-n04]: **Note 266.** Added later: “because 26 July 1948.”
 
-[^fn-p08-pdf12-n05]: **Note 5.** Shorthand addition not legible.
+[^fn-p08-pdf12-n05]: **Note 267.** Shorthand addition not legible.
 
 ### Source page 143
 
-[^fn-p08-pdf13-n01]: **Note 1.** Shorthand note in the margin not legible.
+[^fn-p08-pdf13-n01]: **Note 268.** Shorthand note in the margin not legible.
 
-[^fn-p08-pdf13-n02]: **Note 2.** In shorthand in the margin: “Is that strange?”
+[^fn-p08-pdf13-n02]: **Note 269.** In shorthand in the margin: “Is that strange?”
 
 ### Source page 144
 
-[^fn-p08-pdf14-n01]: **Note 1.** In the margin: “The rage against character <…>, that is, against the person who gives the character-assassin an easy target!”
+[^fn-p08-pdf14-n01]: **Note 270.** In the margin: “The rage against character <…>, that is, against the person who gives the character-assassin an easy target!”
 
-[^fn-p08-pdf14-n02]: **Note 2.** In the margin: “hohoho through RoRoRo, 22 Sept. 1949.”
+[^fn-p08-pdf14-n02]: **Note 271.** In the margin: “hohoho through RoRoRo, 22 Sept. 1949.”
 
-[^fn-p08-pdf14-n03]: **Note 3.** In the margin: “See 15 May 1948.”
+[^fn-p08-pdf14-n03]: **Note 272.** In the margin: “See 15 May 1948.”
 
 ### Source page 145
 
-[^fn-p08-pdf15-n01]: **Note 1.** In the margin: “Written to Niebel, Wilke on 18 Aug. 1948.”
+[^fn-p08-pdf15-n01]: **Note 273.** In the margin: “Written to Niebel, Wilke on 18 Aug. 1948.”
 
-[^fn-p08-pdf15-n02]: **Note 2.** In the margin: “(<…> 11 June 1948).”
+[^fn-p08-pdf15-n02]: **Note 274.** In the margin: “(<…> 11 June 1948).”
 
 ### Source page 146
 
-[^fn-p08-pdf16-n01]: **Note 1.** In shorthand in the margin: “an old fighter and a not entirely impeccable victim of fascism who tries to prove his own impeccability by appealing to his past.”
+[^fn-p08-pdf16-n01]: **Note 275.** In shorthand in the margin: “an old fighter and a not entirely impeccable victim of fascism who tries to prove his own impeccability by appealing to his past.”
 
 ### Source page 147
 
-[^fn-p08-pdf17-n01]: **Note 1.** In the margin: “to Gerhard Günther.”
+[^fn-p08-pdf17-n01]: **Note 276.** In the margin: “to Gerhard Günther.”
 
-[^fn-p08-pdf17-n02]: **Note 2.** In shorthand in the margin: “to Dahm <…>.”
+[^fn-p08-pdf17-n02]: **Note 277.** In shorthand in the margin: “to Dahm <…>.”
 
-[^fn-p08-pdf17-n03]: **Note 3.** In shorthand in the margin: “then question about Wagner <…>, waltz, momentum, processions.”
+[^fn-p08-pdf17-n03]: **Note 278.** In shorthand in the margin: “then question about Wagner <…>, waltz, momentum, processions.”
 
 ### Source page 148
 
-[^fn-p08-pdf18-n01]: **Note 1.** The following paragraph is partly in shorthand and not clearly legible.
+[^fn-p08-pdf18-n01]: **Note 279.** The following paragraph is partly in shorthand and not clearly legible.
 
-[^fn-p08-pdf18-n02]: **Note 2.** Shorthand note in the margin not clearly legible.
+[^fn-p08-pdf18-n02]: **Note 280.** Shorthand note in the margin not clearly legible.
 
-[^fn-p08-pdf18-n03]: **Note 3.** Above it: “military men.”
+[^fn-p08-pdf18-n03]: **Note 281.** Above it: “military men.”
 
 ### Source page 149
 
-[^fn-p09-pdf01-n01]: **Note 1.** In the margin: “to Walz, Ott <…>.”
+[^fn-p09-pdf01-n01]: **Note 282.** In the margin: “to Walz, Ott <…>.”
 
-[^fn-p09-pdf01-n02]: **Note 2.** In the margin: “So said: monarchy simply cannot be as dead as democracy.”
+[^fn-p09-pdf01-n02]: **Note 283.** In the margin: “So said: monarchy simply cannot be as dead as democracy.”
 
-[^fn-p09-pdf01-n03]: **Note 3.** In the margin: “‘Hail to me, that I see men seized by it!’ (Rilke, August 1914).” On the facing page: “Also Böckenf[örde]’s essay, *Hochland*, Feb. 1961 (‘German Catholicism in 1933’).”
+[^fn-p09-pdf01-n03]: **Note 284.** In the margin: “‘Hail to me, that I see men seized by it!’ (Rilke, August 1914).” On the facing page: “Also Böckenf[örde]’s essay, *Hochland*, Feb. 1961 (‘German Catholicism in 1933’).”
 
 ### Source page 150
 
-[^fn-p09-pdf02-n01]: **Note 1.** In shorthand in the margin: “The German invented resistance through collaboration; and collaboration and resistance <…>.”
+[^fn-p09-pdf02-n01]: **Note 285.** In shorthand in the margin: “The German invented resistance through collaboration; and collaboration and resistance <…>.”
 
 ### Source page 151
 
-[^fn-p09-pdf03-n01]: **Note 1.** In the margin: “A. Mohler, 23 Sept. 1948.”
+[^fn-p09-pdf03-n01]: **Note 286.** In the margin: “A. Mohler, 23 Sept. 1948.”
 
-[^fn-p09-pdf03-n02]: **Note 2.** The shorthand sentence is not clearly legible.
+[^fn-p09-pdf03-n02]: **Note 287.** The shorthand sentence is not clearly legible.
 
-[^fn-p09-pdf03-n03]: **Note 3.** Shorthand note in the margin not legible.
+[^fn-p09-pdf03-n03]: **Note 288.** Shorthand note in the margin not legible.
 
 ### Source page 153
 
-[^fn-p09-pdf05-n01]: **Note 1.** The original has “pink ribbon.” In the margin: “See below.”
+[^fn-p09-pdf05-n01]: **Note 289.** The original has “pink ribbon.” In the margin: “See below.”
 
 ### Source page 154
 
-[^fn-p09-pdf06-n01]: **Note 1.** Shorthand note in the margin not clearly legible.
+[^fn-p09-pdf06-n01]: **Note 290.** Shorthand note in the margin not clearly legible.
 
 ### Source page 155
 
-[^fn-p09-pdf07-n01]: **Note 1.** In the margin: “to Paul Adams, 27 Oct. 1948.”
+[^fn-p09-pdf07-n01]: **Note 291.** In the margin: “to Paul Adams, 27 Oct. 1948.”
 
 ### Source page 156
 
-[^fn-p09-pdf08-n01]: **Note 1.** In the margin: “to Günther Krauss and Rolf Stödter.”
+[^fn-p09-pdf08-n01]: **Note 292.** In the margin: “to Günther Krauss and Rolf Stödter.”
 
 ### Source page 157
 
-[^fn-p09-pdf09-n01]: **Note 1.** In shorthand in the margin: “to Barion; Hannes, 7 Jan. 1949, at Ostermann: the tax stamp first, then the postage stamp.”
+[^fn-p09-pdf09-n01]: **Note 293.** In shorthand in the margin: “to Barion; Hannes, 7 Jan. 1949, at Ostermann: the tax stamp first, then the postage stamp.”
 
-[^fn-p09-pdf09-n02]: **Note 2.** In shorthand on the facing page: “Of course: all of Christianity was *hors la loi*—outside the law; overcoming the law, abolishing the law, never peace with imposed statute.”
+[^fn-p09-pdf09-n02]: **Note 294.** In shorthand on the facing page: “Of course: all of Christianity was *hors la loi*—outside the law; overcoming the law, abolishing the law, never peace with imposed statute.”
 
-[^fn-p09-pdf09-n03]: **Note 3.** In the margin: “to Barion, 3 Dec.; to Peterson, 21 Dec. 1948, <…>.”
+[^fn-p09-pdf09-n03]: **Note 295.** In the margin: “to Barion, 3 Dec.; to Peterson, 21 Dec. 1948, <…>.”
 
 ### Source page 158
 
-[^fn-p09-pdf10-n01]: **Note 1.** In the margin: “to Paul Adams.”
+[^fn-p09-pdf10-n01]: **Note 296.** In the margin: “to Paul Adams.”
 
-[^fn-p09-pdf10-n02]: **Note 2.** In the margin: “22 Feb. 1949, 27 Feb. 1949.”
+[^fn-p09-pdf10-n02]: **Note 297.** In the margin: “22 Feb. 1949, 27 Feb. 1949.”
 
 ### Source page 159
 
-[^fn-p09-pdf11-n01]: **Note 1.** In the margin: “Also, 11 Dec. 1950: Korah’s pack persecutes poor Max Weber.”
+[^fn-p09-pdf11-n01]: **Note 298.** In the margin: “Also, 11 Dec. 1950: Korah’s pack persecutes poor Max Weber.”
 
 ### Source page 161
 
-[^fn-p09-pdf13-n01]: **Note 1.** In the margin: “Däubler is constantly thinking and defining.”
+[^fn-p09-pdf13-n01]: **Note 299.** In the margin: “Däubler is constantly thinking and defining.”
 
-[^fn-p09-pdf13-n02]: **Note 2.** Above it: “spirit.”
+[^fn-p09-pdf13-n02]: **Note 300.** Above it: “spirit.”
 
-[^fn-p09-pdf13-n03]: **Note 3.** Above it: “figures.”
+[^fn-p09-pdf13-n03]: **Note 301.** Above it: “figures.”
 
-[^fn-p09-pdf13-n04]: **Note 4.** In the margin: “to Mohler, 17 Jan. 1949.”
+[^fn-p09-pdf13-n04]: **Note 302.** In the margin: “to Mohler, 17 Jan. 1949.”
 
-[^fn-p09-pdf13-n05]: **Note 5.** The final sentence was added later in shorthand. Beneath it: “Güllich, 5 April 1950 (only the first verse); Oberheid, 24 March 1950 (dedication in *The State of European Jurisprudence*, both verses); Huber?; Mohler; A. Weber, March 1950?”
+[^fn-p09-pdf13-n05]: **Note 303.** The final sentence was added later in shorthand. Beneath it: “Güllich, 5 April 1950 (only the first verse); Oberheid, 24 March 1950 (dedication in *The State of European Jurisprudence*, both verses); Huber?; Mohler; A. Weber, March 1950?”
 
-[^fn-p09-pdf13-n06]: **Note 6.** Shorthand note in the margin: “and the <development> damaged <…>.”
+[^fn-p09-pdf13-n06]: **Note 304.** Shorthand note in the margin: “and the <development> damaged <…>.”
 
 ### Source page 162
 
-[^fn-p09-pdf14-n01]: **Note 1.** In the margin: “Bachofen, 19 Feb. 1949.”
+[^fn-p09-pdf14-n01]: **Note 305.** In the margin: “Bachofen, 19 Feb. 1949.”
 
 ### Source page 163
 
-[^fn-p09-pdf15-n01]: **Note 1.** At the top of the page: “primal insight-through.”
+[^fn-p09-pdf15-n01]: **Note 306.** At the top of the page: “primal insight-through.”
 
 ### Source page 164
 
-[^fn-p09-pdf16-n01]: **Note 1.** In the margin: “(in Ohle).” Beneath it: “from the cell.”
+[^fn-p09-pdf16-n01]: **Note 307.** In the margin: “(in Ohle).” Beneath it: “from the cell.”
 
 ### Source page 165
 
-[^fn-p09-pdf17-n01]: **Note 1.** In the margin: “(Bachofen, p. 401).”
+[^fn-p09-pdf17-n01]: **Note 308.** In the margin: “(Bachofen, p. 401).”
 
-[^fn-p09-pdf17-n02]: **Note 2.** In the margin: “See 27 Feb. 1949.”
+[^fn-p09-pdf17-n02]: **Note 309.** In the margin: “See 27 Feb. 1949.”
 
-[^fn-p09-pdf17-n03]: **Note 3.** In the margin: “to Ipsen, 20 Feb. 1949.” Beneath it: “Even jurisprudence is, after all, *en quelque façon nul*—in some sense null.”
+[^fn-p09-pdf17-n03]: **Note 310.** In the margin: “to Ipsen, 20 Feb. 1949.” Beneath it: “Even jurisprudence is, after all, *en quelque façon nul*—in some sense null.”
 
 ### Source page 166
 
-[^fn-p09-pdf18-n01]: **Note 1.** Schmitt writes: “must.”
+[^fn-p09-pdf18-n01]: **Note 311.** Schmitt writes: “must.”
 
-[^fn-p09-pdf18-n02]: **Note 2.** Shorthand note on the facing page not legible.
+[^fn-p09-pdf18-n02]: **Note 312.** Shorthand note on the facing page not legible.
 
 ### Source page 167
 
-[^fn-p09-pdf19-n01]: **Note 1.** At the top of the page: “<…> *en quelque façon nul*—in some sense null.”
+[^fn-p09-pdf19-n01]: **Note 313.** At the top of the page: “<…> *en quelque façon nul*—in some sense null.”
 
-[^fn-p09-pdf19-n02]: **Note 2.** In the margin: “to Mohler, 25 Feb. 1949.”
+[^fn-p09-pdf19-n02]: **Note 314.** In the margin: “to Mohler, 25 Feb. 1949.”
 
-[^fn-p09-pdf19-n03]: **Note 3.** In the margin: “to H. Kutscher, 25 Feb. 1949.”
+[^fn-p09-pdf19-n03]: **Note 315.** In the margin: “to H. Kutscher, 25 Feb. 1949.”
 
 ### Source page 168
 
-[^fn-p09-pdf20-n01]: **Note 1.** In the margin: “3 March, to Günther Krauss.”
+[^fn-p09-pdf20-n01]: **Note 316.** In the margin: “3 March, to Günther Krauss.”
 
-[^fn-p09-pdf20-n02]: **Note 2.** Added later in shorthand in the margin: “Consequently, I too must not refuse an asylum that has rightly been offered to me. To Günther Krauss and Joseph Kaiser, 3 March 1949.”
+[^fn-p09-pdf20-n02]: **Note 317.** Added later in shorthand in the margin: “Consequently, I too must not refuse an asylum that has rightly been offered to me. To Günther Krauss and Joseph Kaiser, 3 March 1949.”
 
 ### Source page 169
 
-[^fn-p10-pdf01-n01]: **Note 1.** In the margin: “See 15 May 1948.”
+[^fn-p10-pdf01-n01]: **Note 318.** In the margin: “See 15 May 1948.”
 
-[^fn-p10-pdf01-n02]: **Note 2.** In the margin: “to P.[asserin] d’Entrèves, 6 March 1949.”
+[^fn-p10-pdf01-n02]: **Note 319.** In the margin: “to P.[asserin] d’Entrèves, 6 March 1949.”
 
 ### Source page 170
 
-[^fn-p10-pdf02-n01]: **Note 1.** In shorthand in the margin: “to Nicolaus Sombart.”
+[^fn-p10-pdf02-n01]: **Note 320.** In shorthand in the margin: “to Nicolaus Sombart.”
 
-[^fn-p10-pdf02-n02]: **Note 2.** In shorthand in the margin: “to Hans Zehrer, 5 April 1949.”
+[^fn-p10-pdf02-n02]: **Note 321.** In shorthand in the margin: “to Hans Zehrer, 5 April 1949.”
 
-[^fn-p10-pdf02-n03]: **Note 3.** In the margin: “1st example Bernanos, 2nd example G. Benn.”
+[^fn-p10-pdf02-n03]: **Note 322.** In the margin: “1st example Bernanos, 2nd example G. Benn.”
 
 ### Source page 171
 
-[^fn-p10-pdf03-n01]: **Note 1.** In the margin: “N[icolaus] S[ombart].”
+[^fn-p10-pdf03-n01]: **Note 323.** In the margin: “N[icolaus] S[ombart].”
 
 ### Source page 174
 
-[^fn-p10-pdf06-n01]: **Note 1.** In the margin: “to Barion, 13 April 1949.”
+[^fn-p10-pdf06-n01]: **Note 324.** In the margin: “to Barion, 13 April 1949.”
 
-[^fn-p10-pdf06-n02]: **Note 2.** In the margin: “to Tigges, 24 April.”
+[^fn-p10-pdf06-n02]: **Note 325.** In the margin: “to Tigges, 24 April.”
 
 ### Source page 175
 
-[^fn-p10-pdf07-n01]: **Note 1.** Shorthand note in the margin not legible.
+[^fn-p10-pdf07-n01]: **Note 326.** Shorthand note in the margin not legible.
 
-[^fn-p10-pdf07-n02]: **Note 2.** In the margin: “*filiaque* (Sophia), Lietzmann I, p. 100.”
+[^fn-p10-pdf07-n02]: **Note 327.** In the margin: “*filiaque* (Sophia), Lietzmann I, p. 100.”
 
-[^fn-p10-pdf07-n03]: **Note 3.** Shorthand addition in the margin not legible.
+[^fn-p10-pdf07-n03]: **Note 328.** Shorthand addition in the margin not legible.
 
-[^fn-p10-pdf07-n04]: **Note 4.** In the margin: “Heidegger, see 26 April 1949.”
+[^fn-p10-pdf07-n04]: **Note 329.** In the margin: “Heidegger, see 26 April 1949.”
 
 ### Source page 176
 
-[^fn-p10-pdf08-n01]: **Note 1.** Written above it: “sacra.”
+[^fn-p10-pdf08-n01]: **Note 330.** Written above it: “sacra.”
 
-[^fn-p10-pdf08-n02]: **Note 2.** In the margin: “6 June 1948, 6 Aug. 1948, quoted in Troeltsch, p. 166.”
+[^fn-p10-pdf08-n02]: **Note 331.** In the margin: “6 June 1948, 6 Aug. 1948, quoted in Troeltsch, p. 166.”
 
 ### Source page 178
 
-[^fn-p10-pdf10-n01]: **Note 1.** In the margin: “See 24 April 1949.”
+[^fn-p10-pdf10-n01]: **Note 332.** In the margin: “See 24 April 1949.”
 
 ### Source page 179
 
-[^fn-p10-pdf11-n01]: **Note 1.** In the margin: “See 15 June 1948.”
+[^fn-p10-pdf11-n01]: **Note 333.** In the margin: “See 15 June 1948.”
 
 ### Source page 180
 
-[^fn-p10-pdf12-n01]: **Note 1.** In the margin: “See 15 May 1948.”
+[^fn-p10-pdf12-n01]: **Note 334.** In the margin: “See 15 May 1948.”
 
 ### Source page 181
 
-[^fn-p10-pdf13-n01]: **Note 1.** In the margin: “15 May 1948.”
+[^fn-p10-pdf13-n01]: **Note 335.** In the margin: “15 May 1948.”
 
-[^fn-p10-pdf13-n02]: **Note 2.** In the margin: “See 15 May 1948.”
+[^fn-p10-pdf13-n02]: **Note 336.** In the margin: “See 15 May 1948.”
 
 ### Source page 182
 
-[^fn-p10-pdf14-n01]: **Note 1.** In shorthand in the margin: “to Mohler, 11 May 1949.”
+[^fn-p10-pdf14-n01]: **Note 337.** In shorthand in the margin: “to Mohler, 11 May 1949.”
 
 ### Source page 183
 
-[^fn-p10-pdf15-n01]: **Note 1.** In shorthand in the margin: “<…>, letter to Kemp, <12> May 1949.”
+[^fn-p10-pdf15-n01]: **Note 338.** In shorthand in the margin: “<…>, letter to Kemp, <12> May 1949.”
 
 ### Source page 184
 
-[^fn-p10-pdf16-n01]: **Note 1.** In the margin: “Written to Fleig, 22 May 1949.”
+[^fn-p10-pdf16-n01]: **Note 339.** In the margin: “Written to Fleig, 22 May 1949.”
 
 ## Book III
 
 ### Source page 189
 
-[^fn-p11-pdf04-n01]: **Note 1.** In the margin: “See 23 Aug. 1949.”
+[^fn-p11-pdf04-n01]: **Note 340.** In the margin: “See 23 Aug. 1949.”
 
-[^fn-p11-pdf04-n02]: **Note 2.** In shorthand in the margin: “Written to Mrs. Jünger.”
+[^fn-p11-pdf04-n02]: **Note 341.** In shorthand in the margin: “Written to Mrs. Jünger.”
 
 ### Source page 190
 
-[^fn-p11-pdf05-n01]: **Note 1.** In the margin: “German resistance! So German educated culture cried: Away with him!—when one poor devil actually took all the cultural concepts of the previous century seriously.”
+[^fn-p11-pdf05-n01]: **Note 342.** In the margin: “German resistance! So German educated culture cried: Away with him!—when one poor devil actually took all the cultural concepts of the previous century seriously.”
 
-[^fn-p11-pdf05-n02]: **Note 2.** In the margin: “That is the new cosmos.”
+[^fn-p11-pdf05-n02]: **Note 343.** In the margin: “That is the new cosmos.”
 
-[^fn-p11-pdf05-n03]: **Note 3.** In shorthand in the margin: “<Baeumler>, p. 431.”
+[^fn-p11-pdf05-n03]: **Note 344.** In shorthand in the margin: “<Baeumler>, p. 431.”
 
 ### Source page 191
 
-[^fn-p11-pdf06-n01]: **Note 1.** In shorthand in the margin: “Mahan: a war can only be waged as an offensive war—just and global, globally just. Mahan calls the idea that a fleet can serve only defensive purposes a popular ditty.”
+[^fn-p11-pdf06-n01]: **Note 345.** In shorthand in the margin: “Mahan: a war can only be waged as an offensive war—just and global, globally just. Mahan calls the idea that a fleet can serve only defensive purposes a popular ditty.”
 
-[^fn-p11-pdf06-n02]: **Note 2.** In the margin: “to Hans Paeschke, 4 July 1949.”
+[^fn-p11-pdf06-n02]: **Note 346.** In the margin: “to Hans Paeschke, 4 July 1949.”
 
 ### Source page 192
 
-[^fn-p11-pdf07-n01]: **Note 1.** In the margin: “Konrad Weiß would say: God’s plan, fitting itself angularly into time around an image-center that cannot itself be occupied.”
+[^fn-p11-pdf07-n01]: **Note 347.** In the margin: “Konrad Weiß would say: God’s plan, fitting itself angularly into time around an image-center that cannot itself be occupied.”
 
-[^fn-p11-pdf07-n02]: **Note 2.** Originally: “the great Prosecutor Jackson.”
+[^fn-p11-pdf07-n02]: **Note 348.** Originally: “the great Prosecutor Jackson.”
 
 ### Source page 196
 
-[^fn-p11-pdf11-n01]: **Note 1.** In shorthand in the margin: “So we are radiation anyway; there is nothing special about that anymore, even if we are only hidden radiators.”
+[^fn-p11-pdf11-n01]: **Note 349.** In shorthand in the margin: “So we are radiation anyway; there is nothing special about that anymore, even if we are only hidden radiators.”
 
 ### Source page 197
 
-[^fn-p11-pdf12-n01]: **Note 1.** The original has “him.”
+[^fn-p11-pdf12-n01]: **Note 350.** The original has “him.”
 
 ### Source page 198
 
-[^fn-p11-pdf13-n01]: **Note 1.** Presumably Nicolaus Sombart.
+[^fn-p11-pdf13-n01]: **Note 351.** Presumably Nicolaus Sombart.
 
-[^fn-p11-pdf13-n02]: **Note 2.** In shorthand in the margin: “Not even three months later, Kirchheimer tells me (23 Nov.) that Friesenhahn told him he <…> could not bring himself to visit a man like me.”
+[^fn-p11-pdf13-n02]: **Note 352.** In shorthand in the margin: “Not even three months later, Kirchheimer tells me (23 Nov.) that Friesenhahn told him he <…> could not bring himself to visit a man like me.”
 
 ### Source page 199
 
-[^fn-p11-pdf14-n01]: **Note 1.** In shorthand in the margin: “and only now Freud, the speaker <fantasizes>.”
+[^fn-p11-pdf14-n01]: **Note 353.** In shorthand in the margin: “and only now Freud, the speaker <fantasizes>.”
 
-[^fn-p11-pdf14-n02]: **Note 2.** In the margin: “See scapegoat, 26 July 1949.”
+[^fn-p11-pdf14-n02]: **Note 354.** In the margin: “See scapegoat, 26 July 1949.”
 
-[^fn-p11-pdf14-n03]: **Note 3.** In the margin: “Written to Nette.”
+[^fn-p11-pdf14-n03]: **Note 355.** In the margin: “Written to Nette.”
 
-[^fn-p11-pdf14-n04]: **Note 4.** In shorthand in the margin: “Mann wrote with a typewriter, Jünger wrote with a typewriter, he wrote, <…>, great attraction <…> stand above Heidegger and Weiß.”
+[^fn-p11-pdf14-n04]: **Note 356.** In shorthand in the margin: “Mann wrote with a typewriter, Jünger wrote with a typewriter, he wrote, <…>, great attraction <…> stand above Heidegger and Weiß.”
 
-[^fn-p11-pdf14-n05]: **Note 5.** In the margin: “See 7 July 1949.”
+[^fn-p11-pdf14-n05]: **Note 357.** In the margin: “See 7 July 1949.”
 
-[^fn-p11-pdf14-n06]: **Note 6.** The original has “*aequalitas*”—equality.
+[^fn-p11-pdf14-n06]: **Note 358.** The original has “*aequalitas*”—equality.
 
 ### Source page 200
 
-[^fn-p11-pdf15-n01]: **Note 1.** In shorthand in the margin: “Incidentally, protest against the perversity according to which crimes against humanity can be committed only by Germans.”
+[^fn-p11-pdf15-n01]: **Note 359.** In shorthand in the margin: “Incidentally, protest against the perversity according to which crimes against humanity can be committed only by Germans.”
 
-[^fn-p11-pdf15-n02]: **Note 2.** The shorthand sentence is not clearly legible.
+[^fn-p11-pdf15-n02]: **Note 360.** The shorthand sentence is not clearly legible.
 
 ### Source page 201
 
-[^fn-p11-pdf16-n01]: **Note 1.** In the margin: “See 12 Oct. 1947.”
+[^fn-p11-pdf16-n01]: **Note 361.** In the margin: “See 12 Oct. 1947.”
 
 ### Source page 202
 
-[^fn-p11-pdf17-n01]: **Note 1.** In the margin: “Veit Valentin is right: in National Socialism, the whole of German history echoes once more. It is the sum of the German past, the gigantic belch of an entire botched millennium.”
+[^fn-p11-pdf17-n01]: **Note 362.** In the margin: “Veit Valentin is right: in National Socialism, the whole of German history echoes once more. It is the sum of the German past, the gigantic belch of an entire botched millennium.”
 
-[^fn-p11-pdf17-n02]: **Note 2.** In the margin: “See 16 June 1949.”
+[^fn-p11-pdf17-n02]: **Note 363.** In the margin: “See 16 June 1949.”
 
 ### Source page 203
 
-[^fn-p11-pdf18-n01]: **Note 1.** On the facing page, a later shorthand note: “Gradually the real line of my connection to K. Weiß is becoming clear to me. He reels between image and word, word and image; as a poet he depends on the German essence. And that essence is not image; it is echo, changing echo, a joyful numinous humming. Hölderlin’s echo begins again like numinous humming; we thought we had reached something firm and classical in <Hölderlin>. But that is not true. God is elemental—nonsense. There is another possibility too. Hölderlin <…>. Jünger is decisionist. Command. But he does not know where to go from there. He cannot bring himself to decide to become Roman Catholic. His inherited paternal instincts revolt against it. Konrad Weiß is the old growth from this open wound, a wound that speaks German, German law and German history, consciously, many <…>. The English language the same.”
+[^fn-p11-pdf18-n01]: **Note 364.** On the facing page, a later shorthand note: “Gradually the real line of my connection to K. Weiß is becoming clear to me. He reels between image and word, word and image; as a poet he depends on the German essence. And that essence is not image; it is echo, changing echo, a joyful numinous humming. Hölderlin’s echo begins again like numinous humming; we thought we had reached something firm and classical in <Hölderlin>. But that is not true. God is elemental—nonsense. There is another possibility too. Hölderlin <…>. Jünger is decisionist. Command. But he does not know where to go from there. He cannot bring himself to decide to become Roman Catholic. His inherited paternal instincts revolt against it. Konrad Weiß is the old growth from this open wound, a wound that speaks German, German law and German history, consciously, many <…>. The English language the same.”
 
 ### Source page 204
 
-[^fn-p11-pdf19-n01]: **Note 1.** In shorthand in the margin: “<Audacity.> And I was ashamed to say it. If I do not win this war, world history has lost its meaning; if this speculation of mine fails, there is no God. If a sick child does not recover, there is no God above. Nonsense—and I am ashamed to say: We are Providence and World Spirit.”
+[^fn-p11-pdf19-n01]: **Note 365.** In shorthand in the margin: “<Audacity.> And I was ashamed to say it. If I do not win this war, world history has lost its meaning; if this speculation of mine fails, there is no God. If a sick child does not recover, there is no God above. Nonsense—and I am ashamed to say: We are Providence and World Spirit.”
 
-[^fn-p11-pdf19-n02]: **Note 2.** In the margin: “No star above my cap? Contrails from enemy aircraft.”
+[^fn-p11-pdf19-n02]: **Note 366.** In the margin: “No star above my cap? Contrails from enemy aircraft.”
 
-[^fn-p11-pdf19-n03]: **Note 3.** In the margin: “See 17 Jan. 1950. In the meantime he has awarded himself the Pour le Mérite for the struggle against Hitler; see 5 Feb. 1950.”
+[^fn-p11-pdf19-n03]: **Note 367.** In the margin: “See 17 Jan. 1950. In the meantime he has awarded himself the Pour le Mérite for the struggle against Hitler; see 5 Feb. 1950.”
 
 ### Source page 205
 
-[^fn-p11-pdf20-n01]: **Note 1.** In shorthand in the margin: “Yesterday Hans Berger was here and will spread this idea. <…> 26 March 1956 <…>.”
+[^fn-p11-pdf20-n01]: **Note 368.** In shorthand in the margin: “Yesterday Hans Berger was here and will spread this idea. <…> 26 March 1956 <…>.”
 
 ### Source page 206
 
-[^fn-p11-pdf21-n01]: **Note 1.** In the margin: “to Grote, 23 Sept. 1949.”
+[^fn-p11-pdf21-n01]: **Note 369.** In the margin: “to Grote, 23 Sept. 1949.”
 
-[^fn-p11-pdf21-n02]: **Note 2.** In the margin: “eternal recurrence.”
+[^fn-p11-pdf21-n02]: **Note 370.** In the margin: “eternal recurrence.”
 
 ### Source page 207
 
-[^fn-p11-pdf22-n01]: **Note 1.** In the margin: “Life. Stay a while—you are so beautiful.”
+[^fn-p11-pdf22-n01]: **Note 371.** In the margin: “Life. Stay a while—you are so beautiful.”
 
-[^fn-p11-pdf22-n02]: **Note 2.** In the margin: “John 6:66 [correctly: 6:68], *numquid et vos vultis abire?*—‘Do you too wish to go away?’ That was on the tip of my tongue tonight.”
+[^fn-p11-pdf22-n02]: **Note 372.** In the margin: “John 6:66 [correctly: 6:68], *numquid et vos vultis abire?*—‘Do you too wish to go away?’ That was on the tip of my tongue tonight.”
 
 ### Source page 209
 
-[^fn-p12-pdf01-n01]: **Note 1.** In shorthand in the margin: “U<…> = shallow, I told Schmoller on 7 Oct.”
+[^fn-p12-pdf01-n01]: **Note 373.** In shorthand in the margin: “U<…> = shallow, I told Schmoller on 7 Oct.”
 
-[^fn-p12-pdf01-n02]: **Note 2.** Three lines of shorthand not clearly legible.
+[^fn-p12-pdf01-n02]: **Note 374.** Three lines of shorthand not clearly legible.
 
 ### Source page 210
 
-[^fn-p12-pdf02-n01]: **Note 1.** In the margin: “to Günther Krauss, Klaus Mehnert, Zehrer, Nebel, (Welty, <…>). They reacted.”
+[^fn-p12-pdf02-n01]: **Note 375.** In the margin: “to Günther Krauss, Klaus Mehnert, Zehrer, Nebel, (Welty, <…>). They reacted.”
 
-[^fn-p12-pdf02-n02]: **Note 2.** In the margin: “Rhyme, see 20 Dec. 1949, 4 July 1951.”
+[^fn-p12-pdf02-n02]: **Note 376.** In the margin: “Rhyme, see 20 Dec. 1949, 4 July 1951.”
 
 ### Source page 211
 
-[^fn-p12-pdf03-n01]: **Note 1.** In the margin: “See 16 Nov. 1949, to Stödter.”
+[^fn-p12-pdf03-n01]: **Note 377.** In the margin: “See 16 Nov. 1949, to Stödter.”
 
-[^fn-p12-pdf03-n02]: **Note 2.** In the margin: “to Paul Adams and Walter Warnach.”
+[^fn-p12-pdf03-n02]: **Note 378.** In the margin: “to Paul Adams and Walter Warnach.”
 
 ### Source page 212
 
-[^fn-p12-pdf04-n01]: **Note 1.** In the margin: “See 15 Nov.”
+[^fn-p12-pdf04-n01]: **Note 379.** In the margin: “See 15 Nov.”
 
-[^fn-p12-pdf04-n02]: **Note 2.** In the margin: “Undermine the decision!”
+[^fn-p12-pdf04-n02]: **Note 380.** In the margin: “Undermine the decision!”
 
-[^fn-p12-pdf04-n03]: **Note 3.** In the margin: “to P. Linn, 25 Nov. 1949; to Maiwald, March 1950; to Mme. P.[onceau], April 1950.”
+[^fn-p12-pdf04-n03]: **Note 381.** In the margin: “to P. Linn, 25 Nov. 1949; to Maiwald, March 1950; to Mme. P.[onceau], April 1950.”
 
-[^fn-p12-pdf04-n04]: **Note 4.** In the margin: “See 7 Nov. 1949 <…>.”
+[^fn-p12-pdf04-n04]: **Note 382.** In the margin: “See 7 Nov. 1949 <…>.”
 
 ### Source page 213
 
-[^fn-p12-pdf05-n01]: **Note 1.** In shorthand in the margin: “Does he take a conforming path or does he not? He avoids the question.”
+[^fn-p12-pdf05-n01]: **Note 383.** In shorthand in the margin: “Does he take a conforming path or does he not? He avoids the question.”
 
 ### Source page 214
 
-[^fn-p12-pdf06-n01]: **Note 1.** The original has “Aronescu.”
+[^fn-p12-pdf06-n01]: **Note 384.** The original has “Aronescu.”
 
 ### Source page 215
 
-[^fn-p12-pdf07-n01]: **Note 1.** In shorthand in the margin: “to Günther Krauss, 6 Dec. 1949.”
+[^fn-p12-pdf07-n01]: **Note 385.** In shorthand in the margin: “to Günther Krauss, 6 Dec. 1949.”
 
-[^fn-p12-pdf07-n02]: **Note 2.** In the margin: “to Pierre Linn, 13 Dec. 1949.”
+[^fn-p12-pdf07-n02]: **Note 386.** In the margin: “to Pierre Linn, 13 Dec. 1949.”
 
 ### Source page 216
 
-[^fn-p12-pdf08-n01]: **Note 1.** In shorthand in the margin: “Mrs. Jünger assured me that Ernst Jünger himself knew nothing about it. It was Mr. Ziemann’s idea, 7 Jan. 1950.”
+[^fn-p12-pdf08-n01]: **Note 387.** In shorthand in the margin: “Mrs. Jünger assured me that Ernst Jünger himself knew nothing about it. It was Mr. Ziemann’s idea, 7 Jan. 1950.”
 
-[^fn-p12-pdf08-n02]: **Note 2.** In the margin: “Rhyme, see 1 Nov. 1949.”
+[^fn-p12-pdf08-n02]: **Note 388.** In the margin: “Rhyme, see 1 Nov. 1949.”
 
-[^fn-p12-pdf08-n03]: **Note 3.** In the margin: “See <…> Kemp, same place!”
+[^fn-p12-pdf08-n03]: **Note 389.** In the margin: “See <…> Kemp, same place!”
 
-[^fn-p12-pdf08-n04]: **Note 4.** The original has “*de merveillements*.”
+[^fn-p12-pdf08-n04]: **Note 390.** The original has “*de merveillements*.”
 
-[^fn-p12-pdf08-n05]: **Note 5.** The original has “*pour*.”
+[^fn-p12-pdf08-n05]: **Note 391.** The original has “*pour*.”
 
 ### Source page 217
 
-[^fn-p12-pdf09-n01]: **Note 1.** In the margin: “See [9 Jan. 1950].”
+[^fn-p12-pdf09-n01]: **Note 392.** In the margin: “See [9 Jan. 1950].”
 
-[^fn-p12-pdf09-n02]: **Note 2.** In the margin: “Auschwitz: answer to the M.-Plan.”
+[^fn-p12-pdf09-n02]: **Note 393.** In the margin: “Auschwitz: answer to the M.-Plan.”
 
 ### Source page 219
 
-[^fn-p12-pdf11-n01]: **Note 1.** What follows is in shorthand.
+[^fn-p12-pdf11-n01]: **Note 394.** What follows is in shorthand.
 
-[^fn-p12-pdf11-n02]: **Note 2.** In the margin: “to Smend for his 68th birthday on 10 Jan. 1950.”
+[^fn-p12-pdf11-n02]: **Note 395.** In the margin: “to Smend for his 68th birthday on 10 Jan. 1950.”
 
-[^fn-p12-pdf11-n03]: **Note 3.** In the margin: “See 5 Feb. 1950.”
+[^fn-p12-pdf11-n03]: **Note 396.** In the margin: “See 5 Feb. 1950.”
 
 ### Source page 221
 
-[^fn-p12-pdf13-n01]: **Note 1.** In the margin: “See 16 Sept. 1949.”
+[^fn-p12-pdf13-n01]: **Note 397.** In the margin: “See 16 Sept. 1949.”
 
-[^fn-p12-pdf13-n02]: **Note 2.** In the margin: “*Land and Sea*.”
+[^fn-p12-pdf13-n02]: **Note 398.** In the margin: “*Land and Sea*.”
 
-[^fn-p12-pdf13-n03]: **Note 3.** In the margin: “A mistake to equate horse and dromedary nomads with the so-called ship nomads!”
+[^fn-p12-pdf13-n03]: **Note 399.** In the margin: “A mistake to equate horse and dromedary nomads with the so-called ship nomads!”
 
-[^fn-p12-pdf13-n04]: **Note 4.** In the margin: “Foreign capital was part of our space!!”
+[^fn-p12-pdf13-n04]: **Note 400.** In the margin: “Foreign capital was part of our space!!”
 
 ### Source page 222
 
-[^fn-p12-pdf14-n01]: **Note 1.** In the margin: “The Swiss person’s living space is the world.”
+[^fn-p12-pdf14-n01]: **Note 401.** In the margin: “The Swiss person’s living space is the world.”
 
-[^fn-p12-pdf14-n02]: **Note 2.** In the margin: “to <Forster>, 4 Feb. 1950.”
+[^fn-p12-pdf14-n02]: **Note 402.** In the margin: “to <Forster>, 4 Feb. 1950.”
 
-[^fn-p12-pdf14-n03]: **Note 3.** In shorthand in the margin: “Ritual murder? In ritual murder it does no good that it is the rogue <…>.”
+[^fn-p12-pdf14-n03]: **Note 403.** In shorthand in the margin: “Ritual murder? In ritual murder it does no good that it is the rogue <…>.”
 
 ### Source page 223
 
-[^fn-p12-pdf15-n01]: **Note 1.** In shorthand in the margin: “I am certain that my (intention) <…> gave him the decision to leave. To Ernst Jünger, 5 Feb. 1950, in old friendship, C. S.”
+[^fn-p12-pdf15-n01]: **Note 404.** In shorthand in the margin: “I am certain that my (intention) <…> gave him the decision to leave. To Ernst Jünger, 5 Feb. 1950, in old friendship, C. S.”
 
-[^fn-p12-pdf15-n02]: **Note 2.** In shorthand in the margin: “No, war is not death at all; war is the father of all things.”
+[^fn-p12-pdf15-n02]: **Note 405.** In shorthand in the margin: “No, war is not death at all; war is the father of all things.”
 
 ### Source page 226
 
-[^fn-p12-pdf18-n01]: **Note 1.** The reference is to Wisdom 5:2.
+[^fn-p12-pdf18-n01]: **Note 406.** The reference is to Wisdom 5:2.
 
-[^fn-p12-pdf18-n02]: **Note 2.** In the margin: “On this, note of 20 Sept. 1952 [correctly: 14 Aug. 1952!]; compare the present situation; the wretched poems of poor Benn! *Godenholm*!!”
+[^fn-p12-pdf18-n02]: **Note 407.** In the margin: “On this, note of 20 Sept. 1952 [correctly: 14 Aug. 1952!]; compare the present situation; the wretched poems of poor Benn! *Godenholm*!!”
 
-[^fn-p12-pdf18-n03]: **Note 3.** In shorthand in the margin: “this verse to Armin Mohler, 22 Sept. 1950.”
+[^fn-p12-pdf18-n03]: **Note 408.** In shorthand in the margin: “this verse to Armin Mohler, 22 Sept. 1950.”
 
 ### Source page 227
 
-[^fn-p12-pdf19-n01]: **Note 1.** In shorthand in the margin: “1933–45: the German gaze and the Jewish survey.”
+[^fn-p12-pdf19-n01]: **Note 409.** In shorthand in the margin: “1933–45: the German gaze and the Jewish survey.”
 
 ### Source page 229
 
-[^fn-p12-pdf21-n01]: **Note 1.** In the margin: “to Paul Adams, 3 May; Veronica, 4 May; Barion, 5 May; postcard to Mohler, 11 May 1950; Weinreich, 20 May 1950; H. Bung, 22 May 1950; Vorwerk, 22 May 1950; Beste, 25 June 1950; Warnach, 6 July 1950.”
+[^fn-p12-pdf21-n01]: **Note 410.** In the margin: “to Paul Adams, 3 May; Veronica, 4 May; Barion, 5 May; postcard to Mohler, 11 May 1950; Weinreich, 20 May 1950; H. Bung, 22 May 1950; Vorwerk, 22 May 1950; Beste, 25 June 1950; Warnach, 6 July 1950.”
 
-[^fn-p12-pdf21-n02]: **Note 2.** In shorthand in the margin: “Written to Hans Schneider, 4 May 1950. I am curious to see his reply.”
+[^fn-p12-pdf21-n02]: **Note 411.** In shorthand in the margin: “Written to Hans Schneider, 4 May 1950. I am curious to see his reply.”
 
 ### Source page 230
 
-[^fn-p13-pdf01-n01]: **Note 1.** In the margin: “See 30 Sept. 1950 (to Schelsky).”
+[^fn-p13-pdf01-n01]: **Note 412.** In the margin: “See 30 Sept. 1950 (to Schelsky).”
 
 ### Source page 231
 
-[^fn-p13-pdf02-n01]: **Note 1.** In shorthand in the margin: “to Günther Krauss, 28 May 1950.”
+[^fn-p13-pdf02-n01]: **Note 413.** In shorthand in the margin: “to Günther Krauss, 28 May 1950.”
 
-[^fn-p13-pdf02-n02]: **Note 2.** In the margin: “See 12 June 1950.”
+[^fn-p13-pdf02-n02]: **Note 414.** In the margin: “See 12 June 1950.”
 
-[^fn-p13-pdf02-n03]: **Note 3.** In the margin: “See Shotwell, 1 Sept. 1947.”
+[^fn-p13-pdf02-n03]: **Note 415.** In the margin: “See Shotwell, 1 Sept. 1947.”
 
 ### Source page 232
 
-[^fn-p13-pdf03-n01]: **Note 1.** In the margin: “See Lukács, *History and Class Consciousness*, p. 104.”
+[^fn-p13-pdf03-n01]: **Note 416.** In the margin: “See Lukács, *History and Class Consciousness*, p. 104.”
 
-[^fn-p13-pdf03-n02]: **Note 2.** In the margin: “to Winckelmann, 2 June 1950.”
+[^fn-p13-pdf03-n02]: **Note 417.** In the margin: “to Winckelmann, 2 June 1950.”
 
-[^fn-p13-pdf03-n03]: **Note 3.** In shorthand in the margin: “<…> to Fleig, 31 May; to Winckelmann, 2 June.”
+[^fn-p13-pdf03-n03]: **Note 418.** In shorthand in the margin: “<…> to Fleig, 31 May; to Winckelmann, 2 June.”
 
 ### Source page 233
 
-[^fn-p13-pdf04-n01]: **Note 1.** In the margin: “See 10 Oct. 1949.”
+[^fn-p13-pdf04-n01]: **Note 419.** In the margin: “See 10 Oct. 1949.”
 
-[^fn-p13-pdf04-n02]: **Note 2.** In the margin: “See 29 May 1950.”
+[^fn-p13-pdf04-n02]: **Note 420.** In the margin: “See 29 May 1950.”
 
 ### Source page 234
 
-[^fn-p13-pdf05-n01]: **Note 1.** In shorthand in the margin: “to Winckelmann, 27 July 1950; to Günther Krauss <…>.”
+[^fn-p13-pdf05-n01]: **Note 421.** In shorthand in the margin: “to Winckelmann, 27 July 1950; to Günther Krauss <…>.”
 
-[^fn-p13-pdf05-n02]: **Note 2.** In the margin: “cf. *il est si doux*—‘it is so sweet’—Ernst Jünger’s *Paris Diary*.”
+[^fn-p13-pdf05-n02]: **Note 422.** In the margin: “cf. *il est si doux*—‘it is so sweet’—Ernst Jünger’s *Paris Diary*.”
 
-[^fn-p13-pdf05-n03]: **Note 3.** In shorthand in the margin: “to Karl Lohmann, 21 July 1950.”
+[^fn-p13-pdf05-n03]: **Note 423.** In shorthand in the margin: “to Karl Lohmann, 21 July 1950.”
 
 ### Source page 235
 
-[^fn-p13-pdf06-n01]: **Note 1.** Shorthand note in the margin not clearly legible.
+[^fn-p13-pdf06-n01]: **Note 424.** Shorthand note in the margin not clearly legible.
 
 ### Source page 236
 
-[^fn-p13-pdf07-n01]: **Note 1.** In the margin: “See 4 Oct. 1950.”
+[^fn-p13-pdf07-n01]: **Note 425.** In the margin: “See 4 Oct. 1950.”
 
 ### Source page 237
 
-[^fn-p13-pdf08-n01]: **Note 1.** In the margin: “See 6 July 1951, 20 July 1951.”
+[^fn-p13-pdf08-n01]: **Note 426.** In the margin: “See 6 July 1951, 20 July 1951.”
 
-[^fn-p13-pdf08-n02]: **Note 2.** In the margin: “See 4 Oct. 1950.”
+[^fn-p13-pdf08-n02]: **Note 427.** In the margin: “See 4 Oct. 1950.”
 
-[^fn-p13-pdf08-n03]: **Note 3.** In shorthand in the margin: “to Schelsky, 30 Sept. 1950; see 23 May 1950 <…> because I do not go before the public.”
+[^fn-p13-pdf08-n03]: **Note 428.** In shorthand in the margin: “to Schelsky, 30 Sept. 1950; see 23 May 1950 <…> because I do not go before the public.”
 
-[^fn-p13-pdf08-n04]: **Note 4.** In shorthand in the margin: “The <…> German protection: reread 29 Nov. 1964! Radiant angel, you! If I the <…>.”
+[^fn-p13-pdf08-n04]: **Note 429.** In shorthand in the margin: “The <…> German protection: reread 29 Nov. 1964! Radiant angel, you! If I the <…>.”
 
 ### Source page 238
 
-[^fn-p13-pdf09-n01]: **Note 1.** In the margin: “See 30 Sept. 1950.”
+[^fn-p13-pdf09-n01]: **Note 430.** In the margin: “See 30 Sept. 1950.”
 
-[^fn-p13-pdf09-n02]: **Note 2.** In shorthand in the margin: “Total substantialism and total functionalism.”
+[^fn-p13-pdf09-n02]: **Note 431.** In shorthand in the margin: “Total substantialism and total functionalism.”
 
 ### Source page 239
 
-[^fn-p13-pdf10-n01]: **Note 1.** Written in shorthand.
+[^fn-p13-pdf10-n01]: **Note 432.** Written in shorthand.
 
-[^fn-p13-pdf10-n02]: **Note 2.** In the margin: “to Mrs. Jünger, continuation from 10 Nov. 1950.”
+[^fn-p13-pdf10-n02]: **Note 433.** In the margin: “to Mrs. Jünger, continuation from 10 Nov. 1950.”
 
 ### Source page 240
 
-[^fn-p13-pdf11-n01]: **Note 1.** In shorthand in the margin: “<…> anti-Hitler <…> (10 Dec. 1960!).”
+[^fn-p13-pdf11-n01]: **Note 434.** In shorthand in the margin: “<…> anti-Hitler <…> (10 Dec. 1960!).”
 
 ### Source page 241
 
-[^fn-p13-pdf12-n01]: **Note 1.** In the margin: “See 10 March 1948.”
+[^fn-p13-pdf12-n01]: **Note 435.** In the margin: “See 10 March 1948.”
 
 ### Source page 242
 
-[^fn-p13-pdf13-n01]: **Note 1.** In the margin: “See 20 Dec. 1949.”
+[^fn-p13-pdf13-n01]: **Note 436.** In the margin: “See 20 Dec. 1949.”
 
-[^fn-p13-pdf13-n02]: **Note 2.** In the margin: “See 1 Sept. 1950.”
+[^fn-p13-pdf13-n02]: **Note 437.** In the margin: “See 1 Sept. 1950.”
 
 ### Source page 243
 
-[^fn-p13-pdf14-n01]: **Note 1.** On the facing page: “the myrmidon-Pyramidon Benn.”
+[^fn-p13-pdf14-n01]: **Note 438.** On the facing page: “the myrmidon-Pyramidon Benn.”
 
-[^fn-p13-pdf14-n02]: **Note 2.** In the margin: “See 23 July 1951.”
+[^fn-p13-pdf14-n02]: **Note 439.** In the margin: “See 23 July 1951.”
 
-[^fn-p13-pdf14-n03]: **Note 3.** In the margin: “So that the poet—that is what he is—will go with the king—that is what the rulers are.”
+[^fn-p13-pdf14-n03]: **Note 440.** In the margin: “So that the poet—that is what he is—will go with the king—that is what the rulers are.”
 
-[^fn-p13-pdf14-n04]: **Note 4.** In the margin, in slightly different wording: “Climax: from now on, the Marquis is to be admitted without being announced. At which the confessor says: Our time is over!!! And Carlos: That really is a lot!”
+[^fn-p13-pdf14-n04]: **Note 441.** In the margin, in slightly different wording: “Climax: from now on, the Marquis is to be admitted without being announced. At which the confessor says: Our time is over!!! And Carlos: That really is a lot!”
 
-[^fn-p13-pdf14-n05]: **Note 5.** In shorthand in the margin: “Julius Bab also told me that it was Loerke.”
+[^fn-p13-pdf14-n05]: **Note 442.** In shorthand in the margin: “Julius Bab also told me that it was Loerke.”
 
 ### Source page 244
 
-[^fn-p13-pdf15-n01]: **Note 1.** In the margin: “See 6 July 1951, 1 Sept. 1950.”
+[^fn-p13-pdf15-n01]: **Note 443.** In the margin: “See 6 July 1951, 1 Sept. 1950.”
 
-[^fn-p13-pdf15-n02]: **Note 2.** In the margin: “See 19 July 1951.”
+[^fn-p13-pdf15-n02]: **Note 444.** In the margin: “See 19 July 1951.”
 
 ## Book IV
 
 ### Source page 248
 
-[^fn-p14-pdf04-n01]: **Note 1.** In the margin: “Hegel, *Phenomenology*, p. 356.”
+[^fn-p14-pdf04-n01]: **Note 445.** In the margin: “Hegel, *Phenomenology*, p. 356.”
 
 ### Source page 251
 
-[^fn-p14-pdf07-n01]: **Note 1.** In the margin: “spiritual unity: the ideological faith of one and the same philosophy of history.”
+[^fn-p14-pdf07-n01]: **Note 446.** In the margin: “spiritual unity: the ideological faith of one and the same philosophy of history.”
 
 ### Source page 252
 
-[^fn-p14-pdf08-n01]: **Note 1.** Crossed out: “…I am a Christian and not a pagan or Jew.”
+[^fn-p14-pdf08-n01]: **Note 447.** Crossed out: “…I am a Christian and not a pagan or Jew.”
 
-[^fn-p14-pdf08-n02]: **Note 2.** Crossed out: “or anything of that kind.”
+[^fn-p14-pdf08-n02]: **Note 448.** Crossed out: “or anything of that kind.”
 
-[^fn-p14-pdf08-n03]: **Note 3.** In the margin: “See Moore.”
+[^fn-p14-pdf08-n03]: **Note 449.** In the margin: “See Moore.”
 
 ### Source page 253
 
-[^fn-p14-pdf09-n01]: **Note 1.** In the margin: “Thomas Mann says: Christianity is the most beautiful blossom of Judaism.”
+[^fn-p14-pdf09-n01]: **Note 450.** In the margin: “Thomas Mann says: Christianity is the most beautiful blossom of Judaism.”
 
-[^fn-p14-pdf09-n02]: **Note 2.** Written above it: “Draft of an appeal to all readers of historical <works> and lyric poems.”
+[^fn-p14-pdf09-n02]: **Note 451.** Written above it: “Draft of an appeal to all readers of historical <works> and lyric poems.”
 
 ### Source page 254
 
-[^fn-p14-pdf10-n01]: **Note 1.** In the margin: “well-disposed.”
+[^fn-p14-pdf10-n01]: **Note 452.** In the margin: “well-disposed.”
 
-[^fn-p14-pdf10-n02]: **Note 2.** In the margin: “See 1 June 1955.”
+[^fn-p14-pdf10-n02]: **Note 453.** In the margin: “See 1 June 1955.”
 
-[^fn-p14-pdf10-n03]: **Note 3.** In the margin: “The Son returns to the Father. Hegel, the only living theologian of the Trinity.”
+[^fn-p14-pdf10-n03]: **Note 454.** In the margin: “The Son returns to the Father. Hegel, the only living theologian of the Trinity.”
 
 ### Source page 255
 
-[^fn-p14-pdf11-n01]: **Note 1.** Crossed out: “more beautiful.”
+[^fn-p14-pdf11-n01]: **Note 455.** Crossed out: “more beautiful.”
 
-[^fn-p14-pdf11-n02]: **Note 2.** In the margin: “scum, anti-sperm.”
+[^fn-p14-pdf11-n02]: **Note 456.** In the margin: “scum, anti-sperm.”
 
 ### Source page 257
 
-[^fn-p14-pdf13-n01]: **Note 1.** The final sentence was added later and is difficult to read.
+[^fn-p14-pdf13-n01]: **Note 457.** The final sentence was added later and is difficult to read.
 
 ### Source page 259
 
-[^fn-p14-pdf15-n01]: **Note 1.** In the margin: “Göttingen Seven, see 11 June 1955.”
+[^fn-p14-pdf15-n01]: **Note 458.** In the margin: “Göttingen Seven, see 11 June 1955.”
 
 ### Source page 260
 
-[^fn-p14-pdf16-n01]: **Note 1.** In the margin: “25 Sept. 1947.”
+[^fn-p14-pdf16-n01]: **Note 459.** In the margin: “25 Sept. 1947.”
 
-[^fn-p14-pdf16-n02]: **Note 2.** In the margin: “<…> Monte Carlo.”
+[^fn-p14-pdf16-n02]: **Note 460.** In the margin: “<…> Monte Carlo.”
 
-[^fn-p14-pdf16-n03]: **Note 3.** Written beneath it: “opposite.”
+[^fn-p14-pdf16-n03]: **Note 461.** Written beneath it: “opposite.”
 
-[^fn-p14-pdf16-n04]: **Note 4.** Here the astrological symbol for Jupiter is circled in red. In the margin: “8) 23 Oct. 1951; 9) 20 Jan. 1952, 13 Sept. 1952, 15 Sept. 1955; 10) 21 Sept. 1952; 11) 12 Dec. 1952.”
+[^fn-p14-pdf16-n04]: **Note 462.** Here the astrological symbol for Jupiter is circled in red. In the margin: “8) 23 Oct. 1951; 9) 20 Jan. 1952, 13 Sept. 1952, 15 Sept. 1955; 10) 21 Sept. 1952; 11) 12 Dec. 1952.”
 
-[^fn-p14-pdf16-n05]: **Note 5.** In the margin: “to Armin Mohler, 17 Oct. 1951; to V. Leemans.”
+[^fn-p14-pdf16-n05]: **Note 463.** In the margin: “to Armin Mohler, 17 Oct. 1951; to V. Leemans.”
 
-[^fn-p14-pdf16-n06]: **Note 6.** On the facing page: “Faith or works, works toward faith from faith. Deed becomes betrayal, betrayal becomes deed.”
+[^fn-p14-pdf16-n06]: **Note 464.** On the facing page: “Faith or works, works toward faith from faith. Deed becomes betrayal, betrayal becomes deed.”
 
 ### Source page 262
 
-[^fn-p14-pdf18-n01]: **Note 1.** In the margin: “to Mohler, 12 Nov.; <…> 12 Nov.; to K. Korn.”
+[^fn-p14-pdf18-n01]: **Note 465.** In the margin: “to Mohler, 12 Nov.; <…> 12 Nov.; to K. Korn.”
 
-[^fn-p14-pdf18-n02]: **Note 2.** At the top of the margin: “to M. F.”
+[^fn-p14-pdf18-n02]: **Note 466.** At the top of the margin: “to M. F.”
 
 ### Source page 263
 
-[^fn-p14-pdf19-n01]: **Note 1.** Shorthand note in the margin not clearly legible.
+[^fn-p14-pdf19-n01]: **Note 467.** Shorthand note in the margin not clearly legible.
 
 ### Source page 266
 
-[^fn-p15-pdf02-n01]: **Note 1.** In shorthand in the margin: “<…> p. 179 Hirsch I, see pp. 260/71.”
+[^fn-p15-pdf02-n01]: **Note 468.** In shorthand in the margin: “<…> p. 179 Hirsch I, see pp. 260/71.”
 
 ### Source page 267
 
-[^fn-p15-pdf03-n01]: **Note 1.** In the margin: “to Schu<…>, to Günther Krauss.”
+[^fn-p15-pdf03-n01]: **Note 469.** In the margin: “to Schu<…>, to Günther Krauss.”
 
 ### Source page 268
 
-[^fn-p15-pdf04-n01]: **Note 1.** In the margin: “See [15 Oct. 1951, 28 Nov. 1951, 13 Sept. 1952].”
+[^fn-p15-pdf04-n01]: **Note 470.** In the margin: “See [15 Oct. 1951, 28 Nov. 1951, 13 Sept. 1952].”
 
 ### Source page 270
 
-[^fn-p15-pdf06-n01]: **Note 1.** In the margin: “See 15 Oct. 1951.”
+[^fn-p15-pdf06-n01]: **Note 471.** In the margin: “See 15 Oct. 1951.”
 
 ### Source page 272
 
-[^fn-p15-pdf08-n01]: **Note 1.** Presumably means “unreal.”
+[^fn-p15-pdf08-n01]: **Note 472.** Presumably means “unreal.”
 
-[^fn-p15-pdf08-n02]: **Note 2.** Shorthand note on this: “That is already fascism: that is directly <…> revolution; style: <…> at all anymore from the <…> earth or world. End of my Duisburg lecture, 21 April 1952.”
+[^fn-p15-pdf08-n02]: **Note 473.** Shorthand note on this: “That is already fascism: that is directly <…> revolution; style: <…> at all anymore from the <…> earth or world. End of my Duisburg lecture, 21 April 1952.”
 
 ### Source page 275
 
-[^fn-p15-pdf11-n01]: **Note 1.** Crossed out: “I.”
+[^fn-p15-pdf11-n01]: **Note 474.** Crossed out: “I.”
 
 ### Source page 276
 
-[^fn-p15-pdf12-n01]: **Note 1.** In the margin: “See 24 May 1952.”
+[^fn-p15-pdf12-n01]: **Note 475.** In the margin: “See 24 May 1952.”
 
-[^fn-p15-pdf12-n02]: **Note 2.** In the margin: “Reply, see 18 June 1952.”
+[^fn-p15-pdf12-n02]: **Note 476.** In the margin: “Reply, see 18 June 1952.”
 
-[^fn-p15-pdf12-n03]: **Note 3.** In shorthand in the margin: “<.> Klug and Kleine, <.> Klein K[lug].”
+[^fn-p15-pdf12-n03]: **Note 477.** In shorthand in the margin: “<.> Klug and Kleine, <.> Klein K[lug].”
 
 ### Source page 278
 
-[^fn-p15-pdf14-n01]: **Note 1.** In the margin: “See 24 May 1952.”
+[^fn-p15-pdf14-n01]: **Note 478.** In the margin: “See 24 May 1952.”
 
 ### Source page 282
 
-[^fn-p15-pdf18-n01]: **Note 1.** In the margin: “See 14 [correctly: 13] Sept. 1952.”
+[^fn-p15-pdf18-n01]: **Note 479.** In the margin: “See 14 [correctly: 13] Sept. 1952.”
 
 ### Source page 284
 
-[^fn-p16-pdf01-n01]: **Note 1.** In the margin: “New offenses: not automobilism but alcoholism; see [24 July 1952].”
+[^fn-p16-pdf01-n01]: **Note 480.** In the margin: “New offenses: not automobilism but alcoholism; see [24 July 1952].”
 
-[^fn-p16-pdf01-n02]: **Note 2.** In the margin: “See 14 Sept. 1952”; presumably 24 July 1952 is meant.
+[^fn-p16-pdf01-n02]: **Note 481.** In the margin: “See 14 Sept. 1952”; presumably 24 July 1952 is meant.
 
-[^fn-p16-pdf01-n03]: **Note 3.** In the margin: “20 Jan. 1952.”
+[^fn-p16-pdf01-n03]: **Note 482.** In the margin: “20 Jan. 1952.”
 
-[^fn-p16-pdf01-n04]: **Note 4.** In the margin: “24 July 1952, 23 Sept. 1949, <…> Kierkegaard <…> perhaps?”
+[^fn-p16-pdf01-n04]: **Note 483.** In the margin: “24 July 1952, 23 Sept. 1949, <…> Kierkegaard <…> perhaps?”
 
-[^fn-p16-pdf01-n05]: **Note 5.** In the margin: “Who are you? See 20 Jan. 1952, 5 Nov. 1952.” On the facing page: “He was a man who noticed such things.”
+[^fn-p16-pdf01-n05]: **Note 484.** In the margin: “Who are you? See 20 Jan. 1952, 5 Nov. 1952.” On the facing page: “He was a man who noticed such things.”
 
-[^fn-p16-pdf01-n06]: **Note 6.** In the margin: “14 Sept. 1952.”
+[^fn-p16-pdf01-n06]: **Note 485.** In the margin: “14 Sept. 1952.”
 
 ### Source page 285
 
-[^fn-p16-pdf02-n01]: **Note 1.** In the margin: “Continued 17 Sept. 1952. Kierkegaard <…>; Bacon <…> ([= 5 Aug. 1953]); see 24 July 1952; see 2 Feb. 1948, Cochin, *mesurai l’enormité de mon crime*—‘I measured the enormity of my crime.’”
+[^fn-p16-pdf02-n01]: **Note 486.** In the margin: “Continued 17 Sept. 1952. Kierkegaard <…>; Bacon <…> ([= 5 Aug. 1953]); see 24 July 1952; see 2 Feb. 1948, Cochin, *mesurai l’enormité de mon crime*—‘I measured the enormity of my crime.’”
 
-[^fn-p16-pdf02-n02]: **Note 2.** On the facing page: “Corneille, *Le Cid*, Act II, Scene 7: Don Fernand to Don Sanche: *taisez-vous, et soyez averti / Qu’on se rend criminel à prendre son parti*—‘Be silent, and be warned: by taking his side, you make yourself a criminal.’”
+[^fn-p16-pdf02-n02]: **Note 487.** On the facing page: “Corneille, *Le Cid*, Act II, Scene 7: Don Fernand to Don Sanche: *taisez-vous, et soyez averti / Qu’on se rend criminel à prendre son parti*—‘Be silent, and be warned: by taking his side, you make yourself a criminal.’”
 
-[^fn-p16-pdf02-n03]: **Note 3.** In the margin: “See 20 Jan. 1952.”
+[^fn-p16-pdf02-n03]: **Note 488.** In the margin: “See 20 Jan. 1952.”
 
 ### Source page 286
 
-[^fn-p16-pdf03-n01]: **Note 1.** In the left margin: “Add 4) There is an empty space; there is no *horror vacui*—no horror of the void.” On the right, in shorthand: “When I say God is <…>, or there is an empty space in Germany. <…> future.”
+[^fn-p16-pdf03-n01]: **Note 489.** In the left margin: “Add 4) There is an empty space; there is no *horror vacui*—no horror of the void.” On the right, in shorthand: “When I say God is <…>, or there is an empty space in Germany. <…> future.”
 
-[^fn-p16-pdf03-n02]: **Note 2.** In shorthand in the margin: “Anyone who says one of these sentences is already lost.”
+[^fn-p16-pdf03-n02]: **Note 490.** In shorthand in the margin: “Anyone who says one of these sentences is already lost.”
 
 ### Source page 287
 
-[^fn-p16-pdf04-n01]: **Note 1.** On the facing page: “I think his name was Schmitt.”
+[^fn-p16-pdf04-n01]: **Note 491.** On the facing page: “I think his name was Schmitt.”
 
-[^fn-p16-pdf04-n02]: **Note 2.** In the margin: “Who are you? 20 Jan. 1952, 13 Sept. 1952, 11 Dec. 1952.”
+[^fn-p16-pdf04-n02]: **Note 492.** In the margin: “Who are you? 20 Jan. 1952, 13 Sept. 1952, 11 Dec. 1952.”
 
-[^fn-p16-pdf04-n03]: **Note 3.** Later wording: “I am an instructive illustration of the three-stage law of the German spirit formulated by Goethe.”
+[^fn-p16-pdf04-n03]: **Note 493.** Later wording: “I am an instructive illustration of the three-stage law of the German spirit formulated by Goethe.”
 
-[^fn-p16-pdf04-n04]: **Note 4.** In the margin: “(Schiller, ninth letter *On the Aesthetic Education of Man*).”
+[^fn-p16-pdf04-n04]: **Note 494.** In the margin: “(Schiller, ninth letter *On the Aesthetic Education of Man*).”
 
 ### Source page 289
 
-[^fn-p16-pdf06-n01]: **Note 1.** In the margin: “See 20 Jan. 1952, 5 Nov. 1952, 13 Sept. 1952, etc.”
+[^fn-p16-pdf06-n01]: **Note 495.** In the margin: “See 20 Jan. 1952, 5 Nov. 1952, 13 Sept. 1952, etc.”
 
-[^fn-p16-pdf06-n02]: **Note 2.** This shorthand sentence and the one following it are not clearly legible.
+[^fn-p16-pdf06-n02]: **Note 496.** This shorthand sentence and the one following it are not clearly legible.
 
 ### Source page 291
 
-[^fn-p16-pdf08-n01]: **Note 1.** In the margin: “See Forsthoff, W. Weber, 5 Feb. 1953.”
+[^fn-p16-pdf08-n01]: **Note 497.** In the margin: “See Forsthoff, W. Weber, 5 Feb. 1953.”
 
 ### Source page 292
 
-[^fn-p16-pdf09-n01]: **Note 1.** On the facing page: “Later note: at the time, 17 Feb. 1953, I had no idea that at the end of that same year, on 17 Dec. 1953, my name would be desecrated (note from 1977!).”
+[^fn-p16-pdf09-n01]: **Note 498.** On the facing page: “Later note: at the time, 17 Feb. 1953, I had no idea that at the end of that same year, on 17 Dec. 1953, my name would be desecrated (note from 1977!).”
 
 ### Source page 294
 
-[^fn-p16-pdf11-n01]: **Note 1.** In the margin: “See 23(v.), 24” [see newspaper clipping].
+[^fn-p16-pdf11-n01]: **Note 499.** In the margin: “See 23(v.), 24” [see newspaper clipping].
 
 ### Source page 299
 
-[^fn-p16-pdf16-n01]: **Note 1.** In shorthand on the facing page: “Because they are so restored <…>.”
+[^fn-p16-pdf16-n01]: **Note 500.** In shorthand on the facing page: “Because they are so restored <…>.”
 
-[^fn-p16-pdf16-n02]: **Note 2.** In the margin: “to Epting, W. Warnach, 15 Sept. A name like Theodor Adorno! Christian name Theodor!”
+[^fn-p16-pdf16-n02]: **Note 501.** In the margin: “to Epting, W. Warnach, 15 Sept. A name like Theodor Adorno! Christian name Theodor!”
 
 ### Source page 300
 
-[^fn-p16-pdf17-n01]: **Note 1.** Written above it: “1918.”
+[^fn-p16-pdf17-n01]: **Note 502.** Written above it: “1918.”
 
-[^fn-p16-pdf17-n02]: **Note 2.** In the margin: “<…> Luther, Calvin, etc.”
+[^fn-p16-pdf17-n02]: **Note 503.** In the margin: “<…> Luther, Calvin, etc.”
 
-[^fn-p16-pdf17-n03]: **Note 3.** In the margin: “See 30 Oct. 1953.”
+[^fn-p16-pdf17-n03]: **Note 504.** In the margin: “See 30 Oct. 1953.”
 
-[^fn-p16-pdf17-n04]: **Note 4.** In the margin: “3 Sept. 1953, Forsthoff.”
+[^fn-p16-pdf17-n04]: **Note 505.** In the margin: “3 Sept. 1953, Forsthoff.”
 
 ### Source page 302
 
-[^fn-p16-pdf19-n01]: **Note 1.** Above it: “mathematical.”
+[^fn-p16-pdf19-n01]: **Note 506.** Above it: “mathematical.”
 
 ### Source page 304
 
-[^fn-p17-pdf01-n01]: **Note 1.** In the margin: “See 8 Aug. 1953; see Jürgen Habermas, 25 Aug. 1953.”
+[^fn-p17-pdf01-n01]: **Note 507.** In the margin: “See 8 Aug. 1953; see Jürgen Habermas, 25 Aug. 1953.”
 
-[^fn-p17-pdf01-n02]: **Note 2.** In the margin: “Someone should ask him: How did you come by the first name Theodor?”
+[^fn-p17-pdf01-n02]: **Note 508.** In the margin: “Someone should ask him: How did you come by the first name Theodor?”
 
-[^fn-p17-pdf01-n03]: **Note 3.** In the margin: “See 19 March 1955, 3 April 1955.”
+[^fn-p17-pdf01-n03]: **Note 509.** In the margin: “See 19 March 1955, 3 April 1955.”
 
-[^fn-p17-pdf01-n04]: **Note 4.** On the facing page, apparently added later: “17 December 1953. Meanwhile *Le Pal.* 3/86, *The Brand*, the date 17 December 1953, vol. 3, p. 86, *temerataque jura relinquo*—‘and I leave behind violated laws.’”
+[^fn-p17-pdf01-n04]: **Note 510.** On the facing page, apparently added later: “17 December 1953. Meanwhile *Le Pal.* 3/86, *The Brand*, the date 17 December 1953, vol. 3, p. 86, *temerataque jura relinquo*—‘and I leave behind violated laws.’”
 
-[^fn-p17-pdf01-n05]: **Note 5.** In the margin: “Representation. The visible Church as *absence de Dieu*—absence of God!!”
+[^fn-p17-pdf01-n05]: **Note 511.** In the margin: “Representation. The visible Church as *absence de Dieu*—absence of God!!”
 
 ### Source page 305
 
-[^fn-p17-pdf02-n01]: **Note 1.** In the margin: “publicly present means open.”
+[^fn-p17-pdf02-n01]: **Note 512.** In the margin: “publicly present means open.”
 
 ### Source page 307
 
-[^fn-p17-pdf04-n01]: **Note 1.** In the margin: “(Anton Kuh, definition, criterion of Jews): exploited at 100% <…>.”
+[^fn-p17-pdf04-n01]: **Note 513.** In the margin: “(Anton Kuh, definition, criterion of Jews): exploited at 100% <…>.”
 
-[^fn-p17-pdf04-n02]: **Note 2.** The date conflicts with the date of the entry and cannot be correct.
+[^fn-p17-pdf04-n02]: **Note 514.** The date conflicts with the date of the entry and cannot be correct.
 
-[^fn-p17-pdf04-n03]: **Note 3.** The original has “nicotine-free.”
+[^fn-p17-pdf04-n03]: **Note 515.** The original has “nicotine-free.”
 
 ### Source page 309
 
-[^fn-p17-pdf06-n01]: **Note 1.** In the margin: “13 Sept. 1952, 2 Jan. 1955.”
+[^fn-p17-pdf06-n01]: **Note 516.** In the margin: “13 Sept. 1952, 2 Jan. 1955.”
 
-[^fn-p17-pdf06-n02]: **Note 2.** The shorthand sentence is not clearly legible.
+[^fn-p17-pdf06-n02]: **Note 517.** The shorthand sentence is not clearly legible.
 
 ### Source page 310
 
-[^fn-p17-pdf07-n01]: **Note 1.** In the margin: “See 9 June 1953.”
+[^fn-p17-pdf07-n01]: **Note 518.** In the margin: “See 9 June 1953.”
 
-[^fn-p17-pdf07-n02]: **Note 2.** In the margin: “Progress, 8 July 1955.”
+[^fn-p17-pdf07-n02]: **Note 519.** In the margin: “Progress, 8 July 1955.”
 
 ### Source page 311
 
-[^fn-p17-pdf08-n01]: **Note 1.** In the margin: “See 26 Dec. 1953.”
+[^fn-p17-pdf08-n01]: **Note 520.** In the margin: “See 26 Dec. 1953.”
 
-[^fn-p17-pdf08-n02]: **Note 2.** In the margin: “See 26 Dec. 1955, 17 April 1955.”
+[^fn-p17-pdf08-n02]: **Note 521.** In the margin: “See 26 Dec. 1955, 17 April 1955.”
 
 ### Source page 312
 
-[^fn-p17-pdf09-n01]: **Note 1.** The shorthand note could not be read, but the cited diary entry says: “Hitler like the greedy bull in the arena.”
+[^fn-p17-pdf09-n01]: **Note 522.** The shorthand note could not be read, but the cited diary entry says: “Hitler like the greedy bull in the arena.”
 
-[^fn-p17-pdf09-n02]: **Note 2.** Presumably “*tauromaquia*,” bullfighting.
+[^fn-p17-pdf09-n02]: **Note 523.** Presumably “*tauromaquia*,” bullfighting.
 
-[^fn-p17-pdf09-n03]: **Note 3.** In the margin: “See 14 Aug. 1955.”
+[^fn-p17-pdf09-n03]: **Note 524.** In the margin: “See 14 Aug. 1955.”
 
 ### Source page 313
 
-[^fn-p17-pdf10-n01]: **Note 1.** In the margin: “to E. Forsthoff, 16 May 1955.”
+[^fn-p17-pdf10-n01]: **Note 525.** In the margin: “to E. Forsthoff, 16 May 1955.”
 
-[^fn-p17-pdf10-n02]: **Note 2.** Shorthand note in the margin not legible.
+[^fn-p17-pdf10-n02]: **Note 526.** Shorthand note in the margin not legible.
 
-[^fn-p17-pdf10-n03]: **Note 3.** In the margin: “See 16 April 1955.”
+[^fn-p17-pdf10-n03]: **Note 527.** In the margin: “See 16 April 1955.”
 
-[^fn-p17-pdf10-n04]: **Note 4.** In the margin: “to Kojève, 9 May 1955.”
+[^fn-p17-pdf10-n04]: **Note 528.** In the margin: “to Kojève, 9 May 1955.”
 
-[^fn-p17-pdf10-n05]: **Note 5.** In the margin: “actually Kojève; his letter of 2 May 1955; my reply 9 May 1955.”
+[^fn-p17-pdf10-n05]: **Note 529.** In the margin: “actually Kojève; his letter of 2 May 1955; my reply 9 May 1955.”
 
 ### Source page 314
 
-[^fn-p17-pdf11-n01]: **Note 1.** In the margin: “Forsthoff quoted it in Törwang; he did not understand it. Anima found it too sad.”
+[^fn-p17-pdf11-n01]: **Note 530.** In the margin: “Forsthoff quoted it in Törwang; he did not understand it. Anima found it too sad.”
 
 ### Source page 315
 
-[^fn-p17-pdf12-n01]: **Note 1.** In the margin: “Continued 23 Aug. 1955.”
+[^fn-p17-pdf12-n01]: **Note 531.** In the margin: “Continued 23 Aug. 1955.”
 
-[^fn-p17-pdf12-n02]: **Note 2.** In the margin: “See 17 Sept. 1951.”
+[^fn-p17-pdf12-n02]: **Note 532.** In the margin: “See 17 Sept. 1951.”
 
-[^fn-p17-pdf12-n03]: **Note 3.** In the margin: “to Al. Kojève, to Mohler <…>.”
+[^fn-p17-pdf12-n03]: **Note 533.** In the margin: “to Al. Kojève, to Mohler <…>.”
 
-[^fn-p17-pdf12-n04]: **Note 4.** In the margin: “See 30 Jan. 1955.”
+[^fn-p17-pdf12-n04]: **Note 534.** In the margin: “See 30 Jan. 1955.”
 
 ### Source page 316
 
-[^fn-p17-pdf13-n01]: **Note 1.** In the margin: “See 15 Oct. 1951.”
+[^fn-p17-pdf13-n01]: **Note 535.** In the margin: “See 15 Oct. 1951.”
 
-[^fn-p17-pdf13-n02]: **Note 2.** In the margin: “to Wirsing, Anima, Mohler, Kojève.”
+[^fn-p17-pdf13-n02]: **Note 536.** In the margin: “to Wirsing, Anima, Mohler, Kojève.”
 
 ### Source page 317
 
-[^fn-p17-pdf14-n01]: **Note 1.** In the margin: “(Progress, 4 Feb. 1955).”
+[^fn-p17-pdf14-n01]: **Note 537.** In the margin: “(Progress, 4 Feb. 1955).”
 
 ### Source page 318
 
-[^fn-p17-pdf15-n01]: **Note 1.** In the margin: “See 10 April 1955.”
+[^fn-p17-pdf15-n01]: **Note 538.** In the margin: “See 10 April 1955.”
 
 ### Source page 321
 
-[^fn-p17-pdf18-n01]: **Note 1.** In the margin: “See 11 Sept. 1955, 25 April 1952.”
+[^fn-p17-pdf18-n01]: **Note 539.** In the margin: “See 11 Sept. 1955, 25 April 1952.”
 
 ## Book V
 
 ### Source page 325
 
-[^fn-p18-pdf03-n01]: **Note 1.** In shorthand in the margin: “Written to Alfons Adams.”
+[^fn-p18-pdf03-n01]: **Note 540.** In shorthand in the margin: “Written to Alfons Adams.”
 
 ### Source page 327
 
-[^fn-p18-pdf05-n01]: **Note 1.** In the margin: “See 10 Nov. 1955.”
+[^fn-p18-pdf05-n01]: **Note 541.** In the margin: “See 10 Nov. 1955.”
 
 ### Source page 330
 
-[^fn-p18-pdf08-n01]: **Note 1.** In the margin: “to Karl Epting.”
+[^fn-p18-pdf08-n01]: **Note 542.** In the margin: “to Karl Epting.”
 
 ### Source page 332
 
-[^fn-p18-pdf10-n01]: **Note 1.** In the margin: “to Rolf Schroers, 24 Nov. 1955.”
+[^fn-p18-pdf10-n01]: **Note 543.** In the margin: “to Rolf Schroers, 24 Nov. 1955.”
 
-[^fn-p18-pdf10-n02]: **Note 2.** In the margin: “See 10 July 1956.”
+[^fn-p18-pdf10-n02]: **Note 544.** In the margin: “See 10 July 1956.”
 
 ### Source page 334
 
-[^fn-p18-pdf12-n01]: **Note 1.** In the margin: “See 17 Dec. 1955.”
+[^fn-p18-pdf12-n01]: **Note 545.** In the margin: “See 17 Dec. 1955.”
 
-[^fn-p18-pdf12-n02]: **Note 2.** In the margin: “See 6 Dec. 1955.”
+[^fn-p18-pdf12-n02]: **Note 546.** In the margin: “See 6 Dec. 1955.”
 
 ### Source page 335
 
-[^fn-p18-pdf13-n01]: **Note 1.** In shorthand in the margin: “Written to Nicolaus Sombart; see 24 Nov. 1955; to Ernst Jünger, 2 Jan. 1956, 30 Dec. 1955.”
+[^fn-p18-pdf13-n01]: **Note 547.** In shorthand in the margin: “Written to Nicolaus Sombart; see 24 Nov. 1955; to Ernst Jünger, 2 Jan. 1956, 30 Dec. 1955.”
 
-[^fn-p18-pdf13-n02]: **Note 2.** Shorthand note in the margin not legible.
+[^fn-p18-pdf13-n02]: **Note 548.** Shorthand note in the margin not legible.
 
 ### Source page 337
 
-[^fn-p18-pdf15-n01]: **Note 1.** In the margin: “See 6 Aug. 1953; see 15 Feb. 1956.”
+[^fn-p18-pdf15-n01]: **Note 549.** In the margin: “See 6 Aug. 1953; see 15 Feb. 1956.”
 
 ### Source page 339
 
-[^fn-p18-pdf17-n01]: **Note 1.** The shorthand sentence cannot be read with certainty.
+[^fn-p18-pdf17-n01]: **Note 550.** The shorthand sentence cannot be read with certainty.
 
 ### Source page 340
 
-[^fn-p18-pdf18-n01]: **Note 1.** In the margin: “Written to Dombois; see Klaus Ritter, book on natural [law] <…>; to <Emil Wiener?> and Coing.”
+[^fn-p18-pdf18-n01]: **Note 551.** In the margin: “Written to Dombois; see Klaus Ritter, book on natural [law] <…>; to <Emil Wiener?> and Coing.”
 
-[^fn-p18-pdf18-n02]: **Note 2.** In the margin: “See 31 Jan. 1956.”
+[^fn-p18-pdf18-n02]: **Note 552.** In the margin: “See 31 Jan. 1956.”
 
-[^fn-p18-pdf18-n03]: **Note 3.** In shorthand in the margin: “to <…> Forst[hoff], Hans Winckelmann, Rolf Schroers, Ernst Jünger (6 March 1956), all <ideal> in Neesse’s <looking upward>, Jewish <…> day, Neesse, 7 March 1956.”
+[^fn-p18-pdf18-n03]: **Note 553.** In shorthand in the margin: “to <…> Forst[hoff], Hans Winckelmann, Rolf Schroers, Ernst Jünger (6 March 1956), all <ideal> in Neesse’s <looking upward>, Jewish <…> day, Neesse, 7 March 1956.”
 
 ### Source page 341
 
-[^fn-p18-pdf19-n01]: **Note 1.** In the margin: “(26 Dec. 1955).”
+[^fn-p18-pdf19-n01]: **Note 554.** In the margin: “(26 Dec. 1955).”
 
 ### Source page 342
 
-[^fn-p18-pdf20-n01]: **Note 1.** In the margin: “See 11 June 1957.”
+[^fn-p18-pdf20-n01]: **Note 555.** In the margin: “See 11 June 1957.”
 
 ### Source page 343
 
-[^fn-p18-pdf21-n01]: **Note 1.** In the margin: “See 28 Dec. 1958 (below, p. 149 [= 378]).”
+[^fn-p18-pdf21-n01]: **Note 556.** In the margin: “See 28 Dec. 1958 (below, p. 149 [= 378]).”
 
-[^fn-p18-pdf21-n02]: **Note 2.** At the top of the page: “April 1956 (summit conference).”
+[^fn-p18-pdf21-n02]: **Note 557.** At the top of the page: “April 1956 (summit conference).”
 
-[^fn-p18-pdf21-n03]: **Note 3.** In shorthand in the margin: “Thought: Novalis: the Jew must perish (Kierkegaard says this too, incidentally). In the same way, according to <Novalis>, the French must perish through the French <Revolution>.”
+[^fn-p18-pdf21-n03]: **Note 558.** In shorthand in the margin: “Thought: Novalis: the Jew must perish (Kierkegaard says this too, incidentally). In the same way, according to <Novalis>, the French must perish through the French <Revolution>.”
 
 ### Source page 346
 
-[^fn-p19-pdf02-n01]: **Note 1.** In the margin: “See 18 Sept. 1949 [correctly: 1947].”
+[^fn-p19-pdf02-n01]: **Note 559.** In the margin: “See 18 Sept. 1949 [correctly: 1947].”
 
-[^fn-p19-pdf02-n02]: **Note 2.** In the margin: “pp. 511/12, *Phenomenology of Spirit*.”
+[^fn-p19-pdf02-n02]: **Note 560.** In the margin: “pp. 511/12, *Phenomenology of Spirit*.”
 
-[^fn-p19-pdf02-n03]: **Note 3.** In shorthand on the facing page: “Short lecture; see review S. Cas.; see <…> part, 31 Jan. 1956 (*From Land Appropriation to Sea Appropriation*).”
+[^fn-p19-pdf02-n03]: **Note 561.** In shorthand on the facing page: “Short lecture; see review S. Cas.; see <…> part, 31 Jan. 1956 (*From Land Appropriation to Sea Appropriation*).”
 
 ### Source page 347
 
-[^fn-p19-pdf03-n01]: **Note 1.** In shorthand in the margin: “told by Hans Graß; see 18 May 1956.”
+[^fn-p19-pdf03-n01]: **Note 562.** In shorthand in the margin: “told by Hans Graß; see 18 May 1956.”
 
-[^fn-p19-pdf03-n02]: **Note 2.** In the margin: “See 29 Oct. 1957 (below, p. 117 [= 367]).”
+[^fn-p19-pdf03-n02]: **Note 563.** In the margin: “See 29 Oct. 1957 (below, p. 117 [= 367]).”
 
-[^fn-p19-pdf03-n03]: **Note 3.** Shorthand note in the margin not legible.
+[^fn-p19-pdf03-n03]: **Note 564.** Shorthand note in the margin not legible.
 
 ### Source page 348
 
-[^fn-p19-pdf04-n01]: **Note 1.** Illegible shorthand note on the facing page.
+[^fn-p19-pdf04-n01]: **Note 565.** Illegible shorthand note on the facing page.
 
 ### Source page 349
 
-[^fn-p19-pdf05-n01]: **Note 1.** In shorthand in the margin: “written to <…>.”
+[^fn-p19-pdf05-n01]: **Note 566.** In shorthand in the margin: “written to <…>.”
 
-[^fn-p19-pdf05-n02]: **Note 2.** In the margin: “See 24 Nov. 1955.”
+[^fn-p19-pdf05-n02]: **Note 567.** In the margin: “See 24 Nov. 1955.”
 
-[^fn-p19-pdf05-n03]: **Note 3.** In the margin: “Anima, Koselleck, Nicolaus [Sombart], J. Gross, Mohler, H. Fleig, Joh. Adams, R. Augstein, E. Jünger, Mrs. L. Ilschner (Wilhelmshaven).”
+[^fn-p19-pdf05-n03]: **Note 568.** In the margin: “Anima, Koselleck, Nicolaus [Sombart], J. Gross, Mohler, H. Fleig, Joh. Adams, R. Augstein, E. Jünger, Mrs. L. Ilschner (Wilhelmshaven).”
 
 ### Source page 350
 
-[^fn-p19-pdf06-n01]: **Note 1.** In the margin: “25 April 1952.”
+[^fn-p19-pdf06-n01]: **Note 569.** In the margin: “25 April 1952.”
 
-[^fn-p19-pdf06-n02]: **Note 2.** Means: “situational jurisprudence.”
+[^fn-p19-pdf06-n02]: **Note 570.** Means: “situational jurisprudence.”
 
-[^fn-p19-pdf06-n03]: **Note 3.** In the margin: “The functional system of diatonic harmony comes from Uncle Rameau. No wonder the nephew swings out so wildly!”
+[^fn-p19-pdf06-n03]: **Note 571.** In the margin: “The functional system of diatonic harmony comes from Uncle Rameau. No wonder the nephew swings out so wildly!”
 
 ### Source page 351
 
-[^fn-p19-pdf07-n01]: **Note 1.** Shorthand note in the margin not clearly legible.
+[^fn-p19-pdf07-n01]: **Note 572.** Shorthand note in the margin not clearly legible.
 
 ### Source page 352
 
-[^fn-p19-pdf08-n01]: **Note 1.** In the margin: “See 8 Aug. 1953.”
+[^fn-p19-pdf08-n01]: **Note 573.** In the margin: “See 8 Aug. 1953.”
 
-[^fn-p19-pdf08-n02]: **Note 2.** In the margin: “to H. J. Arndt.”
+[^fn-p19-pdf08-n02]: **Note 574.** In the margin: “to H. J. Arndt.”
 
 ### Source page 353
 
-[^fn-p19-pdf09-n01]: **Note 1.** In the margin: “(See 4 Oct. 1957).”
+[^fn-p19-pdf09-n01]: **Note 575.** In the margin: “(See 4 Oct. 1957).”
 
 ### Source page 354
 
-[^fn-p19-pdf10-n01]: **Note 1.** In the margin: “in Düsseldorf (Kojève lecture).”
+[^fn-p19-pdf10-n01]: **Note 576.** In the margin: “in Düsseldorf (Kojève lecture).”
 
-[^fn-p19-pdf10-n02]: **Note 2.** In shorthand in the margin: “Written to Nicolaus Sombart: 3 Feb. 1957.”
+[^fn-p19-pdf10-n02]: **Note 577.** In shorthand in the margin: “Written to Nicolaus Sombart: 3 Feb. 1957.”
 
 ### Source page 355
 
-[^fn-p19-pdf11-n01]: **Note 1.** In shorthand in the margin: “‘justice’ and ‘judge’ are to be read with the appropriate reservations.”
+[^fn-p19-pdf11-n01]: **Note 578.** In shorthand in the margin: “‘justice’ and ‘judge’ are to be read with the appropriate reservations.”
 
 ### Source page 356
 
-[^fn-p19-pdf12-n01]: **Note 1.** In the margin: “See 30 Dec. 1958.”
+[^fn-p19-pdf12-n01]: **Note 579.** In the margin: “See 30 Dec. 1958.”
 
 ### Source page 357
 
-[^fn-p19-pdf13-n01]: **Note 1.** In the margin: “Continued 27 March 1957.”
+[^fn-p19-pdf13-n01]: **Note 580.** In the margin: “Continued 27 March 1957.”
 
 ### Source page 358
 
-[^fn-p19-pdf14-n01]: **Note 1.** The original has “πολλυ τὰ δεινά.”
+[^fn-p19-pdf14-n01]: **Note 581.** The original has “πολλυ τὰ δεινά.”
 
-[^fn-p19-pdf14-n02]: **Note 2.** In the margin: “Continuation from 17 March 1957.” A poorly legible shorthand note on the facing page: “Morning, 27 March 1957, speech on <Munich> <…>.”
+[^fn-p19-pdf14-n02]: **Note 582.** In the margin: “Continuation from 17 March 1957.” A poorly legible shorthand note on the facing page: “Morning, 27 March 1957, speech on <Munich> <…>.”
 
-[^fn-p19-pdf14-n03]: **Note 3.** In the margin: “See 1 March 1956.”
+[^fn-p19-pdf14-n03]: **Note 583.** In the margin: “See 1 March 1956.”
 
 ### Source page 359
 
-[^fn-p19-pdf15-n01]: **Note 1.** In shorthand in the margin: “He communicated this saying of Rivarol: <…>.”
+[^fn-p19-pdf15-n01]: **Note 584.** In shorthand in the margin: “He communicated this saying of Rivarol: <…>.”
 
-[^fn-p19-pdf15-n02]: **Note 2.** In the margin: “28 April 1957.”
+[^fn-p19-pdf15-n02]: **Note 585.** In the margin: “28 April 1957.”
 
-[^fn-p19-pdf15-n03]: **Note 3.** Shorthand note on the facing page: “Winston Churchill: Roosevelt raised no objection to this proposal by Stalin. His son [= Elliott Roosevelt] even supported the proposal; <therefore Churchill> (Pape, *Die Wahrheit sei Geist*, p. 652).”
+[^fn-p19-pdf15-n03]: **Note 586.** Shorthand note on the facing page: “Winston Churchill: Roosevelt raised no objection to this proposal by Stalin. His son [= Elliott Roosevelt] even supported the proposal; <therefore Churchill> (Pape, *Die Wahrheit sei Geist*, p. 652).”
 
 ### Source page 360
 
-[^fn-p19-pdf16-n01]: **Note 1.** In the margin: “10 April 1957.”
+[^fn-p19-pdf16-n01]: **Note 587.** In the margin: “10 April 1957.”
 
 ### Source page 361
 
-[^fn-p19-pdf17-n01]: **Note 1.** On the facing page: “The norm does not execute itself; a decision must be involved, but then things become uncomfortable: meanwhile … settles matters amicably.”
+[^fn-p19-pdf17-n01]: **Note 588.** On the facing page: “The norm does not execute itself; a decision must be involved, but then things become uncomfortable: meanwhile … settles matters amicably.”
 
 ### Source page 362
 
-[^fn-p19-pdf18-n01]: **Note 1.** In shorthand in the margin: “to <Walter Warnach> and to <parents>.”
+[^fn-p19-pdf18-n01]: **Note 589.** In shorthand in the margin: “to <Walter Warnach> and to <parents>.”
 
-[^fn-p19-pdf18-n02]: **Note 2.** In the margin: “See George [Schwab]. Conversation with George in the evening.”
+[^fn-p19-pdf18-n02]: **Note 590.** In the margin: “See George [Schwab]. Conversation with George in the evening.”
 
 ### Source page 363
 
-[^fn-p19-pdf19-n01]: **Note 1.** In the margin: “See 30 March 1957.”
+[^fn-p19-pdf19-n01]: **Note 591.** In the margin: “See 30 March 1957.”
 
 ### Source page 364
 
-[^fn-p19-pdf20-n01]: **Note 1.** In the margin: “Conversation with Papalekas, 18 Aug. 1957.”
+[^fn-p19-pdf20-n01]: **Note 592.** In the margin: “Conversation with Papalekas, 18 Aug. 1957.”
 
 ### Source page 365
 
-[^fn-p19-pdf21-n01]: **Note 1.** In the margin: “Like Michel Mourre in Notre-Dame church at the time.”
+[^fn-p19-pdf21-n01]: **Note 593.** In the margin: “Like Michel Mourre in Notre-Dame church at the time.”
 
 ### Source page 366
 
-[^fn-p19-pdf22-n01]: **Note 1.** In shorthand in the margin: “See 23 Nov. 1956; George <…> written in *Political Theology*.”
+[^fn-p19-pdf22-n01]: **Note 594.** In shorthand in the margin: “See 23 Nov. 1956; George <…> written in *Political Theology*.”
 
-[^fn-p19-pdf22-n02]: **Note 2.** In the margin: “(21 March 1953).”
+[^fn-p19-pdf22-n02]: **Note 595.** In the margin: “(21 March 1953).”
 
-[^fn-p19-pdf22-n03]: **Note 3.** In shorthand in the margin: “Dedication in the copy <for> Mutius; shown to George [Schwab].”
+[^fn-p19-pdf22-n03]: **Note 596.** In shorthand in the margin: “Dedication in the copy <for> Mutius; shown to George [Schwab].”
 
-[^fn-p19-pdf22-n04]: **Note 4.** The material in parentheses is in shorthand.
+[^fn-p19-pdf22-n04]: **Note 597.** The material in parentheses is in shorthand.
 
 ### Source page 367
 
-[^fn-p19-pdf23-n01]: **Note 1.** Shorthand note on the facing page not legible.
+[^fn-p19-pdf23-n01]: **Note 598.** Shorthand note on the facing page not legible.
 
-[^fn-p19-pdf23-n02]: **Note 2.** In the margin: “See 31 May 1956 (p. 63 of this notebook).”
+[^fn-p19-pdf23-n02]: **Note 599.** In the margin: “See 31 May 1956 (p. 63 of this notebook).”
 
 ### Source page 368
 
-[^fn-p19-pdf24-n01]: **Note 1.** In the margin: “to R. Altmann.”
+[^fn-p19-pdf24-n01]: **Note 600.** In the margin: “to R. Altmann.”
 
 ### Source page 370
 
-[^fn-p20-pdf01-n01]: **Note 1.** Presumably to be completed as “16–18.”
+[^fn-p20-pdf01-n01]: **Note 601.** Presumably to be completed as “16–18.”
 
 ### Source page 371
 
-[^fn-p20-pdf02-n01]: **Note 1.** In the margin: “See 7 Sept. 1958 (below, p. 129).”
+[^fn-p20-pdf02-n01]: **Note 602.** In the margin: “See 7 Sept. 1958 (below, p. 129).”
 
-[^fn-p20-pdf02-n02]: **Note 2.** In shorthand in the margin: “Gelimer’s laughter <…>.”
+[^fn-p20-pdf02-n02]: **Note 603.** In shorthand in the margin: “Gelimer’s laughter <…>.”
 
-[^fn-p20-pdf02-n03]: **Note 3.** In the margin: “1st signal 1958: *JZ* for the 70th birthday; <Hans Huber> blows old printer’s ink into my face. 1959 *JZ*, 1962 *NZZ*.”
+[^fn-p20-pdf02-n03]: **Note 604.** In the margin: “1st signal 1958: *JZ* for the 70th birthday; <Hans Huber> blows old printer’s ink into my face. 1959 *JZ*, 1962 *NZZ*.”
 
-[^fn-p20-pdf02-n04]: **Note 4.** In the margin: “See invasion from the Habsburg Monarchy.”
+[^fn-p20-pdf02-n04]: **Note 605.** In the margin: “See invasion from the Habsburg Monarchy.”
 
 ### Source page 372
 
-[^fn-p20-pdf03-n01]: **Note 1.** In the margin: “See 17 Jan. 1957.”
+[^fn-p20-pdf03-n01]: **Note 606.** In the margin: “See 17 Jan. 1957.”
 
-[^fn-p20-pdf03-n02]: **Note 2.** In shorthand in the margin: “Wrote to Anima asking her to translate [these verses] into Spanish. To Ernst Jünger.”
+[^fn-p20-pdf03-n02]: **Note 607.** In shorthand in the margin: “Wrote to Anima asking her to translate [these verses] into Spanish. To Ernst Jünger.”
 
-[^fn-p20-pdf03-n03]: **Note 3.** In the margin: “See above [5 June 1958].”
+[^fn-p20-pdf03-n03]: **Note 608.** In the margin: “See above [5 June 1958].”
 
 ### Source page 373
 
-[^fn-p20-pdf04-n01]: **Note 1.** In the margin: “See 5 Feb. 1950.”
+[^fn-p20-pdf04-n01]: **Note 609.** In the margin: “See 5 Feb. 1950.”
 
 ### Source page 374
 
-[^fn-p20-pdf05-n01]: **Note 1.** In the margin: “Walter Warnach told me, 26 Jan. 1958.”
+[^fn-p20-pdf05-n01]: **Note 610.** In the margin: “Walter Warnach told me, 26 Jan. 1958.”
 
-[^fn-p20-pdf05-n02]: **Note 2.** In the margin: “End of September, see Crook; Nov. 1957 Cambridge (Hobbes).”
+[^fn-p20-pdf05-n02]: **Note 611.** In the margin: “End of September, see Crook; Nov. 1957 Cambridge (Hobbes).”
 
-[^fn-p20-pdf05-n03]: **Note 3.** In the margin: “See 9 Sept. 1958.”
+[^fn-p20-pdf05-n03]: **Note 612.** In the margin: “See 9 Sept. 1958.”
 
-[^fn-p20-pdf05-n04]: **Note 4.** In the margin: “See 31 Dec. 1957.”
+[^fn-p20-pdf05-n04]: **Note 613.** In the margin: “See 31 Dec. 1957.”
 
-[^fn-p20-pdf05-n05]: **Note 5.** In the margin: “See 17 Jan. 1957.”
+[^fn-p20-pdf05-n05]: **Note 614.** In the margin: “See 17 Jan. 1957.”
 
 ### Source page 376
 
-[^fn-p20-pdf07-n01]: **Note 1.** Shorthand note in the margin not legible.
+[^fn-p20-pdf07-n01]: **Note 615.** Shorthand note in the margin not legible.
 
 ### Source page 377
 
-[^fn-p20-pdf08-n01]: **Note 1.** In shorthand in the margin: “[Egon Zweig,] *Die Lehre vom pouvoir constituant*, Tübingen 1909, p. 351.”
+[^fn-p20-pdf08-n01]: **Note 616.** In shorthand in the margin: “[Egon Zweig,] *Die Lehre vom pouvoir constituant*, Tübingen 1909, p. 351.”
 
-[^fn-p20-pdf08-n02]: **Note 2.** In shorthand in the margin: “The obstacle is <guilty>.”
+[^fn-p20-pdf08-n02]: **Note 617.** In shorthand in the margin: “The obstacle is <guilty>.”
 
 ### Source page 378
 
-[^fn-p20-pdf09-n01]: **Note 1.** In the margin: “See 30 March 1956.”
+[^fn-p20-pdf09-n01]: **Note 618.** In the margin: “See 30 March 1956.”
 
 ### Source page 379
 
-[^fn-p20-pdf10-n01]: **Note 1.** In the margin: “See 28 Feb. 1957.”
+[^fn-p20-pdf10-n01]: **Note 619.** In the margin: “See 28 Feb. 1957.”
 
 ## Appendix · Book I
 
 ### Source page 384
 
-[^fn-p20-pdf15-n01]: **Note 1.** Related note on fol. 1/2v: “Aeschylus’s *Suppliants*. ἄσυλος and ἱκέτης—the inviolable person and the suppliant. (On this, Hans Schäfer, *Staatsform und Politik*, 1932, pp. 46 ff.: from *hiketeia*, supplication, into *metoikia*, resident-alien status.)”
+[^fn-p20-pdf15-n01]: **Note 620.** Related note on fol. 1/2v: “Aeschylus’s *Suppliants*. ἄσυλος and ἱκέτης—the inviolable person and the suppliant. (On this, Hans Schäfer, *Staatsform und Politik*, 1932, pp. 46 ff.: from *hiketeia*, supplication, into *metoikia*, resident-alien status.)”
 
 ### Source page 385
 
-[^fn-p20-pdf16-n01]: **Note 1.** Double-underlined in the margin and marked with two exclamation points.
+[^fn-p20-pdf16-n01]: **Note 621.** Double-underlined in the margin and marked with two exclamation points.
 
-[^fn-p20-pdf16-n02]: **Note 2.** At the top of the margin: “The new spatial ordering, from below, from <Ohdoff>.”
+[^fn-p20-pdf16-n02]: **Note 622.** At the top of the margin: “The new spatial ordering, from below, from <Ohdoff>.”
 
-[^fn-p20-pdf16-n03]: **Note 3.** From “produced the same people” to this point, marked in the margin with a line and an exclamation point.
+[^fn-p20-pdf16-n03]: **Note 623.** From “produced the same people” to this point, marked in the margin with a line and an exclamation point.
 
-[^fn-p20-pdf16-n04]: **Note 4.** In the margin: “Kaiser coal, Kaiser raw material.”
+[^fn-p20-pdf16-n04]: **Note 624.** In the margin: “Kaiser coal, Kaiser raw material.”
 
 ## Appendix · Book III
 
 ### Source page 395
 
-[^fn-p21-pdf01-n01]: **Note 1.** Originally: “Materials toward the clearing of a (juristic) existence.” See entry of 19 July 1949.
+[^fn-p21-pdf01-n01]: **Note 625.** Originally: “Materials toward the clearing of a (juristic) existence.” See entry of 19 July 1949.
 
-[^fn-p21-pdf01-n02]: **Note 2.** Crossed out: “the.”
+[^fn-p21-pdf01-n02]: **Note 626.** Crossed out: “the.”
 
