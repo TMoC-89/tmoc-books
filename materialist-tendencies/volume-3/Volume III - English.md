@@ -6447,7 +6447,7 @@ Can we therefore see here an early, undeveloped view of motion as the way matter
 
 ##### C — Suhrawardī’s Illuminationism
 
-**□ The interweaving of philosophies**
+**The interweaving of philosophies**
 
 The first thing we notice when studying the illuminationist philosophy of Shihāb al-Dīn al-Suhrawardī, known as “the Executed” (549–587 AH / 1153–1191 CE), is that it brings rationalist philosophy—especially the Peripatetic tradition—together with Sufi philosophy.
 
@@ -6461,7 +6461,7 @@ This is what we have called a kind of **universal awareness of human thought**.
 
 Even so, al-Suhrawardī did not understand how each intellectual tradition was connected to its own environment and historical period, or how that connection related to the idea of universality.
 
-**□ Features of the age**
+**Features of the age**
 
 Al-Suhrawardī’s age was marked by two major developments.
 
@@ -6499,7 +6499,7 @@ This is the basic real-world background of the Sufi world of illumination.
 
 That world reached its fully developed philosophical form in the thought of Shihāb al-Dīn al-Suhrawardī.
 
-**□ A system of both existence and knowledge**
+**A system of both existence and knowledge**
 
 This is the first major feature of the illuminationist world imagined by al-Suhrawardī and turned into a philosophical system in the sixth century AH, the twelfth century CE.
 
@@ -6535,7 +6535,7 @@ The other moves downward: the **act of illumination**.
 
 Both movements are at once movements of existence and movements of knowledge. (Sources.)
 
-**□ Transcendence—and the rejection of transcendence**
+**Transcendence—and the rejection of transcendence**
 
 The Light of Lights includes the whole system, with all its levels and movements.
 
@@ -6557,7 +6557,7 @@ So we return once again to the central Sufi problem.
 
 There is a contradiction between the absolute transcendence of God—which means His complete separation from the world—and His constant presence within the world—which means His connection with it.
 
-**□ His position on the material world**
+**His position on the material world**
 
 Al-Suhrawardī’s position toward the material world appears to us to be Platonic.
 
@@ -6589,7 +6589,7 @@ It is only a shadow and a dependent reflection of these higher forms.
 
 If we add to this understanding of existence al-Suhrawardī’s purely mystical and supernatural theory of knowledge, we can identify the general philosophical direction of his thought as **subjective idealism**.
 
-**□ The primacy of essence**
+**The primacy of essence**
 
 This point makes al-Suhrawardī’s subjective idealism even clearer.
 
@@ -6617,7 +6617,7 @@ The rationalists begin from a theory of knowledge.
 
 Yet the rationalists’ own theory of existence ultimately points them toward the opposite conclusion: the priority of existence.
 
-**□ Visual perception and illumination**
+**Visual perception and illumination**
 
 Al-Suhrawardī’s position here follows the logic of his subjective idealism.
 
@@ -6633,7 +6633,7 @@ Reason normally begins with particular things received through the senses. It th
 
 Al-Suhrawardī’s theory cuts off this route.
 
-**□ Prophecy, the prophet and the sharia**
+**Prophecy, the prophet and the sharia**
 
 How should we understand the position of al-Suhrawardī’s illuminationist philosophy toward Islam as both a religion and an ideology?
 
@@ -6709,7 +6709,7 @@ It also defines their view of prophecy, revelation and religious law.
 
 At its deepest level, this view becomes the theoretical expression of a rejection of the social order represented by the ideas of prophecy, revelation and *sharia*.
 
-**□ The world is eternal**
+**The world is eternal**
 
 Here we find another example of the lack of consistency that has marked idealist philosophies throughout history.
 
@@ -6757,7 +6757,7 @@ We can therefore find some materialist positions inside al-Suhrawardī’s ideal
 
 The lack of consistency between his general idealist direction and these materialist positions is something we find in most idealist philosophies, as we have said more than once.
 
-**□ And the eternity of motion and time**
+**And the eternity of motion and time**
 
 This is another step toward a materialist position.
 

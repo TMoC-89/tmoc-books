@@ -1522,7 +1522,7 @@ Among the ancient writers, then, one-sided views of the philosophy of this perio
 
 Most of them shared a common intellectual approach dominated by supernaturalism, subjectivism, and a static, metaphysical way of thinking.
 
-□ One of the first places we see this approach is in the explanations earlier writers gave for the translation movement that brought philosophical and scientific works into Arabic and became especially active under al-Maʾmūn. A famous explanation came from Ibn al-Nadīm (d. 385 AH/995 CE). He tells us that al-Maʾmūn saw Aristotle in a dream and asked him a number of questions. When al-Maʾmūn awoke, he ordered Aristotle’s books to be translated. He wrote to the Byzantine emperor asking permission to select from the ancient books of learning preserved in Byzantine lands. The emperor at first refused, but eventually agreed. Al-Maʾmūn then sent a group that included al-Ḥajjāj ibn Maṭar, Ibn al-Biṭrīq, Salm, the head of the House of Wisdom, and others. They selected the books they wanted from those they found and brought them back. Al-Maʾmūn then ordered them to translate the books, and they did.[^V1-59]
+One of the first places we see this approach is in the explanations earlier writers gave for the translation movement that brought philosophical and scientific works into Arabic and became especially active under al-Maʾmūn. A famous explanation came from Ibn al-Nadīm (d. 385 AH/995 CE). He tells us that al-Maʾmūn saw Aristotle in a dream and asked him a number of questions. When al-Maʾmūn awoke, he ordered Aristotle’s books to be translated. He wrote to the Byzantine emperor asking permission to select from the ancient books of learning preserved in Byzantine lands. The emperor at first refused, but eventually agreed. Al-Maʾmūn then sent a group that included al-Ḥajjāj ibn Maṭar, Ibn al-Biṭrīq, Salm, the head of the House of Wisdom, and others. They selected the books they wanted from those they found and brought them back. Al-Maʾmūn then ordered them to translate the books, and they did.[^V1-59]
 
 So this is how a historical movement of enormous importance to the development of Arab-Islamic thought was explained: through a supernatural and purely personal way of thinking, and with remarkable simplicity and naivety.
 
@@ -1534,7 +1534,7 @@ It did not have to wait because the course of history itself had already created
 
 And Aristotle would receive far greater attention than anything suggested by this dream, especially from al-Maʾmūn himself. Al-Maʾmūn really did play a major role in developing the connection with ancient learning. But he did so in response to the real conditions of his society and his time, not because of an accidental dream, a passing coincidence, or his own personal will.
 
-□ We see the same general approach in another form when writers discuss whether the “Arab mind” was naturally capable of philosophical knowledge. Here a racial way of thinking begins to appear.
+We see the same general approach in another form when writers discuss whether the “Arab mind” was naturally capable of philosophical knowledge. Here a racial way of thinking begins to appear.
 
 The judge Ṣāʿid al-Andalusī (d. 463 AH/1070 CE) used this kind of reasoning when he discussed the sciences among the Arabs. He wrote:
 
@@ -1564,7 +1564,7 @@ For all these reasons, it is wrong to look at the people who created this herita
 
 This broad category also includes non-Muslims who helped create the heritage in any of the ways known to history—for example, by translating Greek, Persian, and Indian cultures and philosophies.
 
-□ Al-Shahrastānī himself fell into another kind of unrealistic and unscientific way of looking at this heritage.
+Al-Shahrastānī himself fell into another kind of unrealistic and unscientific way of looking at this heritage.
 
 Speaking of the “later philosophers of Islam,” he writes that:
 
@@ -1642,7 +1642,7 @@ He should not simply have presented Ibn Sīnā’s method and ignored “the met
 
 We have spent time on this criticism of al-Shahrastānī because his approach reflects a widespread way in which earlier writers dealt with the Arab-Islamic philosophical heritage.[^V1-68] We find many examples of it among them, just as we also find it frequently in the work of modern Orientalists and Arab researchers.
 
-□ There is another model of how earlier writers understood—or perhaps misunderstood—the heritage.
+There is another model of how earlier writers understood—or perhaps misunderstood—the heritage.
 
 A traditionalist current arose that wanted to cut even the thin thread the Ashʿarite school had left as a formal connection between the rational method of logic and philosophy on the one hand and the traditionalist method on the other.
 
@@ -1668,7 +1668,7 @@ Ibn al-Ṣalāḥ included this among his criticisms of al-Ghazālī in a statem
 
 Al-Ghazālī’s remarks about logic were one of these “important matters.”
 
-□ After Ibn al-Ṣalāḥ, the banner of this traditionalist current was taken up by “Shaykh al-Islām” Taqī al-Dīn Aḥmad ibn al-ʿAbbās, better known as Ibn Taymiyya (661–729 AH).
+After Ibn al-Ṣalāḥ, the banner of this traditionalist current was taken up by “Shaykh al-Islām” Taqī al-Dīn Aḥmad ibn al-ʿAbbās, better known as Ibn Taymiyya (661–729 AH).
 
 For scholars of the intellectual heritage, Ibn Taymiyya’s name is closely associated with the two-front struggle he fought.
 
@@ -1802,7 +1802,7 @@ In fact, many Muslim theologians and scholars of legal theory took a similar pos
 
 They feared the consequences that might follow for Islamic metaphysics if they accepted a theory of definition based on fixed essences. We saw this clearly in our discussion of Ibn Taymiyya’s position.
 
-□ After Ibn Taymiyya, two currents appeared among the traditionalists.
+After Ibn Taymiyya, two currents appeared among the traditionalists.
 
 One continued in his general direction.
 
@@ -2168,7 +2168,7 @@ Muʿtazilite *kalām* was this new form.[^V1-130]
 
 The same problem appears when modern scholars discuss the Arab-Islamic philosophical heritage. Even contemporary researchers still often use the same approach they use when explaining the origins of *kalām*.
 
-□ Philosophy in this heritage is described as “Islamic philosophy.”
+Philosophy in this heritage is described as “Islamic philosophy.”
 
 For many of these scholars, it is Islamic not in a historical sense—not because it arose within a society whose medieval history was closely tied to Islam and whose political and social system developed under the Islamic caliphate—but in a religious sense: Islamic doctrine and Islamic law.
 
@@ -2246,7 +2246,7 @@ One aim of this book is to challenge the “myth” that this heritage was essen
 
 It will also try to remove the surface appearance that has led people to imagine that the “philosophers of Islam,” or at least the major ones among them, accepted the idea that religion and philosophy share “one truth and one goal.”
 
-□ Ibrāhīm Madkūr also tried to move beyond both the traditionalist method and the Western Orientalist method toward what he called a “historical method.”
+Ibrāhīm Madkūr also tried to move beyond both the traditionalist method and the Western Orientalist method toward what he called a “historical method.”
 
 He noticed the weaknesses in existing studies of the heritage of “Islamic philosophy” and the mistaken assumptions on which many of those studies were based.
 
@@ -2378,7 +2378,7 @@ But the older traditionalist method still has a powerful influence, even in its 
 
 Let us therefore look at some other examples of approaches that continue to appear in new books and in widely read Arab journals.
 
-□ In one modern traditionalist work, we find a discussion of the relationship between Arab-Islamic culture and the other cultures it came into contact with and absorbed.
+In one modern traditionalist work, we find a discussion of the relationship between Arab-Islamic culture and the other cultures it came into contact with and absorbed.
 
 The relationship is described in the following way:
 
@@ -2466,7 +2466,7 @@ At their core, they are the result of ideas being absorbed and transformed from 
 
 Ultimately, they are the result of a complex, objective, dialectical process.
 
-□ On the relationship between religion and philosophy, another book appeared after Ghurāba’s. Its title, *The Story of the Conflict Between Religion and Philosophy*,[^V1-160] seems at first to promise a new view of that relationship.
+On the relationship between religion and philosophy, another book appeared after Ghurāba’s. Its title, *The Story of the Conflict Between Religion and Philosophy*,[^V1-160] seems at first to promise a new view of that relationship.
 
 One might expect it to reach the underlying basis of the long-running conflict between religion and philosophy.
 
@@ -2540,7 +2540,7 @@ Modern Arab writers impose this character on the philosophy from particular soci
 
 The effect is to turn attention away from the real conflict between faith-based knowledge and rational knowledge, and away from the materialist tendencies contained in many of the conclusions reached by the “philosophers of Islam.”
 
-□ The same starting point also lies behind the subjective or “ahistorical” explanations that modern traditionalists, and some other thinkers, give for the persecution of Muslim philosophers and philosophy.
+The same starting point also lies behind the subjective or “ahistorical” explanations that modern traditionalists, and some other thinkers, give for the persecution of Muslim philosophers and philosophy.
 
 For example, the author of *The Story of the Conflict Between Religion and Philosophy* also explains this persecution in terms of political and personal causes. The personal causes, he says, include “the envy scholars feel toward those among them who excel—that is, the philosophers; their resentment at seeing others become famous and widely known; their unease at the appearance of new ideas they are not used to; their attachment to old views they grew up with and came to believe were true (...) and, finally, the nature of religious belief itself. Faith often leads to dogmatism, and dogmatism cannot easily coexist with complete freedom of thought or with a willingness to accept whatever conclusions research and reflection may uncover.”[^V1-166]
 
@@ -2560,7 +2560,6 @@ Taha Hussein may have been trying to answer this common view of the persecution 
 
 Yet Taha Hussein began, in *On Pre-Islamic Poetry*, as a pioneer in studying the heritage through a historical method freed from traditionalism,[^V1-169] only to end up a prisoner of traditionalism in much of what he wrote later.
 
-□
 
 Despite the dominance of the “ahistorical” method and subjective interpretation in modern studies of our philosophical heritage, we can still find, here and there, signs of a genuinely scientific approach to history. A few examples are worth mentioning.
 
@@ -2650,7 +2649,6 @@ Observations of this kind are not unusual in Muhammad Uthman Najati’s presenta
 
 This is therefore one of the contemporary studies that tries to produce modern scientific knowledge about one part of our philosophical heritage without turning the supernatural ideas found in that heritage into doctrines to be preached in the present.
 
-□
 
 In recent years, however, another change has taken place.
 
@@ -2692,7 +2690,6 @@ We describe this as a real change because these statements appeared in an Arab j
 
 We therefore cannot treat them as the isolated personal opinion of a single writer. They should be understood as the expression of an intellectual current created by the conditions of this historical period—objective conditions connected across both the Arab world and the wider world.
 
-□
 
 On the other, progressive side, studies of different parts of the heritage have increasingly entered the ideological struggle directly.
 
@@ -2730,7 +2727,6 @@ The author answers that “a difference in the terms used to discuss a question 
 
 He supports his answer with many passages from recognized primary and secondary sources, along with examples from Arabic poetry dating back to the age of the Muʿtazila.[^V1-186] Together, they show that the meanings carried by the older terms are consistent with the meanings into which those terms later developed in our own age.
 
-□
 
 Among the writings that follow this new direction and have appeared in recent years, we can also mention a study of Ibn Rushd whose title describes him as “the most controversial figure” and as “a man of thought and action.”[^V1-187]
 
@@ -2774,7 +2770,6 @@ This study of Ibn Rushd by Salah Hazin, summarized here in a way that does not a
 
 It also contributes to dismantling the myth that Arab-Islamic philosophy was essentially a philosophy of “reconciliation.” The traditionalist method imposed this idea on Arab-Islamic philosophy without any real basis beyond ideological motives—motives that often remained hidden beneath the heritage studies of traditionalists and other representatives of contemporary bourgeois thought.
 
-□
 
 When discussing modern studies of the heritage that represent this new direction, we should not overlook the serious attempt made by Ahmad Abbas Salih in a series of articles published in the Egyptian magazine *al-Kātib* between 1964 and 1965, and later collected in a separate book under the title *The Struggle Between the Right and the Left in Islam*.
 
@@ -2824,7 +2819,6 @@ The study does, however, show some confusion in its use of several concepts.
 
 At one moment our civilization is called Arab; at another it is called Islamic. Ideology is sometimes separated from its class content. Conflicts between religious schools are often treated separately from class conflict. The individual is emptied of his social meaning, while collectivism is largely confined to one side alone—even though the opposing side is also collective in character and is not purely individual, as the study sometimes seems to suggest.
 
-□
 
 To conclude this critical survey of the positions taken by modern Arab researchers toward the intellectual heritage, we should finally consider the criticism that one of these researchers directs against the scientific historical method.
 
@@ -3479,7 +3473,7 @@ It is only natural that these philosophies should differ from one another, becau
 
 The same applies to Arab-Islamic philosophy. It too developed in relation to a particular social reality and particular historical conditions, which it expressed in its own distinctive way.
 
-□ There is another feature of Western research into Eastern philosophy and culture that we need to examine carefully before completing this discussion.
+There is another feature of Western research into Eastern philosophy and culture that we need to examine carefully before completing this discussion.
 
 By the middle of the twentieth century, Western bourgeois philosophy—and Western culture more generally—was facing a crisis. Some bourgeois philosophers and thinkers tried to overcome that crisis by turning toward the East. They hoped to find values in Eastern philosophy and culture that could help rescue bourgeois philosophy from its difficulties.
 
@@ -3551,7 +3545,7 @@ This trend concentrates on the most conservative and reactionary aspects of that
 
 Many Orientalists have even tried to reinterpret the philosophical systems of thinkers such as al-Fārābī, Ibn Sīnā, and Ibn Rushd in ways that remove their materialist dimensions. The result is to turn them into purely Sufi, Illuminationist, or religious systems.[^V1-224]
 
-□ We find one example in Carra de Vaux,[^V1-225] in his treatment of Sufi terminology in al-Fārābī’s writings.
+We find one example in Carra de Vaux,[^V1-225] in his treatment of Sufi terminology in al-Fārābī’s writings.
 
 Carra de Vaux tries to show that this terminology is a dominant feature of al-Fārābī’s philosophy. He then uses this supposed feature to pull these terms away from their rational philosophical content and to cast doubt on al-Fārābī’s place within the rationalist tradition.
 
@@ -3561,7 +3555,7 @@ Massignon followed a similar path by placing al-Kindī, al-Fārābī, Ibn Sīnā
 
 We find the same tendency in Gilson, who regards Ibn Sīnā as the founder of the theory of Illumination.[^V1-227] The Danish Orientalist Mehren also paid particular attention to Ibn Sīnā’s mystical writings, publishing and translating them.[^V1-228]
 
-□ This brings us to a problem that occupied an extraordinary number of pages in the writings of many of these Orientalists: the supposed Illuminationist mysticism of Ibn Sīnā.
+This brings us to a problem that occupied an extraordinary number of pages in the writings of many of these Orientalists: the supposed Illuminationist mysticism of Ibn Sīnā.
 
 The whole problem begins with a passing phrase at the start of Ibn Ṭufayl’s introduction to his famous philosophical story *Ḥayy ibn Yaqẓān*.
 
@@ -3597,7 +3591,7 @@ It was another expression of their ideological approach.
 
 Some of them therefore went beyond the question of the vowel itself. Even if the word were read with the **a** sound, meaning “Eastern,” they still tried to classify Ibn Sīnā’s unseen book as an Illuminationist or “spiritualist” work.[^V1-229]
 
-□ Western Orientalists’ strong attraction to the Sufi currents in our heritage brings us to another phenomenon. At first sight, it seems like one of the strangest contradictions in Orientalism.
+Western Orientalists’ strong attraction to the Sufi currents in our heritage brings us to another phenomenon. At first sight, it seems like one of the strangest contradictions in Orientalism.
 
 We have already seen an Orientalist tendency that puts a natural or racial barrier between Eastern and Western thought and builds whole theories to strengthen and defend that barrier—the theory of race and the theory of philosophical centrality.
 
@@ -3651,7 +3645,7 @@ Important Orientalist works have departed from them and approached the Eastern h
 
 Some of these more positive studies have even been based on a sound historical outlook or a scientific method. This trend includes both bourgeois Orientalists and Marxist Orientalists and researchers.
 
-□ Among the first group, one scholar especially worth mentioning is the French scholar Paul Masson-Oursel and his scientific historical study of ancient Eastern philosophy.
+Among the first group, one scholar especially worth mentioning is the French scholar Paul Masson-Oursel and his scientific historical study of ancient Eastern philosophy.
 
 His study stands out for its systematic method. The facts he presents challenge the very foundation on which the theory of philosophical centrality was built. His work begins from a sound theoretical understanding of the basic unity of human thought.
 
@@ -3669,7 +3663,7 @@ Throughout the book, we also find a sound understanding of the objective relatio
 
 Masson-Oursel also firmly rejects the “theory” that divides human beings into separate racial groups, arguing that “pure groups exist only in a few narrowly defined cases.”[^V1-234]
 
-□ Richard Walzer followed a similar method in an extensive study of Islamic philosophy.[^V1-235]
+Richard Walzer followed a similar method in an extensive study of Islamic philosophy.[^V1-235]
 
 He carefully identified both its external sources and its internal ones. He rejected two equally unhistorical positions: the claim that Islamic philosophy was a purely Arab creation, and the opposite claim that it was produced solely from Greek philosophical sources.
 
@@ -3699,9 +3693,9 @@ He also explains the differences between the “Arab philosophers”—whether a
 
 In doing so, he fails to take account of the wider conditions that made those differences necessary.
 
-□ Maurice De Wulf, despite his own commitment to neo-Thomism, took a positive view of Arab-Islamic philosophy on several points. He rejected the claim that it was simply a copy of Peripatetic philosophy, arguing that Arab philosophers developed an independent approach to the problem of existence.[^V1-243] Nor did he overlook the implication of the theory of emanation in the philosophy of al-Fārābī and Ibn Sīnā: that matter is eternal, rather than something newly created through emanation from the highest intellect.[^V1-244] De Wulf also recognized that al-Ghazālī rejected rational knowledge in favour of theology bound by religious doctrine. Yet al-Ghazālī still remained committed to philosophical ways of thinking, even as he made them serve the doctrines of faith.[^V1-245]
+Maurice De Wulf, despite his own commitment to neo-Thomism, took a positive view of Arab-Islamic philosophy on several points. He rejected the claim that it was simply a copy of Peripatetic philosophy, arguing that Arab philosophers developed an independent approach to the problem of existence.[^V1-243] Nor did he overlook the implication of the theory of emanation in the philosophy of al-Fārābī and Ibn Sīnā: that matter is eternal, rather than something newly created through emanation from the highest intellect.[^V1-244] De Wulf also recognized that al-Ghazālī rejected rational knowledge in favour of theology bound by religious doctrine. Yet al-Ghazālī still remained committed to philosophical ways of thinking, even as he made them serve the doctrines of faith.[^V1-245]
 
-□ The great Orientalist Hamilton A. Gibb was burdened by metaphysical prejudices about Western thought and the Arab mind. Even so, he sometimes approached Islamic history in more realistic terms. He observed, for example, that Islam took different forms in different times and places under the influence of local geographical, social and political conditions.[^V1-246] He was right to apply this idea when examining the distinctive features of the different regions where Islam existed as a social order, a culture and a religion.
+The great Orientalist Hamilton A. Gibb was burdened by metaphysical prejudices about Western thought and the Arab mind. Even so, he sometimes approached Islamic history in more realistic terms. He observed, for example, that Islam took different forms in different times and places under the influence of local geographical, social and political conditions.[^V1-246] He was right to apply this idea when examining the distinctive features of the different regions where Islam existed as a social order, a culture and a religion.
 
 When discussing Sufism, Gibb also tried to trace its links with ordinary people, especially rural communities and urban craftsmen. He was unable to see the class roots of this relationship, and so he could not recognize the revolutionary side of the Islamic Sufi movement. But his explanation at least pointed in that direction from a distance. He described Sufism as an attempt “to preserve the ideal unity of all Muslims.”[^V1-247]
 
@@ -3711,7 +3705,7 @@ When he discussed the development of subversive Sufi tendencies within organized
 
 These historical observations deserve attention even though we disagree with the intellectual and methodological assumptions behind them.
 
-□ When we turn to the more positive current within Orientalist scholarship and its attitude toward our philosophical heritage, the French scholar A. M. Goichon stands out. She was not only a scholar of philosophy in the Orientalist tradition, but also a highly capable philosophical researcher with a strong command of her subject. She read Arab-Islamic philosophical texts with great care and had an especially precise understanding of their terminology.
+When we turn to the more positive current within Orientalist scholarship and its attitude toward our philosophical heritage, the French scholar A. M. Goichon stands out. She was not only a scholar of philosophy in the Orientalist tradition, but also a highly capable philosophical researcher with a strong command of her subject. She read Arab-Islamic philosophical texts with great care and had an especially precise understanding of their terminology.
 
 She also avoided the position shared by the three earlier trends, all of which were in harmony with the ideological outlook of imperialism.
 
@@ -3741,7 +3735,7 @@ Goichon finally concludes that, for Ibn Sīnā, there is no reality apart from e
 
 After following Ibn Sīnā’s texts closely on the question of existence and essence, she concludes that his philosophy is internally consistent. “Ibn Sīnā’s great mind,” she writes, “placed itself at a point from which his work appears as a single coherent whole,” and that work is “very far from being merely a translation of Aristotelian theories into Arabic.”[^V1-257]
 
-□ Finally, it is fair to say that supporters of this positive trend are not a rare exception among Orientalists. But it would be difficult to review all of their positions here.
+Finally, it is fair to say that supporters of this positive trend are not a rare exception among Orientalists. But it would be difficult to review all of their positions here.
 
 ## - 15 -
 
@@ -3849,7 +3843,7 @@ Marx located this historical form “among the Indians, the Slavs, the ancient C
 
 This example, together with similar remarks Marx made on several occasions, later became widely associated with what was called the **Asiatic mode of production**.
 
-□ The letters exchanged between Marx and Engels about forms of property in Eastern societies cast further light on this question.
+The letters exchanged between Marx and Engels about forms of property in Eastern societies cast further light on this question.
 
 In one of these letters, Marx wrote to Engels[^V1-261] that he agreed with Bernier’s view that the key to understanding the phenomena of the East was the absence of private ownership of land.
 
@@ -3881,7 +3875,7 @@ Engels then added:
 
 Texts like these show that the founders of Marxism did not close the door of scientific inquiry to any historical experience. They were prepared to take new evidence into account when applying Marxist theories, based on the general objective laws of social development, to concrete historical conditions.
 
-□ Among later and contemporary Marxists—and especially Soviet Orientalists and researchers—there was no single agreed picture of social relations in the Arabian Peninsula during the fifth and sixth centuries CE and at the time Islam first appeared.
+Among later and contemporary Marxists—and especially Soviet Orientalists and researchers—there was no single agreed picture of social relations in the Arabian Peninsula during the fifth and sixth centuries CE and at the time Islam first appeared.
 
 We believe the main reason is that the historical evidence for this period of Arab history is not rich enough to allow modern researchers to reconstruct a complete and realistic picture of its actual economic and social relations.
 
@@ -3899,7 +3893,7 @@ Krachkovsky therefore believed that pre-Islamic poetry gives us a faithful pictu
 
 He rejected the various theories questioning whether this poetry genuinely belonged to the pre-Islamic period, because he did not believe there was decisive evidence for doubting its value as a historical source for the study of pre-Islamic Arabia.[^V1-267]
 
-□ Soviet historical studies contain several different views about the particular character of economic and social relations in the late pre-Islamic period.
+Soviet historical studies contain several different views about the particular character of economic and social relations in the late pre-Islamic period.
 
 The Soviet Orientalist Yevgeny Belyaev, author of *The Arabs, Islam and the Arab Caliphate*, discusses several of these theories.
 
@@ -3967,7 +3961,7 @@ Belyaev’s own position can be summarized as follows:
 
   Belyaev sees this as confirming the theory that “the first attempt to establish a state must involve destroying the tribal organization and breaking apart its structure.”[^V1-284]
 
-□ When we turn to the historical form of the mode of production and social relations under the medieval Arab-Islamic caliphate, the general tendency among Marxist researchers is to regard feudal relations as dominant.
+When we turn to the historical form of the mode of production and social relations under the medieval Arab-Islamic caliphate, the general tendency among Marxist researchers is to regard feudal relations as dominant.
 
 They disagree, however, about the specific historical form that this feudalism took.
 
@@ -4053,9 +4047,9 @@ One of the main reasons, in his view, was “the social and economic changes tha
 
 Even then, however, Belyaev believes that the final victory of these relations came only in the ninth century CE, when “the caliphate in Baghdad became a feudal state” and “the role of slaves in production declined.”[^V1-295]
 
-□ We also find another contemporary Marxist thinker who dealt with the Arab-Islamic philosophical heritage in a work on medieval philosophy. He argues that when Islam emerged, feudal relations of production finally replaced slave-based relations of production. At the same time, he says that the particular nature of this feudal system still needs detailed study from a Marxist point of view.[^V1-296]
+We also find another contemporary Marxist thinker who dealt with the Arab-Islamic philosophical heritage in a work on medieval philosophy. He argues that when Islam emerged, feudal relations of production finally replaced slave-based relations of production. At the same time, he says that the particular nature of this feudal system still needs detailed study from a Marxist point of view.[^V1-296]
 
-□ The first Marxist Orientalist studies of Arab-Islamic philosophy focused on the progressive role played by Islamic thinkers and philosophers in developing a culture that reflected the material and intellectual rise of the progressive class forces within Arab-Islamic society under the Abbasid Caliphate.
+The first Marxist Orientalist studies of Arab-Islamic philosophy focused on the progressive role played by Islamic thinkers and philosophers in developing a culture that reflected the material and intellectual rise of the progressive class forces within Arab-Islamic society under the Abbasid Caliphate.
 
 Among the leading scholars in this field were Yakubovsky; Sadriddin Ayni, the former president of the Academy of Sciences of Soviet Tajikistan; Ghafurov, director of the Institute of Oriental Studies in Moscow, formerly the Institute of Asia and Africa; Krachkovsky; Bartold;[^V1-297] Krymsky; and Grigoryev.
 
@@ -4071,7 +4065,7 @@ Several studies on different aspects of Ibn Sīnā’s philosophy were also publ
 
 Some earlier Soviet works also took a clear stand against Eurocentrism in philosophy. They supported, on the one hand, the idea that world philosophy forms a single whole and, on the other, the idea that different local philosophies have their own distinctive features, shaped by their particular national and historical conditions.[^V1-299]
 
-□ We can see the main direction of these Soviet studies in the following examples.
+We can see the main direction of these Soviet studies in the following examples.
 
 1
 
@@ -4151,7 +4145,7 @@ Ibn Sīnā drew a further conclusion. If Aristotle accepted that matter and form
 
 Ley argues that this conclusion makes Ibn Sīnā a materialist. The same tendency can also be seen in the way Ibn Sīnā deals with questions on which Aristotle himself moves toward idealism.
 
-□ These examples show the main direction taken by Marxist studies of Arab-Islamic philosophy. We find many similar examples among Marxist scholars and Orientalists elsewhere in Eastern Europe, as well as in Western Europe and other countries.
+These examples show the main direction taken by Marxist studies of Arab-Islamic philosophy. We find many similar examples among Marxist scholars and Orientalists elsewhere in Eastern Europe, as well as in Western Europe and other countries.
 
 Naturally, these scholars differ in their interpretations, perspectives, and methods. They also differ in how familiar they are with the original sources of Arab-Islamic philosophy, how well they understand the texts, and how deeply they can penetrate the traditional forms of expression used in them.
 
@@ -4719,7 +4713,7 @@ The clearest example was the growing connection between agriculture and trade. E
 
 We can therefore see agriculture and trade influencing each other. To make this picture clearer, we need to look at some of the historical evidence.
 
-□ **Trade:** Accounts of periods before the Jāhiliyya tell us about the flourishing trade route once known in Arabia as the “Perfume Route” or “Incense Route.” Perfumes, incense, and similar goods travelled along it between India, Yemen, and the Mediterranean lands.[^V1-348]
+**Trade:** Accounts of periods before the Jāhiliyya tell us about the flourishing trade route once known in Arabia as the “Perfume Route” or “Incense Route.” Perfumes, incense, and similar goods travelled along it between India, Yemen, and the Mediterranean lands.[^V1-348]
 
 This route had already flourished under the Minaeans and Sabaeans during the first millennium BCE. The two peoples competed for control over it, including the oases through which it passed in the north-west of the peninsula.[^V1-349]
 
@@ -4753,7 +4747,7 @@ Foreign traders also had a noticeable presence in Mecca, according to the Arabic
 
 We should also remember that Mecca’s religious position as the home of the Kaʿba gave the leaders of Quraysh another source of wealth and helped strengthen the city’s commercial importance.
 
-□ **Agriculture:** It is generally accepted that during the two centuries before the rise of Islam, Bedouins made up a larger share of Arabia’s population than settled people tied to the land.
+**Agriculture:** It is generally accepted that during the two centuries before the rise of Islam, Bedouins made up a larger share of Arabia’s population than settled people tied to the land.
 
 But this is only a broad impression. The historical sources from the period give us no statistical figures, even approximate ones. We therefore cannot use this general fact as a firm basis for a strict analysis of the social and economic structure of pre-Islamic society.
 
@@ -4783,7 +4777,7 @@ When it comes to trade, however, we have more historical evidence to work with. 
 
 By the end of the sixth century CE, these men had come to dominate trade between the Arabian Peninsula and the outside world. In doing so, they became an important force in pushing the relationship between productive work and commerce toward a growing contradiction, as we shall see.
 
-□ **Craft production:** Before drawing conclusions from what we have seen so far, we also need to ask what place handicrafts held in the economic structure of pre-Islamic society.
+**Craft production:** Before drawing conclusions from what we have seen so far, we also need to ask what place handicrafts held in the economic structure of pre-Islamic society.
 
 Where had crafts reached in the development of the economy—or, more precisely, in the development of the division of labour? And what was their relationship to commodity production during this period?
 
@@ -4851,7 +4845,7 @@ He writes that, at this later stage,
 
 > Arab crafts were not limited to pottery and weaving—fields in which they had reached a high level. They also worked with smelted metals. Iron was available in the territory of the Sulaym tribe, east of Medina, which became so well known for ironworking that its neighbours called it the tribe of the *qayns*, or blacksmiths. They were also known for smelting and refining iron (...) Farmers used a variety of iron tools, including iron ploughshares.[^V1-385]
 
-□ **Forms of slavery:** The surviving accounts of the Jāhiliyya agree that slavery was not foreign to this part of the ancient world.
+**Forms of slavery:** The surviving accounts of the Jāhiliyya agree that slavery was not foreign to this part of the ancient world.
 
 The forms of slavery we can see in the late Jāhiliyya suggest that the institution already had a long history in Arabia. But we do not have documents that tell us when it began or what forms it had taken in earlier periods.
 
@@ -4889,7 +4883,7 @@ But, as we have already noted, these forms of work were not carried out by slave
 
 In short, slavery in Arabia had its own particular form. Within each tribe, slaves were mostly foreigners, followed by people from other Arab tribes, while the members of the tribe itself remained free despite the differences in wealth and living conditions among them.[^V1-395]
 
-□ **The Bedouin economy:** We do not have enough precise historical evidence to measure the role of the Bedouin economy against the settled economy of agriculture, trade, and craft production. We have already noted this problem.
+**The Bedouin economy:** We do not have enough precise historical evidence to measure the role of the Bedouin economy against the settled economy of agriculture, trade, and craft production. We have already noted this problem.
 
 Even so, the evidence that survives allows us to form a general picture.
 
@@ -6457,7 +6451,7 @@ The first is the scientific position toward Cartesian doubt itself.
 
 The second is Taha Hussein’s own practical use of it.
 
-□ On the first point, scientific analysis rejects the philosophical propositions on which Descartes’s method of doubt is based. It does so for the following reasons:
+On the first point, scientific analysis rejects the philosophical propositions on which Descartes’s method of doubt is based. It does so for the following reasons:
 
 **1 —** At its foundation, the method rests on Descartes’s famous proposition: “I think, therefore I am.”
 
@@ -6509,7 +6503,7 @@ It begins, first, by treating that knowledge as an objective reality with a hist
 
 Second, it studies that knowledge as something whose development was objectively connected with the development of the material and social reality from which it arose and through which it changed.
 
-□ Now we come to the second side of the issue: Taha Hussein’s practical use of Cartesian “doubt” in his study of pre-Islamic literature.
+Now we come to the second side of the issue: Taha Hussein’s practical use of Cartesian “doubt” in his study of pre-Islamic literature.
 
 Here it seems clear to us that he takes the idea of “doubt” only in its formal sense, without adopting the philosophical theory of knowledge on which Descartes built it.
 
@@ -6559,7 +6553,7 @@ What he wants is something much more specific.
 
 He wants to produce a new, contemporary understanding of this historical reality, free from the traditionalist understanding of it and subject only to “the methods of sound scientific research.”
 
-□ Yet although Taha Hussein’s use of “doubt” in studying pre-Islamic literature has only a formal connection with the philosophical foundations of Cartesian doubt, we must still recognize the enormous positive role he played as a pioneer in the study of the Arab-Islamic intellectual heritage.
+Yet although Taha Hussein’s use of “doubt” in studying pre-Islamic literature has only a formal connection with the philosophical foundations of Cartesian doubt, we must still recognize the enormous positive role he played as a pioneer in the study of the Arab-Islamic intellectual heritage.
 
 His attempt to create a new, modern way of understanding this heritage was itself important.
 
