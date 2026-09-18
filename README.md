@@ -8,7 +8,7 @@ Static reading site for the TMoC book translations.
 
 The site has no build step or external runtime dependencies.
 
-Current library: **Heroes Without History**, **Right and Left in Islam**, **Sophia**, **Religion and Socialism**, **Patience and Victory**, **Glossarium**, and Husayn Muruwwa’s four-volume **Materialist Tendencies in Arab-Islamic Philosophy**.
+Current library: **Heroes Without History**, **Right and Left in Islam**, **Sophia**, **Religion and Socialism**, **Patience and Victory**, **Glossarium**, Hadi al-Alawi’s **Sufi Orbits**, and Husayn Muruwwa’s four-volume **Materialist Tendencies in Arab-Islamic Philosophy**.
 
 
 ## Materialist Tendencies
