@@ -52,7 +52,7 @@
   const wrap = document.createElement('div');
   wrap.className = 'font-size-mobile';
   const popoverId = 'mobile-font-size-popover';
-  wrap.innerHTML = `<button class="icon-btn font-size-mobile-toggle" type="button" aria-label="Font size" title="Font size" aria-expanded="false" aria-controls="${popoverId}">A</button><div class="font-size-popover" id="${popoverId}"><button class="font-size-label" type="button" aria-label="Decrease font size">A−</button><input type="range" min="${min}" max="${max}" step="1" aria-label="Font size"><button class="font-size-label" type="button" aria-label="Increase font size">A+</button></div>`;
+  wrap.innerHTML = `<button class="icon-btn font-size-mobile-toggle" type="button" aria-label="Font size" title="Font size" aria-expanded="false" aria-controls="${popoverId}">A</button><div class="font-size-popover" id="${popoverId}"><button class="font-size-label" type="button" aria-label="Decrease font size">A−</button><span class="font-size-range"><input type="range" min="${min}" max="${max}" step="1" aria-label="Font size"><span class="font-size-default-notch" aria-hidden="true"></span></span><button class="font-size-label" type="button" aria-label="Increase font size">A+</button></div>`;
   controls.insertBefore(wrap, controls.firstChild);
 
   const toggle = wrap.querySelector('.font-size-mobile-toggle');
