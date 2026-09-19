@@ -16,7 +16,6 @@ body{-webkit-font-smoothing:antialiased}a:focus-visible,button:focus-visible,inp
 /* Scroll feedback does not change layout dimensions on every frame. */
 #progress{width:100%;transform:scaleX(0);transform-origin:left center;will-change:transform}
 .book-section{overflow-wrap:break-word}.book-section img{max-width:100%;height:auto}
-.nav-link.active{box-shadow:inset 3px 0 var(--accent)}html[dir=rtl] .nav-link.active{box-shadow:inset -3px 0 var(--accent)}
 .nav-link:focus-visible{outline-offset:-2px}.volume-switch a{min-height:42px}.chapter-nav-toggle{min-width:40px;min-height:40px}
 .icon-btn:disabled{opacity:.45;cursor:default}.book-section :target{scroll-margin-top:80px}
 @media(max-width:600px){
