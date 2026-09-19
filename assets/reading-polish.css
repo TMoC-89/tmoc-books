@@ -38,3 +38,19 @@ mark.source-alignment{color:inherit;background:rgba(199,168,75,.22);box-decorati
 [data-theme="dark"] mark.source-alignment{background:rgba(218,185,84,.23)}
 .aligned-source-unit{display:flow-root}
 .review-source-edit .review-text{white-space:normal}
+
+/* Keep the mobile reader title visible while the controls stay grouped at the right. */
+.font-size-mobile{display:none;position:relative}
+.font-size-popover{display:none}
+@media(max-width:600px){
+ .topbar .brand{display:flex!important;flex:1 1 auto;min-width:0;overflow:hidden}
+ .topbar .brand strong,.topbar .volume-badge{display:none!important}
+ .topbar .brand .current{display:block!important;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+ .topbar .controls{flex:0 0 auto;min-width:0;justify-content:flex-end!important;gap:4px}
+ .topbar #font-down,.topbar #font-up{display:none}
+ .topbar .font-size-mobile{display:inline-flex;flex:0 0 auto}
+ .font-size-popover{position:fixed;top:70px;right:8px;z-index:95;width:min(230px,calc(100vw - 16px));align-items:center;gap:9px;padding:11px 12px;border:1px solid var(--line);border-radius:7px;background:var(--surface);box-shadow:var(--shadow);font:600 12px/1 var(--ui);color:var(--muted)}
+ .font-size-mobile.open .font-size-popover{display:flex}
+ .font-size-popover input[type="range"]{min-width:0;flex:1;accent-color:var(--accent)}
+ .font-size-popover .font-size-label{flex:0 0 auto;white-space:nowrap}
+}
