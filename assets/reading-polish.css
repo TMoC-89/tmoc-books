@@ -1,0 +1,41 @@
+/* Shared visual details; the book typography and reader engines stay local. */
+:root{--bg:#f5f2eb;--surface:#fcfaf5;--surface-2:#e9e5da;--text:#292921;--muted:#68685e;--line:#d8d5c9;--accent:#7c382f;--accent-soft:rgba(124,56,47,.08)}
+html[data-theme="dark"]{--bg:#191b18;--surface:#20231e;--surface-2:#2c3028;--text:#eeece2;--muted:#b0b3a5;--line:#3a3e34;--accent:#e6ab95;--accent-soft:rgba(230,171,149,.09)}
+body{-webkit-font-smoothing:antialiased}a:focus-visible,button:focus-visible,input:focus-visible{outline:2px solid var(--accent);outline-offset:3px}.cover h1{font-weight:400;line-height:1.06}.icon-btn{border-radius:5px}.scroll-cue{padding:13px 19px;border:1px solid var(--line);border-radius:4px;color:var(--accent)}.scroll-cue:hover{border-color:var(--accent);background:var(--accent-soft)}.nav-link{border-radius:4px}.sidebar{overscroll-behavior:contain}.sidebar-home{min-height:44px}
+/* This reader keeps its left navigation in both languages. */
+.reader-sufi .sidebar{inset-inline-start:auto;left:0;right:auto;border-inline-end:0;border-right:1px solid var(--line)}
+.reader-sufi[data-lang="ar"] .cover h1,.reader-sufi[data-lang="ar"] .cover h2{font-family:var(--arabic);letter-spacing:0;line-height:1.4}
+@media(max-width:900px){body:not(.nav-open):not(.menu-open) .sidebar{visibility:hidden}.sidebar{max-width:88vw}.topbar .brand{min-width:0}.topbar .brand strong{min-width:0;overflow:hidden;text-overflow:ellipsis}.reader-sufi .topbar .brand strong{display:none}.reader-sufi .topbar .brand .current{display:block;min-width:0}.reader-sufi .controls{flex-shrink:0}}
+@media(max-width:560px){.cover{padding-block:54px}.cover h1{font-size:clamp(36px,10.5vw,52px)}.cover h2{font-size:22px}.kicker{font-size:10px}.reader-sufi .icon-btn{min-width:36px;min-height:40px}.reader-sufi .topbar{gap:5px;padding-inline:8px}.reader-sufi .current{font-size:11px}}
+/* The four-volume landing page shares the collection's quieter card treatment. */
+.work-landing .shell{width:min(1160px,calc(100% - 96px))}.work-landing .top{padding-bottom:24px;border-bottom:1px solid var(--line)}.work-landing .hero{padding-top:64px}.work-landing h1{font-weight:400;line-height:1.04}.work-landing .volume{border-radius:3px;border-left:4px solid #526052;box-shadow:none}.work-landing .volume h3{font-weight:400}.work-landing .btn{border-radius:4px;min-height:44px}.work-landing .icon{border-radius:50%;height:40px;width:40px}
+@media(max-width:720px){.work-landing .shell{width:calc(100% - 36px)}.work-landing .hero{padding:42px 0}.work-landing h1{font-size:clamp(39px,10vw,64px)}.work-landing .section-head{align-items:start;flex-direction:column;gap:10px}.work-landing .volume{min-height:260px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{transition:none!important}}
+@media print{.scroll-cue{display:none!important}body{background:#fff;color:#000}}
+
+/* Scroll feedback does not change layout dimensions on every frame. */
+#progress{width:100%;transform:scaleX(0);transform-origin:left center;will-change:transform}
+.book-section{overflow-wrap:break-word}.book-section img{max-width:100%;height:auto}
+.nav-link.active{box-shadow:inset 3px 0 var(--accent)}html[dir=rtl] .nav-link.active{box-shadow:inset -3px 0 var(--accent)}
+.nav-link:focus-visible{outline-offset:-2px}.volume-switch a{min-height:42px}.chapter-nav-toggle{min-width:40px;min-height:40px}
+.icon-btn:disabled{opacity:.45;cursor:default}.book-section :target{scroll-margin-top:80px}
+@media(max-width:600px){
+ .topbar .icon-btn,.topbar .review-count{min-width:40px;min-height:42px;height:42px;padding-inline:6px}
+ .topbar .controls{gap:4px}.topbar{gap:6px;padding-inline:8px}
+ .book-section{width:calc(100% - 40px)}.book-section p{hyphens:manual}
+ .cover{min-height:min(640px,calc(100svh - 62px))}
+}
+@media(max-width:480px){
+ .topbar .brand{display:none}.topbar .controls{flex:1 1 auto;min-width:0;justify-content:space-between}
+ body.review-mode .topbar .controls{gap:4px}
+ body.review-mode .topbar .icon-btn,body.review-mode .topbar .review-count{min-width:40px;height:42px;padding-inline:6px}
+}
+.library-search-link,.search-return{display:flex;align-items:center;justify-content:space-between;min-height:44px;margin:0 8px 14px;color:var(--accent);font:12px/1.4 var(--ui);text-decoration:none}.library-search-link:hover,.search-return:hover{text-decoration:underline;text-underline-offset:4px}.search-return{padding-bottom:12px;border-bottom:1px solid var(--line)}.search-destination{outline:2px solid color-mix(in srgb,var(--accent) 45%,transparent);outline-offset:7px;background:var(--accent-soft);border-radius:2px}.search-destination:focus{outline:2px solid var(--accent)}
+
+/* Reviewer highlights distinguish a likely span from its surrounding context. */
+.source-alignment-label{display:block;margin:0 0 12px;color:var(--muted);font:500 10px/1.5 var(--ui);letter-spacing:.07em;text-align:start;text-transform:uppercase}
+.source-alignment-label::before{content:'';display:inline-block;width:7px;height:7px;margin-inline-end:7px;border-radius:50%;background:#b89545}
+mark.source-alignment{color:inherit;background:rgba(199,168,75,.22);box-decoration-break:clone;-webkit-box-decoration-break:clone;border-radius:2px}
+[data-theme="dark"] mark.source-alignment{background:rgba(218,185,84,.23)}
+.aligned-source-unit{display:flow-root}
+.review-source-edit .review-text{white-space:normal}

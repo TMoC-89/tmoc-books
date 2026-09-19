@@ -1,0 +1,13 @@
+/* Native cross-document fades keep navigation, history and downloads native. */
+@view-transition { navigation: auto; }
+::view-transition-old(root) { animation: library-page-out 130ms ease-out both; }
+::view-transition-new(root) { animation: library-page-in 180ms ease-out both; }
+@keyframes library-page-out { to { opacity: 0; } }
+@keyframes library-page-in { from { opacity: 0; } to { opacity: 1; } }
+@supports not (view-transition-name: none) {
+  body { animation: library-page-in 180ms ease-out both; }
+}
+@media (prefers-reduced-motion: reduce) {
+  @view-transition { navigation: none; }
+  body, ::view-transition-old(root), ::view-transition-new(root) { animation: none !important; }
+}
