@@ -52,10 +52,12 @@
   const wrap = document.createElement('div');
   wrap.className = 'font-size-mobile';
   const popoverId = 'mobile-font-size-popover';
-  wrap.innerHTML = `<button class="icon-btn font-size-mobile-toggle" type="button" aria-label="Font size" title="Font size" aria-expanded="false" aria-controls="${popoverId}">A</button><div class="font-size-popover" id="${popoverId}"><span class="font-size-label" aria-hidden="true">A−</span><input type="range" min="${min}" max="${max}" step="1" aria-label="Font size"><span class="font-size-label" aria-hidden="true">A+</span></div>`;
+  wrap.innerHTML = `<button class="icon-btn font-size-mobile-toggle" type="button" aria-label="Font size" title="Font size" aria-expanded="false" aria-controls="${popoverId}">A</button><div class="font-size-popover" id="${popoverId}"><button class="font-size-label" type="button" aria-label="Decrease font size">A−</button><input type="range" min="${min}" max="${max}" step="1" aria-label="Font size"><button class="font-size-label" type="button" aria-label="Increase font size">A+</button></div>`;
   controls.insertBefore(wrap, controls.firstChild);
 
   const toggle = wrap.querySelector('.font-size-mobile-toggle');
+  const minus = wrap.querySelector('.font-size-label:first-of-type');
+  const plus = wrap.querySelector('.font-size-label:last-of-type');
   const slider = wrap.querySelector('input[type="range"]');
   const sync = () => { slider.value = String(getSize()); };
   const close = () => {
@@ -64,6 +66,9 @@
   };
 
   sync();
+  // Keep slider/button interaction inside the popover so the outside-click
+  // handler only closes it when the user clicks or taps elsewhere.
+  wrap.addEventListener('click', event => event.stopPropagation());
   toggle.addEventListener('click', event => {
     event.stopPropagation();
     const open = !wrap.classList.contains('open');
@@ -74,14 +79,22 @@
       slider.focus();
     }
   });
+  minus.addEventListener('click', () => down.click());
+  plus.addEventListener('click', () => up.click());
   slider.addEventListener('input', () => {
     const target = Number(slider.value);
     let current = getSize();
     while (current < target) { up.click(); current += 1; }
     while (current > target) { down.click(); current -= 1; }
   });
-  down.addEventListener('click', () => requestAnimationFrame(sync));
-  up.addEventListener('click', () => requestAnimationFrame(sync));
+  down.addEventListener('click', event => {
+    event.stopPropagation();
+    requestAnimationFrame(sync);
+  });
+  up.addEventListener('click', event => {
+    event.stopPropagation();
+    requestAnimationFrame(sync);
+  });
   document.addEventListener('click', event => {
     if (!wrap.contains(event.target)) close();
   });
