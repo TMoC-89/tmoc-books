@@ -1,0 +1,214 @@
+{
+ "searchId": 6,
+ "slug": "materialist-tendencies-volume-1",
+ "path": "materialist-tendencies/volume-1",
+ "pageTitle": "Materialist Tendencies — Volume I",
+ "description": "Materialist Tendencies in Arab-Islamic Philosophy — Volume I, by Husayn Muruwwa. Free English translation and Arabic transcription.",
+ "languages": [
+  "en",
+  "ar"
+ ],
+ "langKey": "minimal-library-lang-materialist-tendencies",
+ "title": {
+  "en": "Materialist Tendencies in Arab-Islamic Philosophy",
+  "ar": "النزعات المادية في الفلسفة العربية - الإسلامية"
+ },
+ "subtitle": {
+  "en": "Pre-Islamic Arabia — The Rise and Early Period of Islam",
+  "ar": "الجاهلية - نشأة وصدر الإسلام"
+ },
+ "author": {
+  "en": "Husayn Muruwwa",
+  "ar": "حسين مروة"
+ },
+ "edition": {
+  "en": "Volume I of IV · Bilingual edition",
+  "ar": "المجلد 1 من 4 · طبعة ثنائية اللغة"
+ },
+ "downloads": {
+  "en": "Volume I - English.md",
+  "ar": "Volume I - Arabic.md"
+ },
+ "home": {
+  "href": "../",
+  "label": "All four volumes"
+ },
+ "series": {
+  "work": "materialist-tendencies",
+  "volume": 1
+ },
+ "review": {
+  "slug": "materialist-tendencies-volume-1",
+  "title": "Materialist Tendencies in Arab-Islamic Philosophy — Volume I",
+  "sourceLanguage": "ar",
+  "version": "e7ec7b7c3756bb3a",
+  "englishMarkdown": "Volume I - English.md",
+  "sourceMarkdown": "Volume I - Arabic.md"
+ },
+ "nav": {
+  "en": [
+   {
+    "id": "en-s01",
+    "title": "Publisher’s Preface",
+    "level": 1
+   },
+   {
+    "id": "en-s02",
+    "title": "Introduction",
+    "level": 1
+   },
+   {
+    "id": "en-s03",
+    "title": "Before Philosophical Thought Emerged",
+    "level": 1
+   },
+   {
+    "id": "en-s04",
+    "title": "Chapter One",
+    "level": 1
+   },
+   {
+    "id": "en-s05",
+    "title": "Pre-Islamic Arabia",
+    "level": 2
+   },
+   {
+    "id": "en-s06",
+    "title": "Conclusions of Chapter One",
+    "level": 2
+   },
+   {
+    "id": "en-s07",
+    "title": "Chapter Two",
+    "level": 1
+   },
+   {
+    "id": "en-s08",
+    "title": "The Period of the Rise of Islam",
+    "level": 2
+   },
+   {
+    "id": "en-s09",
+    "title": "Conclusions of Chapter Two",
+    "level": 2
+   },
+   {
+    "id": "en-s10",
+    "title": "Chapter Three",
+    "level": 1
+   },
+   {
+    "id": "en-s11",
+    "title": "The Era of the Rightly Guided Caliphs",
+    "level": 2
+   },
+   {
+    "id": "en-s12",
+    "title": "Summary of Chapter Three",
+    "level": 2
+   },
+   {
+    "id": "en-s13",
+    "title": "General Review",
+    "level": 1
+   },
+   {
+    "id": "en-s14",
+    "title": "Sources and References",
+    "level": 1
+   },
+   {
+    "id": "en-s15",
+    "title": "General Indexes",
+    "level": 1
+   },
+   {
+    "id": "en-s16",
+    "title": "Footnotes",
+    "level": 1
+   }
+  ],
+  "ar": [
+   {
+    "id": "ar-s01",
+    "title": "تقديم",
+    "level": 1
+   },
+   {
+    "id": "ar-s02",
+    "title": "مقدمة",
+    "level": 1
+   },
+   {
+    "id": "ar-s03",
+    "title": "ما قبل نشوء النظر الفلسفي",
+    "level": 1
+   },
+   {
+    "id": "ar-s04",
+    "title": "الفصل الأول",
+    "level": 1
+   },
+   {
+    "id": "ar-s05",
+    "title": "في الجاهلية",
+    "level": 2
+   },
+   {
+    "id": "ar-s06",
+    "title": "حصيلة الفصل الأول",
+    "level": 2
+   },
+   {
+    "id": "ar-s07",
+    "title": "الفصل الثاني",
+    "level": 1
+   },
+   {
+    "id": "ar-s08",
+    "title": "عهد ظهور الإسلام",
+    "level": 2
+   },
+   {
+    "id": "ar-s09",
+    "title": "حصيلة الفصل الثاني",
+    "level": 2
+   },
+   {
+    "id": "ar-s10",
+    "title": "الفصل الثالث",
+    "level": 1
+   },
+   {
+    "id": "ar-s11",
+    "title": "عهد الخلفاء الراشدين",
+    "level": 2
+   },
+   {
+    "id": "ar-s12",
+    "title": "حصيلة الفصل الثالث",
+    "level": 2
+   },
+   {
+    "id": "ar-s13",
+    "title": "مراجعة عامة",
+    "level": 1
+   },
+   {
+    "id": "ar-s14",
+    "title": "المصادر والمراجع",
+    "level": 1
+   },
+   {
+    "id": "ar-s15",
+    "title": "الفهارس العامة",
+    "level": 1
+   },
+   {
+    "id": "ar-s16",
+    "title": "الهوامش",
+    "level": 1
+   }
+  ]
+ }
+}

@@ -1,0 +1,956 @@
+{
+ "searchId": 5,
+ "slug": "glossarium",
+ "path": "glossarium",
+ "pageTitle": "Glossarium",
+ "description": "Glossarium — Notes from the Years 1947 to 1958 by Carl Schmitt",
+ "languages": [
+  "en"
+ ],
+ "langKey": "minimal-library-lang-glossarium",
+ "kicker": {
+  "en": "Translated from the German"
+ },
+ "title": {
+  "en": "Glossarium"
+ },
+ "subtitle": {
+  "en": "Notes from the Years 1947 to 1958"
+ },
+ "author": {
+  "en": "Carl Schmitt"
+ },
+ "edition": {
+  "en": "Expanded, corrected, and annotated edition · Duncker & Humblot, 2015"
+ },
+ "downloads": {
+  "en": "Glossarium - English.md"
+ },
+ "home": {
+  "href": "../",
+  "label": "Library"
+ },
+ "review": {
+  "slug": "glossarium",
+  "title": "Glossarium",
+  "sourceLanguage": "de",
+  "sourceLabel": "German original",
+  "sourceLang": "de",
+  "sourceDir": "ltr",
+  "version": "305c0f20795e7b05",
+  "englishMarkdown": "Glossarium - English.md",
+  "sourceMarkdown": null
+ },
+ "sourceStore": {
+  "lang": "de",
+  "file": "source-de.html"
+ },
+ "journalNav": true,
+ "nav": {
+  "en": [
+   {
+    "id": "gloss-front-matter",
+    "title": "Front Matter",
+    "level": 1
+   },
+   {
+    "id": "gloss-contents",
+    "title": "Contents",
+    "level": 1
+   },
+   {
+    "id": "gloss-introduction",
+    "title": "Introduction",
+    "level": 1
+   },
+   {
+    "id": "gloss-works-cited",
+    "title": "Works Cited",
+    "level": 1
+   },
+   {
+    "id": "gloss-book-i",
+    "title": "Book I · 1947",
+    "level": 1
+   },
+   {
+    "id": "gloss-book-i-date-1947-08",
+    "title": "1947",
+    "level": 2
+   },
+   {
+    "id": "gloss-book-i-date-1947-08",
+    "title": "August 1947",
+    "level": 3,
+    "label": "August"
+   },
+   {
+    "id": "gloss-book-i-date-1947-09",
+    "title": "September 1947",
+    "level": 3,
+    "label": "September"
+   },
+   {
+    "id": "gloss-book-i-date-1947-10",
+    "title": "October 1947",
+    "level": 3,
+    "label": "October"
+   },
+   {
+    "id": "gloss-book-i-date-1947-11",
+    "title": "November 1947",
+    "level": 3,
+    "label": "November"
+   },
+   {
+    "id": "gloss-book-i-date-1947-12",
+    "title": "December 1947",
+    "level": 3,
+    "label": "December"
+   },
+   {
+    "id": "gloss-book-ii",
+    "title": "Book II · 1948–1949",
+    "level": 1
+   },
+   {
+    "id": "gloss-book-ii-date-1948-01",
+    "title": "1948",
+    "level": 2
+   },
+   {
+    "id": "gloss-book-ii-date-1948-01",
+    "title": "January 1948",
+    "level": 3,
+    "label": "January"
+   },
+   {
+    "id": "gloss-book-ii-date-1948-02",
+    "title": "February 1948",
+    "level": 3,
+    "label": "February"
+   },
+   {
+    "id": "gloss-book-ii-date-1948-03",
+    "title": "March 1948",
+    "level": 3,
+    "label": "March"
+   },
+   {
+    "id": "gloss-book-ii-date-1948-04",
+    "title": "April 1948",
+    "level": 3,
+    "label": "April"
+   },
+   {
+    "id": "gloss-book-ii-date-1948-05",
+    "title": "May 1948",
+    "level": 3,
+    "label": "May"
+   },
+   {
+    "id": "gloss-book-ii-date-1948-06",
+    "title": "June 1948",
+    "level": 3,
+    "label": "June"
+   },
+   {
+    "id": "gloss-book-ii-date-1948-07",
+    "title": "July 1948",
+    "level": 3,
+    "label": "July"
+   },
+   {
+    "id": "gloss-book-ii-date-1948-08",
+    "title": "August 1948",
+    "level": 3,
+    "label": "August"
+   },
+   {
+    "id": "gloss-book-ii-date-1948-09",
+    "title": "September 1948",
+    "level": 3,
+    "label": "September"
+   },
+   {
+    "id": "gloss-book-ii-date-1948-10",
+    "title": "October 1948",
+    "level": 3,
+    "label": "October"
+   },
+   {
+    "id": "gloss-book-ii-date-1948-11",
+    "title": "November 1948",
+    "level": 3,
+    "label": "November"
+   },
+   {
+    "id": "gloss-book-ii-date-1948-12",
+    "title": "December 1948",
+    "level": 3,
+    "label": "December"
+   },
+   {
+    "id": "gloss-book-ii-date-1949-01",
+    "title": "1949",
+    "level": 2
+   },
+   {
+    "id": "gloss-book-ii-date-1949-01",
+    "title": "January 1949",
+    "level": 3,
+    "label": "January"
+   },
+   {
+    "id": "gloss-book-ii-date-1949-02",
+    "title": "February 1949",
+    "level": 3,
+    "label": "February"
+   },
+   {
+    "id": "gloss-book-ii-date-1949-03",
+    "title": "March 1949",
+    "level": 3,
+    "label": "March"
+   },
+   {
+    "id": "gloss-book-ii-date-1949-04",
+    "title": "April 1949",
+    "level": 3,
+    "label": "April"
+   },
+   {
+    "id": "gloss-book-ii-date-1949-05",
+    "title": "May 1949",
+    "level": 3,
+    "label": "May"
+   },
+   {
+    "id": "gloss-book-iii",
+    "title": "Book III · 1949–1951",
+    "level": 1
+   },
+   {
+    "id": "gloss-book-iii-date-1949-06",
+    "title": "1949",
+    "level": 2
+   },
+   {
+    "id": "gloss-book-iii-date-1949-06",
+    "title": "June 1949",
+    "level": 3,
+    "label": "June"
+   },
+   {
+    "id": "gloss-book-iii-date-1949-07",
+    "title": "July 1949",
+    "level": 3,
+    "label": "July"
+   },
+   {
+    "id": "gloss-book-iii-date-1949-08",
+    "title": "August 1949",
+    "level": 3,
+    "label": "August"
+   },
+   {
+    "id": "gloss-book-iii-date-1949-09",
+    "title": "September 1949",
+    "level": 3,
+    "label": "September"
+   },
+   {
+    "id": "gloss-book-iii-date-1949-10",
+    "title": "October 1949",
+    "level": 3,
+    "label": "October"
+   },
+   {
+    "id": "gloss-book-iii-date-1949-11",
+    "title": "November 1949",
+    "level": 3,
+    "label": "November"
+   },
+   {
+    "id": "gloss-book-iii-date-1949-12",
+    "title": "December 1949",
+    "level": 3,
+    "label": "December"
+   },
+   {
+    "id": "gloss-book-iii-date-1950-01",
+    "title": "1950",
+    "level": 2
+   },
+   {
+    "id": "gloss-book-iii-date-1950-01",
+    "title": "January 1950",
+    "level": 3,
+    "label": "January"
+   },
+   {
+    "id": "gloss-book-iii-date-1950-02",
+    "title": "February 1950",
+    "level": 3,
+    "label": "February"
+   },
+   {
+    "id": "gloss-book-iii-date-1950-03",
+    "title": "March 1950",
+    "level": 3,
+    "label": "March"
+   },
+   {
+    "id": "gloss-book-iii-date-1950-04",
+    "title": "April 1950",
+    "level": 3,
+    "label": "April"
+   },
+   {
+    "id": "gloss-book-iii-date-1950-05",
+    "title": "May 1950",
+    "level": 3,
+    "label": "May"
+   },
+   {
+    "id": "gloss-book-iii-date-1950-06",
+    "title": "June 1950",
+    "level": 3,
+    "label": "June"
+   },
+   {
+    "id": "gloss-book-iii-date-1950-07",
+    "title": "July 1950",
+    "level": 3,
+    "label": "July"
+   },
+   {
+    "id": "gloss-book-iii-date-1950-08",
+    "title": "August 1950",
+    "level": 3,
+    "label": "August"
+   },
+   {
+    "id": "gloss-book-iii-date-1950-09",
+    "title": "September 1950",
+    "level": 3,
+    "label": "September"
+   },
+   {
+    "id": "gloss-book-iii-date-1950-10",
+    "title": "October 1950",
+    "level": 3,
+    "label": "October"
+   },
+   {
+    "id": "gloss-book-iii-date-1950-11",
+    "title": "November 1950",
+    "level": 3,
+    "label": "November"
+   },
+   {
+    "id": "gloss-book-iii-date-1951-02",
+    "title": "1951",
+    "level": 2
+   },
+   {
+    "id": "gloss-book-iii-date-1951-02",
+    "title": "February 1951",
+    "level": 3,
+    "label": "February"
+   },
+   {
+    "id": "gloss-book-iii-date-1951-03",
+    "title": "March 1951",
+    "level": 3,
+    "label": "March"
+   },
+   {
+    "id": "gloss-book-iii-date-1951-04",
+    "title": "April 1951",
+    "level": 3,
+    "label": "April"
+   },
+   {
+    "id": "gloss-book-iii-date-1951-06",
+    "title": "June 1951",
+    "level": 3,
+    "label": "June"
+   },
+   {
+    "id": "gloss-book-iii-date-1951-07",
+    "title": "July 1951",
+    "level": 3,
+    "label": "July"
+   },
+   {
+    "id": "gloss-book-iii-date-1951-08",
+    "title": "August 1951",
+    "level": 3,
+    "label": "August"
+   },
+   {
+    "id": "gloss-book-iv",
+    "title": "Book IV · 1951–1955",
+    "level": 1
+   },
+   {
+    "id": "gloss-book-iv-date-1951-08",
+    "title": "1951",
+    "level": 2
+   },
+   {
+    "id": "gloss-book-iv-date-1951-08",
+    "title": "August 1951",
+    "level": 3,
+    "label": "August"
+   },
+   {
+    "id": "gloss-book-iv-date-1951-09",
+    "title": "September 1951",
+    "level": 3,
+    "label": "September"
+   },
+   {
+    "id": "gloss-book-iv-date-1951-10",
+    "title": "October 1951",
+    "level": 3,
+    "label": "October"
+   },
+   {
+    "id": "gloss-book-iv-date-1951-11",
+    "title": "November 1951",
+    "level": 3,
+    "label": "November"
+   },
+   {
+    "id": "gloss-book-iv-date-1951-12",
+    "title": "December 1951",
+    "level": 3,
+    "label": "December"
+   },
+   {
+    "id": "gloss-book-iv-date-1952-01",
+    "title": "1952",
+    "level": 2
+   },
+   {
+    "id": "gloss-book-iv-date-1952-01",
+    "title": "January 1952",
+    "level": 3,
+    "label": "January"
+   },
+   {
+    "id": "gloss-book-iv-date-1952-02",
+    "title": "February 1952",
+    "level": 3,
+    "label": "February"
+   },
+   {
+    "id": "gloss-book-iv-date-1952-03",
+    "title": "March 1952",
+    "level": 3,
+    "label": "March"
+   },
+   {
+    "id": "gloss-book-iv-date-1952-04",
+    "title": "April 1952",
+    "level": 3,
+    "label": "April"
+   },
+   {
+    "id": "gloss-book-iv-date-1952-05",
+    "title": "May 1952",
+    "level": 3,
+    "label": "May"
+   },
+   {
+    "id": "gloss-book-iv-date-1952-06",
+    "title": "June 1952",
+    "level": 3,
+    "label": "June"
+   },
+   {
+    "id": "gloss-book-iv-date-1952-07",
+    "title": "July 1952",
+    "level": 3,
+    "label": "July"
+   },
+   {
+    "id": "gloss-book-iv-date-1952-08",
+    "title": "August 1952",
+    "level": 3,
+    "label": "August"
+   },
+   {
+    "id": "gloss-book-iv-date-1952-09",
+    "title": "September 1952",
+    "level": 3,
+    "label": "September"
+   },
+   {
+    "id": "gloss-book-iv-date-1952-10",
+    "title": "October 1952",
+    "level": 3,
+    "label": "October"
+   },
+   {
+    "id": "gloss-book-iv-date-1952-11",
+    "title": "November 1952",
+    "level": 3,
+    "label": "November"
+   },
+   {
+    "id": "gloss-book-iv-date-1952-12",
+    "title": "December 1952",
+    "level": 3,
+    "label": "December"
+   },
+   {
+    "id": "gloss-book-iv-date-1953-01",
+    "title": "1953",
+    "level": 2
+   },
+   {
+    "id": "gloss-book-iv-date-1953-01",
+    "title": "January 1953",
+    "level": 3,
+    "label": "January"
+   },
+   {
+    "id": "gloss-book-iv-date-1953-02",
+    "title": "February 1953",
+    "level": 3,
+    "label": "February"
+   },
+   {
+    "id": "gloss-book-iv-date-1953-03",
+    "title": "March 1953",
+    "level": 3,
+    "label": "March"
+   },
+   {
+    "id": "gloss-book-iv-date-1953-04",
+    "title": "April 1953",
+    "level": 3,
+    "label": "April"
+   },
+   {
+    "id": "gloss-book-iv-date-1953-05",
+    "title": "May 1953",
+    "level": 3,
+    "label": "May"
+   },
+   {
+    "id": "gloss-book-iv-date-1953-06",
+    "title": "June 1953",
+    "level": 3,
+    "label": "June"
+   },
+   {
+    "id": "gloss-book-iv-date-1953-07",
+    "title": "July 1953",
+    "level": 3,
+    "label": "July"
+   },
+   {
+    "id": "gloss-book-iv-date-1953-08",
+    "title": "August 1953",
+    "level": 3,
+    "label": "August"
+   },
+   {
+    "id": "gloss-book-iv-date-1953-09",
+    "title": "September 1953",
+    "level": 3,
+    "label": "September"
+   },
+   {
+    "id": "gloss-book-iv-date-1953-10",
+    "title": "October 1953",
+    "level": 3,
+    "label": "October"
+   },
+   {
+    "id": "gloss-book-iv-date-1953-12",
+    "title": "December 1953",
+    "level": 3,
+    "label": "December"
+   },
+   {
+    "id": "gloss-book-iv-date-1954-03",
+    "title": "1954",
+    "level": 2
+   },
+   {
+    "id": "gloss-book-iv-date-1954-03",
+    "title": "March 1954",
+    "level": 3,
+    "label": "March"
+   },
+   {
+    "id": "gloss-book-iv-date-1954-06",
+    "title": "June 1954",
+    "level": 3,
+    "label": "June"
+   },
+   {
+    "id": "gloss-book-iv-date-1954-07",
+    "title": "July 1954",
+    "level": 3,
+    "label": "July"
+   },
+   {
+    "id": "gloss-book-iv-date-1954-08",
+    "title": "August 1954",
+    "level": 3,
+    "label": "August"
+   },
+   {
+    "id": "gloss-book-iv-date-1954-09",
+    "title": "September 1954",
+    "level": 3,
+    "label": "September"
+   },
+   {
+    "id": "gloss-book-iv-date-1954-11",
+    "title": "November 1954",
+    "level": 3,
+    "label": "November"
+   },
+   {
+    "id": "gloss-book-iv-date-1954-12",
+    "title": "December 1954",
+    "level": 3,
+    "label": "December"
+   },
+   {
+    "id": "gloss-book-iv-date-1955-01",
+    "title": "1955",
+    "level": 2
+   },
+   {
+    "id": "gloss-book-iv-date-1955-01",
+    "title": "January 1955",
+    "level": 3,
+    "label": "January"
+   },
+   {
+    "id": "gloss-book-iv-date-1955-02",
+    "title": "February 1955",
+    "level": 3,
+    "label": "February"
+   },
+   {
+    "id": "gloss-book-iv-date-1955-03",
+    "title": "March 1955",
+    "level": 3,
+    "label": "March"
+   },
+   {
+    "id": "gloss-book-iv-date-1955-04",
+    "title": "April 1955",
+    "level": 3,
+    "label": "April"
+   },
+   {
+    "id": "gloss-book-iv-date-1955-05",
+    "title": "May 1955",
+    "level": 3,
+    "label": "May"
+   },
+   {
+    "id": "gloss-book-iv-date-1955-06",
+    "title": "June 1955",
+    "level": 3,
+    "label": "June"
+   },
+   {
+    "id": "gloss-book-iv-date-1955-07",
+    "title": "July 1955",
+    "level": 3,
+    "label": "July"
+   },
+   {
+    "id": "gloss-book-iv-date-1955-08",
+    "title": "August 1955",
+    "level": 3,
+    "label": "August"
+   },
+   {
+    "id": "gloss-book-iv-date-1955-09",
+    "title": "September 1955",
+    "level": 3,
+    "label": "September"
+   },
+   {
+    "id": "gloss-book-iv-date-1955-10",
+    "title": "October 1955",
+    "level": 3,
+    "label": "October"
+   },
+   {
+    "id": "gloss-book-v",
+    "title": "Book V · 1955–1958",
+    "level": 1
+   },
+   {
+    "id": "gloss-book-v-date-1955-10",
+    "title": "1955",
+    "level": 2
+   },
+   {
+    "id": "gloss-book-v-date-1955-10",
+    "title": "October 1955",
+    "level": 3,
+    "label": "October"
+   },
+   {
+    "id": "gloss-book-v-date-1955-11",
+    "title": "November 1955",
+    "level": 3,
+    "label": "November"
+   },
+   {
+    "id": "gloss-book-v-date-1955-12",
+    "title": "December 1955",
+    "level": 3,
+    "label": "December"
+   },
+   {
+    "id": "gloss-book-v-date-1956-01",
+    "title": "1956",
+    "level": 2
+   },
+   {
+    "id": "gloss-book-v-date-1956-01",
+    "title": "January 1956",
+    "level": 3,
+    "label": "January"
+   },
+   {
+    "id": "gloss-book-v-date-1956-02",
+    "title": "February 1956",
+    "level": 3,
+    "label": "February"
+   },
+   {
+    "id": "gloss-book-v-date-1956-03",
+    "title": "March 1956",
+    "level": 3,
+    "label": "March"
+   },
+   {
+    "id": "gloss-book-v-date-1956-04",
+    "title": "April 1956",
+    "level": 3,
+    "label": "April"
+   },
+   {
+    "id": "gloss-book-v-date-1956-05",
+    "title": "May 1956",
+    "level": 3,
+    "label": "May"
+   },
+   {
+    "id": "gloss-book-v-date-1956-06",
+    "title": "June 1956",
+    "level": 3,
+    "label": "June"
+   },
+   {
+    "id": "gloss-book-v-date-1956-07",
+    "title": "July 1956",
+    "level": 3,
+    "label": "July"
+   },
+   {
+    "id": "gloss-book-v-date-1956-08",
+    "title": "August 1956",
+    "level": 3,
+    "label": "August"
+   },
+   {
+    "id": "gloss-book-v-date-1956-10",
+    "title": "October 1956",
+    "level": 3,
+    "label": "October"
+   },
+   {
+    "id": "gloss-book-v-date-1956-11",
+    "title": "November 1956",
+    "level": 3,
+    "label": "November"
+   },
+   {
+    "id": "gloss-book-v-date-1956-12",
+    "title": "December 1956",
+    "level": 3,
+    "label": "December"
+   },
+   {
+    "id": "gloss-book-v-date-1957-01",
+    "title": "1957",
+    "level": 2
+   },
+   {
+    "id": "gloss-book-v-date-1957-01",
+    "title": "January 1957",
+    "level": 3,
+    "label": "January"
+   },
+   {
+    "id": "gloss-book-v-date-1957-02",
+    "title": "February 1957",
+    "level": 3,
+    "label": "February"
+   },
+   {
+    "id": "gloss-book-v-date-1957-03",
+    "title": "March 1957",
+    "level": 3,
+    "label": "March"
+   },
+   {
+    "id": "gloss-book-v-date-1957-04",
+    "title": "April 1957",
+    "level": 3,
+    "label": "April"
+   },
+   {
+    "id": "gloss-book-v-date-1957-05",
+    "title": "May 1957",
+    "level": 3,
+    "label": "May"
+   },
+   {
+    "id": "gloss-book-v-date-1957-06",
+    "title": "June 1957",
+    "level": 3,
+    "label": "June"
+   },
+   {
+    "id": "gloss-book-v-date-1957-07",
+    "title": "July 1957",
+    "level": 3,
+    "label": "July"
+   },
+   {
+    "id": "gloss-book-v-date-1957-08",
+    "title": "August 1957",
+    "level": 3,
+    "label": "August"
+   },
+   {
+    "id": "gloss-book-v-date-1957-09",
+    "title": "September 1957",
+    "level": 3,
+    "label": "September"
+   },
+   {
+    "id": "gloss-book-v-date-1957-10",
+    "title": "October 1957",
+    "level": 3,
+    "label": "October"
+   },
+   {
+    "id": "gloss-book-v-date-1957-12",
+    "title": "December 1957",
+    "level": 3,
+    "label": "December"
+   },
+   {
+    "id": "gloss-book-v-date-1958-01",
+    "title": "1958",
+    "level": 2
+   },
+   {
+    "id": "gloss-book-v-date-1958-01",
+    "title": "January 1958",
+    "level": 3,
+    "label": "January"
+   },
+   {
+    "id": "gloss-book-v-date-1958-06",
+    "title": "June 1958",
+    "level": 3,
+    "label": "June"
+   },
+   {
+    "id": "gloss-book-v-date-1958-08",
+    "title": "August 1958",
+    "level": 3,
+    "label": "August"
+   },
+   {
+    "id": "gloss-book-v-date-1958-09",
+    "title": "September 1958",
+    "level": 3,
+    "label": "September"
+   },
+   {
+    "id": "gloss-book-v-date-1958-10",
+    "title": "October 1958",
+    "level": 3,
+    "label": "October"
+   },
+   {
+    "id": "gloss-book-v-date-1958-11",
+    "title": "November 1958",
+    "level": 3,
+    "label": "November"
+   },
+   {
+    "id": "gloss-book-v-date-1958-12",
+    "title": "December 1958",
+    "level": 3,
+    "label": "December"
+   },
+   {
+    "id": "gloss-appendix",
+    "title": "Appendix to Books I–V",
+    "level": 1
+   },
+   {
+    "id": "gloss-appendix-book-i",
+    "title": "Appendix · Book I",
+    "level": 1
+   },
+   {
+    "id": "gloss-appendix-book-ii",
+    "title": "Appendix · Book II",
+    "level": 1
+   },
+   {
+    "id": "gloss-appendix-book-iii",
+    "title": "Appendix · Book III",
+    "level": 1
+   },
+   {
+    "id": "gloss-appendix-book-iv",
+    "title": "Appendix · Book IV",
+    "level": 1
+   },
+   {
+    "id": "gloss-appendix-book-v",
+    "title": "Appendix · Book V",
+    "level": 1
+   },
+   {
+    "id": "gloss-commentary",
+    "title": "Commentary",
+    "level": 1
+   },
+   {
+    "id": "gloss-index-of-persons",
+    "title": "Index of Persons",
+    "level": 1
+   },
+   {
+    "id": "gloss-footnotes",
+    "title": "Footnotes",
+    "level": 1
+   }
+  ]
+ }
+}

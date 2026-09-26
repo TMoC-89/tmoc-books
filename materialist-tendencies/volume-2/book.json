@@ -1,0 +1,304 @@
+{
+ "searchId": 7,
+ "slug": "materialist-tendencies-volume-2",
+ "path": "materialist-tendencies/volume-2",
+ "pageTitle": "Materialist Tendencies — Volume II",
+ "description": "Materialist Tendencies in Arab-Islamic Philosophy — Volume II, by Husayn Muruwwa. Free English translation and Arabic transcription.",
+ "languages": [
+  "en",
+  "ar"
+ ],
+ "langKey": "minimal-library-lang-materialist-tendencies",
+ "title": {
+  "en": "Materialist Tendencies in Arab-Islamic Philosophy",
+  "ar": "النزعات المادية في الفلسفة العربية - الإسلامية"
+ },
+ "subtitle": {
+  "en": "The Muʿtazila — Ashʿarism — Logic",
+  "ar": "المعتزلة - الأشعرية - المنطق"
+ },
+ "author": {
+  "en": "Husayn Muruwwa",
+  "ar": "حسين مروة"
+ },
+ "edition": {
+  "en": "Volume II of IV · Bilingual edition",
+  "ar": "المجلد 2 من 4 · طبعة ثنائية اللغة"
+ },
+ "downloads": {
+  "en": "Volume II - English.md",
+  "ar": "Volume II - Arabic.md"
+ },
+ "home": {
+  "href": "../",
+  "label": "All four volumes"
+ },
+ "series": {
+  "work": "materialist-tendencies",
+  "volume": 2
+ },
+ "review": {
+  "slug": "materialist-tendencies-volume-2",
+  "title": "Materialist Tendencies in Arab-Islamic Philosophy — Volume II",
+  "sourceLanguage": "ar",
+  "version": "cdc3249333bcbf1b",
+  "englishMarkdown": "Volume II - English.md",
+  "sourceMarkdown": "Volume II - Arabic.md"
+ },
+ "nav": {
+  "en": [
+   {
+    "id": "en-s01",
+    "title": "Publisher’s Preface",
+    "level": 1
+   },
+   {
+    "id": "en-s02",
+    "title": "The Roots of Philosophical Thought",
+    "level": 1
+   },
+   {
+    "id": "en-s03",
+    "title": "Chapter One",
+    "level": 1
+   },
+   {
+    "id": "en-s04",
+    "title": "The Shiʿa and the Kharijites",
+    "level": 2
+   },
+   {
+    "id": "en-s05",
+    "title": "Summary of Chapter One",
+    "level": 2
+   },
+   {
+    "id": "en-s06",
+    "title": "Chapter Two",
+    "level": 1
+   },
+   {
+    "id": "en-s07",
+    "title": "Intellectual Conflict and the Foundations of Cultural Revival",
+    "level": 2
+   },
+   {
+    "id": "en-s08",
+    "title": "Summary of Chapter Two",
+    "level": 2
+   },
+   {
+    "id": "en-s09",
+    "title": "Chapter Three",
+    "level": 1
+   },
+   {
+    "id": "en-s10",
+    "title": "The Muʿtazila and the Muʿtazilite–Ashʿarite Conflict",
+    "level": 2
+   },
+   {
+    "id": "en-s11",
+    "title": "Chapter Four",
+    "level": 1
+   },
+   {
+    "id": "en-s12",
+    "title": "Muʿtazilite Divine Unity",
+    "level": 2
+   },
+   {
+    "id": "en-s13",
+    "title": "Chapter Five",
+    "level": 1
+   },
+   {
+    "id": "en-s14",
+    "title": "Muʿtazilite Justice",
+    "level": 2
+   },
+   {
+    "id": "en-s15",
+    "title": "The Muʿtazilite Theory of Knowledge",
+    "level": 2
+   },
+   {
+    "id": "en-s16",
+    "title": "Conclusions from Chapters Four and Five",
+    "level": 2
+   },
+   {
+    "id": "en-s17",
+    "title": "Chapter Six",
+    "level": 1
+   },
+   {
+    "id": "en-s18",
+    "title": "Kalām",
+    "level": 2
+   },
+   {
+    "id": "en-s19",
+    "title": "Conclusions from Chapter Six",
+    "level": 2
+   },
+   {
+    "id": "en-s20",
+    "title": "Chapter Seven",
+    "level": 1
+   },
+   {
+    "id": "en-s21",
+    "title": "Logic",
+    "level": 2
+   },
+   {
+    "id": "en-s22",
+    "title": "Summary of Chapter Seven",
+    "level": 2
+   },
+   {
+    "id": "en-s23",
+    "title": "Sources and References",
+    "level": 1
+   },
+   {
+    "id": "en-s24",
+    "title": "General Indexes",
+    "level": 1
+   },
+   {
+    "id": "en-s25",
+    "title": "Footnotes",
+    "level": 1
+   }
+  ],
+  "ar": [
+   {
+    "id": "ar-s01",
+    "title": "تقديم",
+    "level": 1
+   },
+   {
+    "id": "ar-s02",
+    "title": "جذور التفكير الفلسفي",
+    "level": 1
+   },
+   {
+    "id": "ar-s03",
+    "title": "الفصل الأول",
+    "level": 1
+   },
+   {
+    "id": "ar-s04",
+    "title": "الشيعة والخوارج",
+    "level": 2
+   },
+   {
+    "id": "ar-s05",
+    "title": "حصيلة الفصل الأول",
+    "level": 2
+   },
+   {
+    "id": "ar-s06",
+    "title": "الفصل الثاني",
+    "level": 1
+   },
+   {
+    "id": "ar-s07",
+    "title": "الصراع الفكري ونشوء قواعد النهضة الثقافية",
+    "level": 2
+   },
+   {
+    "id": "ar-s08",
+    "title": "حصيلة الفصل الثاني",
+    "level": 2
+   },
+   {
+    "id": "ar-s09",
+    "title": "الفصل الثالث",
+    "level": 1
+   },
+   {
+    "id": "ar-s10",
+    "title": "المعتزلة، والصراع المعتزلي الأشعري",
+    "level": 2
+   },
+   {
+    "id": "ar-s11",
+    "title": "الفصل الرابع",
+    "level": 1
+   },
+   {
+    "id": "ar-s12",
+    "title": "التوحيد المعتزلي",
+    "level": 2
+   },
+   {
+    "id": "ar-s13",
+    "title": "الفصل الخامس",
+    "level": 1
+   },
+   {
+    "id": "ar-s14",
+    "title": "العدل المعتزلي",
+    "level": 2
+   },
+   {
+    "id": "ar-s15",
+    "title": "نظرية المعرفة المعتزلية",
+    "level": 2
+   },
+   {
+    "id": "ar-s16",
+    "title": "حاصل الفصلين: الرابع والخامس",
+    "level": 2
+   },
+   {
+    "id": "ar-s17",
+    "title": "الفصل السادس",
+    "level": 1
+   },
+   {
+    "id": "ar-s18",
+    "title": "علم الكلام",
+    "level": 2
+   },
+   {
+    "id": "ar-s19",
+    "title": "حصيلة الفصل السادس",
+    "level": 2
+   },
+   {
+    "id": "ar-s20",
+    "title": "الفصل السابع",
+    "level": 1
+   },
+   {
+    "id": "ar-s21",
+    "title": "المنطق",
+    "level": 2
+   },
+   {
+    "id": "ar-s22",
+    "title": "حصيلة الفصل السابع",
+    "level": 2
+   },
+   {
+    "id": "ar-s23",
+    "title": "المصادر والمراجع",
+    "level": 1
+   },
+   {
+    "id": "ar-s24",
+    "title": "الفهارس العامة",
+    "level": 1
+   },
+   {
+    "id": "ar-s25",
+    "title": "الهوامش",
+    "level": 1
+   }
+  ]
+ }
+}

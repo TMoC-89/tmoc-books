@@ -1,88 +1,183 @@
-/* All corpus parsing and ranking runs off the UI thread. Only matching partitions are fetched. */
+/* The Library — search worker. Runs off the main thread.
+   Finds matching passages from the term index, then fetches only the passage files needed
+   to show excerpts. Text normalisation mirrors tools/search_index.py. */
+'use strict';
+
+let manifestPromise = null;
 const cache = new Map();
-let manifestPromise, active = 0;
-const normalize = value => value.normalize('NFKD').replace(/\p{M}|\u0640/gu, '').replace(/[أإآٱ]/g,'ا').toLowerCase();
-const tokenize = value => normalize(value).match(/[\p{L}\p{N}]+/gu) || [];
-const bucket = term => [...term].slice(0,2).map(c=>c.codePointAt(0).toString(16)).join('-');
-async function json(url) {
-  if (!cache.has(url)) cache.set(url, fetch(url).then(r=>{if(!r.ok)throw Error('A search file could not be loaded. Please try again.');return r.json()}).catch(e=>{cache.delete(url);throw e}));
-  const result=cache.get(url);cache.delete(url);cache.set(url,result);
-  while(cache.size>96)cache.delete(cache.keys().next().value);
-  return result;
+const CACHE_MAX = 160;
+let current = 0;
+
+function fetchJson(url) {
+  if (cache.has(url)) { const v = cache.get(url); cache.delete(url); cache.set(url, v); return v; }
+  const p = fetch(url).then(r => { if (!r.ok) throw new Error('Part of the search index could not be loaded. Please try again.'); return r.json(); });
+  p.catch(() => cache.delete(url));
+  cache.set(url, p);
+  while (cache.size > CACHE_MAX) cache.delete(cache.keys().next().value);
+  return p;
 }
-function manifest() { return manifestPromise ||= json('data/manifest.json'); }
-function querySpec(query) {
-  const phrases = [...query.matchAll(/["“]([^"”]+)["”]/g)].map(m=>tokenize(m[1]).join(' ')).filter(Boolean);
-  const terms = [...new Set(tokenize(query))];
-  return {terms, phrases};
+const manifest = () => (manifestPromise ||= fetchJson('data/manifest.json').then(m => {
+  if (m.schema !== 2) throw new Error('The search index is out of date. Please reload the page.');
+  m.bucketSet = new Set(m.buckets); m.stopSet = new Set(m.stop); return m;
+}));
+
+const normalise = s => s.normalize('NFKD').replace(/\p{M}/gu, '').replace(/\u0640/g, '')
+  .replace(/[أإآٱ]/g, 'ا').replace(/ى/g, 'ي').replace(/ة/g, 'ه').replace(/ؤ/g, 'و').replace(/ئ/g, 'ي').toLowerCase();
+const ARABIC = /[\u0600-\u06ff]/;
+let prefixes = [];
+const stem = w => { if (ARABIC.test(w)) for (const p of prefixes) if (w.startsWith(p) && w.length - p.length >= 3) return w.slice(p.length); return w; };
+const terms = text => (normalise(text).match(/[\p{L}\p{N}]+/gu) || []).map(stem);
+const hex = t => [...t].map(c => c.codePointAt(0).toString(16));
+function bucketFor(m, t) {
+  const h = hex(t);
+  if (h.length >= 3 && m.bucketSet.has(h.slice(0, 3).join('-'))) return h.slice(0, 3).join('-');
+  const k = h.slice(0, 2).join('-');
+  return m.bucketSet.has(k) ? k : null;
 }
-function ranges(text, expansions) {
-  const output=[];let normalized='',map=[];
-  for(let pos=0;pos<text.length;) {
-    const c=String.fromCodePoint(text.codePointAt(pos)),n=normalize(c);
-    for(const unit of n){normalized+=unit;for(let i=0;i<unit.length;i++)map.push([pos,pos+c.length]);}
-    pos+=c.length;
+function decode(s) {
+  const out = []; let prev = 0;
+  for (const part of s.split(',')) { prev += parseInt(part, 36); out.push(prev); }
+  return out;
+}
+function rangeOf(m, id) {
+  let lo = 0, hi = m.ranges.length - 1;
+  while (lo < hi) { const mid = (lo + hi + 1) >> 1; if (m.ranges[mid][0] <= id) lo = mid; else hi = mid - 1; }
+  return m.ranges[lo];
+}
+function parseQuery(m, q) {
+  const phrases = [...q.matchAll(/["“”„]([^"“”„]+)["“”„]/g)].map(x => terms(x[1])).filter(p => p.length > 1);
+  const all = [...new Set(terms(q))];
+  const indexed = all.filter(t => t.length >= 2 && !m.stopSet.has(t));
+  return { phrases, all, indexed };
+}
+
+async function candidates(m, spec) {
+  const lists = [], expanded = new Set();
+  for (const t of spec.indexed) {
+    const key = bucketFor(m, t);
+    const dict = key ? await fetchJson(`data/terms/${key}.json?v=${m.version}`) : {};
+    let forms = Object.keys(dict).filter(k => k === t || (!spec.phrases.length && t.length >= 4 && k.startsWith(t)));
+    forms.sort((a, b) => a.length - b.length);
+    forms = forms.slice(0, 60);
+    forms.forEach(f => expanded.add(f));
+    const ids = new Set();
+    for (const f of forms) for (const id of decode(dict[f])) ids.add(id);
+    lists.push(ids);
   }
-  for(const m of normalized.matchAll(/[\p{L}\p{N}]+/gu)) if(expansions.has(m[0]))output.push([map[m.index][0],map[m.index+m[0].length-1][1]]);
-  return output;
+  lists.sort((a, b) => a.size - b.size);
+  let result = lists.length ? [...lists[0]] : [];
+  for (const l of lists.slice(1)) result = result.filter(id => l.has(id));
+  result.sort((a, b) => a - b);
+  return { ids: result, expanded };
+}
+
+async function passage(m, id) {
+  const chunk = await fetchJson(`data/passages/${Math.floor(id / m.chunk)}.json?v=${m.version}`);
+  const [section, anchor, text] = chunk[id % m.chunk];
+  const r = rangeOf(m, id);
+  return { id, book: r[2], lang: r[3], section, anchor, text };
+}
+
+function matchesPhrases(text, phrases) {
+  if (!phrases.length) return true;
+  const hay = ' ' + terms(text).join(' ') + ' ';
+  return phrases.every(p => hay.includes(' ' + p.join(' ') + ' '));
+}
+
+function highlight(text, wanted) {
+  const hits = [];
+  for (const m of text.matchAll(/[\p{L}\p{N}\p{M}\u0640]+/gu)) {
+    const w = stem(normalise(m[0]).replace(/[^\p{L}\p{N}]/gu, ''));
+    if (wanted(w)) hits.push([m.index, m.index + m[0].length]);
+  }
+  return hits;
 }
 function excerpt(text, hits) {
-  const first=hits[0]?.[0]||0;
-  let start=Math.max(0,first-115),end=Math.min(text.length,start+360);
-  if(start>0){const boundary=text.lastIndexOf('. ',first);if(boundary>=start)start=boundary+2;else{const space=text.indexOf(' ',start);if(space<first)start=space+1;}}
-  end=Math.min(text.length,Math.max(start+360,(hits[0]?.[1]||0)+80));
-  if(end<text.length){const space=text.lastIndexOf(' ',end);if(space>first)end=space;}
-  const prefix=start>0?'… ':'';const suffix=end<text.length?' …':'';
-  return {text:prefix+text.slice(start,end)+suffix,highlights:hits.filter(([a,b])=>a>=start&&b<=end).map(([a,b])=>[a-start+prefix.length,b-start+prefix.length])};
-}
-async function search(message) {
-  const {id,q,book,language}=message;active=id;
-  const m=await manifest();if(active!==id)return;
-  const spec=querySpec(q);
-  const indexedTerms=spec.terms.filter(t=>t.length>=2);
-  if(!indexedTerms.length) { postMessage({id,type:'results',results:[],total:0,books:m.books,message:'Include a word with at least two letters.'});return; }
-  const known=new Set(m.buckets);
-  const partitions=await Promise.all([...new Set(indexedTerms.map(bucket))].map(async key=>[key,known.has(key)?await json(`data/terms/${key}.json?v=${m.version}`):{}]));
-  if(active!==id)return;
-  const lookup=new Map(partitions),variants=[],expanded=new Set();let candidates=null;
-  for(const term of indexedTerms) {
-    const dict=lookup.get(bucket(term));const forms=Object.keys(dict).filter(t=>t===term || (!spec.phrases.length && term.length>=4 && t.startsWith(term))).sort((a,b)=>a.length-b.length).slice(0,40);
-    forms.forEach(t=>expanded.add(t));variants.push(new Set(forms));const ids=new Set(forms.flatMap(t=>dict[t]));
-    candidates=candidates===null?ids:new Set([...candidates].filter(x=>ids.has(x)));
+  const LEN = 320;
+  if (text.length <= LEN + 60) return { text, highlights: hits };
+  const first = hits[0]?.[0] ?? 0;
+  let start = Math.max(0, first - 110);
+  if (start > 0) {
+    const stop = Math.max(text.lastIndexOf('. ', first), text.lastIndexOf('، ', first), text.lastIndexOf('; ', first));
+    if (stop >= start - 60 && stop < first) start = stop + 2;
+    else { const sp = text.indexOf(' ', start); if (sp > 0 && sp < first) start = sp + 1; }
   }
-  const ids=[...candidates].filter(id=>{const meta=m.chunkMeta?.[id];return !meta || ((book==='all'||meta[0]===Number(book))&&(language==='all'||meta[1].includes(language)))}).sort((a,b)=>a-b),matches=new Map();let cursor=0,done=0;
-  postMessage({id,type:'progress',done:0,total:ids.length});
-  async function runner() {
-    while(cursor<ids.length && active===id) {
-      const cid=ids[cursor++],records=await json(`data/passages/${cid}.json?v=${m.version}`);
-      if(active!==id)return;
-      for(const r of records) {
-        if(book!=='all' && r[0]!==Number(book))continue;
-        if(language!=='all' && r[1]!==language)continue;
-        const words=tokenize(r[4]),wordsSet=new Set(words);
-        if(!variants.every(v=>[...v].some(t=>wordsSet.has(t))))continue;
-        if(!spec.terms.filter(t=>t.length<2).every(t=>wordsSet.has(t)))continue;
-        const joined=words.join(' ');
-        if(!spec.phrases.every(p=>(' '+joined+' ').includes(' '+p+' ')))continue;
-        const hits=ranges(r[4],expanded);if(!hits.length)continue;
-        let score=spec.terms.reduce((n,t)=>n+(wordsSet.has(t)?30:12),0)+Math.min(hits.length,8)*2;
-        if(joined.includes(spec.terms.join(' ')))score+=24;
-        if(spec.terms.some(t=>tokenize(r[2]).includes(t)))score+=8;
-        score+=Math.max(0,8-r[4].length/250);
-        const key=`${r[0]}:${r[1]}:${r[3]}`;
-        if(!matches.has(key)||matches.get(key).score<score)matches.set(key,{book:r[0],language:r[1],section:r[2],anchor:r[3],score,...excerpt(r[4],hits)});
+  let end = Math.min(text.length, start + LEN);
+  if (end < text.length) { const sp = text.lastIndexOf(' ', end); if (sp > first) end = sp; }
+  const pre = start > 0 ? '… ' : '', post = end < text.length ? ' …' : '';
+  return {
+    text: pre + text.slice(start, end) + post,
+    highlights: hits.filter(([a, b]) => a >= start && b <= end).map(([a, b]) => [a - start + pre.length, b - start + pre.length]),
+  };
+}
+
+async function run(msg) {
+  const id = msg.id;
+  current = id;
+  const m = await manifest();
+  prefixes = m.arPrefixes || [];
+  const spec = parseQuery(m, msg.q);
+  const reply = o => { if (current === id) postMessage(Object.assign({ id, type: 'results' }, o)); };
+  if (!spec.indexed.length) {
+    const tooCommon = spec.all.some(t => m.stopSet.has(t));
+    return reply({ total: 0, perBook: {}, items: [], message: tooCommon ? 'Those words are too common to search on their own. Add a more distinctive word, or search for a “quoted phrase” with one.' : 'Type a word with at least two letters.' });
+  }
+  const { ids: raw, expanded } = await candidates(m, spec);
+  if (current !== id) return;
+  const inScope = pid => { const r = rangeOf(m, pid); return (msg.book === 'all' || r[2] === Number(msg.book)) && (msg.lang === 'all' || r[3] === msg.lang); };
+  let ids = raw.filter(inScope);
+  let approximate = false;
+
+  if (spec.phrases.length && ids.length) {
+    // Phrases need the text itself: fetch passage files (bounded) and keep true matches.
+    const chunks = [...new Set(ids.map(x => Math.floor(x / m.chunk)))];
+    const LIMIT = 300;
+    if (chunks.length > LIMIT) approximate = true;
+    const todo = chunks.slice(0, LIMIT), ok = new Set();
+    let next = 0, done = 0;
+    const worker = async () => {
+      while (next < todo.length && current === id) {
+        const c = todo[next++];
+        const rows = await fetchJson(`data/passages/${c}.json?v=${m.version}`);
+        for (const pid of ids) if (Math.floor(pid / m.chunk) === c && matchesPhrases(rows[pid % m.chunk][2], spec.phrases)) ok.add(pid);
+        if (++done % 10 === 0) postMessage({ id, type: 'progress', done, total: todo.length });
       }
-      done++;
-      if(done%8===0)postMessage({id,type:'progress',done,total:ids.length});
-    }
+    };
+    await Promise.all(Array.from({ length: Math.min(6, todo.length) }, worker));
+    if (current !== id) return;
+    ids = ids.filter(pid => ok.has(pid));
   }
-  await Promise.all(Array.from({length:Math.min(4,ids.length)},runner));
-  if(active!==id)return;
-  const results=[...matches.values()].sort((a,b)=>b.score-a.score||a.book-b.book||a.anchor.localeCompare(b.anchor));
-  postMessage({id,type:'results',results:results.slice(0,500),total:results.length,books:m.books});
+
+  const perBook = {};
+  for (const pid of ids) { const b = rangeOf(m, pid)[2]; perBook[b] = (perBook[b] || 0) + 1; }
+  const wanted = w => expanded.has(w) || spec.phrases.some(p => p.includes(w));
+  const build = async pid => {
+    const p = await passage(m, pid);
+    const ex = excerpt(p.text, highlight(p.text, wanted));
+    return { id: p.id, book: p.book, lang: p.lang, section: p.section, anchor: p.anchor, text: ex.text, highlights: ex.highlights };
+  };
+
+  if (msg.book === 'all') {
+    const order = Object.keys(perBook).map(Number).sort((a, b) => perBook[b] - perBook[a] || a - b);
+    const groups = [];
+    for (const b of order) {
+      const first = ids.filter(pid => rangeOf(m, pid)[2] === b).slice(0, 3);
+      groups.push({ book: b, count: perBook[b], items: await Promise.all(first.map(build)) });
+      if (current !== id) return;
+    }
+    return reply({ mode: 'overview', total: ids.length, perBook, groups, approximate, books: m.books });
+  }
+  const offset = msg.offset || 0;
+  const items = await Promise.all(ids.slice(offset, offset + 20).map(build));
+  reply({ mode: 'list', total: ids.length, perBook, items, offset, approximate, books: m.books });
 }
-self.onmessage=e=>{
-  if(e.data.type==='init'){manifest().then(m=>postMessage({type:'ready',books:m.books,passages:m.passages})).catch(err=>postMessage({type:'error',message:err.message}));return;}
-  if(e.data.type==='cancel'){active=e.data.id;return;}
-  search(e.data).catch(err=>{if(e.data.id===active)postMessage({id:e.data.id,type:'error',message:err.message})});
+
+self.onmessage = e => {
+  const msg = e.data;
+  if (msg.type === 'init') {
+    manifest().then(m => postMessage({ type: 'ready', books: m.books, languages: m.languages })).catch(err => postMessage({ type: 'error', message: err.message }));
+    return;
+  }
+  if (msg.type === 'cancel') { current = msg.id; return; }
+  run(msg).catch(err => { if (current === msg.id) postMessage({ id: msg.id, type: 'error', message: err.message }); });
 };

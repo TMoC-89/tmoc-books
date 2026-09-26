@@ -1,0 +1,264 @@
+{
+ "searchId": 9,
+ "slug": "materialist-tendencies-volume-4",
+ "path": "materialist-tendencies/volume-4",
+ "pageTitle": "Materialist Tendencies — Volume IV",
+ "description": "Materialist Tendencies in Arab-Islamic Philosophy — Volume IV, by Husayn Muruwwa. Free English translation and Arabic transcription.",
+ "languages": [
+  "en",
+  "ar"
+ ],
+ "langKey": "minimal-library-lang-materialist-tendencies",
+ "title": {
+  "en": "Materialist Tendencies in Arab-Islamic Philosophy",
+  "ar": "النزعات المادية في الفلسفة العربية - الإسلامية"
+ },
+ "subtitle": {
+  "en": "al-Kindī — al-Fārābī — Ibn Sīnā",
+  "ar": "الكندي - الفارابي - إبن سينا"
+ },
+ "author": {
+  "en": "Husayn Muruwwa",
+  "ar": "حسين مروة"
+ },
+ "edition": {
+  "en": "Volume IV of IV · Bilingual edition",
+  "ar": "المجلد 4 من 4 · طبعة ثنائية اللغة"
+ },
+ "downloads": {
+  "en": "Volume IV - English.md",
+  "ar": "Volume IV - Arabic.md"
+ },
+ "home": {
+  "href": "../",
+  "label": "All four volumes"
+ },
+ "series": {
+  "work": "materialist-tendencies",
+  "volume": 4
+ },
+ "review": {
+  "slug": "materialist-tendencies-volume-4",
+  "title": "Materialist Tendencies in Arab-Islamic Philosophy — Volume IV",
+  "sourceLanguage": "ar",
+  "version": "a3a1623f65cc680e",
+  "englishMarkdown": "Volume IV - English.md",
+  "sourceMarkdown": "Volume IV - Arabic.md"
+ },
+ "nav": {
+  "en": [
+   {
+    "id": "en-s01",
+    "title": "Publisher’s Preface",
+    "level": 1
+   },
+   {
+    "id": "en-s02",
+    "title": "Chapter One",
+    "level": 1
+   },
+   {
+    "id": "en-s03",
+    "title": "Arab Philosophy in Its First Forms",
+    "level": 2
+   },
+   {
+    "id": "en-s04",
+    "title": "Summary of Chapter One",
+    "level": 2
+   },
+   {
+    "id": "en-s05",
+    "title": "Chapter Two",
+    "level": 1
+   },
+   {
+    "id": "en-s06",
+    "title": "Questions of Existence and Essence in the Early Maturity of Arab-Islamic Philosophy",
+    "level": 2
+   },
+   {
+    "id": "en-s07",
+    "title": "Conclusions of Chapter Two",
+    "level": 2
+   },
+   {
+    "id": "en-s08",
+    "title": "Chapter Three",
+    "level": 1
+   },
+   {
+    "id": "en-s09",
+    "title": "The Problem of Existence and Essence in Ibn Sīnā’s Philosophy",
+    "level": 2
+   },
+   {
+    "id": "en-s10",
+    "title": "Conclusions of Chapter Three",
+    "level": 2
+   },
+   {
+    "id": "en-s11",
+    "title": "Conclusion",
+    "level": 2
+   },
+   {
+    "id": "en-s12",
+    "title": "Sources and References",
+    "level": 1
+   },
+   {
+    "id": "en-s13",
+    "title": "General Indexes",
+    "level": 1
+   },
+   {
+    "id": "en-s14",
+    "title": "Index of Names",
+    "level": 1
+   },
+   {
+    "id": "en-s15",
+    "title": "Index of Places and Countries",
+    "level": 1
+   },
+   {
+    "id": "en-s16",
+    "title": "Index of Books and Periodicals",
+    "level": 1
+   },
+   {
+    "id": "en-s17",
+    "title": "Index of the Book’s Contents",
+    "level": 1
+   },
+   {
+    "id": "en-s18",
+    "title": "Chapter One",
+    "level": 1
+   },
+   {
+    "id": "en-s19",
+    "title": "Chapter Two",
+    "level": 1
+   },
+   {
+    "id": "en-s20",
+    "title": "Chapter Three",
+    "level": 1
+   },
+   {
+    "id": "en-s21",
+    "title": "Footnotes",
+    "level": 1
+   }
+  ],
+  "ar": [
+   {
+    "id": "ar-s01",
+    "title": "تقديم",
+    "level": 1
+   },
+   {
+    "id": "ar-s02",
+    "title": "الفصل الأول",
+    "level": 1
+   },
+   {
+    "id": "ar-s03",
+    "title": "الفلسفة العربية في تجلياتها الأولى",
+    "level": 2
+   },
+   {
+    "id": "ar-s04",
+    "title": "حصيلة الفصل الأول",
+    "level": 2
+   },
+   {
+    "id": "ar-s05",
+    "title": "الفصل الثاني",
+    "level": 1
+   },
+   {
+    "id": "ar-s06",
+    "title": "قضايا الوجود والماهية.. في بواكير نضج الفلسفة العربية - الإسلامية",
+    "level": 2
+   },
+   {
+    "id": "ar-s07",
+    "title": "حصيلة الفصل الثاني",
+    "level": 2
+   },
+   {
+    "id": "ar-s08",
+    "title": "الفصل الثالث",
+    "level": 1
+   },
+   {
+    "id": "ar-s09",
+    "title": "قضية الوجود والماهية في فلسفة ابن سينا",
+    "level": 2
+   },
+   {
+    "id": "ar-s10",
+    "title": "حصيلة الفصل الثالث",
+    "level": 2
+   },
+   {
+    "id": "ar-s11",
+    "title": "خاتمة",
+    "level": 2
+   },
+   {
+    "id": "ar-s12",
+    "title": "المصادر والمراجع",
+    "level": 1
+   },
+   {
+    "id": "ar-s13",
+    "title": "الفهارس العامة",
+    "level": 1
+   },
+   {
+    "id": "ar-s14",
+    "title": "فهرس الأعلام",
+    "level": 1
+   },
+   {
+    "id": "ar-s15",
+    "title": "فهرس الأماكن والبلدان",
+    "level": 1
+   },
+   {
+    "id": "ar-s16",
+    "title": "فهرس الكتب والدوريات",
+    "level": 1
+   },
+   {
+    "id": "ar-s17",
+    "title": "فهرس موضوعات الكتاب",
+    "level": 1
+   },
+   {
+    "id": "ar-s18",
+    "title": "الفصل الأول",
+    "level": 1
+   },
+   {
+    "id": "ar-s19",
+    "title": "الفصل الثاني",
+    "level": 1
+   },
+   {
+    "id": "ar-s20",
+    "title": "الفصل الثالث",
+    "level": 1
+   },
+   {
+    "id": "ar-s21",
+    "title": "الهوامش",
+    "level": 1
+   }
+  ]
+ }
+}

@@ -1,0 +1,264 @@
+{
+ "searchId": 8,
+ "slug": "materialist-tendencies-volume-3",
+ "path": "materialist-tendencies/volume-3",
+ "pageTitle": "Materialist Tendencies — Volume III",
+ "description": "Materialist Tendencies in Arab-Islamic Philosophy — Volume III, by Husayn Muruwwa. Free English translation and Arabic transcription.",
+ "languages": [
+  "en",
+  "ar"
+ ],
+ "langKey": "minimal-library-lang-materialist-tendencies",
+ "title": {
+  "en": "Materialist Tendencies in Arab-Islamic Philosophy",
+  "ar": "النزعات المادية في الفلسفة العربية - الإسلامية"
+ },
+ "subtitle": {
+  "en": "The Development of Philosophy — Sufism — The Brethren of Purity",
+  "ar": "تبلور الفلسفة - التصوف - إخوان الصفا"
+ },
+ "author": {
+  "en": "Husayn Muruwwa",
+  "ar": "حسين مروة"
+ },
+ "edition": {
+  "en": "Volume III of IV · Bilingual edition",
+  "ar": "المجلد 3 من 4 · طبعة ثنائية اللغة"
+ },
+ "downloads": {
+  "en": "Volume III - English.md",
+  "ar": "Volume III - Arabic.md"
+ },
+ "home": {
+  "href": "../",
+  "label": "All four volumes"
+ },
+ "series": {
+  "work": "materialist-tendencies",
+  "volume": 3
+ },
+ "review": {
+  "slug": "materialist-tendencies-volume-3",
+  "title": "Materialist Tendencies in Arab-Islamic Philosophy — Volume III",
+  "sourceLanguage": "ar",
+  "version": "4592a15d7d58d5fe",
+  "englishMarkdown": "Volume III - English.md",
+  "sourceMarkdown": "Volume III - Arabic.md"
+ },
+ "nav": {
+  "en": [
+   {
+    "id": "en-s01",
+    "title": "Publisher’s Preface",
+    "level": 1
+   },
+   {
+    "id": "en-s02",
+    "title": "The Philosophical Stage",
+    "level": 1
+   },
+   {
+    "id": "en-s03",
+    "title": "Chapter One",
+    "level": 1
+   },
+   {
+    "id": "en-s04",
+    "title": "The Independence of Philosophy",
+    "level": 2
+   },
+   {
+    "id": "en-s05",
+    "title": "Conclusions from Chapter One",
+    "level": 2
+   },
+   {
+    "id": "en-s06",
+    "title": "Chapter Two",
+    "level": 1
+   },
+   {
+    "id": "en-s07",
+    "title": "Sufism",
+    "level": 2
+   },
+   {
+    "id": "en-s08",
+    "title": "Chapter Two: Sufism",
+    "level": 2
+   },
+   {
+    "id": "en-s09",
+    "title": "“Unity of Being” and Ibn ʿArabī’s Doctrine",
+    "level": 2
+   },
+   {
+    "id": "en-s10",
+    "title": "General Conclusions from the Study of Sufism",
+    "level": 2
+   },
+   {
+    "id": "en-s11",
+    "title": "Summary of Chapter Two",
+    "level": 2
+   },
+   {
+    "id": "en-s12",
+    "title": "Conclusion",
+    "level": 2
+   },
+   {
+    "id": "en-s13",
+    "title": "Chapter Three",
+    "level": 1
+   },
+   {
+    "id": "en-s14",
+    "title": "The Brethren of Purity Phenomenon",
+    "level": 2
+   },
+   {
+    "id": "en-s15",
+    "title": "Summary of Chapter Three",
+    "level": 2
+   },
+   {
+    "id": "en-s16",
+    "title": "Chapter Four",
+    "level": 1
+   },
+   {
+    "id": "en-s17",
+    "title": "The Dialectical Relationship Between Arab Philosophy and the Natural Sciences",
+    "level": 2
+   },
+   {
+    "id": "en-s18",
+    "title": "Summary of Chapter Four",
+    "level": 2
+   },
+   {
+    "id": "en-s19",
+    "title": "Sources and References",
+    "level": 1
+   },
+   {
+    "id": "en-s20",
+    "title": "General Indexes",
+    "level": 1
+   },
+   {
+    "id": "en-s21",
+    "title": "Footnotes",
+    "level": 1
+   }
+  ],
+  "ar": [
+   {
+    "id": "ar-s01",
+    "title": "تقديم",
+    "level": 1
+   },
+   {
+    "id": "ar-s02",
+    "title": "المرحلة الفلسفية",
+    "level": 1
+   },
+   {
+    "id": "ar-s03",
+    "title": "الفصل الأول",
+    "level": 1
+   },
+   {
+    "id": "ar-s04",
+    "title": "استقلال الفلسفة",
+    "level": 2
+   },
+   {
+    "id": "ar-s05",
+    "title": "حصيلة الفصل الأول",
+    "level": 2
+   },
+   {
+    "id": "ar-s06",
+    "title": "الفصل الثاني",
+    "level": 1
+   },
+   {
+    "id": "ar-s07",
+    "title": "التصوف",
+    "level": 2
+   },
+   {
+    "id": "ar-s08",
+    "title": "الفصل الثاني: التصوف",
+    "level": 2
+   },
+   {
+    "id": "ar-s09",
+    "title": "«وحدة الوجود» ومذهب ابن عربي",
+    "level": 2
+   },
+   {
+    "id": "ar-s10",
+    "title": "استنتاجات عامة من بحث التصوف",
+    "level": 2
+   },
+   {
+    "id": "ar-s11",
+    "title": "حصيلة الفصل الثاني",
+    "level": 2
+   },
+   {
+    "id": "ar-s12",
+    "title": "الخاتمة",
+    "level": 2
+   },
+   {
+    "id": "ar-s13",
+    "title": "الفصل الثالث",
+    "level": 1
+   },
+   {
+    "id": "ar-s14",
+    "title": "ظاهرة «إخوان الصفاء»",
+    "level": 2
+   },
+   {
+    "id": "ar-s15",
+    "title": "حصيلة الفصل الثالث",
+    "level": 2
+   },
+   {
+    "id": "ar-s16",
+    "title": "الفصل الرابع",
+    "level": 1
+   },
+   {
+    "id": "ar-s17",
+    "title": "ديالكتيك العلاقة بين الفلسفة العربية والعلوم الطبيعية",
+    "level": 2
+   },
+   {
+    "id": "ar-s18",
+    "title": "حصيلة الفصل الرابع",
+    "level": 2
+   },
+   {
+    "id": "ar-s19",
+    "title": "المصادر والمراجع",
+    "level": 1
+   },
+   {
+    "id": "ar-s20",
+    "title": "الفهارس العامة",
+    "level": 1
+   },
+   {
+    "id": "ar-s21",
+    "title": "الهوامش",
+    "level": 1
+   }
+  ]
+ }
+}

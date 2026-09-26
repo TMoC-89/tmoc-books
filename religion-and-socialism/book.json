@@ -1,0 +1,150 @@
+{
+ "searchId": 3,
+ "slug": "religion-and-socialism",
+ "path": "religion-and-socialism",
+ "pageTitle": "Religion and Socialism",
+ "description": "Religion and Socialism / الدين والاشتراكية",
+ "languages": [
+  "en",
+  "ar"
+ ],
+ "langKey": "minimal-library-lang-religion-and-socialism",
+ "title": {
+  "en": "Religion and Socialism",
+  "ar": "الدين والاشتراكية"
+ },
+ "subtitle": {
+  "en": "",
+  "ar": ""
+ },
+ "author": {
+  "en": "Khaled Mohieddin",
+  "ar": "خالد محيى الدين"
+ },
+ "edition": {
+  "en": "Second Edition · Dar al-ʿAlam al-Thalith",
+  "ar": "الطبعة الثانية · دار العالم الثالث"
+ },
+ "downloads": {
+  "en": "Religion and Socialism - English.md",
+  "ar": "الدين والاشتراكية - العربية.md"
+ },
+ "home": {
+  "href": "../",
+  "label": "Library"
+ },
+ "review": {
+  "slug": "religion-and-socialism",
+  "title": "Religion and Socialism",
+  "sourceLanguage": "ar",
+  "version": "7fa7de032fc99605",
+  "englishMarkdown": "Religion and Socialism - English.md",
+  "sourceMarkdown": "الدين والاشتراكية - العربية.md"
+ },
+ "nav": {
+  "en": [
+   {
+    "id": "en-publisher-preface",
+    "title": "Publisher’s Preface to the Second Edition",
+    "level": 1
+   },
+   {
+    "id": "en-introduction",
+    "title": "Introduction",
+    "level": 1
+   },
+   {
+    "id": "en-religion-socialism",
+    "title": "Religion and Socialism",
+    "level": 1
+   },
+   {
+    "id": "en-civil-government",
+    "title": "Islam: Religious Government or Civil Government?",
+    "level": 1
+   },
+   {
+    "id": "en-muhammad-human",
+    "title": "Muhammad the Human Being",
+    "level": 1
+   },
+   {
+    "id": "en-religion-socialism-marxism",
+    "title": "Religion, Socialism and Marxism",
+    "level": 1
+   },
+   {
+    "id": "en-once-again",
+    "title": "Once Again on Religion, Socialism and Marxism",
+    "level": 1
+   },
+   {
+    "id": "en-contents",
+    "title": "Contents",
+    "level": 1
+   },
+   {
+    "id": "en-publication-details",
+    "title": "Publication Details",
+    "level": 1
+   },
+   {
+    "id": "en-notes",
+    "title": "Notes",
+    "level": 1
+   }
+  ],
+  "ar": [
+   {
+    "id": "ar-publisher-preface",
+    "title": "مقدمة الناشر للطبعة الثانية",
+    "level": 1
+   },
+   {
+    "id": "ar-introduction",
+    "title": "تقديم",
+    "level": 1
+   },
+   {
+    "id": "ar-religion-socialism",
+    "title": "الدين والاشتراكية",
+    "level": 1
+   },
+   {
+    "id": "ar-civil-government",
+    "title": "الإسلام حكومة دينية أم مدنية",
+    "level": 1
+   },
+   {
+    "id": "ar-muhammad-human",
+    "title": "محمد الإنسان",
+    "level": 1
+   },
+   {
+    "id": "ar-religion-socialism-marxism",
+    "title": "الدين - الاشتراكية - الماركسية",
+    "level": 1
+   },
+   {
+    "id": "ar-once-again",
+    "title": "مرة أخرى مع الدين والاشتراكية والماركسية",
+    "level": 1
+   },
+   {
+    "id": "ar-contents",
+    "title": "فهرس الكتاب",
+    "level": 1
+   },
+   {
+    "id": "ar-publication-details",
+    "title": "بيانات النشر",
+    "level": 1
+   },
+   {
+    "id": "ar-notes",
+    "title": "الحواشي",
+    "level": 1
+   }
+  ]
+ }
+}

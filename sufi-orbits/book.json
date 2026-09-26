@@ -1,0 +1,180 @@
+{
+ "searchId": 10,
+ "slug": "sufi-orbits",
+ "path": "sufi-orbits",
+ "pageTitle": "Sufi Orbits",
+ "description": "Sufi Orbits / مدارات صوفية — Hadi al-Alawi",
+ "languages": [
+  "en",
+  "ar"
+ ],
+ "langKey": "minimal-library-lang-sufi-orbits",
+ "title": {
+  "en": "Sufi Orbits",
+  "ar": "مدارات صوفية"
+ },
+ "subtitle": {
+  "en": "The Legacy of the Communal Revolution in the East",
+  "ar": "تراث الثورة المشاعية في الشرق"
+ },
+ "author": {
+  "en": "Hadi al-Alawi",
+  "ar": "هادي العلوي"
+ },
+ "edition": {
+  "en": "First edition · 1997 · Center for Socialist Studies and Research in the Arab World",
+  "ar": "الطبعة الأولى · ١٩٩٧ · مركز الأبحاث والدراسات الاشتراكية في العالم العربي"
+ },
+ "downloads": {
+  "en": "Sufi Orbits - English.md",
+  "ar": "Sufi Orbits - Arabic.md"
+ },
+ "home": {
+  "href": "../",
+  "label": "Library"
+ },
+ "review": {
+  "slug": "sufi-orbits",
+  "title": "Sufi Orbits",
+  "sourceLanguage": "ar",
+  "version": "f647817084009914",
+  "englishMarkdown": "Sufi Orbits - English.md",
+  "sourceMarkdown": "Sufi Orbits - Arabic.md"
+ },
+ "nav": {
+  "en": [
+   {
+    "id": "en-front-matter",
+    "title": "Edition & Dedication",
+    "level": 1
+   },
+   {
+    "id": "en-contents",
+    "title": "Contents",
+    "level": 1
+   },
+   {
+    "id": "en-prelude",
+    "title": "Prelude",
+    "level": 1
+   },
+   {
+    "id": "en-orbit-nun",
+    "title": "The Orbit of Nūn (ن)",
+    "level": 1
+   },
+   {
+    "id": "en-orbit-mim",
+    "title": "The Orbit of Mīm (م)",
+    "level": 1
+   },
+   {
+    "id": "en-orbit-ba",
+    "title": "The Orbit of Bāʾ (ب)",
+    "level": 1
+   },
+   {
+    "id": "en-orbit-haba",
+    "title": "The Orbit of Habāʾ",
+    "level": 1
+   },
+   {
+    "id": "en-orbit-zayn",
+    "title": "The Orbit of Zayn al-Abidin",
+    "level": 1
+   },
+   {
+    "id": "en-orbit-orbits",
+    "title": "The Orbit of Orbits",
+    "level": 1
+   },
+   {
+    "id": "en-final-orbit",
+    "title": "The Final Orbit",
+    "level": 1
+   },
+   {
+    "id": "en-appendix",
+    "title": "Appendix",
+    "level": 1
+   },
+   {
+    "id": "en-programme",
+    "title": "Programme of the Iraqi Communalist Movement",
+    "level": 1
+   },
+   {
+    "id": "en-footnotes",
+    "title": "Footnotes",
+    "level": 1
+   }
+  ],
+  "ar": [
+   {
+    "id": "ar-front-matter",
+    "title": "بيانات الطبعة والإهداء",
+    "level": 1
+   },
+   {
+    "id": "ar-contents",
+    "title": "مسرد الكتاب",
+    "level": 1
+   },
+   {
+    "id": "ar-prelude",
+    "title": "استهلال",
+    "level": 1
+   },
+   {
+    "id": "ar-orbit-nun",
+    "title": "مدار النون",
+    "level": 1
+   },
+   {
+    "id": "ar-orbit-mim",
+    "title": "مدار الميم",
+    "level": 1
+   },
+   {
+    "id": "ar-orbit-ba",
+    "title": "مدار الباء",
+    "level": 1
+   },
+   {
+    "id": "ar-orbit-haba",
+    "title": "مدار الهباء",
+    "level": 1
+   },
+   {
+    "id": "ar-orbit-zayn",
+    "title": "مدار زين العابدين",
+    "level": 1
+   },
+   {
+    "id": "ar-orbit-orbits",
+    "title": "مدار المدارات",
+    "level": 1
+   },
+   {
+    "id": "ar-final-orbit",
+    "title": "المدار الأخير",
+    "level": 1
+   },
+   {
+    "id": "ar-appendix",
+    "title": "ملحق",
+    "level": 1
+   },
+   {
+    "id": "ar-programme",
+    "title": "برنامج الحركة المشاعية العراقية",
+    "level": 1
+   },
+   {
+    "id": "ar-footnotes",
+    "title": "الحواشي",
+    "level": 1
+   }
+  ]
+ }
+}

@@ -1,0 +1,235 @@
+{
+ "searchId": 2,
+ "slug": "sophia",
+ "path": "sophia",
+ "pageTitle": "Sophia — Alexandre Kojève",
+ "description": "Sophia: Philosophy and Phenomenology — Alexandre Kojève",
+ "languages": [
+  "en"
+ ],
+ "langKey": "minimal-library-lang-sophia",
+ "kicker": {
+  "en": "Translated from the French"
+ },
+ "title": {
+  "en": "Sophia"
+ },
+ "subtitle": {
+  "en": "Philosophy and Phenomenology"
+ },
+ "author": {
+  "en": "Alexandre Kojève"
+ },
+ "edition": {
+  "en": "French edition · Gallimard, 2025"
+ },
+ "downloads": {
+  "en": "Sophia - English.md"
+ },
+ "home": {
+  "href": "../",
+  "label": "Library"
+ },
+ "review": {
+  "slug": "sophia",
+  "title": "Sophia",
+  "sourceLanguage": null,
+  "version": "cf2e0e6ec02ec8b3",
+  "englishMarkdown": "Sophia - English.md",
+  "sourceMarkdown": null
+ },
+ "nav": {
+  "en": [
+   {
+    "id": "front-matter",
+    "title": "Front Matter",
+    "level": 1
+   },
+   {
+    "id": "sophia-title-page-envisaged-by-koj-ve",
+    "title": "Title Page Envisaged by Kojève",
+    "level": 2
+   },
+   {
+    "id": "sophia-i-phenomenology",
+    "title": "I. Phenomenology",
+    "level": 3
+   },
+   {
+    "id": "sophia-introduction-to-the-french-edition",
+    "title": "Introduction to the French Edition",
+    "level": 1
+   },
+   {
+    "id": "sophia-history-of-the-manuscript",
+    "title": "History of the Manuscript",
+    "level": 2
+   },
+   {
+    "id": "sophia-the-phenomenological-autobiography-of-a-soviet-koj-ve",
+    "title": "The “Phenomenological Autobiography” of a Soviet Kojève",
+    "level": 2
+   },
+   {
+    "id": "sophia-a-work-of-propaganda-behind-the-mask-of-hegel",
+    "title": "A Work of “Propaganda” Behind the Mask of Hegel",
+    "level": 2
+   },
+   {
+    "id": "sophia-sophia-and-the-horizon-of-russian-thought",
+    "title": "Sophia and the Horizon of Russian Thought",
+    "level": 2
+   },
+   {
+    "id": "sophia-notes-on-this-edition",
+    "title": "Notes on This Edition",
+    "level": 2
+   },
+   {
+    "id": "sophia-contents",
+    "title": "Contents",
+    "level": 1
+   },
+   {
+    "id": "sophia-part-one-2",
+    "title": "Part One",
+    "level": 1
+   },
+   {
+    "id": "sophia-perfect-knowledge-or-wisdom-sophia-and-philosophy-as-the-pursuit-of-perfect-know",
+    "title": "Perfect knowledge, or “wisdom” (Sophia), and philosophy as the pursuit of perfect knowledge",
+    "level": 2
+   },
+   {
+    "id": "sophia-i-the-ideal-of-wisdom-as-the-ideal-of-conscious-awareness",
+    "title": "I. The ideal of “wisdom” as the ideal of conscious awareness",
+    "level": 2
+   },
+   {
+    "id": "sophia-1-wisdom-as-complete-self-knowledge",
+    "title": "1. “Wisdom” as complete self-knowledge",
+    "level": 3
+   },
+   {
+    "id": "sophia-2-wisdom-as-revolutionary-and-socialist-conscious-awareness",
+    "title": "2. “Wisdom” as revolutionary and socialist “conscious awareness”",
+    "level": 3
+   },
+   {
+    "id": "sophia-3-wisdom-as-ethical-perfection",
+    "title": "3. “Wisdom” as ethical perfection",
+    "level": 3
+   },
+   {
+    "id": "sophia-ii-perfect-knowledge-as-wisdom-that-is-as-the-completion-of-conscious-awareness",
+    "title": "II. Perfect knowledge as “wisdom,” that is, as the completion of conscious awareness",
+    "level": 2
+   },
+   {
+    "id": "sophia-1-wisdom-as-completed-self-consciousness",
+    "title": "1. “Wisdom” as completed self-consciousness",
+    "level": 3
+   },
+   {
+    "id": "sophia-2-wisdom-as-perfect-or-absolute-knowledge",
+    "title": "2. “Wisdom” as perfect or “absolute” knowledge",
+    "level": 3
+   },
+   {
+    "id": "sophia-iii-philosophy-as-the-pursuit-of-complete-conscious-awareness-that-is-as-the-pat",
+    "title": "III. Philosophy as the pursuit of complete conscious awareness, that is, as the path to perfect knowledge",
+    "level": 2
+   },
+   {
+    "id": "sophia-1-philosophy-as-incomplete-or-imperfect-knowledge-that-is-as-partial-or-fragment",
+    "title": "1. Philosophy as incomplete or imperfect knowledge, that is, as partial or fragmentary knowledge",
+    "level": 3
+   },
+   {
+    "id": "sophia-2-philosophy-as-the-ability-to-ask-questions",
+    "title": "2. Philosophy as the ability to ask questions",
+    "level": 3
+   },
+   {
+    "id": "sophia-part-two-2",
+    "title": "Part Two",
+    "level": 1
+   },
+   {
+    "id": "sophia-phenomenology-as-a-dialectical-introduction-to-philosophy",
+    "title": "Phenomenology as a dialectical introduction to philosophy",
+    "level": 2
+   },
+   {
+    "id": "sophia-i-the-purpose-theme-and-object-of-a-phenomenology",
+    "title": "I. The purpose, theme, and object of a Phenomenology",
+    "level": 2
+   },
+   {
+    "id": "sophia-1-the-purpose-of-a-phenomenology",
+    "title": "1. The purpose of a Phenomenology",
+    "level": 3
+   },
+   {
+    "id": "sophia-2-the-theme-and-object-of-a-phenomenology",
+    "title": "2. The theme and object of a Phenomenology",
+    "level": 3
+   },
+   {
+    "id": "sophia-ii-the-method-of-phenomenology",
+    "title": "II. The method of Phenomenology",
+    "level": 2
+   },
+   {
+    "id": "sophia-1-phenomenological-description-and-real-dialectic",
+    "title": "1. Phenomenological description and real dialectic",
+    "level": 3
+   },
+   {
+    "id": "sophia-2-phenomenological-a-posteriori-deduction",
+    "title": "2. Phenomenological “ a posteriori deduction”",
+    "level": 3
+   },
+   {
+    "id": "sophia-3-the-circularity-of-phenomenology",
+    "title": "3. The circularity of Phenomenology",
+    "level": 3
+   },
+   {
+    "id": "sophia-iii-the-structure-of-phenomenology",
+    "title": "III. The structure of Phenomenology",
+    "level": 2
+   },
+   {
+    "id": "sophia-1-the-place-of-phenomenology-within-the-system",
+    "title": "1. The place of Phenomenology within the system",
+    "level": 3
+   },
+   {
+    "id": "sophia-2-the-three-fundamental-parts-of-phenomenology",
+    "title": "2. The three fundamental parts of Phenomenology",
+    "level": 3
+   },
+   {
+    "id": "sophia-3-the-structural-features-of-phenomenology",
+    "title": "3. The structural features of Phenomenology",
+    "level": 3
+   },
+   {
+    "id": "sophia-end-of-the-introduction",
+    "title": "End of the Introduction",
+    "level": 2
+   },
+   {
+    "id": "sophia-appendix-notes-by-alexandre-koj-ve",
+    "title": "Appendix — Notes by Alexandre Kojève",
+    "level": 1
+   },
+   {
+    "id": "sophia-editorial-notes",
+    "title": "Editorial Notes",
+    "level": 1
+   }
+  ]
+ }
+}

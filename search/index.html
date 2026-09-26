@@ -1,19 +1,53 @@
 <!doctype html>
 <html lang="en" data-theme="light">
-<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="Search every text in The Library. Find passages across English translations, Arabic originals and German source text."><title>Search — The Library</title>
-<script>try{document.documentElement.dataset.theme=localStorage.getItem('minimal-library-theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light')}catch{}</script>
-<link rel="icon" href="../assets/library-mark.svg?v=2a24eb928c" type="image/svg+xml"><link rel="stylesheet" href="../assets/library.css?v=0c740e2f10"><link rel="stylesheet" href="search.css?v=ca9d6d70ae"><script src="search.js?v=fab0a1c4fb" defer></script>
-<link rel="stylesheet" href="../assets/page-transitions.css?v=e0aae66e21">
-</head><body>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Search — The Library</title>
+<meta name="description" content="Search every text in The Library: English translations, Arabic originals and German source text.">
+<meta name="theme-color" content="#f5f2eb">
+<link rel="canonical" href="https://tmoc-89.github.io/tmoc-books/search/">
+<meta property="og:site_name" content="The Library">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Search — The Library">
+<meta property="og:description" content="Search every text in The Library: English translations, Arabic originals and German source text.">
+<meta property="og:url" content="https://tmoc-89.github.io/tmoc-books/search/">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="../assets/library-mark.svg?v=cacc353fba" type="image/svg+xml">
+<script>(function(){var d=document.documentElement;try{var t=localStorage.getItem('minimal-library-theme');d.dataset.theme=t==='dark'||t==='light'?t:(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light')}catch(e){}})();</script>
+<link rel="stylesheet" href="../assets/base.css?v=abe07b7d38">
+<link rel="stylesheet" href="../assets/library.css?v=652cb20948">
+<script>window.SEARCH_WORKER="search-worker.js?v=d8f4c9519d";</script>
+<script src="../assets/library.js?v=41019041d8" defer></script>
+<script src="../search/search.js?v=fbfacebbb3" defer></script>
+</head>
+<body id="top">
+<svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" style="position:absolute" aria-hidden="true"><symbol id="i-moon" viewBox="0 0 24 24"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5Z"/></symbol><symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v2M12 19.5v2M4.5 12h-2M21.5 12h-2M5.6 5.6l1.4 1.4M17 17l1.4 1.4M5.6 18.4 7 17M17 7l1.4-1.4"/></symbol><symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6"/><path d="m15 15 5 5"/></symbol><symbol id="i-arrow-up-right" viewBox="0 0 24 24"><path d="M7 17 17 7M9 7h8v8"/></symbol><symbol id="i-arrow-right" viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></symbol><symbol id="i-close" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6 6 18"/></symbol></svg>
 <a class="skip-link" href="#search-results">Skip to results</a>
-<div class="library-shell search-shell"><header class="library-top"><a class="wordmark" href="../"><svg viewBox="0 0 32 32" width="30" height="30" fill="none" aria-hidden="true"><path d="M16 8C11 5 6 5 3 6v20c5-1 9 0 13 3 4-3 8-4 13-3V6c-3-1-8-1-13 2ZM16 8v21" stroke="currentColor" stroke-width="1.5"/></svg><span>The Library<br>Community Translations</span></a><nav class="top-links" aria-label="Main navigation"><a href="../">Collection</a><button id="search-theme" class="icon-btn" type="button" aria-label="Use dark mode">☾</button></nav></header>
+<div class="shell">
+<header class="site-top">
+<a class="wordmark" href="../"><svg viewBox="0 0 32 32" width="28" height="28" fill="none" aria-hidden="true"><path d="M16 8C11 5 6 5 3 6v20c5-1 9 0 13 3 4-3 8-4 13-3V6c-3-1-8-1-13 2Z" stroke="currentColor" stroke-width="1.5"/><path d="M16 8v21M7 11c2 0 4 .5 5 1M7 16c2 0 4 .5 5 1M21 12c1-1 3-1 4-1M21 17c1-1 3-1 4-1" stroke="currentColor" stroke-width="1.5"/></svg><span><strong>The Library</strong><small>Community Translations</small></span></a>
+<nav class="top-links" aria-label="Main"><a href="../#collection">Collection</a><a href="../search/" aria-current="page">Search</a><a href="../#about">About</a><button class="icon-btn outlined theme-toggle" id="theme-toggle" type="button" aria-label="Switch to dark theme" title="Switch to dark theme"><svg class="i" aria-hidden="true"><use href="#i-moon"/></svg></button></nav>
+</header>
 <main>
-<div class="search-heading"><p class="eyebrow">Explore the texts</p><h1>Follow a thought<span class="title-stop">.</span></h1><p>Find a passage across the Library’s translations and original texts.</p></div>
-<form class="global-search" id="search-form" role="search"><label class="sr-only" for="query">Search all texts</label><svg viewBox="0 0 24 24" width="24" height="24" fill="none" aria-hidden="true"><circle cx="10" cy="10" r="6.5" stroke="currentColor" stroke-width="1.5"/><path d="m15 15 6 6" stroke="currentColor" stroke-width="1.5"/></svg><input id="query" name="q" type="search" placeholder="A name, an idea, a phrase…" maxlength="120" autocomplete="off" enterkeyhint="search"><button type="submit">Search <span aria-hidden="true">↗</span></button></form>
-<div class="search-options"><div><label for="work-filter">Work</label><select id="work-filter"><option value="all">All works</option></select></div><div><label for="language-filter">Text language</label><select id="language-filter"><option value="all">All languages</option><option value="en">English</option><option value="ar">Arabic</option><option value="de">German</option></select></div><p>Use “quotation marks” for an exact phrase.</p></div>
-<section class="search-results" id="search-results" aria-labelledby="results-title" tabindex="-1"><div class="results-top"><h2 id="results-title">A place to begin</h2><span id="result-summary" role="status" aria-live="polite" aria-atomic="true"></span></div><div class="search-progress" id="search-progress" hidden><span></span></div>
-<div id="search-intro" class="search-intro"><div class="intro-mark" aria-hidden="true">“</div><h3>Where will a word take you?</h3><p>Search inside every book, then follow a passage back to its context.</p><div class="suggestions" aria-label="Search suggestions"><button type="button" data-query="Marx">Marx ↗</button><button type="button" data-query="philosophy">Philosophy ↗</button><button type="button" data-query="الحرية" lang="ar" dir="rtl">الحرية ↖</button></div><p class="search-note">English, Arabic and German · Accents and Arabic vowel marks are optional</p></div>
-<div id="search-message" class="search-message" hidden></div><div id="results-list"></div><div class="more-row"><button id="load-more" class="reset-button" type="button" hidden>More passages ↓</button></div>
-</section><noscript><p>This search needs JavaScript to look through the texts. You can still <a href="../">browse and read every book</a>.</p></noscript>
-</main><footer class="library-foot"><span>The Library <span aria-hidden="true">/</span> Search the collection</span><p>Read freely. Follow the passage to its source.</p><a href="../">Back to the collection ↗</a></footer></div>
-</body></html>
+<div class="search-heading"><p class="eyebrow">Explore the texts</p><h1>Follow a thought<span class="title-stop">.</span></h1><p>Find a passage anywhere in the Library’s translations and original texts.</p></div>
+<form class="global-search" id="search-form" role="search"><label class="sr-only" for="query">Search all texts</label><svg class="i" aria-hidden="true"><use href="#i-search"/></svg><input id="query" name="q" type="search" placeholder="A name, an idea, a phrase…" maxlength="120" autocomplete="off" enterkeyhint="search" spellcheck="false"><button type="button" class="icon-btn clear-btn" id="clear-query" aria-label="Clear search" hidden><svg class="i" aria-hidden="true"><use href="#i-close"/></svg></button><button type="submit" class="btn primary">Search</button></form>
+<div class="search-options"><div class="select-wrap"><label for="work-filter">Work</label><select id="work-filter"><option value="all">All works</option></select></div><div class="select-wrap"><label for="language-filter">Language</label><select id="language-filter"><option value="all">All languages</option><option value="en">English</option><option value="ar">Arabic</option><option value="de">German</option></select></div><p class="search-tip">Use “quotation marks” for an exact phrase.</p></div>
+<section class="search-results" id="search-results" aria-labelledby="results-title" tabindex="-1">
+<div class="results-top"><h2 id="results-title">A place to begin</h2><span id="result-summary" role="status" aria-live="polite" aria-atomic="true"></span></div>
+<div class="search-progress" id="search-progress" hidden><span></span></div>
+<div id="search-intro" class="search-intro"><h3>Where will a word take you?</h3><p>Search inside every book, then follow a passage back to its place in the text.</p>
+<div class="suggestions" aria-label="Suggestions"><button type="button" data-query="Marx">Marx</button><button type="button" data-query="Hegel">Hegel</button><button type="button" data-query="Ibn Sina">Ibn Sīnā</button><button type="button" data-query="Karbala">Karbala</button><button type="button" data-query="&quot;social justice&quot;">“social justice”</button><button type="button" data-query="الحرية" lang="ar" dir="rtl">الحرية</button></div>
+<p class="search-note">English, Arabic and German · Accents and Arabic vowel marks are optional · Arabic words match with or without prefixes like ال and و</p></div>
+<div id="search-message" class="search-message" hidden></div><ol id="results-list" class="results-list"></ol><div class="more-row"><button id="load-more" class="btn" type="button" hidden>More passages</button></div>
+</section>
+<noscript><p class="search-message">Search needs JavaScript. You can still <a href="../">browse and read every book</a>.</p></noscript>
+</main>
+<footer class="site-foot">
+<p><strong>The Library</strong> · Community Translations</p>
+<p>Have a book in mind? Reach out on the community Discord to add it to the queue.</p>
+<a href="#top">Back to top <span aria-hidden="true">↑</span></a>
+</footer>
+</div>
+</body>
+</html>

@@ -1,0 +1,209 @@
+{
+ "searchId": 0,
+ "slug": "heroes-without-history",
+ "path": "heroes-without-history",
+ "pageTitle": "Heroes Without History",
+ "description": "Heroes Without History / أبطال بلا تاريخ",
+ "languages": [
+  "en",
+  "ar"
+ ],
+ "langKey": "minimal-library-lang-heroes-without-history",
+ "title": {
+  "en": "Heroes Without History",
+  "ar": "أبطال بلا تاريخ"
+ },
+ "subtitle": {
+  "en": "Greek Mythology and Arab Legends",
+  "ar": "الميثولوجيا الإغريقية والأساطير العربية"
+ },
+ "author": {
+  "en": "Fadel al-Rubaie",
+  "ar": "فاضل الربيعي"
+ },
+ "edition": {
+  "en": "English translation · Arabic original",
+  "ar": "الترجمة الإنجليزية · النص العربي الأصلي"
+ },
+ "downloads": {
+  "en": "Heroes Without History - English.md"
+ },
+ "home": {
+  "href": "../",
+  "label": "Library"
+ },
+ "review": {
+  "slug": "heroes-without-history",
+  "title": "Heroes Without History",
+  "sourceLanguage": "ar",
+  "version": "40cabb0269bfe238",
+  "englishMarkdown": "Heroes Without History - English.md",
+  "sourceMarkdown": "أبطال بلا تاريخ - العربية.md"
+ },
+ "nav": {
+  "en": [
+   {
+    "id": "en-contents",
+    "title": "Contents",
+    "level": 1
+   },
+   {
+    "id": "en-introduction",
+    "title": "Introduction",
+    "level": 1
+   },
+   {
+    "id": "en-chapter-01",
+    "title": "The Legend of al-Nadira’s Marriage and the Siege of the City-State of Hatra",
+    "level": 1
+   },
+   {
+    "id": "en-chapter-02",
+    "title": "The Legend of al-Khawarnaq Palace and Sinnimar’s Reward",
+    "level": 1
+   },
+   {
+    "id": "en-chapter-03",
+    "title": "al-Zabbaʾ Is Not Zenobia",
+    "level": 1
+   },
+   {
+    "id": "en-chapter-04",
+    "title": "The Wars of Alexander the Great and the Legend of Zarqaʾ al-Yamama",
+    "level": 1
+   },
+   {
+    "id": "en-chapter-05",
+    "title": "The Fabrication of Yemen’s History and the Greco-Persian Wars",
+    "level": 1
+   },
+   {
+    "id": "en-chapter-06",
+    "title": "Did Arab Tribes Find Yemeni Inscriptions Beneath the Foundations of the Kaaba?",
+    "level": 1
+   },
+   {
+    "id": "en-chapter-07",
+    "title": "The Armour of al-Nuʿman or the Armour of Imruʾ al-Qays?",
+    "level": 1
+   },
+   {
+    "id": "en-chapter-08",
+    "title": "The Legend of Abu Righal and the Year of the Elephant Campaign against Mecca",
+    "level": 1
+   },
+   {
+    "id": "en-chapter-09",
+    "title": "Arab Pharaohs in Egypt and “Foreign Gods” in Crete",
+    "level": 1
+   },
+   {
+    "id": "en-chapter-10",
+    "title": "The Fabrication of Imruʾ al-Qays",
+    "level": 1
+   },
+   {
+    "id": "en-chapter-11",
+    "title": "Who Was the First al-Aʿsha, and Who Was the Seventeenth?",
+    "level": 1
+   },
+   {
+    "id": "en-chapter-12",
+    "title": "The Fish, the Pen, and the Qurʾanic Nun",
+    "level": 1
+   },
+   {
+    "id": "en-notes",
+    "title": "Notes",
+    "level": 1
+   },
+   {
+    "id": "en-indexes",
+    "title": "Indexes",
+    "level": 1
+   }
+  ],
+  "ar": [
+   {
+    "id": "ar-contents",
+    "title": "المحتوى",
+    "level": 1
+   },
+   {
+    "id": "ar-introduction",
+    "title": "مدخل",
+    "level": 1
+   },
+   {
+    "id": "ar-chapter-01",
+    "title": "أسطورة زواج النضيرة وحصار دويلة الحضر",
+    "level": 1
+   },
+   {
+    "id": "ar-chapter-02",
+    "title": "أسطورة قصر الخورنق وجزاء سنمار",
+    "level": 1
+   },
+   {
+    "id": "ar-chapter-03",
+    "title": "الزبَّاء ليست زنوبيا",
+    "level": 1
+   },
+   {
+    "id": "ar-chapter-04",
+    "title": "حروب الإسكندر المقدوني وأسطورة زرقاء اليمامة",
+    "level": 1
+   },
+   {
+    "id": "ar-chapter-05",
+    "title": "تلفيق تاريخ اليمن القديم والحروب اليونانية - الفارسية",
+    "level": 1
+   },
+   {
+    "id": "ar-chapter-06",
+    "title": "هل عثرت القبائل العربية على نقوش يمنية تحت أساسات الكعبة؟",
+    "level": 1
+   },
+   {
+    "id": "ar-chapter-07",
+    "title": "دروع النعمان أم دروع امرئ القيس؟",
+    "level": 1
+   },
+   {
+    "id": "ar-chapter-08",
+    "title": "أسطورة أبي رغال في حملة عام الفيل على مكة",
+    "level": 1
+   },
+   {
+    "id": "ar-chapter-09",
+    "title": "فراعنة عرب في مصر و(آلهة أجنبية) في كريت",
+    "level": 1
+   },
+   {
+    "id": "ar-chapter-10",
+    "title": "اختلاق امرئ القيس",
+    "level": 1
+   },
+   {
+    "id": "ar-chapter-11",
+    "title": "مَن الأعشى الأول ومَن الأعشى السابع عشر؟",
+    "level": 1
+   },
+   {
+    "id": "ar-chapter-12",
+    "title": "السمكة والقلم: نون القرآنية",
+    "level": 1
+   },
+   {
+    "id": "ar-notes",
+    "title": "الهوامش",
+    "level": 1
+   },
+   {
+    "id": "ar-indexes",
+    "title": "الفهارس",
+    "level": 1
+   }
+  ]
+ }
+}

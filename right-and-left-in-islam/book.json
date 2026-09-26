@@ -1,0 +1,149 @@
+{
+ "searchId": 1,
+ "slug": "right-and-left-in-islam",
+ "path": "right-and-left-in-islam",
+ "pageTitle": "Right and Left in Islam",
+ "description": "Right and Left in Islam / اليمين واليسار في الإسلام",
+ "languages": [
+  "en",
+  "ar"
+ ],
+ "langKey": "minimal-library-lang-right-and-left-in-islam",
+ "title": {
+  "en": "Right and Left in Islam",
+  "ar": "اليمين واليسار في الإسلام"
+ },
+ "subtitle": {
+  "en": "",
+  "ar": ""
+ },
+ "author": {
+  "en": "Ahmad Abbas Saleh",
+  "ar": "أحمد عباس صالح"
+ },
+ "edition": {
+  "en": "Second edition · January 1973 · Beirut",
+  "ar": "الطبعة الثانية · كانون الثاني 1973 · بيروت"
+ },
+ "downloads": {
+  "en": "Right and Left in Islam - English.md"
+ },
+ "home": {
+  "href": "../",
+  "label": "Library"
+ },
+ "review": {
+  "slug": "right-and-left-in-islam",
+  "title": "Right and Left in Islam",
+  "sourceLanguage": "ar",
+  "version": "6a72b6edb25c7b84",
+  "englishMarkdown": "Right and Left in Islam - English.md",
+  "sourceMarkdown": "اليمين واليسار في الإسلام - العربية.md"
+ },
+ "nav": {
+  "en": [
+   {
+    "id": "en-right-left",
+    "title": "Right and Left",
+    "level": 1
+   },
+   {
+    "id": "en-mecca",
+    "title": "The Reality of Mecca Before Islam",
+    "level": 1
+   },
+   {
+    "id": "en-centre",
+    "title": "The Centre Takes Power",
+    "level": 1
+   },
+   {
+    "id": "en-right-revolution",
+    "title": "The Right and the Revolution",
+    "level": 1
+   },
+   {
+    "id": "en-left-revolution",
+    "title": "The Revolution of the Left",
+    "level": 1
+   },
+   {
+    "id": "en-idealism",
+    "title": "The Idealism of the Left and the Opportunism of the Right",
+    "level": 1
+   },
+   {
+    "id": "en-eliminating-left",
+    "title": "Eliminating the Left",
+    "level": 1
+   },
+   {
+    "id": "en-final-round",
+    "title": "The Final Round",
+    "level": 1
+   },
+   {
+    "id": "en-references",
+    "title": "References",
+    "level": 1
+   },
+   {
+    "id": "en-contents",
+    "title": "Contents",
+    "level": 1
+   }
+  ],
+  "ar": [
+   {
+    "id": "ar-right-left",
+    "title": "اليمين واليسار",
+    "level": 1
+   },
+   {
+    "id": "ar-mecca",
+    "title": "حقيقة مكة قبل الإسلام",
+    "level": 1
+   },
+   {
+    "id": "ar-centre",
+    "title": "الوسط يستولي على الحكم",
+    "level": 1
+   },
+   {
+    "id": "ar-right-revolution",
+    "title": "اليمين والثورة",
+    "level": 1
+   },
+   {
+    "id": "ar-left-revolution",
+    "title": "ثورة اليسار",
+    "level": 1
+   },
+   {
+    "id": "ar-idealism",
+    "title": "مثالية اليسار وانتهازية اليمين",
+    "level": 1
+   },
+   {
+    "id": "ar-eliminating-left",
+    "title": "تصفية اليسار",
+    "level": 1
+   },
+   {
+    "id": "ar-final-round",
+    "title": "الجولة الأخيرة",
+    "level": 1
+   },
+   {
+    "id": "ar-references",
+    "title": "المراجع",
+    "level": 1
+   },
+   {
+    "id": "ar-contents",
+    "title": "الفهرست",
+    "level": 1
+   }
+  ]
+ }
+}

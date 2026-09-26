@@ -1,0 +1,140 @@
+{
+ "searchId": 4,
+ "slug": "patience-and-victory",
+ "path": "patience-and-victory",
+ "pageTitle": "Patience and Victory",
+ "description": "Patience and Victory / صبرٌ ونصر",
+ "languages": [
+  "en",
+  "ar"
+ ],
+ "langKey": "minimal-library-lang-patience-and-victory",
+ "title": {
+  "en": "Patience and Victory",
+  "ar": "صبرٌ ونصر"
+ },
+ "subtitle": {
+  "en": "Lessons from Karbala",
+  "ar": "دروس من كربلاء"
+ },
+ "author": {
+  "en": "Sayyid Hassan Nasrallah",
+  "ar": "السيد حسن نصر الله"
+ },
+ "edition": {
+  "en": "First edition · Dar al-Mawadda · September 2017",
+  "ar": "الطبعة الأولى · دار المودّة · أيلول 2017"
+ },
+ "downloads": {
+  "en": "Patience and Victory - English.md",
+  "ar": "Patience and Victory - Arabic.md"
+ },
+ "home": {
+  "href": "../",
+  "label": "Library"
+ },
+ "review": {
+  "slug": "patience-and-victory",
+  "title": "Patience and Victory",
+  "sourceLanguage": "ar",
+  "version": "de17d797d8a84cc5",
+  "englishMarkdown": "Patience and Victory - English.md",
+  "sourceMarkdown": "Patience and Victory - Arabic.md"
+ },
+ "nav": {
+  "en": [
+   {
+    "id": "en-contents",
+    "title": "Contents",
+    "level": 1
+   },
+   {
+    "id": "en-publisher-foreword",
+    "title": "Publisher’s Foreword",
+    "level": 1
+   },
+   {
+    "id": "en-chapter-one",
+    "title": "The True Meaning of Husayn’s Victory: In This Life and the Next",
+    "level": 1
+   },
+   {
+    "id": "en-chapter-two",
+    "title": "Husayn’s Struggle: The Roots and Origins of the Conflict",
+    "level": 1
+   },
+   {
+    "id": "en-chapter-three",
+    "title": "How Iblis Works and How We Can Resist Him",
+    "level": 1
+   },
+   {
+    "id": "en-chapter-four",
+    "title": "Enjoining Good and Forbidding Evil in Imam Husayn’s Movement",
+    "level": 1
+   },
+   {
+    "id": "en-chapter-five",
+    "title": "Lessons from Husayn’s Movement: The Meaning and Practice of Patience",
+    "level": 1
+   },
+   {
+    "id": "en-conclusion",
+    "title": "Conclusion",
+    "level": 1
+   },
+   {
+    "id": "en-notes",
+    "title": "Notes",
+    "level": 1
+   }
+  ],
+  "ar": [
+   {
+    "id": "ar-contents",
+    "title": "فهرس العناوين",
+    "level": 1
+   },
+   {
+    "id": "ar-publisher-foreword",
+    "title": "مقدمة الناشر",
+    "level": 1
+   },
+   {
+    "id": "ar-chapter-one",
+    "title": "حقيقة النصر الحسيني في حسابات الدنيا والآخرة",
+    "level": 1
+   },
+   {
+    "id": "ar-chapter-two",
+    "title": "الصراع الحسيني: قراءة في جذور المواجهة وأصولها",
+    "level": 1
+   },
+   {
+    "id": "ar-chapter-three",
+    "title": "في طبيعة النشاط الإبليسي وسبل ومقدرات مواجهته",
+    "level": 1
+   },
+   {
+    "id": "ar-chapter-four",
+    "title": "الأمر بالمعروف والنهي عن المنكر حركة الإمام الحسين عليه السلام",
+    "level": 1
+   },
+   {
+    "id": "ar-chapter-five",
+    "title": "قراءة استرشادية في دلالات الحراك الحسيني في مفهوم الصبر ومتعلقاته",
+    "level": 1
+   },
+   {
+    "id": "ar-conclusion",
+    "title": "الخاتمة",
+    "level": 1
+   },
+   {
+    "id": "ar-notes",
+    "title": "الهوامش",
+    "level": 1
+   }
+  ]
+ }
+}
