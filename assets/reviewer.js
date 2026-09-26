@@ -24,7 +24,7 @@
   const Alignment = {
     prepare(en, source) { return { en: intervalMap(en), source: intervalMap(source) }; },
     render(unit, mapped, context, language) {
-      if (language !== 'ar' || !mapped.length) return { html: mapped.map(u => u.html).join(''), label: '' };
+      if (language !== 'ar' || !mapped.length) return { html: mapped.map(unitHtml).join(''), label: '' };
       const e = context.en.get(unit.localIndex);
       return {
         label: 'Approximate source span',
@@ -32,7 +32,7 @@
           const s = context.source.get(u.localIndex);
           let start = 0, end = 1;
           if (e && s) { const width = s.end - s.start; start = Math.max(0, Math.min(1, (e.start - s.start) / width)); end = Math.max(start, Math.min(1, (e.end - s.start) / width)); }
-          return `<div class="aligned-source-unit" data-alignment-start="${start}" data-alignment-end="${end}">${u.html}</div>`;
+          return `<div class="aligned-source-unit" data-alignment-start="${start}" data-alignment-end="${end}">${unitHtml(u)}</div>`;
         }).join(''),
       };
     },
@@ -79,11 +79,25 @@
     c.removeAttribute?.('tabindex');
     return c;
   }
+  // Text of a block as it is published, minus note markers (same result as the text of a cleaned clone).
+  const SKIP_TEXT = '.note-ref,.footnote,.backref,.chapter-pager';
   function cleanText(el) {
-    const c = cleanClone(el);
-    return (c.innerText || c.textContent || '').replace(/ /g, ' ').replace(/[ \t]+\n/g, '\n').replace(/\n[ \t]+/g, '\n').replace(/\n{3,}/g, '\n\n').trim();
+    let out = '';
+    const walker = document.createTreeWalker(el, NodeFilter.SHOW_ELEMENT | NodeFilter.SHOW_TEXT, {
+      acceptNode: n => n.nodeType === 1 ? (n.matches(SKIP_TEXT) ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_SKIP) : NodeFilter.FILTER_ACCEPT,
+    });
+    if (el.matches(SKIP_TEXT)) return '';
+    while (walker.nextNode()) out += walker.currentNode.data;
+    return out.replace(/\u00a0/g, ' ').replace(/[ \t]+\n/g, '\n').replace(/\n[ \t]+/g, '\n').replace(/\n{3,}/g, '\n\n').trim();
   }
   const cleanHtml = el => cleanClone(el).outerHTML;
+  // HTML is only needed for passages that are actually shown, so it is built on demand.
+  const htmlCache = new WeakMap();
+  function unitHtml(u) {
+    let h = htmlCache.get(u.members);
+    if (h === undefined) { h = u.members.map(cleanHtml).join(''); htmlCache.set(u.members, h); }
+    return h;
+  }
   function unitElements(sec) {
     const out = [];
     for (const el of [...sec.children]) {
@@ -96,7 +110,7 @@
   function reviewUnits(sec) {
     const els = unitElements(sec);
     const dateCount = els.filter(el => el.dataset?.journalDate).length;
-    const make = (members, i) => ({ el: members[0], lastEl: members[members.length - 1], members, localIndex: i, tag: members.length > 1 ? 'div' : members[0].tagName.toLowerCase(), text: members.map(cleanText).filter(Boolean).join('\n\n'), html: members.map(cleanHtml).join(''), originId: members.find(x => x.id)?.id || '' });
+    const make = (members, i) => ({ el: members[0], lastEl: members[members.length - 1], members, localIndex: i, tag: members.length > 1 ? 'div' : members[0].tagName.toLowerCase(), text: members.map(cleanText).filter(Boolean).join('\n\n'), originId: members.find(x => x.id)?.id || '' });
     if (dateCount < 3) return els.map((el, i) => make([el], i));
     const groups = []; let current = null;
     for (const el of els) { if (el.dataset?.journalDate) { current = [el]; groups.push(current); } else if (current) current.push(el); else groups.push([el]); }
@@ -239,14 +253,12 @@
       const blocks = textUnits.map((u, bi) => {
         globalIndex++;
         const mapped = srcMap.get(u.localIndex) || [];
-        const aligned = Alignment.render(u, mapped, alignment, CFG.sourceLanguage);
         const id = `${CFG.slug}:${key}:${String(bi + 1).padStart(4, '0')}`;
         const b = {
           id, sectionKey: key, sectionTitle: title, sectionIndex: si, blockIndex: bi, globalIndex, tag: u.tag,
-          publishedText: u.text, publishedHtml: u.html, publishedFingerprint: hashText(u.text),
-          sourceText: mapped.map(x => x.text).filter(Boolean).join('\n\n'), sourceHtml: aligned.html, sourceAlignment: aligned.label,
-          sourceOriginIds: [...new Set(mapped.flatMap(x => (x.members || [x.el]).flatMap(el => [el.id, ...[...el.querySelectorAll('[id]')].map(n => n.id)])).filter(Boolean))],
-          originId: u.originId,
+          publishedText: u.text, publishedFingerprint: hashText(u.text),
+          sourceText: mapped.map(x => x.text).filter(Boolean).join('\n\n'),
+          originId: u.originId, unit: u, mapped, alignment,
         };
         blockMap.set(id, b);
         return b;
@@ -255,6 +267,18 @@
     });
     blockList = sectionList.flatMap(s => s.blocks);
     loadDraft();
+  }
+  function present(b) {
+    if (b.publishedHtml === undefined) {
+      b.publishedHtml = unitHtml(b.unit);
+      const aligned = Alignment.render(b.unit, b.mapped, b.alignment, CFG.sourceLanguage);
+      b.sourceHtml = aligned.html;
+      b.sourceAlignment = aligned.label;
+    }
+    return b;
+  }
+  function originIds(b) {
+    return b.sourceOriginIds ||= [...new Set(b.mapped.flatMap(x => (x.members || [x.el]).flatMap(el => [el.id, ...[...el.querySelectorAll('[id]')].map(n => n.id)])).filter(Boolean))];
   }
   function loadDraft() {
     const raw = safeStore.get(draftKey);
@@ -293,8 +317,9 @@
     return (anchorCache = map);
   }
   function renderBlockHtml(b, sourceAvailable, sel) {
+    present(b);
     const selected = sel.has(b.id), source = sourceAvailable && CFG.sourceLanguage;
-    return `<article class="review-card${selected ? ' selected' : ''}${source ? '' : ' single'}" id="review-block-${b.globalIndex}" data-review-id="${escapeHtml(b.id)}" data-section-key="${escapeHtml(b.sectionKey)}"${b.originId ? ` data-origin-id="${escapeHtml(b.originId)}"` : ''}><div class="review-panel"><button class="review-flag" type="button" aria-pressed="${selected}" aria-label="${selected ? 'Remove' : 'Mark'} this passage for review" title="${selected ? 'Remove from review' : 'Mark for review'}">${selected ? '✓' : '!'}</button><div class="review-text">${b.publishedHtml}</div><span class="review-block-meta">Passage ${b.blockIndex + 1}</span></div>${source ? `<div class="review-source-panel" data-source-origin-ids="${escapeHtml(b.sourceOriginIds.join(' '))}" dir="${srcDir()}" lang="${srcLang()}">${b.sourceAlignment ? `<span class="source-alignment-label" dir="ltr" lang="en">${b.sourceAlignment}</span>` : ''}<div class="review-text">${b.sourceHtml || '<span class="review-empty-source">Source context is not available for this passage.</span>'}</div></div>` : ''}</article>`;
+    return `<article class="review-card${selected ? ' selected' : ''}${source ? '' : ' single'}" id="review-block-${b.globalIndex}" data-review-id="${escapeHtml(b.id)}" data-section-key="${escapeHtml(b.sectionKey)}"${b.originId ? ` data-origin-id="${escapeHtml(b.originId)}"` : ''}><div class="review-panel"><button class="review-flag" type="button" aria-pressed="${selected}" aria-label="${selected ? 'Remove' : 'Mark'} this passage for review" title="${selected ? 'Remove from review' : 'Mark for review'}">${selected ? '✓' : '!'}</button><div class="review-text">${b.publishedHtml}</div><span class="review-block-meta">Passage ${b.blockIndex + 1}</span></div>${source ? `<div class="review-source-panel" data-source-origin-ids="${escapeHtml(originIds(b).join(' '))}" dir="${srcDir()}" lang="${srcLang()}">${b.sourceAlignment ? `<span class="source-alignment-label" dir="ltr" lang="en">${b.sourceAlignment}</span>` : ''}<div class="review-text">${b.sourceHtml || '<span class="review-empty-source">Source context is not available for this passage.</span>'}</div></div>` : ''}</article>`;
   }
   function renderSelection(preserveY = false) {
     buildData();
@@ -302,31 +327,63 @@
     const sel = selectedSet();
     const shading = CFG.sourceLanguage === 'ar' ? ' Shading in the Arabic marks an approximate span based on passage lengths and structure; it is not a verified word-for-word alignment.' : '';
     const parts = [`<div class="review-intro"><p class="review-kicker">Reviewer Mode</p><h1>${escapeHtml(CFG.title)}</h1><p>Read the published English beside the ${escapeHtml(srcName().toLowerCase())} and mark only the passages that need attention. Your selections and edits are saved on this device. ${CFG.sourceLanguage ? `Where paragraph boundaries differ, the source column keeps the surrounding context.${shading}` : 'The original-language text is not currently available for this edition.'}</p><div class="review-intro-actions"><button class="review-mini-btn primary" type="button" data-review-open-edit ${draft.selected.length ? '' : 'disabled'}>Review selected passages</button><button class="review-mini-btn" type="button" data-review-export-draft>Export draft</button></div></div>`];
+    // Sections are laid out as empty shells first; their passages are filled in as they come
+    // near the screen. Rendering every passage of a long book at once froze phones for seconds.
     for (const s of sectionList) {
-      let cards = (s.facsimiles || []).filter(f => f.afterBlock === 0).map(f => `<div class="review-facsimile">${f.html}</div>`).join('');
-      s.blocks.forEach((b, i) => {
-        cards += renderBlockHtml(b, s.sourceAvailable, sel);
-        cards += (s.facsimiles || []).filter(f => f.afterBlock === i + 1).map(f => `<div class="review-facsimile">${f.html}</div>`).join('');
-      });
-      parts.push(`<section class="review-section${s.sourceAvailable ? '' : ' source-unavailable'}" id="review-section-${slugify(s.key)}" data-section-key="${escapeHtml(s.key)}"><div class="review-section-title"><h2>${escapeHtml(s.title)}</h2><span>${s.blocks.length} passage${s.blocks.length === 1 ? '' : 's'}</span></div><div class="review-column-labels"><span>Published English</span><span>${escapeHtml(srcName())}</span></div>${cards}</section>`);
+      parts.push(`<section class="review-section${s.sourceAvailable ? '' : ' source-unavailable'}" id="review-section-${slugify(s.key)}" data-section-key="${escapeHtml(s.key)}" data-index="${s.index}"><div class="review-section-title"><h2>${escapeHtml(s.title)}</h2><span>${s.blocks.length} passage${s.blocks.length === 1 ? '' : 's'}</span></div><div class="review-column-labels"><span>Published English</span><span>${escapeHtml(srcName())}</span></div><div class="review-cards" style="min-height:${Math.round(s.blocks.length * cardEstimate())}px"></div></section>`);
     }
     workspace.innerHTML = parts.join('');
     workspace.dataset.stage = 'select';
-    observeSpans(workspace);
+    filled = new Set();
+    fillObserver?.disconnect();
+    fillObserver = 'IntersectionObserver' in window ? new IntersectionObserver(entries => {
+      for (const e of entries) if (e.isIntersecting) fillSection(Number(e.target.dataset.index));
+    }, { rootMargin: '1500px 0px' }) : null;
+    for (const el of $$('.review-section', workspace)) { if (fillObserver) fillObserver.observe(el); else fillSection(Number(el.dataset.index)); }
     setupReviewNav();
     updateCount();
     if (!preserveY) scrollTo({ top: 0, behavior: 'auto' });
+  }
+  let filled = new Set(), fillObserver = null, measuredCard = 0;
+  const cardEstimate = () => measuredCard || (innerWidth < 960 ? 330 : 200);
+  function fillSection(i) {
+    if (filled.has(i) || stage !== 'select') return null;
+    const s = sectionList[i];
+    const shell = document.getElementById(`review-section-${slugify(s.key)}`);
+    if (!s || !shell) return null;
+    filled.add(i);
+    fillObserver?.unobserve(shell);
+    const sel = selectedSet();
+    let cards = (s.facsimiles || []).filter(f => f.afterBlock === 0).map(f => `<div class="review-facsimile">${f.html}</div>`).join('');
+    s.blocks.forEach((b, n) => {
+      cards += renderBlockHtml(b, s.sourceAvailable, sel);
+      cards += (s.facsimiles || []).filter(f => f.afterBlock === n + 1).map(f => `<div class="review-facsimile">${f.html}</div>`).join('');
+    });
+    const box = shell.querySelector('.review-cards');
+    box.innerHTML = cards;
+    box.style.minHeight = '';
+    observeSpans(box);
+    if (!measuredCard && s.blocks.length >= 8) {
+      measuredCard = box.offsetHeight / s.blocks.length;
+      for (const other of $$('.review-cards[style*="min-height"]', workspace)) {
+        const n = sectionList[Number(other.closest('.review-section').dataset.index)].blocks.length;
+        other.style.minHeight = Math.round(n * measuredCard) + 'px';
+      }
+    }
+    return shell;
   }
   const editValue = b => Object.prototype.hasOwnProperty.call(draft.edits, b.id) ? draft.edits[b.id] : b.publishedText;
   const noteValue = b => draft.notes[b.id] || '';
   const isChanged = b => editValue(b) !== b.publishedText;
   function renderEditCard(b) {
+    present(b);
     const changed = isChanged(b), note = noteValue(b), source = !!(CFG.sourceLanguage && b.sourceText);
     return `<article class="review-edit-card${changed ? ' changed' : ''}${source ? '' : ' no-source'}" id="review-edit-${b.globalIndex}" data-review-id="${escapeHtml(b.id)}" data-section-key="${escapeHtml(b.sectionKey)}"><div class="review-edit-card-head"><div class="review-breadcrumb">${escapeHtml(b.sectionTitle)} · passage ${b.blockIndex + 1}</div><span class="review-status">${changed ? 'Edited' : 'Unchanged'}</span></div><div class="review-edit-grid"><div class="review-editor"><label for="edit-${b.globalIndex}">Current / proposed English</label><textarea class="review-textarea" id="edit-${b.globalIndex}" spellcheck="true">${escapeHtml(editValue(b))}</textarea><div class="review-card-tools"><button type="button" class="review-reset">Reset to published translation</button><button type="button" class="review-remove">Remove from review</button></div><details class="review-note"${note ? ' open' : ''}><summary>${note ? 'Reviewer note' : 'Add note'}</summary><textarea class="review-note-input" aria-label="Reviewer note" placeholder="Optional context for this correction">${escapeHtml(note)}</textarea></details><div class="review-diff"><span class="review-diff-label">Change preview</span><div class="review-diff-text"></div></div></div>${source ? `<div class="review-source-edit" lang="${srcLang()}" dir="${srcDir()}"><span class="source-label">${escapeHtml(srcName())}</span>${b.sourceAlignment ? `<span class="source-alignment-label" dir="ltr" lang="en">${b.sourceAlignment}</span>` : ''}<div class="review-text">${b.sourceHtml}</div></div>` : ''}</div></article>`;
   }
   function renderEdit() {
     buildData();
     stage = 'edit';
+    fillObserver?.disconnect();
     const selected = draft.selected.map(id => blockMap.get(id)).filter(Boolean).sort((a, b) => a.globalIndex - b.globalIndex);
     workspace.innerHTML = `<div class="review-edit-head"><div><p class="review-kicker">Reviewer Mode · Edit</p><h2>Selected passages</h2><p>Edit only what needs changing. Each field starts with the full published translation; additions show in green and removals in red.</p></div><div class="review-edit-actions"><button class="review-mini-btn" type="button" data-review-back>Back to selection</button><button class="review-mini-btn" type="button" data-review-export-draft>Export draft</button><button class="review-mini-btn primary" type="button" data-review-submit>Submit review</button></div></div>${selected.length ? `<div class="review-edit-list">${selected.map(renderEditCard).join('')}</div>` : '<div class="review-empty">No passages are selected yet.</div>'}`;
     workspace.dataset.stage = 'edit';
@@ -400,20 +457,18 @@
 
   /* ---------- sidebar in review mode ---------- */
   const tocLinks = () => $$('.toc[data-l="en"] a, .toc:not([data-l]) a');
-  function reviewNavTarget(a) {
+  function reviewNavTarget(a, fill) {
     const anchors = sectionAnchors();
     const href = decodeURIComponent((a.getAttribute('href') || '').replace(/^#/, ''));
     const original = href && document.getElementById(href);
-    if (original) {
-      const sec = original.closest('.book-section');
-      if (sec) {
-        const k = sec.dataset.key || sec.id;
-        if (stage === 'edit') return workspace.querySelector(`[data-section-key="${CSS.escape(k)}"]`);
-        if (original !== sec && anchors.has(href)) return document.getElementById(anchors.get(href));
-        return document.getElementById(anchors.get(k) || '');
-      }
-    }
-    return anchors.has(href) ? document.getElementById(anchors.get(href)) : null;
+    const sec = original?.closest('.book-section');
+    if (!sec) return anchors.has(href) ? document.getElementById(anchors.get(href)) : null;
+    const k = sec.dataset.key || sec.id;
+    if (stage === 'edit') return workspace.querySelector(`[data-section-key="${CSS.escape(k)}"]`);
+    const shell = document.getElementById(anchors.get(k) || '');
+    if (original === sec || !anchors.has(href)) return shell;
+    if (fill && shell) fillSection(Number(shell.dataset.index));
+    return document.getElementById(anchors.get(href)) || shell;
   }
   function setupReviewNav() {
     navCleanup?.();
@@ -443,10 +498,32 @@
     const a = e.target.closest('.toc a');
     if (!a) return;
     e.preventDefault(); e.stopImmediatePropagation();
-    const target = reviewNavTarget(a);
     api.closeNav();
-    if (target) scrollTo({ top: Math.max(0, target.getBoundingClientRect().top + scrollY - 72), behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
+    const target = reviewNavTarget(a, true);
+    if (target) goToTarget(target);
   }, true);
+  // Fill the destination and the section before it, then jump; sections filling later only
+  // happen further away, so the destination stays put.
+  let navSeq = 0;
+  addEventListener('wheel', () => navSeq++, { passive: true });
+  addEventListener('touchstart', () => navSeq++, { passive: true });
+  function goToTarget(target) {
+    const shell = target.closest?.('.review-section') || target;
+    const i = Number(shell.dataset?.index);
+    if (!Number.isNaN(i)) { fillSection(i); if (i > 0) fillSection(i - 1); }
+    target.scrollIntoView({ block: 'start' });
+    scrollBy(0, -72);
+    // Sections near the destination fill in as they appear; keep the destination in place meanwhile.
+    const id = ++navSeq;
+    let frames = 0, still = 0;
+    const hold = () => {
+      if (id !== navSeq || !target.isConnected) return;
+      const d = target.getBoundingClientRect().top - 72;
+      if (Math.abs(d) > 1) { scrollBy(0, d); still = 0; } else still++;
+      if (++frames < 40 && still < 4) requestAnimationFrame(hold);
+    };
+    requestAnimationFrame(hold);
+  }
 
   /* ---------- events ---------- */
   function wire() {
@@ -484,11 +561,14 @@
   }
 
   function revealSource(anchor) {
-    const target = $$('[data-source-origin-ids]', workspace).find(el => el.dataset.sourceOriginIds.split(' ').includes(anchor));
-    if (!target) return;
-    const card = target.closest('.review-card') || target;
-    card.scrollIntoView({ block: 'center' });
-    target.classList.add('search-destination');
+    const b = blockList.find(x => originIds(x).includes(anchor));
+    if (!b) return;
+    fillSection(b.sectionIndex);
+    if (b.sectionIndex > 0) fillSection(b.sectionIndex - 1);
+    const card = document.getElementById(`review-block-${b.globalIndex}`);
+    if (!card) return;
+    goToTarget(card);
+    card.querySelector('.review-source-panel')?.classList.add('search-destination');
   }
 
   let wired = false;
@@ -502,10 +582,10 @@
     if (!wired) { wire(); wired = true; }
     api.setCurrent('Loading Reviewer Mode…');
     await loadSourceStore();
-    previous = { lang: api.lang, y: scrollY };
+    // Let the loading label paint before the passages are prepared.
+    await new Promise(r => requestAnimationFrame(() => setTimeout(r, 0)));
+    previous = { y: scrollY, anchor: api.saveAnchor?.() };
     mode = true;
-    root.dataset.lang = 'en';
-    root.lang = 'en';
     body.classList.add('review-mode');
     buildData();
     renderSelection(false);
@@ -518,13 +598,13 @@
     saveDraft(false);
     hideSubmit();
     navCleanup?.(); navCleanup = null;
+    fillObserver?.disconnect(); fillObserver = null;
     body.classList.remove('review-mode', 'nav-open');
     workspace.innerHTML = '';
     workspace.dataset.stage = '';
     $$('.toc a.active').forEach(a => a.classList.remove('active'));
     try { const u = new URL(location.href); u.searchParams.delete('review'); u.searchParams.delete('passage'); u.searchParams.delete('lang'); history.replaceState(null, '', u); } catch {}
-    api.setLang(previous?.lang || 'en');
-    scrollTo({ top: previous?.y || 0, behavior: 'auto' });
+    if (previous?.anchor) api.restore(previous.anchor); else scrollTo({ top: previous?.y || 0, behavior: 'auto' });
     api.setCurrent('');
     api.afterExit();
   }

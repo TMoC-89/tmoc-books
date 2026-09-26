@@ -48,6 +48,8 @@
   }));
   matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => { if (themeChoice === 'auto') applyTheme('auto'); });
 
+  // Lazy rendering of long books is only switched on where it is measured to help (Chromium; see reader.css).
+  const lazy = root.classList.contains('lazy-render');
   const SIZE_MIN = 15, SIZE_MAX = 28, SIZE_DEFAULT = 19;
   const sizeRange = $('#size-range'), sizeValue = $('#size-value');
   let size = Number(store.get(KEYS.size)) || SIZE_DEFAULT;
@@ -58,17 +60,32 @@
     if (sizeValue) sizeValue.textContent = String(size);
     if (save) { if (size === SIZE_DEFAULT) store.del(KEYS.size); else store.set(KEYS.size, size); }
   }
+  /* Changing the size re-flows the whole book, so at most one change is applied per frame
+     (the slider fires many events) and the reading position is restored once, after the last. */
+  let sizeAnchor = null, sizeTarget = size, sizeFrame = 0, sizeIdle = 0;
   function resizeKeepingPlace(next) {
-    const anchor = readingAnchor();
-    applySize(next, true);
-    $$('.book-section[data-rendered]').forEach(s => s.removeAttribute('data-rendered'));
-    estimateSections();
-    if (anchor) restoreAnchor(anchor);
+    if (!sizeAnchor) sizeAnchor = readingAnchor() || { none: true };
+    sizeTarget = Math.max(SIZE_MIN, Math.min(SIZE_MAX, Math.round(next)));
+    if (!sizeFrame) sizeFrame = requestAnimationFrame(() => { sizeFrame = 0; applySize(sizeTarget, true); });
+    clearTimeout(sizeIdle);
+    sizeIdle = setTimeout(() => {
+      const anchor = sizeAnchor;
+      sizeAnchor = null;
+      if (lazy) { $$('.book-section[data-rendered]').forEach(x => x.removeAttribute('data-rendered')); estimateSections(); }
+      if (anchor && !anchor.none) restoreAnchor(anchor);
+    }, 160);
   }
   applySize(size, false);
-  $('#size-down')?.addEventListener('click', () => resizeKeepingPlace(size - 1));
-  $('#size-up')?.addEventListener('click', () => resizeKeepingPlace(size + 1));
-  sizeRange?.addEventListener('input', () => resizeKeepingPlace(Number(sizeRange.value)));
+  $('#size-down')?.addEventListener('click', () => resizeKeepingPlace(sizeTarget - 1));
+  $('#size-up')?.addEventListener('click', () => resizeKeepingPlace(sizeTarget + 1));
+  // While the slider is being dragged only the number changes; the text re-flows when the thumb rests.
+  let dragIdle = 0;
+  sizeRange?.addEventListener('input', () => {
+    if (sizeValue) sizeValue.textContent = sizeRange.value;
+    clearTimeout(dragIdle);
+    dragIdle = setTimeout(() => resizeKeepingPlace(Number(sizeRange.value)), lazy ? 60 : 250);
+  });
+  sizeRange?.addEventListener('change', () => { clearTimeout(dragIdle); resizeKeepingPlace(Number(sizeRange.value)); });
 
   /* Settings popover */
   const settingsBtn = $('#settings-toggle'), settings = $('#settings');
@@ -93,7 +110,7 @@
       const view = views.get(l);
       const list = view ? $$(':scope > .book-section', view).map((el, i) => ({ el, key: el.dataset.key || el.id, title: el.dataset.title || '', index: i })) : [];
       let total = 0;
-      for (const s of list) { s.chars = Math.max(1, s.el.textContent.length); s.before = total; total += s.chars; }
+      for (const s of list) { s.chars = Math.max(1, Number(s.el.dataset.chars) || s.el.textContent.length); s.before = total; total += s.chars; }
       list.total = total || 1;
       sectionCache.set(l, list);
     }
@@ -103,6 +120,7 @@
   /* Estimated heights let the browser skip laying out chapters that are far off screen
      (content-visibility in reader.css). They self-correct from chapters already rendered. */
   function estimateSections() {
+    if (!lazy) return;
     const secs = sections();
     if (!secs.length) return;
     const measured = secs.filter(s => s.el.dataset.rendered === '1').map(s => s.el.offsetHeight / s.chars).filter(x => x > 0);
@@ -115,7 +133,7 @@
     }
     for (const s of secs) if (s.el.dataset.rendered !== '1') s.el.style.setProperty('--est', Math.round(s.chars * perChar + 160) + 'px');
   }
-  document.addEventListener('contentvisibilityautostatechange', e => {
+  if (lazy) document.addEventListener('contentvisibilityautostatechange', e => {
     if (!e.skipped && e.target.classList?.contains('book-section')) e.target.dataset.rendered = '1';
   }, { capture: true });
 
@@ -534,7 +552,9 @@
     setCurrent,
     closeNav,
     toast: showToast,
-    afterExit() { navIndex = null; activeLink = null; estimateSections(); scheduleSpy(); },
+    saveAnchor: () => readingAnchor(),
+    restore: a => restoreAnchor(a),
+    afterExit() { navIndex = null; activeLink = null; scheduleSpy(); },
   };
   async function enterReview(opts) {
     const btn = $('#review-enter');

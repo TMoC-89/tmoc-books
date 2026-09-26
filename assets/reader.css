@@ -212,11 +212,13 @@ html[data-lang="ar"] .cover-actions .btn { font-family: var(--arabic); font-size
   font-kerning: normal; font-variant-ligatures: common-ligatures;
 }
 .language-view > .book-section + .book-section { border-top: 1px solid var(--line); }
-/* Long books render lazily where the browser keeps the scroll position stable (scroll anchoring). */
+/* Long books render lazily: chapters (and the blocks inside them) far from the screen are not
+   laid out. Only enabled where it is measured to help — Chromium, which also keeps the scroll
+   position stable while blocks render. reader.js/build.py set html.lazy-render. Other engines
+   render the book normally, which is what they handle best. */
 @supports (overflow-anchor: auto) and (content-visibility: auto) {
-  .language-view > .book-section { content-visibility: auto; contain-intrinsic-size: auto var(--est, 3000px); }
-  /* Chapters can be very long, so their blocks render lazily too (switching language or jumping far stays fast). */
-  .language-view > .book-section > :not(:first-child, .chapter-pager) { content-visibility: auto; contain-intrinsic-size: auto 7.5em; }
+  html.lazy-render .language-view > .book-section { content-visibility: auto; contain-intrinsic-size: auto var(--est, 3000px); }
+  html.lazy-render .language-view > .book-section > :not(:first-child, .chapter-pager) { content-visibility: auto; contain-intrinsic-size: auto 7.5em; }
 }
 
 .book-section > :is(h1, h2):first-child {

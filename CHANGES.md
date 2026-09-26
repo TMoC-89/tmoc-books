@@ -1,3 +1,26 @@
+# Performance fixes for phones — September 2026
+
+Reported: on a phone, opening the contents, changing the text size and using Reviewer Mode could
+freeze the page for seconds (tens of seconds in Reviewer Mode), which the previous site did not do.
+
+- **Lazy rendering is now Chromium-only.** Long books skip laying out off-screen text with CSS
+  `content-visibility`. The overhaul enabled it wherever the browser claimed support, which now
+  includes Safari 27 (iOS 27). Safari's brand-new implementation had not been tested with books of
+  20,000+ paragraphs, and that is the likely source of the freezes. It is now switched on only in
+  Chromium browsers (Chrome, Edge, Samsung Internet, Android), where it is measured to help; Safari
+  and Firefox render books the way the old site did.
+- **Reviewer Mode renders on demand.** It used to build a card for every passage of the book at once
+  (100,000–140,000 page elements for a *Materialist Tendencies* volume). Sections now fill in as they
+  approach the screen, and the text is prepared without copying each paragraph twice. On a simulated
+  mid-range phone: opening Reviewer Mode 7.7 s → 1.9 s, scrolling and tapping inside it 0.5–3 s →
+  under 0.1 s.
+- **Leaving Reviewer Mode is immediate** (4 s → 0.3–0.9 s) and returns you to the exact passage:
+  the book is kept laid out while you review instead of being rebuilt afterwards.
+- **Text size:** the slider only re-flows the book once you stop dragging (it used to re-flow on
+  every step, 15–20 s for one drag on a slow phone); repeated taps on A/A are combined.
+- Reading progress no longer measures the whole book's text on the phone; the build writes each
+  chapter's length into the page (`data-chars`).
+
 # Site overhaul — September 2026
 
 ## Fixed

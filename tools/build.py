@@ -180,11 +180,15 @@ def normalise_content(content):
     for v in views:
         secs = v['sections']
         for i, s in enumerate(secs):
-            if not s['key']:
-                s['key'] = s['id']
-                new_tag = s['tag'][:-1] + f' data-key="{esc(s["id"])}">'
+            s['title'] = s['title'] or s['key'] or s['id']
+            s['key'] = s['key'] or s['id']
+            # character count, used by the reader for progress without measuring text at runtime
+            chars = len(html.unescape(re.sub(r'<[^>]+>', '', content[s['tag_end']:s['close']])))
+            tag = s['tag'] if ' data-key="' in s['tag'] else s['tag'][:-1] + f' data-key="{esc(s["id"])}">'
+            tag = re.sub(r'\s+data-chars="\d*"', '', tag)
+            new_tag = tag[:-1] + f' data-chars="{chars}">'
+            if new_tag != s['tag']:
                 edits.append((s['open'], len(s['tag']), new_tag))
-            s['title'] = s['title'] or s['key']
         for i, s in enumerate(secs):
             prev = secs[i - 1] if i else None
             nxt = secs[i + 1] if i + 1 < len(secs) else None
@@ -298,7 +302,9 @@ def render_reader(book, library, content, views, prefix, site):
             f"l=L.indexOf(p)>=0?p:(L.indexOf(h.slice(0,2))>=0&&h[2]==='-'?h.slice(0,2):s.getItem({json.dumps(book['langKey'])}));"
             "if(L.indexOf(l)>=0){d.dataset.lang=l;d.lang=l}"
             "var z=+s.getItem('minimal-library-reader-size');if(z>=15&&z<=28)d.style.setProperty('--reader-size',z+'px');"
-            "if(s.getItem('library-sidebar-collapsed')==='1')d.classList.add('sidebar-collapsed')}catch(e){}})();")
+            "if(s.getItem('library-sidebar-collapsed')==='1')d.classList.add('sidebar-collapsed')}catch(e){}"
+            # Lazy rendering of long books is measured to help in Chromium only (see reader.css).
+            "if(navigator.userAgentData)d.classList.add('lazy-render')})();")
     data = {
         'slug': book['slug'], 'path': book['path'], 'root': prefix, 'langKey': book['langKey'], 'languages': langs,
         'titles': {l: L(book['title'], l) for l in langs}, 'documentTitles': doc_titles,

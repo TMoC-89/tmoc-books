@@ -197,7 +197,7 @@ def build(root, library, corpus):
     os.makedirs(os.path.join(out, 'passages'))
     for key, enc in files.items():
         with open(os.path.join(out, 'terms', key + '.json'), 'w', encoding='utf-8') as f:
-            json.dump(enc, f, ensure_ascii=False, separators=(',', ':'))
+            json.dump(dict(sorted(enc.items())), f, ensure_ascii=False, separators=(',', ':'))  # sorted: stable diffs
     for c in range(0, len(records), CHUNK):
         with open(os.path.join(out, 'passages', f'{c // CHUNK}.json'), 'w', encoding='utf-8') as f:
             json.dump([list(r) for r in records[c:c + CHUNK]], f, ensure_ascii=False, separators=(',', ':'))

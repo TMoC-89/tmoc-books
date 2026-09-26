@@ -2,7 +2,20 @@
 
 .reviewer-workspace { display: none; }
 body.review-mode .reviewer-workspace { display: block; }
-body.review-mode .main > :not(.reviewer-workspace) { display: none !important; }
+/* The book stays in the page while reviewing. content-visibility: hidden keeps its layout cached,
+   so leaving Reviewer Mode is instant instead of re-laying-out the whole book. */
+@supports not (content-visibility: hidden) {
+  body.review-mode .main > :not(.reviewer-workspace) { display: none !important; }
+}
+@supports (content-visibility: hidden) {
+  body.review-mode .main > :not(.reviewer-workspace) {
+    content-visibility: hidden; contain-intrinsic-size: none;
+    height: 0; min-height: 0; margin: 0; padding: 0; border: 0; overflow: hidden;
+  }
+}
+/* Interface labels follow the English column while reviewing. */
+html body.review-mode :is(.sidebar, .topbar) span[data-l="en"] { display: inline !important; }
+html body.review-mode :is(.sidebar, .topbar) span[data-l="ar"] { display: none !important; }
 body.review-mode .toc[data-l="ar"] { display: none !important; }
 body.review-mode .toc[data-l="en"] { display: block !important; }
 body.review-mode .side-downloads, body.review-mode .volume-switch { display: none; }
