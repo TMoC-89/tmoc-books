@@ -48,8 +48,6 @@
   }));
   matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => { if (themeChoice === 'auto') applyTheme('auto'); });
 
-  // Lazy rendering of long books is only switched on where it is measured to help (Chromium; see reader.css).
-  const lazy = root.classList.contains('lazy-render');
   const SIZE_MIN = 15, SIZE_MAX = 28, SIZE_DEFAULT = 19;
   const sizeRange = $('#size-range'), sizeValue = $('#size-value');
   let size = Number(store.get(KEYS.size)) || SIZE_DEFAULT;
@@ -71,7 +69,6 @@
     sizeIdle = setTimeout(() => {
       const anchor = sizeAnchor;
       sizeAnchor = null;
-      if (lazy) { $$('.book-section[data-rendered]').forEach(x => x.removeAttribute('data-rendered')); estimateSections(); }
       if (anchor && !anchor.none) restoreAnchor(anchor);
     }, 160);
   }
@@ -83,7 +80,7 @@
   sizeRange?.addEventListener('input', () => {
     if (sizeValue) sizeValue.textContent = sizeRange.value;
     clearTimeout(dragIdle);
-    dragIdle = setTimeout(() => resizeKeepingPlace(Number(sizeRange.value)), lazy ? 60 : 250);
+    dragIdle = setTimeout(() => resizeKeepingPlace(Number(sizeRange.value)), 250);
   });
   sizeRange?.addEventListener('change', () => { clearTimeout(dragIdle); resizeKeepingPlace(Number(sizeRange.value)); });
 
@@ -117,25 +114,6 @@
     return sectionCache.get(l);
   }
 
-  /* Estimated heights let the browser skip laying out chapters that are far off screen
-     (content-visibility in reader.css). They self-correct from chapters already rendered. */
-  function estimateSections() {
-    if (!lazy) return;
-    const secs = sections();
-    if (!secs.length) return;
-    const measured = secs.filter(s => s.el.dataset.rendered === '1').map(s => s.el.offsetHeight / s.chars).filter(x => x > 0);
-    let perChar;
-    if (measured.length) perChar = measured.sort((a, b) => a - b)[measured.length >> 1];
-    else {
-      const width = Math.max(260, Math.min(secs[0].el.clientWidth || 700, 760));
-      const glyph = size * (lang === 'ar' ? .42 : .47);
-      perChar = (size * (lang === 'ar' ? 2.05 : 1.78)) / (width / glyph);
-    }
-    for (const s of secs) if (s.el.dataset.rendered !== '1') s.el.style.setProperty('--est', Math.round(s.chars * perChar + 160) + 'px');
-  }
-  if (lazy) document.addEventListener('contentvisibilityautostatechange', e => {
-    if (!e.skipped && e.target.classList?.contains('book-section')) e.target.dataset.rendered = '1';
-  }, { capture: true });
 
   /* ---------------------------------------------------------------- table of contents */
   let navIndex = null;
@@ -342,7 +320,6 @@
     document.title = book.documentTitles[next] || book.documentTitles.en;
     activeLink = null;
     navIndex = null;
-    estimateSections();
     if (place) restoreAnchor({ key: place.key, frac: place.frac });
     else if (keepPlace) scrollTo({ top: y, behavior: 'auto' });
     scheduleSpy();
@@ -361,15 +338,15 @@
     menuBtn?.setAttribute('aria-expanded', String(open));
     menuBtn?.setAttribute('aria-label', open ? 'Hide contents' : 'Show contents');
     if (menuBtn) menuBtn.title = menuBtn.getAttribute('aria-label');
-    if (sidebar) sidebar.inert = !open;
   }
-  function openNav() {
+  function openNav(byKeyboard) {
     if (mobile.matches) {
       body.classList.add('nav-open');
       requestAnimationFrame(() => {
         const a = sidebar.querySelector('.toc a.active');
         if (a) sidebar.scrollTop = a.offsetTop - sidebar.clientHeight * .3;
-        (a || sidebar.querySelector('a'))?.focus({ preventScroll: true });
+        // Move focus into the drawer only for keyboard users; on touch it just costs time.
+        if (byKeyboard) (a || sidebar.querySelector('a'))?.focus({ preventScroll: true });
       });
     } else { root.classList.remove('sidebar-collapsed'); store.del(KEYS.sidebar); }
     syncSidebarA11y();
@@ -381,11 +358,11 @@
     }
     syncSidebarA11y();
   }
-  menuBtn?.addEventListener('click', () => {
+  menuBtn?.addEventListener('click', e => {
     if (sidebarOpen()) {
       if (mobile.matches) closeNav(true);
       else { root.classList.add('sidebar-collapsed'); store.set(KEYS.sidebar, '1'); syncSidebarA11y(); }
-    } else openNav();
+    } else openNav(e.detail === 0);
   });
   backdrop?.addEventListener('click', () => closeNav(true));
   mobile.addEventListener('change', () => { body.classList.remove('nav-open'); syncSidebarA11y(); });
@@ -531,21 +508,6 @@
   }
 
   /* ---------------------------------------------------------------- reviewer (loaded on demand) */
-  let reviewerLoading = null;
-  function loadReviewer() {
-    if (window.LibraryReviewer) return Promise.resolve(window.LibraryReviewer);
-    reviewerLoading ||= new Promise((resolve, reject) => {
-      const css = document.createElement('link');
-      css.rel = 'stylesheet'; css.href = book.assets.reviewerCss;
-      document.head.append(css);
-      const s = document.createElement('script');
-      s.src = book.assets.reviewerJs;
-      s.onload = () => resolve(window.LibraryReviewer);
-      s.onerror = () => { reviewerLoading = null; reject(new Error('Reviewer Mode could not load. Please try again.')); };
-      document.head.append(s);
-    });
-    return reviewerLoading;
-  }
   const readerApi = {
     get lang() { return lang; },
     setLang: l => applyLang(l, false),
@@ -560,7 +522,8 @@
     const btn = $('#review-enter');
     btn?.setAttribute('aria-busy', 'true');
     try {
-      const R = await loadReviewer();
+      const R = window.LibraryReviewer;
+      if (!R) throw new Error('Reviewer Mode could not load. Please reload the page.');
       await R.enter(Object.assign({ book, api: readerApi }, opts || {}));
     } catch (err) { showToast(err.message || 'Reviewer Mode could not load.'); }
     finally { btn?.removeAttribute('aria-busy'); }

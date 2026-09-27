@@ -203,7 +203,8 @@
   function ensureChrome() {
     workspace = $('#reviewer-workspace');
     if (!workspace) { workspace = document.createElement('div'); workspace.id = 'reviewer-workspace'; workspace.className = 'reviewer-workspace'; $('.main').append(workspace); }
-    workspace.setAttribute('aria-live', 'polite');
+    // No aria-live here: announcing a whole book's worth of passages would stall assistive technology.
+    workspace.removeAttribute('aria-live');
     saveState = $('#review-save-state');
     if (!saveState) { saveState = document.createElement('div'); saveState.id = 'review-save-state'; saveState.className = 'review-save-state'; saveState.setAttribute('role', 'status'); body.append(saveState); }
     modal = $('#review-submit-modal');

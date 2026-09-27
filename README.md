@@ -90,8 +90,9 @@ every push and pull request, and deployment waits for it.
 - Reading position saved per book: “Continue” on the book's cover and on the collection page
 - Arriving from search: lands on the passage, highlights the words, links back to the results
 - Reviewer Mode: English beside the source text; mark passages, propose wording, export a JSON review
-- Long books render lazily in Chromium and Firefox (`content-visibility`), which keeps start-up and
-  language switching fast; other browsers render normally
+- Books are laid out in full when they load, so taps respond immediately afterwards. Reviewer Mode
+  builds its passage cards section by section as you scroll
+- `?perf=1` on any book shows a small panel timing each tap, with a "Copy report" button (`?perf=0` turns it off)
 
 ## Search
 

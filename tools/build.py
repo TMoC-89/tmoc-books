@@ -303,13 +303,14 @@ def render_reader(book, library, content, views, prefix, site):
             "if(L.indexOf(l)>=0){d.dataset.lang=l;d.lang=l}"
             "var z=+s.getItem('minimal-library-reader-size');if(z>=15&&z<=28)d.style.setProperty('--reader-size',z+'px');"
             "if(s.getItem('library-sidebar-collapsed')==='1')d.classList.add('sidebar-collapsed')}catch(e){}"
-            # Lazy rendering of long books is measured to help in Chromium only (see reader.css).
-            "if(navigator.userAgentData)d.classList.add('lazy-render')})();")
+            # ?perf=1 turns on the performance probe for this tab (?perf=0 turns it off)
+            "try{var q=new URLSearchParams(location.search).get('perf');if(q==='1')sessionStorage.setItem('library-perf','1');if(q==='0')sessionStorage.removeItem('library-perf');"
+            f"if(sessionStorage.getItem('library-perf')){{var sc=document.createElement('script');sc.src={json.dumps(asset('assets/perf-probe.js', prefix))};document.head.appendChild(sc)}}}}catch(e){{}}"
+            "})();")
     data = {
         'slug': book['slug'], 'path': book['path'], 'root': prefix, 'langKey': book['langKey'], 'languages': langs,
         'titles': {l: L(book['title'], l) for l in langs}, 'documentTitles': doc_titles,
         'shortTitle': (title_en if not series else f"{series['title']} · Vol. {vol['roman']}"),
-        'assets': {'reviewerJs': asset('assets/reviewer.js', prefix), 'reviewerCss': asset('assets/reviewer.css', prefix)},
         'review': book.get('review'),
         'sourceStore': book.get('sourceStore'),
     }
@@ -325,10 +326,14 @@ def render_reader(book, library, content, views, prefix, site):
 
     parts = [head(title=doc_titles['en'], description=description, prefix=prefix, canonical=canonical, site=site,
                   og_type='book', boot=boot, extra=f' data-lang="{langs[0]}"',
-                  css=f'<link rel="stylesheet" href="{asset("assets/base.css", prefix)}">\n<link rel="stylesheet" href="{asset("assets/reader.css", prefix)}">')]
+                  css=f'<link rel="stylesheet" href="{asset("assets/base.css", prefix)}">\n<link rel="stylesheet" href="{asset("assets/reader.css", prefix)}">'
+                  + (f'\n<link rel="stylesheet" href="{asset("assets/reviewer.css", prefix)}">' if book.get('review') else ''))]
     parts.append(f'<script type="application/ld+json">{json.dumps(jsonld, ensure_ascii=False)}</script>\n')
     parts.append(f'<script type="application/json" id="book-data">{json.dumps(data, ensure_ascii=False)}</script>\n')
-    parts.append(f'<script src="{asset("assets/reader.js", prefix)}" defer></script>\n</head>\n<body class="reader">\n')
+    if book.get('review'):  # part of the page, so the Review button responds immediately (runs before reader.js)
+        parts.append(f'<script src="{asset("assets/reviewer.js", prefix)}" defer></script>\n')
+    parts.append(f'<script src="{asset("assets/reader.js", prefix)}" defer></script>\n')
+    parts.append('</head>\n<body class="reader">\n')
     parts.append(icon_sprite(['sidebar', 'close', 'search', 'back', 'arrow-down', 'download', 'review', 'check', 'sun', 'moon', 'auto', 'type', 'chevron', 'bookmark', 'exit', 'arrow-right']))
     parts.append(f'\n<a class="skip-link" href="#{esc(first_ids.get(langs[0], "top"))}">Skip to the text</a>\n<div id="progress" aria-hidden="true"></div>\n')
 

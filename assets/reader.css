@@ -212,13 +212,6 @@ html[data-lang="ar"] .cover-actions .btn { font-family: var(--arabic); font-size
   font-kerning: normal; font-variant-ligatures: common-ligatures;
 }
 .language-view > .book-section + .book-section { border-top: 1px solid var(--line); }
-/* Long books render lazily: chapters (and the blocks inside them) far from the screen are not
-   laid out. Only enabled where it is measured to help — Chromium, which also keeps the scroll
-   position stable while blocks render. reader.js/build.py set html.lazy-render. Other engines
-   render the book normally, which is what they handle best. */
-@supports (overflow-anchor: auto) and (content-visibility: auto) {
-  html.lazy-render .language-view > .book-section { content-visibility: auto; contain-intrinsic-size: auto var(--est, 3000px); }
-  html.lazy-render .language-view > .book-section > :not(:first-child, .chapter-pager) { content-visibility: auto; contain-intrinsic-size: auto 7.5em; }
 }
 
 .book-section > :is(h1, h2):first-child {
@@ -379,7 +372,7 @@ html[data-theme="dark"] mark.search-hit { background: color-mix(in srgb, #e2b93b
 }
 @media (max-width: 960px) {
   .main, html.sidebar-collapsed .main { margin-left: 0; }
-  .sidebar, html.sidebar-collapsed .sidebar { width: min(340px, 88vw); box-shadow: var(--shadow-pop); transform: translateX(-104%); visibility: hidden; }
+  .sidebar, html.sidebar-collapsed .sidebar { width: min(340px, 88vw); box-shadow: 0 0 18px rgba(0, 0, 0, .16); transform: translateX(-104%); visibility: hidden; }
   body.nav-open .sidebar { transform: none; visibility: visible; }
   body.nav-open .sidebar-backdrop { opacity: 1; pointer-events: auto; }
   .toc a { padding-block: 10px; }
@@ -397,8 +390,8 @@ html[data-theme="dark"] mark.search-hit { background: color-mix(in srgb, #e2b93b
   .bar-title .current:empty::after { content: attr(data-fallback); color: var(--text); font-weight: 600; }
   .icon-btn { min-width: 40px; padding: 0 8px; }
   .book-section { padding-top: 64px; }
-  .book-section p, .book-section li { hyphens: auto; -webkit-hyphens: auto; }
-  .language-view[data-lang="ar"] .book-section p { hyphens: none; }
+  /* No automatic hyphenation: on Android it loads a dictionary and slows every re-layout of a book. */
+  .book-section p, .book-section li { hyphens: manual; -webkit-hyphens: manual; }
   .chapter-pager, .series-pager { grid-template-columns: 1fr; }
   .pager-link.next, .series-pager a.next { grid-column: 1; }
   .cover { padding-top: 56px; }
