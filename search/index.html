@@ -4,22 +4,22 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Search — The Library</title>
-<meta name="description" content="Search every text in The Library: English translations, Arabic originals and German source text.">
+<meta name="description" content="Search every text in The Library: English translations, Arabic and French originals, and German source text.">
 <meta name="theme-color" content="#f5f2eb">
 <link rel="canonical" href="https://tmoc-89.github.io/tmoc-books/search/">
 <meta property="og:site_name" content="The Library">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Search — The Library">
-<meta property="og:description" content="Search every text in The Library: English translations, Arabic originals and German source text.">
+<meta property="og:description" content="Search every text in The Library: English translations, Arabic and French originals, and German source text.">
 <meta property="og:url" content="https://tmoc-89.github.io/tmoc-books/search/">
 <meta name="twitter:card" content="summary">
 <link rel="icon" href="../assets/library-mark.svg?v=cacc353fba" type="image/svg+xml">
 <script>(function(){var d=document.documentElement;try{var t=localStorage.getItem('minimal-library-theme');d.dataset.theme=t==='dark'||t==='light'?t:(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light')}catch(e){}})();</script>
 <link rel="stylesheet" href="../assets/base.css?v=abe07b7d38">
-<link rel="stylesheet" href="../assets/library.css?v=652cb20948">
+<link rel="stylesheet" href="../assets/library.css?v=de5046e230">
 <script>window.SEARCH_WORKER="search-worker.js?v=d8f4c9519d";</script>
 <script src="../assets/library.js?v=41019041d8" defer></script>
-<script src="../search/search.js?v=fbfacebbb3" defer></script>
+<script src="../search/search.js?v=ab9aa525aa" defer></script>
 </head>
 <body id="top">
 <svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" style="position:absolute" aria-hidden="true"><symbol id="i-moon" viewBox="0 0 24 24"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5Z"/></symbol><symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v2M12 19.5v2M4.5 12h-2M21.5 12h-2M5.6 5.6l1.4 1.4M17 17l1.4 1.4M5.6 18.4 7 17M17 7l1.4-1.4"/></symbol><symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6"/><path d="m15 15 5 5"/></symbol><symbol id="i-arrow-up-right" viewBox="0 0 24 24"><path d="M7 17 17 7M9 7h8v8"/></symbol><symbol id="i-arrow-right" viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></symbol><symbol id="i-close" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6 6 18"/></symbol></svg>
@@ -32,7 +32,7 @@
 <main>
 <div class="search-heading"><p class="eyebrow">Explore the texts</p><h1>Follow a thought<span class="title-stop">.</span></h1><p>Find a passage anywhere in the Library’s translations and original texts.</p></div>
 <form class="global-search" id="search-form" role="search"><label class="sr-only" for="query">Search all texts</label><svg class="i" aria-hidden="true"><use href="#i-search"/></svg><input id="query" name="q" type="search" placeholder="A name, an idea, a phrase…" maxlength="120" autocomplete="off" enterkeyhint="search" spellcheck="false"><button type="button" class="icon-btn clear-btn" id="clear-query" aria-label="Clear search" hidden><svg class="i" aria-hidden="true"><use href="#i-close"/></svg></button><button type="submit" class="btn primary">Search</button></form>
-<div class="search-options"><div class="select-wrap"><label for="work-filter">Work</label><select id="work-filter"><option value="all">All works</option></select></div><div class="select-wrap"><label for="language-filter">Language</label><select id="language-filter"><option value="all">All languages</option><option value="en">English</option><option value="ar">Arabic</option><option value="de">German</option></select></div><p class="search-tip">Use “quotation marks” for an exact phrase.</p></div>
+<div class="search-options"><div class="select-wrap"><label for="work-filter">Work</label><select id="work-filter"><option value="all">All works</option></select></div><div class="select-wrap"><label for="language-filter">Language</label><select id="language-filter"><option value="all">All languages</option><option value="en">English</option><option value="ar">Arabic</option><option value="fr">French</option><option value="de">German</option></select></div><p class="search-tip">Use “quotation marks” for an exact phrase.</p></div>
 <section class="search-results" id="search-results" aria-labelledby="results-title" tabindex="-1">
 <div class="results-top"><h2 id="results-title">A place to begin</h2><span id="result-summary" role="status" aria-live="polite" aria-atomic="true"></span></div>
 <div class="search-progress" id="search-progress" hidden><span></span></div>

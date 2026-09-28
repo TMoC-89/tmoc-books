@@ -19,10 +19,13 @@ body.reader { min-height: 100vh; }
 
 /* ---------- Language visibility ---------------------------------------------------------- */
 /* Everything that exists once per language carries data-l; only the active one is shown. */
-html[data-lang="en"] [data-l="ar"], html[data-lang="ar"] [data-l="en"] { display: none !important; }
+html[data-lang="en"] [data-l]:not([data-l="en"]),
+html[data-lang="ar"] [data-l]:not([data-l="ar"]),
+html[data-lang="fr"] [data-l]:not([data-l="fr"]) { display: none !important; }
 .language-view { display: none; }
 html[data-lang="en"] .language-view[data-lang="en"],
-html[data-lang="ar"] .language-view[data-lang="ar"] { display: block; }
+html[data-lang="ar"] .language-view[data-lang="ar"],
+html[data-lang="fr"] .language-view[data-lang="fr"] { display: block; }
 
 /* ---------- Progress ---------------------------------------------------------------------- */
 #progress {

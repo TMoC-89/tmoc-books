@@ -312,7 +312,8 @@
     store.set(KEYS.lang, next);
     if (langBtn) {
       const other = book.languages.find(l => l !== next);
-      const label = other === 'ar' ? 'Read the Arabic original' : 'Read the English translation';
+      const labels = { en: 'Read the English translation', ar: 'Read the Arabic original', fr: 'Read the French original' };
+      const label = labels[other] || 'Switch language';
       langBtn.setAttribute('aria-label', label);
       langBtn.title = label;
     }
@@ -327,7 +328,7 @@
   langBtn?.addEventListener('click', () => {
     closeSettings(false); closeNav();
     applyLang(book.languages.find(l => l !== lang) || 'en', true);
-    showToast(lang === 'ar' ? 'النص العربي الأصلي' : 'English translation');
+    showToast(({ ar: 'النص العربي الأصلي', fr: 'Texte français original', en: 'English translation' })[lang] || lang);
   });
 
   /* ---------------------------------------------------------------- sidebar */
@@ -420,14 +421,16 @@
     const clone = holder.cloneNode(true);
     clone.querySelectorAll('.backref, .footnote-back, [role="doc-backlink"], .note-number, .gloss-footnote-number').forEach(n => n.remove());
     clone.querySelectorAll('[id]').forEach(n => n.removeAttribute('id'));
-    const rtl = !!target.closest('.language-view[data-lang="ar"]');
+    const noteLanguage = target.closest('.language-view')?.dataset.lang;
+    const rtl = noteLanguage === 'ar';
     const n = a.textContent.trim();
     notePop = document.createElement('div');
     notePop.className = 'note-pop';
     notePop.setAttribute('role', 'dialog');
     notePop.setAttribute('aria-label', rtl ? `حاشية ${n}` : `Note ${n}`);
     notePop.dir = rtl ? 'rtl' : 'ltr';
-    notePop.innerHTML = `<div class="note-pop-head"><span>${rtl ? 'حاشية' : 'Note'} ${escapeHtml(n)}</span><a class="note-jump" href="#${escapeHtml(holder.id || target.id)}">${rtl ? 'انتقل إلى الحواشي' : 'Go to note'}</a></div><div class="note-pop-body">${clone.innerHTML}</div>`;
+    const jumpLabel = rtl ? 'انتقل إلى الحواشي' : noteLanguage === 'fr' ? 'Voir la note' : 'Go to note';
+    notePop.innerHTML = `<div class="note-pop-head"><span>${rtl ? 'حاشية' : 'Note'} ${escapeHtml(n)}</span><a class="note-jump" href="#${escapeHtml(holder.id || target.id)}">${jumpLabel}</a></div><div class="note-pop-body">${clone.innerHTML}</div>`;
     body.append(notePop);
     noteRef = a;
     a.setAttribute('aria-expanded', 'true');
@@ -582,6 +585,10 @@
       goTo(passage, { instant: true, history: false });
       target.classList.add('search-destination');
       if (q) highlightTerms(target, q);
+      // Some originals contain very long paragraphs. Put the first match on screen
+      // while keeping the stable passage anchor used by search and reviews.
+      const hit = target.querySelector('mark.search-hit');
+      if (hit && target.getBoundingClientRect().height > innerHeight) settle(hit, () => bar() + 48);
     });
     return true;
   }

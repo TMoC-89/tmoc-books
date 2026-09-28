@@ -161,8 +161,9 @@ def parse_content(content):
 
 def pager_html(lang, prev, nxt):
     ar = lang == 'ar'
-    words = ('السابق', 'التالي') if ar else ('Previous', 'Next')
-    out = [f'<nav class="chapter-pager" aria-label="{"التنقل بين الفصول" if ar else "Chapter navigation"}">']
+    words = {'ar': ('السابق', 'التالي'), 'fr': ('Précédent', 'Suivant')}.get(lang, ('Previous', 'Next'))
+    label = {'ar': 'التنقل بين الفصول', 'fr': 'Navigation entre les chapitres'}.get(lang, 'Chapter navigation')
+    out = [f'<nav class="chapter-pager" aria-label="{label}">']
     if prev:
         out.append(f'<a class="pager-link prev" href="#{esc(prev["id"])}" data-key="{esc(prev["key"])}"><span>{words[0]}</span><strong>{esc(prev["title"])}</strong></a>')
     if nxt:
@@ -255,20 +256,27 @@ def both(d, langs, tag='span', cls=''):
         return esc(L(d, langs[0]))
     parts = []
     for l in langs:
-        la = ' lang="ar" dir="rtl"' if l == 'ar' else ''
+        la = f' lang="{l}"' + (' dir="rtl"' if l == 'ar' else '')
         parts.append(f'<{tag} data-l="{l}"{la}{c}>{esc(L(d, l))}</{tag}>')
     return ''.join(parts)
 
 
 UI = {
-    'library': {'en': 'Library', 'ar': 'المكتبة'},
-    'search': {'en': 'Search the library', 'ar': 'البحث في المكتبة'},
-    'back_search': {'en': 'Back to search results', 'ar': 'العودة إلى نتائج البحث'},
-    'contents': {'en': 'Contents', 'ar': 'المحتويات'},
-    'begin': {'en': 'Begin reading', 'ar': 'ابدأ القراءة'},
-    'continue': {'en': 'Continue', 'ar': 'تابع القراءة'},
-    'download': {'en': 'Download', 'ar': 'تنزيل'},
-    'bilingual': {'en': 'Bilingual edition', 'ar': 'طبعة ثنائية اللغة'},
+    'library': {'en': 'Library', 'ar': 'المكتبة', 'fr': 'Bibliothèque'},
+    'search': {'en': 'Search the library', 'ar': 'البحث في المكتبة', 'fr': 'Rechercher dans la bibliothèque'},
+    'back_search': {'en': 'Back to search results', 'ar': 'العودة إلى نتائج البحث', 'fr': 'Retour aux résultats'},
+    'contents': {'en': 'Contents', 'ar': 'المحتويات', 'fr': 'Sommaire'},
+    'begin': {'en': 'Begin reading', 'ar': 'ابدأ القراءة', 'fr': 'Commencer la lecture'},
+    'continue': {'en': 'Continue', 'ar': 'تابع القراءة', 'fr': 'Continuer'},
+    'download': {'en': 'Download', 'ar': 'تنزيل', 'fr': 'Télécharger'},
+    'bilingual': {'en': 'Bilingual edition', 'ar': 'طبعة ثنائية اللغة', 'fr': 'Édition bilingue'},
+}
+
+LANGUAGES = {
+    'en': {'name': 'English', 'short': 'EN', 'native': 'English', 'download': 'English text'},
+    'ar': {'name': 'Arabic', 'short': 'عربي', 'native': 'العربية', 'download': 'Arabic original · النص العربي'},
+    'fr': {'name': 'French', 'short': 'FR', 'native': 'Français', 'download': 'French original · Texte français'},
+    'de': {'name': 'German', 'short': 'DE', 'native': 'Deutsch', 'download': 'German original · Deutscher Text'},
 }
 
 
@@ -341,8 +349,11 @@ def render_reader(book, library, content, views, prefix, site):
     badge = f'<span class="volume-badge">Vol. {vol["roman"]}</span>' if series else ''
     lang_btn = ''
     if bilingual:
-        lang_btn = (f'<button class="icon-btn lang-btn reading-only" id="lang-toggle" type="button" aria-label="Read the Arabic original" title="Read the Arabic original">'
-                    f'<span data-l="en" lang="ar">عربي</span><span data-l="ar" lang="en">EN</span></button>')
+        source = next(l for l in langs if l != 'en')
+        label = f'Read the {LANGUAGES[source]["name"]} original'
+        switches = ''.join(f'<span data-l="{l}" lang="{source if l == "en" else "en"}">{LANGUAGES[source if l == "en" else "en"]["short"]}</span>' for l in langs)
+        lang_btn = (f'<button class="icon-btn lang-btn reading-only" id="lang-toggle" type="button" aria-label="{label}" title="{label}">'
+                    f'{switches}</button>')
     review_btn = ''
     if book.get('review'):
         review_btn = (f'<button class="icon-btn review-enter-btn reading-only" id="review-enter" type="button" aria-label="Reviewer Mode: mark passages and suggest corrections" '
@@ -367,7 +378,7 @@ def render_reader(book, library, content, views, prefix, site):
 
     # sidebar
     home_label = book['home']['label']
-    home = {'en': home_label, 'ar': 'المجلدات الأربعة' if series else UI['library']['ar']}
+    home = {**UI['library'], 'en': home_label, 'ar': 'المجلدات الأربعة' if series else UI['library']['ar']}
     side = [f'<aside class="sidebar" id="sidebar" aria-label="Book navigation">\n<nav class="side-links" aria-label="Library">'
             f'<a class="side-link accent" id="search-return" href="{prefix}search/" hidden>{icon("back")}<span>{both(UI["back_search"], langs)}</span></a>'
             f'<a class="side-link" href="{esc(book["home"]["href"])}">{icon("back")}<span>{both(home, langs)}</span></a>'
@@ -384,13 +395,13 @@ def render_reader(book, library, content, views, prefix, site):
     total_items = sum(len(v) for v in book['nav'].values()) / max(1, len(book['nav']))
     for l in langs:
         tree = nav_tree(book['nav'][l])
-        rtl = ' dir="rtl" lang="ar"' if l == 'ar' else ' dir="ltr"'
+        rtl = f' lang="{l}" dir="{"rtl" if l == "ar" else "ltr"}"'
         side.append(f'<nav class="toc" data-l="{l}"{rtl} aria-labelledby="toc-heading">{render_toc(tree, l, total_items > 40, [0])}</nav>')
     dl = []
     for l in langs:
         f = book['downloads'].get(l)
         if f:
-            name = {'en': 'English text', 'ar': 'Arabic original · النص العربي'}[l]
+            name = LANGUAGES[l]['download']
             dl.append(f'<li><a class="side-link" href="{esc(quote(f))}" download>{icon("download")}<span>{name}</span><small>.md</small></a></li>')
     if series:
         dl.append(f'<li><a class="side-link" href="../{esc(quote(series["zip"]))}" download>{icon("download")}<span>All four volumes</span><small>.zip</small></a></li>')
@@ -405,8 +416,13 @@ def render_reader(book, library, content, views, prefix, site):
             begin += f'<a class="btn primary" href="#{esc(first_ids[l])}"{dl_attr}>{esc(L(UI["begin"], l))}{icon("arrow-down")}</a>'
     note = ''
     if bilingual:
-        note = ('<p class="cover-note"><span data-l="en">English translation with the Arabic original. Switch between them at any point with the <b lang="ar">عربي</b> button.</span>'
-                '<span data-l="ar" lang="ar" dir="rtl">النص العربي الأصلي مع الترجمة الإنجليزية. يمكنك التبديل بينهما في أي وقت بزر <b lang="en">EN</b>.</span></p>')
+        source = next(l for l in langs if l != 'en')
+        source_note = {
+            'ar': '<span data-l="ar" lang="ar" dir="rtl">النص العربي الأصلي مع الترجمة الإنجليزية. يمكنك التبديل بينهما في أي وقت بزر <b lang="en">EN</b>.</span>',
+            'fr': '<span data-l="fr" lang="fr">Le texte français original et sa traduction anglaise. Passez à la traduction à tout moment avec le bouton <b lang="en">EN</b>.</span>',
+        }.get(source, '')
+        note = (f'<p class="cover-note"><span data-l="en">English translation with the {LANGUAGES[source]["name"]} original. Switch between them at any point with the <b lang="{source}">{LANGUAGES[source]["short"]}</b> button.</span>'
+                f'{source_note}</p>')
     subtitle = f'<p class="subtitle">{both(book["subtitle"], langs)}</p>' if L(book['subtitle'], 'en') else ''
     parts.append(f'''<div class="layout">
 <main class="main" id="main">
@@ -474,9 +490,10 @@ def render_home(library, stats, site):
     for b in books:
         tag = f'<span class="card-tag">{esc(b["tag"])}</span>' if b.get('tag') else ''
         sub = f'<p class="card-sub">{esc(b["subtitle"])}</p>' if b.get('subtitle') else ''
-        ar = f'<p class="card-ar" lang="ar" dir="rtl">{esc(b["arabicTitle"])}</p>' if b.get('arabicTitle') else ''
+        original = b.get('originalTitle') or ({'lang': 'ar', 'text': b['arabicTitle']} if b.get('arabicTitle') else None)
+        ar = (f'<p class="card-original{ " card-ar" if original["lang"] == "ar" else ""}" lang="{original["lang"]}" dir="{"rtl" if original["lang"] == "ar" else "ltr"}">{esc(original["text"])}</p>' if original else '')
         vols = len(b['readers'])
-        langs = 'English · <bdi lang="ar">العربية</bdi>' if b.get('arabicTitle') else 'English'
+        langs = f'English · <bdi lang="{original["lang"]}">{LANGUAGES[original["lang"]]["native"]}</bdi>' if original else 'English'
         meta = [f'{vols} volumes' if vols > 1 else '', langs, reading_time(stats[b['href']])]
         meta = ' <span aria-hidden="true">·</span> '.join(m for m in meta if m)
         cards.setdefault(b['shelf'], []).append(
@@ -579,7 +596,7 @@ def render_series(key, library, stats, site):
 def render_search_page(library, site):
     prefix = '../'
     canonical = site['baseUrl'] + 'search/'
-    out = [head(title=f'Search — {site["name"]}', description='Search every text in The Library: English translations, Arabic originals and German source text.',
+    out = [head(title=f'Search — {site["name"]}', description='Search every text in The Library: English translations, Arabic and French originals, and German source text.',
                 prefix=prefix, canonical=canonical, site=site, boot=THEME_BOOT,
                 css=f'<link rel="stylesheet" href="{asset("assets/base.css", prefix)}">\n<link rel="stylesheet" href="{asset("assets/library.css", prefix)}">')]
     out.append(f'<script>window.SEARCH_WORKER={json.dumps(asset("search/search-worker.js", prefix).replace("../search/", ""))};</script>\n')
@@ -592,7 +609,7 @@ def render_search_page(library, site):
 <main>
 <div class="search-heading"><p class="eyebrow">Explore the texts</p><h1>Follow a thought<span class="title-stop">.</span></h1><p>Find a passage anywhere in the Library’s translations and original texts.</p></div>
 <form class="global-search" id="search-form" role="search"><label class="sr-only" for="query">Search all texts</label>{icon("search")}<input id="query" name="q" type="search" placeholder="A name, an idea, a phrase…" maxlength="120" autocomplete="off" enterkeyhint="search" spellcheck="false"><button type="button" class="icon-btn clear-btn" id="clear-query" aria-label="Clear search" hidden>{icon("close")}</button><button type="submit" class="btn primary">Search</button></form>
-<div class="search-options"><div class="select-wrap"><label for="work-filter">Work</label><select id="work-filter"><option value="all">All works</option></select></div><div class="select-wrap"><label for="language-filter">Language</label><select id="language-filter"><option value="all">All languages</option><option value="en">English</option><option value="ar">Arabic</option><option value="de">German</option></select></div><p class="search-tip">Use “quotation marks” for an exact phrase.</p></div>
+<div class="search-options"><div class="select-wrap"><label for="work-filter">Work</label><select id="work-filter"><option value="all">All works</option></select></div><div class="select-wrap"><label for="language-filter">Language</label><select id="language-filter"><option value="all">All languages</option><option value="en">English</option><option value="ar">Arabic</option><option value="fr">French</option><option value="de">German</option></select></div><p class="search-tip">Use “quotation marks” for an exact phrase.</p></div>
 <section class="search-results" id="search-results" aria-labelledby="results-title" tabindex="-1">
 <div class="results-top"><h2 id="results-title">A place to begin</h2><span id="result-summary" role="status" aria-live="polite" aria-atomic="true"></span></div>
 <div class="search-progress" id="search-progress" hidden><span></span></div>

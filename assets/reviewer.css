@@ -15,8 +15,8 @@ body.review-mode .reviewer-workspace { display: block; }
 }
 /* Interface labels follow the English column while reviewing. */
 html body.review-mode :is(.sidebar, .topbar) span[data-l="en"] { display: inline !important; }
-html body.review-mode :is(.sidebar, .topbar) span[data-l="ar"] { display: none !important; }
-body.review-mode .toc[data-l="ar"] { display: none !important; }
+html body.review-mode :is(.sidebar, .topbar) span[data-l]:not([data-l="en"]) { display: none !important; }
+body.review-mode .toc[data-l]:not([data-l="en"]) { display: none !important; }
 body.review-mode .toc[data-l="en"] { display: block !important; }
 body.review-mode .side-downloads, body.review-mode .volume-switch { display: none; }
 body.review-mode .toc ol[hidden] { display: block !important; }

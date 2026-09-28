@@ -127,6 +127,7 @@
     const withDates = units => { let current = ''; return units.map(u => { const own = u.el?.dataset?.journalDate || ''; if (own) current = own; return { ...u, date: current, isDate: !!own }; }); };
     const E = withDates(enUnits), S = withDates(srcUnits);
     const sourceKeyMap = new Map(S.filter(u => u.el?.dataset?.sourceKey).map(u => [u.el.dataset.sourceKey, u]));
+    for (const e of E) if (e.el?.dataset?.sourceUnavailable === 'true') result.set(e.localIndex, []);
     for (const e of E) { const k = e.el?.dataset?.sourceKey; if (k && sourceKeyMap.has(k)) result.set(e.localIndex, [sourceKeyMap.get(k)]); }
     const group = list => { const m = new Map(); for (const u of list) { if (!u.date) continue; if (!m.has(u.date)) m.set(u.date, []); m.get(u.date).push(u); } return m; };
     const sByDate = group(S), eByDate = group(E);

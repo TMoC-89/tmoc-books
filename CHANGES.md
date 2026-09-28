@@ -1,3 +1,16 @@
+# The City of Isis — 28 September 2026
+
+- Added Pierre Rossi’s *The City of Isis: The True History of the Arabs* and the complete French
+  original, *La Cité d’Isis*, to the French shelf as work № 09 and the latest addition.
+- Preserved both final Markdown files as downloads, including the English translator’s note.
+  Added matching sections for the preface, ten chapters, printed contents, colophon and footnotes.
+- Extended reader controls, language visibility, chapter pagers, downloads and Reviewer Mode’s
+  contents to support an English/French edition. Existing Arabic editions keep their controls.
+- Indexed both languages and added French to the global search filter and result labels.
+- Search links into long source paragraphs now bring the first highlighted match into view.
+  Reviewer Mode pairs corresponding front matter and notes directly, and leaves the English-only
+  translator’s note without a source pairing.
+
 # Performance fixes for phones — September 2026
 
 Reported on Chrome for Android: opening the contents could take 2+ seconds the first time, text size

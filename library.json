@@ -6,65 +6,147 @@
     "description": "An Infrared Community initiative translating previously untranslated books from around the world into modern, readable English. Free to read, with original texts alongside."
   },
   "shelves": [
-    { "id": "arabic", "label": "From the Arabic", "region": "Arab World", "language": "Arabic" },
-    { "id": "french", "label": "From the French", "region": "Europe", "language": "French" },
-    { "id": "german", "label": "From the German", "region": "Europe", "language": "German" }
+    {
+      "id": "arabic",
+      "label": "From the Arabic",
+      "region": "Arab World",
+      "language": "Arabic"
+    },
+    {
+      "id": "french",
+      "label": "From the French",
+      "region": "Europe",
+      "language": "French"
+    },
+    {
+      "id": "german",
+      "label": "From the German",
+      "region": "Europe",
+      "language": "German"
+    }
   ],
   "books": [
     {
-      "no": 8, "shelf": "arabic", "href": "sufi-orbits/", "tag": "Latest addition",
-      "title": "Sufi Orbits", "subtitle": "The Legacy of the Communal Revolution in the East",
-      "arabicTitle": "مدارات صوفية", "author": "Hadi al-Alawi",
-      "readers": ["sufi-orbits"],
+      "no": 8,
+      "shelf": "arabic",
+      "href": "sufi-orbits/",
+      "title": "Sufi Orbits",
+      "subtitle": "The Legacy of the Communal Revolution in the East",
+      "arabicTitle": "مدارات صوفية",
+      "author": "Hadi al-Alawi",
+      "readers": [
+        "sufi-orbits"
+      ],
       "description": "Hadi al-Alawi’s 1997 meditation on Sufism as a tradition of communal revolt, in English with the Arabic original alongside."
     },
     {
-      "no": 7, "shelf": "arabic", "href": "materialist-tendencies/", "series": "materialist-tendencies",
-      "title": "Materialist Tendencies in Arab-Islamic Philosophy", "subtitle": "A materialist history from pre-Islamic Arabia through Ibn Sīnā",
-      "arabicTitle": "النزعات المادية في الفلسفة العربية - الإسلامية", "author": "Husayn Muruwwa",
-      "readers": ["materialist-tendencies/volume-1", "materialist-tendencies/volume-2", "materialist-tendencies/volume-3", "materialist-tendencies/volume-4"],
+      "no": 7,
+      "shelf": "arabic",
+      "href": "materialist-tendencies/",
+      "series": "materialist-tendencies",
+      "title": "Materialist Tendencies in Arab-Islamic Philosophy",
+      "subtitle": "A materialist history from pre-Islamic Arabia through Ibn Sīnā",
+      "arabicTitle": "النزعات المادية في الفلسفة العربية - الإسلامية",
+      "author": "Husayn Muruwwa",
+      "readers": [
+        "materialist-tendencies/volume-1",
+        "materialist-tendencies/volume-2",
+        "materialist-tendencies/volume-3",
+        "materialist-tendencies/volume-4"
+      ],
       "description": "Husayn Muruwwa’s four-volume history of Arab-Islamic philosophy, from pre-Islamic Arabia through Ibn Sīnā, in English with the Arabic original alongside."
     },
     {
-      "no": 5, "shelf": "arabic", "href": "patience-and-victory/",
-      "title": "Patience and Victory", "subtitle": "Lessons from Karbala",
-      "arabicTitle": "صبرٌ ونصر", "author": "Sayyid Hassan Nasrallah",
-      "readers": ["patience-and-victory"],
+      "no": 5,
+      "shelf": "arabic",
+      "href": "patience-and-victory/",
+      "title": "Patience and Victory",
+      "subtitle": "Lessons from Karbala",
+      "arabicTitle": "صبرٌ ونصر",
+      "author": "Sayyid Hassan Nasrallah",
+      "readers": [
+        "patience-and-victory"
+      ],
       "description": "Sayyid Hassan Nasrallah’s lessons from Karbala, in English with the Arabic original alongside."
     },
     {
-      "no": 4, "shelf": "arabic", "href": "religion-and-socialism/",
-      "title": "Religion and Socialism", "subtitle": "",
-      "arabicTitle": "الدين والاشتراكية", "author": "Khaled Mohieddin",
-      "readers": ["religion-and-socialism"],
+      "no": 4,
+      "shelf": "arabic",
+      "href": "religion-and-socialism/",
+      "title": "Religion and Socialism",
+      "subtitle": "",
+      "arabicTitle": "الدين والاشتراكية",
+      "author": "Khaled Mohieddin",
+      "readers": [
+        "religion-and-socialism"
+      ],
       "description": "Khaled Mohieddin’s essays on Islam, social justice and socialism, in English with the Arabic original alongside."
     },
     {
-      "no": 2, "shelf": "arabic", "href": "right-and-left-in-islam/",
-      "title": "Right and Left in Islam", "subtitle": "",
-      "arabicTitle": "اليمين واليسار في الإسلام", "author": "Ahmad Abbas Saleh",
-      "readers": ["right-and-left-in-islam"],
+      "no": 2,
+      "shelf": "arabic",
+      "href": "right-and-left-in-islam/",
+      "title": "Right and Left in Islam",
+      "subtitle": "",
+      "arabicTitle": "اليمين واليسار في الإسلام",
+      "author": "Ahmad Abbas Saleh",
+      "readers": [
+        "right-and-left-in-islam"
+      ],
       "description": "Ahmad Abbas Saleh’s social history of the political struggles of early Islam, in English with the Arabic original alongside."
     },
     {
-      "no": 1, "shelf": "arabic", "href": "heroes-without-history/",
-      "title": "Heroes Without History", "subtitle": "Greek Mythology and Arab Legends",
-      "arabicTitle": "أبطال بلا تاريخ", "author": "Fadel al-Rubaie",
-      "readers": ["heroes-without-history"],
+      "no": 1,
+      "shelf": "arabic",
+      "href": "heroes-without-history/",
+      "title": "Heroes Without History",
+      "subtitle": "Greek Mythology and Arab Legends",
+      "arabicTitle": "أبطال بلا تاريخ",
+      "author": "Fadel al-Rubaie",
+      "readers": [
+        "heroes-without-history"
+      ],
       "description": "Fadel al-Rubaie traces Greek myths inside the Arab legends of al-Tabari, Ibn Hisham and al-Masʿudi. In English with the Arabic original alongside."
     },
     {
-      "no": 3, "shelf": "french", "href": "sophia/",
-      "title": "Sophia", "subtitle": "Philosophy and Phenomenology",
+      "no": 9,
+      "shelf": "french",
+      "href": "the-city-of-isis/",
+      "tag": "Latest addition",
+      "title": "The City of Isis",
+      "subtitle": "The True History of the Arabs",
+      "originalTitle": {
+        "lang": "fr",
+        "text": "La Cité d’Isis"
+      },
+      "author": "Pierre Rossi",
+      "readers": [
+        "the-city-of-isis"
+      ],
+      "description": "Pierre Rossi’s 1976 history of the Arab world and its place in the formation of European civilization, in English with the complete French original alongside."
+    },
+    {
+      "no": 3,
+      "shelf": "french",
+      "href": "sophia/",
+      "title": "Sophia",
+      "subtitle": "Philosophy and Phenomenology",
       "author": "Alexandre Kojève",
-      "readers": ["sophia"],
+      "readers": [
+        "sophia"
+      ],
       "description": "Alexandre Kojève’s manuscript on wisdom, philosophy and phenomenology, translated from its French edition."
     },
     {
-      "no": 6, "shelf": "german", "href": "glossarium/",
-      "title": "Glossarium", "subtitle": "Notes from the Years 1947 to 1958",
+      "no": 6,
+      "shelf": "german",
+      "href": "glossarium/",
+      "title": "Glossarium",
+      "subtitle": "Notes from the Years 1947 to 1958",
       "author": "Carl Schmitt",
-      "readers": ["glossarium"],
+      "readers": [
+        "glossarium"
+      ],
       "description": "Carl Schmitt’s private journal from 1947 to 1958, translated from the expanded 2015 German edition, with facsimiles."
     }
   ],
@@ -72,14 +154,43 @@
     "materialist-tendencies": {
       "title": "Materialist Tendencies in Arab-Islamic Philosophy",
       "arabicTitle": "النزعات المادية في الفلسفة العربية - الإسلامية",
-      "author": "Husayn Muruwwa", "authorAr": "حسين مروة",
+      "author": "Husayn Muruwwa",
+      "authorAr": "حسين مروة",
       "zip": "Materialist Tendencies - Complete Markdown.zip",
       "lead": "A sweeping alternative history of Arab-Islamic philosophy, from pre-Islamic Arabia through Ibn Sīnā, organised around a Marxist reading of social history, intellectual conflict and the development of philosophical thought. All four volumes are freely available in modern English alongside the Arabic text.",
       "volumes": [
-        { "n": 1, "roman": "I", "path": "materialist-tendencies/volume-1", "title": "Pre-Islamic Arabia — The Rise and Early Period of Islam", "arabic": "الجاهلية - نشأة وصدر الإسلام", "blurb": "Method, pre-Islamic society, the rise of Islam, and the era of the Rightly Guided Caliphs." },
-        { "n": 2, "roman": "II", "path": "materialist-tendencies/volume-2", "title": "The Muʿtazila — Ashʿarism — Logic", "arabic": "المعتزلة - الأشعرية - المنطق", "blurb": "The roots of philosophical thought: Shiʿa, Kharijites, Muʿtazila, Ashʿarism, and formal logic." },
-        { "n": 3, "roman": "III", "path": "materialist-tendencies/volume-3", "title": "The Development of Philosophy — Sufism — The Brethren of Purity", "arabic": "تبلور الفلسفة - التصوف - إخوان الصفا", "blurb": "Sufism, the Brethren of Purity, the natural sciences, and the maturing philosophical tradition." },
-        { "n": 4, "roman": "IV", "path": "materialist-tendencies/volume-4", "title": "al-Kindī — al-Fārābī — Ibn Sīnā", "arabic": "الكندي - الفارابي - إبن سينا", "blurb": "The mature philosophical stage through al-Kindī, al-Fārābī, and Ibn Sīnā." }
+        {
+          "n": 1,
+          "roman": "I",
+          "path": "materialist-tendencies/volume-1",
+          "title": "Pre-Islamic Arabia — The Rise and Early Period of Islam",
+          "arabic": "الجاهلية - نشأة وصدر الإسلام",
+          "blurb": "Method, pre-Islamic society, the rise of Islam, and the era of the Rightly Guided Caliphs."
+        },
+        {
+          "n": 2,
+          "roman": "II",
+          "path": "materialist-tendencies/volume-2",
+          "title": "The Muʿtazila — Ashʿarism — Logic",
+          "arabic": "المعتزلة - الأشعرية - المنطق",
+          "blurb": "The roots of philosophical thought: Shiʿa, Kharijites, Muʿtazila, Ashʿarism, and formal logic."
+        },
+        {
+          "n": 3,
+          "roman": "III",
+          "path": "materialist-tendencies/volume-3",
+          "title": "The Development of Philosophy — Sufism — The Brethren of Purity",
+          "arabic": "تبلور الفلسفة - التصوف - إخوان الصفا",
+          "blurb": "Sufism, the Brethren of Purity, the natural sciences, and the maturing philosophical tradition."
+        },
+        {
+          "n": 4,
+          "roman": "IV",
+          "path": "materialist-tendencies/volume-4",
+          "title": "al-Kindī — al-Fārābī — Ibn Sīnā",
+          "arabic": "الكندي - الفارابي - إبن سينا",
+          "blurb": "The mature philosophical stage through al-Kindī, al-Fārābī, and Ibn Sīnā."
+        }
       ]
     }
   }

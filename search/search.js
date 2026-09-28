@@ -6,7 +6,7 @@
   const list = $('#results-list'), status = $('#result-summary'), title = $('#results-title');
   const progress = $('#search-progress'), message = $('#search-message'), intro = $('#search-intro');
   const more = $('#load-more'), clear = $('#clear-query'), results = $('#search-results');
-  const NAMES = { en: 'English', ar: 'Arabic', de: 'German' };
+  const NAMES = { en: 'English', ar: 'Arabic', fr: 'French', de: 'German' };
   let worker = null, serial = 0, books = [], shown = 0, total = 0, timer = 0, facets = null;
 
   const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };

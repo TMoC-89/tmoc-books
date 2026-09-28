@@ -1,0 +1,195 @@
+{
+  "searchId": 11,
+  "slug": "the-city-of-isis",
+  "path": "the-city-of-isis",
+  "pageTitle": "The City of Isis — Pierre Rossi",
+  "description": "Pierre Rossi’s The City of Isis: The True History of the Arabs, in English with the complete French original alongside.",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "langKey": "minimal-library-lang-the-city-of-isis",
+  "title": {
+    "en": "The City of Isis",
+    "fr": "La Cité d’Isis"
+  },
+  "subtitle": {
+    "en": "The True History of the Arabs",
+    "fr": "Histoire vraie des Arabes"
+  },
+  "author": {
+    "en": "Pierre Rossi",
+    "fr": "Pierre Rossi"
+  },
+  "edition": {
+    "en": "French edition · Nouvelles Éditions Latines, 1976",
+    "fr": "Édition originale · Nouvelles Éditions Latines, 1976"
+  },
+  "downloads": {
+    "en": "The City of Isis - English.md",
+    "fr": "La Cité d'Isis - French.md"
+  },
+  "home": {
+    "href": "../",
+    "label": "Library"
+  },
+  "review": {
+    "slug": "the-city-of-isis",
+    "title": "The City of Isis",
+    "sourceLanguage": "fr",
+    "version": "6bb06878529e31f1",
+    "englishMarkdown": "The City of Isis - English.md",
+    "sourceMarkdown": "La Cité d'Isis - French.md"
+  },
+  "nav": {
+    "en": [
+      {
+        "id": "en-front-matter",
+        "title": "Title pages & Translator’s Note",
+        "level": 1
+      },
+      {
+        "id": "en-translators-note",
+        "title": "Translator’s Note",
+        "level": 2
+      },
+      {
+        "id": "en-preface",
+        "title": "Preface",
+        "level": 1
+      },
+      {
+        "id": "en-chapter-i",
+        "title": "I. From the Pyramids to the Medici Chapel",
+        "level": 1
+      },
+      {
+        "id": "en-chapter-ii",
+        "title": "II. Five Seas, Five Rivers, Five Empires",
+        "level": 1
+      },
+      {
+        "id": "en-chapter-iii",
+        "title": "III. The Seven Planets",
+        "level": 1
+      },
+      {
+        "id": "en-chapter-iv",
+        "title": "IV. The Divine Lessons",
+        "level": 1
+      },
+      {
+        "id": "en-chapter-v",
+        "title": "V. Astronomy and the Art of Living",
+        "level": 1
+      },
+      {
+        "id": "en-chapter-vi",
+        "title": "VI. The Great Aramean King",
+        "level": 1
+      },
+      {
+        "id": "en-chapter-vii",
+        "title": "VII. Ptolemies and Seleucids: Hereditary Rivals",
+        "level": 1
+      },
+      {
+        "id": "en-chapter-viii",
+        "title": "VIII. Rome, an Egyptian Colony",
+        "level": 1
+      },
+      {
+        "id": "en-chapter-ix",
+        "title": "IX. Byzantium and the Holy Wars",
+        "level": 1
+      },
+      {
+        "id": "en-chapter-x",
+        "title": "X. The Peace of Islam",
+        "level": 1
+      },
+      {
+        "id": "en-contents",
+        "title": "Printed Contents & Colophon",
+        "level": 1
+      },
+      {
+        "id": "en-footnotes",
+        "title": "Footnotes",
+        "level": 1
+      }
+    ],
+    "fr": [
+      {
+        "id": "fr-front-matter",
+        "title": "Pages de titre",
+        "level": 1
+      },
+      {
+        "id": "fr-preface",
+        "title": "Préface",
+        "level": 1
+      },
+      {
+        "id": "fr-chapter-i",
+        "title": "I. Des Pyramides à la chapelle Médicis",
+        "level": 1
+      },
+      {
+        "id": "fr-chapter-ii",
+        "title": "II. Cinq mers, cinq fleuves, cinq empires",
+        "level": 1
+      },
+      {
+        "id": "fr-chapter-iii",
+        "title": "III. Les sept planètes",
+        "level": 1
+      },
+      {
+        "id": "fr-chapter-iv",
+        "title": "IV. Les divines leçons",
+        "level": 1
+      },
+      {
+        "id": "fr-chapter-v",
+        "title": "V. Astronomie et art de vivre",
+        "level": 1
+      },
+      {
+        "id": "fr-chapter-vi",
+        "title": "VI. Le Grand Roi araméen",
+        "level": 1
+      },
+      {
+        "id": "fr-chapter-vii",
+        "title": "VII. Ptolémées et Séleucides : adversaires héréditaires",
+        "level": 1
+      },
+      {
+        "id": "fr-chapter-viii",
+        "title": "VIII. Rome, colonie égyptienne",
+        "level": 1
+      },
+      {
+        "id": "fr-chapter-ix",
+        "title": "IX. Byzance et les guerres saintes",
+        "level": 1
+      },
+      {
+        "id": "fr-chapter-x",
+        "title": "X. La paix de l’Islam",
+        "level": 1
+      },
+      {
+        "id": "fr-contents",
+        "title": "Table des matières & Achevé d’imprimer",
+        "level": 1
+      },
+      {
+        "id": "fr-footnotes",
+        "title": "Notes",
+        "level": 1
+      }
+    ]
+  }
+}

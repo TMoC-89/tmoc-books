@@ -87,6 +87,7 @@ html[data-theme="dark"] .shelf[data-shelf="german"] .book-card { --edge: #a39a89
 .card-body { display: block; margin: 20px 0 22px; }
 .card-title { margin: 0; font: 400 clamp(27px, 2.8vw, 36px)/1.12 var(--serif); letter-spacing: -.022em; text-wrap: balance; overflow-wrap: break-word; }
 .card-sub { margin: 10px 0 0; color: var(--muted); font: 16px/1.45 var(--serif); }
+.card-original { margin: 16px 0 0; color: var(--green); font: italic 20px/1.4 var(--serif); }
 .card-ar { margin: 16px 0 0; color: var(--green); font: 22px/1.6 var(--arabic); direction: rtl; text-align: right; }
 .card-blurb { margin: 14px 0 0; color: var(--muted); font: 14px/1.55 var(--ui); }
 .card-foot { display: flex; flex-direction: column; gap: 5px; margin-top: auto; padding-right: 52px; font-family: var(--ui); }
