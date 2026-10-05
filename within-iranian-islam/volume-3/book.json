@@ -1,0 +1,564 @@
+{
+  "searchId": 14,
+  "slug": "within-iranian-islam-volume-3",
+  "path": "within-iranian-islam/volume-3",
+  "pageTitle": "Within Iranian Islam — Volume III",
+  "description": "Henry Corbin’s Within Iranian Islam (En Islam iranien), Volume III: The Faithful of Love · Shiism and Sufism. Free English translation with the complete French original.",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "langKey": "minimal-library-lang-within-iranian-islam",
+  "title": {
+    "en": "Within Iranian Islam",
+    "fr": "En Islam iranien"
+  },
+  "subtitle": {
+    "en": "The Faithful of Love · Shiism and Sufism",
+    "fr": "Les Fidèles d’amour · Shî’isme et soufisme"
+  },
+  "author": {
+    "en": "Henry Corbin",
+    "fr": "Henry Corbin"
+  },
+  "edition": {
+    "en": "French edition · Gallimard, 1972",
+    "fr": "Édition originale · Gallimard, 1972"
+  },
+  "downloads": {
+    "en": "Within Iranian Islam III - English.md",
+    "fr": "En Islam iranien III - French.md"
+  },
+  "home": {
+    "href": "../",
+    "label": "All four volumes"
+  },
+  "series": {
+    "work": "within-iranian-islam",
+    "volume": 3
+  },
+  "review": {
+    "slug": "within-iranian-islam-volume-3",
+    "title": "Within Iranian Islam — Volume III",
+    "sourceLanguage": "fr",
+    "version": "60bd01c650b34ff9",
+    "englishMarkdown": "Within Iranian Islam III - English.md",
+    "sourceMarkdown": "En Islam iranien III - French.md"
+  },
+  "nav": {
+    "en": [
+      {
+        "id": "en-title-pages",
+        "title": "Title Pages",
+        "level": 1
+      },
+      {
+        "id": "en-overview",
+        "title": "Overviews",
+        "level": 1
+      },
+      {
+        "id": "en-overview-1",
+        "title": "Overview of Books I and II",
+        "level": 2
+      },
+      {
+        "id": "en-overview-2",
+        "title": "Overview of Book III",
+        "level": 2
+      },
+      {
+        "id": "en-overview-3",
+        "title": "Overview of Book IV",
+        "level": 2
+      },
+      {
+        "id": "en-book-3",
+        "title": "Book III: Ruzbihan Baqli Shirazi and the Sufism of the Faithful of Love",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00100",
+        "title": "I. Sufism and the Peace of the Soul",
+        "level": 2
+      },
+      {
+        "id": "en-book-3-ch-2",
+        "title": "II. Ruzbihan of Shiraz",
+        "level": 2
+      },
+      {
+        "id": "en-book-3-ch-3",
+        "title": "III. The Clouding of the Heart and the Ordeal of the Veil",
+        "level": 2
+      },
+      {
+        "id": "en-book-3-ch-4",
+        "title": "IV. Diarium spirituale",
+        "level": 2
+      },
+      {
+        "id": "en-book-3-ch-5",
+        "title": "V. The Jasmine of the Faithful in Love",
+        "level": 2
+      },
+      {
+        "id": "en-book-3-ch-6",
+        "title": "VI. The Inner Pilgrimage",
+        "level": 2
+      },
+      {
+        "id": "en-book-3-ch-6-s1",
+        "title": "1. The Theophany in Beauty",
+        "level": 3
+      },
+      {
+        "id": "en-book-3-ch-6-s2",
+        "title": "2. The Prophet of Beauty",
+        "level": 3
+      },
+      {
+        "id": "en-book-3-ch-6-s3",
+        "title": "3. The Prophetic Meaning of Beauty",
+        "level": 3
+      },
+      {
+        "id": "en-book-3-ch-6-s4",
+        "title": "4. The Pre-eternal Source of Love",
+        "level": 3
+      },
+      {
+        "id": "en-book-3-ch-6-s5",
+        "title": "5. The Stages of Initiation",
+        "level": 3
+      },
+      {
+        "id": "en-book-3-ch-6-s6",
+        "title": "6. Esoteric tawhîd",
+        "level": 3
+      },
+      {
+        "id": "en-book-3-ch-6-s7",
+        "title": "7. The “history” of the faithful of love",
+        "level": 3
+      },
+      {
+        "id": "en-book-4",
+        "title": "Book IV: Shiism and Sufism",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00836",
+        "title": "I. Haydar Amoli, a Shiite Theologian of Sufism",
+        "level": 2
+      },
+      {
+        "id": "en-book-4-ch-1-s1",
+        "title": "1. Discovering a Body of Work",
+        "level": 3
+      },
+      {
+        "id": "en-book-4-ch-1-s2",
+        "title": "2. An Autobiographical and Bibliographical Outline",
+        "level": 3
+      },
+      {
+        "id": "en-book-4-ch-1-s3",
+        "title": "3. Shiism and Sufism",
+        "level": 3
+      },
+      {
+        "id": "en-book-4-ch-1-s4",
+        "title": "4. Theological Tawhîd and Ontological Tawhîd",
+        "level": 3
+      },
+      {
+        "id": "en-book-4-ch-1-s5",
+        "title": "5. Visions in the Night Sky over Baghdad and Khorassan",
+        "level": 3
+      },
+      {
+        "id": "en-book-4-ch-2",
+        "title": "II. An Anonymous Treatise on the Seven Inner Meanings of the Qur'an",
+        "level": 2
+      },
+      {
+        "id": "en-book-4-ch-2-s1",
+        "title": "1. Interpretation and the Types of Spiritual Seekers",
+        "level": 3
+      },
+      {
+        "id": "en-book-4-ch-2-s2",
+        "title": "2. The Eternal Event of the Book",
+        "level": 3
+      },
+      {
+        "id": "en-book-4-ch-2-s3",
+        "title": "3. The Seven Inner Depths and the Hierarchy of Spiritual Seekers",
+        "level": 3
+      },
+      {
+        "id": "en-book-4-ch-3",
+        "title": "III. A Typology of Spiritual Seekers According to Sa’inoddin ’Alî Torkeh Ispahânî (d. 830/1427)",
+        "level": 2
+      },
+      {
+        "id": "en-book-4-ch-3-s1",
+        "title": "1. The Inner Meaning of the Splitting of the Moon",
+        "level": 3
+      },
+      {
+        "id": "en-book-4-ch-3-s2",
+        "title": "2. The Jurists and the Traditionists",
+        "level": 3
+      },
+      {
+        "id": "en-book-4-ch-3-s3",
+        "title": "3. The Philosophers of Islam",
+        "level": 3
+      },
+      {
+        "id": "en-book-4-ch-3-s4",
+        "title": "4. The Peripatetics",
+        "level": 3
+      },
+      {
+        "id": "en-book-4-ch-3-s5",
+        "title": "5. The Theosophers of Light (Ishrâqiyûn)",
+        "level": 3
+      },
+      {
+        "id": "en-book-4-ch-3-s6",
+        "title": "6. The Sufis",
+        "level": 3
+      },
+      {
+        "id": "en-book-4-ch-3-s7",
+        "title": "7. The Hurufis",
+        "level": 3
+      },
+      {
+        "id": "en-book-4-ch-3-s8",
+        "title": "8. The Shiites",
+        "level": 3
+      },
+      {
+        "id": "en-book-4-ch-3-s9",
+        "title": "9. An Imamology That Dares Not Speak Its Name",
+        "level": 3
+      },
+      {
+        "id": "en-book-4-ch-4",
+        "title": "IV. The Seven Subtle Organs of the Human Being According to 'Ala al-Dawla Semnani (d. 1336)",
+        "level": 2
+      },
+      {
+        "id": "en-book-4-ch-4-s1",
+        "title": "1. Semnani's Commentary on the Qur'an",
+        "level": 3
+      },
+      {
+        "id": "en-book-4-ch-4-s2",
+        "title": "2. The Seven Prophets of Your Being",
+        "level": 3
+      },
+      {
+        "id": "en-book-4-ch-4-s3",
+        "title": "3. “The Angel Gabriel of Your Being”",
+        "level": 3
+      },
+      {
+        "id": "en-book-4-ch-4-s4",
+        "title": "4. The Four Modes of Being of the Revealed Book",
+        "level": 3
+      },
+      {
+        "id": "en-book-4-ch-4-s5",
+        "title": "5. The Three Bodies of the Human Being",
+        "level": 3
+      },
+      {
+        "id": "en-book-4-ch-4-s6",
+        "title": "6. The Psycho-Cosmic Formation of the Organs of Subtle Physiology",
+        "level": 3
+      },
+      {
+        "id": "en-book-4-ch-4-s7",
+        "title": "7. Spiritual Diary (Diarium spirituale)",
+        "level": 3
+      },
+      {
+        "id": "en-contents",
+        "title": "Printed Contents",
+        "level": 1
+      },
+      {
+        "id": "en-back-matter",
+        "title": "Back Matter",
+        "level": 1
+      },
+      {
+        "id": "en-notes",
+        "title": "Notes",
+        "level": 1
+      }
+    ],
+    "fr": [
+      {
+        "id": "fr-title-pages",
+        "title": "Pages de titre",
+        "level": 1
+      },
+      {
+        "id": "fr-overview",
+        "title": "Arguments",
+        "level": 1
+      },
+      {
+        "id": "fr-overview-1",
+        "title": "Argument des livres I et II",
+        "level": 2
+      },
+      {
+        "id": "fr-overview-2",
+        "title": "Argument du livre III",
+        "level": 2
+      },
+      {
+        "id": "fr-overview-3",
+        "title": "Argument du livre IV",
+        "level": 2
+      },
+      {
+        "id": "fr-book-3",
+        "title": "Livre III : Rûzbehân Baqlî Shîrâzî et le soufisme des Fidèles d’amour",
+        "level": 1
+      },
+      {
+        "id": "passage-fr-00055",
+        "title": "I. Soufisme et quiétude de l’âme",
+        "level": 2
+      },
+      {
+        "id": "fr-book-3-ch-2",
+        "title": "II. Rûzbehân de Shîrâz",
+        "level": 2
+      },
+      {
+        "id": "fr-book-3-ch-3",
+        "title": "III. L’ennuagement du cœur et l’épreuve du Voile",
+        "level": 2
+      },
+      {
+        "id": "fr-book-3-ch-4",
+        "title": "IV. Diarium spirituale",
+        "level": 2
+      },
+      {
+        "id": "fr-book-3-ch-5",
+        "title": "V. Le Jasmin des Fidèles d’amour",
+        "level": 2
+      },
+      {
+        "id": "fr-book-3-ch-6",
+        "title": "VI. Le pèlerinage intérieur",
+        "level": 2
+      },
+      {
+        "id": "fr-book-3-ch-6-s1",
+        "title": "1. La théophanie dans la beauté",
+        "level": 3
+      },
+      {
+        "id": "fr-book-3-ch-6-s2",
+        "title": "2. Le prophète de la beauté",
+        "level": 3
+      },
+      {
+        "id": "fr-book-3-ch-6-s3",
+        "title": "3. Le sens prophétique de la beauté",
+        "level": 3
+      },
+      {
+        "id": "fr-book-3-ch-6-s4",
+        "title": "4. La source prééternelle de l’amour",
+        "level": 3
+      },
+      {
+        "id": "fr-book-3-ch-6-s5",
+        "title": "5. Les étapes d’initiation",
+        "level": 3
+      },
+      {
+        "id": "fr-book-3-ch-6-s6",
+        "title": "6. Le Tawhîd ésotérique",
+        "level": 3
+      },
+      {
+        "id": "fr-book-3-ch-6-s7",
+        "title": "7. L’« histoire » des fidèles d’amour",
+        "level": 3
+      },
+      {
+        "id": "fr-book-4",
+        "title": "Livre IV : Shî’isme et soufisme",
+        "level": 1
+      },
+      {
+        "id": "passage-fr-00288",
+        "title": "I. Haydar Âmolî, théologien shi’ite du soufisme",
+        "level": 2
+      },
+      {
+        "id": "fr-book-4-ch-1-s1",
+        "title": "1. À la découverte d’une œuvre",
+        "level": 3
+      },
+      {
+        "id": "fr-book-4-ch-1-s2",
+        "title": "2. Aperçu autobiographique et bibliographique",
+        "level": 3
+      },
+      {
+        "id": "fr-book-4-ch-1-s3",
+        "title": "3. Shî’isme et soufisme",
+        "level": 3
+      },
+      {
+        "id": "fr-book-4-ch-1-s4",
+        "title": "4. Tawhîd théologique et Tawhîd ontologique",
+        "level": 3
+      },
+      {
+        "id": "fr-book-4-ch-1-s5",
+        "title": "5. Visions dans le ciel nocturne de Baghdad et du Khorassan",
+        "level": 3
+      },
+      {
+        "id": "fr-book-4-ch-2",
+        "title": "II. Un traité anonyme sur les sept sens ésotériques du Qorân",
+        "level": 2
+      },
+      {
+        "id": "fr-book-4-ch-2-s1",
+        "title": "1. Herméneutique et typologie",
+        "level": 3
+      },
+      {
+        "id": "fr-book-4-ch-2-s2",
+        "title": "2. L’événement éternel du Livre",
+        "level": 3
+      },
+      {
+        "id": "fr-book-4-ch-2-s3",
+        "title": "3. Les sept profondeurs ésotériques et la hiérarchie des spirituels",
+        "level": 3
+      },
+      {
+        "id": "fr-book-4-ch-3",
+        "title": "III. Typologie des spirituels selon Sa’inoddin ’Alî Torkeh Ispahânî (ob. 830/1427)",
+        "level": 2
+      },
+      {
+        "id": "fr-book-4-ch-3-s1",
+        "title": "1. Du sens ésotérique de l’éclatement de la Lune",
+        "level": 3
+      },
+      {
+        "id": "fr-book-4-ch-3-s2",
+        "title": "2. Les juristes et les traditionistes",
+        "level": 3
+      },
+      {
+        "id": "fr-book-4-ch-3-s3",
+        "title": "3. Les philosophes de l’Islam",
+        "level": 3
+      },
+      {
+        "id": "fr-book-4-ch-3-s4",
+        "title": "4. Les Péripatéticiens",
+        "level": 3
+      },
+      {
+        "id": "fr-book-4-ch-3-s5",
+        "title": "5. Les théosophes de la Lumière (Ishrâqiyûn)",
+        "level": 3
+      },
+      {
+        "id": "fr-book-4-ch-3-s6",
+        "title": "6. Les soufis",
+        "level": 3
+      },
+      {
+        "id": "fr-book-4-ch-3-s7",
+        "title": "7. Les Horoufis",
+        "level": 3
+      },
+      {
+        "id": "fr-book-4-ch-3-s8",
+        "title": "8. Les Shî’ites",
+        "level": 3
+      },
+      {
+        "id": "fr-book-4-ch-3-s9",
+        "title": "9. D’une imâmologie qui n’ose pas dire son nom",
+        "level": 3
+      },
+      {
+        "id": "fr-book-4-ch-4",
+        "title": "IV. Les sept organes subtils de l’homme selon ’Alâoddawleh Semnâni (736/1336)",
+        "level": 2
+      },
+      {
+        "id": "fr-book-4-ch-4-s1",
+        "title": "1. Le commentaire qorânique de Semnâni",
+        "level": 3
+      },
+      {
+        "id": "fr-book-4-ch-4-s2",
+        "title": "2. Les sept prophètes de ton être",
+        "level": 3
+      },
+      {
+        "id": "fr-book-4-ch-4-s3",
+        "title": "3. « L’ange Gabriel de ton être »",
+        "level": 3
+      },
+      {
+        "id": "fr-book-4-ch-4-s4",
+        "title": "4. Les quatre modes d’être du Livre révélé",
+        "level": 3
+      },
+      {
+        "id": "fr-book-4-ch-4-s5",
+        "title": "5. Les trois corps de l’être humain",
+        "level": 3
+      },
+      {
+        "id": "fr-book-4-ch-4-s6",
+        "title": "6. Constitution psycho-cosmique des organes de la physiologie subtile",
+        "level": 3
+      },
+      {
+        "id": "fr-book-4-ch-4-s7",
+        "title": "7. Diarium spirituale",
+        "level": 3
+      },
+      {
+        "id": "fr-contents",
+        "title": "Table des matières",
+        "level": 1
+      },
+      {
+        "id": "fr-back-matter",
+        "title": "Pages de fin",
+        "level": 1
+      },
+      {
+        "id": "fr-notes",
+        "title": "Notes",
+        "level": 1
+      }
+    ]
+  }
+}

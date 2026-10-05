@@ -143,7 +143,7 @@ def build(root, library, corpus):
         bid = book['searchId']
         books.append({
             'id': bid, 'slug': book['slug'], 'title': book['title']['en'] if not book.get('series') else
-            f"{library['series'][book['series']['work']]['title'].split(' in ')[0]} · Volume {['I','II','III','IV'][book['series']['volume']-1]}",
+            f"{(lambda s: s.get('shortTitle') or s['title'])(library['series'][book['series']['work']])} · Volume {['I','II','III','IV','V','VI'][book['series']['volume']-1]}",
             'author': book['author']['en'], 'url': '../' + book['path'] + '/',
         })
         chunks = [(v['lang'], content[v['start']:v['end']]) for v in views]

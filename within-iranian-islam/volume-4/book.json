@@ -1,0 +1,644 @@
+{
+  "searchId": 15,
+  "slug": "within-iranian-islam-volume-4",
+  "path": "within-iranian-islam/volume-4",
+  "pageTitle": "Within Iranian Islam — Volume IV",
+  "description": "Henry Corbin’s Within Iranian Islam (En Islam iranien), Volume IV: The School of Isfahan · The Shaykhi School · The Twelfth Imam. Free English translation with the complete French original.",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "langKey": "minimal-library-lang-within-iranian-islam",
+  "title": {
+    "en": "Within Iranian Islam",
+    "fr": "En Islam iranien"
+  },
+  "subtitle": {
+    "en": "The School of Isfahan · The Shaykhi School · The Twelfth Imam",
+    "fr": "L’École d’Ispahan · L’École shaykhie · Le Douzième Imâm"
+  },
+  "author": {
+    "en": "Henry Corbin",
+    "fr": "Henry Corbin"
+  },
+  "edition": {
+    "en": "French edition · Gallimard, 1972",
+    "fr": "Édition originale · Gallimard, 1972"
+  },
+  "downloads": {
+    "en": "Within Iranian Islam IV - English.md",
+    "fr": "En Islam iranien IV - French.md"
+  },
+  "home": {
+    "href": "../",
+    "label": "All four volumes"
+  },
+  "series": {
+    "work": "within-iranian-islam",
+    "volume": 4
+  },
+  "review": {
+    "slug": "within-iranian-islam-volume-4",
+    "title": "Within Iranian Islam — Volume IV",
+    "sourceLanguage": "fr",
+    "version": "4facb866814e92c5",
+    "englishMarkdown": "Within Iranian Islam IV - English.md",
+    "sourceMarkdown": "En Islam iranien IV - French.md"
+  },
+  "nav": {
+    "en": [
+      {
+        "id": "en-title-pages",
+        "title": "Title Pages",
+        "level": 1
+      },
+      {
+        "id": "en-contents",
+        "title": "Printed Contents",
+        "level": 1
+      },
+      {
+        "id": "en-overview",
+        "title": "Overviews",
+        "level": 1
+      },
+      {
+        "id": "en-overview-1",
+        "title": "Overview of Books I and II",
+        "level": 2
+      },
+      {
+        "id": "en-overview-2",
+        "title": "Overview of Book III",
+        "level": 2
+      },
+      {
+        "id": "en-overview-3",
+        "title": "Overview of Book IV",
+        "level": 2
+      },
+      {
+        "id": "en-overview-4",
+        "title": "Overview of Book V",
+        "level": 2
+      },
+      {
+        "id": "en-overview-5",
+        "title": "Overview of Book VI",
+        "level": 2
+      },
+      {
+        "id": "en-overview-6",
+        "title": "Overview of Book VII",
+        "level": 2
+      },
+      {
+        "id": "en-book-5",
+        "title": "Book V: The School of Isfahan",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00141",
+        "title": "I. The Ecstatic Confessions of Mîr Dâmâd",
+        "level": 2
+      },
+      {
+        "id": "en-book-5-ch-1-s1",
+        "title": "1. Mîr Dâmâd and the School of Isfahan",
+        "level": 3
+      },
+      {
+        "id": "en-book-5-ch-1-s2",
+        "title": "2. Vision in the Mosque of Qom",
+        "level": 3
+      },
+      {
+        "id": "en-book-5-ch-1-s3",
+        "title": "3. Exaltation in Solitude",
+        "level": 3
+      },
+      {
+        "id": "en-book-5-ch-1-s4",
+        "title": "4. “That Immense Hidden Clamor…”",
+        "level": 3
+      },
+      {
+        "id": "en-book-5-ch-2",
+        "title": "II. Mollâ Sadrâ Shîrâzî",
+        "level": 2
+      },
+      {
+        "id": "en-book-5-ch-2-s1",
+        "title": "1. The Life and Work of Mollâ Sadrâ",
+        "level": 3
+      },
+      {
+        "id": "en-book-5-ch-2-s2",
+        "title": "2. The Shiite Thinker and “Prophetic Philosophy”",
+        "level": 3
+      },
+      {
+        "id": "en-book-5-ch-2-s3",
+        "title": "3. Toward a Metaphysics of Resurrection",
+        "level": 3
+      },
+      {
+        "id": "en-book-5-ch-2-s4",
+        "title": "4. The World of Spiritual Imagination and the Resurrection Body",
+        "level": 3
+      },
+      {
+        "id": "en-book-5-ch-2-s5",
+        "title": "5. Creative Imagination and Its Role in the Resurrection",
+        "level": 3
+      },
+      {
+        "id": "en-book-5-ch-2-s6",
+        "title": "6. The Three Stages of Human Growth",
+        "level": 3
+      },
+      {
+        "id": "en-book-5-ch-3",
+        "title": "III. Qâzî Sa'îd Qommî",
+        "level": 2
+      },
+      {
+        "id": "en-book-5-ch-3-s1",
+        "title": "1. In the Holy City of Qomm, “the Well-Protected”",
+        "level": 3
+      },
+      {
+        "id": "en-book-5-ch-3-s2",
+        "title": "2. Apophatic Theology and the Structure of the Imamate",
+        "level": 3
+      },
+      {
+        "id": "en-book-5-ch-3-s3",
+        "title": "3. The “Tale of the White Cloud” as an Account of Initiation",
+        "level": 3
+      },
+      {
+        "id": "en-book-5-ch-3-s4",
+        "title": "4. The Folding Inward of Chronological Time and Sensible Space",
+        "level": 3
+      },
+      {
+        "id": "en-book-5-ch-3-s5",
+        "title": "5. Exploring the Mountain of Qâf",
+        "level": 3
+      },
+      {
+        "id": "en-book-6",
+        "title": "Book VI: The Shaykhi School",
+        "level": 1
+      },
+      {
+        "id": "passage-en-01208",
+        "title": "I. Shaykh Ahmad Ahsâ'î (1241/1826)",
+        "level": 2
+      },
+      {
+        "id": "en-book-6-ch-1-s1",
+        "title": "1. The Shaykhi School",
+        "level": 3
+      },
+      {
+        "id": "en-book-6-ch-1-s2",
+        "title": "2. The Life and Work of Shaykh Ahmad Ahsâ'î",
+        "level": 3
+      },
+      {
+        "id": "en-book-6-ch-2",
+        "title": "II. The Successors of Shaykh Ahmad Ahsa'i",
+        "level": 2
+      },
+      {
+        "id": "en-book-6-ch-2-s1",
+        "title": "1. Sayyed Kazem Reshti (1212/1798–1259/1843)",
+        "level": 3
+      },
+      {
+        "id": "en-book-6-ch-2-s2",
+        "title": "2. Shaykh Hajj Mohammad Karim-Khan Kermani (1225/1809–1288/1870)",
+        "level": 3
+      },
+      {
+        "id": "en-book-6-ch-2-s3",
+        "title": "3. Shaykh Hajj Mohammad-Khan Kermani (1263/1846–1324/1906)",
+        "level": 3
+      },
+      {
+        "id": "en-book-6-ch-2-s4",
+        "title": "4. Shaykh Hâjj Zaynol-'Âbidîn-Khân Kermânî (1276/1859–1360/1942)",
+        "level": 3
+      },
+      {
+        "id": "en-book-6-ch-2-s5",
+        "title": "5. Shaykh Abû'l-Qâsem-Khân Ebrâhîmî, Sarkâr Âghâ (1314/1896–1389/1969)",
+        "level": 3
+      },
+      {
+        "id": "en-book-6-ch-3",
+        "title": "III. Some Points of Doctrine",
+        "level": 2
+      },
+      {
+        "id": "en-book-6-ch-3-s1",
+        "title": "1. Tradition and Renewal",
+        "level": 3
+      },
+      {
+        "id": "en-book-6-ch-3-s2",
+        "title": "2. The Renewal of Metaphysics",
+        "level": 3
+      },
+      {
+        "id": "en-book-6-ch-3-s3",
+        "title": "3. The “Fourth Pillar”",
+        "level": 3
+      },
+      {
+        "id": "en-book-6-ch-3-s4",
+        "title": "4. Eschatology and the Correspondence of Time and Space",
+        "level": 3
+      },
+      {
+        "id": "en-book-7",
+        "title": "Book VII: The Twelfth Imam and Spiritual Chivalry",
+        "level": 1
+      },
+      {
+        "id": "passage-en-01704",
+        "title": "I. The Hagiography of the Twelfth Imam",
+        "level": 2
+      },
+      {
+        "id": "en-book-7-ch-1-s1",
+        "title": "1. The Completion of the Fullness of the Twelve",
+        "level": 3
+      },
+      {
+        "id": "en-book-7-ch-1-s2",
+        "title": "2. From Byzantium to Samarra",
+        "level": 3
+      },
+      {
+        "id": "en-book-7-ch-1-s3",
+        "title": "3. The Seal of Muhammadan Walayat and His Occultation (Ghaybat)",
+        "level": 3
+      },
+      {
+        "id": "en-book-7-ch-2",
+        "title": "II. In the Time of the “Great Occultation”",
+        "level": 2
+      },
+      {
+        "id": "en-book-7-ch-2-s1",
+        "title": "1. The Sanctuary of Jam-Karân",
+        "level": 3
+      },
+      {
+        "id": "en-book-7-ch-2-s2",
+        "title": "2. The Journey to the Green Island in the White Sea",
+        "level": 3
+      },
+      {
+        "id": "en-book-7-ch-2-s3",
+        "title": "3. The Islands of the Five Cities",
+        "level": 3
+      },
+      {
+        "id": "en-book-7-ch-2-s4",
+        "title": "4. An Encounter in the Desert, or the Ubiquity of Nâ-kojâ-Âbâd",
+        "level": 3
+      },
+      {
+        "id": "en-book-7-ch-3",
+        "title": "III. Spiritual Chivalry",
+        "level": 2
+      },
+      {
+        "id": "en-book-7-ch-3-s1",
+        "title": "1. From the Knights of St. John's “Green Island” to an Unfinished Poem by Goethe",
+        "level": 3
+      },
+      {
+        "id": "en-book-7-ch-3-s2",
+        "title": "2. The Abrahamic Tradition and Spiritual Chivalry (javânmardî)",
+        "level": 3
+      },
+      {
+        "id": "en-book-7-ch-3-s3",
+        "title": "3. The Twelfth Imam and the Reign of the Paraclete",
+        "level": 3
+      },
+      {
+        "id": "en-book-7-ch-3-s4",
+        "title": "4. The Personal Guide",
+        "level": 3
+      },
+      {
+        "id": "en-notes",
+        "title": "Notes",
+        "level": 1
+      }
+    ],
+    "fr": [
+      {
+        "id": "fr-title-pages",
+        "title": "Pages de titre",
+        "level": 1
+      },
+      {
+        "id": "fr-contents",
+        "title": "Table des matières",
+        "level": 1
+      },
+      {
+        "id": "fr-overview",
+        "title": "Arguments",
+        "level": 1
+      },
+      {
+        "id": "fr-overview-1",
+        "title": "Argument des livres I et II",
+        "level": 2
+      },
+      {
+        "id": "fr-overview-2",
+        "title": "Argument du livre III",
+        "level": 2
+      },
+      {
+        "id": "fr-overview-3",
+        "title": "Argument du livre IV",
+        "level": 2
+      },
+      {
+        "id": "fr-overview-4",
+        "title": "Argument du livre V",
+        "level": 2
+      },
+      {
+        "id": "fr-overview-5",
+        "title": "Argument du livre VI",
+        "level": 2
+      },
+      {
+        "id": "fr-overview-6",
+        "title": "Argument du livre VII",
+        "level": 2
+      },
+      {
+        "id": "fr-book-5",
+        "title": "Livre V : L’École d’Ispahan",
+        "level": 1
+      },
+      {
+        "id": "passage-fr-00088",
+        "title": "I. Confessions extatiques de Mîr Dâmâd",
+        "level": 2
+      },
+      {
+        "id": "fr-book-5-ch-1-s1",
+        "title": "1. Mîr Dâmâd et l'École d'Ispahan",
+        "level": 3
+      },
+      {
+        "id": "fr-book-5-ch-1-s2",
+        "title": "2. Vision en la mosquée de Qomm",
+        "level": 3
+      },
+      {
+        "id": "fr-book-5-ch-1-s3",
+        "title": "3. Exaltation dans la solitude",
+        "level": 3
+      },
+      {
+        "id": "fr-book-5-ch-1-s4",
+        "title": "4. « Cette immense clameur occulte... »",
+        "level": 3
+      },
+      {
+        "id": "fr-book-5-ch-2",
+        "title": "II. Mollâ Sadrâ Shîrâzî",
+        "level": 2
+      },
+      {
+        "id": "fr-book-5-ch-2-s1",
+        "title": "1. La vie et l'œuvre de Mollâ Sadrâ",
+        "level": 3
+      },
+      {
+        "id": "fr-book-5-ch-2-s2",
+        "title": "2. Le penseur shî'ite et la « philosophie prophétique »",
+        "level": 3
+      },
+      {
+        "id": "fr-book-5-ch-2-s3",
+        "title": "3. Vers une métaphysique de la Résurrection",
+        "level": 3
+      },
+      {
+        "id": "fr-book-5-ch-2-s4",
+        "title": "4. Le monde de l'Imagination spirituelle et le corps de résurrection",
+        "level": 3
+      },
+      {
+        "id": "fr-book-5-ch-2-s5",
+        "title": "5. L'Imagination créatrice et sa fonction eschatologique",
+        "level": 3
+      },
+      {
+        "id": "fr-book-5-ch-2-s6",
+        "title": "6. La triple croissance de l'être humain",
+        "level": 3
+      },
+      {
+        "id": "fr-book-5-ch-3",
+        "title": "III. Qâzî Sa'îd Qommî",
+        "level": 2
+      },
+      {
+        "id": "fr-book-5-ch-3-s1",
+        "title": "1. En la ville sainte de Qomm « la bien gardée »",
+        "level": 3
+      },
+      {
+        "id": "fr-book-5-ch-3-s2",
+        "title": "2. Théologie apophatique et imâmologie structurelle",
+        "level": 3
+      },
+      {
+        "id": "fr-book-5-ch-3-s3",
+        "title": "3. Le « Récit du Nuage blanc » comme récit initiatique",
+        "level": 3
+      },
+      {
+        "id": "fr-book-5-ch-3-s4",
+        "title": "4. L'involution du temps chronologique et de l'espace sensible",
+        "level": 3
+      },
+      {
+        "id": "fr-book-5-ch-3-s5",
+        "title": "5. En explorant la montagne de Qâf",
+        "level": 3
+      },
+      {
+        "id": "fr-book-6",
+        "title": "Livre VI : L’École shaykhie",
+        "level": 1
+      },
+      {
+        "id": "passage-fr-00479",
+        "title": "I. Shaykh Ahmad Ahsâ’î (1241/1826)",
+        "level": 2
+      },
+      {
+        "id": "fr-book-6-ch-1-s1",
+        "title": "1. L’École shaykhie",
+        "level": 3
+      },
+      {
+        "id": "fr-book-6-ch-1-s2",
+        "title": "2. La vie et l’œuvre de Shaykh Ahmad Ahsâ’î",
+        "level": 3
+      },
+      {
+        "id": "fr-book-6-ch-2",
+        "title": "II. Les successeurs de Shaykh Ahmad Ahsâ'î",
+        "level": 2
+      },
+      {
+        "id": "fr-book-6-ch-2-s1",
+        "title": "1. Sayyed Kâzem Reshtî (1212/1798-1259/1843)",
+        "level": 3
+      },
+      {
+        "id": "fr-book-6-ch-2-s2",
+        "title": "2. Shaykh Hâjj Mohammad Karîm-Khân Kermânî (1225/1809-1288/1870)",
+        "level": 3
+      },
+      {
+        "id": "fr-book-6-ch-2-s3",
+        "title": "3. Shaykh Hâjj Mohammad-Khân Kermânî (1263/1846-1324/1906)",
+        "level": 3
+      },
+      {
+        "id": "fr-book-6-ch-2-s4",
+        "title": "4. Shaykh Hâjj Zaynol-'Âbidîn-Khân Kermânî (1276/1859-1360/1942)",
+        "level": 3
+      },
+      {
+        "id": "fr-book-6-ch-2-s5",
+        "title": "5. Shaykh Abû'l-Qâsem-Khân Ebrâhîmî, Sarkâr Âghâ (1314/1896-1389/1969)",
+        "level": 3
+      },
+      {
+        "id": "fr-book-6-ch-3",
+        "title": "III. Quelques points de doctrine",
+        "level": 2
+      },
+      {
+        "id": "fr-book-6-ch-3-s1",
+        "title": "1. Tradition et rénovation",
+        "level": 3
+      },
+      {
+        "id": "fr-book-6-ch-3-s2",
+        "title": "2. D'une rénovation de la métaphysique",
+        "level": 3
+      },
+      {
+        "id": "fr-book-6-ch-3-s3",
+        "title": "3. Le « quatrième pilier »",
+        "level": 3
+      },
+      {
+        "id": "fr-book-6-ch-3-s4",
+        "title": "4. Eschatologie et isomorphisme du temps et de l'espace",
+        "level": 3
+      },
+      {
+        "id": "fr-book-7",
+        "title": "Livre VII : Le Douzième Imâm et la chevalerie spirituelle",
+        "level": 1
+      },
+      {
+        "id": "passage-fr-00664",
+        "title": "I. L'hagiographie du Douzième Imâm",
+        "level": 2
+      },
+      {
+        "id": "fr-book-7-ch-1-s1",
+        "title": "1. L'achèvement du plérôme des Douze",
+        "level": 3
+      },
+      {
+        "id": "fr-book-7-ch-1-s2",
+        "title": "2. De Byzance à Samarra",
+        "level": 3
+      },
+      {
+        "id": "fr-book-7-ch-1-s3",
+        "title": "3. Le Sceau de la walâyat mohammadienne et son Occultation (ghaybat)",
+        "level": 3
+      },
+      {
+        "id": "fr-book-7-ch-2",
+        "title": "II. Au temps de la « Grande Occultation ».",
+        "level": 2
+      },
+      {
+        "id": "fr-book-7-ch-2-s1",
+        "title": "1. Le sanctuaire de Jam-Karân",
+        "level": 3
+      },
+      {
+        "id": "fr-book-7-ch-2-s2",
+        "title": "2. Le voyage à l'Ile Verte en la Mer Blanche",
+        "level": 3
+      },
+      {
+        "id": "fr-book-7-ch-2-s3",
+        "title": "3. Les îles aux cinq cités",
+        "level": 3
+      },
+      {
+        "id": "fr-book-7-ch-2-s4",
+        "title": "4. Rencontre dans le désert ou ubiquité de Nâ-kojâ-Âbâd",
+        "level": 3
+      },
+      {
+        "id": "fr-book-7-ch-3",
+        "title": "III. La chevalerie spirituelle",
+        "level": 2
+      },
+      {
+        "id": "fr-book-7-ch-3-s1",
+        "title": "1. De l' « Ile Verte » des Johannites à un poème inachevé de Gœthe",
+        "level": 3
+      },
+      {
+        "id": "fr-book-7-ch-3-s2",
+        "title": "2. Tradition abrahamique et chevalerie spirituelle (javânmardî)",
+        "level": 3
+      },
+      {
+        "id": "fr-book-7-ch-3-s3",
+        "title": "3. Le Douzième Imâm et le règne du Paraclet",
+        "level": 3
+      },
+      {
+        "id": "fr-book-7-ch-3-s4",
+        "title": "4. Le Guide personnel",
+        "level": 3
+      },
+      {
+        "id": "fr-notes",
+        "title": "Notes",
+        "level": 1
+      }
+    ]
+  }
+}

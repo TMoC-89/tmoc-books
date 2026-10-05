@@ -1,0 +1,464 @@
+{
+  "searchId": 13,
+  "slug": "within-iranian-islam-volume-2",
+  "path": "within-iranian-islam/volume-2",
+  "pageTitle": "Within Iranian Islam — Volume II",
+  "description": "Henry Corbin’s Within Iranian Islam (En Islam iranien), Volume II: Sohrawardî and the Platonists of Persia. Free English translation with the complete French original.",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "langKey": "minimal-library-lang-within-iranian-islam",
+  "title": {
+    "en": "Within Iranian Islam",
+    "fr": "En Islam iranien"
+  },
+  "subtitle": {
+    "en": "Sohrawardî and the Platonists of Persia",
+    "fr": "Sohrawardî et les Platoniciens de Perse"
+  },
+  "author": {
+    "en": "Henry Corbin",
+    "fr": "Henry Corbin"
+  },
+  "edition": {
+    "en": "French edition · Gallimard, 1971",
+    "fr": "Édition originale · Gallimard, 1971"
+  },
+  "downloads": {
+    "en": "Within Iranian Islam II - English.md",
+    "fr": "En Islam iranien II - French.md"
+  },
+  "home": {
+    "href": "../",
+    "label": "All four volumes"
+  },
+  "series": {
+    "work": "within-iranian-islam",
+    "volume": 2
+  },
+  "review": {
+    "slug": "within-iranian-islam-volume-2",
+    "title": "Within Iranian Islam — Volume II",
+    "sourceLanguage": "fr",
+    "version": "2ca017665723434a",
+    "englishMarkdown": "Within Iranian Islam II - English.md",
+    "sourceMarkdown": "En Islam iranien II - French.md"
+  },
+  "nav": {
+    "en": [
+      {
+        "id": "en-title-pages",
+        "title": "Title Pages",
+        "level": 1
+      },
+      {
+        "id": "en-overview",
+        "title": "Outline of Books I and II",
+        "level": 1
+      },
+      {
+        "id": "en-book-2",
+        "title": "Book II: Sohrawardî and the Platonists of Persia",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00086",
+        "title": "I. A Life’s Great Undertaking",
+        "level": 2
+      },
+      {
+        "id": "en-book-2-ch-1-s1",
+        "title": "1. Life and Martyrdom",
+        "level": 3
+      },
+      {
+        "id": "en-book-2-ch-1-s2",
+        "title": "2. The Lineage of the Ishrâqîyûn, or “Eastern” Theosophers",
+        "level": 3
+      },
+      {
+        "id": "en-book-2-ch-2",
+        "title": "II. “Eastern” Theosophy",
+        "level": 2
+      },
+      {
+        "id": "en-book-2-ch-2-s1",
+        "title": "1. Hieratic Wisdom",
+        "level": 3
+      },
+      {
+        "id": "en-book-2-ch-2-s2",
+        "title": "2. “Eastern” Knowledge",
+        "level": 3
+      },
+      {
+        "id": "en-book-2-ch-2-s3",
+        "title": "3. The Hierarchy of Spiritual Sages and the Mystical “Pole”",
+        "level": 3
+      },
+      {
+        "id": "en-book-2-ch-3",
+        "title": "III. The Zoroastrian Light of Glory (Xvarnah) and Angelology",
+        "level": 2
+      },
+      {
+        "id": "en-book-2-ch-3-s1",
+        "title": "1. The Light of Glory as the “Eastern Source”",
+        "level": 3
+      },
+      {
+        "id": "en-book-2-ch-3-s2",
+        "title": "2. The Visions of Kay Khosraw and Zoroaster",
+        "level": 3
+      },
+      {
+        "id": "en-book-2-ch-3-s3",
+        "title": "3. The Archangelic Lights and the Platonic Ideas",
+        "level": 3
+      },
+      {
+        "id": "en-book-2-ch-3-s4",
+        "title": "4. The Hierarchies of the Archangelic Lights",
+        "level": 3
+      },
+      {
+        "id": "en-book-2-ch-3-s5",
+        "title": "5. Psalms to the Archangel of the Sun and to the “Perfect Nature”",
+        "level": 3
+      },
+      {
+        "id": "en-book-2-ch-4",
+        "title": "IV. The Light of Glory and the Holy Grail",
+        "level": 2
+      },
+      {
+        "id": "en-book-2-ch-4-s1",
+        "title": "1. Hermetica and Mithriaca",
+        "level": 3
+      },
+      {
+        "id": "en-book-2-ch-4-s2",
+        "title": "2. The Forms of Manifestation and the Lineage of the Xvarnah and the Holy Grail",
+        "level": 3
+      },
+      {
+        "id": "en-book-2-ch-4-s3",
+        "title": "3. Kay Khosraw and Parsifal",
+        "level": 3
+      },
+      {
+        "id": "en-book-2-ch-4-s4",
+        "title": "4. The “Eastern” fulfilment of the heroic epic in the mystical epic",
+        "level": 3
+      },
+      {
+        "id": "en-book-2-ch-4-s5",
+        "title": "5. The “Tale of the Grail” by a Khosrawani mystic",
+        "level": 3
+      },
+      {
+        "id": "en-book-2-ch-5",
+        "title": "V. “The Crimson Archangel” and the Iranian Mystical Epic",
+        "level": 2
+      },
+      {
+        "id": "en-book-2-ch-5-s1",
+        "title": "1. The Purpose of the Tale",
+        "level": 3
+      },
+      {
+        "id": "en-book-2-ch-5-s2",
+        "title": "2. The Prologue to the Tale",
+        "level": 3
+      },
+      {
+        "id": "en-book-2-ch-5-s3",
+        "title": "3. The Seven Themes of the Tale",
+        "level": 3
+      },
+      {
+        "id": "en-book-2-ch-5-s4",
+        "title": "4. From the Birth of Zal to the Death of Esfandiyar",
+        "level": 3
+      },
+      {
+        "id": "en-book-2-ch-5-s5",
+        "title": "5. Translation of “The Tale of the Crimson Archangel”",
+        "level": 3
+      },
+      {
+        "id": "en-book-2-ch-6",
+        "title": "VI. “The Tale of the Western Exile” and the Gnostic Epic",
+        "level": 2
+      },
+      {
+        "id": "en-book-2-ch-6-s1",
+        "title": "1. The History of the Gnostic",
+        "level": 3
+      },
+      {
+        "id": "en-book-2-ch-6-s2",
+        "title": "2. Analysis of the Tale",
+        "level": 3
+      },
+      {
+        "id": "en-book-2-ch-6-s3",
+        "title": "3. Translation of the “Tale of the Western Exile”",
+        "level": 3
+      },
+      {
+        "id": "en-book-2-ch-6-s4",
+        "title": "4. The Gnostic's Encounter with the Angel",
+        "level": 3
+      },
+      {
+        "id": "en-book-2-ch-6-s5",
+        "title": "5. The Secret of the “Personal City”",
+        "level": 3
+      },
+      {
+        "id": "en-book-2-ch-7",
+        "title": "VII. The “Eastern” Tradition",
+        "level": 2
+      },
+      {
+        "id": "en-book-2-ch-7-s1",
+        "title": "1. The Spiritual Legacy of the “Royal Road”",
+        "level": 3
+      },
+      {
+        "id": "en-book-2-ch-7-s2",
+        "title": "2. The Later “Eastern” Tradition in Iran and India",
+        "level": 3
+      },
+      {
+        "id": "en-book-2-ch-7-s3",
+        "title": "3. The Religion of Transfigured Eros",
+        "level": 3
+      },
+      {
+        "id": "en-contents",
+        "title": "Printed Contents",
+        "level": 1
+      },
+      {
+        "id": "en-back-matter",
+        "title": "Back Matter",
+        "level": 1
+      },
+      {
+        "id": "en-notes",
+        "title": "Notes",
+        "level": 1
+      }
+    ],
+    "fr": [
+      {
+        "id": "fr-title-pages",
+        "title": "Pages de titre",
+        "level": 1
+      },
+      {
+        "id": "fr-overview",
+        "title": "Argument des livres I et II",
+        "level": 1
+      },
+      {
+        "id": "fr-book-2",
+        "title": "Livre II : Sohrawardî et les Platoniciens de Perse",
+        "level": 1
+      },
+      {
+        "id": "passage-fr-00033",
+        "title": "I. Le grand projet d’une vie",
+        "level": 2
+      },
+      {
+        "id": "fr-book-2-ch-1-s1",
+        "title": "1. La vie et le martyre",
+        "level": 3
+      },
+      {
+        "id": "fr-book-2-ch-1-s2",
+        "title": "2. L’ascendance des Ishrâqîyûn ou théosophes « orientaux »",
+        "level": 3
+      },
+      {
+        "id": "fr-book-2-ch-2",
+        "title": "II. La théosophie « orientale »",
+        "level": 2
+      },
+      {
+        "id": "fr-book-2-ch-2-s1",
+        "title": "1. La sagesse « hiératique »",
+        "level": 3
+      },
+      {
+        "id": "fr-book-2-ch-2-s2",
+        "title": "2. La connaissance « orientale »",
+        "level": 3
+      },
+      {
+        "id": "fr-book-2-ch-2-s3",
+        "title": "3. La hiérarchie des Spirituels et le « Pôle » mystique",
+        "level": 3
+      },
+      {
+        "id": "fr-book-2-ch-3",
+        "title": "III. La Lumière de Gloire mazdéenne (Xvarnah) et l’angélologie",
+        "level": 2
+      },
+      {
+        "id": "fr-book-2-ch-3-s1",
+        "title": "1. La Lumière de Gloire comme « Source orientale »",
+        "level": 3
+      },
+      {
+        "id": "fr-book-2-ch-3-s2",
+        "title": "2. Les visions de Kay Khosraw et de Zoroastre",
+        "level": 3
+      },
+      {
+        "id": "fr-book-2-ch-3-s3",
+        "title": "3. Les Lumières archangéliques et les Idées platoniciennes",
+        "level": 3
+      },
+      {
+        "id": "fr-book-2-ch-3-s4",
+        "title": "4. Les hiérarchies des Lumières archangéliques",
+        "level": 3
+      },
+      {
+        "id": "fr-book-2-ch-3-s5",
+        "title": "5. Psaumes à l’archange du Soleil et à la « Nature Parfaite »",
+        "level": 3
+      },
+      {
+        "id": "fr-book-2-ch-4",
+        "title": "IV. La Lumière de Gloire et le Saint Graal",
+        "level": 2
+      },
+      {
+        "id": "fr-book-2-ch-4-s1",
+        "title": "1. Hermetica et mithriaca",
+        "level": 3
+      },
+      {
+        "id": "fr-book-2-ch-4-s2",
+        "title": "2. Les formes de manifestation et la lignée du Xvarnah et du Saint Graal",
+        "level": 3
+      },
+      {
+        "id": "fr-book-2-ch-4-s3",
+        "title": "3. Kay Khosraw et Parsifal",
+        "level": 3
+      },
+      {
+        "id": "fr-book-2-ch-4-s4",
+        "title": "4. La finalité « orientale » comme achèvement de l’épopée héroïque en épopée mystique",
+        "level": 3
+      },
+      {
+        "id": "fr-book-2-ch-4-s5",
+        "title": "5. Le « récit du Graal » d’un mystique khosrawânî",
+        "level": 3
+      },
+      {
+        "id": "fr-book-2-ch-5",
+        "title": "V. Le « Récit de l’Archange empourpré » et la geste mystique iranienne",
+        "level": 2
+      },
+      {
+        "id": "fr-book-2-ch-5-s1",
+        "title": "1. Finalité du récit",
+        "level": 3
+      },
+      {
+        "id": "fr-book-2-ch-5-s2",
+        "title": "2. Le prologue du Récit",
+        "level": 3
+      },
+      {
+        "id": "fr-book-2-ch-5-s3",
+        "title": "3. Les sept thèmes du Récit",
+        "level": 3
+      },
+      {
+        "id": "fr-book-2-ch-5-s4",
+        "title": "4. De la naissance de Zâl à la mort d’Esfandyâr",
+        "level": 3
+      },
+      {
+        "id": "fr-book-2-ch-5-s5",
+        "title": "5. Traduction du « Récit de l’Archange empourpré »",
+        "level": 3
+      },
+      {
+        "id": "fr-book-2-ch-6",
+        "title": "VI. Le « Récit de l’exil occidental » et la geste gnostique",
+        "level": 2
+      },
+      {
+        "id": "fr-book-2-ch-6-s1",
+        "title": "1. L’histoire du gnostique",
+        "level": 3
+      },
+      {
+        "id": "fr-book-2-ch-6-s2",
+        "title": "2. Analyse du Récit",
+        "level": 3
+      },
+      {
+        "id": "fr-book-2-ch-6-s3",
+        "title": "3. Traduction du « Récit de l’exil occidental »",
+        "level": 3
+      },
+      {
+        "id": "fr-book-2-ch-6-s4",
+        "title": "4. Le gnostique à la rencontre de l’Ange",
+        "level": 3
+      },
+      {
+        "id": "fr-book-2-ch-6-s5",
+        "title": "5. Le secret de la « Cité personnelle »",
+        "level": 3
+      },
+      {
+        "id": "fr-book-2-ch-7",
+        "title": "VII. La tradition « orientale »",
+        "level": 2
+      },
+      {
+        "id": "fr-book-2-ch-7-s1",
+        "title": "1. Le legs spirituel sur la « voie royale »",
+        "level": 3
+      },
+      {
+        "id": "fr-book-2-ch-7-s2",
+        "title": "2. La postérité « orientale » en Iran et en Inde",
+        "level": 3
+      },
+      {
+        "id": "fr-book-2-ch-7-s3",
+        "title": "3. La religion de l’Éros transfiguré",
+        "level": 3
+      },
+      {
+        "id": "fr-contents",
+        "title": "Table des matières",
+        "level": 1
+      },
+      {
+        "id": "fr-back-matter",
+        "title": "Pages de fin",
+        "level": 1
+      },
+      {
+        "id": "fr-notes",
+        "title": "Notes",
+        "level": 1
+      }
+    ]
+  }
+}

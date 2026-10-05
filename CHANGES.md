@@ -1,3 +1,44 @@
+# Within Iranian Islam — October 2026
+
+- **Added Henry Corbin’s *Within Iranian Islam* (*En Islam iranien*), all four volumes**, in English
+  with the complete French original, as work № 10 on the French shelf and the latest addition. It
+  has its own landing page, like *Materialist Tendencies*, with a reader per volume: Twelver Shiism;
+  Sohrawardî and the Platonists of Persia; The Faithful of Love · Shiism and Sufism; The School of
+  Isfahan · The Shaykhi School · The Twelfth Imam.
+- Each volume opens on its title pages and front matter; each of the seven Books is introduced at
+  the start of its first chapter, and the contents fold out from Book to chapter to numbered
+  section. The language switch keeps your place, chapter by chapter, in either direction.
+- 1,720 notes open in place as previews. The figures (Volume I’s diagrams, Volume II’s three
+  figures, Volume III’s manuscript diagrams and charts) enlarge on tap, and are drawn light on dark
+  in the dark theme. The very large scans in Volume III were scaled down for the web (1.2 MB instead
+  of 6.4 MB).
+- Downloads per volume and language, plus all eight Markdown files as one zip.
+- Search covers both languages of all four volumes (French has its own filter).
+- **Reviewer Mode pairs passages far more accurately** for this work: English and French passages
+  that cite the same note are matched directly, headings by their position in the chapter, and
+  the passages in between by shared names, terms and cognates. Tested against held-out notes, 96–99%
+  of passages land on the right French paragraph (previously about 44%, by length alone).
+- The importer is `tools/import_en_islam_iranien.py` (see the README). It checked that the English
+  and French have the same chapters and sections in every volume, and that every note is defined
+  and cited; the text on the site matches the supplied Markdown word for word apart from heading
+  numbers (“I. –” → “1.”) and the Book titles, which are given in reading case.
+- Corrections to the supplied files: in the English of Volume IV, two of the Shaykhi successors
+  (Zaynol-ʿÂbidîn-Khân, Sarkâr Âghâ) and Chapter III “Some Points of Doctrine” were bold text rather
+  than headings, so they were missing from the contents and the chapter list; they are now
+  headings. The English title pages now read *Within Iranian Islam*.
+
+## Site
+
+- Series pages work for any source language (French titles, “Tome” in the French interface).
+- Long contents fold more usefully: top-level parts stay open, deeper levels fold (also improves
+  the *Glossarium*’s contents, where each Book now shows its years).
+- Fixed a stray brace in `reader.css`, introduced with the phone fixes, that had switched off the
+  large title style at the start of every section.
+- Removed files left over from before the overhaul that were still in the repository but no longer
+  used (`README.txt`, `assets/page-transitions.css`, `assets/reader-accessibility.js`,
+  `assets/reader-search.js`, `assets/reading-polish.css`, `assets/review-alignment.js`,
+  `search/search.css`, `materialist-tendencies/SITE_STRUCTURE.md`).
+
 # The City of Isis — 28 September 2026
 
 - Added Pierre Rossi’s *The City of Isis: The True History of the Arabs* and the complete French
@@ -73,10 +114,8 @@ overhaul did not do this.
 
 ## Speed
 
-- Long books render lazily (Chromium/Firefox): the Glossarium is ready in 0.6 s instead of 3.4 s on a
-  throttled mid-range phone profile; switching language in a *Materialist Tendencies* volume takes
-  0.3 s instead of 4.8 s.
-- Reviewer Mode (and the 2 MB German source text of the Glossarium) now loads only when opened.
+- The 2 MB German source text of the Glossarium loads only when Reviewer Mode is opened.
+  (Lazy rendering of long books was tried here and later removed — see the phone fixes above.)
 - Search fetches ~20 small files per query instead of 200–500; typical queries answer 5–10× faster.
   Results are grouped by work with per-work counts, and Arabic matching ignores prefixes (ال، و، ب…)
   and letter variants.

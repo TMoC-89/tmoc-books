@@ -215,7 +215,6 @@ html[data-lang="ar"] .cover-actions .btn { font-family: var(--arabic); font-size
   font-kerning: normal; font-variant-ligatures: common-ligatures;
 }
 .language-view > .book-section + .book-section { border-top: 1px solid var(--line); }
-}
 
 .book-section > :is(h1, h2):first-child {
   margin: 0 0 .9em; font: 400 clamp(32px, 4.3vw, 46px)/1.12 var(--serif); letter-spacing: -.022em; text-wrap: balance;
@@ -279,6 +278,24 @@ html[data-lang="ar"] .cover-actions .btn { font-family: var(--arabic); font-size
 .toc-line .toc-leader { flex: 1 1 2em; min-width: 1.5em; border-bottom: 1px dotted var(--line-strong); transform: translateY(-.3em); }
 .toc-line .toc-page { flex: none; color: var(--muted); font-variant-numeric: tabular-nums; }
 
+/* Part and chapter openings, title pages (Within Iranian Islam). */
+.part-head { margin: 0 0 2.4em; padding-bottom: 1.5em; border-bottom: 1px solid var(--line); }
+.part-head p { margin: 0; }
+.part-no { color: var(--accent); font: 650 12px/1.3 var(--ui); letter-spacing: .14em; text-transform: uppercase; }
+.book-section .part-title { margin-top: .45em; font: 400 clamp(25px, 3.2vw, 34px)/1.2 var(--serif); letter-spacing: -.018em; text-wrap: balance; }
+.book-section .part-dates { margin-top: .45em; color: var(--muted); font: 14px/1.4 var(--ui); }
+.book-section h2.chapter-title { margin: 0 0 1em; font: 400 clamp(32px, 4.3vw, 46px)/1.12 var(--serif); letter-spacing: -.022em; text-wrap: balance; }
+.chapter-title .chapter-no { display: block; margin-bottom: .6em; color: var(--muted); font: 650 12px/1.3 var(--ui); letter-spacing: .14em; text-transform: uppercase; }
+.book-section.title-pages { text-align: center; }
+.title-pages p { margin-bottom: .6em; }
+.title-pages .tp { font-family: var(--serif); text-wrap: balance; }
+.book-section.title-pages .tp-1 { margin: .9em 0 .25em; font-size: 1.9em; line-height: 1.12; letter-spacing: -.02em; }
+.title-pages .tp-2 { color: var(--muted); font-size: 1.1em; }
+.title-pages .tp-3 { font-size: 1.25em; font-style: italic; }
+.title-pages blockquote { margin: 1em 0; padding: 0; border: 0; color: var(--muted); font: 600 12px/1.6 var(--ui); letter-spacing: .1em; text-transform: uppercase; }
+.title-pages blockquote p { margin: 0; }
+.title-pages hr { width: 3em; margin: 2em auto; }
+
 /* Facsimiles (Glossarium). */
 .facsimile { width: min(780px, 100%); margin: 52px auto 56px; text-align: center; break-inside: avoid; }
 .facsimile-zoom {
@@ -289,6 +306,13 @@ html[data-lang="ar"] .cover-actions .btn { font-family: var(--arabic); font-size
 html[data-theme="dark"] .facsimile img { filter: brightness(.9); }
 .facsimile figcaption { margin-top: 10px; color: var(--muted); font: 650 11px/1.4 var(--ui); letter-spacing: .08em; text-transform: uppercase; }
 .book-section .facsimile-caption { margin-top: -30px; margin-bottom: 3em; color: var(--muted); font-size: .88em; line-height: 1.6; }
+/* Figures and diagrams: shown at their own size, inverted with the theme in dark mode. */
+.facsimile.plate { width: fit-content; max-width: 100%; margin: 2.2em auto 2.6em; }
+.facsimile.plate .facsimile-zoom { background: #fff; box-shadow: none; }
+.facsimile.plate img { width: auto; max-width: 100%; height: auto; }
+html[data-theme="dark"] .facsimile.plate .facsimile-zoom { background: var(--surface-2); }
+html[data-theme="dark"] .facsimile.plate img { filter: invert(.9) hue-rotate(180deg); }
+.facsimile.plate figcaption { text-transform: none; letter-spacing: .02em; font-size: 12px; }
 .lightbox {
   position: fixed; inset: 0; z-index: 200; display: grid; place-items: center; padding: 24px;
   background: rgba(10, 10, 8, .86); -webkit-backdrop-filter: blur(4px); backdrop-filter: blur(4px);

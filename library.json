@@ -109,10 +109,30 @@
       "description": "Fadel al-Rubaie traces Greek myths inside the Arab legends of al-Tabari, Ibn Hisham and al-Masʿudi. In English with the Arabic original alongside."
     },
     {
+      "no": 10,
+      "shelf": "french",
+      "href": "within-iranian-islam/",
+      "series": "within-iranian-islam",
+      "tag": "Latest addition",
+      "title": "Within Iranian Islam",
+      "subtitle": "Spiritual and Philosophical Aspects",
+      "originalTitle": {
+        "lang": "fr",
+        "text": "En Islam iranien"
+      },
+      "author": "Henry Corbin",
+      "readers": [
+        "within-iranian-islam/volume-1",
+        "within-iranian-islam/volume-2",
+        "within-iranian-islam/volume-3",
+        "within-iranian-islam/volume-4"
+      ],
+      "description": "Henry Corbin’s four-volume study of Shiism, Sufism and philosophy in Iran, in English with the complete French original alongside."
+    },
+    {
       "no": 9,
       "shelf": "french",
       "href": "the-city-of-isis/",
-      "tag": "Latest addition",
       "title": "The City of Isis",
       "subtitle": "The True History of the Arabs",
       "originalTitle": {
@@ -191,7 +211,56 @@
           "arabic": "الكندي - الفارابي - إبن سينا",
           "blurb": "The mature philosophical stage through al-Kindī, al-Fārābī, and Ibn Sīnā."
         }
-      ]
+      ],
+      "shortTitle": "Materialist Tendencies"
+    },
+    "within-iranian-islam": {
+      "title": "Within Iranian Islam",
+      "subtitle": "Spiritual and Philosophical Aspects",
+      "shortTitle": "Within Iranian Islam",
+      "originalTitle": {
+        "lang": "fr",
+        "text": "En Islam iranien"
+      },
+      "originalSubtitle": "Aspects spirituels et philosophiques",
+      "author": "Henry Corbin",
+      "zip": "Within Iranian Islam - Complete Markdown.zip",
+      "lead": "Henry Corbin’s masterwork on the spiritual and philosophical life of Iran after Islam: Twelver Shiism and its hermeneutics, Sohrawardî’s philosophy of light, Rûzbehân and the Sufism of the “faithful of love”, the School of Isfahan, the Shaykhi School and the Twelfth Imam. The four volumes have never had a complete English translation; here they are in modern English, with the complete French original alongside.",
+      "volumes": [
+        {
+          "n": 1,
+          "roman": "I",
+          "path": "within-iranian-islam/volume-1",
+          "title": "Twelver Shiism",
+          "original": "Le shî’isme duodécimain",
+          "blurb": "Shiism and Iran, the Twelve Imams, the sacred book and its inner meanings, prophecy and walâyat, and what the Imam means for Shiite spiritual life."
+        },
+        {
+          "n": 2,
+          "roman": "II",
+          "path": "within-iranian-islam/volume-2",
+          "title": "Sohrawardî and the Platonists of Persia",
+          "original": "Sohrawardî et les Platoniciens de Perse",
+          "blurb": "Sohrawardî’s “Eastern” theosophy of light: the Zoroastrian Light of Glory, the archangelic hierarchies, the Grail, and the tales of the Crimson Archangel and the Western Exile."
+        },
+        {
+          "n": 3,
+          "roman": "III",
+          "path": "within-iranian-islam/volume-3",
+          "title": "The Faithful of Love · Shiism and Sufism",
+          "original": "Les Fidèles d’amour · Shî’isme et soufisme",
+          "blurb": "Rûzbehân Baqlî of Shiraz and the Sufism of the faithful of love; then Haydar Âmolî, Semnânî and others on where Shiism and Sufism meet."
+        },
+        {
+          "n": 4,
+          "roman": "IV",
+          "path": "within-iranian-islam/volume-4",
+          "title": "The School of Isfahan · The Shaykhi School · The Twelfth Imam",
+          "original": "L’École d’Ispahan · L’École shaykhie · Le Douzième Imâm",
+          "blurb": "Mîr Dâmâd, Mollâ Sadrâ and Qâzî Sa’îd Qommî; Shaykh Ahmad Ahsâ’î and his successors; the Twelfth Imam and spiritual chivalry."
+        }
+      ],
+      "edition": "Gallimard, 1971–1972"
     }
   }
 }

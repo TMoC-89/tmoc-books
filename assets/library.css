@@ -113,6 +113,10 @@ html[data-theme="dark"] .shelf[data-shelf="german"] .book-card { --edge: #a39a89
 .work-hero { padding: 48px 0 64px; border-bottom: 1px solid var(--line); margin-bottom: 44px; }
 .work-hero h1 { max-width: 16ch; margin: 0 0 18px; font: 400 clamp(44px, 6.6vw, 84px)/1.02 var(--serif); letter-spacing: -.04em; text-wrap: balance; }
 .work-ar { margin: 0 0 22px; color: var(--muted); font: 400 clamp(24px, 3.4vw, 36px)/1.5 var(--arabic); direction: rtl; text-align: left; }
+.work-sub { margin: -4px 0 16px; font: 400 clamp(21px, 2.5vw, 28px)/1.3 var(--serif); text-wrap: balance; }
+.work-original { margin: 0 0 22px; color: var(--muted); font: italic 400 clamp(20px, 2.4vw, 26px)/1.4 var(--serif); }
+.work-original-sub { font-size: .82em; }
+.work-edition { color: var(--muted); font-weight: 400; }
 .work-byline { margin: 0 0 26px; font: 600 15px/1.4 var(--ui); }
 .work-lead { max-width: 66ch; margin: 0 0 32px; color: var(--muted); font: 19px/1.62 var(--serif); }
 .work-actions { display: flex; flex-wrap: wrap; gap: 10px; }

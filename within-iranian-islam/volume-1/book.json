@@ -1,0 +1,504 @@
+{
+  "searchId": 12,
+  "slug": "within-iranian-islam-volume-1",
+  "path": "within-iranian-islam/volume-1",
+  "pageTitle": "Within Iranian Islam — Volume I",
+  "description": "Henry Corbin’s Within Iranian Islam (En Islam iranien), Volume I: Twelver Shiism. Free English translation with the complete French original.",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "langKey": "minimal-library-lang-within-iranian-islam",
+  "title": {
+    "en": "Within Iranian Islam",
+    "fr": "En Islam iranien"
+  },
+  "subtitle": {
+    "en": "Twelver Shiism",
+    "fr": "Le shî’isme duodécimain"
+  },
+  "author": {
+    "en": "Henry Corbin",
+    "fr": "Henry Corbin"
+  },
+  "edition": {
+    "en": "French edition · Gallimard, 1971",
+    "fr": "Édition originale · Gallimard, 1971"
+  },
+  "downloads": {
+    "en": "Within Iranian Islam I - English.md",
+    "fr": "En Islam iranien I - French.md"
+  },
+  "home": {
+    "href": "../",
+    "label": "All four volumes"
+  },
+  "series": {
+    "work": "within-iranian-islam",
+    "volume": 1
+  },
+  "review": {
+    "slug": "within-iranian-islam-volume-1",
+    "title": "Within Iranian Islam — Volume I",
+    "sourceLanguage": "fr",
+    "version": "4b8b24edf0343bf5",
+    "englishMarkdown": "Within Iranian Islam I - English.md",
+    "sourceMarkdown": "En Islam iranien I - French.md"
+  },
+  "nav": {
+    "en": [
+      {
+        "id": "en-title-pages",
+        "title": "Title Pages",
+        "level": 1
+      },
+      {
+        "id": "en-prologue",
+        "title": "Prologue",
+        "level": 1
+      },
+      {
+        "id": "en-transcription",
+        "title": "Note on Transcription",
+        "level": 1
+      },
+      {
+        "id": "en-overview",
+        "title": "Outline of Books I and II",
+        "level": 1
+      },
+      {
+        "id": "en-book-1",
+        "title": "Book One: Aspects of Twelver Shiism",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00118",
+        "title": "I. Shiism and Iran",
+        "level": 2
+      },
+      {
+        "id": "en-book-1-ch-1-s1",
+        "title": "1. The Difficulties of the Inquiry",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-1-s2",
+        "title": "2. Understanding a Spiritual World",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-1-s3",
+        "title": "3. Some Prejudices Against Shiism",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-1-s4",
+        "title": "4. Problems We Must Face Together",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-2",
+        "title": "II. Understanding the Shiism of the Twelve Imams",
+        "level": 2
+      },
+      {
+        "id": "en-book-1-ch-2-s1",
+        "title": "1. The central idea of Imami Shiism",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-2-s2",
+        "title": "2. Prophetic philosophy and religion as spiritual initiation",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-2-s3",
+        "title": "3. The Complete Circle of the Twelve Imams",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-2-s4",
+        "title": "4. The Paradoxes Faced by Ismailism and Twelver Shiism",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-3",
+        "title": "III. The Spiritual Struggle of Shiism",
+        "level": 2
+      },
+      {
+        "id": "en-book-1-ch-3-s1",
+        "title": "1. The Position of Shiite Spiritual Thinkers",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-3-s2",
+        "title": "2. The Divine Trust Given to Humanity",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-3-s3",
+        "title": "3. Conversations between the First Imam and Komayl ibn Ziyad",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-3-s4",
+        "title": "4. The Invisible Spiritual Hierarchies",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-3-s5",
+        "title": "5. What Is at Stake in Shiism's Spiritual Struggle—and Why It Still Matters",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-4",
+        "title": "IV. The Phenomenon of the Sacred Book",
+        "level": 2
+      },
+      {
+        "id": "en-book-1-ch-4-s1",
+        "title": "1. The Sacred Book and Its Interpretation",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-4-s2",
+        "title": "2. The Spaces and Perspectives of Spiritual Interpretation",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-4-s3",
+        "title": "3. Historical Consciousness and Gnostic Consciousness",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-4-s4",
+        "title": "4. Making Events Historical, or Discovering Their Inner Meaning?",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-4-s5",
+        "title": "5. Spiritual Understanding and the Different Forms of Time in Semnani and Qazi Sa'id Qummi",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-5",
+        "title": "V. The Inner Meaning and the Art of Interpretation",
+        "level": 2
+      },
+      {
+        "id": "en-book-1-ch-5-s1",
+        "title": "1. The Secret of the Imams, or the Four Levels of Inner Meaning",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-5-s2",
+        "title": "2. The Descent of the Sacred Book Through the Levels of Reality",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-5-s3",
+        "title": "3. Reading the Qur'an for Its Hidden Meaning",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-6",
+        "title": "VI. Prophecy and the Imams",
+        "level": 2
+      },
+      {
+        "id": "en-book-1-ch-6-s1",
+        "title": "1. Why Prophets Are Necessary—and Why Imams Are Necessary",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-6-s2",
+        "title": "2. The Different Kinds of Prophets and Walayat",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-6-s3",
+        "title": "3. Prophetic Inheritance and the Imamate",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-6-s4",
+        "title": "4. The Knowledge Inherited from the Prophets",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-6-s5",
+        "title": "5. The Cycle of Prophecy and the Cycle of Walayat",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-7",
+        "title": "VII. What the Imam Means in Shiite Spiritual Life",
+        "level": 2
+      },
+      {
+        "id": "en-book-1-ch-7-s1",
+        "title": "1. Shiism as a Religion of Spiritual Love and a Path to Self-Knowledge",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-7-s2",
+        "title": "2. The Imam as Guide and Spiritual Centre",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-7-s3",
+        "title": "3. The Imam as the A'raf",
+        "level": 3
+      },
+      {
+        "id": "en-book-1-ch-7-s4",
+        "title": "4. The Imam as God's Witness and the Witness of Contemplation",
+        "level": 3
+      },
+      {
+        "id": "en-contents",
+        "title": "Printed Contents",
+        "level": 1
+      },
+      {
+        "id": "en-back-matter",
+        "title": "Back Matter",
+        "level": 1
+      },
+      {
+        "id": "en-notes",
+        "title": "Notes",
+        "level": 1
+      }
+    ],
+    "fr": [
+      {
+        "id": "fr-title-pages",
+        "title": "Pages de titre",
+        "level": 1
+      },
+      {
+        "id": "fr-prologue",
+        "title": "Prologue",
+        "level": 1
+      },
+      {
+        "id": "fr-transcription",
+        "title": "Transcriptions",
+        "level": 1
+      },
+      {
+        "id": "fr-overview",
+        "title": "Argument des livres I et II",
+        "level": 1
+      },
+      {
+        "id": "fr-book-1",
+        "title": "Livre premier : Aspects du shî’isme duodécimain",
+        "level": 1
+      },
+      {
+        "id": "passage-fr-00062",
+        "title": "I. Shî'isme et Iran",
+        "level": 2
+      },
+      {
+        "id": "fr-book-1-ch-1-s1",
+        "title": "1. Difficultés de l'enquête",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-1-s2",
+        "title": "2. Un univers spirituel à comprendre",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-1-s3",
+        "title": "3. De certains préjugés à l'égard du shî'isme",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-1-s4",
+        "title": "4. Des problèmes à surmonter ensemble",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-2",
+        "title": "II. Notion du shî'isme des Douze Imâms",
+        "level": 2
+      },
+      {
+        "id": "fr-book-1-ch-2-s1",
+        "title": "1. L'idée fondamentale de l'Imâmisme",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-2-s2",
+        "title": "2. Philosophie prophétique et religion initiatique",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-2-s3",
+        "title": "3. Le plérôme des douze Imâms",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-2-s4",
+        "title": "4. Les paradoxes affrontés par l'Ismaélisme et par le shî'isme duodécimain",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-3",
+        "title": "III. Le combat spirituel du shî'isme",
+        "level": 2
+      },
+      {
+        "id": "fr-book-1-ch-3-s1",
+        "title": "1. Situation des spirituels shî'ites",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-3-s2",
+        "title": "2. Le dépôt divin confié à l'homme",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-3-s3",
+        "title": "3. Les entretiens du Ier Imâm avec Komayl ibn Ziyâd",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-3-s4",
+        "title": "4. Les hiérarchies spirituelles invisibles",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-3-s5",
+        "title": "5. L'enjeu du combat spirituel du shî'isme et son actualité",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-4",
+        "title": "IV. Le phénomène du Livre saint",
+        "level": 2
+      },
+      {
+        "id": "fr-book-1-ch-4-s1",
+        "title": "1. Livre saint et herméneutique",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-4-s2",
+        "title": "2. Espaces et perspectives de l'herméneutique spirituelle",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-4-s3",
+        "title": "3. Conscience historique et conscience gnostique",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-4-s4",
+        "title": "4. Historicisation ou intériorisation?",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-4-s5",
+        "title": "5. L'intelligence spirituelle et les formes de la temporalité selon Semnânî et Qâzî Sa'îd Qommî",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-5",
+        "title": "V. L'ésotérisme et l'herméneutique",
+        "level": 2
+      },
+      {
+        "id": "fr-book-1-ch-5-s1",
+        "title": "1. Le secret des Imâms ou les quatre niveaux de l'ésotérisme",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-5-s2",
+        "title": "2. Les descentes épiphaniques du Livre saint",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-5-s3",
+        "title": "3. L'herméneutique ésotérique du Qorân",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-6",
+        "title": "VI. Prophétologie et imâmologie",
+        "level": 2
+      },
+      {
+        "id": "fr-book-1-ch-6-s1",
+        "title": "1. Nécessité des prophètes et nécessité des Imâms",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-6-s2",
+        "title": "2. Les catégories de prophètes et la walâyat",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-6-s3",
+        "title": "3. L'héritage prophétique et l'Imâmat",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-6-s4",
+        "title": "4. La science héritée des prophètes",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-6-s5",
+        "title": "5. Le cycle de la prophétie et le cycle de la walâyat",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-7",
+        "title": "VII. Le sens de l'Imâm pour la spiritualité shî'ite",
+        "level": 2
+      },
+      {
+        "id": "fr-book-1-ch-7-s1",
+        "title": "1. Le shî'isme comme religion d'amour spirituel initiant à la connaissance de soi",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-7-s2",
+        "title": "2. L'Imâm comme Guide et comme Pôle",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-7-s3",
+        "title": "3. L'Imâm comme l'A'râf",
+        "level": 3
+      },
+      {
+        "id": "fr-book-1-ch-7-s4",
+        "title": "4. L'Imâm comme Témoin de Dieu et Témoin de contemplation",
+        "level": 3
+      },
+      {
+        "id": "fr-contents",
+        "title": "Table des matières",
+        "level": 1
+      },
+      {
+        "id": "fr-back-matter",
+        "title": "Pages de fin",
+        "level": 1
+      },
+      {
+        "id": "fr-notes",
+        "title": "Notes",
+        "level": 1
+      }
+    ]
+  }
+}

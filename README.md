@@ -20,15 +20,17 @@ assets/
   base.css                     colours, type, buttons — shared by every page
   library.css, library.js      collection, series, search and 404 pages
   reader.css, reader.js        the book reader (all books)
-  reviewer.css, reviewer.js    Reviewer Mode, loaded only when someone opens it
+  reviewer.css, reviewer.js    Reviewer Mode (loaded with each reader page)
 <book>/
   book.json                    the reader's settings: titles, languages, contents, downloads, reviewer
   index.html                   generated page; the book text sits between the BOOK-CONTENT markers
   *.md                         Markdown downloads
 materialist-tendencies/        series landing page (generated) + volume-1 … volume-4 readers
+within-iranian-islam/          series landing page (generated) + volume-1 … volume-4 readers
 glossarium/source-de.html      German source text, fetched only by Reviewer Mode
 tools/build.py                 rebuilds every page and the search index
 tools/search_index.py          search index builder (used by build.py)
+tools/import_*.py              one-off importers that turn supplied Markdown into book text
 ```
 
 Each reader page has two parts. The **book text** (the `language-view` blocks with their
@@ -95,6 +97,31 @@ To reimport a revised final pair, run `python3 tools/import_city_of_isis.py /pat
 standard library. Reimporting replaces this book’s content and metadata; keep its review version
 stable once reviews have started unless the underlying edition has intentionally changed.
 
+### Within Iranian Islam
+
+Henry Corbin’s *En Islam iranien* (Gallimard, 1971–1972) is published as a four-volume series,
+*Within Iranian Islam*, in `within-iranian-islam/`: a landing page plus one reader per volume, each
+with the English translation and the complete French original. The series is described in
+`library.json` (`series` → `within-iranian-islam`) and appears on the collection page as one card.
+
+To reimport a revised set, put the eight files the translators supplied
+(`En_Islam_Iranien_Volume_<I–IV>_<English|French>.md`) in one folder and run
+`python3 tools/import_en_islam_iranien.py /path/to/folder`, then `python3 tools/build.py`. The
+importer:
+
+- cuts both languages into the same sections — title pages, front matter, one section per chapter
+  (each Book’s title opens its first chapter), printed contents, back matter, notes — and builds
+  the nested contents (Books → chapters → numbered sections);
+- decodes the images embedded in the Markdown into `volume-N/figures/` (very large scans are scaled
+  down when Pillow is installed) and shows them as figures that enlarge on tap;
+- writes the Markdown downloads and `Within Iranian Islam - Complete Markdown.zip`. The English
+  files’ title pages are retitled *Within Iranian Islam*, and three headings in Volume IV that were
+  typed as bold text are made headings (listed in `FIXES`); otherwise the text is as supplied;
+- marks each paragraph with the notes it cites (`data-notes`) and gives headings matching keys, so
+  Reviewer Mode can pair English and French passages even though the English splits paragraphs.
+
+Keep each volume’s `review.version` (in its `book.json`) unchanged once reviewers have started.
+
 ## Reader features
 
 - Contents sidebar with nested chapters, the current position highlighted and kept in view
@@ -103,7 +130,9 @@ stable once reviews have started unless the underlying edition has intentionally
 - Text size and theme (auto / light / dark), remembered per browser
 - Reading position saved per book: “Continue” on the book's cover and on the collection page
 - Arriving from search: lands on the passage, highlights the words, links back to the results
-- Reviewer Mode: English beside the source text; mark passages, propose wording, export a JSON review
+- Reviewer Mode: English beside the source text; mark passages, propose wording, export a JSON review.
+  Books whose paragraphs carry `data-notes` (Within Iranian Islam) are aligned on shared note
+  references, and the passages between them by shared word stems
 - Books are laid out in full when they load, so taps respond immediately afterwards. Reviewer Mode
   builds its passage cards section by section as you scroll
 - `?perf=1` on any book shows a small panel timing each tap, with a "Copy report" button (`?perf=0` turns it off)

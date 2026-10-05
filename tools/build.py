@@ -234,7 +234,7 @@ def render_toc(nodes, lang, collapse, uid):
         if n['children']:
             uid[0] += 1
             list_id = f'toc-{lang}-{uid[0]}'
-            open_ = not collapse
+            open_ = not collapse or n['level'] < 2  # long contents: top-level parts open, deeper lists folded
             toggle = (f'<button class="toc-toggle" type="button" aria-expanded="{str(open_).lower()}" aria-controls="{list_id}" '
                       f'aria-label="{esc(("أقسام " if lang == "ar" else "Sections in ") + n["title"])}">{icon("chevron")}</button>')
             sub = render_toc(n['children'], lang, collapse, uid).replace('<ol>', f'<ol id="{list_id}"{"" if open_ else " hidden"}>', 1)
@@ -280,6 +280,19 @@ LANGUAGES = {
 }
 
 
+NUMBER_WORDS = {'en': {2: 'two', 3: 'three', 4: 'four', 5: 'five', 6: 'six', 8: 'eight', 10: 'ten'},
+                'fr': {2: 'deux', 3: 'trois', 4: 'quatre', 5: 'cinq', 6: 'six', 8: 'huit'}}
+
+
+def series_original(s):
+    """The series title in its original language (older entries give arabicTitle)."""
+    return s.get('originalTitle') or {'lang': 'ar', 'text': s.get('arabicTitle', '')}
+
+
+def volume_word(lang, vol):
+    return {'ar': f"المجلد {vol['n']}", 'fr': f"Tome {vol['roman']}"}.get(lang, f"Volume {vol['roman']}")
+
+
 def render_reader(book, library, content, views, prefix, site):
     langs = book['languages']
     bilingual = len(langs) > 1
@@ -287,8 +300,9 @@ def render_reader(book, library, content, views, prefix, site):
     if book.get('series'):
         series = library['series'][book['series']['work']]
         vol = next(v for v in series['volumes'] if v['n'] == book['series']['volume'])
+        count = len(series['volumes'])
     title_en = book['title']['en']
-    doc_titles = {l: f"{L(book['title'], l)}{' — ' + ('المجلد ' + str(vol['n']) if l == 'ar' else 'Volume ' + vol['roman']) if series else ''} — {'المكتبة' if l == 'ar' else site['name']}" for l in langs}
+    doc_titles = {l: f"{L(book['title'], l)}{' — ' + volume_word(l, vol) if series else ''} — {'المكتبة' if l == 'ar' else site['name']}" for l in langs}
     canonical = site['baseUrl'] + book['path'] + '/'
     description = book.get('blurb') or book['description']
 
@@ -296,8 +310,9 @@ def render_reader(book, library, content, views, prefix, site):
     if book.get('kicker'):
         kicker = book['kicker']
     elif series:
-        kicker = {'en': f"Volume {vol['roman']} of {len(series['volumes'])} · Bilingual edition",
-                  'ar': f"المجلد {vol['n']} من {len(series['volumes'])} · طبعة ثنائية اللغة"}
+        kicker = {'en': f"Volume {vol['roman']} of {count} · Bilingual edition",
+                  'ar': f"المجلد {vol['n']} من {count} · طبعة ثنائية اللغة",
+                  'fr': f"Tome {vol['roman']} sur {count} · Édition bilingue"}
     elif bilingual:
         kicker = UI['bilingual']
     else:
@@ -318,7 +333,7 @@ def render_reader(book, library, content, views, prefix, site):
     data = {
         'slug': book['slug'], 'path': book['path'], 'root': prefix, 'langKey': book['langKey'], 'languages': langs,
         'titles': {l: L(book['title'], l) for l in langs}, 'documentTitles': doc_titles,
-        'shortTitle': (title_en if not series else f"{series['title']} · Vol. {vol['roman']}"),
+        'shortTitle': (title_en if not series else f"{series.get('shortTitle') or series['title']} · Vol. {vol['roman']}"),
         'review': book.get('review'),
         'sourceStore': book.get('sourceStore'),
     }
@@ -378,7 +393,9 @@ def render_reader(book, library, content, views, prefix, site):
 
     # sidebar
     home_label = book['home']['label']
-    home = {**UI['library'], 'en': home_label, 'ar': 'المجلدات الأربعة' if series else UI['library']['ar']}
+    home = {**UI['library'], 'en': home_label}
+    if series:
+        home.update({'ar': 'المجلدات الأربعة', 'fr': f"Les {NUMBER_WORDS['fr'].get(count, count)} tomes"})
     side = [f'<aside class="sidebar" id="sidebar" aria-label="Book navigation">\n<nav class="side-links" aria-label="Library">'
             f'<a class="side-link accent" id="search-return" href="{prefix}search/" hidden>{icon("back")}<span>{both(UI["back_search"], langs)}</span></a>'
             f'<a class="side-link" href="{esc(book["home"]["href"])}">{icon("back")}<span>{both(home, langs)}</span></a>'
@@ -390,7 +407,7 @@ def render_reader(book, library, content, views, prefix, site):
             href = './' if here else '../volume-%d/' % v['n']
             cur = ' aria-current="page"' if here else ''
             items += f'<li><a href="{href}"{cur} title="Volume {v["roman"]}: {esc(v["title"])}">{v["roman"]}</a></li>'
-        side.append(f'<nav class="volume-switch" aria-label="Volumes"><span class="side-heading">{both({"en": "Volume", "ar": "المجلد"}, langs)}</span><ol>{items}</ol></nav>')
+        side.append(f'<nav class="volume-switch" aria-label="Volumes"><span class="side-heading">{both({"en": "Volume", "ar": "المجلد", "fr": "Tome"}, langs)}</span><ol>{items}</ol></nav>')
     side.append(f'<h2 class="side-heading" id="toc-heading">{both(UI["contents"], langs)}</h2>')
     total_items = sum(len(v) for v in book['nav'].values()) / max(1, len(book['nav']))
     for l in langs:
@@ -404,7 +421,7 @@ def render_reader(book, library, content, views, prefix, site):
             name = LANGUAGES[l]['download']
             dl.append(f'<li><a class="side-link" href="{esc(quote(f))}" download>{icon("download")}<span>{name}</span><small>.md</small></a></li>')
     if series:
-        dl.append(f'<li><a class="side-link" href="../{esc(quote(series["zip"]))}" download>{icon("download")}<span>All four volumes</span><small>.zip</small></a></li>')
+        dl.append(f'<li><a class="side-link" href="../{esc(quote(series["zip"]))}" download>{icon("download")}<span>All {NUMBER_WORDS["en"].get(count, count)} volumes</span><small>.zip</small></a></li>')
     side.append(f'<div class="side-downloads"><h2 class="side-heading">{both(UI["download"], langs)}</h2><ul>{"".join(dl)}</ul></div>\n</aside>\n<div class="sidebar-backdrop" aria-hidden="true"></div>\n')
     parts.append(''.join(side))
 
@@ -448,7 +465,7 @@ def render_reader(book, library, content, views, prefix, site):
         if nxt:
             links.append(f'<a class="next" href="../volume-{nxt["n"]}/"><span>Next volume</span><strong>{nxt["roman"]} · {esc(nxt["title"])}</strong></a>')
         parts.append(f'<nav class="series-pager" aria-label="Volumes">{"".join(links)}</nav>\n')
-    byline = {l: f"{L(book['title'], l)} · {L(book['author'], l)}" + (f" · {'المجلد' if l == 'ar' else 'Volume'} {vol['n'] if l == 'ar' else vol['roman']}" if series else '') for l in langs}
+    byline = {l: f"{L(book['title'], l)} · {L(book['author'], l)}" + (f" · {volume_word(l, vol)}" if series else '') for l in langs}
     parts.append(f'<footer class="site-footer"><p>{both(byline, langs)}</p>'
                  f'<p><a href="{prefix}">{esc(site["name"])}</a> · {esc(site["tagline"])} · Free to read</p></footer>\n'
                  f'<div id="reviewer-workspace" class="reviewer-workspace"></div>\n</main>\n</div>\n</body>\n</html>\n')
@@ -552,16 +569,31 @@ def render_series(key, library, stats, site):
     s = library['series'][key]
     prefix = '../'
     card = next(b for b in library['books'] if b.get('series') == key)
+    shelf = next(x for x in library['shelves'] if x['id'] == card['shelf'])
+    original = series_original(s)
+    olang = original['lang']
+    odir = 'rtl' if olang == 'ar' else 'ltr'
+    ocls = 'work-ar' if olang == 'ar' else 'work-original'
+    n = len(s['volumes'])
+    words = NUMBER_WORDS['en']
     vols = []
     for v in s['volumes']:
-        words = stats.get(v['path'], 0)
+        words_read = stats.get(v['path'], 0)
+        vtext = v.get('original') or v.get('arabic') or ''
+        vcls = 'card-ar' if olang == 'ar' else 'card-original'
         vols.append(f'<li><a class="book-card volume-card" href="volume-{v["n"]}/" data-progress-key="{esc(v["path"].replace("/", "-"))}">'
                     f'<span class="card-top"><span class="card-no">Volume {v["roman"]}</span></span>'
-                    f'<span class="card-body"><h3 class="card-title">{esc(v["title"])}</h3><p class="card-ar" lang="ar" dir="rtl">{esc(v["arabic"])}</p><p class="card-blurb">{esc(v["blurb"])}</p></span>'
-                    f'<span class="card-foot"><span class="card-meta">English · <bdi lang="ar">العربية</bdi> <span aria-hidden="true">·</span> {reading_time(words)}</span></span>'
+                    f'<span class="card-body"><h3 class="card-title">{esc(v["title"])}</h3><p class="{vcls}" lang="{olang}" dir="{odir}">{esc(vtext)}</p><p class="card-blurb">{esc(v["blurb"])}</p></span>'
+                    f'<span class="card-foot"><span class="card-meta">English · <bdi lang="{olang}">{LANGUAGES[olang]["native"]}</bdi> <span aria-hidden="true">·</span> {reading_time(words_read)}</span></span>'
                     f'<span class="card-progress" hidden></span><span class="card-arrow" aria-hidden="true">{icon("arrow-up-right")}</span></a></li>')
     canonical = site['baseUrl'] + key + '/'
     title = f'{s["title"]} — {site["name"]}'
+    sub = f'<p class="work-sub">{esc(s["subtitle"])}</p>\n' if s.get('subtitle') else ''
+    otext = esc(original['text']) + (f' <span class="work-original-sub">· {esc(s["originalSubtitle"])}</span>' if s.get('originalSubtitle') else '')
+    author_original = s.get('authorOriginal') or s.get('authorAr')
+    byline = esc(s['author']) + (f' <span aria-hidden="true">·</span> <span lang="{olang}">{esc(author_original)}</span>' if author_original else '')
+    if s.get('edition'):
+        byline += f' <span aria-hidden="true">·</span> <span class="work-edition">{esc(s["edition"])}</span>'
     out = [head(title=title, description=card['description'], prefix=prefix, canonical=canonical, site=site, boot=THEME_BOOT, og_type='book',
                 css=f'<link rel="stylesheet" href="{asset("assets/base.css", prefix)}">\n<link rel="stylesheet" href="{asset("assets/library.css", prefix)}">')]
     out.append(f'<script src="{asset("assets/library.js", prefix)}" defer></script>\n</head>\n<body id="top">\n')
@@ -573,15 +605,15 @@ def render_series(key, library, stats, site):
 <main>
 <nav class="crumbs" aria-label="Breadcrumb"><a href="../">{icon("back", "i i-sm")}The collection</a></nav>
 <section class="work-hero" aria-labelledby="work-title">
-<p class="eyebrow">№ {card["no"]:02d} · Four-volume work · From the Arabic</p>
+<p class="eyebrow">№ {card["no"]:02d} · {words.get(n, n).capitalize()}-volume work · {esc(shelf["label"])}</p>
 <h1 id="work-title">{esc(s["title"])}</h1>
-<p class="work-ar" lang="ar" dir="rtl">{esc(s["arabicTitle"])}</p>
-<p class="work-byline">{esc(s["author"])} <span aria-hidden="true">·</span> <span lang="ar">{esc(s["authorAr"])}</span></p>
+{sub}<p class="{ocls}" lang="{olang}" dir="{odir}">{otext}</p>
+<p class="work-byline">{byline}</p>
 <p class="work-lead">{esc(s["lead"])}</p>
-<div class="work-actions"><a class="btn primary" href="volume-1/">Begin Volume I{icon("arrow-right")}</a><a class="btn" href="{esc(quote(s["zip"]))}" download>{icon("download")}All eight Markdown files <small>(.zip)</small></a></div>
+<div class="work-actions"><a class="btn primary" href="volume-1/">Begin Volume I{icon("arrow-right")}</a><a class="btn" href="{esc(quote(s["zip"]))}" download>{icon("download")}All {words.get(2 * n, 2 * n)} Markdown files <small>(.zip)</small></a></div>
 </section>
 <section class="volumes" id="volumes" aria-labelledby="volumes-title" tabindex="-1">
-<div class="section-head"><h2 id="volumes-title">Four volumes, one work</h2><p>Read in order, or start where you need</p></div>
+<div class="section-head"><h2 id="volumes-title">{words.get(n, n).capitalize()} volumes, one work</h2><p>Read in order, or start where you need</p></div>
 <ul class="books" role="list">{"".join(vols)}</ul>
 </section>
 </main>
@@ -614,8 +646,8 @@ def render_search_page(library, site):
 <div class="results-top"><h2 id="results-title">A place to begin</h2><span id="result-summary" role="status" aria-live="polite" aria-atomic="true"></span></div>
 <div class="search-progress" id="search-progress" hidden><span></span></div>
 <div id="search-intro" class="search-intro"><h3>Where will a word take you?</h3><p>Search inside every book, then follow a passage back to its place in the text.</p>
-<div class="suggestions" aria-label="Suggestions"><button type="button" data-query="Marx">Marx</button><button type="button" data-query="Hegel">Hegel</button><button type="button" data-query="Ibn Sina">Ibn Sīnā</button><button type="button" data-query="Karbala">Karbala</button><button type="button" data-query="&quot;social justice&quot;">“social justice”</button><button type="button" data-query="الحرية" lang="ar" dir="rtl">الحرية</button></div>
-<p class="search-note">English, Arabic and German · Accents and Arabic vowel marks are optional · Arabic words match with or without prefixes like ال and و</p></div>
+<div class="suggestions" aria-label="Suggestions"><button type="button" data-query="Marx">Marx</button><button type="button" data-query="Hegel">Hegel</button><button type="button" data-query="Ibn Sina">Ibn Sīnā</button><button type="button" data-query="Karbala">Karbala</button><button type="button" data-query="Sohrawardi">Sohrawardî</button><button type="button" data-query="&quot;social justice&quot;">“social justice”</button><button type="button" data-query="الحرية" lang="ar" dir="rtl">الحرية</button></div>
+<p class="search-note">English, Arabic, French and German · Accents and Arabic vowel marks are optional · Arabic words match with or without prefixes like ال and و</p></div>
 <div id="search-message" class="search-message" hidden></div><ol id="results-list" class="results-list"></ol><div class="more-row"><button id="load-more" class="btn" type="button" hidden>More passages</button></div>
 </section>
 <noscript><p class="search-message">Search needs JavaScript. You can still <a href="../">browse and read every book</a>.</p></noscript>

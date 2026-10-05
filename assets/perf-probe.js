@@ -74,7 +74,7 @@
       page: location.pathname + location.search, at: new Date().toISOString(), probeStartedMs: round(t0),
       ua: navigator.userAgent, brands: navigator.userAgentData?.brands?.map(b => b.brand + ' ' + b.version).join(', '),
       mobile: navigator.userAgentData?.mobile, cores: navigator.hardwareConcurrency, memoryGB: navigator.deviceMemory,
-      viewport: innerWidth + 'x' + innerHeight + '@' + devicePixelRatio, lazy: d.classList.contains('lazy-render'),
+      viewport: innerWidth + 'x' + innerHeight + '@' + devicePixelRatio,
       theme: d.dataset.theme, lang: d.dataset.lang, size: getComputedStyle(d).getPropertyValue('--reader-size').trim(),
       nodes: document.getElementsByTagName('*').length, scroll: round(scrollY) + '/' + round(d.scrollHeight),
       interactions, frames: frames.slice(-40),
