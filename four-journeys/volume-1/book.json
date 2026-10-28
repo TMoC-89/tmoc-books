@@ -1,0 +1,874 @@
+{
+  "searchId": 16,
+  "slug": "four-journeys-volume-1",
+  "path": "four-journeys/volume-1",
+  "pageTitle": "The Four Journeys of the Intellect — Volume I",
+  "description": "Mulla Sadra’s The Four Journeys of the Intellect, Volume I. Complete English translation with the original Arabic.",
+  "languages": [
+    "en",
+    "ar"
+  ],
+  "langKey": "minimal-library-lang-four-journeys",
+  "title": {
+    "en": "The Four Journeys of the Intellect",
+    "ar": "الحكمة المتعالية في الأسفار العقلية الأربعة"
+  },
+  "subtitle": {
+    "en": "General Questions: Existence and Essence",
+    "ar": "الأمور العامة: الوجود والماهية"
+  },
+  "author": {
+    "en": "Mulla Sadra",
+    "ar": "صدر الدين محمد الشيرازي"
+  },
+  "edition": {
+    "en": "Volume I of IX · Arabic original and English translation",
+    "ar": "المجلد 1 من ٩ · النص العربي والترجمة الإنجليزية"
+  },
+  "downloads": {
+    "en": "Volume I - English.md",
+    "ar": "Volume I - Arabic.md"
+  },
+  "home": {
+    "href": "../",
+    "label": "All nine volumes"
+  },
+  "series": {
+    "work": "four-journeys",
+    "volume": 1
+  },
+  "review": {
+    "slug": "four-journeys-volume-1",
+    "title": "The Four Journeys of the Intellect — Volume I",
+    "sourceLanguage": "ar",
+    "version": "5f6ea428e8217ffb",
+    "englishMarkdown": "Volume I - English.md",
+    "sourceMarkdown": "Volume I - Arabic.md"
+  },
+  "nav": {
+    "en": [
+      {
+        "id": "passage-en-00004",
+        "title": "Contents",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00077",
+        "title": "Author’s preface",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00157",
+        "title": "Part One — General Matters: Divine Science in Its Broader Sense",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00158",
+        "title": "The First Journey: From the World to God",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00160",
+        "title": "The knowledge needed in every field of study — an introduction and six stages",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00161",
+        "title": "Introduction: What philosophy is, how it is divided, and why it matters",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00171",
+        "title": "Stage One — Existence and its first divisions",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00172",
+        "title": "First inquiry — The nature of existence",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00173",
+        "title": "Why existence is the subject of the highest branch of philosophy, and why the mind grasps it first",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00200",
+        "title": "How the idea of existence applies to many things, but not in exactly the same way",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00210",
+        "title": "The general idea of existence in the mind is not part of each thing's makeup",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00214",
+        "title": "Existence has a reality outside the mind",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00217",
+        "title": "Discussion — Is existence real?",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00230",
+        "title": "What makes each existence distinct?",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00245",
+        "title": "Existences are simple realities; existence itself is not a general kind",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00252",
+        "title": "Existence itself has no cause in any sense",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00257",
+        "title": "Objections and answers",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00285",
+        "title": "Clarification: Existence and light",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00316",
+        "title": "Chapter — Existence and being a thing",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00328",
+        "title": "Chapter — Relational existence",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00337",
+        "title": "Method Two — The roots of necessity and possibility, and the parts of a statement",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00338",
+        "title": "Chapter — Defining necessity, possibility, impossibility, truth, and falsehood",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00368",
+        "title": "Chapter — Necessary existence cannot depend on another; no necessary link joins two necessary beings",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00376",
+        "title": "Chapter — The Necessary Being has no essence apart from His existence",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00421",
+        "title": "Objections and replies",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00440",
+        "title": "A flash of illumination",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00451",
+        "title": "The Throne Section",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00460",
+        "title": "An objection and its answer",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00469",
+        "title": "Chapter — The Necessary Being is necessary in every respect",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00474",
+        "title": "A clarification and a stronger formulation",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00489",
+        "title": "Chapter — The Necessary Being is one, not merely a kind confined to a single individual",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00504",
+        "title": "A proof from the Throne",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00511",
+        "title": "Chapter — Revisiting necessity, possibility, and impossibility, and answering objections about them",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00544",
+        "title": "Chapter — Different meanings of “possible”",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00558",
+        "title": "Chapter — Another way to understand the concepts that qualify statements",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00579",
+        "title": "Chapter — Why possibility cannot come from something else",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00588",
+        "title": "Clarification and reminder",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00607",
+        "title": "Discussion and clarification",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00626",
+        "title": "Objections and replies",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00651",
+        "title": "Chapter: Features of what is possible in itself",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00664",
+        "title": "Section: How a possible thing can entail something impossible in itself",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00693",
+        "title": "Section: Refuting the idea that an essence naturally favors existence or nonexistence",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00707",
+        "title": "Some false assumptions",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00715",
+        "title": "Section: What makes a thing need a cause: possibility in its essence and limitation in its existence",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00740",
+        "title": "Section — How a possible thing’s nonexistence needs a cause",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00750",
+        "title": "A point to keep in mind",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00764",
+        "title": "Section — A possible thing exists only if its cause makes it necessary",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00770",
+        "title": "Section — The two kinds of necessity and impossibility",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00777",
+        "title": "A possible misunderstanding",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00790",
+        "title": "Addendum",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00793",
+        "title": "Section — Why some possible things have one kind of possibility and others have two",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00810",
+        "title": "Section — Some rules about what is impossible in itself",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00816",
+        "title": "Section — How can we know what is impossible or nonexistent?",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00823",
+        "title": "Section — How one impossible thing can entail another",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00837",
+        "title": "Section — In what sense existence is added to a possible thing’s essence",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00844",
+        "title": "Section — How a possible thing’s existence is one with its essence outside the mind, and joined to it in a certain way",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00853",
+        "title": "A mistake and the answer",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00873",
+        "title": "Discussion and clarification",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00893",
+        "title": "Method Three — Another realm of existence beyond the one we witness, and related questions",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00894",
+        "title": "Chapter — Proving mental existence and its shadow-like appearance",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00896",
+        "title": "Preliminary remarks",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00910",
+        "title": "Chapter — Presenting several proofs for mental existence",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00911",
+        "title": "First method",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00917",
+        "title": "Second method",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00927",
+        "title": "Third method",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00946",
+        "title": "Chapter — Objections to mental existence and replies to them",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01041",
+        "title": "Chapter 4 — Further clarification and refinement",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01062",
+        "title": "Chapter — A solution drawn from higher knowledge",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01069",
+        "title": "Stage Two — Further rules about existence and related questions about nonexistence",
+        "level": 1
+      },
+      {
+        "id": "passage-en-01070",
+        "title": "Chapter — What linking existence means",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01085",
+        "title": "Chapter — When existence is called a second-order concept, and what that means",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01101",
+        "title": "Chapter — Existence is pure good",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01110",
+        "title": "Chapter — Existence has no opposite or equal",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01122",
+        "title": "Chapter — Nonexistence is one concept",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01129",
+        "title": "Chapter — How the absence of a cause and the absence of its effect relate to each other",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01135",
+        "title": "Chapter — How nonexistence applies to itself",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01139",
+        "title": "Chapter — A nonexistent thing cannot be restored",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01175",
+        "title": "Chapter — Why nonexistence is not a relation",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01186",
+        "title": "Chapter — Why a negative statement still needs its two terms",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01210",
+        "title": "Chapter — Can God have a particular kind of nonexistence?",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01214",
+        "title": "Critique and clarification",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01227",
+        "title": "Chapter — What depends on something impossible in itself need not itself be impossible",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01237",
+        "title": "A seeming problem, and its answer",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01254",
+        "title": "Chapter — Can human beings know what things truly are?",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01268",
+        "title": "Chapter — Different kinds of possibility",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01275",
+        "title": "Stage Three — What it means to bring things into existence",
+        "level": 1
+      },
+      {
+        "id": "passage-en-01276",
+        "title": "Chapter — Where the debate lies about making things, and the different views",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01294",
+        "title": "Chapter — Refuting the arguments that a cause makes a nature existent",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01327",
+        "title": "Closer examination",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01355",
+        "title": "Chapter — Can existence grow stronger or weaker?",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01364",
+        "title": "Chapter — Degrees of intensity and weakness",
+        "level": 2
+      },
+      {
+        "id": "en-notes-head",
+        "title": "Notes",
+        "level": 1
+      }
+    ],
+    "ar": [
+      {
+        "id": "passage-ar-00005",
+        "title": "المحتويات",
+        "level": 1
+      },
+      {
+        "id": "passage-ar-00079",
+        "title": "مقدمه المؤلف",
+        "level": 1
+      },
+      {
+        "id": "passage-ar-00111",
+        "title": "الجزء الأول",
+        "level": 1
+      },
+      {
+        "id": "passage-ar-00112",
+        "title": "من الأمور العامة أو العلم الإلهي بالمعنى الأعم",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00113",
+        "title": "السفر الأول — وهو الذي من الخلق إلى الحق في النظر إلى طبيعة الوجود وعوارضه الذاتية وفيه مسالك",
+        "level": 1
+      },
+      {
+        "id": "passage-ar-00114",
+        "title": "المسلك الأول — في المعارف التي يحتاج إليها الانسان في جميع العلوم وفيه مقدمه وستة مراحل",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00115",
+        "title": "المقدمة في تعريف الفلسفة وتقسيمها الأولى وغايتها وشرفها",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00121",
+        "title": "المرحلة الأولى — في الوجود وأقسامه الأولية وفيها مناهج",
+        "level": 1
+      },
+      {
+        "id": "passage-ar-00122",
+        "title": "الأول — في أحوال نفس الوجود وفيه فصول",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00123",
+        "title": "فصل في موضوعيته للعلم الإلهي وأولية ارتسامه في النفس",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00134",
+        "title": "فصل — في أن مفهوم الوجود مشترك محمول على ما تحته حمل التشكيك لا حمل التواطؤ",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00139",
+        "title": "فصل — في أن الوجود العام البديهي اعتبار عقلي غير مقوم لافراده",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00142",
+        "title": "فصل — في أن للوجود حقيقة عينيه",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00144",
+        "title": "بحث ومخلص",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00152",
+        "title": "فصل — في أن تخصص الوجود بما ذا",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00161",
+        "title": "فصل في أن الوجودات هويات بسيطه وان حقيقة الوجود ليست معنى جنسيا",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00165",
+        "title": "فصل — في أن حقيقة الوجود لا سبب لها بوجه من الوجوه",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00196",
+        "title": "فصل — في مساوقة الوجود للشيئية",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00202",
+        "title": "فصل — في الوجود الرابطي",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00206",
+        "title": "المنهج الثاني — في أصول الكيفيات وعناصر العقود وخواص كل منها وفيه فصول",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00207",
+        "title": "فصل — في تعريف الوجوب والامكان والامتناع والحق والباطل ان من المعاني",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00222",
+        "title": "فصل — في أن واجب الوجود لا يكون بالذات وبالغير جميعا وفي عدم العلاقة اللزومية",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00228",
+        "title": "فصل — في أن واجب الوجود أنيته ماهيته",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00266",
+        "title": "فصل — في أن الواجب لذاته واجب من جميع جهاته",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00278",
+        "title": "فصل — في أن واجب الوجود واحد لا بمعنى ان نوعه منحصر في شخصه على ما توهم",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00289",
+        "title": "فصل — في استيناف القول في الجهات ودفع شكوك قيلت في لزومها",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00307",
+        "title": "فصل — في استقراء المعاني التي يستعمل فيها لفظ الامكان",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00317",
+        "title": "فصل — فيه ارجاع الكلام إلى احكام هذه المفهومات العقلية",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00328",
+        "title": "فصل — في أن الامكان يستحيل ان يكون بالغير",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00344",
+        "title": "بحث وتنقيح",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00372",
+        "title": "فصل — في أن الممكن على اي وجه يكون مستلزما للممتنع بالذات",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00388",
+        "title": "فصل — في ابطال كون الشئ أولى له الوجود أو العدم أولوية غير بالغه حد الوجوب",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00402",
+        "title": "فصل — في أن عله الحاجة إلى العلة هي الامكان في الماهيات والقصور في الوجودات",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00416",
+        "title": "فصل — في كيفية احتياج عدم الممكن إلى السبب",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00427",
+        "title": "فصل — في أن الممكن ما لم يجب بغيره لم يوجد",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00431",
+        "title": "فصل — في أن كل ممكن محفوف بالوجوبين وبالامتناعين",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00442",
+        "title": "فصل — في أن الممكن قد يكون له امكانان وقد لا يكون",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00451",
+        "title": "فصل — في بعض احكام الممتنع بالذات",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00456",
+        "title": "فصل — في أن الممتنع أو المعدوم كيف يعلم",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00460",
+        "title": "فصل — في أن الممتنع كيف يصح ان يستلزم ممتنعا آخر",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00468",
+        "title": "فصل — في كون وجود الممكن زائدا على ماهيته عتلا",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00472",
+        "title": "فصل — في اثبات ان وجود الممكن عين ماهيته خارجا ومتحد بها نحوا من الاتحاد",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00495",
+        "title": "المنهج الثالث — في الإشارة إلى نشاة أخرى للوجود غير هذا المشهود وما ينوط به وفيه فصول",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00496",
+        "title": "فصل — في اثبات الوجود الذهني والظهور الظلي",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00498",
+        "title": "تمهيد",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00505",
+        "title": "فصل — في تقرير الحجج في اثباته وهي من طرق",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00506",
+        "title": "الطريقة الأولى",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00521",
+        "title": "فصل — في ذكر شكوك انعقادية وفيه فكوك اعتقادية عنها",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00577",
+        "title": "فصل ٤ — في زيادة توضيح لافاده تنقيح",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00589",
+        "title": "فصل — في بيان مخلص عرشي في هذا المقام",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00594",
+        "title": "المرحلة الثانية — في تتمه احكام الوجود وما يليق بان يذكر من احكام العدم",
+        "level": 1
+      },
+      {
+        "id": "passage-ar-00595",
+        "title": "فصل — في تحقيق الوجود بالمعنى الرابط",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00602",
+        "title": "فصل — في أن الوجود على اي وجه يقال إنه من المعقولات الثانية وباي معنى يوصف بذلك",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00609",
+        "title": "فصل في أن الوجود خير محض",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00615",
+        "title": "فصل — في أن الوجود لا ضد له ولا مثل له",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00625",
+        "title": "فصل — في أن العدم مفهوم واحد",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00630",
+        "title": "فصل — في كيفية عليه كل من عدمي العلة والمعلول للاخر",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00634",
+        "title": "فصل — في أن العدم كيف يعرض لنفسه",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00636",
+        "title": "فصل — في أن المعدوم لا يعاد",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00659",
+        "title": "فصل — في أن العدم ليس رابطيا",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00666",
+        "title": "فصل — في أن الحكم السلبي لا ينفك عن نحو من وجود طرفيه",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00679",
+        "title": "فصل — في أن العدم الخاص بنحو هل يجوز اتصاف الواجب بالذات به",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00688",
+        "title": "فصل — في أن المتوقف على الممتنع بالذات لا يلزم ان يكون ممتنعا بالذات",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00697",
+        "title": "فصل — في أن حقائق الأشياء اي الأمور الغير الممتنعة بالذات يمكن أن تكون معلومه للبشر",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00704",
+        "title": "فصل — في اقسام الممكن",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00709",
+        "title": "المرحلة الثالثة — في تحقيق الجعل وما يتصل بذلك",
+        "level": 1
+      },
+      {
+        "id": "passage-ar-00710",
+        "title": "فصل — في تحرير محل النزاع وتحديد حريم الخلاف في الجعل وحكاية القول في ذلك",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00723",
+        "title": "فصل — في مناقضه أدله الزاعمين ان اثر العلة هي صيرورة الماهية موجوده",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00742",
+        "title": "تحقيق",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00761",
+        "title": "فصل — في أن الوجود هل يجوز ان يشتد أو يتضعف أم لا",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00769",
+        "title": "فصل — في الشدة والضعف",
+        "level": 2
+      },
+      {
+        "id": "ar-notes-head",
+        "title": "الحواشي",
+        "level": 1
+      }
+    ]
+  }
+}

@@ -445,3 +445,9 @@ html[data-theme="dark"] mark.search-hit { background: color-mix(in srgb, #e2b93b
 .side-link [lang="ar"] { font-family: var(--arabic); font-size: 15px; }
 .bar-title .current[dir="rtl"]::before { display: none; }
 .bar-title .current[dir="rtl"] { padding-left: 10px; border-left: 1px solid var(--line-strong); }
+
+/* Nine-volume works: keep the full volume selector legible without scrolling sideways. */
+.volume-switch:has(li:nth-child(9)) ol { grid-template-columns: repeat(5, minmax(0, 1fr)); }
+/* A rare note whose printed reference is absent still appears in the notes list. */
+.note-editorial-label { color: var(--muted); font: 600 11px/1.45 var(--ui); letter-spacing: .015em; margin: 0 0 .3em !important; }
+.language-view[data-lang="ar"] .note-editorial-label { font: 600 13px/1.5 var(--arabic); }

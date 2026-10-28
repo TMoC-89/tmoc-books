@@ -1,0 +1,1269 @@
+{
+  "searchId": 19,
+  "slug": "four-journeys-volume-4",
+  "path": "four-journeys/volume-4",
+  "pageTitle": "The Four Journeys of the Intellect — Volume IV",
+  "description": "Mulla Sadra’s The Four Journeys of the Intellect, Volume IV. Complete English translation with the original Arabic.",
+  "languages": [
+    "en",
+    "ar"
+  ],
+  "langKey": "minimal-library-lang-four-journeys",
+  "title": {
+    "en": "The Four Journeys of the Intellect",
+    "ar": "الحكمة المتعالية في الأسفار العقلية الأربعة"
+  },
+  "subtitle": {
+    "en": "Natural Philosophy: Quantity and Quality",
+    "ar": "الطبيعيات: الجواهر والأعراض"
+  },
+  "author": {
+    "en": "Mulla Sadra",
+    "ar": "صدر الدين محمد الشيرازي"
+  },
+  "edition": {
+    "en": "Volume IV of IX · Arabic original and English translation",
+    "ar": "المجلد 4 من ٩ · النص العربي والترجمة الإنجليزية"
+  },
+  "downloads": {
+    "en": "Volume IV - English.md",
+    "ar": "Volume IV - Arabic.md"
+  },
+  "home": {
+    "href": "../",
+    "label": "All nine volumes"
+  },
+  "series": {
+    "work": "four-journeys",
+    "volume": 4
+  },
+  "review": {
+    "slug": "four-journeys-volume-4",
+    "title": "The Four Journeys of the Intellect — Volume IV",
+    "sourceLanguage": "ar",
+    "version": "13434b4cc718dfff",
+    "englishMarkdown": "Volume IV - English.md",
+    "sourceMarkdown": "Volume IV - Arabic.md"
+  },
+  "nav": {
+    "en": [
+      {
+        "id": "passage-en-00004",
+        "title": "Contents",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00135",
+        "title": "Stage — Natural science",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00143",
+        "title": "A problem and its solution",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00158",
+        "title": "Art One — The category of quantity: its existence, kinds, and status as an accident",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00159",
+        "title": "Chapter 1 — Three features of quantity",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00170",
+        "title": "Chapter 2 — How magnitude differs from corporeality",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00183",
+        "title": "An Illuminationist argument",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00189",
+        "title": "Chapter 3 — How quantity divides into continuous and discrete kinds",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00205",
+        "title": "Chapter 4 — Another division of quantity: with position and without position",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00214",
+        "title": "Chapter 5 — What is quantity only incidentally",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00222",
+        "title": "Chapter 6 — Quantity has no contrary",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00228",
+        "title": "Questions and replies",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00240",
+        "title": "Chapter 7 — Quantity does not intensify or weaken",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00249",
+        "title": "Chapter 8 — Why dimensions must be finite",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00289",
+        "title": "A guide to infinity in past and future events",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00297",
+        "title": "Chapter 9 — Five further points about infinity",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00306",
+        "title": "Chapter 10 — Can magnitude exist apart from matter? Other relations among body, surface, and line",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00315",
+        "title": "A difficulty and its answer",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00332",
+        "title": "Chapter 11 — Further questions about magnitude",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00342",
+        "title": "Chapter 12 — What is place, and does it exist?",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00362",
+        "title": "Chapter 13 — Establishing the Nature of Place",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00392",
+        "title": "Chapter 14 — Reply to Those Who Believe in a Vacuum",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00408",
+        "title": "Chapter 15 — Observations That Point to the Impossibility of a Vacuum",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00426",
+        "title": "Chapter 16 — If a Vacuum Existed, It Could Not Attract or Repel Bodies",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00433",
+        "title": "A Note",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00442",
+        "title": "Art Two — The Category of Quality",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00444",
+        "title": "Introduction — Defining Quality and Dividing It into Four Kinds",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00469",
+        "title": "Part One — Sensible Qualities (in five chapters)",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00470",
+        "title": "Book One — General Rules for This Group",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00471",
+        "title": "Chapter 15 — Its Shared Feature, Its Two Kinds, and Their Names",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00479",
+        "title": "Chapter 16 — Are Bodily Qualities Just Shapes or Mixtures?",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00488",
+        "title": "Book Two — Qualities We Feel by Touch",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00490",
+        "title": "Chapter 17 — What Heat and Cold Are",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00503",
+        "title": "Chapter 18 — The Nature of Innate Heat and Whether It Exists",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00515",
+        "title": "Chapter 19 — The Nature of Wetness and Dryness, and Whether They Exist",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00531",
+        "title": "Chapter 20 — Fineness, Coarseness, Stickiness, Brittleness, Dampness, and Dryness",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00537",
+        "title": "Chapter 21 — Heaviness and Lightness",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00565",
+        "title": "Chapter 22 — Qualities Often Mistaken for Qualities of Touch",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00570",
+        "title": "Book Three — Qualities We See",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00571",
+        "title": "Chapter 23 — Establishing That Colors Are Real",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00585",
+        "title": "Chapter 24 — Visible Light",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00599",
+        "title": "Chapter 25 — What Light Is and Its Different Kinds",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00614",
+        "title": "Chapter 26 — The Difference Between Radiance, Light, Rays, Glints, Shadow, and Darkness, and Why Colors Become Actual Only When There Is Light",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00620",
+        "title": "Addendum",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00622",
+        "title": "Book Four — Qualities We Hear",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00623",
+        "title": "Chapter 1 — What Causes Sound",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00626",
+        "title": "Chapter 2 — Showing That Sound Exists Outside the Ear",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00631",
+        "title": "Chapter 3 — Why Sounds Are High or Low, and What Echo, Ringing, and Letters Are",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00636",
+        "title": "Chapter 4 — How Letters Divide into Consonants and Vowels, and into Brief and Sustained Sounds",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00642",
+        "title": "Book Five — Taste and Smell, and Why They Are Properties of Things",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00643",
+        "title": "Chapter 1 — Tastes",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00650",
+        "title": "Chapter 2 — Smells",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00653",
+        "title": "Part Two — Power and the lack of power",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00654",
+        "title": "Chapter 1 — Three Kinds of Power",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00663",
+        "title": "Chapter 2 — A Closer Look at These Kinds",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00674",
+        "title": "Chapter 3 — Where Softness and Hardness Fit Among the Qualities",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00683",
+        "title": "Part Three — Qualities found in souls",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00689",
+        "title": "Chapter 1 — Power",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00698",
+        "title": "Chapter 2 — Will",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00706",
+        "title": "Chapter 3 — What Character Is and Its Kinds",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00722",
+        "title": "Chapter 4 — What Pleasure and Pain Are",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00757",
+        "title": "Chapter 5 — Does All Pain Come from a Break in Continuity?",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00785",
+        "title": "Chapter 6 — Which Bodily Imbalance Causes Pain?",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00797",
+        "title": "Chapter 7 — Kinds of Pleasure, and Why Some Are Better",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00812",
+        "title": "Chapter 8 — Avicenna on Pleasure in the Senses, and a Reply to an Objection",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00851",
+        "title": "Chapter 9 — Health and Illness as Qualities of the Soul",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00865",
+        "title": "Chapter 10 — The State Between Health and Illness",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00872",
+        "title": "Chapter 11 — Joy, Grief, and Other Emotions",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00880",
+        "title": "Chapter 12 — Causes of Joy and Grief",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00899",
+        "title": "Chapter 13 — Weakness and Strength of Heart, Distress and Vigor",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00906",
+        "title": "Chapter 14 — How Emotions Affect the Body",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00913",
+        "title": "Chapter 15 — How Emotions Relate to the Blood",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00925",
+        "title": "Part Four — Qualities of quantity: three articles and two preliminary questions",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00935",
+        "title": "Article One — Straightness and Circularity",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00936",
+        "title": "Chapter 1 — What They Are",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00941",
+        "title": "Chapter 2 — What a Circle Is, and How We Know It Exists",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00954",
+        "title": "Chapter 3 — Straight and Curved Lines Differ in Kind",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00962",
+        "title": "Chapter 4 — Straight and Curved Are Not Opposites",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00965",
+        "title": "Chapter 5 — Can a Straight Line and a Curve Be Compared?",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00972",
+        "title": "Article Two — Shape",
+        "level": 1
+      },
+      {
+        "id": "passage-en-00973",
+        "title": "Chapter 1 — Its Definition",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00980",
+        "title": "Chapter 2 — Is Shape a Quality or a Position?",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00988",
+        "title": "Chapter 3 — What Kind of Thing Is an Angle?",
+        "level": 2
+      },
+      {
+        "id": "passage-en-00996",
+        "title": "Chapter 4 — Is an Angle a Quantity or a Quality?",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01006",
+        "title": "Chapter 5 — Why Shapes Have No Degrees or Opposites",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01012",
+        "title": "Article Three — Overall Appearance and Number Qualities",
+        "level": 1
+      },
+      {
+        "id": "passage-en-01013",
+        "title": "Chapter 1 — Overall Appearance (Question Five)",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01019",
+        "title": "Chapter 2 — Can Attributes Have General and Specific Parts?",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01028",
+        "title": "Chapter 3 — Features and Qualities of Numbers",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01033",
+        "title": "Third Part — The Remaining Kinds of Properties",
+        "level": 1
+      },
+      {
+        "id": "passage-en-01034",
+        "title": "Article One — Relation",
+        "level": 1
+      },
+      {
+        "id": "passage-en-01035",
+        "title": "Chapter 1 — Starting the Discussion of Relations",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01041",
+        "title": "Chapter 2 — What a True Relation Is",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01047",
+        "title": "Chapter 3 — Properties of Both Sides of a Relation",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01065",
+        "title": "Chapter 4 — What the Category of Relation Itself Means",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01071",
+        "title": "Chapter 5 — Does Relation Exist Outside the Mind?",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01078",
+        "title": "Chapter 6 — How Relation Exists in the Outside World",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01095",
+        "title": "Chapter 7 — When One Side of a Relation Becomes Specific, So Does the Other",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01101",
+        "title": "Chapter 8 — Different Ways to Classify Relations",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01107",
+        "title": "Chapter 9 — Can Relations Be Opposites or Have Degrees?",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01112",
+        "title": "Chapter 10 — Universal and Particular, Essential and Accidental",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01128",
+        "title": "Article Two — The Remaining Categories",
+        "level": 1
+      },
+      {
+        "id": "passage-en-01129",
+        "title": "Chapter 1 — What “Where” Means",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01135",
+        "title": "Chapter 2 — Different Kinds of “Where”",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01140",
+        "title": "Chapter 3 — Further Features of “Where”",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01144",
+        "title": "Chapter 4 — What “When” Means and Its Kinds",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01150",
+        "title": "Chapter 5 — Position",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01161",
+        "title": "Chapter 6 — Possession",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01164",
+        "title": "Chapter 7 — The Categories of Acting and Being Acted On",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01170",
+        "title": "Chapter 8 — Answering an Objection to the Existence of These Categories",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01181",
+        "title": "Art Four — Substance, its basic kinds, and their properties",
+        "level": 1
+      },
+      {
+        "id": "passage-en-01183",
+        "title": "Chapter 1 — Examining the Nature of Substance and Accident",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01203",
+        "title": "Chapter 2 — Defining Accident",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01232",
+        "title": "Chapter 3 — Defining Substance: Existing Not in a Subject",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01243",
+        "title": "Chapter 4 — Is “Substance” Predicated of Its Subordinates as a Broader kind?",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01257",
+        "title": "Discussion and Clarification",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01308",
+        "title": "Chapter 5 — Why Some Substances Are More Basic Than Others",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01337",
+        "title": "Chapter 6 — The Properties of Substance",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01345",
+        "title": "A Closer Look",
+        "level": 1
+      },
+      {
+        "id": "passage-en-01352",
+        "title": "A Note",
+        "level": 1
+      },
+      {
+        "id": "passage-en-01376",
+        "title": "Chapter 7 — Why One Thing Cannot Be Both Substance and Accident",
+        "level": 2
+      },
+      {
+        "id": "passage-en-01388",
+        "title": "A Difficulty and Its Solution",
+        "level": 1
+      },
+      {
+        "id": "en-notes-head",
+        "title": "Notes",
+        "level": 1
+      }
+    ],
+    "ar": [
+      {
+        "id": "passage-ar-00005",
+        "title": "المحتويات",
+        "level": 1
+      },
+      {
+        "id": "passage-ar-00136",
+        "title": "المرحلة في علم الطبيعي",
+        "level": 1
+      },
+      {
+        "id": "passage-ar-00140",
+        "title": "عقده وحل",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00149",
+        "title": "الفن الأول — في مقولة الكم واثبات وجودها ووجود أقسامها واثبات عرضيتها وفيه فصول",
+        "level": 1
+      },
+      {
+        "id": "passage-ar-00150",
+        "title": "فصل ١ — في تعديد الخواص التي بها يمكن معرفه مهية الكم المطلق",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00155",
+        "title": "فصل ٢ — في الفرق بين المقدار والجسمية وذلك من ستة أوجه أربعة منها مبنية على نفى الجزء الذي لا يتجزى",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00163",
+        "title": "فصل ٣ — في تقسم الكم إلى المتصل والمنفصل",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00168",
+        "title": "فصل ٤ — في تقسيم آخر للكم وهو التقسيم إلى ذي وضع وغير ذي وضع",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00171",
+        "title": "فصل ٥ — فيما ليس بكم بالذات وانما هو بالعرض وهو على وجوه أربعة",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00175",
+        "title": "فصل ٦ — في أن الكم لا ضد له",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00179",
+        "title": "فصل ٧ — في أن الكم لا يقبل الاشتداد والتضعف",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00183",
+        "title": "فصل ٨ — في اثبات تناهى الابعاد وعليه براهين كثيرة نذكر منها ثلثه",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00200",
+        "title": "فصل ٩ — في بقيه احكام اللانهاية وهي خمسه أبحاث",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00204",
+        "title": "فصل ١٠ — في أن المقادير هل يمكن تجردها عن المادة وفي احكام أخرى بين الثلاثة",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00207",
+        "title": "عقده وحل عرشي",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00213",
+        "title": "فصل ١١ — في مباحث أخرى متعلقه بالمقادير",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00219",
+        "title": "فصل ١٢ — في المكان وآنيته",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00226",
+        "title": "فصل ١٣ — في تحقيق مهية المكان",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00238",
+        "title": "فصل ١٤ — في الرد على القائلين بالخلا وهم طائفتان",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00247",
+        "title": "فصل ١٥ — في ذكر امارات استبصارية تدل على بطلان الخلا",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00255",
+        "title": "فصل ١٦ — في أن الخلا لو ثبت لم يكن فيه قوة جاذبه ولا دافعه للأجسام",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00259",
+        "title": "تذنيب",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00262",
+        "title": "الفن الثاني — في مقولة الكيف",
+        "level": 1
+      },
+      {
+        "id": "passage-ar-00264",
+        "title": "المقدمة في رسم الكيف وتقسيمه إلى أنواعه الأربعة",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00278",
+        "title": "القسم الأول — في الكيفيات المحسوسة وفيه خمسه أبواب",
+        "level": 1
+      },
+      {
+        "id": "passage-ar-00279",
+        "title": "الباب الأول — في احكام كليه لهذا القسم وفيه فصول",
+        "level": 1
+      },
+      {
+        "id": "passage-ar-00280",
+        "title": "فصل ١٥ — في خاصيته وفي تقسيمه بقسميه وسبب التسمية",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00285",
+        "title": "فصل ١٦ — في الرد على القول بان كيفيات الأجسام نفس اشكالها وبأنها نفس الأمزجة",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00290",
+        "title": "الباب الثاني — في الكيفيات الملموسة",
+        "level": 1
+      },
+      {
+        "id": "passage-ar-00292",
+        "title": "فصل ١٧ — في حد الحرارة والبرودة",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00298",
+        "title": "فصل ١٨ — في مهية الحرارة الغريزية وآنيتها",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00305",
+        "title": "فصل ١٩ — في مهية الرطوبة واليبوسة وآنيتهما",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00314",
+        "title": "فصل ٢٠ — في اللطافة والكثافة واللزوجة والهشاشة والبله والجفاف",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00318",
+        "title": "فصل ٢١ — في الثقيل والخفيف وفيه مباحث",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00334",
+        "title": "فصل ٢٢ — فيما يظن دخوله في الكيفيات اللمسية وليس منها فمن",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00337",
+        "title": "الباب الثالث — في الكيفيات المبصرة وفيه فصول",
+        "level": 1
+      },
+      {
+        "id": "passage-ar-00338",
+        "title": "فصل ٢٣ — في اثبات الألوان",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00347",
+        "title": "فصل ٢٤ — في النور المحسوس",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00353",
+        "title": "فصل ٢٥ — في حقيقة النور وأقسامه",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00363",
+        "title": "فصل ٢٦ — في الفرق بين الضوء والنور والشعاع والبريق والظل والظلمة وفي ان الألوان انما تحدث بالفعل عند حصول",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00368",
+        "title": "تذنيب",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00370",
+        "title": "الباب الرابع — في الكيفيات المسموعة وفيه فصول",
+        "level": 1
+      },
+      {
+        "id": "passage-ar-00371",
+        "title": "فصل ١ — في علة حدوث الصوت",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00373",
+        "title": "فصل ٢ — في اثبات وجود الصوت في الخارج",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00377",
+        "title": "فصل ٣ — في سبب ثقل الصوت وحدته ومعنى الصداء والطنين والحرف",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00381",
+        "title": "فصل ٤ — في تقسيم الحروف إلى صامت ومصوت والى آني وزماني",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00385",
+        "title": "الباب الخامس — في الكيفية المذوقة والمشمومات وفي اثبات عرضيتهما وفيه فصول",
+        "level": 1
+      },
+      {
+        "id": "passage-ar-00386",
+        "title": "فصل ١ — في الطعوم",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00390",
+        "title": "فصل ٢ — في الروائح المشمومة",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00392",
+        "title": "القسم الثاني — من الأقسام الأربعة التي للكيف القوة واللا قوة وفيه فصول",
+        "level": 1
+      },
+      {
+        "id": "passage-ar-00393",
+        "title": "فصل ١ — في أنواعه",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00397",
+        "title": "فصل ٢ — في تحقيق ما ذكرناه بوجه تفصيلي",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00404",
+        "title": "فصل ٣ — في تحقيق ان اللين والصلابة من أي جنس من أجناس الكيف",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00409",
+        "title": "القسم الثالث — في الكيفيات التي توجد في ذوات الأنفس",
+        "level": 1
+      },
+      {
+        "id": "passage-ar-00414",
+        "title": "فصل ١ — في القدرة",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00418",
+        "title": "فصل ٢ — في الإرادة",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00422",
+        "title": "فصل ٣ — في حد الخلق وأقسامه",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00429",
+        "title": "فصل ٤ — في حقيقة الألم واللذة",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00445",
+        "title": "فصل ٥ — في ابطال القول بان المؤلم الموجع في الجميع هو تفرق الاتصال",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00458",
+        "title": "فصل ٦ — في أن المؤلم أي نوع من سوء المزاج",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00464",
+        "title": "فصل ٧ — في تفصيل اللذات وتفضيل بعضها على بعض",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00474",
+        "title": "فصل ٨ — في تعقيب ما قاله الشيخ في لذة الحواس وحل ما يشكل فيه",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00497",
+        "title": "فصل ٩ — في الصحة والمرض وهما من الكيفيات النفسانية",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00505",
+        "title": "فصل ١٠ — في الواسطة بين الصحة والمرض",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00509",
+        "title": "فصل ١١ — في الفرح والغم وغيرهما",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00513",
+        "title": "فصل ١٢ — في أسباب الفرح والغم",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00523",
+        "title": "فصل ١٣ — في ضعف القلب وقوته والفرق بين الأول وبين التوحش وكذا بين الثاني وبين النشاط",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00527",
+        "title": "فصل ١٤ — في سبب عروض هذه العوارض البدنية لأجل تكيف النفس بتلك الكيفيات النفسانية",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00531",
+        "title": "فصل ١٥ — في مناسبة ما بين شئ من تلك الكيفيات النفسانية وبين الدم",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00540",
+        "title": "القسم الرابع — في الكيفيات المختصة بالكميات وفيه ثلث مقالات وقبل الشروع فيها نورد بحثين",
+        "level": 1
+      },
+      {
+        "id": "passage-ar-00548",
+        "title": "المقالة الأولى — في الاستقامة والاستدارة وفيه فصول",
+        "level": 1
+      },
+      {
+        "id": "passage-ar-00549",
+        "title": "فصل ١ — في حقيقتهما",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00553",
+        "title": "فصل ٢ — في معرفه الدائرة واثبات وجودها",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00559",
+        "title": "فصل ٣ — في أن المستقيم والمستدير يتخالفان نوعا وتحقيق ان الكيفية",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00565",
+        "title": "فصل ٤ — في أن المستقيم والمستدير ليسا متضادين",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00568",
+        "title": "فصل ٥ — فيما قيل من منع النسبة بين المستقيم والمستدير من المساواة والمفاضلة",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00573",
+        "title": "المقالة الثانية — في الشكل وفيه فصول",
+        "level": 1
+      },
+      {
+        "id": "passage-ar-00574",
+        "title": "فصل ١ — في تعريفه",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00580",
+        "title": "فصل ٢ — في أن الهيئة المذكورة هل هي من الكيف أو من الوضع",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00586",
+        "title": "فصل ٣ — في حال الزاوية وانها من أي مقولة هي وهو البحث الرابع",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00592",
+        "title": "فصل ٤ — في احتجاج كل من الفريقين في امر الزاوية انها كم أو كيف",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00599",
+        "title": "فصل ٥ — في نفى الأشد والأضعف والتضاد في الاشكال",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00603",
+        "title": "المقالة الثالثة — في حال الخلقة وكيفيات الاعداد وفيه فصول",
+        "level": 1
+      },
+      {
+        "id": "passage-ar-00604",
+        "title": "فصل ١ — في حال الخلقة وهو البحث الخامس",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00607",
+        "title": "فصل ٢ — في أنه هل يجوز تركيب في الاعراض من أجناس وفصول أو مادة وصوره عقليتين",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00614",
+        "title": "فصل ٣ — في خواص الاعداد وكيفياتها",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00617",
+        "title": "الفن الثالث — في بقيه المقولات العرضية وفيه مقالات",
+        "level": 1
+      },
+      {
+        "id": "passage-ar-00618",
+        "title": "المقالة الأولى — في المضاف وفيه فصول",
+        "level": 1
+      },
+      {
+        "id": "passage-ar-00619",
+        "title": "فصل ١ — في ابتداء الكلام في المضاف",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00623",
+        "title": "فصل ٢ — في تحقيق المضاف الحقيقي",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00629",
+        "title": "فصل ٣ — في خواص طرفي الإضافة",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00643",
+        "title": "فصل ٤ — في تحصيل المعنى الذي هو نفس مقولة المضاف الذي هو أحد الأجناس العشرة العالية",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00648",
+        "title": "فصل ٥ — في أن الإضافة هل تكون موجودة في الخارج أم لا",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00655",
+        "title": "فصل ٦ — في نحو وجود المضاف في الخارج",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00665",
+        "title": "فصل ٧ — في أن تحصل كل من المتضائفين كتحصل الاخر إن كان جنسا فجنس وان نوعا فنوع وان صنفا فصنف وان شخصا فشخص",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00668",
+        "title": "فصل ٨ — في تقسيم المضاف من وجوه",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00672",
+        "title": "فصل ٩ — في أن المضاف هل يقبل التضاد والأشد والأضعف أم لا",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00678",
+        "title": "فصل ١٠ — في الكلى والجزئي والذاتي والعرضي",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00689",
+        "title": "المقالة الثانية — في بقيه المقولات وفيه فصول",
+        "level": 1
+      },
+      {
+        "id": "passage-ar-00690",
+        "title": "فصل ١ — في حقيقة الأين",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00695",
+        "title": "فصل ٢ — في تقسيم الأين",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00699",
+        "title": "فصل ٣ — في تتمه أحوال الأين",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00702",
+        "title": "فصل ٤ — في حقيقة متى وأنواعه من جمله ما عد من المقولات متى وهو كون الشئ في زمان واحد أو في حد منه",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00707",
+        "title": "فصل ٥ — في الوضع",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00715",
+        "title": "فصل ٦ — في الجدة",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00717",
+        "title": "فصل ٧ — في مقولتي ان يفعل وان ينفعل",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00721",
+        "title": "فصل ٨ — في دفع ما أورد على موجوديتهما",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00730",
+        "title": "الفن الرابع — في البحث عن احكام الجواهر وأقسامها الأولية",
+        "level": 1
+      },
+      {
+        "id": "passage-ar-00732",
+        "title": "فصل ١ — في تحقيق مهيتهما",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00746",
+        "title": "فصل ٢ — في تعريف العرض",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00763",
+        "title": "فصل ٣ — في رسم الجوهر وهو الموجود لا في موضوع",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00772",
+        "title": "فصل ٤ — في أن حمل معنى الجوهر على ما تحته حمل الجنس أم لا",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00780",
+        "title": "بحث وكشف",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00807",
+        "title": "فصل ٥ — في كون بعض الجواهر أول وأولى من بعض",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00821",
+        "title": "فصل ٦ — في ذكر خواص الجوهر",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00826",
+        "title": "بحث وتحقيق",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00830",
+        "title": "تنبيه",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00843",
+        "title": "فصل ٧ — في استحالة ان يكون موجود واحد جوهرا وعرضا",
+        "level": 2
+      },
+      {
+        "id": "passage-ar-00850",
+        "title": "عقده وحل",
+        "level": 2
+      },
+      {
+        "id": "ar-notes-head",
+        "title": "الحواشي",
+        "level": 1
+      }
+    ]
+  }
+}

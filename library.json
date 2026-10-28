@@ -27,6 +27,32 @@
   ],
   "books": [
     {
+      "no": 11,
+      "shelf": "arabic",
+      "href": "four-journeys/",
+      "series": "four-journeys",
+      "tag": "Latest addition",
+      "title": "The Four Journeys of the Intellect",
+      "subtitle": "The Transcendent Wisdom of the Four Intellectual Journeys",
+      "originalTitle": {
+        "lang": "ar",
+        "text": "الحكمة المتعالية في الأسفار العقلية الأربعة"
+      },
+      "author": "Mulla Sadra",
+      "readers": [
+        "four-journeys/volume-1",
+        "four-journeys/volume-2",
+        "four-journeys/volume-3",
+        "four-journeys/volume-4",
+        "four-journeys/volume-5",
+        "four-journeys/volume-6",
+        "four-journeys/volume-7",
+        "four-journeys/volume-8",
+        "four-journeys/volume-9"
+      ],
+      "description": "Mulla Sadra’s monumental nine-volume work on existence, God, nature, the soul and the afterlife, in English with the original Arabic alongside."
+    },
+    {
       "no": 8,
       "shelf": "arabic",
       "href": "sufi-orbits/",
@@ -113,7 +139,6 @@
       "shelf": "french",
       "href": "within-iranian-islam/",
       "series": "within-iranian-islam",
-      "tag": "Latest addition",
       "title": "Within Iranian Islam",
       "subtitle": "Spiritual and Philosophical Aspects",
       "originalTitle": {
@@ -261,6 +286,94 @@
         }
       ],
       "edition": "Gallimard, 1971–1972"
+    },
+    "four-journeys": {
+      "title": "The Four Journeys of the Intellect",
+      "shortTitle": "The Four Journeys",
+      "subtitle": "The Transcendent Wisdom of the Four Intellectual Journeys",
+      "originalTitle": {
+        "lang": "ar",
+        "text": "الحكمة المتعالية في الأسفار العقلية الأربعة"
+      },
+      "author": "Mulla Sadra",
+      "authorAr": "صدر الدين محمد الشيرازي",
+      "edition": "Nine-volume bilingual edition",
+      "zip": "The Four Journeys - Complete Bilingual Markdown.zip",
+      "lead": "Mulla Sadra’s great philosophical work, The Transcendent Wisdom in the Four Intellectual Journeys, traces the path from the questions of existence and causation to the nature of God, the world, the soul and the afterlife. Read all nine volumes in English or switch to the original Arabic at any point. Every volume has its own table of contents and endnotes; the complete bilingual Markdown is available to download.",
+      "volumes": [
+        {
+          "n": 1,
+          "roman": "I",
+          "path": "four-journeys/volume-1",
+          "title": "General Questions: Existence and Essence",
+          "original": "الأمور العامة: الوجود والماهية",
+          "blurb": "The first journey begins with existence: its meaning, reality, necessity, possibility, and the way things come to be."
+        },
+        {
+          "n": 2,
+          "roman": "II",
+          "path": "four-journeys/volume-2",
+          "title": "Essence, Unity, and Causation",
+          "original": "الأمور العامة: الوجود والماهية",
+          "blurb": "The inquiry continues through essence, unity, multiplicity, causes, and the relations between things."
+        },
+        {
+          "n": 3,
+          "roman": "III",
+          "path": "four-journeys/volume-3",
+          "title": "Potentiality, Change, Time, and Intellect",
+          "original": "الأمور العامة: الوجود والماهية",
+          "blurb": "Potential and actual being, change and motion, time and eternity, and intellect and what it understands."
+        },
+        {
+          "n": 4,
+          "roman": "IV",
+          "path": "four-journeys/volume-4",
+          "title": "Natural Philosophy: Quantity and Quality",
+          "original": "الطبيعيات: الجواهر والأعراض",
+          "blurb": "A study of natural philosophy: quantity, quality, relation, and the categories through which things are described."
+        },
+        {
+          "n": 5,
+          "roman": "V",
+          "path": "four-journeys/volume-5",
+          "title": "Natural Philosophy: Substances and Accidents",
+          "original": "الطبيعيات: الجواهر والأعراض",
+          "blurb": "Bodies, matter and form, the kinds of physical things, and the principles of natural change."
+        },
+        {
+          "n": 6,
+          "roman": "VI",
+          "path": "four-journeys/volume-6",
+          "title": "Knowledge of God",
+          "original": "الإلهيات بالمعنى الأخص",
+          "blurb": "The third journey begins: arguments about the Necessary Being, oneness, divine attributes, knowledge, and power."
+        },
+        {
+          "n": 7,
+          "roman": "VII",
+          "path": "four-journeys/volume-7",
+          "title": "Divine Speech, Providence, and Creation",
+          "original": "الإلهيات بالمعنى الأخص",
+          "blurb": "The inquiry into divine speech, providence, mercy, creation, and the lasting generosity of the first principle."
+        },
+        {
+          "n": 8,
+          "roman": "VIII",
+          "path": "four-journeys/volume-8",
+          "title": "The Soul and the Afterlife",
+          "original": "علم النفس والمعاد",
+          "blurb": "The fourth journey begins with the soul: its powers, perception, and its relation to the body and intellect."
+        },
+        {
+          "n": 9,
+          "roman": "IX",
+          "path": "four-journeys/volume-9",
+          "title": "The Soul and the Afterlife",
+          "original": "علم النفس والمعاد",
+          "blurb": "The final volume examines the soul after death, spiritual happiness, resurrection, and the world to come."
+        }
+      ]
     }
   }
 }

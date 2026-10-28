@@ -1,3 +1,24 @@
+# The Four Journeys of the Intellect — 28 October 2026
+
+- **Published Mullā Ṣadrā's nine-volume *The Four Journeys of the Intellect*** as work № 11,
+  the latest addition to the Arabic shelf, with complete original Arabic and English translation.
+  Added a series landing page and a dedicated reader for every volume, following the site's
+  established multi-volume design. The volume switch supports all nine books.
+- Every volume has paired language sections, navigable contents, endnotes at the back,
+  responsive reading controls, note previews, reading progress and Reviewer Mode.
+  The reader offers 18 individual Markdown downloads, plus an all-volumes bilingual ZIP.
+- Both languages are included in full-text search. Updated the search indexer to handle
+  Roman numerals VII–IX and the builder's spelled-out volume counts to include nine.
+- Checked seven unmatched notes against the supplied Arabic PDFs: restored six references
+  in corresponding passages of **both** languages; retained `V06-168` as a clearly identified
+  unlinked note, rather than inventing a reference. Full details in
+  `four-journeys/EDITION_NOTES.md`.
+- Added reproducible importer `tools/import_four_journeys.py`. Fixed two old Markdown filenames
+  in the supplied archive whose encoded filenames did not match their reader metadata
+  (*Religion and Socialism* Arabic, *The City of Isis* French); their content is unchanged.
+- Verified all 18 reader views' note references, cross-language note IDs, download paths and
+  section keys. The complete static build and `tools/build.py --check` pass.
+
 # Within Iranian Islam — October 2026
 
 - **Added Henry Corbin’s *Within Iranian Islam* (*En Islam iranien*), all four volumes**, in English

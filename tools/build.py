@@ -280,7 +280,7 @@ LANGUAGES = {
 }
 
 
-NUMBER_WORDS = {'en': {2: 'two', 3: 'three', 4: 'four', 5: 'five', 6: 'six', 8: 'eight', 10: 'ten'},
+NUMBER_WORDS = {'en': {2: 'two', 3: 'three', 4: 'four', 5: 'five', 6: 'six', 8: 'eight', 9: 'nine', 10: 'ten', 18: 'eighteen'},
                 'fr': {2: 'deux', 3: 'trois', 4: 'quatre', 5: 'cinq', 6: 'six', 8: 'huit'}}
 
 
@@ -395,7 +395,7 @@ def render_reader(book, library, content, views, prefix, site):
     home_label = book['home']['label']
     home = {**UI['library'], 'en': home_label}
     if series:
-        home.update({'ar': 'المجلدات الأربعة', 'fr': f"Les {NUMBER_WORDS['fr'].get(count, count)} tomes"})
+        home.update({'ar': ('المجلدات التسعة' if count == 9 else 'المجلدات الأربعة'), 'fr': f"Les {NUMBER_WORDS['fr'].get(count, count)} tomes"})
     side = [f'<aside class="sidebar" id="sidebar" aria-label="Book navigation">\n<nav class="side-links" aria-label="Library">'
             f'<a class="side-link accent" id="search-return" href="{prefix}search/" hidden>{icon("back")}<span>{both(UI["back_search"], langs)}</span></a>'
             f'<a class="side-link" href="{esc(book["home"]["href"])}">{icon("back")}<span>{both(home, langs)}</span></a>'
