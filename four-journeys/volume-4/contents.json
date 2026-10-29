@@ -1,0 +1,1474 @@
+{
+  "version": 1,
+  "initiallyCollapsed": true,
+  "languages": {
+    "en": {
+      "sourceHash": "858e1045fd1c321f697de10b26ab2a127703f3a9eba01876c5a3810bb5721bca",
+      "entries": [
+        {
+          "id": "passage-en-00004",
+          "level": 1,
+          "kind": "opening",
+          "label": "Opening pages"
+        },
+        {
+          "id": "passage-en-00135",
+          "level": 2,
+          "kind": "section",
+          "label": "Stage: Natural science"
+        },
+        {
+          "id": "passage-en-00143",
+          "level": 3,
+          "kind": "section",
+          "label": "A problem and its solution"
+        },
+        {
+          "id": "passage-en-00158",
+          "level": 1,
+          "kind": "division",
+          "label": "Part One: Quantity",
+          "expanded": false
+        },
+        {
+          "id": "passage-en-00159",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. Three features of quantity"
+        },
+        {
+          "id": "passage-en-00170",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. How magnitude differs from corporeality"
+        },
+        {
+          "id": "passage-en-00183",
+          "level": 3,
+          "kind": "section",
+          "label": "1. An Illuminationist argument"
+        },
+        {
+          "id": "passage-en-00189",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. How quantity divides into continuous and discrete kinds"
+        },
+        {
+          "id": "passage-en-00205",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. Another division of quantity: with position and without position"
+        },
+        {
+          "id": "passage-en-00214",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. What is quantity only incidentally"
+        },
+        {
+          "id": "passage-en-00222",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VI. Quantity has no contrary"
+        },
+        {
+          "id": "passage-en-00228",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Questions and replies"
+        },
+        {
+          "id": "passage-en-00240",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VII. Quantity does not intensify or weaken"
+        },
+        {
+          "id": "passage-en-00249",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VIII. Why dimensions must be finite"
+        },
+        {
+          "id": "passage-en-00289",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A guide to infinity in past and future events"
+        },
+        {
+          "id": "passage-en-00297",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IX. Five further points about infinity"
+        },
+        {
+          "id": "passage-en-00306",
+          "level": 2,
+          "kind": "chapter",
+          "label": "X. Can magnitude exist apart from matter? Other relations among body, surface, and line"
+        },
+        {
+          "id": "passage-en-00315",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A difficulty and its answer"
+        },
+        {
+          "id": "passage-en-00332",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XI. Further questions about magnitude"
+        },
+        {
+          "id": "passage-en-00342",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XII. What is place, and does it exist?"
+        },
+        {
+          "id": "passage-en-00362",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIII. Establishing the Nature of Place"
+        },
+        {
+          "id": "passage-en-00392",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIV. Reply to Those Who Believe in a Vacuum"
+        },
+        {
+          "id": "passage-en-00408",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XV. Observations That Point to the Impossibility of a Vacuum"
+        },
+        {
+          "id": "passage-en-00426",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XVI. If a Vacuum Existed, It Could Not Attract or Repel Bodies"
+        },
+        {
+          "id": "passage-en-00433",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A Note"
+        },
+        {
+          "id": "passage-en-00442",
+          "level": 1,
+          "kind": "division",
+          "label": "Part Two: Quality"
+        },
+        {
+          "id": "passage-en-00444",
+          "level": 2,
+          "kind": "section",
+          "label": "Introduction: Defining Quality and Dividing It into Four Kinds"
+        },
+        {
+          "id": "passage-en-00469",
+          "level": 2,
+          "kind": "group",
+          "label": "Section One: Sensible Qualities (in five books)"
+        },
+        {
+          "id": "passage-en-00470",
+          "level": 3,
+          "kind": "group",
+          "label": "Book One: General Rules for This Group"
+        },
+        {
+          "id": "passage-en-00471",
+          "level": 4,
+          "kind": "chapter",
+          "label": "I. Its Shared Feature, Its Two Kinds, and Their Names"
+        },
+        {
+          "id": "passage-en-00479",
+          "level": 4,
+          "kind": "chapter",
+          "label": "II. Are Bodily Qualities Just Shapes or Mixtures?"
+        },
+        {
+          "id": "passage-en-00488",
+          "level": 3,
+          "kind": "group",
+          "label": "Book Two: Qualities We Feel by Touch"
+        },
+        {
+          "id": "passage-en-00490",
+          "level": 4,
+          "kind": "chapter",
+          "label": "I. What Heat and Cold Are"
+        },
+        {
+          "id": "passage-en-00503",
+          "level": 4,
+          "kind": "chapter",
+          "label": "II. The Nature of Innate Heat and Whether It Exists"
+        },
+        {
+          "id": "passage-en-00515",
+          "level": 4,
+          "kind": "chapter",
+          "label": "III. The Nature of Wetness and Dryness, and Whether They Exist"
+        },
+        {
+          "id": "passage-en-00531",
+          "level": 4,
+          "kind": "chapter",
+          "label": "IV. Fineness, Coarseness, Stickiness, Brittleness, Dampness, and Dryness"
+        },
+        {
+          "id": "passage-en-00537",
+          "level": 4,
+          "kind": "chapter",
+          "label": "V. Heaviness and Lightness"
+        },
+        {
+          "id": "passage-en-00565",
+          "level": 4,
+          "kind": "chapter",
+          "label": "VI. Qualities Often Mistaken for Qualities of Touch"
+        },
+        {
+          "id": "passage-en-00570",
+          "level": 3,
+          "kind": "group",
+          "label": "Book Three: Qualities We See"
+        },
+        {
+          "id": "passage-en-00571",
+          "level": 4,
+          "kind": "chapter",
+          "label": "I. Establishing That Colors Are Real"
+        },
+        {
+          "id": "passage-en-00585",
+          "level": 4,
+          "kind": "chapter",
+          "label": "II. Visible Light"
+        },
+        {
+          "id": "passage-en-00599",
+          "level": 4,
+          "kind": "chapter",
+          "label": "III. What Light Is and Its Different Kinds"
+        },
+        {
+          "id": "passage-en-00614",
+          "level": 4,
+          "kind": "chapter",
+          "label": "IV. The Difference Between Radiance, Light, Rays, Glints, Shadow, and Darkness, and Why Colors Become Actual Only When There Is Light"
+        },
+        {
+          "id": "passage-en-00620",
+          "level": 5,
+          "kind": "section",
+          "label": "1. Addendum"
+        },
+        {
+          "id": "passage-en-00622",
+          "level": 3,
+          "kind": "group",
+          "label": "Book Four: Qualities We Hear"
+        },
+        {
+          "id": "passage-en-00623",
+          "level": 4,
+          "kind": "chapter",
+          "label": "I. What Causes Sound"
+        },
+        {
+          "id": "passage-en-00626",
+          "level": 4,
+          "kind": "chapter",
+          "label": "II. Showing That Sound Exists Outside the Ear"
+        },
+        {
+          "id": "passage-en-00631",
+          "level": 4,
+          "kind": "chapter",
+          "label": "III. Why Sounds Are High or Low, and What Echo, Ringing, and Letters Are"
+        },
+        {
+          "id": "passage-en-00636",
+          "level": 4,
+          "kind": "chapter",
+          "label": "IV. How Letters Divide into Consonants and Vowels, and into Brief and Sustained Sounds"
+        },
+        {
+          "id": "passage-en-00642",
+          "level": 3,
+          "kind": "group",
+          "label": "Book Five: Taste and Smell, and Why They Are Properties of Things"
+        },
+        {
+          "id": "passage-en-00643",
+          "level": 4,
+          "kind": "chapter",
+          "label": "I. Tastes"
+        },
+        {
+          "id": "passage-en-00650",
+          "level": 4,
+          "kind": "chapter",
+          "label": "II. Smells"
+        },
+        {
+          "id": "passage-en-00653",
+          "level": 2,
+          "kind": "group",
+          "label": "Section Two: Power and the lack of power"
+        },
+        {
+          "id": "passage-en-00654",
+          "level": 3,
+          "kind": "chapter",
+          "label": "I. Three Kinds of Power"
+        },
+        {
+          "id": "passage-en-00663",
+          "level": 3,
+          "kind": "chapter",
+          "label": "II. A Closer Look at These Kinds"
+        },
+        {
+          "id": "passage-en-00674",
+          "level": 3,
+          "kind": "chapter",
+          "label": "III. Where Softness and Hardness Fit Among the Qualities"
+        },
+        {
+          "id": "passage-en-00683",
+          "level": 2,
+          "kind": "group",
+          "label": "Section Three: Qualities found in souls"
+        },
+        {
+          "id": "passage-en-00689",
+          "level": 3,
+          "kind": "chapter",
+          "label": "I. Power"
+        },
+        {
+          "id": "passage-en-00698",
+          "level": 3,
+          "kind": "chapter",
+          "label": "II. Will"
+        },
+        {
+          "id": "passage-en-00706",
+          "level": 3,
+          "kind": "chapter",
+          "label": "III. What Character Is and Its Kinds"
+        },
+        {
+          "id": "passage-en-00722",
+          "level": 3,
+          "kind": "chapter",
+          "label": "IV. What Pleasure and Pain Are"
+        },
+        {
+          "id": "passage-en-00757",
+          "level": 3,
+          "kind": "chapter",
+          "label": "V. Does All Pain Come from a Break in Continuity?"
+        },
+        {
+          "id": "passage-en-00785",
+          "level": 3,
+          "kind": "chapter",
+          "label": "VI. Which Bodily Imbalance Causes Pain?"
+        },
+        {
+          "id": "passage-en-00797",
+          "level": 3,
+          "kind": "chapter",
+          "label": "VII. Kinds of Pleasure, and Why Some Are Better"
+        },
+        {
+          "id": "passage-en-00812",
+          "level": 3,
+          "kind": "chapter",
+          "label": "VIII. Avicenna on Pleasure in the Senses, and a Reply to an Objection"
+        },
+        {
+          "id": "passage-en-00851",
+          "level": 3,
+          "kind": "chapter",
+          "label": "IX. Health and Illness as Qualities of the Soul"
+        },
+        {
+          "id": "passage-en-00865",
+          "level": 3,
+          "kind": "chapter",
+          "label": "X. The State Between Health and Illness"
+        },
+        {
+          "id": "passage-en-00872",
+          "level": 3,
+          "kind": "chapter",
+          "label": "XI. Joy, Grief, and Other Emotions"
+        },
+        {
+          "id": "passage-en-00880",
+          "level": 3,
+          "kind": "chapter",
+          "label": "XII. Causes of Joy and Grief"
+        },
+        {
+          "id": "passage-en-00899",
+          "level": 3,
+          "kind": "chapter",
+          "label": "XIII. Weakness and Strength of Heart, Distress and Vigor"
+        },
+        {
+          "id": "passage-en-00906",
+          "level": 3,
+          "kind": "chapter",
+          "label": "XIV. How Emotions Affect the Body"
+        },
+        {
+          "id": "passage-en-00913",
+          "level": 3,
+          "kind": "chapter",
+          "label": "XV. How Emotions Relate to the Blood"
+        },
+        {
+          "id": "passage-en-00925",
+          "level": 2,
+          "kind": "group",
+          "label": "Section Four: Qualities of quantity: three articles and two preliminary questions"
+        },
+        {
+          "id": "passage-en-00935",
+          "level": 3,
+          "kind": "group",
+          "label": "Article One: Straightness and Circularity"
+        },
+        {
+          "id": "passage-en-00936",
+          "level": 4,
+          "kind": "chapter",
+          "label": "I. What They Are"
+        },
+        {
+          "id": "passage-en-00941",
+          "level": 4,
+          "kind": "chapter",
+          "label": "II. What a Circle Is, and How We Know It Exists"
+        },
+        {
+          "id": "passage-en-00954",
+          "level": 4,
+          "kind": "chapter",
+          "label": "III. Straight and Curved Lines Differ in Kind"
+        },
+        {
+          "id": "passage-en-00962",
+          "level": 4,
+          "kind": "chapter",
+          "label": "IV. Straight and Curved Are Not Opposites"
+        },
+        {
+          "id": "passage-en-00965",
+          "level": 4,
+          "kind": "chapter",
+          "label": "V. Can a Straight Line and a Curve Be Compared?"
+        },
+        {
+          "id": "passage-en-00972",
+          "level": 3,
+          "kind": "group",
+          "label": "Article Two: Shape"
+        },
+        {
+          "id": "passage-en-00973",
+          "level": 4,
+          "kind": "chapter",
+          "label": "I. Its Definition"
+        },
+        {
+          "id": "passage-en-00980",
+          "level": 4,
+          "kind": "chapter",
+          "label": "II. Is Shape a Quality or a Position?"
+        },
+        {
+          "id": "passage-en-00988",
+          "level": 4,
+          "kind": "chapter",
+          "label": "III. What Kind of Thing Is an Angle?"
+        },
+        {
+          "id": "passage-en-00996",
+          "level": 4,
+          "kind": "chapter",
+          "label": "IV. Is an Angle a Quantity or a Quality?"
+        },
+        {
+          "id": "passage-en-01006",
+          "level": 4,
+          "kind": "chapter",
+          "label": "V. Why Shapes Have No Degrees or Opposites"
+        },
+        {
+          "id": "passage-en-01012",
+          "level": 3,
+          "kind": "group",
+          "label": "Article Three: Overall Appearance and Number Qualities"
+        },
+        {
+          "id": "passage-en-01013",
+          "level": 4,
+          "kind": "chapter",
+          "label": "I. Overall Appearance (Question Five)"
+        },
+        {
+          "id": "passage-en-01019",
+          "level": 4,
+          "kind": "chapter",
+          "label": "II. Can Attributes Have General and Specific Parts?"
+        },
+        {
+          "id": "passage-en-01028",
+          "level": 4,
+          "kind": "chapter",
+          "label": "III. Features and Qualities of Numbers"
+        },
+        {
+          "id": "passage-en-01033",
+          "level": 1,
+          "kind": "division",
+          "label": "Part Three: The remaining categories"
+        },
+        {
+          "id": "passage-en-01034",
+          "level": 2,
+          "kind": "group",
+          "label": "Article One: Relation"
+        },
+        {
+          "id": "passage-en-01035",
+          "level": 3,
+          "kind": "chapter",
+          "label": "I. Starting the Discussion of Relations"
+        },
+        {
+          "id": "passage-en-01041",
+          "level": 3,
+          "kind": "chapter",
+          "label": "II. What a True Relation Is"
+        },
+        {
+          "id": "passage-en-01047",
+          "level": 3,
+          "kind": "chapter",
+          "label": "III. Properties of Both Sides of a Relation"
+        },
+        {
+          "id": "passage-en-01065",
+          "level": 3,
+          "kind": "chapter",
+          "label": "IV. What the Category of Relation Itself Means"
+        },
+        {
+          "id": "passage-en-01071",
+          "level": 3,
+          "kind": "chapter",
+          "label": "V. Does Relation Exist Outside the Mind?"
+        },
+        {
+          "id": "passage-en-01078",
+          "level": 3,
+          "kind": "chapter",
+          "label": "VI. How Relation Exists in the Outside World"
+        },
+        {
+          "id": "passage-en-01095",
+          "level": 3,
+          "kind": "chapter",
+          "label": "VII. When One Side of a Relation Becomes Specific, So Does the Other"
+        },
+        {
+          "id": "passage-en-01101",
+          "level": 3,
+          "kind": "chapter",
+          "label": "VIII. Different Ways to Classify Relations"
+        },
+        {
+          "id": "passage-en-01107",
+          "level": 3,
+          "kind": "chapter",
+          "label": "IX. Can Relations Be Opposites or Have Degrees?"
+        },
+        {
+          "id": "passage-en-01112",
+          "level": 3,
+          "kind": "chapter",
+          "label": "X. Universal and Particular, Essential and Accidental"
+        },
+        {
+          "id": "passage-en-01128",
+          "level": 2,
+          "kind": "group",
+          "label": "Article Two: The Remaining Categories"
+        },
+        {
+          "id": "passage-en-01129",
+          "level": 3,
+          "kind": "chapter",
+          "label": "I. What “Where” Means"
+        },
+        {
+          "id": "passage-en-01135",
+          "level": 3,
+          "kind": "chapter",
+          "label": "II. Different Kinds of “Where”"
+        },
+        {
+          "id": "passage-en-01140",
+          "level": 3,
+          "kind": "chapter",
+          "label": "III. Further Features of “Where”"
+        },
+        {
+          "id": "passage-en-01144",
+          "level": 3,
+          "kind": "chapter",
+          "label": "IV. What “When” Means and Its Kinds"
+        },
+        {
+          "id": "passage-en-01150",
+          "level": 3,
+          "kind": "chapter",
+          "label": "V. Position"
+        },
+        {
+          "id": "passage-en-01161",
+          "level": 3,
+          "kind": "chapter",
+          "label": "VI. Possession"
+        },
+        {
+          "id": "passage-en-01164",
+          "level": 3,
+          "kind": "chapter",
+          "label": "VII. The Categories of Acting and Being Acted On"
+        },
+        {
+          "id": "passage-en-01170",
+          "level": 3,
+          "kind": "chapter",
+          "label": "VIII. Answering an Objection to the Existence of These Categories"
+        },
+        {
+          "id": "passage-en-01181",
+          "level": 1,
+          "kind": "division",
+          "label": "Part Four: Substance"
+        },
+        {
+          "id": "passage-en-01183",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. Examining the Nature of Substance and Accident"
+        },
+        {
+          "id": "passage-en-01203",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. Defining Accident"
+        },
+        {
+          "id": "passage-en-01232",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. Defining Substance: Existing Not in a Subject"
+        },
+        {
+          "id": "passage-en-01243",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. Is “Substance” Predicated of Its Subordinates as a Broader kind?"
+        },
+        {
+          "id": "passage-en-01257",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Discussion and Clarification"
+        },
+        {
+          "id": "passage-en-01308",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. Why Some Substances Are More Basic Than Others"
+        },
+        {
+          "id": "passage-en-01337",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VI. The Properties of Substance"
+        },
+        {
+          "id": "passage-en-01345",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A Closer Look"
+        },
+        {
+          "id": "passage-en-01352",
+          "level": 3,
+          "kind": "section",
+          "label": "2. A Note"
+        },
+        {
+          "id": "passage-en-01376",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VII. Why One Thing Cannot Be Both Substance and Accident"
+        },
+        {
+          "id": "passage-en-01388",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A Difficulty and Its Solution"
+        },
+        {
+          "id": "en-notes-head",
+          "level": 1,
+          "kind": "notes"
+        }
+      ]
+    },
+    "ar": {
+      "sourceHash": "5b6e56fccad17c7b62d4eb5f1291c474d5ee41d77a6e33d4b222657dc4fcb2ec",
+      "entries": [
+        {
+          "id": "passage-ar-00005",
+          "level": 1,
+          "kind": "opening",
+          "label": "الصفحات الافتتاحية"
+        },
+        {
+          "id": "passage-ar-00136",
+          "level": 2,
+          "kind": "section",
+          "label": "المرحلة في علم الطبيعي"
+        },
+        {
+          "id": "passage-ar-00140",
+          "level": 3,
+          "kind": "section",
+          "label": "عقده وحل"
+        },
+        {
+          "id": "passage-ar-00149",
+          "level": 1,
+          "kind": "division",
+          "label": "الفن الأول: في مقولة الكم",
+          "expanded": false
+        },
+        {
+          "id": "passage-ar-00150",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في تعديد الخواص التي بها يمكن معرفه مهية الكم المطلق"
+        },
+        {
+          "id": "passage-ar-00155",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في الفرق بين المقدار والجسمية وذلك من ستة أوجه أربعة منها مبنية على نفى الجزء الذي لا يتجزى"
+        },
+        {
+          "id": "passage-ar-00163",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في تقسم الكم إلى المتصل والمنفصل"
+        },
+        {
+          "id": "passage-ar-00168",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في تقسيم آخر للكم وهو التقسيم إلى ذي وضع وغير ذي وضع"
+        },
+        {
+          "id": "passage-ar-00171",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. فيما ليس بكم بالذات وانما هو بالعرض وهو على وجوه أربعة"
+        },
+        {
+          "id": "passage-ar-00175",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٦. في أن الكم لا ضد له"
+        },
+        {
+          "id": "passage-ar-00179",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٧. في أن الكم لا يقبل الاشتداد والتضعف"
+        },
+        {
+          "id": "passage-ar-00183",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٨. في اثبات تناهى الابعاد وعليه براهين كثيرة نذكر منها ثلثه"
+        },
+        {
+          "id": "passage-ar-00200",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٩. في بقيه احكام اللانهاية وهي خمسه أبحاث"
+        },
+        {
+          "id": "passage-ar-00204",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٠. في أن المقادير هل يمكن تجردها عن المادة وفي احكام أخرى بين الثلاثة"
+        },
+        {
+          "id": "passage-ar-00207",
+          "level": 3,
+          "kind": "section",
+          "label": "١. عقده وحل عرشي"
+        },
+        {
+          "id": "passage-ar-00213",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١١. في مباحث أخرى متعلقه بالمقادير"
+        },
+        {
+          "id": "passage-ar-00219",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٢. في المكان وآنيته"
+        },
+        {
+          "id": "passage-ar-00226",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٣. في تحقيق مهية المكان"
+        },
+        {
+          "id": "passage-ar-00238",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٤. في الرد على القائلين بالخلا وهم طائفتان"
+        },
+        {
+          "id": "passage-ar-00247",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٥. في ذكر امارات استبصارية تدل على بطلان الخلا"
+        },
+        {
+          "id": "passage-ar-00255",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٦. في أن الخلا لو ثبت لم يكن فيه قوة جاذبه ولا دافعه للأجسام"
+        },
+        {
+          "id": "passage-ar-00259",
+          "level": 3,
+          "kind": "section",
+          "label": "١. تذنيب"
+        },
+        {
+          "id": "passage-ar-00262",
+          "level": 1,
+          "kind": "division",
+          "label": "الفن الثاني: في مقولة الكيف"
+        },
+        {
+          "id": "passage-ar-00264",
+          "level": 2,
+          "kind": "section",
+          "label": "المقدمة في رسم الكيف وتقسيمه إلى أنواعه الأربعة"
+        },
+        {
+          "id": "passage-ar-00278",
+          "level": 2,
+          "kind": "group",
+          "label": "القسم الأول: في الكيفيات المحسوسة وفيه خمسه أبواب"
+        },
+        {
+          "id": "passage-ar-00279",
+          "level": 3,
+          "kind": "group",
+          "label": "الباب الأول: في احكام كليه لهذا القسم وفيه فصول"
+        },
+        {
+          "id": "passage-ar-00280",
+          "level": 4,
+          "kind": "chapter",
+          "label": "١. في خاصيته وفي تقسيمه بقسميه وسبب التسمية"
+        },
+        {
+          "id": "passage-ar-00285",
+          "level": 4,
+          "kind": "chapter",
+          "label": "٢. في الرد على القول بان كيفيات الأجسام نفس اشكالها وبأنها نفس الأمزجة"
+        },
+        {
+          "id": "passage-ar-00290",
+          "level": 3,
+          "kind": "group",
+          "label": "الباب الثاني: في الكيفيات الملموسة"
+        },
+        {
+          "id": "passage-ar-00292",
+          "level": 4,
+          "kind": "chapter",
+          "label": "١. في حد الحرارة والبرودة"
+        },
+        {
+          "id": "passage-ar-00298",
+          "level": 4,
+          "kind": "chapter",
+          "label": "٢. في مهية الحرارة الغريزية وآنيتها"
+        },
+        {
+          "id": "passage-ar-00305",
+          "level": 4,
+          "kind": "chapter",
+          "label": "٣. في مهية الرطوبة واليبوسة وآنيتهما"
+        },
+        {
+          "id": "passage-ar-00314",
+          "level": 4,
+          "kind": "chapter",
+          "label": "٤. في اللطافة والكثافة واللزوجة والهشاشة والبله والجفاف"
+        },
+        {
+          "id": "passage-ar-00318",
+          "level": 4,
+          "kind": "chapter",
+          "label": "٥. في الثقيل والخفيف وفيه مباحث"
+        },
+        {
+          "id": "passage-ar-00334",
+          "level": 4,
+          "kind": "chapter",
+          "label": "٦. فيما يظن دخوله في الكيفيات اللمسية وليس منها فمن"
+        },
+        {
+          "id": "passage-ar-00337",
+          "level": 3,
+          "kind": "group",
+          "label": "الباب الثالث: في الكيفيات المبصرة وفيه فصول"
+        },
+        {
+          "id": "passage-ar-00338",
+          "level": 4,
+          "kind": "chapter",
+          "label": "١. في اثبات الألوان"
+        },
+        {
+          "id": "passage-ar-00347",
+          "level": 4,
+          "kind": "chapter",
+          "label": "٢. في النور المحسوس"
+        },
+        {
+          "id": "passage-ar-00353",
+          "level": 4,
+          "kind": "chapter",
+          "label": "٣. في حقيقة النور وأقسامه"
+        },
+        {
+          "id": "passage-ar-00363",
+          "level": 4,
+          "kind": "chapter",
+          "label": "٤. في الفرق بين الضوء والنور والشعاع والبريق والظل والظلمة وفي ان الألوان انما تحدث بالفعل عند حصول"
+        },
+        {
+          "id": "passage-ar-00368",
+          "level": 5,
+          "kind": "section",
+          "label": "١. تذنيب"
+        },
+        {
+          "id": "passage-ar-00370",
+          "level": 3,
+          "kind": "group",
+          "label": "الباب الرابع: في الكيفيات المسموعة وفيه فصول"
+        },
+        {
+          "id": "passage-ar-00371",
+          "level": 4,
+          "kind": "chapter",
+          "label": "١. في علة حدوث الصوت"
+        },
+        {
+          "id": "passage-ar-00373",
+          "level": 4,
+          "kind": "chapter",
+          "label": "٢. في اثبات وجود الصوت في الخارج"
+        },
+        {
+          "id": "passage-ar-00377",
+          "level": 4,
+          "kind": "chapter",
+          "label": "٣. في سبب ثقل الصوت وحدته ومعنى الصداء والطنين والحرف"
+        },
+        {
+          "id": "passage-ar-00381",
+          "level": 4,
+          "kind": "chapter",
+          "label": "٤. في تقسيم الحروف إلى صامت ومصوت والى آني وزماني"
+        },
+        {
+          "id": "passage-ar-00385",
+          "level": 3,
+          "kind": "group",
+          "label": "الباب الخامس: في الكيفية المذوقة والمشمومات وفي اثبات عرضيتهما وفيه فصول"
+        },
+        {
+          "id": "passage-ar-00386",
+          "level": 4,
+          "kind": "chapter",
+          "label": "١. في الطعوم"
+        },
+        {
+          "id": "passage-ar-00390",
+          "level": 4,
+          "kind": "chapter",
+          "label": "٢. في الروائح المشمومة"
+        },
+        {
+          "id": "passage-ar-00392",
+          "level": 2,
+          "kind": "group",
+          "label": "القسم الثاني: من الأقسام الأربعة التي للكيف القوة واللا قوة وفيه فصول"
+        },
+        {
+          "id": "passage-ar-00393",
+          "level": 3,
+          "kind": "chapter",
+          "label": "١. في أنواعه"
+        },
+        {
+          "id": "passage-ar-00397",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٢. في تحقيق ما ذكرناه بوجه تفصيلي"
+        },
+        {
+          "id": "passage-ar-00404",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٣. في تحقيق ان اللين والصلابة من أي جنس من أجناس الكيف"
+        },
+        {
+          "id": "passage-ar-00409",
+          "level": 2,
+          "kind": "group",
+          "label": "القسم الثالث: في الكيفيات التي توجد في ذوات الأنفس"
+        },
+        {
+          "id": "passage-ar-00414",
+          "level": 3,
+          "kind": "chapter",
+          "label": "١. في القدرة"
+        },
+        {
+          "id": "passage-ar-00418",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٢. في الإرادة"
+        },
+        {
+          "id": "passage-ar-00422",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٣. في حد الخلق وأقسامه"
+        },
+        {
+          "id": "passage-ar-00429",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٤. في حقيقة الألم واللذة"
+        },
+        {
+          "id": "passage-ar-00445",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٥. في ابطال القول بان المؤلم الموجع في الجميع هو تفرق الاتصال"
+        },
+        {
+          "id": "passage-ar-00458",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٦. في أن المؤلم أي نوع من سوء المزاج"
+        },
+        {
+          "id": "passage-ar-00464",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٧. في تفصيل اللذات وتفضيل بعضها على بعض"
+        },
+        {
+          "id": "passage-ar-00474",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٨. في تعقيب ما قاله الشيخ في لذة الحواس وحل ما يشكل فيه"
+        },
+        {
+          "id": "passage-ar-00497",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٩. في الصحة والمرض وهما من الكيفيات النفسانية"
+        },
+        {
+          "id": "passage-ar-00505",
+          "level": 3,
+          "kind": "chapter",
+          "label": "١٠. في الواسطة بين الصحة والمرض"
+        },
+        {
+          "id": "passage-ar-00509",
+          "level": 3,
+          "kind": "chapter",
+          "label": "١١. في الفرح والغم وغيرهما"
+        },
+        {
+          "id": "passage-ar-00513",
+          "level": 3,
+          "kind": "chapter",
+          "label": "١٢. في أسباب الفرح والغم"
+        },
+        {
+          "id": "passage-ar-00523",
+          "level": 3,
+          "kind": "chapter",
+          "label": "١٣. في ضعف القلب وقوته والفرق بين الأول وبين التوحش وكذا بين الثاني وبين النشاط"
+        },
+        {
+          "id": "passage-ar-00527",
+          "level": 3,
+          "kind": "chapter",
+          "label": "١٤. في سبب عروض هذه العوارض البدنية لأجل تكيف النفس بتلك الكيفيات النفسانية"
+        },
+        {
+          "id": "passage-ar-00531",
+          "level": 3,
+          "kind": "chapter",
+          "label": "١٥. في مناسبة ما بين شئ من تلك الكيفيات النفسانية وبين الدم"
+        },
+        {
+          "id": "passage-ar-00540",
+          "level": 2,
+          "kind": "group",
+          "label": "القسم الرابع: في الكيفيات المختصة بالكميات وفيه ثلث مقالات وقبل الشروع فيها نورد بحثين"
+        },
+        {
+          "id": "passage-ar-00548",
+          "level": 3,
+          "kind": "group",
+          "label": "المقالة الأولى: في الاستقامة والاستدارة وفيه فصول"
+        },
+        {
+          "id": "passage-ar-00549",
+          "level": 4,
+          "kind": "chapter",
+          "label": "١. في حقيقتهما"
+        },
+        {
+          "id": "passage-ar-00553",
+          "level": 4,
+          "kind": "chapter",
+          "label": "٢. في معرفه الدائرة واثبات وجودها"
+        },
+        {
+          "id": "passage-ar-00559",
+          "level": 4,
+          "kind": "chapter",
+          "label": "٣. في أن المستقيم والمستدير يتخالفان نوعا وتحقيق ان الكيفية"
+        },
+        {
+          "id": "passage-ar-00565",
+          "level": 4,
+          "kind": "chapter",
+          "label": "٤. في أن المستقيم والمستدير ليسا متضادين"
+        },
+        {
+          "id": "passage-ar-00568",
+          "level": 4,
+          "kind": "chapter",
+          "label": "٥. فيما قيل من منع النسبة بين المستقيم والمستدير من المساواة والمفاضلة"
+        },
+        {
+          "id": "passage-ar-00573",
+          "level": 3,
+          "kind": "group",
+          "label": "المقالة الثانية: في الشكل وفيه فصول"
+        },
+        {
+          "id": "passage-ar-00574",
+          "level": 4,
+          "kind": "chapter",
+          "label": "١. في تعريفه"
+        },
+        {
+          "id": "passage-ar-00580",
+          "level": 4,
+          "kind": "chapter",
+          "label": "٢. في أن الهيئة المذكورة هل هي من الكيف أو من الوضع"
+        },
+        {
+          "id": "passage-ar-00586",
+          "level": 4,
+          "kind": "chapter",
+          "label": "٣. في حال الزاوية وانها من أي مقولة هي وهو البحث الرابع"
+        },
+        {
+          "id": "passage-ar-00592",
+          "level": 4,
+          "kind": "chapter",
+          "label": "٤. في احتجاج كل من الفريقين في امر الزاوية انها كم أو كيف"
+        },
+        {
+          "id": "passage-ar-00599",
+          "level": 4,
+          "kind": "chapter",
+          "label": "٥. في نفى الأشد والأضعف والتضاد في الاشكال"
+        },
+        {
+          "id": "passage-ar-00603",
+          "level": 3,
+          "kind": "group",
+          "label": "المقالة الثالثة: في حال الخلقة وكيفيات الاعداد وفيه فصول"
+        },
+        {
+          "id": "passage-ar-00604",
+          "level": 4,
+          "kind": "chapter",
+          "label": "١. في حال الخلقة وهو البحث الخامس"
+        },
+        {
+          "id": "passage-ar-00607",
+          "level": 4,
+          "kind": "chapter",
+          "label": "٢. في أنه هل يجوز تركيب في الاعراض من أجناس وفصول أو مادة وصوره عقليتين"
+        },
+        {
+          "id": "passage-ar-00614",
+          "level": 4,
+          "kind": "chapter",
+          "label": "٣. في خواص الاعداد وكيفياتها"
+        },
+        {
+          "id": "passage-ar-00617",
+          "level": 1,
+          "kind": "division",
+          "label": "الفن الثالث: في بقيه المقولات العرضية"
+        },
+        {
+          "id": "passage-ar-00618",
+          "level": 2,
+          "kind": "group",
+          "label": "المقالة الأولى: في المضاف وفيه فصول"
+        },
+        {
+          "id": "passage-ar-00619",
+          "level": 3,
+          "kind": "chapter",
+          "label": "١. في ابتداء الكلام في المضاف"
+        },
+        {
+          "id": "passage-ar-00623",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٢. في تحقيق المضاف الحقيقي"
+        },
+        {
+          "id": "passage-ar-00629",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٣. في خواص طرفي الإضافة"
+        },
+        {
+          "id": "passage-ar-00643",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٤. في تحصيل المعنى الذي هو نفس مقولة المضاف الذي هو أحد الأجناس العشرة العالية"
+        },
+        {
+          "id": "passage-ar-00648",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٥. في أن الإضافة هل تكون موجودة في الخارج أم لا"
+        },
+        {
+          "id": "passage-ar-00655",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٦. في نحو وجود المضاف في الخارج"
+        },
+        {
+          "id": "passage-ar-00665",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٧. في أن تحصل كل من المتضائفين كتحصل الاخر إن كان جنسا فجنس وان نوعا فنوع وان صنفا فصنف وان شخصا فشخص"
+        },
+        {
+          "id": "passage-ar-00668",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٨. في تقسيم المضاف من وجوه"
+        },
+        {
+          "id": "passage-ar-00672",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٩. في أن المضاف هل يقبل التضاد والأشد والأضعف أم لا"
+        },
+        {
+          "id": "passage-ar-00678",
+          "level": 3,
+          "kind": "chapter",
+          "label": "١٠. في الكلى والجزئي والذاتي والعرضي"
+        },
+        {
+          "id": "passage-ar-00689",
+          "level": 2,
+          "kind": "group",
+          "label": "المقالة الثانية: في بقيه المقولات وفيه فصول"
+        },
+        {
+          "id": "passage-ar-00690",
+          "level": 3,
+          "kind": "chapter",
+          "label": "١. في حقيقة الأين"
+        },
+        {
+          "id": "passage-ar-00695",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٢. في تقسيم الأين"
+        },
+        {
+          "id": "passage-ar-00699",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٣. في تتمه أحوال الأين"
+        },
+        {
+          "id": "passage-ar-00702",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٤. في حقيقة متى وأنواعه من جمله ما عد من المقولات متى وهو كون الشئ في زمان واحد أو في حد منه"
+        },
+        {
+          "id": "passage-ar-00707",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٥. في الوضع"
+        },
+        {
+          "id": "passage-ar-00715",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٦. في الجدة"
+        },
+        {
+          "id": "passage-ar-00717",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٧. في مقولتي ان يفعل وان ينفعل"
+        },
+        {
+          "id": "passage-ar-00721",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٨. في دفع ما أورد على موجوديتهما"
+        },
+        {
+          "id": "passage-ar-00730",
+          "level": 1,
+          "kind": "division",
+          "label": "الفن الرابع: في البحث عن احكام الجواهر"
+        },
+        {
+          "id": "passage-ar-00732",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في تحقيق مهيتهما"
+        },
+        {
+          "id": "passage-ar-00746",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في تعريف العرض"
+        },
+        {
+          "id": "passage-ar-00763",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في رسم الجوهر وهو الموجود لا في موضوع"
+        },
+        {
+          "id": "passage-ar-00772",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في أن حمل معنى الجوهر على ما تحته حمل الجنس أم لا"
+        },
+        {
+          "id": "passage-ar-00780",
+          "level": 3,
+          "kind": "section",
+          "label": "١. بحث وكشف"
+        },
+        {
+          "id": "passage-ar-00807",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في كون بعض الجواهر أول وأولى من بعض"
+        },
+        {
+          "id": "passage-ar-00821",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٦. في ذكر خواص الجوهر"
+        },
+        {
+          "id": "passage-ar-00826",
+          "level": 3,
+          "kind": "section",
+          "label": "١. بحث وتحقيق"
+        },
+        {
+          "id": "passage-ar-00830",
+          "level": 3,
+          "kind": "section",
+          "label": "٢. تنبيه"
+        },
+        {
+          "id": "passage-ar-00843",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٧. في استحالة ان يكون موجود واحد جوهرا وعرضا"
+        },
+        {
+          "id": "passage-ar-00850",
+          "level": 3,
+          "kind": "section",
+          "label": "١. عقده وحل"
+        },
+        {
+          "id": "ar-notes-head",
+          "level": 1,
+          "kind": "notes"
+        }
+      ]
+    }
+  }
+}

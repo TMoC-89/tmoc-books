@@ -5,78 +5,81 @@
 **Mulla Sadra (Ṣadr al-Dīn Muḥammad al-Shīrāzī)**
 
 ## Contents
-- The Seventh Station of the Third Journey — God as Speaker and the Meaning of Speech and the Book
-  - Chapter 1 — What it means to speak
-  - Chapter — The purpose of speech
-  - Chapter — The difference between speech and the Book, and between speaking and writing
-  - Chapter — How speech and the Book correspond
-  - Chapter — The beginning and end of speech and the Book
-  - Chapter — Why God sent down Books and sent messengers to creation
-  - Chapter — How speech descends and revelation comes from God through the angel to the Prophet’s heart and then to creation, as it emerges from the unseen into the visible
-  - Chapter — Unveiling the Book and revealing the secret and spirit of speech to people of understanding
-  - Chapter — Examining the saying of the Commander of the Faithful, the leader of those who affirm God’s oneness: “All of the Qur'an is in the bāʾ of ‘In the name of God,’ and I am the dot beneath the bāʾ”
-  - Chapter — The difference between God’s Book that is created and His Book that creates
-  - Chapter — The Prophet’s saying that the Qur'an has an outer meaning, an inner meaning, a limit, and a point of arrival
-  - Chapter — Clarifying that the Book’s inner core is known only to God’s people, those with insight and understanding
-  - Chapter — Describing the Qur'an through symbols and signs
-  - Chapter — The books that record what is erased and what is made firm
-  - Chapter — The Qur'an’s names and descriptions
-- Station Eight — Divine care and mercy for all things
-  - Chapter — On providence
-  - Chapter — Good and evil
-  - Kind One — Harm suffered directly from the harmful thing
-    - Chapter — Five possible ways good and evil can be combined
-    - Chapter — Why the kinds of evil just described exist only in the world of change and decay
-    - Chapter — How evils enter God’s decree
-    - Chapter — Answering objections about good and evil
-    - Chapter — Why what people call evils occur in this world
-    - Chapter — The relative amounts of good and evil
-    - Chapter — In general, the visible world is made in the best and fullest way possible, like the intelligible world
-    - Chapter — In detail, every level of created beings is the best and noblest possible; two approaches, from cause to effect and from effect to cause
-      - Discussion One — Why everything at the beginning of creation has the best possible existence
-      - Discussion Two — Why things that return, and things that come into being, are arranged in the best way
-      - Discussion Three — Why the universe as a whole has the most complete order
-    - Chapter — A few signs of God’s wisdom and care in creating the heavens and earth
-    - Chapter — An example of His care in creating compound beings
-    - Chapter — Signs of God’s wisdom and care in creating the human being
-    - Chapter — God’s care in creating the earth and what it contains for human benefit
-    - Chapter — The wonders of God’s work in the celestial bodies and the lights of the stars
-    - Chapter — All beings love God, long to meet Him, and seek His home of honor
-    - Chapter — Another way to show that love runs through all things
-    - Chapter — The beloved is one in the end, but each kind has its own near beloved
-    - Chapter — On the separate forms that serve as models
-    - Chapter — Why refined men and youths love beautiful faces
-    - Chapter — The things beings love differ with their levels of existence
-    - Chapter — People differ in what they love
-    - Chapter — Divine love belongs especially to perfected mystics and saints who have reached God
-- Station Nine — God’s creative act and the existence of separate intellectual beings
-  - Chapter — Preliminary principles for identifying the first things that come from God and the existence proper to each
-  - Chapter — The first thing to come from the First Reality must be one
-  - Chapter — Another proof that the first thing to come from the First Reality must be one
-  - Chapter — Objections to this rule and replies to them
-  - Chapter — Another argument that the first thing to come from the First Reality is simple and one
-  - Chapter — The principle that the nobler possible being comes before the lower one
-  - Chapter — What follows from the principles established so far
-- Station Ten — God’s unceasing generosity and eternal power
-  - Chapter — Why this question matters, and why God’s unceasing giving is compatible with a world that comes into being and changes
-  - Chapter — Another proof that bodies come into being
-  - Chapter — The theologians’ arguments and some of their views on this question
-  - Chapter — Some arguments used by theologians and religious communities to show that God’s outpouring stops
-  - Chapter — How to reconcile revelation and philosophy on God’s unceasing giving and the world’s coming into being
+
+- Station Seven: God as speaker, and the meaning of speech and the Book
+  - I. What it means to speak
+  - II. The purpose of speech
+  - III. The difference between speech and the Book, and between speaking and writing
+  - IV. How speech and the Book correspond
+  - V. The beginning and end of speech and the Book
+  - VI. Why God sent down Books and sent messengers to creation
+  - VII. How speech descends and revelation comes from God through the angel to the Prophet’s heart and then to creation, as it emerges from the unseen into the visible
+  - VIII. Uncovering the Book and revealing the inner meaning and spirit of speech to those who understand
+  - IX. Understanding the saying of the Commander of the Faithful, the leader of those who affirm God’s oneness: “All of the Qur'an is in the bāʾ of ‘In the name of God,’ and I am the dot beneath the bāʾ”
+  - X. The difference between God’s Book that is created and His Book that creates
+  - XI. The Prophet’s saying that the Qur'an has an outer meaning, an inner meaning, a limit, and a point of arrival
+  - XII. Clarifying that the Book’s inner core is known only to God’s people, those with insight and understanding
+  - XIII. Describing the Qur'an through symbols and signs
+  - XIV. The books that record what is erased and what is made firm
+  - XV. The Qur'an’s names and descriptions
+- Station Eight: Divine care and mercy for all things
+  - I. On providence
+  - II. Good and evil
+    - Kind One: Harm suffered directly from the harmful thing
+  - III. Five possible ways good and evil can be combined
+  - IV. Why the kinds of evil just described exist only in the world of change and decay
+  - V. How evils enter God’s decree
+  - VI. Answering objections about good and evil
+  - VII. Why what people call evils occur in this world
+  - VIII. The relative amounts of good and evil
+  - IX. The visible world, like the world understood by the mind, is made as well and as fully as it can be
+  - X. In detail, every level of created beings is the best and noblest possible; two approaches, from cause to effect and from effect to cause
+    - First approach: from cause to effect
+      - 1. Everything in the descending order exists in the best possible way
+      - 2. The beings and generated things that rise through the world of composition are perfectly ordered
+      - 3. The world as a whole, in kind and in individual reality, has the best order and fullest completion
+    - Second approach: from effect to cause
+  - XI. A few signs of God’s wisdom and care in creating the heavens and earth
+  - XII. An example of His care in creating compound beings
+  - XIII. Signs of God’s wisdom and care in creating the human being
+  - XIV. God’s care in creating the earth and what it contains for human benefit
+  - XV. The wonders of God’s work in the celestial bodies and the lights of the stars
+  - XVI. All beings love God, long to meet Him, and seek His home of honor
+  - XVII. Another way to show that love runs through all things
+  - XVIII. The beloved is one in the end, but each kind has its own near beloved
+  - XIX. On the separate forms that serve as models
+  - XX. Why refined men and youths love beautiful faces
+  - XXI. The things beings love differ with their levels of existence
+  - XXII. People differ in what they love
+  - XXIII. Divine love belongs especially to perfected mystics and saints who have reached God
+- Station Nine: God’s creative act and the existence of beings whose existence does not depend on physical matter
+  - I. Preliminary principles for identifying the first things that come from God and the existence proper to each
+  - II. The first thing to come from the First Reality must be one
+  - III. Another proof that the first thing to come from the First Reality must be one
+  - IV. Objections to this rule and replies to them
+  - V. Another argument that the first thing to come from the First Reality is simple and one
+  - VI. The principle that the nobler possible being comes before the lower one
+  - VII. What follows from the principles established so far
+- Station Ten: God’s unceasing generosity and eternal power
+  - I. Why this question matters, and why God’s unceasing giving is compatible with a world that comes into being and changes
+  - II. Another proof that bodies come into being
+  - III. The theologians’ arguments and some of their views on this question
+  - IV. Some arguments used by theologians and religious communities to show that God’s outpouring stops
+  - V. How to reconcile revelation and philosophy on God’s unceasing giving and the world’s coming into being
 
 In the name of God, the Most Compassionate, the Most Merciful.
 
-### Station Seven — God as speaker, and the meaning of speech and the Book
+### Station Seven: God as speaker, and the meaning of speech and the Book
 
 The chapters that follow explain speech and the Book, and the difference between them, as God has inspired me to do.
 
-#### Chapter 1 — What it means to speak
+#### I. What it means to speak
 
 Know that speaking is an inward power of the speaker[^V07-1] that has an effect.[^V07-2] The word comes from a root meaning “to wound,” and speaking serves to make something known and bring it to light.[^V07-3] So when someone says that speech is an attribute of the speaker, they mean the quality of speaking itself.[^V07-4] When they say that speech exists in the speaker, they mean that speaking is something the speaker does, not an added quality that simply resides in the speaker.[^V07-5] And when they define a speaker as one who brings speech into being, they mean ordinary speech: it happens within the speaker when the mouth moves, not when it is still.[^V07-6] It is the breath that comes out from within the speaker as he speaks. It is not something separate from him, as a book is separate from its writer or an image from its maker. If it were separate, it would be writing or depiction, not speaking and explaining.
 
 One of the knowers said: “The first word to open the ears of possible beings was ‘Be!’”—a word that brings existence.[^V07-7] The world appeared through speech; indeed, the whole world is made up of different kinds of speech,[^V07-8] arranged in twenty-eight levels within the Breath of the All-Merciful.[^V07-9] This Breath is the outpouring of existence from the source of generosity and mercy. Possible beings are stages in the way this outpouring takes shape. Beings that exist through intellect rather than physical matter are lofty letters, God’s complete words that never pass away or diminish.[^V07-10] Bodily substances are like combinations of nouns and verbs: they can be broken apart and decay. Their lasting qualities and passing features are like the structure and endings of words. All of them are sustained by the breath of existence, which these thinkers call “the created Reality through which things come to be.” In the same way, letters and words exist through a human being’s inner breath. The human being was created in the image of the All-Merciful, with different levels and points of articulation.
 
-#### Chapter — The purpose of speech
+#### II. The purpose of speech
 
 When a speaker decides to speak, his first aim is to form the letters and words and bring them out from within himself through the organs of speech. This is the act of making something known. Any result that follows from a command, a prohibition, a statement, a wish, a call, a question, or another kind of speech is a second aim, separate from that act of making something known.
 
@@ -94,7 +97,7 @@ The middle kind is the soul’s command to its powers, organs, and tools. It act
 
 The lowest kind is asking for something or calling for an action through the tongue or another organ. Here the aim is something beyond the words themselves, whether they are spoken, signaled, hinted at, or conveyed in another way. That aim may or may not be achieved because obstacles can arise. When these obstacles are absent, as in the first two kinds, the one addressed can only listen and obey. The failure of some of God’s commands that are delivered through intermediaries does not diminish His wisdom or power. His lawgiving commands, delivered to His servants through His messengers and the words of His revelation, are of this kind: some obey and some disobey.
 
-#### Supporting testimony
+#### 1. Supporting testimony
 
 The following words of the author of *The Meccan Revelations* support our account: “When God speaks to His servant in secret, without intermediaries, understanding accompanies His speech: what He speaks is what you understand, and it does not come later. If it comes later, it is not God’s speech. Whoever has not experienced this does not know how God speaks to His servants. But if He speaks through an outward veil, through a prophet or someone else He chooses, understanding may come with the words or may follow later. That is the difference between the two.”[^V07-13]
 
@@ -102,7 +105,7 @@ These words point to three kinds of speech: a command without an intermediary, a
 
 The third kind is the lowest: speech that reaches people’s ears through angels and human messengers. Here, understanding may or may not come, and obedience may give way to disobedience, refusal, or acceptance. Understand this, my friend. It is a direct taste of what the people of God know. Do not imagine that the Prophet’s receiving God’s speech through Gabriel and hearing it from him is like your hearing the Prophet, or that the Prophet merely repeats what Gabriel says, as the community repeats the Prophet’s words. Far from it. These are two entirely different kinds of knowing and hearing.[^V07-14]
 
-#### Chapter — The difference between speech and the Book, and between speaking and writing
+#### III. The difference between speech and the Book, and between speaking and writing
 
 Some careful thinkers say that God’s speech is different from His Book.[^V07-15] Speech is simple, while the Book is made of parts. Speech belongs to the world of command, while the Book belongs to the world of creation. Speech comes all at once, while the Book unfolds gradually. The world of command has no opposition, multiplicity, or change, as God says: “Our command is only one, like the blink of an eye, or even closer.” The world of creation, by contrast, contains many things, changes, and opposites, as God says: “There is nothing fresh or dry that is not in a clear Book.”
 
@@ -118,7 +121,7 @@ Once you see that the same spoken forms can be both speech and writing in differ
 
 Among its benefits is that it can help settle a dispute among theologians about speech. The Muʿtazilites say a speaker is one who creates speech; the Ashʿarites say a speaker is one in whom speech exists. Both definitions are true from different points of view. This also helps explain how the world comes from God. Some say the world is related to God as a book is to its writer; others say it is related to Him as speech is to its speaker. Another group sees the relation as different from either of these.[^V07-18] This also reveals the secret of the world’s end and passing away, and the secret of the resurrection of spirits and the gathering of bodies, as you will see in the discussion of the afterlife, if God wills.
 
-#### Chapter — How speech and the Book correspond
+#### IV. How speech and the Book correspond
 
 You may now see what I have been pointing out: the world of command, with everything in it, is best understood as a world of words, divine speech, and a complete order. The world of creation, with everything in it, is best understood as a world of actions and a detailed book that matches and reflects that complete order.
 
@@ -130,7 +133,7 @@ One of the careful thinkers says that as long as a person is confined by the bod
 
 When a person’s inner sight grows stronger and is lit by guidance and help, as it will be at the Resurrection, he moves beyond the narrow, dark world of creation into the wide, bright world of command. Then he sees all the contents of this great Book at once: all the forms of beings and things.[^V07-19] It is like someone folding a scroll that contains many lines and words. God says: “On the Day We roll up the heaven as a scroll is rolled for books,” and, “The heavens will be folded in His right hand.” He says “in His right hand” because those on the left, the people of punishment, have no share in this folding of the heavens. For them, the heavens are never folded; their souls remain tied to places and veils, as God says: “They will have a bed of Hell, and coverings above them.”
 
-#### Chapter — The beginning and end of speech and the Book
+#### V. The beginning and end of speech and the Book
 
 Speech and the Book, like all possible things, have a beginning and an end. Since the human being was created in the image of the All-Merciful, let us first look at how speech and writing begin in a person and return to him. This will help us understand the beginning and end of God’s speech and Book.
 
@@ -154,7 +157,7 @@ Their order in returning to their origin is the reverse of their first order. Fi
 
 This too is one of the subtle works of God’s wisdom: He creates the perfect human being, who grows from a small world into a great one. All existence is like a single person that has made a full circuit back to itself, or a great book whose first page is also its last. God began the book with the Intellect and ended it with the one who knows. He says: “Do they not see how God begins creation and then repeats it? That is easy for God. Say: ‘Travel through the earth and see how He began creation. Then God will bring about the later creation. God has power over all things.’”
 
-#### Chapter — Why God sent down Books and sent messengers to creation
+#### VI. Why God sent down Books and sent messengers to creation
 
 Know that when God willed to bring things into being and create the realities of every kind of thing, so that His names and attributes might appear, He held countless forms of knowledge that had not yet appeared, many words with no means of expression, and many books with no pages or paper. All this was before souls and the worlds around us existed.[^V07-25] He addressed with the command “Be!” what was held in His knowledge, when nothing else existed. The first things He brought into being were letters of the intellect and creative words. They stood on their own, without matter, and had their own movements and the powers needed to act. This was the unseen world of God’s first decree. Then He began to write the books: to shape the words, arrange the verses on the tablets of substances and dimensions, and form simple and composite things with the ink of matter. This was the world where creation took shape in detail. God says, “God created seven heavens, and of the earth the like of them.”[^V07-26] He also says, “Then He formed them as seven heavens in two days, and revealed to each heaven its command.”[^V07-27]
 
@@ -170,7 +173,7 @@ So open your inner sight, human being, to the light of the Qur'an’s wisdom. Lo
 
 Whoever cleanses the heart of images of everything else, shakes off the dust of attachment, and polishes the eye of reason until the haze of habit and intrusive thoughts is gone; whoever lets the self die to itself, immerses the heart in the sea of God’s majesty and greatness, and is gathered to the Lord, remains through God’s own abiding. “Whoever belongs to God, God belongs to him.” When such a person returns to ordinary awareness after being lost to himself, he moves from the whole to its details, from completion to its parts, and from union to distinction and understanding. Because he has become firmly rooted in God’s oneness and stands where God’s command and creation meet, his authority takes effect, his requests are answered, and he is honored with the power to bring things into being. He speaks with the speech of the Lord of all worlds. That is God’s favor, given to whomever He wills. God’s favor is great.
 
-#### Chapter — How speech descends and revelation comes from God through the angel to the Prophet’s heart and then to creation, as it emerges from the unseen into the visible
+#### VII. How speech descends and revelation comes from God through the angel to the Prophet’s heart and then to creation, as it emerges from the unseen into the visible
 
 Know that the Qur'an we have among us is both God’s speech and His Book, unlike the other heavenly books sent down to the other messengers, peace be upon them all.[^V07-30] Those books are studied and copied; they are not God’s speech in the direct sense meant here, even though every book is speech in one respect. Our point is that the Qur'an is God’s own speech.[^V07-31] We also say that what was sent down to our Prophet is both Qur'an and Criterion, while the other heavenly books are a criterion alone.[^V07-32] The difference is like the difference between knowledge held in one undivided whole and knowledge unfolded in detail. As God’s speech, the Qur'an is one of His spiritual lights, sent down to the hearts of servants whom God loves—not only those who love Him. God says, “We made it a light by which We guide whom We will of Our servants,” “He sent down the Book to you in truth,” and, “We sent it down in truth, and in truth it came down.” As a Book, it is made of forms, marks, and written signs containing rulings. These came down bit by bit from heaven and were placed on the pages of the hearts of those who love God and the inner tablets of those who travel toward Him. Others can write them on their own pages and tablets, where every Muslim can read them, every speaker can recite them, and every person guided to act on them can follow their rulings. All can find guidance in them and act by what they contain. In this guidance, prophets and their communities stand on equal ground. God says, “He sent down the Torah and the Gospel before, as guidance for people,” and, “They have the Torah, in which is God’s judgment.”
 
@@ -208,7 +211,7 @@ In Sūrat al-Jāthiyah, He says that the Book is sent down by God, the Mighty, t
 
 The secret is that the Qur'an and the revealed verses are the very same signs in different forms: intellectual signs of speech in one place, Books written on tablets in another, created things in another, and spoken words heard by the ear or marks written in copies and seen by the eye.[^V07-37] The reality is one, but it appears in many ways. People witness it differently, and it exists in many realms.
 
-#### Chapter — Uncovering the Book and revealing the inner meaning and spirit of speech to those who understand
+#### VIII. Uncovering the Book and revealing the inner meaning and spirit of speech to those who understand
 
 Know, poor one, that the Qur'an came down from God to creation through a thousand veils, because people’s hearts and inner sight are weak. If the letter bāʾ in “In the name of God” came down from the Tablet in all its greatness to the Throne, the Footstool would melt and vanish. How, then, could it descend to the lowest heaven? God points to this when He says, “If We had sent this Qur'an down upon a mountain, you would have seen it humbled and split apart in awe of God.” One of the great masters of inner vision said that every letter on the Tablet is greater than Mount Qaf.[^V07-38] This is the Tablet mentioned in the verse, “Rather, it is a glorious Qur'an, on a Preserved Tablet.” The letter qāf points to the verse “Qaf. By the glorious Qur'an.” Although the Qur'an is one reality, it has many levels and places through which it descends, and its names differ accordingly.[^V07-39] At one level it is called “glorious”: “Rather, it is a glorious Qur'an.” At another it is called “mighty”: “It is a mighty Book.” At another it is “exalted and wise”: “It is with Us in the Mother Book, exalted and wise.” At another it is “noble”: “It is a noble Qur'an in a protected Book, touched only by the purified.” At another it is “clear”: “There is nothing fresh or dry that is not in a clear Book.” At another it is “wise”: “Ya Sin. By the wise Qur'an.” It has countless other names. The outer ear cannot hear them. If you had inner hearing, in the world of true love, inward attraction, and divine love, you would be among those who hear its names and witness its forms.
 
@@ -216,7 +219,7 @@ The different forms of beings, their varied qualities, and their opposing states
 
 God says, “God’s are the most beautiful names, so call on Him by them, and leave those who misuse His names.” This verse calls us to learn wisdom and God’s oneness, to understand the worlds of God’s command and creation, and to study the signs on the horizons and within ourselves. We learn the names of God—the powers behind the forms of different kinds of beings—and call on Him by them only by reflecting on what He has made and what He sustains throughout the heavens and earth. That is why the Qur'an so often tells us to reflect on created things and their states. This is the path of knowledge followed by the realized mystics and divine scholars. They say that the world’s many different forms are forms of God’s names, their shadows and images, and the places where the divine world appears. For whatever exists in any world, a higher and nobler form exists in the upper world of the divine names, in a simpler and holier way. What is with God is better and more lasting.
 
-#### Chapter — Understanding the saying of the Commander of the Faithful, the leader of those who affirm God’s oneness: “All of the Qur'an is in the bāʾ of ‘In the name of God,’ and I am the dot beneath the bāʾ”
+#### IX. Understanding the saying of the Commander of the Faithful, the leader of those who affirm God’s oneness: “All of the Qur'an is in the bāʾ of ‘In the name of God,’ and I am the dot beneath the bāʾ”
 
 May God guide you, my friend. One of the spiritual stations reached by those who travel toward God and His kingdom through worship and certainty is this: they see, with their own eyes, the whole Qur'an—and indeed all the revealed books—in the single dot beneath the bāʾ of “In the name of God.” They may even see all beings gathered in that one dot.[^V07-40] In these books and elsewhere, we have shown by philosophical proof that “the simplest reality contains all things.” Aristotle, the leading teacher of the philosophical school that bears his name, says in the tenth treatise of his book known as *Theology of Aristotle*: “The One, pure, is the cause of all things. He is not like any of them. He is the beginning of things, but He is not the things themselves. All things are in Him.” He states this clearly in several places in his book.
 
@@ -228,7 +231,7 @@ With the darkness of our eyes, we see only the dark letters of speech and the in
 
 At that point, we read the verses from the original copy: the Clear Imam, the Wise Remembrance, and the one who has knowledge of the Book—ʿAlī, the Commander of the Faithful. God says, “It is with Us in the Mother Book, exalted and wise.” That is why ʿAlī said, “I am the dot beneath the bāʾ,” and, pointing to his noble chest, “Here is great knowledge, if only I could find people able to carry it.” Perhaps this discussion has gone beyond what the mind can grasp and beyond the usual way of teaching and debate. But, as the saying goes, one word leads to another. My friends who know the truth will excuse me: love of the beloved moves me to count his fine qualities and beauty, and to speak of his being and attributes, his speech and Book, his Messenger, commands and prohibitions, and all his other works. That is what we are discussing, God willing. Let us return to our subject.
 
-#### Chapter — The difference between God’s Book that is created and His Book that creates
+#### X. The difference between God’s Book that is created and His Book that creates
 
 This, too, is knowledge gained through experience. Only someone with inner sight can accept it: someone who knows the difference between an image sensed through the outward senses that begins outside them, and an image sensed through those same senses that begins within. The senses perceive both kinds but cannot tell them apart. When the power of the inner world rises and appears outwardly, some people may see with the eye of imagination something that is perceived without the outward senses. God says, “Hell is brought into view for those who see.” For such a person, the unseen becomes visible. Reports of this kind are widespread and the events have happened often. Among the reports connected with this verse is that the Messenger of God once came out holding two folded books, one in each hand. He asked his companions, “Do you know what these two books are?” He told them that the book in his right hand contained the names of the people of Paradise, along with the names of their fathers, tribes, and clans, from the first person God created until the Day of Resurrection. The book in his left hand contained the names of the people of Hell and the names of their fathers, tribes, and clans, from the first person God created until the Day of Resurrection.
 
@@ -240,7 +243,7 @@ Someone may object: If the difference between God’s creating Book and a create
 
 I answer: perhaps other people see it by following along with that person, because his soul affects them and his state spreads to them through hidden causes whose details they do not know. It is also possible that the people present are so absorbed in amazement at what is happening and in thought about it that their outward senses stop taking in outside things. Their attention then returns inward, to imagination and the unseen world.
 
-#### Chapter — The Prophet’s saying that the Qur'an has an outer meaning, an inner meaning, a limit, and a point of arrival
+#### XI. The Prophet’s saying that the Qur'an has an outer meaning, an inner meaning, a limit, and a point of arrival
 
 Know[^V07-42] that, like a human being, the Qur'an has an outward side and an inward side. Each has its own outer and inner levels, and its inward meaning opens into deeper levels until God knows its full interpretation. Only God knows its deepest meaning. A report says that the Qur'an has an outer meaning and an inner meaning, and that the inner meaning has another inner meaning, through seven layers. These correspond to the inner levels of a person: nature, soul, breast,[^V07-43] heart, intellect, spirit, secret, and hidden self.
 
@@ -266,7 +269,7 @@ The Qur'an’s lowest level is the copy between its covers, just as a person’s
 
 True wisdom comes only as God’s gift. A person becomes wise only when God gives that person wisdom and knowledge from Himself. Knowledge and wisdom are qualities of perfection; “the Knowing” and “the Wise” are among God’s most beautiful names. So anyone who receives wisdom must receive it through God’s gift. That is why, after saying, “He teaches them the Book and wisdom,” God says, “This is God’s favor. He gives it to whomever He wills, and God’s favor is great.” He calls wisdom “a great good,” saying, “Whoever is given wisdom has been given a great good. Only people of understanding take heed.”
 
-#### Chapter — Clarifying that the Book’s inner core is known only to God’s people, those with insight and understanding
+#### XII. Clarifying that the Book’s inner core is known only to God’s people, those with insight and understanding
 
 Brothers, you who travel the path and care about your faith and the strange meanings in God’s clear speech: no one, however sharp-minded, can understand its mysteries, signs, and wonders unless they have studied the knowledge of certainty in the school of the family of Yā Sīn, the household of the Prophet, and in the school of the holy ones and people of remembrance. They must learn to read the signs written on the great Tablet and its original, noble copy, the Clear Guide. Their teacher must be the One who taught you what you did not know, for God’s favor to you is great. Their guide must be the one who said, “My Lord taught me good manners and taught me well.” The teacher who writes their lessons with the Pen and shapes their pages with knowledge and wisdom is your most generous Lord, who taught by the Pen and taught the human being what he did not know.
 
@@ -290,7 +293,7 @@ A man may be learned, clever, sensible, eloquent, and skilled in language, gramm
 
 So leave the house that hides you from the truth and step away from its doorway. Take off the clothes of ignorance. Break free from the habits and rules you follow without thought. Then you may see God’s wonders and greatness in the descent of the Qur'an and the Book and Criterion. You may see the doors to the treasures of heaven and earth opened by the keys of knowledge of the unseen, a knowledge free from doubt. If death catches you as you leave your first home and travel toward a new nature and the next life, your reward will be with God. God will be your protector and will reward you, as He says, “Whoever leaves his home, migrating to God and His Messenger, and then dies, has earned his reward from God.”
 
-#### Chapter — Describing the Qur'an through symbols and signs
+#### XIII. Describing the Qur'an through symbols and signs
 
 Know[^V07-55], you who reflect and think deeply, that when the Qur'an lifts the veil of greatness from its face and draws back the covering of majesty and glory from its inner secret, it heals everyone sick with ignorance, quenches the thirst of those seeking life and truth, and cures hearts diseased by bad character and deadly ignorance.
 
@@ -308,7 +311,7 @@ Come down from your high station to the lowest heaven, so those with weak sight 
 
 That is why the Qur'an contains something useful for everyone. Each person receives a share of its spiritual and worldly gifts. “It is provision for you and your livestock,” and, “There is nothing fresh or dry that is not in a clear Book.” It contains truths and fine gifts that nourish the heart and spirit. It also contains detailed knowledge and practical help: stories, laws, inheritance, blood-money, marriage, and other matters useful to people at every level. So the Qur'an holds spiritual and worldly food, gifts for this life and the next. Nothing is left out. If you had a way into the inner kingdom of the Qur'an, you would see that it explains everything.
 
-#### A warning and reminder
+#### 1. A warning and reminder
 
 Know that Qur'anic calls such as “O human being” and “O you who believe” are addressed to God’s beloved, those who live by divine wisdom and are close to Him—not to those who turn away, deceive themselves, and deny the truth. The latter receive only the outer shell of its words and phrases. “They are kept from hearing,” and, “If God had known any good in them, He would have made them hear. Even if He had, they would have turned away.”
 
@@ -320,7 +323,7 @@ The knowledge in God’s speech and Book is far beyond what most people can gras
 
 When someone told the Prophet that Jesus could walk on water, he replied, “If his certainty had grown stronger, he would have walked through the air.” The people of the Qur'an, who are God’s own people, have eyes with which to see God’s signs, ears with which to hear His words, and hearts with which to understand the secrets of His wisdom and law. They have hands with which to receive the gifts of His mercy and feet with which to walk in His garden of honor and generous care.
 
-#### Chapter — The books that record what is erased and what is made firm
+#### XIV. The books that record what is erased and what is made firm
 
 The great scholar Muḥyī al-Dīn ibn ʿArabī said in the 316th chapter of his book *The Meccan Revelations* that the Prophet, speaking of himself with pride, said that he had been taken on the Night Journey until he reached a place where he could hear the scratch of pens. This refers to God’s words, “To show him some of Our signs. He is the All-Hearing, the All-Seeing.” The pronoun “he” refers to Muhammad. He was taken on the Night Journey, saw the signs, and heard the pens. Since the word used means a scratching sound, he heard them as sounds.
 
@@ -336,7 +339,7 @@ The Highest Pen has already written in the Preserved Tablet everything these pen
 
 The hearts of God’s friends can receive a true vision from God, through which these pens and their writings appear as images. This is a real kind of vision, like the way Paradise appeared to the Prophet on a wall.[^V07-64] That is the end of Ibn Arabi’s words. I have quoted him here because people with insight recognize the truth in what he says. I have not explained his meanings or shown how they fit a philosophical argument. Other passages in this book provide what a thoughtful reader needs, especially the discussion of God’s knowledge of things in general and in detail.
 
-#### Chapter — The Qur'an’s names and descriptions
+#### XV. The Qur'an’s names and descriptions
 
 Now that you know the difference between God’s speech and His Book—roughly, the difference between a command and an act—you know that an act takes place in time and changes, while God’s command does not change. You also know the difference between what has come down as Qur'an and what has come down as Criterion: one is whole and undivided, the other is made clear in parts. We now have four names: Speech, Book, Qur'an, and Criterion.
 
@@ -374,9 +377,9 @@ The Qur'an is called “provision”: “Your Lord’s provision is better and l
 
 It is called “the Balance,” because it is a true measure and straight standard. It weighs actions, knowledge, and ideas, and shows which are sound and which are false, valuable and worthless, true and untrue. God says, “We sent Our messengers with clear signs and sent down with them the Book and the Balance, so that people may uphold justice,” and, “He raised the sky and set the Balance, so that you do not transgress the Balance.” There are many other names and descriptions. Their abundance shows how great the one named and described is. Only God knows the full majesty of His Speech and Book.
 
-### Station Eight — Divine care and mercy for all things
+### Station Eight: Divine care and mercy for all things
 
-#### Chapter — On providence
+#### I. On providence
 
 There is no doubt that the Necessary Existent—God—is perfect in His reality and beyond perfection. The same is true of some of the angels brought near to Him and the pure intellects: their essences are complete, and their identities are joined to the identity of the One who is truly One. They do not act to gain some benefit from the conditions of this lower world. In general, the higher causes[^V07-69] cannot act for goals that would benefit them but that they had not already reached before acting. If they could, they would be incomplete, gaining perfection through their effects. That is impossible. So nothing draws them to act, and no passing preference or added desire comes over them. They act only by following the Highest Good and the most complete, highest Light.
 
@@ -386,7 +389,7 @@ So we must understand providence, as we have said, as follows: the First is awar
 
 This is what providence means when it is free of defect and flaw. Those who believe otherwise—those who say the world arose by chance, as some ancient thinkers did; those who speak of a will without wisdom, as the Shaykh al-Ashʿari is said to have done; and those who say God acts for lower purposes that benefit created beings—have gone far astray. They have failed to understand God’s oneness and freedom from imperfection, and have not valued Him as He deserves.
 
-#### Chapter — Good and evil
+#### II. Good and evil
 
 Good is what every thing longs for and seeks, and what gives it the share of perfection it can attain. Every being is naturally directed toward it: toward what it needs in order to exist, what belongs to its first nature, and what completes its essence, qualities, actions, virtues, and further capacities.
 
@@ -400,7 +403,7 @@ The argument can be set out in its simplest form: if evil were something that ex
 
 If we examine what people call evil, we find only two kinds. Some things are sheer absences, such as death, simple ignorance, poverty, weakness, deformity, the loss of a limb, drought, and similar states. Other things lead to an absence. These include pain, grief, mistaken belief, and similar states in which something is perceived or felt, rather than there being only a lack of something. The harmful cause that opposes good and perfection and brings loss or disappearance is of two kinds.
 
-### Kind One — Harm suffered directly from the harmful thing
+### Kind One: Harm suffered directly from the harmful thing
 
 Suppose a person is harmed because a limb is torn apart by a burning, biting heat. The person feels both the loss of connection and health and the harmful heat itself. The power of sensation in the limb perceives the loss of health through the limb’s own nature, and it perceives the painful heat through that same power. So there are two perceptions: one of a lack, like our perception of other absences, and one of something present, like our perception of other existing things.
 
@@ -422,7 +425,7 @@ Pain, illness, grief, worry, and other such things are, as perceptions and as ef
 
 The examples are not meant to prove the claim by listing cases or comparing them. They are there to answer objections, make the difference between a loss that is itself an evil and something that harms another thing clear, and show that what people call evil always leads back to some lack. The proof is the argument given at the beginning of this chapter. Some say this claim is self-evident, and that the examples are only meant to help us notice and remember it.
 
-#### A difficulty and an answer
+#### 1. A difficulty and an answer
 
 Here is a serious problem that has remained unresolved until now, but which, with God’s help, can be solved. Pain is a kind of perception, so it exists and is good in itself, even if what it is directed at is a lack.[^V07-76] It might seem, then, that we should count it as an evil only because of what it harms, as the philosophers do. But we know from experience that there are two evils here. One is the lack itself, such as a limb being cut off and health being lost. The other is the pain, which is something that exists. This particular pain is evil in itself, although what it is directed at is also an evil. The loss of connection is evil whether it is felt or not.
 
@@ -444,7 +447,7 @@ Know also that evil reaches matter in two ways. It may be there from the beginni
 
 The second kind happens after the thing comes to exist. It is either a barrier that stands between something and what would complete it, or an opposing thing that reaches it and destroys its perfection. For example, thick clouds or the shadow of a high mountain can prevent the sun from helping fruit ripen and reach its perfection. Or severe cold may strike a plant at the moment it is ready to flourish, ruining its special readiness and the perfect form that should follow from it.
 
-#### Chapter — Five possible ways good and evil can be combined
+#### III. Five possible ways good and evil can be combined
 
 Philosophers have traditionally divided[^V07-82] possible things, at first glance,[^V07-83] into five groups: things that are entirely good and contain no evil; things with much good and little evil; things with much evil and little good; things in which good and evil are equal; and things that are entirely evil and contain no good. The last three groups do not exist in the world. Only the first two do.
 
@@ -460,7 +463,7 @@ This group of possible beings is found only where there can be change, oppositio
 
 The same is true of plants used as food and medicine, though they may rarely cause harm, and of animals that are good in themselves but may harm other animals through accidental contact, such as snakes, scorpions, predators, and birds of prey. A human being may be ready for the perfection of the soul and intellect, and for both imagined and real goods, yet accidental events may lead to false beliefs, confused thinking, bad character, harmful actions, and sins that bring harm in the life to come. But the people affected by these evils are few compared with those who remain free of them, and the times of harm are few compared with the times of safety and well-being.
 
-#### Chapter — Why the kinds of evil just described exist only in the world of change and decay
+#### IV. Why the kinds of evil just described exist only in the world of change and decay
 
 This is because there is opposition in that world.[^V07-84] You have learned that the evil discussed here, and counted as evil by convention, is the absence of a thing or one of its perfections. But for one kind of thing to be lower in rank than another kind, or less perfect in its own right, is not evil for it. Beings whose life is entirely intellectual stand below God, whose existence depends on nothing; souls stand below those beings; the heavenly spheres are lower than the stars; and nature is lower than the soul. These are not kinds of evil.
 
@@ -472,7 +475,7 @@ Their inherent defects and lacks are not made, as we have already explained. The
 
 Just as a creator cannot pack round bodies together without any gaps, though this can be done with squares, hexagons, and shapes that can be divided into equilateral triangles, so the source of creation cannot make the basic kinds of elemental things without opposition.
 
-#### Chapter — How evils enter God’s decree
+#### V. How evils enter God’s decree
 
 You have learned[^V07-87] that possible essences are not caused by the fact that they are possible or depend on something to bring them into existence. Nor is there a separate cause for their being less complete than God, whose existence depends on nothing. Nor is there a cause for the opposing forms in the matter of changing things, for the damage one opposing thing does to another, for fire to burn, or for the sea to drown. Nor is there a cause for a person absorbed in worldly desires and pleasures to be consumed by the fire of hell and kept from the gardens of bliss. These are necessary results, not things separately made. What is made is what underlies them, and these underlying things are among the good things that exist.
 
@@ -510,7 +513,7 @@ If you reflect on death, which people generally count among the greatest evils, 
 
 As for the good it brings to the person who dies: death frees that person from this worldly life, which is exposed to harm and hardship, and leads toward mercy, as we will explain, God willing.
 
-#### Chapter — Answering objections about good and evil
+#### VI. Answering objections about good and evil
 
 One objection is this: if good outweighs evil in the second class of beings, why did God not create them in a way that involved no evil at all, so that every being would be purely good? The answer is that this would make the thing something other than itself. Such a thing cannot exist in this second kind of existence. It is possible only in the absolute kind of existence: the First Director, the source that orders and gives things their being, has brought forth wholly immaterial intellectual forms, soul-forms that are connected to matter only in a limited way, and the measured natures of the heavens, all free of corruption and harm. What remains is this second kind of existence, which can exist only through a mixture of potentialities, lacks, and opposites.
 
@@ -558,7 +561,7 @@ If the person remains in the nature they began with, then the barrier that hides
 
 The answer will become clear in its proper place, God willing, when we explain the different kinds of souls in the next life. In later chapters we will also give an account that points to the breadth of God’s grace and the reach of His mercy to all His creatures, in this life and the next.[^V07-105]
 
-#### Chapter — Why what people call evils occur in this world
+#### VII. Why what people call evils occur in this world
 
 The eternal will has been directed toward what is good for created beings. No one who truly understands the matter can doubt this, as we will explain when we show that the order of the world, as it is, is the noblest possible order, the most complete and best that can be conceived. This is firmly established, and both philosophers and theologians agree on it, whether they believe in an eternal decree or in a renewed act of choice and an additional purpose. Even someone who believes in choice can say that the world could not be made better than it is. If it could, and the free Creator did not know that a better world was possible, His knowledge would not fully encompass universals and particulars. If He knew and did not make it, though He had the power, that would contradict His generosity, which embraces all beings.[^V07-106]
 
@@ -578,7 +581,7 @@ So every kind of death and decay, the dissolving of forms, and similar things th
 
 Let us now return to another way of explaining the kinds of relative good and evil that lead to a greater good, following the approach found in some earlier books.
 
-#### Chapter — The relative amounts of good and evil
+#### VIII. The relative amounts of good and evil
 
 Know that good and evil are spoken of in four ways. One concerns the heavens: the good or bad fortunes associated with the stars.[^V07-110] Another concerns natural things: coming to be and passing away, and the pains and illnesses that affect bodily balances in animals. A third concerns the nature of living things made from the elements: their conflicts and alliances, their affection and hostility, love and enmity, and the struggle and competition built into their nature. A fourth concerns souls governed by the commands and prohibitions of divine law, and the happiness or misery, both immediate and in the afterlife, that follows.
 
@@ -644,7 +647,7 @@ Consider desire. Its true nature is love. As it takes shape in men and women, it
 
 In the end, all existence and necessity, and all that belongs to them—activity, completeness, perfection, permanence, joy, love, and pleasure—are good, praiseworthy, and effective. Goodness is the whole of reality. Nothing that exists is truly blameworthy; it is blamed only in relation to something else. Let us now explain this point with the strongest argument and the clearest inquiry.
 
-#### Chapter — The visible world, like the world understood by the mind, is made as well and as fully as it can be
+#### IX. The visible world, like the world understood by the mind, is made as well and as fully as it can be
 
 We have established that God, the Lord of the world, whose existence depends on nothing else, is free from every kind of deficiency. His existence, which is His own essence and reality, is the best and most complete kind of existence. Indeed, He is existence itself and its reality. Everything besides Him is a flash from Him, a trace, or a shadow. That is why we say He is necessary in every respect and is all existence: all existence belongs to Him. There is no cause for Him, and no existence precedes His. Nothing acts upon Him; He has no matter, form, or subject. He has no end beyond Himself, but is the end of all ends, the source of all sources, the form behind all forms, the reality of all realities, the essence of all essences, and the one who brings all things into being.
 
@@ -658,11 +661,11 @@ From there, through the mixing of sensory matter, motion, and change, successive
 
 This is the finest way to create: the thing created reaches the good end intended for it. No creator can make anything better than that its end should be God’s own essence, exalted in glory. With this order, the whole world is like one person: its beginning is the Real and its end is the Real. Its form is the form of the Real; indeed, its fulfillment is the Real. It is like a circle whose beginning and end are one point—indeed, the whole circle is that point, flowing from itself, within itself, and back to itself.[^V07-121] Glory to His essence, too great for comparisons and beyond the reach of words.
 
-#### Chapter — In detail, every level of created beings is the best and noblest possible; two approaches, from cause to effect and from effect to cause
+#### X. In detail, every level of created beings is the best and noblest possible; two approaches, from cause to effect and from effect to cause
 
 #### First approach: from cause to effect
 
-#### First discussion — Everything in the descending order exists in the best possible way
+#### 1. Everything in the descending order exists in the best possible way
 
 Nothing at any level of this chain can be more noble than it is, either as this individual or as this kind, in the respect in which it comes from its creator. First, each kind in this order must be confined to a single individual.[^V07-122] Multiple individuals of one kind could arise only through motions, chance events, and incidental features that distinguish and multiply them. But before there are motions and chance events, if some individuals of a kind were distinguished by an attribute belonging to the kind or following necessarily from it, then every individual would equally deserve that attribute. It would be arbitrary for one to have it and another not. If the difference came from something outside the nature of the kind, then there would have to be matter, able to receive outside influences in different ways according to its readiness and reactions. But there is no such matter in the world of origination. So each kind there must be confined to one individual.
 
@@ -678,7 +681,7 @@ In short, their movements are the finest, for they are acts of worship directed 
 
 From them flow the perfections and goods suited to this world: direct, reflected, and bent rays of light.[^V07-124] These prepare matter to receive the forms and perfections that the Active Source pours into it at every moment, until God inherits the earth and all who are upon it.
 
-#### Second discussion — The beings and generated things that rise through the world of composition are perfectly ordered
+#### 2. The beings and generated things that rise through the world of composition are perfectly ordered
 
 The order of beings in this world depends on the movements and positions of the spheres. The order of the spheres, in turn, reflects the order of the divine decree, which you have learned is complete and perfect. It has also been shown many times that these beings do not come from luck or chance, as Democritus claimed; from arbitrary acts of will, as the Ashʿarites supposed; from an incomplete will and an extra purpose, like our own wills, which depend on motives outside us; or from a nature unaware of itself, let alone aware of what it brings about, as the materialists and naturalists claimed. Rather, the intelligible order that philosophers call providence gives rise to the order we see. So this world has the greatest good and excellence possible.
 
@@ -686,7 +689,7 @@ It follows that, in relation to their causes and principles, nothing in this wor
 
 So movements that seem to conflict are harmonious and ordered when seen as parts of the whole. Even an extra finger is natural in the nature of the world as a whole, and every lifespan is natural in relation to the whole, even if it is not natural in an absolute sense.[^V07-125] Suppose you could know each thing through its causes. Suppose your intellect could leave this dark abyss and journey to God and His kingdom. You would witness the wonders and order of the heavens, then rise to the higher kingdom to see the wonders of divine power and know the First Source truly. You would travel through the Real and from the Real back to creation. In His light, you would see the angels who know, then the angels who act by God’s command. You would also see the powers and natural forces of the heavens that move them, and the causes and principles guiding their movements, longings, forms of worship, lights of obedience, and closeness to God. You would see how these bring about changes in the elements and combine them, and how the forms of generated things and the souls of their changing bodies follow. You would then see all things as beautiful, noble, and pleasing, and know through direct experience what you now know through argument. One like you would truly belong among the people of God’s good pleasure and find the joy of paradise.[^V07-126]
 
-#### Third discussion — The world as a whole, in kind and in individual reality, has the best order and fullest completion
+#### 3. The world as a whole, in kind and in individual reality, has the best order and fullest completion
 
 First, the whole world, considered as a whole, is one individual with a natural unity. Its unity is not like a collection of different things that happen to make one object by joining together, as bricks make a house or individuals make an army. The parts of the world have an intrinsic connection because they are arranged as causes and effects, from the noblest to the lower, from the higher to the lowest. A whole arranged in this way has an essential unity. You know that a cause completes its effect, and what is more noble completes what is less noble. A thing is more truly one with itself when it is complete than when it is treated as separate from itself; its parts therefore form one unity.
 
@@ -698,7 +701,7 @@ The first possibility fails because it is impossible for there to be substances 
 
 If no substances or attributes other than those that exist could come about, then any other world would have to share this world’s essence and differ from it in no essential respect. The second possibility—that another world could have the same essence but still be a different world—also fails for several reasons. First, whatever has no matter and no prior motion is brought into existence through creation. Such a thing does not vary because of outside conditions, so its kind cannot multiply into individuals. Each kind must be one individual, since whatever distinguishes it is its own essence or something that follows from it, and neither can be multiplied. Second, its existence comes from God’s own essence, with no other source; one cause gives rise to one effect. Third, its individuality comes from God, exalted in majesty, who is individual through His own reality. Every effect is likewise made individual by its immediate, producing cause. It therefore cannot be multiplied. Fourth, God’s knowledge of the good order—which is identical with His essence—requires the world’s existence, so no other world is possible. Finally, as already indicated, the final cause of the world’s existence is the essence of the Highest Source. The cause of its beginning is also the cause of its completion. Anything whose end is the most noble of all things is itself the noblest possible being.[^V07-128][^V07-129]
 
-#### A question and further examination
+#### 1. A question and further examination
 
 You may say: if the whole world, the Great Human, is one individual and the noblest possible being because the cause of its beginning and its completion is one and the same—the Real—then the same must be true of the First Effect. It would be like the world in its reality. But then two things would come from the One Real at the beginning of creation, which is impossible. It would also mean there were two beings of one kind above the world, contrary to the principles of philosophy.[^V07-130]
 
@@ -716,7 +719,7 @@ Form completes matter by giving it measure, shape, and qualities suited to it. I
 
 Intellect likewise perfects, straightens, refines, and purifies the soul from material impurities and bodily stains. It gives the soul knowledge and wisdom, lights it with understanding and guidance, brings its undeveloped abilities to full realization and carries it from darkness into light, strips away its bodily coverings, and raises it from decayed graves and crumbling resting places to the world of resurrection, where it stands before God. The care, guidance, creation, kindness, mercy, generosity, and grace of the First Reality toward the intellect, soul, nature, and all other things are greater than all of this. Let us now explain the point in more detail.
 
-#### Chapter — A few signs of God’s wisdom and care in creating the heavens and earth
+#### XI. A few signs of God’s wisdom and care in creating the heavens and earth
 
 Even the finest human minds cannot fully grasp the realities of heaven and earth, the subtlety of their design, the wonders of nature, or the signs of care and wisdom found in them.[^V07-133] Most people cannot even fully understand the soul that is their very self: its many states, how its powers work through the body’s senses and organs, how the organs are arranged and shaped, or what each part does and what its purpose is. What anatomists have discovered through careful thought is only a little compared with the subtle features, wonders, and wisdom in God’s design that remain beyond their notice.
 
@@ -742,7 +745,7 @@ From the beginning, God’s care called for rational and non-rational souls to e
 
 Consider also this: if the layers of elements and spheres above the earth were opaque and colored, rather than clear, the light of the stars would stop at their surfaces or be reflected upwards, away from the world of change and decay. Those living in the depths of matter would be left in a terrible darkness. So the stars were made bright, and the spheres and the other elements clear. If all the elements could receive light, their heat would grow so intense that everything in this world would burn.
 
-#### Chapter — An example of His care in creating compound beings
+#### XII. An example of His care in creating compound beings
 
 Can you not see, seeker of knowledge, how God gave the elements heat that dissolves, refines, and sets things in motion; cold that steadies and holds things together; moisture that can receive shapes and be divided; and dryness that preserves the shapes and order it receives? He formed living things from mixtures of the elements, gave each kind of perfection a fitting balance of qualities, and granted every prepared thing the perfection it was ready to receive. He did not stop there. He also gave each thing guidance toward further perfections and ends, so that it could rise along the upward path to higher levels. This is what our Lord means when He says: “Our Lord is the One who gave everything its form, then guided it.”
 
@@ -764,7 +767,7 @@ From the purest part of that blood comes the vital spirit, a fine vapour that fl
 
 The human being passes through these stages in its own being, changing little by little from semen to intellect. It brings together the two worlds, the visible and the spiritual. In it there is something like a sphere, a mirror for perceiving individual things, both present and absent; and something like an angel, a mirror for perceiving universal truths that do not change. Consider this power and wisdom, then this subtlety and mercy. The wonders of God’s presence will leave you amazed. If you want a fuller explanation, listen.
 
-#### Chapter — Signs of God’s wisdom and care in creating the human being
+#### XIII. Signs of God’s wisdom and care in creating the human being
 
 Human beings begin as the lowliest things, made from the least complete material and the weakest bodies. They begin as matter that has the capacity to become something but is not yet any definite thing, then come to be from dark dust and clinging clay, and then from semen. The divine Book points to the first stage when it says: “Has there not been a time when the human being was nothing worth mentioning?” It points to the next stages when it says: “We created the human being from a mixed drop to test him,” and, “He is the One who created you from dust, then from a drop.”
 
@@ -806,7 +809,7 @@ You have also learned that you have a natural power, shared with plants, that sp
 
 God made the last pair answer to reason, which recognises the consequences of actions. He made desire and anger answer to sensory perception. This allows you to make use of reason. Simply knowing that something will harm you or benefit you is not enough to make you avoid or seek it. You also need a will that follows what you know, or an aversion that turns you away from it. Through this will, God set you apart from animals, honoring human beings, just as He set you apart from them through your ability to understand consequences.
 
-#### Chapter — God’s care in creating the earth and what it contains for human benefit
+#### XIV. God’s care in creating the earth and what it contains for human benefit
 
 God says: “He created for you everything on earth.” Now that you have seen God’s care in creating you and your body, look at the signs of His mercy in what lies outside you. The nearest thing outside you is the ground on which you rest. Consider the earth, the home of your body and the mother of the body that was first within her, then born from her, and will return to her again. God says: “From it We created you, to it We will return you, and from it We will bring you out once more.” Then consider its benefits.
 
@@ -828,7 +831,7 @@ The earth is also generous by nature: it takes one seed and returns seven hundre
 
 The truth is that heaven is adorned with stars, the stars with spiritual angels, and the earth with forms and animal souls. The earth’s adornment includes human spirits, which make use of its resources, and their adornment is their divine knowledge, which they share with the angels brought near to God. Heaven’s outward aspect is nobler than earth’s, but inwardly the two are the other way around, because the end is nobler than what leads to it.[^V07-154] The earth is also like a gift and a pearl containing Adam and his children. God taught Adam what they would need and said, in effect: “I will not leave you in need of anything beyond this earth, which is like a mother to you.” He says: “We poured down water in abundance, then split the earth open,” and: “He sent water down from the sky and brought forth fruits as provision for you. My servant, the things you value most are gold and silver. If I had made the earth out of them, could it have provided these benefits? I made these things available for you in this world, though this world is a prison for you. What, then, will it be like in the garden?”
 
-#### Chapter — The wonders of God’s work in the celestial bodies and the lights of the stars
+#### XV. The wonders of God’s work in the celestial bodies and the lights of the stars
 
 Now that you have seen an example of the earth’s benefits, raise your head to the sky. Look and reflect on how the heavens were made, on their stars, and on their ordered movements, their rising and setting, and their different points of sunrise and sunset. The sun, moon, Jupiter, and Saturn move constantly, seeking God and longing to meet Him without weariness, delay, or change in their courses. They travel through measured stations, according to a precise reckoning and a written record, until their appointed time.[^V07-155] God says: “We have set the moon through stages.” It neither goes beyond them nor falls short, until God folds them up like a scroll.[^V07-156]
 
@@ -864,7 +867,7 @@ Do not torment our souls with their ties to the bodies of this deceptive world, 
 
 This is one example of God’s subtle care and kindness in the visible world. No one can hope to know every detail of the mercy and care hidden in His unseen realm, or to explore every wonder of His work and wisdom in the beings around us, even over a long lifetime. The knowledge of the learned is slight compared with what the prophets and saints know; their knowledge is slight beside that of the angels brought near to God, and of the highest people among humankind when they stand before Him. When all the knowledge of angels, spirits, and human beings is compared with God’s knowledge, it hardly deserves to be called knowledge. It is closer to bewilderment, confusion, helplessness, and limitation than to understanding and wisdom. True wisdom is knowing things as they really are. As we have already explained, to know a thing fully is to have its very being. Only its Maker and source can encompass it. No one is truly wise except God alone. Wisdom and knowledge are applied to others only by comparison and metaphor. That is why everyone is addressed by God’s words: “You have been given only a little knowledge.”
 
-#### Chapter — All beings love God, long to meet Him, and seek His home of honor
+#### XVI. All beings love God, long to meet Him, and seek His home of honor
 
 Know that God has given every being—intellectual, spiritual, sensory, and natural—its own perfection. He has placed in each one love[^V07-168] and longing for that perfection, and a movement toward completing it. Love without longing belongs to intellects that exist apart from matter and are fully actual in every way. Other beings lack some perfection and have the potential and readiness to gain it. They therefore have love and longing, either by choice or by nature, in different degrees. A movement then follows, matching that inclination. It may be a movement of the soul or of the body. Bodily movement may be a change in quality, as in natural compounds; a change in size, especially in animals and plants;[^V07-169] a change in position, as in the heavenly bodies; or a change of place, as in the elements.
 
@@ -916,7 +919,7 @@ In short, anyone following the mystics’ path must arrange the loves of beings 
 
 The souls’ longing for themselves and their perfections is likewise contained within the intellects’ love for their highest source. And the intellects’ love for their highest source is contained within the splendour of the First Light, the fullest good, the greatest beauty, and the highest majesty, for He is the return and final goal of all things.
 
-#### Chapter — Another way to show that love runs through all things
+#### XVII. Another way to show that love runs through all things
 
 The early philosophers gave another general argument for this point. They said that just as all beings receive their existence from causes that give it to them, they also receive their perfections from those causes. These causes do not intend to create any particular effects or their perfections, and what is higher does not look down toward what is lower, or toward its perfection. So divine wisdom[^V07-181], care, good ordering, and the world’s fine arrangement require every being to have love within it. Through this love, it holds on to the perfections it has gained and longs to gain them when they are absent. This produces both the order of the whole and the careful arrangement of its parts.
 
@@ -932,7 +935,7 @@ From all this, we learn that the love that preserves each effect is its love for
 
 We have also learned that love runs through all beings in the same order as their existence. Just as each stronger level of existence gives rise to a weaker one, down to matter and bodies, each lower love gives rise to a higher love, until it reaches love of the Necessary Being. According to the perfections suited to them, all beings seek the perfection of the One who is perfect through Himself and resemble Him as they gain that perfection. God, whose names are holy, is the final goal of every being and the end of every level. Love and longing bring beings into existence with all the perfections they can have, and keep them in existence. Without love and longing, no event could occur in the bodily world and nothing could come to be in the world of generation and decay.
 
-#### Chapter — The beloved is one in the end, but each kind has its own near beloved
+#### XVIII. The beloved is one in the end, but each kind has its own near beloved
 
 We have already explained that all beings naturally turn toward the First Reality, in an ordered way. They love to reach Him and gain from His being, from the lowest level to the highest and from the least complete state to the noblest. Just as every being seeks the fullest good and loves the Real according to its own level, the fullest good—the true Beloved—reveals Himself to those who love Him. Each receives that revelation and the light of His beauty according to its capacity.
 
@@ -974,7 +977,7 @@ The rational power may also direct sexual desire toward more than bodily pleasur
 
 The deepest actions can come from pure reason: understanding intellectual truths, joining the highest company, loving death, longing for the next life, knocking at the gate of divine acceptance, and living near the All-Merciful.
 
-#### Chapter — On the separate forms that serve as models
+#### XIX. On the separate forms that serve as models
 
 Keep this point in mind. People develop through levels, rising from plant life and animal life to rational life. They also differ in their aims. Some people act from appetite and anger only for the pleasure of eating, drinking, and sex, or for the pleasure of defeating an enemy and satisfying anger and hatred. They do not consider a wise purpose or an intellectual goal in any of this.
 
@@ -988,7 +991,7 @@ When a human being is guided well, they rise through their powers and aims in th
 
 We have shown that bodily natures change and move within their very being. All these natures move toward the highest source, rising step by step from the bodily world to the intellectual world. This is like a human being, who rises through the changes within their being from the lowest level to the highest—from semen to complete intellect—over a lifetime. The world also has a natural lifetime, as a human being does. The world’s natural lifetime is about fifty thousand years.[^V07-197] As the revealed Book says: “The angels and the Spirit ascend to Him on a day whose measure is fifty thousand years.”
 
-#### Chapter — Why refined men and youths love beautiful faces
+#### XX. Why refined men and youths love beautiful faces
 
 Know that philosophers have held different views about this love and what it is. Is it good or bad, praiseworthy or blameworthy? Some condemn it as a vice and list its faults, saying it belongs to the idle and useless. Others call it a virtue of the soul, praise it, and speak of the good qualities of those who feel it and the nobility of its end. Some do not understand what it is, its causes, its meaning, or its purpose. Some call it a sickness of the soul; others call it a kind of divine madness.
 
@@ -1039,7 +1042,7 @@ Nor can the soul reach the beloved’s body. If a soul were joined in its being 
 
 The reason is that the beloved is not truly the bone, flesh, or any part of the body. Nothing in the bodily world is what the soul truly longs for. The beloved is a spiritual form that exists in another world.
 
-#### Chapter — The things beings love differ with their levels of existence
+#### XXI. The things beings love differ with their levels of existence
 
 Know that souls and natural powers love different things. Their beloveds vary with their levels of existence and knowledge. Each power reaches completion only through something like itself. Each sense takes pleasure only in the things that belong to it. Sight longs for colors and light; hearing longs for sounds and melody. Smell takes pleasure in scents, taste in flavours that suit the body, and touch in things with a balanced mix of opposing qualities. The same is true of every inward and outward power, whether natural, spiritual, or intellectual. Each power belongs to the kind of thing it can act on. Each sense is of the same kind as what it senses, and each intellect of the same kind as what it understands. Through these things, each power reaches completion. Its undeveloped abilities become fully realized; what it lacked it comes to possess, and becomes one with what it seeks, as we have explained before.
 
@@ -1063,7 +1066,7 @@ The middle form is the love of scholars who study the realities of existing thin
 
 The smallest form is the love one person feels for another. An individual human being is also a small model of the greater world. The whole world is God’s complete book, in which He has shown His own perfections and divine meanings. The human being is a short version of that book, containing signs of the clear Book. Whoever reflects carefully on these signs can more easily read the greater book of the world and understand its meanings and secrets. When those meanings become clear, the person can rise to behold God’s beauty and the majesty of His oneness. Then they see everything gathered within His greatness and fading beneath the rays of His light.
 
-#### Chapter — People differ in what they love
+#### XXII. People differ in what they love
 
 Know that people differ more from one another than members of any other kind. This is because human beings are capable of acquiring many different ways of living and acting.[^V07-216] It can rise from the level of animals to the highest rank of the angels brought near to God. Some people live at the level of animals, ruled by appetite. Some live at the level of wild beasts, ruled by anger. Some are like devils, and some are like angels. Each of these four broad groups contains many kinds.
 
@@ -1088,7 +1091,7 @@ When an intelligent person understands this, they wake from heedlessness and ign
 > My heart has come to its senses about Salma and left its empty hopes behind;
 > the horses and camels of youth have been stripped of their gear.
 
-#### Chapter — Divine love belongs especially to perfected mystics and saints who have reached God
+#### XXIII. Divine love belongs especially to perfected mystics and saints who have reached God
 
 We have seen that human love has three forms: greatest, middle, and smallest. The greatest is longing to meet God and the desire to know His being, qualities, and actions as His own. No one has this desire except those who know God. The rest of us, in our longing for our beloveds, are like children who enjoy playing with a ball and stick, compared with adults who pursue serious aims and take pleasure in leadership. If you felt a desire for God and a longing to know His beauty and majesty, you would choose this—one of the truest desires and greatest pleasures—above every other good. You would choose the Garden of knowledge, with the orchard of wisdom and its fruits, over a garden that offers only bodily or imagined pleasures. But this desire is not given to ordinary people, or even to most of those who consider themselves virtuous. It is found only in a few people firmly grounded in knowledge.
 
@@ -1108,9 +1111,9 @@ We should also understand that, just as every being receives its existence from 
 
 Whoever leaves the world behind gains the next life and the pleasures of the Garden. Whoever gives up even the pleasures of the next life gains nearness to God, the honor of reaching Him, and the joy of meeting Him. Beside this, every other pleasure seems small.
 
-### Station Nine — God’s creative act and the existence of beings whose existence does not depend on physical matter
+### Station Nine: God’s creative act and the existence of beings whose existence does not depend on physical matter
 
-#### Chapter — Preliminary principles for identifying the first things that come from God and the existence proper to each
+#### I. Preliminary principles for identifying the first things that come from God and the existence proper to each
 
 To establish this point, we first recall some principles explained in the First Journey, in the general discussion of what applies to existence simply because it exists.[^V07-220] Here they are, in brief.
 
@@ -1150,7 +1153,7 @@ The same distinction applies to movement and its absence. Two opposed descriptio
 
 So opposite descriptions may belong to one subject in different ways, but only when they do so through different aspects of it. They cannot arise through one and the same aspect.
 
-#### Chapter — The first thing to come from the First Reality must be one
+#### II. The first thing to come from the First Reality must be one
 
 The principles we have recalled are enough for reason to show that the One, the pure First Reality, and anything considered simply as one, can produce only one thing insofar as it is one.[^V07-242] A many-sided thing cannot produce many effects as many, nor can two first effects come from it at once. One thing must come first, then another, until different respects and causes appear and the door to many good things opens. This principle may be one of the truths that a sound mind sees naturally. Yet those who oppose the people of truth have strongly denied it,[^V07-243] so the way to wisdom will not open to them.
 
@@ -1166,7 +1169,7 @@ A similar point appears in Kātibī’s commentary on *The Epitome*. After expla
 
 At this point, the criticism Imam al-Rāzī made of the earlier philosopher turns back on al-Rāzī himself.
 
-#### Chapter — Another proof that the first thing to come from the First Reality must be one
+#### III. Another proof that the first thing to come from the First Reality must be one
 
 Bahmanyār gives another version of this argument in *The Book of Attainment*. He sums up a point Avicenna makes more than once, especially in *Notes on Philosophy*:
 
@@ -1186,7 +1189,7 @@ The real effect, then, would be one shared thing—provided it is one complete r
 
 Avicenna gives another proof in *The Healing*, *Pointers*, and *Notes on Philosophy*. The idea “this cause produces A by its own nature” differs from the idea “this cause produces B by its own nature.” If both ideas were parts of what the cause is, the cause would have parts. If both were features that follow from it, they would themselves need causes, and the same question would arise again. If one were part of the cause and the other followed from it, the two effects would not stand at the same level: the cause would produce only one first effect, while the other would depend on that first one. If every feature that follows from the cause needed another feature to explain it, there would be an endless chain of such features. That would also make it impossible for anything to have a feature at all. In every case, producing two first effects would make the cause complex, either in what it is or in something that follows from it.[^V07-251][^V07-252][^V07-253]
 
-#### Chapter — Objections to this rule and replies to them
+#### IV. Objections to this rule and replies to them
 
 A critic of the philosophers writes in *Questions on the Book of Attainment*: “We hold that one cause may produce more than one effect, despite the philosophers’ and the Muʿtazilites’ claim to the contrary. A body, for example, brings about both being in a place and the ability to receive qualities.”
 
@@ -1286,7 +1289,7 @@ Material things are therefore weak in awareness, life, and will, just as they ar
 
 This can be understood in either of two ways. First, existence and its seven qualities—life, knowledge, will, power, hearing, sight, and speech—always go together. Anything that exists has these qualities in some degree, though ordinary people do not see them in bodies.[^V07-298][^V07-299] Second, each kind of natural body may have a separate, immaterial form that guides and sustains it by God’s permission. These forms relate to natural bodies as souls relate to bodies. They are truly alive and aware, not merely by comparison. A body, considered as matter, differs from a body considered as a kind: as a kind, it is brought to completion by its defining form. Both explanations are subtle, but the first applies more broadly.
 
-#### Chapter — Another argument that the first thing to come from the First Reality is simple and one
+#### V. Another argument that the first thing to come from the First Reality is simple and one
 
 The cause that gives existence to an effect must have a natural fit with that effect, a fit it does not have with other effects. Fire fits burning, water fits cooling, and the sun fits giving light. Fire does not fit cooling; water does not fit burning; earth does not fit shining. If two things came from one truly simple cause, they would have to come either through one respect or through two. They cannot come through one respect, because the cause would then need to match two different realities at once. To match something in this way is to share its nature: if two qualities match, they are alike; if two things match, they share a reality. But one truly simple being has no qualities beyond its own being. It cannot match two different realities and still be one. Nor can it produce the two through two respects, because then it would not be truly simple. This proof resembles the one we gave earlier.[^V07-300][^V07-301]
 
@@ -1330,7 +1333,7 @@ Even by the usual philosophical account, a soul is a being that needs matter in 
 
 If the other heavenly spheres existed at the same level as that soul, many things would come first from one. If the soul were the outermost sphere containing the others, there would have to be empty space for them to move into. If it were contained within the others, a sphere higher than it would have to exist before or after it began to change. That again requires empty space and would make a lower thing produce a higher one.[^V07-313][^V07-314] These are all guesses with no sound basis.
 
-#### Chapter — The principle that the nobler possible being comes before the lower one
+#### VI. The principle that the nobler possible being comes before the lower one
 
 Here is another principle: a possible being that is nobler must come earlier in the order of existence than a less noble possible being. If the less noble one exists, the nobler one must already have existed. This is a powerful principle with many uses. We have made much use of it, by God’s grace. Aristotle’s school used it often in *Theology of Aristotle* and *On the Heavens and the World*. Avicenna built his account of the order of existence and of the outward and return paths on it. The Illuminationist philosopher Suhrawardī developed it in many books. He used it to prove the existence of intellects and of immaterial forms—the guardians of natural kinds.[^V07-315][^V07-316] Muhammad al-Shahrazūrī later explained the principle in detail.
 
@@ -1380,7 +1383,7 @@ By the first rule we can prove that earth and the other simple elements have an 
 
 Plants also have a basic nature that preserves their structure and balance. This nature works on matter through the plant soul. These powers are not qualities added to a body, as people usually think,[^V07-335] but beings whose existence is joined to what they can do.
 
-#### Chapter — What follows from the principles established so far
+#### VII. What follows from the principles established so far
 
 God’s being is perfect, fully active, and necessary, with no trace of absence or lack. So the first thing to come from Him must be the noblest being that has no trace of absence or lack. It must belong to the world of intellect, not the world of souls, still less the world of nature.
 
@@ -1464,7 +1467,7 @@ So a separate intellectual being must store the images our minds understand. Whe
 
 If the mind has been cleared and the heart made pure, it keeps the ability to reconnect with the image it once understood. It can recall it without learning it again. The image was out of mind, but not forgotten. The mind has kept its connection and its readiness to receive it. If the mind becomes clouded again by the body and nature, it needs new effort to clear the barrier and reconnect. So there is an intellectual being that keeps all the forms our minds can understand. This is what I wanted to prove.
 
-#### Closing clarification — Resolving a difficult objection
+#### 1. Closing clarification: Resolving a difficult objection
 
 This argument has an objection about lapses of attention and forgetting.[^V07-368] Some thinkers found it so difficult that one of Tusi’s students could not answer it. Ḥillī recounts the exchange in his commentary on *The Guide to Belief*:
 
@@ -1486,11 +1489,11 @@ Once this is clear,[^V07-376] not every ability or quality in the human soul mus
 
 We have explained more than once that images in the simple intellect are not stored as many separate images, as they are in physical matter or in the detailed imagination. The world of intellect is too full and complete for that kind of separation, absence, and division.
 
-### Station Ten — God’s unceasing generosity and eternal power
+### Station Ten: God’s unceasing generosity and eternal power
 
 Nothing outside Him ever keeps God from acting, even though the world is always changing, coming into being, and passing away. The only things that never perish, diminish, or run out are God’s complete words and lasting knowledge. As we have often said, these do not belong to the world or to anything apart from the Real.
 
-#### Chapter — Why this question matters, and why God’s unceasing giving is compatible with a world that comes into being and changes
+#### I. Why this question matters, and why God’s unceasing giving is compatible with a world that comes into being and changes
 
 This is one of the most important questions in both philosophy and religion.[^V07-378] We cannot know God, affirm His oneness, or understand Him as free from multiplicity and defect unless we grasp it clearly, in a way that fits sound reasoning and the teachings of the prophets. Many people with little understanding imagine that philosophy and rational inquiry conflict with divine law and the prophets’ teachings. They also assume that the great philosophers of old taught that the whole world is eternal: that the heavens, stars, their forms and matter, and even the matter and kinds of earthly elements have always existed as the same individual things, without ever passing away or coming into being. As we explained when discussing substance and its kinds, this is a false charge against those early philosophers. Their view was not the crude one attributed to them, which conflicts with the prophets and their followers.
 
@@ -1522,7 +1525,7 @@ Even if we grant that a nature, considered in itself, is neither new nor old, it
 
 If we ask whether the kind is eternal or new in itself, we must deny both: in itself it is neither eternal nor new, neither without a beginning nor beginning, neither endless nor finite. It has these features in reality only through its existence in individual examples.
 
-#### Chapter — Another proof that bodies come into being
+#### II. Another proof that bodies come into being
 
 Here is another way to prove that bodies came into being, different from the argument we gave earlier when discussing substance.[^V07-387] Anything described by a quality must not, in its own existence and in the state in which it can receive that quality, already have the opposite quality. Otherwise one thing would have two conflicting qualities at once, either in thought or in reality.
 
@@ -1576,7 +1579,7 @@ A universal nature differs from a collection. It exists in each individual, so i
 
 We do accept that general intelligible forms exist through the separate divine forms, as Plato and other wise philosophers taught. But those forms are not part of the world or anything apart from God. They are forms of God’s knowledge and His complete words,[^V07-408] which never perish or run out. As the Qur'an says: “What you have will pass away, but what is with God remains”; and “If the sea were ink for my Lord’s words, the sea would run dry before my Lord’s words ran out.” The world, then, with all its parts—the heavens and stars, simple and composite things alike—comes into being and passes away. At every moment, whatever exists is a new creation, as we explained earlier in our discussions of nature and what lies beyond it. God knows best.
 
-#### Chapter — The theologians’ arguments and some of their views on this question
+#### III. The theologians’ arguments and some of their views on this question
 
 As we explained in the general study of nature, things need a cause because their essence is possible and their existence is incomplete—not simply because they began to exist, as some people think.[^V07-409] The philosophers argue that if God, by His own nature, is the reason possible things exist—either by His nature alone or together with an attribute, as theologians who accept God’s eternal attributes say—then He is prior to all possible things, since He is their cause. If the cause is eternal, its causing must also be eternal. Whatever makes God the maker of the world—a time, the removal of an obstacle, a condition, a will, a natural disposition, a power, or any other state proposed by theologians—must be either eternal or new.
 
@@ -1608,7 +1611,7 @@ Before the world there is only sheer nonexistence, the same throughout. Nothing 
 
 What we have said shows that the generosity of the One who gives without limit, and the making and giving of the true Creator, are eternal: He gives to things from beginning to end, always in the same way.[^V07-424] But this does not make possible things eternal—not the whole world, any part of it, any kind, or any individual.[^V07-425] If the philosophers had stopped after proving that the Creator is one, fully active, complete in power, and always generous and merciful—never holding back His care or closing His hand against giving—their view would have been sound.[^V07-426] But later philosophers went further and claimed that the world, the heavens, stars, simple bodies, their forms and souls, and composite beings and their kinds had always existed. They said that kinds of composite beings last forever, though not each individual. With help from God and His higher kingdom, we have proved that this view is false: no created thing and no possible being is eternal.
 
-#### Chapter — Some arguments used by theologians and religious communities to show that God’s outpouring stops
+#### IV. Some arguments used by theologians and religious communities to show that God’s outpouring stops
 
 Theologians and religious communities have offered many arguments for their view.[^V07-427]
 
@@ -1724,7 +1727,7 @@ The ninth reply is that saying every revolution is preceded by eternal nonexiste
 
 Those who argue that the world began have other proofs, which I would present with their replies if I were not afraid of making the discussion too long. My purpose is to let readers see the main arguments on both sides, understand what we noticed and why we followed this path, and not mistake our view for a bare appeal to spiritual insight or religious authority without examining proofs. Spiritual insight alone is not enough to guide us without proof; reasoning alone, without spiritual insight, is a serious shortcoming. God is our help.
 
-#### Chapter — How to reconcile revelation and philosophy on God’s unceasing giving and the world’s coming into being
+#### V. How to reconcile revelation and philosophy on God’s unceasing giving and the world’s coming into being
 
 We have often said that true philosophy does not conflict with divine teachings. Both aim at one thing: knowing the First Reality, His qualities, and His acts. We reach this knowledge sometimes through revelation and the prophets’ message, which is called prophecy; at other times through spiritual discipline and learning, which are called wisdom and spiritual authority. Only those who do not know how to understand religious language in light of philosophical proof say that the two paths conflict. A person must be guided by God, fully learned in philosophy, and familiar with the secrets of prophecy to bring them together. Someone may excel at philosophical reasoning yet know little of scripture and religious law, or the reverse.
 

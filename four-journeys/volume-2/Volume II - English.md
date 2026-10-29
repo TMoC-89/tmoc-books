@@ -5,74 +5,75 @@
 **Mulla Sadra (Ṣadr al-Dīn Muḥammad al-Shīrāzī)**
 
 ## Contents
-- Stage Four — Essence and its related features
-  - Chapter 1 — What is essence?
-  - Chapter 2 — Universals and particulars
-  - Chapter 3 — Kinds of distinction
-  - Chapter 4 — How a general kind differs from matter, and a specific kind from its subject
-  - Chapter 5 — How to identify a kind’s distinguishing feature, how it differs from a mere mark, and how it joins the general kind
-  - Chapter 6 — How the distinguishing feature completes the general kind
-  - Chapter 7 — How form joins with matter
-  - Chapter 8 — How the general kind is taken from matter and the distinguishing feature from form
-  - Chapter 9 — Platonic Forms and Ideas
-- Stage Five — Unity and Multiplicity: Sameness, Difference, and Opposites
-  - Chapter 1 — One and Many
-  - Chapter 2 — Sameness and Its Opposite
-  - Chapter 3 — Why Two Things Cannot Become One
-  - Chapter 4 — Some Rules About Unity and Multiplicity
-  - Chapter 5 — Opposition
-  - Chapter 6 — The Kinds of Opposition and the Rules for Each
-  - Chapter 7 — The Opposition Between One and Many
-- Stage Six — Cause and Effect
-  - Chapter 1 — What a Cause Is and How Causes Are Divided
-  - Chapter 2 — Why Cause and Effect Must Be Present Together
-  - Chapter 3 — Can Something That Accompanies a Cause Come Before Its Effect?
-  - Chapter 4 — Why Causes and Effects Cannot Form a Circle or Stretch Back Forever
-  - Chapter 5 — Why the Chain of Causes Must Have an End
-  - Chapter 6 — Can Something Simple Both Receive and Act?
-  - Chapter 7 — How Thoughts Can Help Bring Things into Being
-  - Chapter 8 — Is a Cause Stronger than Its Effect?
-  - Chapter 9 — When Can a Complete Cause Exist Alongside Its Effect?
-  - Chapter 10 — Six Distinctions Shared by the Four Kinds of Cause
-  - Chapter 11 — Can a Simple Thing Have a Cause Made of Parts?
-  - Chapter 12
-  - Chapter 13 — Why a Completely Simple Cause Cannot Produce Two Effects That Arise Together
-  - Chapter 14 — Can One Effect Depend on Several Causes?
-  - Chapter 15 — Some Principles about the Active Cause
-  - Chapter 16 — Why a Complete Cause Cannot Be Separated from Its Effect
-  - Chapter 17 — The Basic Material of Things and Its Kinds
-  - Chapter 18 — Names for the Basic Material
-  - Chapter 19 — Why Matter Longs for Form
-  - Chapter 20 — Form as a Cause, and How Nature Differs from Form
-  - Chapter 21 — What a Goal Is and What People Have Said About It
-  - Chapter 22 — A Closer Look at Goals, Chance, and Aimless Action
-    - Section 1 — How Even Aimless Action Has a Goal
-    - Section 2 — Chance
-    - Section 3 — The Goals of Chosen Actions
-    - Section 4 — The Purpose of Beings That Follow One Another Without End
-  - Chapter 23 — The Difference Between a Goal and a Good
-  - Chapter 24 — The Difference Between Good and Generosity
-  - Chapter 25 — More on Cause and Effect
-  - Chapter 26 — The Highest Goal of the Earlier Discussions
-  - Chapter 27 — Why Possible Beings Are Truly Many
-  - Chapter 28 — How Existence Flows Through Particular Beings
-  - Chapter 29 — What First Flows from True Existence
-  - Chapter 30 — Why Possible Things Have No Existence in Themselves
-  - Chapter 31 — Why Evil Does Not Belong to Existence Itself
-  - Chapter 32 — How Evil and Suffering Can Arise Without Undermining the Goodness of Existence
-  - Chapter 33 — How Possible Beings Reflect the Presence of God
-  - Chapter 34 — Another Proof That the Necessary Being Is One
-  - Chapter 35 — Why possibility and potential are not direct causes of existence
-  - Chapter 36 — Why powers in bodies need a spatial relation to act
-  - Chapter 37 — Why existence alone can act as a cause or be caused
-  - Chapter 38 — Why an effect need not be preceded by nonexistence
-  - Chapter 39 — Why every event in time depends on an unbroken circular motion
+
+- Stage Four: Essence and its related features
+  - I. What is essence?
+  - II. Universals and particulars
+  - III. Kinds of distinction
+  - IV. How a general kind differs from matter, and a specific kind from its subject
+  - V. How to identify a kind’s distinguishing feature, how it differs from a mere mark, and how it joins the general kind
+  - VI. How the distinguishing feature completes the general kind
+  - VII. How form joins with matter
+  - VIII. How the general kind is taken from matter and the distinguishing feature from form
+  - IX. Platonic Forms and Ideas
+- Stage Five: Unity and Multiplicity: Sameness, Difference, and Opposites
+  - I. One and Many
+  - II. Sameness and Its Opposite
+  - III. Why Two Things Cannot Become One
+  - IV. Some Rules About Unity and Multiplicity
+  - V. Opposition
+  - VI. The Kinds of Opposition and the Rules for Each
+  - VII. The Opposition Between One and Many
+- Stage Six: Cause and Effect
+  - I. What a Cause Is and How Causes Are Divided
+  - II. Why Cause and Effect Must Be Present Together
+  - III. Can Something That Accompanies a Cause Come Before Its Effect?
+  - IV. Why Causes and Effects Cannot Form a Circle or Stretch Back Forever
+  - V. Why the Chain of Causes Must Have an End
+  - VI. Can Something Simple Both Receive and Act?
+  - VII. How Thoughts Can Help Bring Things into Being
+  - VIII. Is a Cause Stronger than Its Effect?
+  - IX. When Can a Complete Cause Exist Alongside Its Effect?
+  - X. Six Distinctions Shared by the Four Kinds of Cause
+  - XI. Can a Simple Thing Have a Cause Made of Parts?
+  - XII. Untitled chapter
+  - XIII. Why a Completely Simple Cause Cannot Produce Two Effects That Arise Together
+  - XIV. Can One Effect Depend on Several Causes?
+  - XV. Some Principles about the Active Cause
+  - XVI. Why a Complete Cause Cannot Be Separated from Its Effect
+  - XVII. The Basic Material of Things and Its Kinds
+  - XVIII. Names for the Basic Material
+  - XIX. Why Matter Longs for Form
+  - XX. Form as a Cause, and How Nature Differs from Form
+  - XXI. What a Goal Is and What People Have Said About It
+  - XXII. A Closer Look at Goals, Chance, and Aimless Action
+    - 1. How Even Aimless Action Has a Goal
+    - 2. Chance
+    - 3. The Goals of Chosen Actions
+    - 4. The Purpose of Beings That Follow One Another Without End
+  - XXIII. The Difference Between a Goal and a Good
+  - XXIV. The Difference Between Good and Generosity
+  - XXV. More on Cause and Effect
+  - XXVI. The Highest Goal of the Earlier Discussions
+  - XXVII. Why Possible Beings Are Truly Many
+  - XXVIII. How Existence Flows Through Particular Beings
+  - XXIX. What First Flows from True Existence
+  - XXX. Why Possible Things Have No Existence in Themselves
+  - XXXI. Why Evil Does Not Belong to Existence Itself
+  - XXXII. How Evil and Suffering Can Arise Without Undermining the Goodness of Existence
+  - XXXIII. How Possible Beings Reflect the Presence of God
+  - XXXIV. Another Proof That the Necessary Being Is One
+  - XXXV. Why possibility and potential are not direct causes of existence
+  - XXXVI. Why powers in bodies need a spatial relation to act
+  - XXXVII. Why existence alone can act as a cause or be caused
+  - XXXVIII. Why an effect need not be preceded by nonexistence
+  - XXXIX. Why every event in time depends on an unbroken circular motion
 
 In the name of God, the Most Merciful, the Most Compassionate.
 
-### Stage Four — Essence and its related features
+### Stage Four: Essence and its related features
 
-#### Chapter 1 — What is essence?
+#### I. What is essence?
 
 Each thing around us has an essence—what it is[^V02-1]—and an existence—the fact that it is. Essence is what answers the question “What is it?”, just as quantity answers “How much is it?” Under this definition, essence is a universal concept;[^V02-2] it cannot name something known only through direct observation. It is also defined as “that by which a thing is what it is,” a wording that covers every case. This is a difference in wording, not a circular definition.[^V02-3]
 
@@ -86,7 +87,7 @@ Putting the denial first does not mean that the feature is not required by the e
 
 Universal humanity is not one numerically single humanity shared by many people,[^V02-18] as we have explained. Something that is one in number cannot exist in many places at once. If all people had one and the same humanity, it would have to be knowledgeable and ignorant, white and black, moving and still, and many other pairs of opposites. The relation between a universal nature and its individual cases is not like one father with many children, but like many fathers with many children. A concept that is universal in the mind can be found in each person, but no one is human merely by being related to one separate humanity set apart from everyone. Each person has a humanity of their own, numerically distinct from everyone else’s. The shared concept exists only in the mind.
 
-#### Chapter 2 — Universals and particulars
+#### II. Universals and particulars
 
 In philosophy, a universal is something that can be shared by many individuals, or at least does not rule out being shared. A universal cannot exist as such among things in the world. If it did, it would exist as one particular thing, not as an idea that could apply to many. It could no longer be shared. Someone might object that a mental image also has its own individual existence: it belongs to one mind, has no size or position, and cannot be pointed to. Every mental image would then be particular, because an image in one person’s mind cannot be the very same image in many minds.[^V02-19]
 
@@ -114,7 +115,7 @@ The same is true of Bahmanyār’s view that individuality comes from the condit
 
 The claim that two things can help distinguish one another does not create a circular argument. To distinguish a bird from a creature that gives birth to live young, we may refer to each in terms of the other, but the knowledge of each depends on what the other is, not on first identifying the feature that distinguishes it. The distinction depends on the things themselves, or on the cause that connects them. As we will see when discussing things defined through their relations to one another, no problem follows.[^V02-28]
 
-#### Objection and reply
+#### 1. Objection and reply
 
 Someone objects: if two things of the same kind differ while they share the same subject and time, then how do the parts of time differ? Time is the measure of the heavens’ motion, and that motion has one body as its subject. The parts of time should therefore have the same subject too.
 
@@ -122,7 +123,7 @@ The answer is that the parts of time differ through their own nature. Time is a 
 
 A one-cubit length of line differs from half a cubit of that line by its own nature, not because of some feature outside it. The two lengths remain different even if we set aside the place and time in which they exist. We have therefore seen that things of the same kind can differ through their own nature. Avicenna says that among the categories, only position makes something an individual by itself.[^V02-29] He means that position distinguishes one thing from another when time is the same. With the position held the same, time can make the difference; with time held the same, position can. One position differs from another in the same way that one time or one amount differs from another: through its own nature.[^V02-30] Individuality in this broader sense can come from a thing’s own essence, as with the Necessary Being; from something that belongs to its essence, as a position belongs to the sun; or from a feature that comes with it from the start of its existence, as with position and time. A soul is an individual through its relation to a body, and bodily powers are individuals through the bodies they belong to.
 
-#### Chapter 3 — Kinds of distinction
+#### III. Kinds of distinction
 
 As we have seen, a thing’s being distinct is not the same as its being an individual. Being distinct is relative: it means standing apart from something else. Being an individual is not relative; it is simply the thing’s own way of existing and its identity.[^V02-31] A distinction is what sets one thing apart from others by a feature they do not share. Sometimes that feature is the thing’s own nature, as with the Necessary Being, who is distinct from everything else simply by being Himself. Possible essences and ideas in the mind are also distinct simply by what they are. In other cases, a thing is set apart by an added feature that it has and others lack, as writing sets a writer apart from someone who does not write. Or it is set apart by lacking a feature, as not writing sets a non-writer apart from a writer.
 
@@ -132,7 +133,7 @@ A single kind of thing can be distinguished in all these ways. A human being dif
 
 All added distinctions follow from existence.[^V02-32] Even different kinds of nonexistence are distinct only because the ideas of them exist in our minds, or because the positive features whose absence they describe exist. Nonexistences do not have separate natures or qualities of their own. The truth is that when added qualities set things apart, it is those qualities that are truly distinct. Each is distinct in its own right, not through some further quality; otherwise, the explanation would go on without end. A thing is distinct in itself only when its difference comes from what it is, not from some added feature. When an added feature marks it out, the distinction belongs to that feature; the thing is distinct only in a secondary sense.[^V02-33]
 
-#### Chapter 4 — How a general kind differs from matter, and a specific kind from its subject
+#### IV. How a general kind differs from matter, and a specific kind from its subject
 
 How we consider a thing’s nature matters here.[^V02-34] We can take it on the condition that it stands alone, with nothing else included. Anything joined to it is then outside it. If it forms a whole with something else, it is a part of that whole and serves as its material part.[^V02-35] It comes before the whole both in thought and in the world, so the part cannot be treated as the whole: the two do not exist in the same way.
 
@@ -184,11 +185,11 @@ It is also wrong to say that when an animal dies, its body disappears and a diff
 
 One further point: you may read that if a general nature must be made one particular kind, it cannot exist as another; if it does not have to be made that kind, its joining with it may be by chance. This only makes sense when the general nature has a form in the world. It does not work for color in relation to black and white. Color itself has no form in the world separate from the power by which sight distinguishes colors. We cannot point to color apart from its forms and ask why it became black or white. But body and prime matter do exist in the world. If body had to take one particular form in order to exist, there could be no body without that form. So there must be a cause beyond body itself that makes it fire, a heavenly body, moving, located, round, or otherwise. This leaves room for matter to remain while forms and other features change.[^V02-53]
 
-#### Chapter 5 — How to identify a kind’s distinguishing feature, how it differs from a mere mark, and how it joins the general kind
+#### V. How to identify a kind’s distinguishing feature, how it differs from a mere mark, and how it joins the general kind
 
 The words used for a kind’s distinguishing feature in definitions often name signs of the true feature, or things that follow from it. “Sensitive” and “moving,” for example, are not, by their meanings alone, the features that define an animal.[^V02-54] The true feature is that it has a soul that perceives and moves. The ability to perceive and the ability to move are not the animal soul itself; they are among the things that follow from it. But because we may not know the true features, or may lack names for them, we sometimes have to use these signs instead. So “sensitive” does not mean the concept formed from a feeling or a relation of awareness.[^V02-55] Otherwise, one thing would be made up of things from different categories, though one thing belongs to two categories only by accident. The true distinguishing feature is what gives rise to these qualities, and the same applies in similar cases. When one meaning is considered together with another, if they differ in what they are and how they exist, the second is not a distinguishing feature but a quality added from outside. If they differ only because one is vague and the other makes it specific, then the second is a distinguishing feature. Avicenna says in the metaphysics section of *The Healing*: “The mind may grasp a meaning that could be many things, each of which is that same meaning in existence. It then adds another meaning to make it specific, by including it in the first. This second meaning differs only in how definite or vague it is, not in its existence.”[^V02-56]
 
-#### Further discussion and clarification
+#### 1. Further discussion and clarification
 
 Some have denied that simple things have parts that the mind can distinguish. They say these parts are only features that go with the thing: the feature shared by several things is their general kind, and the feature unique to one is what distinguishes it. But this would mean that simple things with entirely different natures share an added quality, without anything in common to explain why it belongs to them. To avoid saying that one meaning can be drawn from different natures, these thinkers claimed that both the general kind and its distinguishing feature in a simple nature come from qualities that belong to it in the world. The broader kind is drawn from a feature we are not sure belongs only to that nature. The feature that distinguishes it, by contrast, is drawn from one we know belongs to that nature alone.[^V02-57] This view is plainly strained.
 
@@ -206,7 +207,7 @@ Someone might ask: if a definition tells us what a thing is, how can the definit
 
 The answer is that a definition lays out, one by one, the meanings drawn from a thing’s nature. The thing itself holds them together as one. So the definition can have several parts without the thing itself being made of parts, even when the definition and the thing are one and the same in nature. We have already seen how the mind can draw different meanings from one simple nature.[^V02-59]
 
-#### Chapter 6 — How the distinguishing feature completes the general kind
+#### VI. How the distinguishing feature completes the general kind
 
 This completion does not take place in the outside world, since the two are one in existence there. Things that are one in existence cannot bring each other into existence. Rather, the mind divides a specific kind into two parts in thought and judges one to be the cause of the other.[^V02-60] This is because the parts of one essence depend on each other. The part that is needed, and so serves as cause, can only be the distinguishing feature.[^V02-61] The general kind cannot cause the distinguishing feature to exist. If it did, it would have to bring about every opposing distinguishing feature, so one thing would contain opposites that cannot coexist. That is impossible. So the distinguishing feature must cause the general kind to exist as a specific kind. It divides the general nature taken without restriction, brings about the particular share of that nature found in the specific kind, and forms one part of the whole along with what distinguishes that kind from others.
 
@@ -214,7 +215,7 @@ A possible objection is this: if rationality causes animal nature in general, it
 
 It is strange that the author of *The Eastern Discussions*, though he understood this point, failed to use it in his argument for matter.[^V02-65] After giving his proof, he says he presented it to many sharp thinkers, and none found fault with its steps. His argument for matter in the celestial sphere goes like this: the sphere has a fixed size and shape because it cannot come to be or pass away. What makes this necessary? It must be the sphere’s bodily nature, a feature within it, or something separate from it. It cannot be its bodily nature: then all bodies would have the same size and shape. It cannot be a feature within it either, since we would then have to ask the same question about that feature. And it cannot be something separate, because that would relate equally to all bodies. So the sphere’s fixed size and shape must come from the underlying matter that receives its bodily form. That was meant to establish matter. But the sphere’s specific form comes before bodily nature in the order of existence. It gives the sphere its distinguishing feature and makes the general kind, body, specific. So it can cause the sphere’s particular size and shape. None of the problems he named follows. Keep this point in mind.
 
-#### Chapter 7 — How form joins with matter
+#### VII. How form joins with matter
 
 The word “form” can refer to a specific kind of thing, or to the nature of any thing.[^V02-66] It can also mean what gives a thing its underlying reality, what makes matter into a natural kind, or a perfection that can exist apart from a thing. If we look closely at all these uses, we find that they share one basic meaning: what makes a thing actually be what it is. That is why there is no contradiction in saying both that a thing’s form is its essence—what makes it what it is—and that its matter is what bears its form.[^V02-67]
 
@@ -232,7 +233,7 @@ For example, some of the powers and forms in the human body prepare first matter
 
 From these principles and what follows, it will become clear that a kind’s distinguishing features are not things apart from it. They are the particular ways its true nature exists as real individuals.[^V02-74] What exists outside the mind is existence itself. Through sensation or direct awareness, the mind draws broad or narrow concepts from a thing’s own nature, and concepts of its incidental features from other aspects of it. The mind then applies to these concepts what belongs to them in the outside world. A concept drawn from the thing itself is called essential; one drawn from another aspect of it is called incidental. An essential concept belongs directly to what exists, because it is one with that thing in reality. An incidental concept belongs to it only indirectly, as something added. This does not mean that a shared nature exists only in the mind, as one might think.[^V02-75] Existence belongs directly to it when the concept is essential: what truly exists is one with that nature in the outside world; the two are not separate realities.
 
-#### Chapter 8 — How the general kind is taken from matter and the distinguishing feature from form
+#### VIII. How the general kind is taken from matter and the distinguishing feature from form
 
 In things made of matter and form, the general kind is taken from the matter, and the distinguishing feature from the form.[^V02-76] Someone might object: A body, as we shall explain, is made up of matter and form, and both are substances, according to Aristotle and his followers. Yet the nature of a body is an extended substance. Why, then, should we take the concept of “substance” from matter rather than from form? It seems to apply to both equally, since both are kinds of substance.[^V02-77]
 
@@ -262,7 +263,7 @@ Consider the human body, with its forms and powers—the sources of its actions.
 
 **In detail:** First matter is the source of lowliness and the center of evil and estrangement. It is an ugly old woman whom a luminous soul encounters only after clothing her in bodily and specific forms, and lighting her with powers and qualities. In this way, she leaves behind her bare potentiality, ugliness, and darkness. Once the soul is joined to matter, it brings about these forms, powers, and qualities. But if the soul departs and the flow of those powers and qualities stops, matter seems to return to its bare state, stripped of every feature and quality. It becomes exposed to fading away and decay, and naturally repulsive and frightening. We see this in the unease people feel when they look at the bodies of the dead, especially when left alone with one in the dark.
 
-#### Chapter 9 — Platonic Forms and Ideas
+#### IX. Platonic Forms and Ideas
 
 Plato is said to have taught, in many statements that agree with his teacher Socrates, that things have forms in the divine realm.[^V02-94] These are sometimes called divine Ideas. They do not perish or decay; they last forever. Only the things that come into being here perish.
 
@@ -334,7 +335,7 @@ A further problem is that these rulers are said to be pure light, while their im
 
 Different effects must result either from differences in what receives them or from differences in their causes. If an effect has no receiver, the difference must come from its cause. But the effects of the Intellects differ, and this cannot be explained only by differences in their receivers: the receivers and their capacities are themselves among the different effects, and they have no receiver of their own. Nor can the difference come from differences among the active lights since they differ only in greater or lesser completeness. Their effects must therefore differ in the same way. This further supports the view that the effects of the Intellects and higher principles—which are themselves luminous realities—must be natures that actually exist, not merely general ideas about them. The different natures we draw from them arise from different levels of existence: stronger or weaker, earlier or later, more complex or more simple. Different levels and relations bring different properties and effects, much as different numbers have different properties even though they are made from units and share the number one. Those who study numbers and the stars know the remarkable effects that come from such levels and relations.
 
-#### A note
+#### 1. A note
 
 It is best to understand the early philosophers as saying that each bodily kind has one complete, perfect individual in the creative world. This is its original and source; the other individuals of that kind are its branches, effects, and products. Because it is complete, it does not need matter or anything else to support it. The bodily individuals here are different: because they are weak and incomplete, they depend on matter either for what they are or for what they do.
 
@@ -402,7 +403,7 @@ On this view, when the soul knows itself and examines its own nature, it must al
 
 So there must be general realities that exist on their own rather than as features of something else, and that correspond to material individuals. They can apply to many things because we consider them without deciding whether they are separate from matter or attached to it. When we mentally set aside the matter, individual boundaries, and sensory qualities of material things, we reach a shared nature. Like forms in the intellect, this nature is general. This account avoids the problems already raised. The familiar arguments against a universal existing as universal outside the mind apply just as much to one said to exist within the mind.[^V02-145]
 
-#### A Difficulty and Its Answer
+#### 2. A Difficulty and Its Answer
 
 Avicenna gives this argument in the metaphysics section of *The Healing* against Forms and mathematical shapes that exist apart from matter. Suppose a mathematical shape exists separately from the shape we sense. Then either there are no mathematical shapes in the world we sense, or there are. If there are none, we could not see squares or circles. But if we had never sensed such shapes, how could we prove that they exist—or even begin to imagine them? We form these images from things we have sensed. If we imagined someone who had never sensed any of them, we would say, as the saying goes, that losing a sense means losing the knowledge it gives: that person could not imagine, or even understand, such things.[^V02-146]
 
@@ -442,7 +443,7 @@ Learn, too, from the report that this fire of Hell was washed with water seventy
 
 The heat of physical fire follows the kind of thing it is, and is a spark from God’s invisible power after that power has passed through many levels. One example is its appearance in the soul as anger. Intense anger can burn the body’s fluids, even though they are moist, more than a flame burns wood. This shows that not everything that warms something must itself be physically hot. In the same way, the fires and stars we see are shadows and images of God’s gentle, nonphysical lights, and traces of the lights of His unseen realm and the rays of His beauty as they descend through the worlds of command and creation.
 
-#### An Awakening for the Mind
+#### 3. An Awakening for the Mind
 
 Anyone whose heart and mind have been lit by the principles discussed here can see that our attraction to bodies, beautiful forms, and material adornments has a deeper purpose. It is meant to wake us from forgetfulness and ignorance, and to train us to move from bodily things and material idols toward spiritual beauty, the virtues of the intellect, and divine lights. It guides us toward knowing our own nature, our noble origin, the beauty of our true world, and the good that awaits us when we return.
 
@@ -460,7 +461,7 @@ When a wise person reflects on this, the soul wakes from its sleep of forgetfuln
 
 When the soul wakes from forgetfulness, opens its inner eye, sees its own world, and knows its beginning and return, it understands that bodily pleasures and material beauty are only reflections of intellectual virtues and imagined forms of spiritual lights. They have no independent reality. They are like a mirage in a desert: the thirsty person thinks it is water, but when they reach it, they find nothing—and find God there instead.
 
-#### A Merciful Illumination
+#### 4. A Merciful Illumination
 
 In His mercy and kindness, the Creator made all bodily, sensory things signs that point to spiritual realities. He made the senses like steps and ladders by which the soul can climb toward knowledge of the intellect. This is the soul’s highest purpose in entering the world of the senses and rising beyond matter.
 
@@ -470,9 +471,9 @@ My dear, seek lasting wealth through this body and its tools while you can, befo
 
 Those who do not know these realities of the intellect, or the beings that govern their images in the higher and lower worlds of imagination, never rise beyond what the senses show them. They know nothing else. God says of them: “They were content with the life of this world and felt secure in it, and they were heedless of Our signs.” That is, they ignore the afterlife and the home of joy, where the souls of the good rise after leaving their bodies. The Qur'an says: “To Him rises the good word, and good deeds lift it up.” The good word is the believer’s spirit; good deeds are the knowledge of the intellect, which draws the soul toward these realities and lifts it up to them.
 
-### Stage Five — Unity and Multiplicity: Sameness, Difference, and Opposites
+### Stage Five: Unity and Multiplicity: Sameness, Difference, and Opposites
 
-#### Chapter 1 — One and Many
+#### I. One and Many
 
 Know that unity accompanies existence wherever it goes.[^V02-158] Both apply equally to things: whatever is said to exist is also said to be one. Unity also shares existence’s stronger and weaker degrees. The stronger a thing’s existence, the more complete its unity. In most ways, the two go together. This may lead us to think that they mean the same thing. They apply to the same things, but they do not mean the same thing. So it makes sense to discuss unity and what belongs to it, such as identity, sameness in kind, likeness, agreement, equality, and resemblance. We must also discuss multiplicity and its features, such as otherness and difference. In fact, more needs to be said about multiplicity, because unity is simple while multiplicity has many forms and branches.[^V02-159]
 
@@ -514,11 +515,11 @@ What we have said does not prove that unity in general differs from existence. T
 
 You may object that we mean a statement in which “many” is itself the subject: something that is many, precisely because it is many, exists in some way, and cannot be one in the sense that opposes multiplicity. Unity conflicts with multiplicity, but existence does not. We answer that if you mean multiplicity in general, the first claim is false. If you mean a particular kind of multiplicity, your conclusion only says that this kind conflicts with its matching kind of unity. It does not conflict with every other kind of unity. So it shows only that one kind of existence differs from one kind of unity, which causes no problem. The same answer applies if you say that being many does not prevent something from existing. Keep this distinction in mind, and do not lose your footing after you have found it.
 
-#### Chapter 2 — Sameness and Its Opposite
+#### II. Sameness and Its Opposite
 
 You have learned that one kind of unity belongs to many things because they share a meaning. Sameness[^V02-178] means that two things are joined in existence, though they differ in some way. They may share an existence in the world outside the mind or in the mind.[^V02-179] Sometimes both exist in themselves. For example, when we say “Zayd is human,” the existence we attribute to Zayd is the same existence we attribute to being human. Sometimes one exists in itself while the other exists only as a feature of it. For example, in “a human being is a writer,” the human being exists in itself, while being a writer belongs to the person as a feature. The two are joined through one existence, which belongs directly to the subject and indirectly to the feature. Or neither exists in itself: both may exist only as features of something else. For example, when we say “the writer is moving,” writing and movement both belong to a person. What joins them is the person’s existence, which belongs directly to neither of them. So the shared existence in sameness may belong to both things, to one of them, or to something outside both.
 
-#### A Note to Clarify the Point
+#### 1. A Note to Clarify the Point
 
 You know that unity through continuity is a kind of true unity. So something that is one by continuity must have one underlying subject. It cannot be divided into different forms, only into parts that share the same nature and exist only potentially, as we will explain later. When unity is actual, multiplicity is only potential. So it is a foolish claim that the parts of one continuous thing could have different forms.[^V02-180]
 
@@ -536,7 +537,7 @@ There is a problem with this explanation. Being a part of something does prevent
 
 The brief answer is this. A continuous thing that is one, so long as it has not been divided in any way—by cutting or breaking in the outside world, by imagination or thought in the mind, or by a difference between two qualities—has no real difference within it. Nothing else can be said of it, even as a matter of thought. Once any kind of division takes place, two identities arise and the earlier one ends, as we will explain later. Duality then enters existence. Where, then, is the single identity that could belong to two things? That shared identity is what makes predication possible.
 
-#### Chapter 3 — Why Two Things Cannot Become One
+#### III. Why Two Things Cannot Become One
 
 For two things to unite would mean that two natures become one. But after the supposed union, either both still exist—in which case there are still two, not one—or only one exists, in which case one has disappeared and the other remains. Or neither exists, so both have disappeared and a third thing has come into being. In none of these cases have the two become one, as the claim requires.
 
@@ -544,7 +545,7 @@ People who allow that two things can unite are misled by things they see. Severa
 
 What some ancient philosophers said about the soul joining the Active Intellect as it reaches its full development, and what Sufis say about a knower joining with God, refers to a spiritual state suited to beings beyond the body. It does not mean bodily contact or mixing, or that either being’s identity is destroyed. You will learn about this kind of state later in this book, in its proper place.[^V02-185]
 
-#### Chapter 4 — Some Rules About Unity and Multiplicity
+#### IV. Some Rules About Unity and Multiplicity
 
 Unity is not a number, even though number is made from it. Number is a quantity that can be divided; unity cannot. If someone calls unity a number, they may mean anything that can be counted. If so, there is no disagreement: the difference is only in how the word is used. Unity is the starting point of number, because number can be made only from units, not from other numbers. If ten were made from numbers other than units, there would be no reason to choose one grouping over another. Five and five would be no more fitting than six and four, or seven and three. Nor can ten be made from all these groupings at once, because its definition would then repeat its essential parts. Each grouping would be enough on its own, so the others would be unnecessary. And if we say that ten is made from what all these groupings have in common, rather than from their different parts, we have admitted the point at issue: what they have in common is units.[^V02-186]
 
@@ -554,7 +555,7 @@ Most people say that the different levels of number have different natures becau
 
 On this account, we can say that numbers differ in kind because each number has meanings and features that come from what it is—just as different natures come from different levels of existence. We can also say that numbers do not differ in kind, because they differ only in how many units they contain. A difference in the number of parts alone does not make two things different kinds. As for the claim that different properties prove differences in what bears them, this proves only that there is some difference. It may be a difference in kind, or a difference in strength and weakness, completeness and incompleteness, as we explained earlier.
 
-#### Chapter 5 — Opposition
+#### V. Opposition
 
 We have said that unity and multiplicity each have features of their own, as well as features shared with their opposites. These include unity,[^V02-188] sharing, being present in a subject, and relations to a subject, though the details differ on each side. One feature belonging to unity is sameness in the broad sense: anything that joins things or gives them a shared meaning. Its opposite, otherness, belongs to multiplicity. One kind of otherness is opposition, which has four forms: affirmation and denial, having and lacking, contrary qualities, and paired relations such as father and son. What do we mean by opposition? The broad opposite of sameness is otherness. Things can differ in their general kind, their specific kind, their distinguishing feature, or an incidental feature,[^V02-189] just as they can be joined in these ways. When a thing differs from another in an essential feature, we call it a contrary.
 
@@ -576,7 +577,7 @@ Opposition applies to its four forms by degrees. The strongest is affirmation an
 
 There is a problem with this account.[^V02-197] On this definition, the two sides of a contradiction would not directly oppose each other in the same way. Denial directly rules out affirmation, but affirmation does not, in that sense, directly rule out denial.[^V02-198] What directly rules out denial is the denial of that denial, which necessarily entails affirmation.[^V02-199] It is better[^V02-200] to take “removing” or “denying” in its general sense as an act,[^V02-201] which may be considered from the side of what acts or from the side of what receives the action.[^V02-202]
 
-#### Chapter 6 — The Kinds of Opposition and the Rules for Each
+#### VI. The Kinds of Opposition and the Rules for Each
 
 One kind of opposition is between affirmation and denial. Sometimes this means a contradiction between two statements, as logicians use the term. The statements cannot both be true or both false. For example: “Zayd is white” and “Zayd is not white.”[^V02-203] At other times, it means a contrast between single ideas: whiteness and not-whiteness considered in themselves, or the two ideas as applied to a subject, as when we say that Zayd is white or not white.[^V02-204] If we take any idea by itself and add “not,” we form another idea, very different from the first. In these cases, we need not ask whether either idea is true or false of anything.
 
@@ -598,7 +599,7 @@ Another kind of opposition is between contrary qualities.[^V02-214] In the termi
 
 Some people thought that contrariety could occur between broad kinds because they treated good and evil as contraries and as kinds that include many species. This view is mistaken for two reasons. First, good and evil are not contraries: one is existence or a perfection of existence, while the other is the absence of existence or of one of its perfections. Second, they are not kinds in this sense. If we mean good and evil as they are in reality, they reduce to existence and absence. If we mean what suits or harms human nature, then suitability and conflict are relations, not features that make up the nature of a thing. They cannot be kinds of the things they describe. If we consider suitability and conflict apart from the things they describe, each is a distinct kind of relation. So even if they were opposed, they would not be contrary kinds.[^V02-216]
 
-#### Chapter 6 — continued
+#### 1. Continued
 
 For two contrary qualities to oppose each other in the strict sense, the most specific kinds they belong to must share one nearest general kind. Courage is a virtue, while recklessness—the opposite said to it—is a vice. This does not break the rule. Courage and recklessness are, in themselves, qualities of the soul; being a virtue or a vice is an added feature, not part of what each one is.[^V02-217] Virtue and vice are not general kinds that contain the virtues and vices of the soul. Courage is also not contrary to either recklessness or cowardice, because it lies between them. The two extremes differ as much as possible, so they are contraries. Courage is opposed to each only indirectly: courage is a quality with the added feature of being a virtue, while recklessness and cowardice are qualities with the added feature of being vices. The real opposition is between virtue and vice; it applies to the qualities themselves only indirectly. Recklessness and cowardice oppose each other in another way, not because one is a virtue and the other a vice.
 
@@ -624,7 +625,7 @@ Some accept that conclusion and call such pairs “mutually incompatible,” mak
 
 This is the main point made by a respected later scholar. But it does not fit the earlier philosophers’ account of stronger and weaker degrees.[^V02-231] There is another problem with it. Every thing has a nature of its own, whether or not we compare it with something else. Only a true relation depends on another thing for its meaning and existence. Colors belong to the category of quality, not relation, so each has its own nature. Contrariety belongs to things because of what they are, not because we compare one with another. The opposition between red and yellow remains even if we do not compare them with black and white. It is clearly an instance of contrariety, not of any other kind of opposition.
 
-#### Summary
+#### 2. Summary
 
 Those who follow Aristotle answer that true opposition belongs to the natures of black and white, apart from the particular shades. Every shade of black is opposed to every shade of white because one contains the nature of black and the other the nature of white—not because of their particular degrees. A middle shade such as red or yellow is opposed in this same way: one is taken as black and the other as white. Their particular shades differ only indirectly. So opposition between the middle colors reduces to opposition between the extremes, and no fifth kind is needed.
 
@@ -632,7 +633,7 @@ The earlier philosophers give a different answer. They say that the degrees of o
 
 **A further point.** Every existing thing has some relation to other things, whether as a cause, an effect, or in another way. It also has things that can be denied of it—at the very least, its opposite. So paired relations and affirmation and denial apply to every existing thing, including God. God is the source of all things, though He is not a father, son, or neighbor. Nor can anything escape affirmation and denial: a stone, for example, either is or is not a stone. But some things have no contrary qualities and no lack of a feature they could possess. Intelligences that do not depend on bodies cannot receive contrary qualities or lack a perfection they are able to have, because whatever is possible for them in the broadest sense is already actual. So contrariety and having-and-lacking do not apply to every thing, either generally or in each particular case.
 
-#### Chapter 7 — The Opposition Between One and Many
+#### VII. The Opposition Between One and Many
 
 How the one and the many oppose each other is one of the most subtle questions in the study of divine things. It has puzzled many thinkers. Only those firmly grounded in knowledge can grasp it.[^V02-232] Their opposition is not between having a capacity and lacking it, or between affirmation and denial, because both one and many exist; neither is simply the absence of the other. Nor are they contraries. They do not differ as sharply as contraries must, since whatever number you name, you can always imagine a larger one. They also do not take turns in the same individual thing. The unity of basic matter, which can shift between being joined and divided, is only a faint shadow of unity. Multiplicity, in turn, is made up of unity.
 
@@ -652,11 +653,11 @@ Some people say that one and many are directly opposed as contraries. They argue
 
 There is confusion in this argument. To call the opposition between one and many contrariety because it is not one of the other kinds is no more justified than to call it one of those other kinds. Contraries must be able to take turns in the same thing and must differ as sharply as possible. Neither condition has been shown here. The claim that a contrary cannot be made up of its opposite is not unsupported: contrary things destroy one another, so one cannot form a real nature from the other, or from both together. A mottled thing does not have one unified nature; its unity exists only in the way we imagine and describe it. So these arguments do not show that one and many fit any of the four familiar kinds of opposition. They would have to count as a fifth kind—unless we accept the familiar four kinds together with their usual conditions and results.[^V02-241]
 
-### Stage Six — Cause and Effect
+### Stage Six: Cause and Effect
 
 #
 
-#### Chapter 1 — What a Cause Is and How Causes Are Divided
+#### I. What a Cause Is and How Causes Are Divided
 
 A cause has two meanings. First, it can mean something whose presence brings another thing into existence and whose absence means that the other thing is absent.[^V02-242] Second, it can mean something on which another thing depends: without it, that thing cannot exist, but its presence alone does not guarantee that the other thing exists. In this second sense, a complete cause is enough to bring about its effect,[^V02-243] while an incomplete cause is only one of the things the effect depends on.[^V02-244] These include form (what makes a thing the kind of thing it is), matter (what it is made from), purpose (what it is for), and agent (what brings it about). It is wrong to say that “cause” applies to these four in unrelated senses, especially when we say that causes divide into these four kinds. The word has the same second meaning in each case: each is something on which the thing depends.
 
@@ -674,7 +675,7 @@ The four causes also have many connections. In one sense, the agent and the purp
 
 Some of these causes can also be one and the same thing. As we will explain, the first cause of everything is also its purpose, both in reality and in thought. Sometimes the agent, form, and purpose are all one in nature. In a father, the source that brings the human form about in the seed is the human form itself, not some other form. What comes to be in the seed is a human form, and that is also what the seed’s development moves toward. As this form joins with matter and makes a human being, it is the form. As it begins the movement, it is the agent. As the movement reaches its end, it is the purpose. In relation to matter and the whole made from it, this one form is the form and formal cause in two ways. In relation to movement, the father’s form is the agent that starts it, while the form at which the movement arrives is its purpose, as explained in *The Healing*.[^V02-248]
 
-#### Chapter 2 — Why Cause and Effect Must Be Present Together
+#### II. Why Cause and Effect Must Be Present Together
 
 First, a cause must exist when its effect exists. An effect is possible in itself: it can either exist or not exist. A thing that must exist, or cannot exist, does not need a cause. But if it can either exist or not exist, something must tip the balance in favor of existence. That cause must be present when the effect is determined; otherwise, the effect would not depend on it at that point. And since something that does not exist cannot bring existence about, the cause must exist too. So it must be present when the effect exists.
 
@@ -714,7 +715,7 @@ If times exist in an ordered series, are possible, and come from God, then God�
 
 As for the claim that an act does not happen earlier because it cannot happen earlier: that may make sense for particular acts and for specific natural forms that come to be in individual things.[^V02-260] But it cannot explain creation and bringing things into existence as a whole. A possible thing needs a cause because it is possible, not because it began to exist. Nor must every act, taken as a whole, be preceded by nonexistence. The world’s possibility of coming to be has no first moment: whatever time we suppose to be the first when it could have existed is preceded by another time at which it could have existed too.[^V02-261] A thing’s occurring at a particular time, and its being preceded by nonexistence at that time, can be understood only once time already exists. The same is true of its being in one particular place rather than another: that becomes possible only once place exists.
 
-#### An Objection and Its Answer
+#### 1. An Objection and Its Answer
 
 Some say that whether the world has always existed or began at some point, it is never free of new events and changes. One thing passes away and another comes to be. If these events depend on God, why not say that the world itself depends on Him in the same way, even if it began at some point?
 
@@ -730,7 +731,7 @@ We have therefore shown that events have an immediate cause.
 
 That cause is something that continually passes and renews itself as one unbroken whole, not something made up of separate, indivisible instants. This is one of the starting points of natural philosophy. It establishes that bodily substance is continuous and cannot be made of indivisible parts. So no event can begin unless another event came before it, without any first event. Those who reject this view take one of two paths: they say that an act must be preceded by nonexistence, while eternity has no beginning, so the two cannot go together; or they say that motion and events cannot stretch back without a beginning. We will explain and answer these arguments later.[^V02-263]
 
-#### Chapter 3 — Can Something That Accompanies a Cause Come Before Its Effect?
+#### III. Can Something That Accompanies a Cause Come Before Its Effect?
 
 In the sixth section of *The Remarks and Admonitions*, Avicenna says that something accompanying a cause that comes before its effect does not have to come before the effect too. The cause comes before its effect through causation, not through time. Something that accompanies the cause but is not itself a cause has no such priority. And if it is not prior in time or through causation, then it is not prior at all.
 
@@ -750,7 +751,7 @@ I see no conflict. The difference is clear. Two things are together by causation
 
 It is surprising that Naṣīr al-Dīn al-Tusi missed this clear distinction and offered another answer that does not work.[^V02-269] He says that some things are together by their nature, while others only happen to be together. The word “effect” may not mean the same thing in both passages. Perhaps, then, the difference lies in what “together” means.
 
-#### Chapter 4 — Why Causes and Effects Cannot Form a Circle or Stretch Back Forever
+#### IV. Why Causes and Effects Cannot Form a Circle or Stretch Back Forever
 
 Both problems can be stated together. A chain of causes and effects could go on without end, with every cause also being an effect. If the chain has a limited number of things, it loops back on itself: a circle of two things, or of more than two. If it has no end, the chain stretches back forever. In the first case, one thing would come before itself, come after itself, and depend on itself. All of these are plainly impossible. If one thing causes another, it comes before it by one step. If the second thing also comes before the first, then the first would come before itself by two steps. The same problem grows with every added link.[^V02-270]
 
@@ -850,7 +851,7 @@ We reply that this does not undermine independence. Independence means that a ca
 
 Someone might say: If by “the whole” you mean either one chain or infinitely many chains, as you proposed, then this objection goes away too: there is no final effect and no composite whole before it. We reply that the objection still applies. The cause of this whole is the part made up of all the infinitely many wholes that come before their infinitely many final effects. If you say[^V02-302] that, from the start, we denied that the cause of the whole could be one of its parts—because no part has a better claim than another, or because any part you choose has a stronger claim to be the cause since it has greater causal power—we reply that this is not so. The part made up of everything before the final effect is the one fit to be the cause, since none of the other parts can independently bring the whole into existence.
 
-#### Critique and Clarification
+#### 1. Critique and Clarification
 
 This way of arguing against an endless chain and proving the Necessary Being is very weak. We have already shown that the existence of each thing is the same as its unity, and that a thing’s unity is the same as its existence, in the sense explained earlier. So it is wrong to say that a person and a stone together exist as a third thing, separate from both. This also raises another objection to the original proof: we do not accept that the proposed whole needs a cause beyond the causes of its individual parts. That would follow only if the whole had an existence different from the existence of its parts, each of which has its own cause. Calling the whole “possible” does not prove anything. It is the possible things that exist, each through its own cause. Why, then, would the whole need another cause? Ten separate units, for example, do not need a cause beyond the causes of the units themselves.
 
@@ -902,7 +903,7 @@ The tenth proof[^V02-315] is this. The proposed infinite chain of causes[^V02-31
 
 One might object that not every number that cannot be divided into two equal groups is odd. That is true only of finite numbers, since even and odd apply only to finite numbers. Another way to put the proof is to say that any number can be increased, so it is always less than another number. The flaw in that claim is clear.
 
-#### Clarification
+#### 2. Clarification
 
 The proofs above show that an ordered chain cannot extend without end in the direction of causes and causal priority. They do not show that it cannot extend without end in the direction of effects.[^V02-317] The reason is that, if an ascending chain of causes had no first member, reason could not identify any cause that must exist first and from which the whole ordered chain could begin to exist.[^V02-318] This is what makes such a chain impossible. A descending chain of effects is different.
 
@@ -912,7 +913,7 @@ If the ascending chain had no end, all its infinitely many causes would be suppo
 
 So order and co-existence at a prior level occur only in a chain that rises toward its causes, not in one that descends toward its effects. The proofs establish that the chain must end in the first direction, but not in the second. This is the gist of what our teacher, Sayyid, explained.
 
-#### Chapter 5 — Why the Chain of Causes Must Have an End
+#### V. Why the Chain of Causes Must Have an End
 
 The proofs given so far show that causes are finite in every respect, that each chain has a first principle, and that there is one first principle for all of them. The efficient and final causes come before the material and formal causes. In cases where the agent and its goal are not the same, the goal comes before the other causes, because it is what makes the agent act. Once we have shown that the chains of efficient and final causes are finite, the chains of material and formal causes must be finite too, since they come before the other two in this respect. The form, in one sense, is also an efficient cause, so it belongs with the final cause in that class. The proof that the chain of agents is finite can therefore also show that every level of causes is finite.[^V02-322]
 
@@ -928,7 +929,7 @@ The first kind of matter must be finite. If every receiver had another receiver 
 
 Formal causes, however, must be finite for two reasons. First, the final form is a cause of the form before it, so if forms had no end, neither would causes. Second, forms are parts of an essence, and one essence cannot have infinitely many parts.
 
-#### Guidance
+#### 1. Guidance
 
 Matter—the subject in which a thing's existence is possible—has two kinds.[^V02-327] When a quality appears in a subject, it either causes something already present there to disappear or it does not. If it does not, the new quality is not a substantial form, the kind of form that makes the subject what it is.[^V02-328] If it were such a form, the subject would have needed another substantial form before it appeared. That earlier form would either remain or disappear.[^V02-329] If it remained, the subject would already be constituted by it and would not need the new form; the new quality would be an accident, not a substantial form. If the earlier form disappeared, the new form would have caused something to disappear, contrary to our starting assumption.
 
@@ -936,7 +937,7 @@ So any quality that appears in a subject without removing something already ther
 
 By their nature, forms move toward their full perfection through accidents, unless something blocks them or a needed condition is absent. An accident that replaces another may be a block; seeds that do not sprout without sunlight are an example of a missing condition. Once a thing reaches its perfection, its nature cannot turn it back toward deficiency, because one and the same nature cannot both draw it toward something and turn it away. This proves that whenever a quality appears in a subject without displacing anything already there, the subject naturally moves toward it and cannot move away once it has attained it. A boy, for example, naturally grows into adulthood; once he has become a man, he cannot return to the seminal stage.
 
-#### Objection and Answer
+#### 2. Objection and Answer
 
 In *The Healing*, Avicenna raises an objection here. Someone who has no belief about a question may come to believe something false about it. Since that belief does not perfect the mind, does this not refute the claim that every quality that appears in a subject without making something disappear is a perfection?
 
@@ -952,7 +953,7 @@ The answer is that a single element is not ready to receive an animal form, for 
 
 There is another way to divide matter. A subject may receive a form on its own, as basic matter receives bodily form, or it may receive a form together with something else. In the second case, those things must come together in some kind of composition. The composition may involve a change, or it may not. When it does, one change may be enough to reach the result, or several changes may be needed. When no change is involved, examples include a syllogism formed by joining premises, or a number formed by joining units. The units may be limited in number, as in these examples, or unlimited, as with an army.
 
-#### Eastern Wisdom
+#### 3. Eastern Wisdom
 
 On careful reflection, we can see that when a quality appears in matter without replacing anything, that matter has no settled nature of its own. Anything with a settled nature becomes matter for something else only after its nature disappears. This shows that the elemental forms must be partly removed before the elements can become matter for a new mineral, plant, or animal form. A thing[^V02-333] does not naturally move toward something opposed to it, except when the difference is only one of greater or lesser completeness or strength. It moves only toward what completes and strengthens it.
 
@@ -960,7 +961,7 @@ Fire, for example, is opposed to animal life: fire burns and destroys an animal.
 
 It follows that, within the elements, there is a form of the same general kind as the animal form,[^V02-334] though not the same specific kind. It moves toward animal perfection after passing through the mineral and plant levels. Nature does not skip a level of perfection; before reaching a higher one, it passes through the lower levels. This shows that change takes place in the category of substance, and that things naturally move toward the higher spiritual realm unless something prevents them. The discussion of goals will make this clearer, God willing.
 
-#### Chapter 6 — Can Something Simple Both Receive and Act?
+#### VI. Can Something Simple Both Receive and Act?
 
 Most philosophers hold that one thing, in the same respect, cannot both receive and act. They add “in the same respect” to distinguish this from fire, which, as they put it, gives heat through its form and receives heat through its matter. We will return to this. Later philosophers say a thing can both receive and act without this qualification.
 
@@ -994,7 +995,7 @@ There is another objection to the argument based on the difference between possi
 
 The reply is that readiness means more than “not impossible.” A thing is ready to receive something only if it could receive it or fail to receive it. This is possibility in the narrower sense: the thing has not yet received what it could receive. Even if we use “possibility” in the broad sense, we cannot treat it simply as one of its two forms, necessity and this narrower kind of possibility. We use the broad meaning in a way that, in this argument, still requires the narrower kind and therefore conflicts with necessity. In short, matter that can receive a thing's existence is not the same as the active power that makes that thing necessary. No thoughtful person should deny that one and the same thing, simply as one thing, cannot receive a perfection from itself.
 
-#### Chapter 7 — How Thoughts Can Help Bring Things into Being
+#### VII. How Thoughts Can Help Bring Things into Being
 
 In brief,[^V02-345] earlier discussions of powers and changing natures have shown that whatever brings bodies and their natures into existence must itself be independent of matter. Anything that exists independently of matter must be an immaterial form. So the sources of things that come into being are forms—and even thoughts.[^V02-346]
 
@@ -1010,7 +1011,7 @@ Once this principle is accepted, it is easier to believe in prophecy. A soul may
 
 One point related to this discussion is that a general idea cannot by itself bring about one particular action. A general idea is shared by its individual cases and relates to each of them in the same way. If it caused one rather than the others, one possible outcome would occur without a reason. That is impossible.
 
-#### An Objection and Its Answer
+#### 1. An Objection and Its Answer
 
 Someone might object that everything that enters existence is particular, though it has a general essence. So a particular thing can come into being only through a particular will. But philosophers say that God's knowledge and will are general,[^V02-350] even though they agree that these are sources of the existence of possible things. Put another way, they say that the thoughts of immaterial sources cause bodies and qualities in the worlds of creation and generation. But these thoughts are general, while the things that come into being are particular. The things imagined by the first principles cannot exist here, and the things that exist here are not what those principles imagined. So the philosophers' claim fails.
 
@@ -1022,7 +1023,7 @@ For example, a person's decision to make a pilgrimage causes each step they take
 
 If a kind could have many individual examples, the general will would not by itself single out one of them. A particular thing needs an added condition that makes it possible here and now, in this matter. But if a kind can have only one individual, the general will can bring that particular thing into being: its own possibility is enough for it to receive existence. This differs from one example among many of the same kind. The kind's possibility alone does not make that individual possible; the matter in which it will exist must also be prepared for it.
 
-#### Chapter 8 — Is a Cause Stronger than Its Effect?
+#### VIII. Is a Cause Stronger than Its Effect?
 
 It is clear that a cause must be stronger than its effect in the respect that makes it a cause. We cannot decide at once whether it is stronger in other respects. Avicenna discusses this in detail. An effect may depend on its cause either for its nature or for its individual identity. In the first case, the cause must differ from the effect in nature; otherwise, the thing would cause itself. In the second case—like one fire being caused by another, or a son by his father—the effect cannot be stronger than its cause in that nature. Any extra strength in the effect would itself need a cause. That added strength is not already present in the cause for it to give, and it cannot come from the effect’s matter: matter receives an effect through its readiness; it does not produce the effect.
 
@@ -1042,13 +1043,13 @@ All this concerns cause and effect that share the same nature. Their natures may
 
 If an effect shares neither nature nor matter with its cause, but shares only existence, then existence in the cause is stronger, earlier, more independent, and necessary. Avicenna, however, says that two existences do not differ in strength or weakness, because existence simply as existence cannot vary in this way. He says the cause and effect differ in three respects: before and after, independence and dependence, necessity and possibility. I think that by “necessity” he may mean the broad idea of existence that the mind applies to natures. We then describe a nature’s relation to existence as necessary, possible, or impossible.[^V02-356] This may be why he says existence “as existence” cannot vary in strength. But those who speak of real existence—the kind that rules out nonexistence—agree that it can be stronger or weaker. Avicenna himself says in many places that some things have stronger existence and others weaker, such as time and motion. A nature may also exist in the mind or outside it. Its existence outside the mind is stronger, because it produces effects that its existence in the mind does not.
 
-#### Chapter 9 — When Can a Complete Cause Exist Alongside Its Effect?
+#### IX. When Can a Complete Cause Exist Alongside Its Effect?
 
 Know[^V02-357] that we have shown that a thing’s nature is its form and the source of its final distinguishing feature. If the form existed without matter, or the final distinguishing feature existed on its own, it would contain all the meanings that make up the thing’s nature or existence. These would follow from the form or feature. For example, if the human form existed without matter, it would be the source of speech, life, sensation, nourishment, reproduction, and bodily existence. But because it is complete and does not need to carry out these actions, it does not perform them as it does when it is incomplete and still developing.[^V02-358] Likewise, the rational feature of a human being necessarily includes the idea of animal life and all that comes with it.
 
 Forms need causes only for the way they exist in the world, because each form is one thing with its own natural unity. Once a form exists through its causes and conditions, the kind made up of that form and its nearby matter must also exist alongside it, without needing another cause. In this sense, people say that the complete cause of the compound exists with the compound. This is to treat something that exists only as a by-product as if it existed in its own right. As we have said, the compound exists only as a by-product, and it is caused only as a by-product. Something caused in this way may exist alongside what causes it in this way, because it does not depend on that cause in its own right. Keep this point in mind; it belongs to Eastern wisdom.
 
-#### Chapter 10 — Six Distinctions Shared by the Four Kinds of Cause
+#### X. Six Distinctions Shared by the Four Kinds of Cause
 
 There are six distinctions that apply to all four kinds of cause.[^V02-359] The first is the difference between a cause that acts in its own right and one that acts only incidentally. An agent acts in its own right when its nature brings about the effect. An incidental agent does not. This happens in several ways. First, an agent may directly remove one thing, and the opposite appears as a result. The purgative scammony, for example, is said to cool the body. Its direct action is to remove bile; when the bile is gone, coolness follows and is attributed to the scammony. Second, an agent may remove an obstacle without bringing about some opposite effect. Someone who pulls away a support is then called the one who brought down the roof. Third, a thing may have many features. It may bring about an effect through one feature, but be called its cause only incidentally when we describe it by another. So people say, “The writer builds,” “the builder writes,” or “the black thing moves.”
 
@@ -1068,7 +1069,7 @@ The fifth distinction is between simple and compound causes. A simple agent is o
 
 The sixth distinction is between what exists only as a possibility and what exists in actuality. An agent may be able to act without having acted yet. Fire, for example, is an agent in relation to something that has not caught fire but could. This ability may be near, like a writer ready to write, or distant, like a child who may learn to write. A receiver may be only able to take on a form, like semen in relation to the human form, or it may already have the form, like a human body. A form may be present in actuality, or it may exist only as the possibility of a form in matter that does not yet have it. A goal, too, may be only possible or already reached. In this way, a goal is like a form: the goal relates to the thing that reaches it much as form relates to the thing that has it. A goal also moves an agent to act, insofar as it acts for that goal.[^V02-362]
 
-#### Chapter 11 — Can a Simple Thing Have a Cause Made of Parts?
+#### XI. Can a Simple Thing Have a Cause Made of Parts?
 
 Many scholars have said that it can, but the sound view is that it cannot. One careful thinker argues as follows:[^V02-363]
 
@@ -1114,7 +1115,7 @@ Suppose instead that each contribution, whether visible or not, remained in the 
 
 So people need to act at the same time not to create a unity that exists only in thought, but to preserve each person’s effect until the next one contributes. This keeps earlier effects from fading before the later ones arise, and stops each contribution from disappearing when the time of its action is over. Think this through carefully; it will help you understand many other questions, such as why bodily powers have limits in how much they can act on or be affected by other things. God is the source of right judgment and insight.
 
-#### Chapter 12
+#### XII. Untitled chapter
 
 The essence of a possible thing must exist when its complete cause is present, and cannot exist when that cause is absent. If we set those two conditions aside, it remains possible in itself. These two alternatives apply to a possible thing only under their respective conditions.[^V02-368]
 
@@ -1128,7 +1129,7 @@ There is no difficulty in saying that a thing may or may not have one feature, w
 
 Some people think a thing needs a cause only because it is new: once it exists, they say, it no longer needs a cause. That is also false.[^V02-372] If we break coming into being into three parts—prior nonexistence, later existence, and the fact that existence comes after nonexistence—and ask which one makes a thing depend on an agent, none of the three can be the answer. Prior nonexistence is pure absence, so it cannot cause anything. Existence depends on being brought about, which already presupposes the need for an agent; that need itself must have a cause. If existence caused the need for an agent, it would have to come before itself in several stages. Nor can the fact of coming after nonexistence be the cause of that need, since it depends on existence as one of its features, and we have already seen that existence needs a cause. If being new caused the need, it too would have to come before itself in several stages. There must therefore be a fourth factor, beyond these three, that explains why the thing depends on an agent. This[^V02-373] is what fits[^V02-374] the philosophers’ approach.
 
-#### Chapter 13 — Why a Completely Simple Cause Cannot Produce Two Effects That Arise Together
+#### XIII. Why a Completely Simple Cause Cannot Produce Two Effects That Arise Together
 
 If a thing is truly simple, with no real parts, and its very nature makes it the cause of something, then its whole nature is the cause of that effect. The mind cannot split it into “what it is” and “what causes the effect,” as though it caused the effect through some extra quality, condition, goal, time, or other factor. If it needed any such extra factor, it would not be a simple source; it would be compound.
 
@@ -1158,7 +1159,7 @@ Fourth, the opposite of a thing’s coming from a cause is its not coming from t
 
 Do not confuse this debate with the proof we have given. We do not mean by “producing” a relation that appears only after the cause and effect exist. We mean the real nature of the simple cause itself, which is what makes the effect come from it. Anyone who understands this will see the difference. We will return to the question in the section on divine things and explain it more fully.
 
-#### Chapter 14 — Can One Effect Depend on Several Causes?
+#### XIV. Can One Effect Depend on Several Causes?
 
 A single, specific effect cannot depend on two independent causes, whether they act at the same time or one after the other.[^V02-386] The reason is this: either a special feature of each cause—or of one of them—helps bring about the effect, or neither special feature does.[^V02-387]
 
@@ -1176,7 +1177,7 @@ Difference, too, is a single feature shared by things that differ. Like every ac
 
 Someone may object that an effect either needs one particular cause by its very nature or does not. If it does, it cannot come from any other cause. If it does not, then it needs no cause at all. I reply that because the effect is possible in itself, it needs some cause or other, not a particular one. Its dependence on this particular cause comes from something on the cause’s side: the cause’s own nature calls for this effect. The effect’s general need for a cause comes from the effect; which particular cause it depends on comes from the cause.[^V02-392]
 
-#### Chapter 15 — Some Principles about the Active Cause
+#### XV. Some Principles about the Active Cause
 
 We have learned that every cause that necessarily brings about an effect exists together with that effect. Confusion often arises when we overlook the respect in which something is being considered, or confuse what belongs to a thing in itself with what belongs to it only as a side effect. So when people say that an agent may come before its effect, they do not mean that it comes before the effect in the very role in which it causes it. They mean the same thing considered in another role.
 
@@ -1246,7 +1247,7 @@ Those powers cannot perceive themselves, because they depend on the body, and be
 
 When the soul causes something through a picture or idea alone, it acts through providence. For example, imagining a fall can make someone fall from a high wall. Imagining something sour can make the tongue tighten and squeeze out moisture.[^V02-409] When the soul acts because of outside motives that lead it toward its aims and growth, it acts through intention, as in writing or walking. A good soul may be forced to do wrong, such as commit adultery, give false testimony, or falsely claim that God compels people. The soul acts by nature when it keeps the body balanced, provides its natural warmth, and preserves health. It acts against nature when it brings about fever, illness, excessive weight gain, or wasting away.
 
-#### Chapter 16 — Why a Complete Cause Cannot Be Separated from Its Effect
+#### XVI. Why a Complete Cause Cannot Be Separated from Its Effect
 
 Here is the argument. Either an agent brings about its effect through its own nature, or it does not. If it needs an added condition—a feature, a choice, a tool, a benefit, or anything else—then the thing we first called the agent is not the true cause. The true cause is the whole combination. We can ask the same question about that combination, until we reach something that acts through its own nature and being, not through a feature added to it. Every complete cause therefore acts through what it is, not through something added to it. Once we see that, we can say that the effect is an essential feature of its cause: it comes from the cause’s own nature and being.
 
@@ -1268,7 +1269,7 @@ Most people, however, are not fully present to themselves. They are busy with th
 
 The existence of an incomplete soul, strongly attached to the body and its desires, is very weak. Since its awareness of itself is the same as its being, that awareness is dim and easily missed. It becomes unaware of its own qualities, special features, and effects. But bright, strong, complete souls that rule over their powers never lose sight of themselves or their powers. As they witness themselves, they also witness everything that follows from them within that same inner awareness. Their very being bears witness to everything connected with it, as we will explain later. Keep this in mind.[^V02-412]
 
-#### Chapter 17 — The Basic Material of Things and Its Kinds
+#### XVII. The Basic Material of Things and Its Kinds
 
 The basic material of a thing is what can bring that thing into being, either by itself or together with something else. If it acts alone, it may do so without changing in itself, as a board does when someone writes on it. Or it may change. The change may be a change in its condition, such as when metal is made into a statue or a child grows into an adult. In these cases, the material changes in some way—its place, size, or another feature. It may also change by losing something, as white turns to black. Or the change may be in the thing’s substance: wood is cut down to make a bed, or the seed gains new essential features as it develops into an animal, passing through changes of form along the way.
 
@@ -1282,7 +1283,7 @@ In every kind of example discussed above, the basic material of a thing has no f
 
 First matter stands at the farthest point from existence. In prophetic symbols and sacred language it is called the Abyss, darkness, emptiness, open space, the lowest of the low, and other names that point to its lowly and almost nonexistent state.
 
-#### Chapter 18 — Names for the Basic Material
+#### XVIII. Names for the Basic Material
 
 Names may be given to things because of what they are in themselves, or because of features and relations that belong to them. “Human” names what a person is; “writer” names a role a person may have. Sometimes a thing has no name for what it is in itself. This is true of the human soul: it has no name based on its own nature. “Soul” names it in relation to the body, which it moves and guides. Calling it a soul does not name what it is in itself, as “human” names what a human being is, or “Zayd” names a particular person. If “soul” means any self or being in general, then it names a broad idea in the mind, not the nature of this particular soul.
 
@@ -1292,7 +1293,7 @@ Because it can underlie many forms, it is called matter or clay. Because it is t
 
 They also sometimes call the part of a heavenly body that receives its form “first matter,” even though it is always actual. They call it “matter” too, even though each heavenly sphere has matter of its own. The first usage can be excused because the heavenly matter has its form through the action of higher causes; the material itself does not demand that form. The second can be excused because the differences between heavenly matters do not come from something already specified in the matter itself. Simple matter is not specified in itself. At its own level, it is wholly open; otherwise, it would already contain the features that divide one kind from another. The differences between heavenly matters come from the forms that make them actual, and from their union with those forms. Since these forms give them their essential differences, the matter, when considered apart from the forms that shape it, has a kind of general unity. Considered in another way, it is one particular thing, though no form or other condition is included in that view.[^V02-415]
 
-#### Chapter 19 — Why Matter Longs for Form
+#### XIX. Why Matter Longs for Form
 
 The ancient sages taught that matter longs for form. What they left behind, and the results of their thought, show clearly that their symbols and secrets were not based on guesswork, hunches, or uncertain imagination. They rested on clear insight and firm proof. The sages cleared their inner lives through practices that purify the heart and remove what clouds reason. Their minds became clear, their inner sense refined, and their hearts like polished mirrors turned toward the truth.
 
@@ -1372,7 +1373,7 @@ It is surprising that Ibn Sina himself, in his treatise *On Love*, gives a stron
 
 This is Ibn Sina’s own account of matter’s inborn love.[^V02-426]
 
-#### Chapter 20 — Form as a Cause, and How Nature Differs from Form
+#### XX. Form as a Cause, and How Nature Differs from Form
 
 Form is what makes a thing actual. Sometimes the underlying thing can exist without that form, considered in the broadest sense. In that case it is called a subject—the thing that receives a quality—as a body receives blackness. Sometimes it cannot exist without the form; then it is called matter. In the first case, the form is an accident; in the second, it is a substance.
 
@@ -1400,15 +1401,15 @@ The simple forms make the simple elements what they are. They are not part of th
 
 It is surprising that, despite this, people say every compound natural body has a natural unity. What can they mean by that except that each has one nature that makes it what it is in actuality? On that view, even if all the forms and powers that come with it were removed, the thing would remain exactly what it is in its essence.
 
-#### Chapter 21 — What a Goal Is and What People Have Said About It
+#### XXI. What a Goal Is and What People Have Said About It
 
 A goal is what a thing is for—the reason it exists, as we explained earlier. Sometimes the goal is the agent itself, as with the First Agent, God. Sometimes it is something distinct from the agent but within it, such as the joy of winning. Sometimes the goal lies outside the agent. It may lie in the thing acted on, as when a movement guided by thought or by nature reaches its completion. Or it may lie in a third thing, as when someone acts to please another person. In that case, the other person’s satisfaction is a goal outside both the agent and the thing acted on, though the agent’s joy at pleasing them is another goal. This is only a brief outline; it needs a fuller explanation.
 
-#### Chapter 22 — A Closer Look at Goals, Chance, and Aimless Action
+#### XXII. A Closer Look at Goals, Chance, and Aimless Action
 
 They say that a thing depends on causes in two ways: for what it is and for its existence. Matter and form are causes of what a thing is; the agent and the goal are causes of its existence. No one disputes that every compound thing has matter, form, an agent, and a goal. But there is a question about whether every effect has a goal that explains its existence. Some effects seem aimless; some happen by chance; some come from a choice made without a reason or a preference for one option over another; and some have a goal that itself has a further goal, and so on without end. In that case, strictly speaking, they have no goal. It would be like saying that every beginning has an earlier beginning: everything would then be only a middle, with no true beginning. This may seem to be true of events in the elements, the movements of the heavenly spheres, and the successive conclusions of arguments, if they go on without end. We will examine these matters in turn.
 
-#### Section 1 — How Even Aimless Action Has a Goal
+#### 1. How Even Aimless Action Has a Goal
 
 Know that every voluntary movement has a sequence of sources. The nearest is the power that directly moves the body. In an animal, this power is in the muscle of the limb being moved. Before it comes resolve, then desire, and before desire come thought and imagination. When an image of something appears in the imagination or the intellect, the image itself stirs desire and leads it toward resolve, without any prior decision. The First Agent brings things into existence in a similar way, as will become clear later, God willing: the vision of the highest order causes things to proceed from Him, without desire or the use of an instrument.
 
@@ -1422,7 +1423,7 @@ With these points in place, we can see that aimless action still has a goal: it 
 
 Every action of the soul involves desire and imagination, even if the image that stirred desire does not remain. A person may no longer be aware of it: imagining something and being aware that one is imagining it are not the same. If every awareness required another awareness of itself, this would go on without end. So the desire that arises in someone who is asleep or distracted, or in someone playing with their beard, must have a cause. It may be habit, impatience with one’s present state, a wish to move into another state, or the senses’ urge for some new activity. Habit is pleasurable; so is moving away from a tiresome state, and so is seeking a new activity. Pleasure is a good for the senses or the imagination. It is a real good for an animal as an animal, though from the standpoint of human reason it is only an apparent good. So the action is not without a real good in relation to the source that produced it, even if that good is not a true rational good.
 
-#### Section 2 — Chance
+#### 2. Chance
 
 Democritus claimed that the world came about by chance. He said its basic building blocks were tiny bodies, too hard to be split apart. They were scattered through an endless empty space. They all had the same basic nature,[^V02-438] but different shapes, and they were always moving. By chance, some collided and came together in a particular arrangement, forming this world. But Democritus did not claim that plants and animals arose by chance.[^V02-439] Empedocles, by contrast, claimed that the basic elemental bodies came into being by chance.[^V02-440] Whatever arrangement allowed them to survive and reproduce remained; whatever did not, disappeared. He offered several arguments for this view. One was that nature cannot think things through, so how can it act toward a goal?
 
@@ -1472,7 +1473,7 @@ One clear example is this: if a grain of wheat and a grain of barley fall in the
 
 Another point is that the goals nature reaches when nothing blocks it are all good and complete. When nature produces the opposite, that happens only rarely. This is why people look for some outside cause and ask: “What happened to this animal that made it sick and weak? Why did wheat or barley fail to grow?” Nature, then, is directed toward what is good whenever nothing stands in its way. When we see nature falling short, we help it through skill, as a doctor does. The doctor believes that once the obstacle is removed and nature’s power grows stronger, nature will bring about health and good. This supports the point.
 
-#### Section 3 — The Goals of Chosen Actions
+#### 3. The Goals of Chosen Actions
 
 Some people who deny God’s attributes say that God’s actions serve no wisdom or good purpose. Yet you have seen that nature acts toward goals, and that even the actions of people who are asleep or distracted serve the needs of some power within them—the power that actually causes the action—even when reason or thought does not guide it. These people rely on arguments weaker than a spider’s web. For example, they try to show that actions need no motive by pointing to two equal roads for a person fleeing, two equal loaves for someone hungry, or two equal cups of water for someone thirsty. They do not realize that our failure to see what tips the balance does not prove that there is no such cause. Some of the things that guide our actions are hidden from us, such as the positions of the stars and higher divine causes.[^V02-447]
 
@@ -1504,7 +1505,7 @@ Goals, like all other causes, depend on Him. If His action had a goal beyond Him
 
 We will show, God willing, that the Necessary Existent takes the greatest joy in His own essence, and that His essence is the source of all things. Whoever takes joy in something also takes joy in what comes from it, insofar as it comes from that thing. God wills things not for their own sake, considered by themselves, but because they come from His essence. The goal of His creation of the world is His own sacred essence. Any agent whose action follows this pattern is both the agent and the goal of that action. Even if pleasure in us were aware of itself, and its own essence were the source of an action, it would will that action for its own sake and because the action came from it. It would then be both agent and goal.
 
-#### An objection and a reminder
+#### 1. An objection and a reminder
 
 They often say that what is higher does not will or attend to what is lower. If it did, it would be perfected by what is lower, since that thing’s existence would be better for it than its absence; but a cause is not perfected by its effect. This does not undermine our argument. What is denied is direct love and attention, aimed at the lower thing for its own sake—not love that follows as a consequence. If God loves and wills His action because it is an effect of His essence, a trace of His outpouring and existence, it does not follow that this action is itself a source of goodness or joy for Him. His joy is in what He loves directly: His exalted essence, from which every perfection and beauty flows.[^V02-458]
 
@@ -1515,7 +1516,7 @@ This makes clear what is meant by the saying: “Were it not for love, neither h
 > It was not love of the houses that captured my heart,
 > but love of the one who lived in them.
 
-#### Section 4 — The Purpose of Beings That Follow One Another Without End
+#### 4. The Purpose of Beings That Follow One Another Without End
 
 Before we explain this, we need to make one point clear. Some outcomes are not the main goal, but are necessary along the way. They come in three kinds. The first is something that must exist before the main goal can be reached. For example, iron must be hard for cutting to work. This is called useful, either in fact or only in our estimation. Death and similar things belong here. Death serves the order of living things as a whole, and the soul too, as we have mentioned.[^V02-460]
 
@@ -1529,7 +1530,7 @@ That is the goal of the natural power that guides each kind. An individual’s n
 
 As for the reasons and conclusions in an argument, the claim that a goal must be finite means that one agent cannot pursue one goal, then another, and another without end in a single action. It does not mean that many actions cannot have many goals. Each argument has its own conclusion, and in following it the mind seeks only that conclusion. There is no problem here.
 
-#### Chapter 23 — The Difference Between a Goal and a Good
+#### XXIII. The Difference Between a Goal and a Good
 
 A goal may lie within the created world, or it may be above it. If it lies within the created world, it may exist in what receives it—for example, the shape of a house in the clay and bricks a builder uses—or it may exist in the agent’s own mind, as the shelter the builder hopes to provide. In every case, the final cause—the goal toward which an action is directed—is the first cause on which the other causes depend. Unless an agent first pictures a goal, it cannot act. Yet when a goal exists in the outside world, it is itself brought about by the other causes.[^V02-463][^V02-464]
 
@@ -1541,7 +1542,7 @@ You should also know that the goal of an agent that directly acts on matter is a
 
 For example, someone builds a house to live in. As someone seeking shelter, he is the prior cause of the building: his wish to live there leads him to build. As the builder, he acts because he seeks shelter. From the builder’s point of view, the goal is something beyond the house’s shape; but in the role of directly shaping the material, his goal is the house’s form and structure.
 
-#### Chapter 24 — The Difference Between Good and Generosity
+#### XXIV. The Difference Between Good and Generosity
 
 A goal may move an agent to act, and so be the purpose of its action. In another sense, the goal is something brought about by the action. In this second sense, we can ask how it relates to the agent that is completed by it and to the agent that produces it. If the result does not affect the agent or anything that depends on it, what it brings about is simply existence. If the agent is changed or improved by the result, what it receives is a good. In general, good is what every thing seeks: existence, or a fuller existence.[^V02-465]
 
@@ -1609,7 +1610,7 @@ I reply: The goal comes after an action in existence only when the goal is somet
 
 What makes Him the agent is His own essence. What makes Him the goal is that things proceed from Him in such a way that they naturally love Him: they preserve the perfections they already have and long to gain further perfections, so that they may resemble their source as far as possible. You now know the difference between a goal that belongs to a thing in itself and one that belongs to it only as a consequence.
 
-#### Questions and Clarifications
+#### 1. Questions and Clarifications
 
 We have established that anyone who acts to reach a goal outside himself is incomplete and depends on something else to make him whole. What completes him must be higher than he is. So when someone acts for a goal, that goal must be above him—even if he only thinks it is. He cannot truly act for something below himself or for the sake of a result that is less complete than he is. What he aims at must be higher than the act of aiming. If he truly aimed at a lesser result, his aim would bring into being something more complete than himself. That cannot be.[^V02-476]
 
@@ -1651,7 +1652,7 @@ God is first in existence, because all things come from Him in order, one after 
 
 God tells us that the world’s goal, in this second sense, is to be known: “I was a hidden treasure, and I loved to be known, so I created creation that I might be known.” This shows that God is the world’s highest goal as the One who is known, just as He is its source and goal as the One who exists. He also points to a goal along the way when He says, “Were it not for you, I would not have created the heavens.” The final goal of the world, in all three senses, is God’s existence and meeting Him in the life to come. The world was made for this; its order was shaped for this. All things move toward God, and to Him all things return.
 
-#### Addendum
+#### 2. Addendum
 
 We have seen that, by their original nature, all beings in the world turn toward true goals and sound ends. There is one goal above them all: the highest good. But some people chase other goals that only seem good.[^V02-490] These goals are dressed up to attract them, and most people follow them blindly, without understanding. Only God’s sincere servants escape this. They are at odds with the source of all existence. They are not truly God’s servants, and God is not their guide and master. If they serve something else, it is a false power—a tyrant or devil. We may call them servants of desire or servants of false rulers. The Qur'an uses both kinds of language.
 
@@ -1659,7 +1660,7 @@ Those who turn to God, long to meet Him, and follow the true order are under His
 
 You know that imagined systems and lesser goals fade and do not last. If someone gives their loyalty to a false power born of the material world, then as that world sinks toward nonexistence, the false power fades with it.[^V02-491] It draws the person down through lower and lower states until it ends in ruin. May God protect us and our brothers and sisters in faith from following our desires and clinging to the world’s glitter. May He make us among His good servants, whom He cares for on the Day of Judgment.
 
-#### Chapter 25 — More on Cause and Effect
+#### XXV. More on Cause and Effect
 
 We have already said that one thing may affect another, or be affected by it, either in itself or only by association. Whenever I use “by association” here, I mean that a subject is described in a way that is metaphorical rather than literal because it is linked or united with what truly has that property. A body, for example, is called equal or unequal because it is joined to a quantity; it is called similar because it is joined to a quality. Someone riding in a ship is called moving because he is connected to the ship. As you have learned, when an essence is described by features of existence—such as being prior or later, a cause or an effect—this too is metaphorical and incidental, because essence and existence are united. And in our discussion of creation, we showed that creation does not act on an essence at all.[^V02-492][^V02-493]
 
@@ -1711,7 +1712,7 @@ Here he calls the existence of the intellect the radiance of the Light of Lights
 
 When the Sheikh speaks of an essence brought into being from God’s own reality, he means that what the First Cause brings into being is a thing’s existence, which is its very reality—not a universal essence. Essences do not exist on their own. The mind draws them from different kinds of existence and then describes existence through them. This is why existence comes before essence in the external world, while in thought we consider essence before existence, as we explained earlier.
 
-#### Chapter 26 — The Highest Goal of the Earlier Discussions
+#### XXVI. The Highest Goal of the Earlier Discussions
 
 Know, seeker who uses reason and strives to obey God, and hopes to join those absorbed in witnessing His greatness and immersed in the sea of His beauty and majesty, that a true creator is not one thing that then receives the label “creator.” The very nature of who He is makes Him a source of giving. What He is in Himself is the same as what He is in acting: He is pure action, not a separate thing that happens to have the quality of acting. The same is true of what He creates. In its very being, it is an effect, a gift. It is not a separate thing that is later described as an effect.[^V02-507]
 
@@ -1725,7 +1726,7 @@ Do not mistake these words to mean that possible things are contained within God
 
 Hold firmly to this point, where even the greatest minds have gone astray. Give your life to understanding it; then, if you are ready for it, you may catch a glimpse of what you seek.
 
-#### A Problem and Its Solution
+#### 1. A Problem and Its Solution
 
 Someone might object: On your account, the reality of the Necessary Being—and of every effect—belongs to the broad category of relation. You say that a true cause is essentially a cause, and a true effect is essentially an effect. If either were not, it could not be a cause or effect in itself. But a cause is defined by its relation to an effect. We cannot understand one without the other. You will also say that relation is one of the broadest categories, and that any particular kind within it needs a distinguishing feature. Then the Necessary Being would be made of a general kind and a distinguishing feature, even though you have shown this to be impossible.[^V02-509]
 
@@ -1739,7 +1740,7 @@ The same answer resolves the problem of what it means for one part of time to co
 
 Different levels of existence have different rules. The same reality, such as motion or time, can unfold one moment after another in the outside world, both as it begins and as it continues. In imagination, it can unfold moment by moment as it begins, yet remain whole as it continues. In the world of intellect, it can begin and continue all at once. We have another way to answer this problem about the parts of time, which we will explain in its proper place, God willing.[^V02-514][^V02-515][^V02-516]
 
-#### A Note
+#### 2. A Note
 
 Take care not to let your reasoning stumble here and lead you to say: “If the existence of every possible thing depends on something else and is not independent, then God must be subject to origination and change. He must be a place where possible things—or, more specifically, things that come to be—exist.” Remember what we pointed out earlier. An accident or form in a subject or matter is one way a thing exists in itself through its relation to something else, the thing it belongs to. Considered in that way, it must have an existence of its own, distinct from the existence of the subject in which it is found. But here we say that nothing besides the One Real has any existence—not independent existence, nor even dependent existence. The existences of all things are only the Real unfolding through His own modes and states.[^V02-517]
 
@@ -1783,7 +1784,7 @@ The same is true of what is uncreated and what is not given existence: these app
 
 Although the attributes’ meanings differ, their real source is one, a simple and undivided essence. Proof and direct insight show that the divine essence is shared by all the Most Beautiful Names. Their multiplicity belongs to hidden levels[^V02-536]—the “keys of the unseen.” The names are intelligible meanings in the hidden reality of God’s existence. Though many in thought, they are folded into that reality with perfect simplicity. The divine essence, the existence that comes before all other existences, is simple; yet the mind describes it through many attributes of perfection and relation, each marking[^V02-537] one of God’s modes and manifestations. As we have said, these are not separate beings in the external world and do not enter into God’s one existence. They are fixed in the mind, not present as distinct things outside it, though they have effects in an indirect sense. In reality, only existence itself has effects. But their multiplicity in thought gives rise to a multiplicity of effects in the world, a multiplicity that ultimately returns to true unity. In one respect, this multiplicity also belongs to God’s knowledge of Himself: His knowledge of Himself includes His essential perfections in their unified state. Then His pure generosity and “most holy outpouring”[^V02-538] bring His essence into view under each name separately,[^V02-539] first as distinct forms in His knowledge[^V02-540] and then in the external worlds, level by level.
 
-#### Chapter 27 — Why Possible Beings Are Truly Many
+#### XXVII. Why Possible Beings Are Truly Many
 
 Many readers of the mystics’ writings have not reached their level or grasped what they mean. They assume that the mystics’ teaching about the oneness of existence means that only one individual reality exists, and that the identities of all possible beings are merely ideas, with no real things behind them. Some have even said that the noble, holy beings do not exist: the First Intellect, the angels close to God, the prophets and saints, and the great celestial bodies, which differ in kind, size, and effect. They deny the ordered worlds we see around us and the worlds above them, even though their beings differ in kind, identity, and number, and have many different effects and properties. But by “real” we mean what gives rise to effects in the world, and by “many” we mean things with different effects and properties. How, then, could possible beings be nothing in the world?
 
@@ -1813,7 +1814,7 @@ I have quoted al-Ghazali, the great scholar known as the Imam and the Proof of I
 
 As we have explained, and as al-Ghazali’s words show, this unity includes multiplicity. It is a unity that gathers many things together. When we consider existence as existence—the all-embracing reality of what exists—we are looking at the level called Unity (*wahidiyya*).[^V02-552] When we consider pure existence, with no other meaning or determination in its essence, we are looking at the level of Oneness (*ahadiyya*).
 
-#### Chapter 28 — How Existence Flows Through Particular Beings
+#### XXVIII. How Existence Flows Through Particular Beings
 
 Know that beings exist in three different ways. The first is pure existence: it does not depend on anything else and is not limited by any condition. The mystics call it the hidden reality, the absolute unseen, or the divine essence in its oneness. It has no name or attribute, and we cannot grasp or know it directly. Anything that can be named or described is a concept in the mind or imagination. Anything we know is connected to something else. But this reality comes before all things and remains as it is, without change or transition. It is utterly unseen and unknown except through its effects.
 
@@ -1845,7 +1846,7 @@ Al-Qunawi also says in *The Key to the Unseen* that the apparent existence sprea
 > Gathering is a state, not an individual thing;
 > it has power over all individual things.[^V02-562]
 
-#### Chapter 29 — What First Flows from True Existence
+#### XXIX. What First Flows from True Existence
 
 Once you have understood the three levels of existence, as far as you can, you can see what first flows from the Necessary Being: all-pervading existence. In His oneness, God's essence has no description beyond itself, yet it holds every quality of beauty and majesty. All-pervading existence is also called the Cloud, the all-gathering level, the Reality of Realities, and the oneness that gathers all things. It is sometimes called the level of divine unity. When we consider the Necessary Being in relation to His names in the mind and to possible beings in the world, we speak of the level of unity and the divine presence.
 
@@ -1857,7 +1858,7 @@ When philosophers say that the First Intellect is the first thing to flow from G
 
 As with the Necessary Being, whose essence is beyond description in its oneness but includes every divine name and quality in the level of unity, all-pervading existence is distinct in itself from particular natures and fixed identities. Yet at each level it is joined with a particular nature and its accompanying features. These natures are not made separately or added to existence. What is brought about is each particular level of existence itself, not the fact that it is this particular level or its union with a particular nature. The Necessary Being's oneness is the source of all-pervading existence, and the unity of His names is the source of the world, both its existence and its particular natures. Glory to the One who joined oneness to oneness and multiplicity to multiplicity. Without this, there could be no connection between what acts and what is acted upon, and no action or creation.[^V02-564]
 
-#### A Note on Upholding God's Transcendence
+#### 1. A Note on Upholding God's Transcendence
 
 As we have said more than once, the word “existence” is used in different senses. In one sense, it means a thing's reality: what rules out nonexistence. Philosophers use it in this sense for God. In another sense, it means the mental idea of existing. No reasonable person treats that idea as a thing's own reality, much less as God, who is the source of all realities and beings.
 
@@ -1903,7 +1904,7 @@ I have answered the mystics' account of unity in these lines:
 > His unity is His own oneness;
 > whoever describes Him has turned away from it.
 
-#### Chapter 30 — Why Possible Things Have No Existence in Themselves
+#### XXX. Why Possible Things Have No Existence in Themselves
 
 From what you have heard, you may now accept the special unity of God: existence is one reality, and that reality is the Real. The natures and identities of possible beings have no real existence of their own. They appear to exist by taking on the light of existence. We understand them through the ways existence appears and unfolds. What appears in every manifestation, nature, state, and distinction is the reality of existence itself—or rather, the Real, appearing in different ways through His manifestations, names, and relations.
 
@@ -1958,7 +1959,7 @@ Through this later appearance, God's enduring reality is seen in the mirrors of 
 > The face is one, though it seems to multiply
 > when you count the mirrors.
 
-#### Chapter 31 — Why Evil Does Not Belong to Existence Itself
+#### XXXI. Why Evil Does Not Belong to Existence Itself
 
 Know[^V02-583] that a possible thing can be called a “thing” in two senses. One is its existence: it appears at some level, in some world. The other is its nature—what it is—which the mystics call its fixedness. This second kind of thinghood means that the mind knows a nature through the light of existence. The mind draws the nature from existence and understands it as belonging to that existence. This is true whether we mean a thing in the world or in the mind. The nature is not made or caused separately, and it is never detached from existence. This is not what the Muʿtazilite theologians[^V02-584] mean when they speak of fixed essences.
 
@@ -1984,7 +1985,7 @@ Few scholars can consider it without being harmed or led astray. A person needs 
 
 Al-Qunawi also says that existence appears in two ways. In one, the features of things appear everywhere; in the other, existence itself appears in each level. These are not the same: existence takes on a different form at each level, and what belongs to a thing at one level may differ from what belongs to it at another. Whether a feature is present or absent depends on its conditions. These may be a level, a state, a place, a time, or something else. The details of how existence appears are endless, even if the basic patterns are limited.[^V02-592][^V02-593]
 
-#### Chapter 32 — How Evil and Suffering Can Arise Without Undermining the Goodness of Existence
+#### XXXII. How Evil and Suffering Can Arise Without Undermining the Goodness of Existence
 
 From what we have said, you may have understood this: when the one, true existence appears in one of the many natures—each different in meaning, in what makes it a thing, and in its implications—it casts truth upon what is false and makes that nature real through His existence. It appears in each nature according to what that nature can receive, taking on its color and a particular quality at each level where it appears.
 
@@ -2017,7 +2018,7 @@ In a prayer, our master Muhammad, peace and blessings be upon him and his family
 
 It is clear, then, that God gives existence, brings natures from nonexistence into being, and carries them from potentiality to actuality, from incompletion to completion, and from hiddenness to appearance. May God guide us on the straight path.
 
-#### Chapter 33 — How Possible Beings Reflect the Presence of God
+#### XXXIII. How Possible Beings Reflect the Presence of God
 
 As we said earlier, all natures and possible beings—things that depend on God for their existence—are mirrors in which God's existence appears, and places where His sacred reality is revealed. A mirror, simply as a mirror, reflects the image that appears in it. But things we can sense have many layers and limits. They can reflect the First Reality only from a great distance, as Aristotle says in *The Theology of Aristotle*, also known as *On Divine Lordship*.
 
@@ -2079,7 +2080,7 @@ Defiant and rebellious souls, by contrast, do not honor what is sacred to God. T
 
 **A brief summary:** Traveler on the path of truth, look at unity and multiplicity, together and apart. If you see only unity, you are with God alone, and the multiplicity that belongs to creation disappears. If you see only multiplicity, you are with creation alone. But if you see unity hidden within multiplicity and multiplicity lost within unity, you have joined both kinds of perfection and reached the best of both states. Praise be to God, Lord of greatness and majesty, whose are the most beautiful names.
 
-#### Chapter 34 — Another Proof That the Necessary Being Is One
+#### XXXIV. Another Proof That the Necessary Being Is One
 
 The Necessary Being is complete in reality; nothing lies outside Him.[^V02-620][^V02-621]
 
@@ -2097,7 +2098,7 @@ Pure action has no potential waiting to be fulfilled. Pure perfection has no rea
 
 To deny lack is to affirm existence. So He is the fullness of all things, the completion of everything incomplete, and the one who makes up for every flaw, hardship, and defect. What is absent from Him is only the weakness, limits, and evil found in things. He is the goodness within all good things and the fullness of all existence. A thing is more fully and truly itself when complete than when it is incomplete. This is what the Qur'an points to when it says, “You did not throw when you threw; rather, God threw”; “He is with you wherever you are”; and “He is the First and the Last, the Manifest and the Hidden, and He knows all things.”[^V02-628]
 
-#### Chapter 35 — Why possibility and potential are not direct causes of existence
+#### XXXV. Why possibility and potential are not direct causes of existence
 
 First, possibility is a kind of nonexistence, as we have already explained. What does not exist cannot cause or bring about anything. So possibility cannot be a cause, or even part of one. A cause brings something into existence. To do that, it must have a definite character that makes it the cause of this thing rather than another. Otherwise, there would be no more reason to call it a cause than to call something else a cause. Anything with a definite character in itself exists. So every cause exists, and anything that does not exist cannot be a cause.
 
@@ -2127,7 +2128,7 @@ Near and distant possibilities, then, make matter ready to receive by removing b
 
 Every thing that comes into being in our world must be preceded by nonexistence. To say that this nonexistence is one of its causes means that matter has shed its earlier form and can now receive a later one. The same applies to things whose nature is to unfold over time, such as time and motion, and whatever depends on them: for each new part to arise, what was already present must pass away. The same is true of continuous things at rest and of mathematical quantities. For one part or point to be present in a place, another must leave it, because these limited things cannot fill the same place all at once.[^V02-637]
 
-#### Chapter 36 — Why powers in bodies need a spatial relation to act
+#### XXXVI. Why powers in bodies need a spatial relation to act
 
 We have established that anything that depends on something else for its existence also depends on it for its actions. This nearly proves the point we are making. Matter exists in space, and anything whose existence depends on matter also depends on a spatial position, at least indirectly. Its power to act depends on that position too. A bodily cause cannot act on something with which it has no spatial relation.[^V02-638]
 
@@ -2149,7 +2150,7 @@ You may ask: do philosophers not say that the body's coming into being causes th
 
 Likewise, a quality or power that exists in a subject does not cause the subject. It is a condition that lets the subject receive the effects that follow from that quality or power, as I will explain later. A subject and what exists in it have no spatial relation to one another.
 
-#### Chapter 37 — Why existence alone can act as a cause or be caused
+#### XXXVII. Why existence alone can act as a cause or be caused
 
 Only existence can act as a cause. Consider anything other than existence apart from its existence: in itself, it stands equally open to existence and nonexistence. So it is not actually existent in itself. Its essence cannot cause anything to exist—not even itself, much less anything else. Whatever causes something must affect that thing's existence. Existence, then, can act as a cause. If we imagined existence apart from essence, it would be even more able to cause things, since essence itself is only possibility and dependence. We already know that what does not exist has no effect. Likewise, if we imagined a material power apart from matter, it would be more able to act because it would be free of matter's defects and limitations. But that is a separate question. Our concern here is that existence can act as a cause in general.
 
@@ -2171,7 +2172,7 @@ When al-Razi says that essences are not caused, he means that being caused is no
 
 This is what al-Razi means by his reinterpretation. Our approach has shown that the first of these two senses leads to the second.[^V02-649]
 
-#### Chapter 38 — Why an effect need not be preceded by nonexistence
+#### XXXVIII. Why an effect need not be preceded by nonexistence
 
 This question is like the one in the previous chapter. It belongs in a discussion of cause and effect, but it also fits with what we will say about what comes before and after.[^V02-650] Since some debaters have taken a strong stand against this view, we need to make the case more firmly. I will give several proofs.
 
@@ -2213,7 +2214,7 @@ As for the third argument, choice and intention bring about the beginning of an 
 
 As for the fourth argument, builders and writers cause bodies to move and change place. They are not the causes that preserve a building's shape, keep things in place, or make them last. Other, nearer or more distant causes do that. I will explain this in its proper place.
 
-#### Chapter 39 — Why every event in time depends on an unbroken circular motion
+#### XXXIX. Why every event in time depends on an unbroken circular motion
 
 Know[^V02-675] that a complete cause cannot come before or after its effect in time. So the immediate causes of events must themselves come into being. If they had always existed, their effects would have always existed too. Whenever a cause exists while its effect does not, the effect is possible in relation to that cause: what is impossible in itself cannot be produced by a cause. So when the effect does come into being, something else must tip the balance toward its existence rather than its nonexistence. That something also needs a cause, and the same question arises again, until we reach what makes the effect necessary and brings it into being.
 

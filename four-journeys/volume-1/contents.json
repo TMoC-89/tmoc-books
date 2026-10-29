@@ -1,0 +1,1000 @@
+{
+  "version": 1,
+  "initiallyCollapsed": true,
+  "languages": {
+    "en": {
+      "sourceHash": "bb3f525c294aeba22e898b8e9aa28b7f8747e5c6c61edde2fb5486a0f370142f",
+      "entries": [
+        {
+          "id": "passage-en-00004",
+          "level": 1,
+          "kind": "opening",
+          "label": "Opening pages"
+        },
+        {
+          "id": "passage-en-00077",
+          "level": 2,
+          "kind": "section",
+          "label": "Author’s preface"
+        },
+        {
+          "id": "passage-en-00157",
+          "level": 2,
+          "kind": "section",
+          "label": "Part One: General Matters: Divine Science in Its Broader Sense"
+        },
+        {
+          "id": "passage-en-00158",
+          "level": 2,
+          "kind": "section",
+          "label": "The First Journey: From the World to God"
+        },
+        {
+          "id": "passage-en-00160",
+          "level": 3,
+          "kind": "section",
+          "label": "The knowledge needed in every field of study: an introduction and six stages"
+        },
+        {
+          "id": "passage-en-00161",
+          "level": 4,
+          "kind": "section",
+          "label": "Introduction: What philosophy is, how it is divided, and why it matters"
+        },
+        {
+          "id": "passage-en-00171",
+          "level": 1,
+          "kind": "division",
+          "label": "Stage One: Existence and its first divisions",
+          "expanded": true
+        },
+        {
+          "id": "passage-en-00172",
+          "level": 2,
+          "kind": "group",
+          "label": "Method One: The nature of existence"
+        },
+        {
+          "id": "passage-en-00173",
+          "level": 3,
+          "kind": "chapter",
+          "label": "I. Why existence is the subject of the highest branch of philosophy, and why the mind grasps it first"
+        },
+        {
+          "id": "passage-en-00200",
+          "level": 3,
+          "kind": "chapter",
+          "label": "II. How the idea of existence applies to many things, but not in exactly the same way"
+        },
+        {
+          "id": "passage-en-00210",
+          "level": 3,
+          "kind": "chapter",
+          "label": "III. The general idea of existence in the mind is not part of each thing's makeup"
+        },
+        {
+          "id": "passage-en-00214",
+          "level": 3,
+          "kind": "chapter",
+          "label": "IV. Existence has a reality outside the mind"
+        },
+        {
+          "id": "passage-en-00217",
+          "level": 4,
+          "kind": "section",
+          "label": "1. Discussion: Is existence real?"
+        },
+        {
+          "id": "passage-en-00230",
+          "level": 3,
+          "kind": "chapter",
+          "label": "V. What makes each existence distinct?"
+        },
+        {
+          "id": "passage-en-00245",
+          "level": 3,
+          "kind": "chapter",
+          "label": "VI. Existences are simple realities; existence itself is not a general kind"
+        },
+        {
+          "id": "passage-en-00252",
+          "level": 3,
+          "kind": "chapter",
+          "label": "VII. Existence itself has no cause in any sense"
+        },
+        {
+          "id": "passage-en-00257",
+          "level": 4,
+          "kind": "section",
+          "label": "1. Objections and answers"
+        },
+        {
+          "id": "passage-en-00285",
+          "level": 4,
+          "kind": "section",
+          "label": "2. Clarification: Existence and light"
+        },
+        {
+          "id": "passage-en-00316",
+          "level": 3,
+          "kind": "chapter",
+          "label": "VIII. Existence and being a thing"
+        },
+        {
+          "id": "passage-en-00328",
+          "level": 3,
+          "kind": "chapter",
+          "label": "IX. Relational existence"
+        },
+        {
+          "id": "passage-en-00337",
+          "level": 2,
+          "kind": "group",
+          "label": "Method Two: The roots of necessity and possibility, and the parts of a statement"
+        },
+        {
+          "id": "passage-en-00338",
+          "level": 3,
+          "kind": "chapter",
+          "label": "I. Defining necessity, possibility, impossibility, truth, and falsehood"
+        },
+        {
+          "id": "passage-en-00368",
+          "level": 3,
+          "kind": "chapter",
+          "label": "II. Necessary existence cannot depend on another; no necessary link joins two necessary beings"
+        },
+        {
+          "id": "passage-en-00376",
+          "level": 3,
+          "kind": "chapter",
+          "label": "III. The Necessary Being has no essence apart from His existence"
+        },
+        {
+          "id": "passage-en-00421",
+          "level": 4,
+          "kind": "section",
+          "label": "1. Objections and replies"
+        },
+        {
+          "id": "passage-en-00440",
+          "level": 4,
+          "kind": "section",
+          "label": "2. A flash of illumination"
+        },
+        {
+          "id": "passage-en-00451",
+          "level": 4,
+          "kind": "section",
+          "label": "3. The Throne Section"
+        },
+        {
+          "id": "passage-en-00460",
+          "level": 4,
+          "kind": "section",
+          "label": "4. An objection and its answer"
+        },
+        {
+          "id": "passage-en-00469",
+          "level": 3,
+          "kind": "chapter",
+          "label": "IV. The Necessary Being is necessary in every respect"
+        },
+        {
+          "id": "passage-en-00474",
+          "level": 4,
+          "kind": "section",
+          "label": "1. A clarification and a stronger formulation"
+        },
+        {
+          "id": "passage-en-00489",
+          "level": 3,
+          "kind": "chapter",
+          "label": "V. The Necessary Being is one, not merely a kind confined to a single individual"
+        },
+        {
+          "id": "passage-en-00504",
+          "level": 4,
+          "kind": "section",
+          "label": "1. A proof from the Throne"
+        },
+        {
+          "id": "passage-en-00511",
+          "level": 3,
+          "kind": "chapter",
+          "label": "VI. Revisiting necessity, possibility, and impossibility, and answering objections about them"
+        },
+        {
+          "id": "passage-en-00544",
+          "level": 3,
+          "kind": "chapter",
+          "label": "VII. Different meanings of “possible”"
+        },
+        {
+          "id": "passage-en-00558",
+          "level": 3,
+          "kind": "chapter",
+          "label": "VIII. Another way to understand the concepts that qualify statements"
+        },
+        {
+          "id": "passage-en-00579",
+          "level": 3,
+          "kind": "chapter",
+          "label": "IX. Why possibility cannot come from something else"
+        },
+        {
+          "id": "passage-en-00588",
+          "level": 4,
+          "kind": "section",
+          "label": "1. Clarification and reminder"
+        },
+        {
+          "id": "passage-en-00607",
+          "level": 4,
+          "kind": "section",
+          "label": "2. Discussion and clarification"
+        },
+        {
+          "id": "passage-en-00626",
+          "level": 4,
+          "kind": "section",
+          "label": "3. Objections and replies"
+        },
+        {
+          "id": "passage-en-00651",
+          "level": 4,
+          "kind": "section",
+          "label": "4. Features of what is possible in itself"
+        },
+        {
+          "id": "passage-en-00664",
+          "level": 3,
+          "kind": "chapter",
+          "label": "X. How a possible thing can entail something impossible in itself"
+        },
+        {
+          "id": "passage-en-00693",
+          "level": 3,
+          "kind": "chapter",
+          "label": "XI. Refuting the idea that an essence naturally favors existence or nonexistence"
+        },
+        {
+          "id": "passage-en-00707",
+          "level": 4,
+          "kind": "section",
+          "label": "1. Some false assumptions"
+        },
+        {
+          "id": "passage-en-00715",
+          "level": 3,
+          "kind": "chapter",
+          "label": "XII. What makes a thing need a cause: possibility in its essence and limitation in its existence"
+        },
+        {
+          "id": "passage-en-00740",
+          "level": 3,
+          "kind": "chapter",
+          "label": "XIII. How a possible thing’s nonexistence needs a cause"
+        },
+        {
+          "id": "passage-en-00750",
+          "level": 4,
+          "kind": "section",
+          "label": "1. A point to keep in mind"
+        },
+        {
+          "id": "passage-en-00764",
+          "level": 3,
+          "kind": "chapter",
+          "label": "XIV. A possible thing exists only if its cause makes it necessary"
+        },
+        {
+          "id": "passage-en-00770",
+          "level": 3,
+          "kind": "chapter",
+          "label": "XV. The two kinds of necessity and impossibility"
+        },
+        {
+          "id": "passage-en-00777",
+          "level": 4,
+          "kind": "section",
+          "label": "1. A possible misunderstanding"
+        },
+        {
+          "id": "passage-en-00790",
+          "level": 4,
+          "kind": "section",
+          "label": "2. Addendum"
+        },
+        {
+          "id": "passage-en-00793",
+          "level": 3,
+          "kind": "chapter",
+          "label": "XVI. Why some possible things have one kind of possibility and others have two"
+        },
+        {
+          "id": "passage-en-00810",
+          "level": 3,
+          "kind": "chapter",
+          "label": "XVII. Some rules about what is impossible in itself"
+        },
+        {
+          "id": "passage-en-00816",
+          "level": 3,
+          "kind": "chapter",
+          "label": "XVIII. How can we know what is impossible or nonexistent?"
+        },
+        {
+          "id": "passage-en-00823",
+          "level": 3,
+          "kind": "chapter",
+          "label": "XIX. How one impossible thing can entail another"
+        },
+        {
+          "id": "passage-en-00837",
+          "level": 3,
+          "kind": "chapter",
+          "label": "XX. In what sense existence is added to a possible thing’s essence"
+        },
+        {
+          "id": "passage-en-00844",
+          "level": 3,
+          "kind": "chapter",
+          "label": "XXI. How a possible thing’s existence is one with its essence outside the mind, and joined to it in a certain way"
+        },
+        {
+          "id": "passage-en-00853",
+          "level": 4,
+          "kind": "section",
+          "label": "1. A mistake and the answer"
+        },
+        {
+          "id": "passage-en-00873",
+          "level": 4,
+          "kind": "section",
+          "label": "2. Discussion and clarification"
+        },
+        {
+          "id": "passage-en-00893",
+          "level": 2,
+          "kind": "group",
+          "label": "Method Three: Another realm of existence beyond the one we witness, and related questions"
+        },
+        {
+          "id": "passage-en-00894",
+          "level": 3,
+          "kind": "chapter",
+          "label": "I. Proving mental existence and its shadow-like appearance"
+        },
+        {
+          "id": "passage-en-00896",
+          "level": 4,
+          "kind": "section",
+          "label": "1. Preliminary remarks"
+        },
+        {
+          "id": "passage-en-00910",
+          "level": 3,
+          "kind": "chapter",
+          "label": "II. Presenting several proofs for mental existence"
+        },
+        {
+          "id": "passage-en-00911",
+          "level": 4,
+          "kind": "section",
+          "label": "1. First method"
+        },
+        {
+          "id": "passage-en-00917",
+          "level": 4,
+          "kind": "section",
+          "label": "2. Second method"
+        },
+        {
+          "id": "passage-en-00927",
+          "level": 4,
+          "kind": "section",
+          "label": "3. Third method"
+        },
+        {
+          "id": "passage-en-00946",
+          "level": 3,
+          "kind": "chapter",
+          "label": "III. Objections to mental existence and replies to them"
+        },
+        {
+          "id": "passage-en-01041",
+          "level": 3,
+          "kind": "chapter",
+          "label": "IV. Further clarification and refinement"
+        },
+        {
+          "id": "passage-en-01062",
+          "level": 3,
+          "kind": "chapter",
+          "label": "V. A solution drawn from higher knowledge"
+        },
+        {
+          "id": "passage-en-01069",
+          "level": 1,
+          "kind": "division",
+          "label": "Stage Two: Further rules about existence"
+        },
+        {
+          "id": "passage-en-01070",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. What linking existence means"
+        },
+        {
+          "id": "passage-en-01085",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. When existence is called a second-order concept, and what that means"
+        },
+        {
+          "id": "passage-en-01101",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. Existence is pure good"
+        },
+        {
+          "id": "passage-en-01110",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. Existence has no opposite or equal"
+        },
+        {
+          "id": "passage-en-01122",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. Nonexistence is one concept"
+        },
+        {
+          "id": "passage-en-01129",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VI. How the absence of a cause and the absence of its effect relate to each other"
+        },
+        {
+          "id": "passage-en-01135",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VII. How nonexistence applies to itself"
+        },
+        {
+          "id": "passage-en-01139",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VIII. A nonexistent thing cannot be restored"
+        },
+        {
+          "id": "passage-en-01175",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IX. Why nonexistence is not a relation"
+        },
+        {
+          "id": "passage-en-01186",
+          "level": 2,
+          "kind": "chapter",
+          "label": "X. Why a negative statement still needs its two terms"
+        },
+        {
+          "id": "passage-en-01210",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XI. Can God have a particular kind of nonexistence?"
+        },
+        {
+          "id": "passage-en-01214",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Critique and clarification"
+        },
+        {
+          "id": "passage-en-01227",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XII. What depends on something impossible in itself need not itself be impossible"
+        },
+        {
+          "id": "passage-en-01237",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A seeming problem, and its answer"
+        },
+        {
+          "id": "passage-en-01254",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIII. Can human beings know what things truly are?"
+        },
+        {
+          "id": "passage-en-01268",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIV. Different kinds of possibility"
+        },
+        {
+          "id": "passage-en-01275",
+          "level": 1,
+          "kind": "division",
+          "label": "Stage Three: Bringing things into existence"
+        },
+        {
+          "id": "passage-en-01276",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. Where the debate lies about making things, and the different views"
+        },
+        {
+          "id": "passage-en-01294",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. Refuting the arguments that a cause makes a nature existent"
+        },
+        {
+          "id": "passage-en-01327",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Closer examination"
+        },
+        {
+          "id": "passage-en-01355",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. Can existence grow stronger or weaker?"
+        },
+        {
+          "id": "passage-en-01364",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. Degrees of intensity and weakness"
+        },
+        {
+          "id": "en-notes-head",
+          "level": 1,
+          "kind": "notes"
+        }
+      ]
+    },
+    "ar": {
+      "sourceHash": "ad0b08ca054fabba5a92bdd6b1092ca19e87726489de7cc91b3a64f38c5fead5",
+      "entries": [
+        {
+          "id": "passage-ar-00005",
+          "level": 1,
+          "kind": "opening",
+          "label": "الصفحات الافتتاحية"
+        },
+        {
+          "id": "passage-ar-00079",
+          "level": 2,
+          "kind": "section",
+          "label": "مقدمه المؤلف"
+        },
+        {
+          "id": "passage-ar-00111",
+          "level": 2,
+          "kind": "section",
+          "label": "الجزء الأول"
+        },
+        {
+          "id": "passage-ar-00112",
+          "level": 3,
+          "kind": "section",
+          "label": "من الأمور العامة أو العلم الإلهي بالمعنى الأعم"
+        },
+        {
+          "id": "passage-ar-00113",
+          "level": 2,
+          "kind": "section",
+          "label": "السفر الأول: وهو الذي من الخلق إلى الحق في النظر إلى طبيعة الوجود وعوارضه الذاتية وفيه مسالك"
+        },
+        {
+          "id": "passage-ar-00114",
+          "level": 3,
+          "kind": "section",
+          "label": "المسلك الأول: في المعارف التي يحتاج إليها الانسان في جميع العلوم وفيه مقدمه وستة مراحل"
+        },
+        {
+          "id": "passage-ar-00115",
+          "level": 4,
+          "kind": "section",
+          "label": "المقدمة في تعريف الفلسفة وتقسيمها الأولى وغايتها وشرفها"
+        },
+        {
+          "id": "passage-ar-00121",
+          "level": 1,
+          "kind": "division",
+          "label": "المرحلة الأولى: في الوجود وأقسامه الأولية",
+          "expanded": true
+        },
+        {
+          "id": "passage-ar-00122",
+          "level": 2,
+          "kind": "group",
+          "label": "المنهج الأول: في أحوال نفس الوجود"
+        },
+        {
+          "id": "passage-ar-00123",
+          "level": 3,
+          "kind": "chapter",
+          "label": "١. في موضوعيته للعلم الإلهي وأولية ارتسامه في النفس"
+        },
+        {
+          "id": "passage-ar-00134",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٢. في أن مفهوم الوجود مشترك محمول على ما تحته حمل التشكيك لا حمل التواطؤ"
+        },
+        {
+          "id": "passage-ar-00139",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٣. في أن الوجود العام البديهي اعتبار عقلي غير مقوم لافراده"
+        },
+        {
+          "id": "passage-ar-00142",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٤. في أن للوجود حقيقة عينيه"
+        },
+        {
+          "id": "passage-ar-00144",
+          "level": 4,
+          "kind": "section",
+          "label": "١. بحث ومخلص"
+        },
+        {
+          "id": "passage-ar-00152",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٥. في أن تخصص الوجود بما ذا"
+        },
+        {
+          "id": "passage-ar-00161",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٦. في أن الوجودات هويات بسيطه وان حقيقة الوجود ليست معنى جنسيا"
+        },
+        {
+          "id": "passage-ar-00165",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٧. في أن حقيقة الوجود لا سبب لها بوجه من الوجوه"
+        },
+        {
+          "id": "passage-ar-00196",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٨. في مساوقة الوجود للشيئية"
+        },
+        {
+          "id": "passage-ar-00202",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٩. في الوجود الرابطي"
+        },
+        {
+          "id": "passage-ar-00206",
+          "level": 2,
+          "kind": "group",
+          "label": "المنهج الثاني: في أصول الكيفيات وعناصر العقود وخواص كل منها وفيه فصول"
+        },
+        {
+          "id": "passage-ar-00207",
+          "level": 3,
+          "kind": "chapter",
+          "label": "١. في تعريف الوجوب والامكان والامتناع والحق والباطل ان من المعاني"
+        },
+        {
+          "id": "passage-ar-00222",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٢. في أن واجب الوجود لا يكون بالذات وبالغير جميعا وفي عدم العلاقة اللزومية"
+        },
+        {
+          "id": "passage-ar-00228",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٣. في أن واجب الوجود أنيته ماهيته"
+        },
+        {
+          "id": "passage-ar-00266",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٤. في أن الواجب لذاته واجب من جميع جهاته"
+        },
+        {
+          "id": "passage-ar-00278",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٥. في أن واجب الوجود واحد لا بمعنى ان نوعه منحصر في شخصه على ما توهم"
+        },
+        {
+          "id": "passage-ar-00289",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٦. في استيناف القول في الجهات ودفع شكوك قيلت في لزومها"
+        },
+        {
+          "id": "passage-ar-00307",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٧. في استقراء المعاني التي يستعمل فيها لفظ الامكان"
+        },
+        {
+          "id": "passage-ar-00317",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٨. فيه ارجاع الكلام إلى احكام هذه المفهومات العقلية"
+        },
+        {
+          "id": "passage-ar-00328",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٩. في أن الامكان يستحيل ان يكون بالغير"
+        },
+        {
+          "id": "passage-ar-00344",
+          "level": 4,
+          "kind": "section",
+          "label": "١. بحث وتنقيح"
+        },
+        {
+          "id": "passage-ar-00372",
+          "level": 3,
+          "kind": "chapter",
+          "label": "١٠. في أن الممكن على اي وجه يكون مستلزما للممتنع بالذات"
+        },
+        {
+          "id": "passage-ar-00388",
+          "level": 3,
+          "kind": "chapter",
+          "label": "١١. في ابطال كون الشئ أولى له الوجود أو العدم أولوية غير بالغه حد الوجوب"
+        },
+        {
+          "id": "passage-ar-00402",
+          "level": 3,
+          "kind": "chapter",
+          "label": "١٢. في أن عله الحاجة إلى العلة هي الامكان في الماهيات والقصور في الوجودات"
+        },
+        {
+          "id": "passage-ar-00416",
+          "level": 3,
+          "kind": "chapter",
+          "label": "١٣. في كيفية احتياج عدم الممكن إلى السبب"
+        },
+        {
+          "id": "passage-ar-00427",
+          "level": 3,
+          "kind": "chapter",
+          "label": "١٤. في أن الممكن ما لم يجب بغيره لم يوجد"
+        },
+        {
+          "id": "passage-ar-00431",
+          "level": 3,
+          "kind": "chapter",
+          "label": "١٥. في أن كل ممكن محفوف بالوجوبين وبالامتناعين"
+        },
+        {
+          "id": "passage-ar-00442",
+          "level": 3,
+          "kind": "chapter",
+          "label": "١٦. في أن الممكن قد يكون له امكانان وقد لا يكون"
+        },
+        {
+          "id": "passage-ar-00451",
+          "level": 3,
+          "kind": "chapter",
+          "label": "١٧. في بعض احكام الممتنع بالذات"
+        },
+        {
+          "id": "passage-ar-00456",
+          "level": 3,
+          "kind": "chapter",
+          "label": "١٨. في أن الممتنع أو المعدوم كيف يعلم"
+        },
+        {
+          "id": "passage-ar-00460",
+          "level": 3,
+          "kind": "chapter",
+          "label": "١٩. في أن الممتنع كيف يصح ان يستلزم ممتنعا آخر"
+        },
+        {
+          "id": "passage-ar-00468",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٢٠. في كون وجود الممكن زائدا على ماهيته عتلا"
+        },
+        {
+          "id": "passage-ar-00472",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٢١. في اثبات ان وجود الممكن عين ماهيته خارجا ومتحد بها نحوا من الاتحاد"
+        },
+        {
+          "id": "passage-ar-00495",
+          "level": 2,
+          "kind": "group",
+          "label": "المنهج الثالث: في الإشارة إلى نشاة أخرى للوجود غير هذا المشهود وما ينوط به وفيه فصول"
+        },
+        {
+          "id": "passage-ar-00496",
+          "level": 3,
+          "kind": "chapter",
+          "label": "١. في اثبات الوجود الذهني والظهور الظلي"
+        },
+        {
+          "id": "passage-ar-00498",
+          "level": 4,
+          "kind": "section",
+          "label": "١. تمهيد"
+        },
+        {
+          "id": "passage-ar-00505",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٢. في تقرير الحجج في اثباته وهي من طرق"
+        },
+        {
+          "id": "passage-ar-00506",
+          "level": 4,
+          "kind": "section",
+          "label": "١. الطريقة الأولى"
+        },
+        {
+          "id": "passage-ar-00521",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٣. في ذكر شكوك انعقادية وفيه فكوك اعتقادية عنها"
+        },
+        {
+          "id": "passage-ar-00577",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٤. في زيادة توضيح لافاده تنقيح"
+        },
+        {
+          "id": "passage-ar-00589",
+          "level": 3,
+          "kind": "chapter",
+          "label": "٥. في بيان مخلص عرشي في هذا المقام"
+        },
+        {
+          "id": "passage-ar-00594",
+          "level": 1,
+          "kind": "division",
+          "label": "المرحلة الثانية: في تتمه احكام الوجود"
+        },
+        {
+          "id": "passage-ar-00595",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في تحقيق الوجود بالمعنى الرابط"
+        },
+        {
+          "id": "passage-ar-00602",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في أن الوجود على اي وجه يقال إنه من المعقولات الثانية وباي معنى يوصف بذلك"
+        },
+        {
+          "id": "passage-ar-00609",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في أن الوجود خير محض"
+        },
+        {
+          "id": "passage-ar-00615",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في أن الوجود لا ضد له ولا مثل له"
+        },
+        {
+          "id": "passage-ar-00625",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في أن العدم مفهوم واحد"
+        },
+        {
+          "id": "passage-ar-00630",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٦. في كيفية عليه كل من عدمي العلة والمعلول للاخر"
+        },
+        {
+          "id": "passage-ar-00634",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٧. في أن العدم كيف يعرض لنفسه"
+        },
+        {
+          "id": "passage-ar-00636",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٨. في أن المعدوم لا يعاد"
+        },
+        {
+          "id": "passage-ar-00659",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٩. في أن العدم ليس رابطيا"
+        },
+        {
+          "id": "passage-ar-00666",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٠. في أن الحكم السلبي لا ينفك عن نحو من وجود طرفيه"
+        },
+        {
+          "id": "passage-ar-00679",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١١. في أن العدم الخاص بنحو هل يجوز اتصاف الواجب بالذات به"
+        },
+        {
+          "id": "passage-ar-00688",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٢. في أن المتوقف على الممتنع بالذات لا يلزم ان يكون ممتنعا بالذات"
+        },
+        {
+          "id": "passage-ar-00697",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٣. في أن حقائق الأشياء اي الأمور الغير الممتنعة بالذات يمكن أن تكون معلومه للبشر"
+        },
+        {
+          "id": "passage-ar-00704",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٤. في اقسام الممكن"
+        },
+        {
+          "id": "passage-ar-00709",
+          "level": 1,
+          "kind": "division",
+          "label": "المرحلة الثالثة: في تحقيق الجعل"
+        },
+        {
+          "id": "passage-ar-00710",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في تحرير محل النزاع وتحديد حريم الخلاف في الجعل وحكاية القول في ذلك"
+        },
+        {
+          "id": "passage-ar-00723",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في مناقضه أدله الزاعمين ان اثر العلة هي صيرورة الماهية موجوده"
+        },
+        {
+          "id": "passage-ar-00742",
+          "level": 3,
+          "kind": "section",
+          "label": "١. تحقيق"
+        },
+        {
+          "id": "passage-ar-00761",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في أن الوجود هل يجوز ان يشتد أو يتضعف أم لا"
+        },
+        {
+          "id": "passage-ar-00769",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في الشدة والضعف"
+        },
+        {
+          "id": "ar-notes-head",
+          "level": 1,
+          "kind": "notes"
+        }
+      ]
+    }
+  }
+}

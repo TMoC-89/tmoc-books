@@ -5,124 +5,125 @@
 **Mulla Sadra (Ṣadr al-Dīn Muḥammad al-Shīrāzī)**
 
 ## Contents
-- Stage Seven — Power and action
-  - Chapter 1 — The meanings of power
-  - Chapter 2 — Defining power as the source of change
-  - The second kind — Power that produces different actions without awareness
-  - The third kind — Power that produces one steady action with awareness
-  - The fourth kind — Power that produces different actions with awareness
-    - Chapter 3 — Must the ability to act exist when the action happens?
-    - Chapter 4 — When must a change happen, and when can it fail to happen?
-    - Chapter 5 — Another way to divide the power to act
-    - Chapter 6 — Another way to divide causes
-    - Chapter 7 — Another way to classify abilities to act
-    - Chapter 8 — Does every action have to start after a time when it did not exist?
-    - Chapter 9 — Power is not the body's temperament, as some doctors claim
-    - Chapter 10 — Motion and rest
-    - Chapter 11 — What kind of existence does motion have?
-    - Chapter 12 — Proving the First Mover
-    - Chapter 13 — Answering objections to the rule that every moving thing has a mover
-    - Chapter 14 — Dividing the moving power and proving an intellective mover
-    - Chapter 15 — Why the immediate source of particular actions and motions is not separate from matter
-    - Chapter 16 — Every thing that comes to be is preceded by potentiality and the matter that carries it
-    - Chapter 17 — Actuality comes before potentiality
-    - Chapter 18 — What is the subject of motion: the body or something else?
-    - Chapter 19 — An Eastern insight
-    - Chapter 20 — Nature is the immediate source of motion in every moving thing
-    - Chapter 21 — How the changing is connected to the unchanging
-    - Chapter 22 — How motion relates to the basic kinds of being
-    - Chapter 23 — Which categories can undergo motion, and which cannot?
-    - Chapter 24 — How motion occurs in each of the five categories
-    - A clearer account of motion in quantity
-    - Chapter 25 — Another proof that things change in their very substance
-    - Chapter 26 — Why a thing's very form can come to be through motion
-    - Chapter 27 — Further evidence that natural substances in heavenly and earthly bodies are renewed
-    - Chapter 28 — Why circular motion is the oldest, most lasting, complete, and noble motion
-    - Chapter 29 — Time is real and measures motion as a continuous quantity
-    - Chapter 30 — Gradual Existence as the Immediate Goal of Time and Motion
-    - Chapter 31 — Nothing Precedes Time and Motion Except God, Exalted in Glory
-    - Chapter 32 — How the Changing Is Linked to the Eternal
-    - Chapter 33 — Why Time Has No First or Last Moment
-    - Chapter 34 — Arguments for a Beginning of Time and Replies
-    - Chapter 35 — What the “Now” Is, and How It Exists and Passes Away
-    - Chapter 36 — How Motion and Its Effects Can Cease to Exist
-    - Chapter 37 — How the Instant Measures Time
-    - Chapter 38 — How Motion Divides Time, and Time Measures Motion
-    - Chapter 39 — What Exists in Time
-- Stage Eight — Further Properties and Rules of Motion
-  - Chapter 1 — Where Motion Begins and Ends, and When Its Endpoints Oppose Each Other
-  - Chapter 2 — Why Motion Does Not Occur in the Other Five Categories
-  - Chapter 3 — What Rest Is, What Kind of Rest Opposes Motion, and How a Body Can Have Neither
-  - Chapter 4 — How One Motion Can Be One Event, One Kind, or Another
-  - Chapter 5 — What Speed and Slowness Are, and Why They Are Not Caused by Pauses
-  - Chapter 6 — Further Points About Speed and Slowness
-  - Chapter 7 — When Motions Oppose Each Other
-  - Chapter 8 — Why Straight and Circular Motions Are Not Opposites
-  - Chapter 9 — Why Every Straight Motion Ends in Rest
-  - Chapter 10 — How Motion Is Divided by What Causes It
-  - Chapter 11 — What Does Natural Motion Seek?
-  - Chapter 12 — Can One Body Have Different Sources of Motion?
-  - Chapter 13 — What Causes Forced Motion?
-  - Chapter 14 — Why Every Body Has a Tendency to Move in a Straight Line or a Circle
-  - Chapter 15 — Bodily Forces Have Limits in How They Move Things
-- Stage Nine — Eternity, Coming-to-Be, and the Kinds of Priority and Posteriority
-  - Chapter 1 — What Do “Coming-to-Be” and “Eternity” Mean?
-  - Chapter 2 — The Case for Essential Coming-to-Be
-  - Chapter 3 — Is Coming-to-Be in Time an Extra Feature of Existence?
-  - Chapter 4 — Coming-to-Be and the Need for a Cause
-  - Chapter 5 — Ways One Thing Can Come Before Another
-  - Chapter 6 — How These Kinds of Priority Share a Meaning
-  - Chapter 7 — Whether Priority Changes by Degree Across Its Kinds
-  - Chapter 8 — Kinds of Being Together
-  - Chapter 9 — What Essential Coming-to-Be Really Means
-- Stage Ten — Intellect and What It Understands
-  - Chapter 1 — Defining Knowledge
-  - Chapter 2 — Why Knowing Things That Are Absent from Us Requires Their Images to Be Present in Us
-  - Chapter 3 — The Proposed Accounts of Knowledge and What They Share
-  - Chapter 4 — What Knowledge Really Is
-  - Chapter 5 — How a Mental Image Is Present to the Soul but Exists Differently in Matter
-  - Chapter 6 — On the Claim That Knowledge Is an Accident
-  - Chapter 7 — What It Means for the Intellect to Become One with What It Understands
-  - Chapter 8 — Confirming That the Intellect and What It Understands Become One
-  - Chapter 9 — The Earlier Philosophers’ View: The Soul Understands by Joining the Active Intellect
-  - Chapter 10 — Refuting a Later View of Knowledge
-  - Chapter 11 — How One Thing Can Be Intellect, Knower, and Known Without Becoming Many
-  - Chapter 12 — Further Questions About Self-Knowledge
-  - Chapter 13 — Kinds of Perception
-  - Chapter 14 — How the Rational Power Unifies Many Things and Distinguishes One Thing into Many
-  - Chapter 15 — Levels of the Intellect and What It Understands
-  - Chapter 16 — Whether the Soul Can Understand Many Things at Once
-  - Chapter 17 — How the Simple Soul Can Understand Many Things
-  - Chapter 18 — Different Ways to Classify Knowledge
-  - Chapter 19 — A Sign That the Soul Has a Sacred Power
-  - Chapter 20 — Knowing a Cause Gives Knowledge of Its Effect, but Not the Other Way Around
-  - Chapter 21 — Knowledge of an Effect Requires Knowledge of Its Cause
-  - Chapter 22 — Knowledge Through Causes Gives Only Universal Knowledge
-  - Chapter 23 — Knowledge of Particular Things Must Change If They Change
-  - Chapter 24 — Explaining the Different Meanings of “Intellect”
-  - Chapter 25 — Alexander’s Account of the Intellect, Following Aristotle
-  - Chapter 26 — Answering a Difficulty About the Potential Intellect Becoming Actual
-  - Chapter 27 — How the Potential Intellect Becomes Actual Intellect
-  - Chapter 28 — First Principles, Their Relation to Later Principles, and the Defense of the First Principle
-  - Chapter 29 — Every Separate Being Must Understand Itself
-  - Chapter 30 — Every Separate Being Is Intellect in Itself
-  - Chapter 31 — How the Active Intellect Relates to Our Souls
-  - Chapter 32 — Self-awareness is the self’s own act and lasts as long as the self exists
-  - Chapter 33 — Anyone who understands something must be free of matter
-  - Chapter 34 — The one who perceives imagined forms must also be free of this material world
-  - Chapter 35 — The human soul’s understanding is not essential or necessary to it
-  - Chapter 36 — Learning is not recollection
-  - Chapter 37 — Why intelligible forms are not in bodies or bodily powers
-  - Chapter 38 — The senses do not know that what they perceive exists
-  - Chapter 39 — The kinds of knowledge
+
+- Stage Seven: Power and action
+  - I. The meanings of power
+  - II. Defining power as the source of change
+    - The second kind: Power that produces different actions without awareness
+    - The third kind: Power that produces one steady action with awareness
+    - The fourth kind: Power that produces different actions with awareness
+  - III. Must the ability to act exist when the action happens?
+  - IV. When must a change happen, and when can it fail to happen?
+  - V. Another way to divide the power to act
+  - VI. Another way to divide causes
+  - VII. Another way to classify abilities to act
+  - VIII. Does every action have to start after a time when it did not exist?
+  - IX. Power is not the body's temperament, as some doctors claim
+  - X. Motion and rest
+  - XI. What kind of existence does motion have?
+  - XII. Proving the First Mover
+  - XIII. Answering objections to the rule that every moving thing has a mover
+  - XIV. Dividing the moving power and proving an intellective mover
+  - XV. Why the immediate source of particular actions and motions is not separate from matter
+  - XVI. Every thing that comes to be is preceded by potentiality and the matter that carries it
+  - XVII. Actuality comes before potentiality
+  - XVIII. What is the subject of motion: the body or something else?
+  - XIX. An Eastern insight
+  - XX. Nature is the immediate source of motion in every moving thing
+  - XXI. How the changing is connected to the unchanging
+  - XXII. How motion relates to the basic kinds of being
+  - XXIII. Which categories can undergo motion, and which cannot?
+  - XXIV. How motion occurs in each of the five categories
+  - XXV. A clearer account of motion in quantity
+  - XXVI. Another proof that things change in their very substance
+  - XXVII. Why a thing's very form can come to be through motion
+  - XXVIII. Further evidence that natural substances in heavenly and earthly bodies are renewed
+  - XXIX. Why circular motion is the oldest, most lasting, complete, and noble motion
+  - XXX. Time is real and measures motion as a continuous quantity
+  - XXXI. Gradual Existence as the Immediate Goal of Time and Motion
+  - XXXII. Nothing Precedes Time and Motion Except God, Exalted in Glory
+  - XXXIII. How the Changing Is Linked to the Eternal
+  - XXXIV. Why Time Has No First or Last Moment
+  - XXXV. Arguments for a Beginning of Time and Replies
+  - XXXVI. What the “Now” Is, and How It Exists and Passes Away
+  - XXXVII. How Motion and Its Effects Can Cease to Exist
+  - XXXVIII. How the Instant Measures Time
+  - XXXIX. How Motion Divides Time, and Time Measures Motion
+  - XL. What Exists in Time
+- Stage Eight: Further Properties and Rules of Motion
+  - I. Where Motion Begins and Ends, and When Its Endpoints Oppose Each Other
+  - II. Why Motion Does Not Occur in the Other Five Categories
+  - III. What Rest Is, What Kind of Rest Opposes Motion, and How a Body Can Have Neither
+  - IV. How One Motion Can Be One Event, One Kind, or Another
+  - V. What Speed and Slowness Are, and Why They Are Not Caused by Pauses
+  - VI. Further Points About Speed and Slowness
+  - VII. When Motions Oppose Each Other
+  - VIII. Why Straight and Circular Motions Are Not Opposites
+  - IX. Why Every Straight Motion Ends in Rest
+  - X. How Motion Is Divided by What Causes It
+  - XI. What Does Natural Motion Seek?
+  - XII. Can One Body Have Different Sources of Motion?
+  - XIII. What Causes Forced Motion?
+  - XIV. Why Every Body Has a Tendency to Move in a Straight Line or a Circle
+  - XV. Bodily Forces Have Limits in How They Move Things
+- Stage Nine: Eternity, Coming-to-Be, and the Kinds of Priority and Posteriority
+  - I. What Do “Coming-to-Be” and “Eternity” Mean?
+  - II. The Case for Essential Coming-to-Be
+  - III. Is Coming-to-Be in Time an Extra Feature of Existence?
+  - IV. Coming-to-Be and the Need for a Cause
+  - V. Ways One Thing Can Come Before Another
+  - VI. How These Kinds of Priority Share a Meaning
+  - VII. Whether Priority Changes by Degree Across Its Kinds
+  - VIII. Kinds of Being Together
+  - IX. What Essential Coming-to-Be Really Means
+- Stage Ten: Intellect and What It Understands
+  - I. Defining Knowledge
+  - II. Why Knowing Things That Are Absent from Us Requires Their Images to Be Present in Us
+  - III. The Proposed Accounts of Knowledge and What They Share
+  - IV. What Knowledge Really Is
+  - V. How a Mental Image Is Present to the Soul but Exists Differently in Matter
+  - VI. On the Claim That Knowledge Is an Accident
+  - VII. What It Means for the Intellect to Become One with What It Understands
+  - VIII. Confirming That the Intellect and What It Understands Become One
+  - IX. The Earlier Philosophers’ View: The Soul Understands by Joining the Active Intellect
+  - X. Refuting a Later View of Knowledge
+  - XI. How One Thing Can Be Intellect, Knower, and Known Without Becoming Many
+  - XII. Further Questions About Self-Knowledge
+  - XIII. Kinds of Perception
+  - XIV. How the Rational Power Unifies Many Things and Distinguishes One Thing into Many
+  - XV. Levels of the Intellect and What It Understands
+  - XVI. Whether the Soul Can Understand Many Things at Once
+  - XVII. How the Simple Soul Can Understand Many Things
+  - XVIII. Different Ways to Classify Knowledge
+  - XIX. A Sign That the Soul Has a Sacred Power
+  - XX. Knowing a Cause Gives Knowledge of Its Effect, but Not the Other Way Around
+  - XXI. Knowledge of an Effect Requires Knowledge of Its Cause
+  - XXII. Knowledge Through Causes Gives Only Universal Knowledge
+  - XXIII. Knowledge of Particular Things Must Change If They Change
+  - XXIV. Explaining the Different Meanings of “Intellect”
+  - XXV. Alexander’s Account of the Intellect, Following Aristotle
+  - XXVI. Answering a Difficulty About the Potential Intellect Becoming Actual
+  - XXVII. How the Potential Intellect Becomes Actual Intellect
+  - XXVIII. First Principles, Their Relation to Later Principles, and the Defense of the First Principle
+  - XXIX. Every Separate Being Must Understand Itself
+  - XXX. Every Separate Being Is Intellect in Itself
+  - XXXI. How the Active Intellect Relates to Our Souls
+  - XXXII. Self-awareness is the self’s own act and lasts as long as the self exists
+  - XXXIII. Anyone who understands something must be free of matter
+  - XXXIV. The one who perceives imagined forms must also be free of this material world
+  - XXXV. The human soul’s understanding is not essential or necessary to it
+  - XXXVI. Learning is not recollection
+  - XXXVII. Why intelligible forms are not in bodies or bodily powers
+  - XXXVIII. The senses do not know that what they perceive exists
+  - XXXIX. The kinds of knowledge
 
 In the name of God, the Most Compassionate, the Most Merciful.
 
-### Stage Seven — Power and action
+### Stage Seven: Power and action
 
 This stage asks why every moving thing needs a mover, and whether the chain of movers can continue without end. It examines God's power and the powers of the soul, how the soul differs from the body's physical condition, and why beings free of matter neither die nor seek anything through motion. It then considers what things are made from, why they begin after not existing, and whether the possibility of coming to be is an added feature. It examines possibility and actuality, and the different ways power and action can come before one another. Finally, it looks at how nature and substances change, how bodies, the world, beings free of matter, and time come into existence, what causes time and what it belongs to, and why nothing comes before time except God.
 
-#### Chapter 1 — The meanings of power
+#### I. The meanings of power
 
 The word *power* is used for several different things,[^V03-1] but its earliest meaning seems to be the strength an animal has to carry out strenuous movements.[^V03-2] Its opposite is weakness. In this sense, power is a kind of added strength in the ability to act. It has a source and a sign. Its source is the ability to act: an animal acts when it wills and does not act when it does not will. The opposite of this ability is inability. Its sign is resistance to being affected. Someone carrying out strenuous movements may be affected by the effort, and that can keep them from finishing what they are doing. So resistance to being affected points to strength. The word *power* then came to be used both for its source—the ability to act—and for its sign—the ability to resist being affected.
 
@@ -134,7 +135,7 @@ Mathematicians noticed that some lines can serve as a side of a particular squar
 
 Once we understand power, we can identify its opposites: weakness, inability, ease of being affected, necessity, ineffectiveness, and a line's inability to serve as a side of a given square. Each is opposed to power in a different respect. We have already discussed possibility as one meaning of power. But possibility opposed to actuality differs in one respect from possibility opposed to necessary existence or impossibility. This will become clear when we discuss why matter is needed for everything that comes to be or changes. Power as resistance to being affected is one kind of quality. Power as strength or ability seems to be a kind of active quality—a quality that produces an effect.
 
-#### Chapter 2 — Defining power as the source of change
+#### II. Defining power as the source of change
 
 Power can mean the source of change in one thing that brings about change in another, insofar as the other is distinct from it. We add that last qualification because if something acted on itself—as when a doctor treats himself—it would have to differ from itself in some respect or have different parts. Otherwise, the same thing would be both the one acting and the one affected in the very same respect. That is impossible, even for something made of parts, let alone something simple.
 
@@ -152,15 +153,15 @@ Let us now divide powers by the actions they produce.[^V03-5] A power may produc
 
 The first kind is a power that produces one action without awareness of that action. It may be a form that makes a thing what it is, or a feature that does not. In things such as fire and water it is called a nature. In bodies made from different elements, it is called the form of that kind of body; examples include opium's cooling nature and euphorbium's heating nature. If it is a feature of the second kind, examples include heat and cold.
 
-### The second kind — Power that produces different actions without awareness
+### The second kind: Power that produces different actions without awareness
 
 This is the set of powers found in plants.
 
-### The third kind — Power that produces one steady action with awareness
+### The third kind: Power that produces one steady action with awareness
 
 This is the soul attributed to the heavenly spheres.
 
-### The fourth kind — Power that produces different actions with awareness
+### The fourth kind: Power that produces different actions with awareness
 
 This is the ability found in animals on earth.
 
@@ -170,7 +171,7 @@ One more point should be clear. A power to act may be limited to one action, lik
 
 It is like the difference between a general idea and an idea tied to one particular person. A general idea does not disappear when one person is gone. But an idea tied to one person in particular ends when that person is gone. As we have explained, necessity stands to possibility as completeness stands to lack. So possibility does not disappear when it becomes necessary, but the power to perform one specific action does disappear once that action is complete.
 
-#### Chapter 3 — Must the ability to act exist when the action happens?
+#### III. Must the ability to act exist when the action happens?
 
 Some thinkers held that the ability to act must exist at the same time as the action. Avicenna rejected this as implausible. In the metaphysics section of *The Healing*, he says:
 
@@ -186,7 +187,7 @@ The word *source* also has two meanings. It can mean what makes something possib
 
 What makes both action and inaction possible cannot, without anything more, be the source of one particular action. The source of ability—the possibility of acting—is one thing. The source that makes the action real and necessary is another. How can anyone, by reason and common sense, claim that the ability to do something exists only when the action is happening? If we think carefully about what we mean by a source of change, we see that, in relation to the change it can bring about, the result must still be possible and not yet real. A source of something that follows from it necessarily should not be called the source of change in another thing. I will make this clearer.
 
-#### Chapter 4 — When must a change happen, and when can it fail to happen?
+#### IV. When must a change happen, and when can it fail to happen?
 
 When a limited power to act meets a limited capacity to be affected, the action must follow. Power to act is also called ability. If it involves awareness and choice, it is an ability whether or not the action always follows without fail.
 
@@ -216,7 +217,7 @@ Powers in beings without reason and imagination may also be able to act without 
 
 Semen has the potential to become a man, and so does a boy. But the potential in semen is more remote: it must meet two powers to act, one that brings it to childhood and another that develops the child into an adult man. A boy needs to meet only one such power to reach adulthood. More remote still is the capacity in an element, and farther away than that is basic matter's capacity to become an intellect fully at work—even an intellect able to understand ideas below it, as we will explain later.
 
-#### Chapter 5 — Another way to divide the power to act
+#### V. Another way to divide the power to act
 
 Power to act may be a source of existence or a source of change.[^V03-18] Philosophers who study existence and its causes call an agent the source that gives existence. Those who study nature mean the source of change, in its different forms. The first is more deserving of the name “agent.” A source of change is itself subject to change: it renews a state that was different before. It is like a changing tool. It moves and is moved, acts and is acted upon, and is kept in being while also changing and passing away.
 
@@ -224,7 +225,7 @@ If you ask[^V03-19] who most deserves the name “agent,” the answer is God[^V
 
 The powers that directly cause movement do something else. They prepare matter and make it ready. They remove some opposing qualities so matter can receive another form once those qualities are gone, or divide it according to its different levels of readiness. They do not give existence itself.
 
-#### Chapter 6 — Another way to divide causes
+#### VI. Another way to divide causes
 
 When we discuss causes and effects, you will see how something can be a cause only indirectly. Keep this in mind here: most things people call agents do not truly give existence to the things attributed to them. A father, a farmer, or a builder, for example, does not give existence to children, crops, or buildings. They prepare the conditions that allow these things to come about, so they are only indirect causes. God is the one who gives them existence. He points this out when He says:
 
@@ -232,7 +233,7 @@ When we discuss causes and effects, you will see how something can be a cause on
 
 The point is that what most people call an agent only sets things in motion and brings about changes in matter. God is the one who gives things their forms and existence. Exalted is His name.
 
-#### Chapter 7 — Another way to classify abilities to act
+#### VII. Another way to classify abilities to act
 
 Some abilities to act come from nature, some from habit, some from learned skill, and some from chance. To learn a skill, a person deliberately uses materials, tools, and movements. With practice, the soul gains a lasting ability that lets the action come easily. This ability gives the skill its character, much as fire's nature makes it heat and water's nature makes it cool. In our discussion of the next life, we will see that this lasting ability may become part of what the soul is, and that the soul may be raised in that form on the Day of Resurrection.[^V03-21]
 
@@ -240,7 +241,7 @@ Actions done from habit, on the other hand, may start for another reason—desir
 
 A habit does not have to depend on particular tools or materials. The habit of walking, for example, is very different from the habit of trading. Even so, if we look closely, we see that habits and learned skills both grow from the same basic quality in the soul.[^V03-22] Natural abilities are found in both nonliving and living bodies. We will explain chance, randomness, and aimless action when we discuss what things are for.[^V03-23]
 
-#### Chapter 8 — Does every action have to start after a time when it did not exist?
+#### VIII. Does every action have to start after a time when it did not exist?
 
 Not every action has to come after a time when it did not exist, as the theologians claim.[^V03-24] They hold that something needs a cause because it began to exist, not simply because it is possible.[^V03-25] The only exception would be if they use “action” to mean a particular kind of effect that happens while an agent acts on something—for example, heating an object while it is being heated, or darkening it while it is being darkened. But if “an agent’s action” means giving something existence, it does not have to come after a time when it did not exist. An effect needs a cause because it is possible, not because it once did not exist.
 
@@ -256,13 +257,13 @@ If things coming into being were fully ready to receive existence, they would al
 
 > To find out whether the cause of an action exists in time, look at the action itself. If it takes place in time, so does its cause, because the cause cannot be separated from it.
 
-#### Chapter 9 — Power is not the body's temperament, as some doctors claim
+#### IX. Power is not the body's temperament, as some doctors claim
 
 Here is why. As we will explain, bodily temperament is a blend of the basic qualities we feel by touch: heat, cold, moisture, and dryness. It is a mix of these four, balanced among them and weaker than each one on its own. Its effects should therefore be like theirs, but weaker. Heat, cold, moisture, and dryness have direct, strong effects; the body's blended temperament has mild, weak effects.
 
 Since the soul's power does not have the same kind of effect as these four qualities, it cannot be the temperament itself. Instead, power is a quality of the soul that depends on the body's temperament. It, in turn, calls for a guiding form that manages and preserves that temperament. This form replaces, little by little, what the body loses as it changes, and repairs what tends to come apart under the opposing effects and shifting conditions of those qualities. So this guiding form, with its ability to direct, repair, and control, belongs to a higher level than the body's temperament. This question fits better in the study of nature.[^V03-26]
 
-#### Chapter 10 — Motion and rest
+#### X. Motion and rest
 
 Motion and rest resemble potentiality and actuality. In the broadest sense, they are features of things simply insofar as they exist;[^V03-27] a thing need not first be classified as a particular natural or mathematical kind for them to apply.[^V03-28] An existing thing is either actual in every respect, so that it cannot change or leave its state; potential in every respect, though this can apply to something that exists only when its potentiality itself has some actuality, as it does in prime matter; or actual in one respect and potential in another. In the last case, it must be made up of two aspects: one actual, the other potential. As actual, it comes before what is potential in it. We will see that actuality comes before potentiality in every sense of “before.”
 
@@ -286,7 +287,7 @@ Some have called motion an unlimited nature. At most, Avicenna says, this could 
 
 I say: Avicenna’s criticism of the Pythagorean definition does not quite hold.[^V03-38] Motion is not something that causes otherness; motion is change itself, a thing’s passing from one state to another. It is not whatever makes the thing change. A thing’s leaving one state is itself its being different from that state in reality, even if the two ideas differ in our minds. That is enough for a definition. As for the definition attributed to some thinkers—that motion is an unlimited nature—we will discuss it when we prove that the substance of nature is constantly changing and flowing through every body.[^V03-39] This constant renewal in nature’s own substance is the source of all the changing motions and qualities of earthly things.
 
-#### A Difficulty and Its Solution
+#### 1. A Difficulty and Its Solution
 
 In *Eastern Investigations* and his commentary on *The Sources of Wisdom*, Fakhr al-Din al-Razi raises a doubt about the claim that a thing comes from potentiality to actuality gradually, although the philosophers agree on it. When something changes, he says, either something comes to be in it or something leaves it. If neither happens—if nothing absent appears and nothing present disappears—then its state at that instant is the same as before, so it has not changed. But change was assumed. Therefore, when a thing changes, something must come to be in it or leave it.
 
@@ -306,7 +307,7 @@ Another definition, given by a group of Muslim philosophers in agreement with ea
 
 “Potential boundaries” is important here. A motion’s boundaries are only described as lying between its start and end; this points to what makes motion distinctive. The definition of motion as a continuous whole is then a description of it, rather than the kind of separate existence it has in the outside world.
 
-#### Chapter 11 — What kind of existence does motion have?
+#### XI. What kind of existence does motion have?
 
 In *The Healing*, Avicenna says that motion has two meanings. The first is the continuous course the mind understands a moving thing to follow from its beginning to its end. This course does not exist as a completed thing in the outside world. As long as the moving thing has not reached its destination, the whole motion has not yet happened; when it has arrived, the motion has ended and is gone. So this kind of motion exists only in the mind. The moving thing recalls the place it left and the place it reached. When the image of its being in the first place is present in the imagination, and the image of its being in the second place is formed before the first image disappears, both images are present in the imagination. The mind then takes them together as one thing. Outside the mind, however, there is no independently existing whole motion between the endpoints. The moving thing is not present at either endpoint as it moves; it exists in the state between them.
 
@@ -336,7 +337,7 @@ I say that this objection, raised by al-Razi, is close to the earlier one. The m
 
 Seventh, one might say that the connection between the past and future parts of motion is a connection between something that exists and something that does not. We answer that motion and time are weak kinds of existence, in which existence is intertwined with nonexistence.[^V03-54] Their actuality goes with potentiality, their coming to be with passing away. Each part calls for the nonexistence of another part; in a sense, it is itself its own passing away. Motion raises many questions, and there are many answers. We will not lengthen the discussion here; let us turn to what matters more.
 
-#### Chapter 12 — Proving the First Mover
+#### XII. Proving the First Mover
 
 You now know the definition of motion: it is the first action or completion[^V03-55] of something that is potential in some respect, precisely insofar as it is potential. The potentiality for motion[^V03-56] is part of what makes a moving thing what it is as a moving thing. Rest stands opposite motion as absence stands opposite presence. We say that motion is an existing, possible feature, so it needs something able to receive it. Since it comes to be, it also needs an agent. The receiver and agent must be different: a thing cannot both bring about and receive the same changing action, since acting and being acted on are different categories; nor can the giver receive what it gives. A moving thing needs a mover; it does not move itself.[^V03-57] A heater does not heat itself; it heats something that is only potentially hot.
 
@@ -348,7 +349,7 @@ For now, we can say briefly that what receives motion is potential, either in th
 
 So existence has two extremes.[^V03-63] At one end is the First Reality, pure existence—may His glory be exalted. At the other is prime matter. The first is pure good. The second has goodness only by accident.[^V03-64] Since it is potential for all existing things, it is good by accident; unlike sheer nonexistence, which is pure evil. This also shows that a body is made up of matter and form. A body has the potential for motion, while its bodily form—the substantial continuity of its dimensions—is actual. So it contains a multiplicity of aspects. This points toward a profound idea: whatever is truly simple must contain all things in actuality. I have found no one on earth who knows this idea.
 
-#### Chapter 13 — Answering objections to the rule that every moving thing has a mover
+#### XIII. Answering objections to the rule that every moving thing has a mover
 
 The philosophers have handed down several arguments for this rule. First: if a thing moved itself, it could never rest, because what belongs to a thing by its own nature remains as long as the thing does. But moving things do rest. So the starting claim is false. Second: if a thing moved itself, all the parts of its motion would exist together as something fixed. Whatever is fixed is known to be fixed; if the motion were fixed, it would not be motion. Third: if a thing moved itself, it would either have a place or state that suited it, or it would not. If it did, it would not seek that place or state, and no direction of motion would be better than another. It would either move in every direction, which is impossible, or not move at all. If it had something that suited it, then once it reached that state it would rest. It would not, then, move itself.
 
@@ -376,7 +377,7 @@ Al-Razi concludes that this argument cannot prove natural powers unless we first
 
 I say that we have already explained the difference between acting and being acted on, and between potentiality and actuality—that is, possibility and necessity. The objection based on a thing’s necessary features does not apply. It rests on a misleading use of the word “recipient,” which can mean something that undergoes change, or something that is described as having a feature that necessarily belongs to it.
 
-#### Chapter 14 — Dividing the moving power and proving an intellective mover
+#### XIV. Dividing the moving power and proving an intellective mover
 
 Some movers act in themselves; others act through something else, as a carpenter works through an axe.[^V03-73] Some move a thing directly by giving it the quality of motion. Others do not act directly on its motion but give the moving thing itself a principle by which it can move, as we will explain. Some movers act by moving in turn; others act without themselves moving, like the beloved who moves the lover or the teacher who moves the student.
 
@@ -384,7 +385,7 @@ Because there cannot be infinitely many bodies, there cannot be an infinite chai
 
 This brings what is potential into actuality. The source that brings something into being must itself be actual. It must exist in itself. So a mover that does not move must move either by giving a moving body the immediate principle by which it moves, or by acting as its goal, its good, or what it loves and knows. Every power in a body that moves also moves incidentally. A mover that does not move cannot therefore be a bodily power. We have shown that when a body produces a particular action or motion—not by accident, chance, or force—there must be an additional power beyond its bodyhood. That power is either a nature or a soul’s will. In either case, it must be connected to the body; it cannot be completely separate from it. If a particular action came from a source wholly separate from bodies and never connected with them, the separate source would be seeking through motion something it lacked. We have already shown this to be false. So if a separate mover contributes to the motion, it does so in one of the two ways just described, as in the motions of the heavenly spheres.
 
-#### Chapter 15 — Why the immediate source of particular actions and motions is not separate from matter
+#### XV. Why the immediate source of particular actions and motions is not separate from matter
 
 Why can this particular body receive an effect from something separate from matter? There are only three possibilities: because it is a body, because it has a power within it, or because the separate being has a power that produces the effect.[^V03-75] If the reason is simply that it is a body, then every body should receive the same effect, as we have already seen. But that is not what happens. If the reason is a power within this body, that is exactly what we are trying to show. If the reason is a power in the separate being, then either that power produces the effect by itself—in which case the same question about the separate being comes up again—or it acts by choice.
 
@@ -394,7 +395,7 @@ This nature also restores a body when something unusual has disturbed it. When w
 
 This also shows that the soul is not the body's temperament. A temperament that no longer exists cannot restore itself to its former state; what has ceased to exist cannot be brought back by itself.
 
-#### Chapter 16 — Every thing that comes to be is preceded by potentiality and the matter that carries it
+#### XVI. Every thing that comes to be is preceded by potentiality and the matter that carries it
 
 Nothing can begin to exist unless there is first a potential for it to exist. Anything that comes into being after not existing must have matter that comes before it. Why?[^V03-76] Before it exists, the thing is possible in itself. If it were impossible,[^V03-77] it could never exist; if it were necessary, it could not have been absent. Its possibility is not the agent's power to bring it about.[^V03-78] The thing is possible in relation to its own existence, not in relation to something outside it. This possibility must therefore be real before the possible thing exists. It is a feature of the world, not merely an idea in the mind[^V03-79] or a way of speaking. It is a relation[^V03-80] to the thing whose existence is possible.[^V03-81] That relation is part of what makes the possibility what it is. Possibility taken in general[^V03-82] is neither a substance nor a settled feature apart from this relation. If possibility were a substance, it would have its own existence, whether or not it was related to what might come to be. It would then be something existing on its own, rather than the ground of another thing's possibility.
 
@@ -412,7 +413,7 @@ This shows how matter causes a soul to come to be, and only in this way. Matter 
 
 Purely separate beings do not have real potentiality in the outside world. If they did, they would need something to carry it. Their possibility exists only as an idea in the mind: when we consider their general nature, we see that it is possible for them to exist, as explained earlier.
 
-#### Chapter 17 — Actuality comes before potentiality
+#### XVII. Actuality comes before potentiality
 
 The earlier chapters may have made it seem that potentiality always comes before actuality. Most people have held this view: matter before form, a general kind before its distinguishing feature, disorder before order, and the nature of a possible thing before its existence. But this is not so.[^V03-93] In *The Healing*, Avicenna describes several views that place potentiality first. Some say matter existed before form, and that an agent later clothed it in form, either for no reason or because something prompted it. Some ancient thinkers even imagined that a soul accidentally took charge of matter, shaped it badly, and that God then stepped in and shaped it well.[^V03-94]
 
@@ -426,7 +427,7 @@ Goodness belongs to what is actual. Harm and evil come from what is only potenti
 
 There is a difficulty. Sometimes a capacity for evil seems better than the evil action itself. It is better to have the capacity to act unjustly than to act unjustly; being bad in actuality is worse than being capable of being bad. I agree, but only in comparison. Potentiality considered just as potentiality is a lack and so is bad. An evil action, such as injustice or illness, is an actual thing and so has existence, but it is bad because it causes a further lack. The capacity for that evil is better than the evil action because it is only a lack for an action that would cause another lack. The good in that capacity comes back to what is actual: avoiding the second lack. In the same way, the badness of an evil action comes from the potentiality and lack it brings about.
 
-#### Chapter 18 — What is the subject of motion: the body or something else?
+#### XVIII. What is the subject of motion: the body or something else?
 
 We know that motion is a flowing state between pure potentiality and complete actuality. It includes a continuous passage from start to finish, which exists as a whole only in the imagination. Motion therefore needs something that is stable in some respect and can undergo it. That subject might be potential or actual. It cannot be only potential, because something with no actual existence cannot be described at all—not as potential, not as actual.[^V03-99] So the subject must exist in actuality.
 
@@ -438,7 +439,7 @@ Motion cannot be the form that makes a kind of body what it is, for several reas
 
 This is the strongest account so far. Later, we will bring more light to the question.
 
-#### Chapter 19 — An Eastern insight
+#### XIX. An Eastern insight
 
 Motion is a thing's being moved, its renewal and passing away. Its immediate cause cannot be something whose existence is entirely fixed, or the parts of motion would never pass away.[^V03-102] The agent that directly brings about motion must itself be renewed and moving. Motion must belong to it by its very existence. Anything whose existence necessarily includes motion still has a nature distinct from motion, but motion cannot be separated from that nature. Its motion is not something made separately from its existence. It follows from what it is.
 
@@ -452,7 +453,7 @@ Here is the deeper point. Matter is potentiality and readiness; natural form com
 
 Because simple bodies have forms that look alike, people have thought there is one form that stays with them. But their forms are not one and the same in number. They are one in kind and meaning, while continually following one another without a break. These are not separate, disconnected things. The result is one continuous, flowing existence. From its imagined boundaries, the mind draws out general natures such as human, animal, and plant.[^V03-112]
 
-#### Chapter 20 — Nature is the immediate source of motion in every moving thing
+#### XX. Nature is the immediate source of motion in every moving thing
 
 Nature is the immediate source of motion in every moving thing, whether the motion is natural, forced, or voluntary. In natural motion, this is clear: nature causes it. In forced motion, the force applied from outside only prepares the way; it is a cause in an indirect sense. That is why the forced motion can continue after the force has stopped. Besides, every outside force must ultimately lead back to nature or to the will.[^V03-113]
 
@@ -474,7 +475,7 @@ Anyone who looks closely at both sequences together will see that they both come
 
 So the changing things depend on something whose very reality flows and changes. That can only be nature. Separate intellects are beyond change and coming to be. The soul, considered in its intellectual nature, is also beyond change; in its connection with the body, however, it is nature itself, as we will explain later. Accidental features depend for their existence on substantial forms. Motion itself is not a thing that changes; it is the renewal and change of a thing. It is the relation of renewal, not something that causes renewal.[^V03-116]
 
-#### Chapter 21 — How the changing is connected to the unchanging
+#### XXI. How the changing is connected to the unchanging
 
 Here, “actuality” means what exists now, and “potentiality” means what can exist or become real.
 
@@ -488,7 +489,7 @@ If a thing's unity is the unity of many things that are potential or actual, the
 
 So nature, in its stable aspect, is connected to the unchanging Source. In its renewed aspect, it is the link through which renewed things and new events come about. In the same way, matter, insofar as it has some actuality, comes from the active Source when form is joined to it. But insofar as it is potential and possible, matter is what allows bodily things to begin, pass away, and perish. These two substances—nature and matter—bring about change and passing away in bodily things through their own renewal and passing away. They connect what is eternal with what begins, and resolve a problem that has long puzzled careful thinkers.
 
-#### Chapter 22 — How motion relates to the basic kinds of being
+#### XXII. How motion relates to the basic kinds of being
 
 When we say that motion occurs “in” a category—a basic kind of being, such as substance, quality, or quantity—there are four possible meanings. First, the category might be the true subject of motion.[^V03-118] Second, the subject might be a substance, with the category acting as the link between it and motion. Third, the category might be the general kind to which motion belongs. Fourth, the substance might gradually change from one kind or class in that category to another. The fourth is the right account; the others are not.[^V03-119]
 
@@ -514,7 +515,7 @@ Those who hold this view disagree about how the flowing and settled kinds differ
 
 Once the first three accounts are rejected, the fourth remains. Motion in a category means that its subject gradually changes from one kind to another, or from one class to another, rather than changing all at once.[^V03-130]
 
-#### Chapter 23 — Which categories can undergo motion, and which cannot?
+#### XXIII. Which categories can undergo motion, and which cannot?
 
 Because motion has a weak kind of existence, it depends on six things: an agent, a receiver, what changes, what it changes from, what it changes toward, and time. Its relation to the receiver is clear. We have already discussed two ways it can relate to the agent. In one, the agent and receiver differ in nature, as in the categories of acting and being acted on. In the other, they do not differ in nature, as with features that belong necessarily to a thing's nature.
 
@@ -530,7 +531,7 @@ Change can occur in relation, but relation does not exist on its own. It depends
 
 From this we can see that the cause of motion includes an element of absence. This absence is not just the absence of anything at all. It is the absence of something from a particular thing, in a particular state: the thing's being only potential.
 
-#### Chapter 24 — How motion occurs in each of the five categories
+#### XXIV. How motion occurs in each of the five categories
 
 Motion in place is clear. So is motion in position, as when a sphere turns around its own center. A body that has no surrounding place—such as the outermost celestial body, which, according to the philosophers, has no empty or filled space around it—can only move in position when it rotates on its axis.[^V03-141] A body that does occupy a place either moves as a whole away from the whole of its place, or its whole remains in the whole place while its parts move away from the corresponding parts of that place. In the latter case, the relation of its parts to the parts of the place has changed. In either case, its position in its place has changed through its rotation.
 
@@ -546,7 +547,7 @@ Some have said that this shows the soul is not merely a bodily temperament. Temp
 
 I say that this speaker seems to have sensed something of the soul's renewal when he said that it remains one by continuity until the end of life. A continuous existence through time cannot avoid change within the thing that continues; we will explain this later. Besides, we do not need this argument to show that the soul is different from bodily temperament. Conclusive proofs already establish that.
 
-#### Note and clarification
+#### 1. Note and clarification
 
 As we have suggested, blackness, from the start of its increase to its end, has one continuous identity. Yet at every imagined instant it has a different kind of quality from the one before and after. According to the philosophers in Aristotle’s school, the degrees of growth in blackness and heat are different kinds. If we accept their view, three conclusions follow.
 
@@ -584,7 +585,7 @@ From this we can see that Avicenna was unsure about the question. The same stude
 
 Our answer is that the subject of this motion is the particular body, not the particular amount. A body's identity includes some amount across the range from one limit of motion to the other, as physicians say of a person's bodily temperament. Motion occurs in the particular amounts and their degrees. What remains from beginning to end is not the same as what changes. Separation and joining destroy only an imagined continuous amount taken without its natural matter,[^V03-168] or a bare body stripped of its other forms. In its existence as body alone, it has a definite amount. But a natural body of a particular kind, made up of bodily nature and other forms, keeps its kind through a definite form that gives it its final, defining feature, together with some bodily nature that corresponds to its nearest general kind. A general kind is considered undefined, while the defining feature makes it definite. So the changing parts of the general kind and matter do not destroy the subject as long as its form remains.[^V03-169] The claim that adding one amount to another destroys the first is true only when both amounts exist separately in actuality. It does not apply when they are potential parts of one gradual change.
 
-#### A clearer account of motion in quantity
+#### XXV. A clearer account of motion in quantity
 
 Anything made up of several meanings is complete through what acts as its final defining feature. Its identity remains as long as that feature remains definite. The other parts of its definition—its general kinds and other defining features, which follow from its existence and make up its essence—do not have to remain in one particular form. They may change without destroying its identity.[^V03-170]
 
@@ -606,7 +607,7 @@ The proof that the individual continues is the same in both cases. Each is one c
 
 To draw this out: motion is like a person whose soul is nature, just as time is like a person whose soul is the timeless order.[^V03-177] In relation to the soul, and even to the intellect, nature is like a ray from the sun: it takes on its particular identity from them.
 
-#### Discussion and conclusion
+#### 1. Discussion and conclusion
 
 You might object to our claim that nature alone is the immediate cause of every motion and bodily act. If nature had to move the body's parts against their own natural tendency in order to obey the soul, the soul's commands should not tire the body. And if the soul's tendency and nature's tendency pull against one another, as in trembling or illness, we would expect a struggle between them.
 
@@ -616,7 +617,7 @@ The soul also has two kinds of natural powers and helpers. One kind carries out 
 
 As intellectual soul, it has other helpers from the world of awareness.[^V03-182] All of them serve it willingly: the basic powers of imagination, estimation, and sensation, and the sources of animal and rational desire and choice.  This nature that obeys the soul, together with its powers and branches, remains with the soul. The other nature passes away. Here lies a secret of bodily resurrection, which we will explain later, God willing.[^V03-183]
 
-#### Chapter 25 — Another proof that things change in their very substance
+#### XXVI. Another proof that things change in their very substance
 
 Nature within a body does not, by itself, produce the body's natural features.[^V03-184] If it did, it would act on its own body without that body's mediation. But a bodily power cannot act apart from matter. The reason is that a thing must exist before it can bring anything into being. Its way of acting follows its way of existing. If it exists through matter, its action must depend on matter too. Matter exists in a position, so it can act on or be affected by something only when its position relates it to that thing. Without such a relation, it cannot act there.
 
@@ -628,13 +629,13 @@ Here is another proof from the Eastern school. Every bodily substance exists in 
 
 These necessary features arise from an individual as light comes from a lamp, or heat from fire. With this in mind, consider how every bodily individual undergoes changes in all or some of its individuating features: time, amount, position, place, and the like. Their change follows the change in the existence that entails them; in a sense, it is that very change.[^V03-189] The existence of every bodily nature is itself extended, measurable, positioned, located, and temporal. So when its amounts, colors, or positions change, the individual bodily substance changes too. This is motion in substance, since the existence of substance is itself substantial, just as the existence of an accident is accidental.
 
-#### An illustrative note
+#### 1. An illustrative note
 
 Every bodily substance has a flowing, renewed nature and also a lasting aspect, related to that nature as the soul is related to the body. The human spirit lasts because it is immaterial, while the body's nature is always breaking down, dissolving, and flowing. The body is renewed while the individual continues through a steady succession of similar forms. People are unaware of this; they are bewildered by the fact that creation is renewed.
 
 The same is true of natural forms. In their material, spatial, and temporal existence, they are continually renewed and never fully at rest. In their intellectual existence—as separate Platonic forms—they remain forever in God's knowledge. I do not mean that they last through their own power, but that they last through God's own lasting existence, rather than because God repeatedly keeps them in existence.[^V03-190] There is a difference between these two ideas, which will be explained later. The first is a passing, worldly existence; the second is fixed in God's knowledge and does not pass away. Nothing can leave God's knowledge, and God's knowledge cannot change. ‘In this is a message for people who worship.’[^V03-191]
 
-#### Chapter 26 — Why a thing's very form can come to be through motion
+#### XXVII. Why a thing's very form can come to be through motion
 
 The argument made by Avicenna and others, as we have seen, is this: a form cannot grow stronger or weaker. If it could, its kind would either remain through the change or not. If the kind remained, then the form itself would not be changing; only its associated features would. If the kind did not remain, the form would be disappearing, not growing stronger. Another form would then have to take its place. These successive forms would either last for more than one instant or not. If one lasted, motion would have stopped. If none did, forms would follow one another instant by instant. That would make motion a sequence of separate instants, which is impossible.[^V03-192]
 
@@ -646,7 +647,7 @@ It is surprising that Avicenna raised this very question about how matter and fo
 
 Avicenna also offered another argument, though he pointed out its weakness: substance has no opposite, so it cannot move, since motion is a passage from one opposite to another. His reply is that if opposites must take turns in the very same subject, forms have no opposites. But if it is enough for them to take turns in the same underlying matter, then water and fire are positive forms that share matter and are as far apart as opposites can be.[^V03-197]
 
-#### Chapter 27 — Further evidence that natural substances in heavenly and earthly bodies are renewed
+#### XXVIII. Further evidence that natural substances in heavenly and earthly bodies are renewed
 
 Perhaps you will say that this is a new teaching, one no philosopher has held. The things that do not remain fixed are usually said to be only time and motion. Philosophers disagree about which of these is unstable in itself and which is unstable as a result. Most say that time itself is unstable and motion follows it; Suhrawardi held the reverse. But no one has said that nature, as a substance, is unstable in its very being.[^V03-198]
 
@@ -666,7 +667,7 @@ The same author continues: if the soul were itself a body, or one of the finest 
 
 One of the most astonishing things, Ibn Arabi says in *The Bezels of Wisdom*, is that a person is always rising, without knowing it, because the veil between stages is so fine and the forms so alike.[^V03-208][^V03-209] In *The Meccan Revelations*, he says that all existence is always moving, in this life and the next, because nothing comes to be without something that brings it about. God is continually turning toward creation, and His words never run out.[^V03-210][^V03-211] “What is with God remains” points to what we have said: God's intellectual words remain because God remains, while their bodily images pass away.
 
-#### Chapter 28 — Why circular motion is the oldest, most lasting, complete, and noble motion
+#### XXIX. Why circular motion is the oldest, most lasting, complete, and noble motion
 
 To see which motion came first, begin with growth and shrinking, which are changes in amount. Both depend on changes of place: something must move into a growing body, or move out of a shrinking one. Changes of place and position do not depend on changes in amount. Expansion and contraction also involve changes in quality, such as heating or cooling. But these changes of quality do not last forever; they need a new cause. For example, fire heats water when the fire moves closer or the water moves toward it. So changes of place came before changes in amount and quality.
 
@@ -678,7 +679,7 @@ It is also the most complete. It cannot increase in amount, as other motions can
 
 Finally, it is nobler than the other motions because it is complete, and what is complete is nobler than what is lacking. The body that moves in a circle must therefore be the oldest, most complete, and noblest body in nature. The excellence, completeness, and lasting power of its motion require the same qualities in what causes it. By holding it in motion, that body's power renews the directions of natural, straight-line motion and the dimensions of space. We will explain this later in the discussion of directions and the heavenly bodies.
 
-#### Chapter 29 — Time is real and measures motion as a continuous quantity
+#### XXX. Time is real and measures motion as a continuous quantity
 
 Motion can be divided in thought, and the parts can be counted. To establish that time is real, the natural philosophers point to what we observe: different motions sometimes cover the same stretch of distance but differ in when they begin or end; sometimes they begin and end together but cover different distances; and sometimes they agree in one respect and differ in the other. This shows us that there is a measurable flow in the world in which different motions can occur, whether alike or different. It is not the same as the measured sizes or boundaries of bodies: those remain fixed, while this does not. It measures something that does not stay fixed, namely motion. A full account of this proof belongs to natural philosophy.[^V03-212][^V03-213]
 
@@ -692,7 +693,7 @@ This kind of existence has both continuity and stability, and renewal and passin
 
 Its recipient must be the oldest and most complete of natural substances and bodies, since only time itself can precede time in this special sense. It cannot be formed from another body, or another body formed from it, because that would break time's continuity.[^V03-219][^V03-220] It must be fully formed, not made from the elements, and by nature it cannot undergo change of place, change of amount such as growth or shrinking, expansion or contraction, or change of quality. These changes would break it and would mean it no longer came before the other bodies.[^V03-221] We will explain this more simply as we continue.
 
-#### Chapter 30 — Gradual Existence as the Immediate Goal of Time and Motion
+#### XXXI. Gradual Existence as the Immediate Goal of Time and Motion
 
 You should know that we will show later that the proper goal of the celestial motion is the soul's conceptions, which give rise to longing and will. Through these, the celestial soul draws closer to its highest source.[^V03-222]
 
@@ -724,7 +725,7 @@ By the same reasoning, its body also brings into being directions and places. A 
 
 All bodily existences are incomplete: they need time and place, position, amount, and quality. The first source of these things must therefore be separate from them in its being and existence. Time cannot be caused by an earlier time, place by an earlier place, or position by another position, and the same is true of amount and the rest. These things are renewed effects, but their first cause must be a stable, immaterial reality outside the chain of time and place: God in His oneness, or His divine knowledge, His perfect words that never fade, or the realm of His command, where when He says “Be,” it is.[^V03-239]
 
-#### Chapter 31 — Nothing Precedes Time and Motion Except God, Exalted in Glory
+#### XXXII. Nothing Precedes Time and Motion Except God, Exalted in Glory
 
 You have learned that time and the things connected with it are gradual existences, continually coming to be. Anything that precedes time—whether it is an existence, a nonexistence, or something else—if its “before” cannot coexist with what comes after, must itself be time or something in time.[^V03-240] So before every time there would be another time, and before every motion another motion.
 
@@ -740,7 +741,7 @@ Here, then, is one intellectual reality that acts through endlessly many states,
 
 The Spirit's relation to God is like the relation of a command to the one who gives it, or of speech to the speaker. God is the source of both command and creation. The created world includes whatever has form, measure, and dimensions: bodies and bodily things. These come to be gradually, their identities following in succession, through God's power and knowledge. The realm of command is different: God has always acted, known, and willed, and He has always issued His command. His command is eternal, while what He creates comes to be. That is why scripture says, “God's command is done,” not “God's creation is done.”[^V03-246]
 
-#### Chapter 32 — How the Changing Is Linked to the Eternal
+#### XXXIII. How the Changing Is Linked to the Eternal
 
 The minds of theologians and philosophers have long been troubled by the question of how what comes to be can depend on the eternal. The strongest and most reasonable of their answers is this: all changing things depend on a lasting, circular motion. This motion needs no cause that begins in time, because it has no beginning in time. In one respect it is eternal and depends on an eternal cause; in another respect it is always coming to be and is the source of changing things.
 
@@ -764,7 +765,7 @@ The existence of bodily nature, which gives form to material bodies, is too limi
 
 I do not mean that the essence of a bodily nature requires change and passing away when considered apart from existence. We can think of a bodily nature without thinking of it as changing, just as we can think of it without thinking of it as lasting. How, then, could change be one of its essential or defining features? The mistake lies in confusing the essence of a thing with its existence. Existence itself cannot be pictured in the mind, as we have explained many times. It is made individual through itself, while everything in the mind is open to sharing and generalization. If existence could be represented in the mind, an individual would become general, what is outside the mind would become something mental, and existence would become an essence. All of this is impossible.
 
-#### A Clarifying Note
+#### 1. A Clarifying Note
 
 Many things do not have an intellectual reality that matches the way they appear to the senses or imagination. This is true of time, motion, a circle, and power.[^V03-257] It is also true of quantities and mathematical objects, such as a body considered simply as an extended quantity. Its mode of existence consists in a particular spatial extension, whether it exists in matter and a specific natural body or in the imagination apart from any specific matter and nature. It has no existence in the intellect as an extended thing, because anything understood by the intellect is general; a general idea cannot itself be extended or measured, nor can it exist as something extended and measured. The intellectual idea of quantity is not itself a quantity, nor is it something with quantity, nor can it be treated as quantity in the ordinary way.
 
@@ -772,7 +773,7 @@ Many material things are like this: there is no intellectual counterpart that ma
 
 We will prove in this book that the specific forms of substances do not fall under the general category of substance, or under any category of qualities. They are individual realities of existence that do not, in their own right, belong to substance, quantity, quality, or any other category or class. They are pure existences flowing from the aspects of the First Reality, effects of its intellectual rays and shadows of its light.
 
-#### Discussion and Clarification
+#### 2. Discussion and Clarification
 
 You can put the objection this way:[^V03-258] how can these renewed realities, called specific forms and bodily natures, come from an eternal source? If they come from it without a prepared recipient, then they must be separate forms, and so intellectual rather than material. Besides being impossible, this contradicts what we are trying to explain: renewal is incompatible with a separate, immaterial existence.[^V03-259]
 
@@ -798,7 +799,7 @@ Just as mathematical extension in matter cannot be separate from the spatial ext
 
 Since time exists in the world only through the existence of what it measures, its renewal, passing away, coming-to-be, and continuity depend on that thing's own renewal, passing away, coming-to-be, and continuity. It is surprising that some philosophers still assign time an independently renewed identity. Perhaps they mean that motion is, by nature, the renewal and passing away of something, while time is the quantity of that motion. That is why the author of *Pointers* thought motion, considered as measurable, was the same as time, though motion as motion was different. In the world, motion and time do not differ; they differ only in the mind, when we consider motion without considering its measure.
 
-#### Discussion continued
+#### 3. Discussion continued
 
 In *The Healing*, Avicenna says people have held several views about time. Some deny that it exists at all.[^V03-281] Some say it exists only as something imagined, with no real existence.[^V03-282] Others say it is not one thing in itself, but a relation between various events and other events, each of which serves as the time of another. On that view, time is the sum of such occasions.[^V03-283]
 
@@ -826,7 +827,7 @@ A prophetic saying tells us not to curse time, because time is God. People curse
 
 The sages also say: the relation of the fixed to the fixed is eternity; the relation of the fixed to the changing is the everlasting age; and the relation of the changing to the changing is time. By the first, they mean the relation of God to His names and knowledge. By the second, the relation of His fixed knowledge to its changing objects—the beings of the bodily world—as they exist together. By the third, the temporal relation of those objects to one another.[^V03-295]
 
-#### Chapter 33 — Why Time Has No First or Last Moment
+#### XXXIV. Why Time Has No First or Last Moment
 
 Some say that every event in time is preceded by a nonexistence that does not coexist with its existence.[^V03-296] What makes that nonexistence “before” the event cannot be nonexistence itself, since nonexistence may also come after something. Nor can it be the event's cause: the cause also exists alongside its effect. And nothing that can exist together with the later event is, by its own nature, earlier than it in this particular way.
 
@@ -850,7 +851,7 @@ There is another difficulty: the parts of time must differ in essence, even thou
 
 The answer is that a continuous whole's parts resemble one another in what makes it continuous. Their differences are required by this very continuity. Each part of one stretch of space has a different position from the others, and the unity and continuity of space require this. The same is true of the hours of time: each has a different state, and the unity and continuity of time require it.[^V03-303]
 
-#### Chapter 34 — Arguments for a Beginning of Time and Replies
+#### XXXV. Arguments for a Beginning of Time and Replies
 
 Those who say time began offer several arguments. First, past events can increase or decrease in number. Whatever can increase or decrease must have a beginning, so past events must have had one. Second, if past events were infinite in number, the event happening today would depend on an infinite number of earlier events having passed away. It could not then happen. But it plainly does happen, so the past cannot be infinite. Third, if every individual event has a beginning, the whole collection must have a beginning too. Fourth, past events have reached us. If they were infinite, then an infinite series would have come to an end, which is a contradiction. Fifth, either an event occurred in eternity or none did. The first is impossible, since then the event would not be a new event. If no event occurred in eternity, there was a time when no event existed, so all events began after nonexistence.
 
@@ -908,7 +909,7 @@ This is not disproved by prime matter, which can receive an unlimited number of 
 
 The second interpretation is that, although the world's existence at each moment has only limited power, the first source gives its matter a new power and a new identity at every moment, different from the one it gave before. But this is exactly the view that the world comes to be and passes away: each individual in it is preceded by temporal nonexistence. That is the very position of the three revealed religions: Judaism, Christianity, and Islam. One could object to the argument by saying that something in the world, such as separate intellects, has unlimited power. That would work only if those separate forms were part of the world in the sense relevant here. You will learn from our account that separate forms, precisely insofar as they are separate, are not part of what is other than God. So the claim that the world and everything in it has limited power and does not last forever as an individual remains sound. It lasts only as a general meaning, not as one individual reality.
 
-#### Chapter 35 — What the “Now” Is, and How It Exists and Passes Away
+#### XXXVI. What the “Now” Is, and How It Exists and Passes Away
 
 Know that “now” has two meanings. One depends on time; the other is what gives rise to time by flowing.[^V03-337] In the first sense, the now is a boundary of continuous time. We must ask how it exists and how it ceases to exist. You know that time is a continuous quantity, and anything continuous can be divided without end in principle, though not in fact. Such division happens in one of three ways: by an actual cut, by a change in the aspect under consideration, or by the mind's imagination. An actual cut cannot be made in time, as you have seen.[^V03-338] So time can be divided in either of the two remaining ways: motion may bring something to a point all at once, creating a shared boundary such as sunrise or sunset, or the mind may divide it through its power of imagination.
 
@@ -930,7 +931,7 @@ The first kind—things that occur all at once—includes all things that happen
 
 The other meaning of now is the flowing now that produces continuous time as it flows. To understand it, notice that distance, motion, and time match one another in every respect that concerns their existence. Just as we can imagine a point that, by moving, traces out a distance, so there is something in motion—the moving thing's being between the start and end of its path—that, by flowing, produces motion across the whole path.[^V03-361] If so, time must also have something flowing that produces time as it flows. This is called the flowing now. It matches motion through the middle of the path. The point that draws a line is not the same as the points that mark its ends; likewise, motion through the middle is not the same as instant arrivals or other events that happen all at once.[^V03-362] The source of time is also different from an instant we imagine within it. The flowing now is time's source because it produces time through its motion and flow. Take this to heart.[^V03-363]
 
-#### Chapter 36 — How Motion and Its Effects Can Cease to Exist
+#### XXXVII. How Motion and Its Effects Can Cease to Exist
 
 There is a problem about how motion across a path, and the time that matches it, cease to exist. Some say that motion and its corresponding time are absent at all times other than the stretch in which they exist. In other words, motion exists only during one stretch of time and is absent at all other times. But this does not answer our question. We are asking how motion passes away—how it begins to be absent after it has existed.[^V03-364]
 
@@ -946,33 +947,33 @@ Avicenna says in a passage of this kind that there is no first instant in which 
 
 I reply that coming to be is indeed instantaneous, as the author of *The Summary* reports from Avicenna. But there is no proof that Avicenna says the same of passing away. And anyone who says that forms come to be all at once must also say that they pass away in a way that has no first instant. Our view, however, is that both coming to be and passing away happen gradually. Otherwise matter would be left without a form.[^V03-370] When water becomes air, the airy form cannot appear while the water form is still present; nor can it appear in the last instant of the water form. It must appear in a different instant. Then either two instants touch, which is impossible, or matter is left without either form. Avicenna may have pointed toward the truth here: his words suggest that both forms come to be in a stretch of time that can be divided endlessly.
 
-#### Chapter 37 — How the Instant Measures Time
+#### XXXVIII. How the Instant Measures Time
 
 For geometers, a measure is a part of a length or number that can be taken away again and again until nothing remains. The instant does not measure time in this sense. But “measure” can also mean something that makes a thing ready to be counted in the first sense.[^V03-371] The instant measures time in this second sense: it gives time unity, and repetition gives it plurality. As you know, time is continuous. We can count it only after dividing it, and division requires boundaries. Once boundaries are set, continuous time is split into parts, which can then be counted by one of their own parts. A line, for example, is divided by points. A point makes it possible to count the line's parts, while those parts themselves measure the line in the first sense. So the instant and the parts of time measure time in different ways.
 
 One writer says that the instant both separates and joins time. It separates the past from the future, but it also joins them because it is their shared boundary.[^V03-372] The instant is one thing in itself, but it can be considered in two ways: as the end of the past and as the beginning of the future. As a joining point, it is one in itself and in the way we consider it, because it is the shared point between the two.
 
-#### Chapter 38 — How Motion Divides Time, and Time Measures Motion
+#### XXXIX. How Motion Divides Time, and Time Measures Motion
 
 We have already seen that the continuity of a path, as a path along which motion occurs, causes time to exist. Motion through each part of the path causes the corresponding part of time to exist. So motion is a measure of time in the sense that it makes time's earlier and later parts exist.[^V03-373][^V03-374] Time, in turn, measures motion by counting it, since time determines the amount of motion. Think of people and numbers: ten people make the number ten exist, while the number ten makes it possible to count them as ten. Ten is ten in itself; people are counted as ten by means of it.[^V03-375]
 
 The same is true of time and things that exist in time, such as motion. Time's existence is its amount, and motion causes it to exist—not because motion causes time to be an amount, since being an amount is part of what time is. Time measures motion in two ways. It makes motion have a certain size,[^V03-376] and it tells us how much motion there is. Motion measures time by showing how much earlier and later there is in it.[^V03-377] There are also two ways to show an amount: a measuring cup can show how much liquid it contains, and the liquid can show how large the cup is. A path can show the amount of motion, as when we say “a journey of two miles”; motion can show the length of a path, as when we say “the distance of a throw.”[^V03-378] But only one of these gives a measure in itself:[^V03-379] it is continuous by its nature, so we call it long or short; and because it can be counted through what comes before and after, we call it great or small in number.
 
-#### Eastern Insight
+#### 1. Eastern Insight
 
 Distance, motion, and time exist as one thing. They do not exist as three separate things that happen to be connected; the mind separates them and assigns each a different role. Distance is an individual instance of length, size, or another category. Motion is its renewal, its gradual passage from what it could be into what it is. That renewal is an idea the mind draws from the thing. The continuity of motion is the continuity of the path itself, and time gives that continuity a measure and a definite amount. After separating these aspects in thought, we may say that one causes another. The path's continuity gives motion its continuity—but this does not mean that one continuity causes a second, separate continuity. Motion's continuity is the path's continuity considered as motion.[^V03-380]
 
 Someone might imagine motion that is not continuous, as those who believe in indivisible parts do.[^V03-381] But time's continuity is not caused in the same way. Time is, by its nature, a continuous quantity. Its existence still needs a cause, and that cause is not the continuity of the path by itself; it is the path's continuity as carried through motion.
 
-#### Chapter 39 — What Exists in Time
+#### XL. What Exists in Time
 
 Avicenna says in *The Healing* and elsewhere that something exists in time only if it has an earlier and a later state. These belong directly to motion, and to a moving thing indirectly. He also says that kinds and parts of a thing are in it; the instant is in time as unity is in number; earlier and later are in time as even and odd are in number; hours and days are in time as two and three are in number; motion is in time as the ten categories are in the number ten; and a moving thing is in time as the subject of those categories is in the number ten. Rest is the absence of motion. It is not measured by time in itself, but because it is bounded by two motions, it gains a kind of earlier and later, so we imagine it as existing in time.[^V03-382][^V03-383][^V03-384]
 
 I say that every substance has some kind of change, or is affected by change. We have already shown that nature itself is renewed. So anything at rest in one respect is moving in another, and in that respect it exists in time in itself.[^V03-385] In our account, time follows the ongoing renewal of nature as a whole. It then follows the circular motion, which is the oldest of the motions, especially the motion of the outermost sphere. That motion measures other motions from place to place and changes of position; through those, it measures changes in quality and quantity.[^V03-386] Changes in other categories—such as relation and possession, and even nonexistence and possibility—follow the change of substance and so are motions only indirectly. Their earlier and later order in time is indirect as well.[^V03-387] Things that are neither motions nor involved in motion do not exist in time. Their coexistence with changing things is called timeless duration. Likewise, when changing things coexist with one another not as changing but as stable, that coexistence is timeless duration.[^V03-388]
 
-### Stage Eight — Further Properties and Rules of Motion
+### Stage Eight: Further Properties and Rules of Motion
 
-#### Chapter 1 — Where Motion Begins and Ends, and When Its Endpoints Oppose Each Other
+#### I. Where Motion Begins and Ends, and When Its Endpoints Oppose Each Other
 
 The starting point and destination may also be opposites, or nearly so.[^V03-389][^V03-390] In quality, motion from black to white joins true opposites. Motion from yellow to indigo joins things that are like opposites: one is closer to white, the other to black. In quantity, motion from an object's larger natural size to its smaller size joins the two extremes. Growth and shrinking that do not reach either extreme lie between opposites.[^V03-391][^V03-392] Places, by themselves, are alike, but they can be opposed by direction. Natural motion from the highest place to the lowest is from one opposite to another, since these are the only two natural directions. If natural motion takes place between them, its endpoints are like opposites.[^V03-393]
 
@@ -982,7 +983,7 @@ The beginning and end, and their relation to motion, are alike in this respect. 
 
 We reply that opposites can exist together in a subject that is not their immediate subject. The immediate subjects of beginning and end are not the body itself, but its positions and states.
 
-#### Chapter 2 — Why Motion Does Not Occur in the Other Five Categories
+#### II. Why Motion Does Not Occur in the Other Five Categories
 
 We have already given a brief account of this. Here is a fuller explanation. Relation has no independent nature; it depends on something else. If that underlying thing moves, rests, grows, shrinks, strengthens, or weakens, the relation follows its change. It changes through that thing, not by itself.[^V03-396]
 
@@ -998,7 +999,7 @@ Someone may object that a thing can gradually lose its ability to act—not beca
 
 We reply that if the action is natural, the agent's power may weaken little by little; if it acts by choice, its resolve may fade; and if it acts through a tool, the tool may wear out. In every case, the power, resolve, or tool changes first. The agent's ability to act changes as a result, not in itself. So this objection does not apply.[^V03-405]
 
-#### Chapter 3 — What Rest Is, What Kind of Rest Opposes Motion, and How a Body Can Have Neither
+#### III. What Rest Is, What Kind of Rest Opposes Motion, and How a Body Can Have Neither
 
 When a body is not moving, there are two possible meanings. It may continue to exist in one place, size, quality, or other state. Or it may lack a motion that it is able to undergo. People have agreed to call only the second meaning “rest,” the absence of motion. They give two arguments for this choice.
 
@@ -1018,7 +1019,7 @@ I say that each of these three cases needs closer examination. For the first, so
 
 As for the third case, the body is described as moving throughout every instant of the time of its motion, but not as moving within the instant itself.[^V03-410] You may say: if motion does not exist in the instant, the body is not moving then, so it must be at rest, the opposite of motion. We reply that the opposite of “motion within a single instant” is merely “no motion within that instant,” not “no motion at all.” The body need not be at rest simply because it does not complete a movement inside a single instant. It is described as moving during the stretch of time that the instant bounds. Yes, in each instant of its motion the body is without motion in that instant, and also without rest in that instant. These are not true opposites, because time is part of the definition of each. Lacking a specific kind of motion does not mean lacking motion altogether.
 
-#### Chapter 4 — How One Motion Can Be One Event, One Kind, or Another
+#### IV. How One Motion Can Be One Event, One Kind, or Another
 
 You know that motion is a positive state of its subject, and that it depends on six things. Its unity depends on some of them. The unity of one particular motion requires the unity of its subject and its time. A shade of white in one body is not the shade of white in another. And if a body's whiteness returns after it has disappeared, the returning whiteness is not the same one that disappeared.[^V03-411] Just as the subject's being one kind or another does not by itself make whiteness a different kind, it does not by itself make motion a different kind. A kind is different only when its essential features differ. Other categories are features of the subject; they do not define its kind. Many different categories can therefore exist in one subject. One particular motion is the one whose subject, time, and path are the same.[^V03-412]
 
@@ -1032,13 +1033,13 @@ Bahmanyār writes in *At-Tahsil* that he is not persuaded by such answers. A cha
 
 I say that the unity of motion is not like the unity of a house or anything like it. It is more truly one. The unity of the subject in growth and decline has already been explained. In their view, the circular motion of the heavens, considered as the moving thing's being between past and future, remains one forever. In our view, it changes at every instant. Yet the changing material forms of each heavenly body have one lasting intelligible form, which remains through God and stands between its earlier and later changing forms. That is the link between the changing and the unchanging. Motion across a path, by contrast, seems to be one only in an indirect sense. Its unity is not like the unity of motion through the middle of the path, which is a single, intelligible whole; motion across a path can be divided in principle.[^V03-418]
 
-#### Chapter 5 — What Speed and Slowness Are, and Why They Are Not Caused by Pauses
+#### V. What Speed and Slowness Are, and Why They Are Not Caused by Pauses
 
 Motion cannot be indivisible, or divided into parts that cannot be divided further, even in principle. So speed and slowness cannot be caused by pauses within motion. First, if motion could not be divided, neither could the path it covers. But the path can be divided without limit, as we will show when we discuss bodies. Motion matches the path, and the path is continuous because the body is continuous. A body can be divided without limit, so motion can be divided without limit too.
 
 Second, suppose one motion were faster and another slower because pauses occurred within the slower one. Then the slower moving thing would sometimes appear to be at rest, and a spinning wheel would seem to break into separate parts.[^V03-419] The time taken by the faster motion is to the time taken by the slower motion as the distance covered by the slower motion is to the distance covered by the faster one. If two moving things start and stop at the same times, and one motion lasts one tenth as long as the other while the distances they cover differ by thousands, the slower one should appear to stop during parts of its time when it is not moving. Its continuous motion would be broken into sections. This is not what we see in examples such as the sun's motion and a horse running at full speed. Other clear arguments support the same conclusion.
 
-#### Chapter 6 — Further Points About Speed and Slowness
+#### VI. Further Points About Speed and Slowness
 
 Speed and slowness have the same basic meaning in straight and circular motion, and in changes of size and quality: covering a distance in less time. In natural motion, resistance from the medium can make movement slower. In forced motion, a thing's own nature resists the movement.[^V03-420] In motion by choice, both kinds of resistance may play a part. Speed and slowness are not opposites in the way that two relative terms depend on each other. Nor are they simply presence and absence. If two motions take the same time, the faster one covers more distance. If they cover the same distance, the slower one takes more time. Each has something the other lacks, so neither is simply the absence of the other. Their difference must therefore be a difference between opposing qualities.[^V03-421][^V03-422]
 
@@ -1046,13 +1047,13 @@ If speed and slowness are opposing qualities that admit greater and lesser degre
 
 I know of no one who has answered this. The answer that occurs to me is that time belongs to motion only when we examine the two in thought. As explained earlier, motion and time exist together as one reality. Time does not attach to motion as an outside feature attaches to a thing. It is more like a feature that belongs to what a thing is, as a kind belongs to a broader kind or existence belongs to what exists. Such features can be earlier in one sense and later in another. A particular motion in the world is shaped by a particular time; in thought, that time is a feature of motion considered simply as motion. In that sense, time can be called the cause of the particular motion, and motion the cause of its time. This is true when we analyze them in thought. In the world itself, there is no separate cause and effect, or feature and subject: motion and time are one thing.[^V03-424]
 
-#### Chapter 7 — When Motions Oppose Each Other
+#### VII. When Motions Oppose Each Other
 
 Motions of different kinds are not opposites. A single subject can undergo change in quality, growth, and movement from place to place. If these changes conflict at some moment, the conflict comes from outside causes, not from what those kinds of motion are. Motions within the same kind can be opposites: becoming black and becoming white, or growing and shrinking. Each is directed toward a natural limit. The opposition between two motions must involve one of the six things on which motion depends. It is not due to the subject: things with opposite natures can move in the same way, as fire rises naturally while water can be forced upward. It is not due to time, which has no opposite. Nor is it due to the path, since the same path can be traveled in opposite directions. The agent does not explain the opposition either.[^V03-425]
 
 So the opposition must come from where a motion begins and where it ends. When those points are opposed, the motions are opposed. A motion from black toward clear is not the opposite of a motion toward black, because its destination is not white. Opposed motions are those whose starting points and destinations face each other, either because the qualities themselves are opposites, as black and white are, or because one motion begins where the other ends. A motion is not related to its starting point and destination only by accident. Its nature includes both leaving one point and aiming toward another. So these points help make the motion what it is, even though they do not make its subject what it is.[^V03-426]
 
-#### Chapter 8 — Why Straight and Circular Motions Are Not Opposites
+#### VIII. Why Straight and Circular Motions Are Not Opposites
 
 Straight and circular motions are not opposites. Straightness and curvature are not two states that replace each other in the same thing while it remains the same. A line cannot change from straight to curved without ceasing to be that line. Straightness and curvature are either features that define a line or features belonging to different kinds of line. In either case, changing one into the other means the line itself has changed.[^V03-427] The same applies to circular paths with different curves: they do not replace one another in the same subject.
 
@@ -1062,7 +1063,7 @@ Still, things that are not opposites in themselves can oppose each other in anot
 
 You have seen how straight motions can oppose each other. Rising and falling oppose each other as straight motions, and also because one goes upward and the other downward. A motion has an opposite when it covers the shortest path from one actual endpoint to another, and the opposite motion goes from that endpoint back to the first—not somewhere else. So motion in the order of the zodiac is not opposite to motion against that order. Nor is motion along one half of a circle opposite to motion along the other half. A circle has no one arc that is singled out from the others. For each point, moving toward it is the same as moving away from it; each point is both the goal and the point to leave.
 
-#### Chapter 9 — Why Every Straight Motion Ends in Rest
+#### IX. Why Every Straight Motion Ends in Rest
 
 Earlier philosophers gave four arguments that a period of rest must come between any two different motions. The first goes like this: a thing can touch a point and then be separate from it only at two different instants. There must be time between those instants, since one instant cannot follow another without a gap. There is no motion during that time, so the thing must be at rest. We can answer, first, that this argument could be applied to every point along the path. That would mean no continuous motion could exist. Second, separation is itself a motion and must take time. Its final instant has no motion in it; it is the instant when touching ends. There is no problem with contact holding at the boundary of the time when separation begins.
 
@@ -1096,7 +1097,7 @@ Those who deny rest also point to a large stone falling while a tiny seed is thr
 
 Al-Rāzī says that although this is far-fetched, it is possible, and the proof requires us to accept it. I ask what proof requires it. The proof requires real rest between two different motions, not a motion that is only called motion in a loose sense. A person sitting in a moving boat is at rest in themselves while moving only because of the boat. The first motion has already ended in rest. There is no impossibility in a body resting for part of the time while it remains in contact with something carrying it along, even if, left to itself, it would move in its natural direction because the outside force remains with it after the motion.
 
-#### Chapter 10 — How Motion Is Divided by What Causes It
+#### X. How Motion Is Divided by What Causes It
 
 Now that we have discussed motion's features, we can discuss its kinds. Motion that a thing undergoes in itself comes in three kinds: natural movement, movement by choice, and movement caused by something outside it. Taken more broadly, motion has four kinds: those three, plus motion that belongs to a thing only because it is joined to something else.[^V03-448] We should not leave this fourth kind out of the other three, because it is still connected to one of them.[^V03-449]
 
@@ -1112,7 +1113,7 @@ Ancient philosophers often said the heavens have a fifth kind of nature. Later t
 
 I say, as I have already hinted, that the motions of the heavens are natural. They have changing natures that directly produce circular motion, and these natures are not separate from the souls and intelligences of the heavens. A fuller discussion belongs elsewhere.
 
-#### Chapter 11 — What Does Natural Motion Seek?
+#### XI. What Does Natural Motion Seek?
 
 Any natural state can be lost through forced change. A state may also be something nature has only as a possibility at one time and has fully brought about at another. Nature can move a thing toward such a state. When the outside force is removed, the thing returns to its natural state. And when a possibility becomes actual, the thing gains the completion that belongs to it.
 
@@ -1126,7 +1127,7 @@ We can see that a place may be natural even when the order around it is not. For
 
 Someone may ask whether this motion happens because a thing flees what is unnatural or because it seeks what is natural. We can say that both are involved; there is no conflict between them. It cannot be only a matter of fleeing the unnatural. If it were, motion could go in any direction, since no direction would be preferred. That is clearly false.
 
-#### Chapter 12 — Can One Body Have Different Sources of Motion?
+#### XII. Can One Body Have Different Sources of Motion?
 
 As for celestial bodies, after their essential motion they can have only circular motion in position and changes in the soul's qualities. They cannot change place or size, grow or shrink, become more or less dense, or undergo other changes such as heating, cooling, changing color or taste, or giving off a smell. As we shall see, they are free of these qualities. So they cannot have sources of these changes; otherwise nature would be idle, which is impossible.
 
@@ -1136,7 +1137,7 @@ Nor can circular motion be assigned to the soul. In our view, the soul acts only
 
 We reply that nature causes just one thing here: rest in the natural region. That rest may require motion to reach it. In short, nature can bring about rest only by bringing the body into that region. It does not need to give it a circular tendency, since all parts of place are alike.
 
-#### Chapter 13 — What Causes Forced Motion?
+#### XIII. What Causes Forced Motion?
 
 The soundest view is that forced motion comes from the nature within the body being forced. The outside force changes that nature and prepares it to produce the motion. Avicenna seems to say that the cause is a tendency given to the body by an outside mover. But pushing alone cannot explain forced motion. The push given by the outside mover does not last. If the body's nature gradually produces the motion, then nature is the cause after all.
 
@@ -1160,7 +1161,7 @@ A body may tumble because of two outside causes, or because its natural tendency
 
 Forced change in quality includes water being heated, illnesses that change a body's condition, and changes in the soul's habits. Ignorance may grow, unbelief deepen, or greed and other faults become stronger over time. These go against the natural state of human beings. Since we hold that things come into being through changes in their very substance, this kind of change may also be natural or forced. Natural examples include an embryo developing from semen and a plant growing from a seed. Forced examples include making fire by striking stones, or the work of alchemists who turn copper into gold and tin into silver. Decay may also be natural, as when an old animal dies or trees dry out over time, or forced, as when death is caused by murder or poison, or a tree is cut down.
 
-#### Chapter 14 — Why Every Body Has a Tendency to Move in a Straight Line or a Circle
+#### XIV. Why Every Body Has a Tendency to Move in a Straight Line or a Circle
 
 Every body, simply as a body, can move from one place to another or turn from one position to another. This is because it either has a source of that motion within it, or it does not. If it does, that is clear. If it does not, then it must be easier to move it from outside. The stronger a body’s tendency in one direction, the harder it is to move it the other way. A thing with an obstacle in its way is harder to move than when nothing stands in its way.
 
@@ -1226,7 +1227,7 @@ We can answer this by returning to the point already made: every forced action o
 
 A further point: you have heard me say many times that the immediate, direct cause of every motion is always nature.[^V03-482] That holds whether the motion comes from the soul, an outside force, or nature.[^V03-483] So there is no need to spend more time proving that forced motion has an inner resistance. Also, philosophers have proved that every body has a substantial form. This form makes it the kind of body it is, completes its matter, begins its effects, and gives it the features stated in its definition. Here, they want to prove that this form exists as the source that shapes and limits motion and tendency. It is called “nature” in this role, just as it is called “form,” “power,” or “completion” in other roles.[^V03-484]
 
-#### Chapter 15 — Bodily Forces Have Limits in How They Move Things
+#### XV. Bodily Forces Have Limits in How They Move Things
 
 We have already seen that a power is finite or unlimited only because of its relation to the size or number of things in which it exists or on which it acts. If bodies were unlimited in size or number, the powers within them would be unlimited in those respects, because a power is divided along with the body it exists in.[^V03-485] The second case concerns what the power can affect. If that had no limit, the power would have no limit either. As you have seen, this can be understood in three ways: strength, number, or duration. We shall now show that a bodily force cannot be unlimited in strength. The motion it produces would either take time or happen without time. The first is impossible, because time can be divided: there could always be a shorter time, so the motion would not be infinitely fast. The second is also impossible. Motion is the covering of a distance, and every distance can be divided; a part of it is covered before the whole.[^V03-486] For this reason, even a separate power that acts with unlimited strength cannot directly move a body.[^V03-487]
 
@@ -1274,9 +1275,9 @@ The seventh objection says that either a bodily power must reach a time when its
 
 I reply that necessity, possibility, and impossibility concern what a thing is in relation to existence in general.[^V03-508] The nature of bodily power may allow it to exist and continue. This does not mean that one particular instance of that power can last forever, given its limited existence and the traces of absence and decay within it. Some say that a bodily power must end, not because of its own nature, but because outside forces eventually strike it and destroy it. A power might not need to end in itself, but general causes and the collisions of their particular effects could make its end necessary. This answer is no good. Many things cannot last forever even if we imagine removing every outside force. Every possible thing has some way of existing that cannot last by its own nature.
 
-### Stage Nine — Eternity, Coming-to-Be, and the Kinds of Priority and Posteriority
+### Stage Nine: Eternity, Coming-to-Be, and the Kinds of Priority and Posteriority
 
-#### Chapter 1 — What Do “Coming-to-Be” and “Eternity” Mean?
+#### I. What Do “Coming-to-Be” and “Eternity” Mean?
 
 Coming-to-be and eternity can be understood in two ways.[^V03-509] The first compares one thing with another. For example, less time may have passed since Zayd began to exist than since Amr did. In ordinary speech, we call Amr older and Zayd more recent. Eternity and coming-to-be in this sense are relative to one another.
 
@@ -1286,7 +1287,7 @@ As you will learn in the discussion of time, time itself is what we describe as 
 
 Things that are entirely separate from matter also do not exist in time, since they are above time. The author of *Al-Muṭāraḥāt* was therefore wrong to say that, under every accepted meaning, nothing falls outside the categories of eternity and coming-to-be. You will see that nothing in existence is eternal in the temporal sense. The second kind is not temporal. It is called essential coming-to-be or essential eternity. Essential coming-to-be means that a thing's existence does not rest on itself but depends on something else. This dependence may be limited to a certain time, may continue at every time, or may lie beyond time and motion. This is essential coming-to-be.
 
-#### Chapter 2 — The Case for Essential Coming-to-Be
+#### II. The Case for Essential Coming-to-Be
 
 There are two arguments for it. The first[^V03-512] says that every possible thing, considered in itself, is due to be nonexistent, while it owes its existence to something else. What belongs to a thing in itself comes before what it receives from another. So its nonexistence comes before its existence in this essential sense, and the thing has come to be essentially.
 
@@ -1304,7 +1305,7 @@ The second argument[^V03-519] says that the essence of every possible thing diff
 
 Neither argument applies to existence itself, which is made by God and is, in itself, an effect of the Necessary Being. We have said that existence has another kind of dependence and so another kind of coming-to-be: essential poverty,[^V03-520] meaning that a thing depends on its maker in its very being. Put another way, whatever exists depends on something else for its existence. An essence, considered simply as an essence, does not depend on a maker; nor does it exist on its own as an essence. So it is neither eternal nor originated in this sense. Only God is free of this dependence. We may use “eternal” and “originated” in this way, even though philosophers do not commonly use the terms like this.
 
-#### Chapter 3 — Is Coming-to-Be in Time an Extra Feature of Existence?
+#### III. Is Coming-to-Be in Time an Extra Feature of Existence?
 
 A scholar says[^V03-521] that a thing's coming-to-be is neither its existence now—otherwise everything that exists would have come to be—nor its earlier nonexistence considered just as nonexistence—otherwise every nonexistence would count as coming-to-be. Instead, coming-to-be means that a thing is preceded by nonexistence. It is an extra feature, added to the thing's existence and nonexistence.[^V03-522] The scholar then asks: Is this feature itself something that came to be? If so, its own coming-to-be would be another added feature, and this would go on without end. If it did not come to be, then the coming-to-be of the thing would have to be eternal, which is impossible. The reply is that, just as existence exists through itself, coming-to-be comes to be through itself.
 
@@ -1314,7 +1315,7 @@ Also, coming-to-be applies to every category of thing. A quality comes to be in 
 
 The scholar's view also implies that a newly arisen nonexistence has an extra positive quality of its own. The truth is that the idea of coming-to-be is conceptually distinct from existence, but it is identical with the particular existences of things that come to be and pass away. Those things are coming-to-be through their own individual existence. Their coming-to-be is not what the agent makes; their existence is. Existence is what is made in itself, not the description “coming-to-be.” Being preceded by nonexistence belongs to that existence by its own nature; it is not caused by something else. Like existence and individuation in general, coming-to-be is one broad concept that applies in different degrees. It covers many distinct kinds of coming-to-be, for which we have no established names. We can only call them “this kind of coming-to-be” or “that kind,” as we learned in the discussion of existence.
 
-#### Chapter 4 — Coming-to-Be and the Need for a Cause
+#### IV. Coming-to-Be and the Need for a Cause
 
 Coming-to-be is not, in itself, why things need a cause that brings them into existence. If it were, the essences of created things would not need a cause. But they do: because they are possible and neither existence nor nonexistence is necessary for them, they must have a cause that brings them into existence. Neither of two equally open alternatives can prevail without something to decide between them.
 
@@ -1336,7 +1337,7 @@ The truth is that nonexistence is not a direct cause, but an incidental one.
 
 If it were a direct cause, it would not disappear when the thing came into existence. The matter that carries the thing's possibility, by contrast, is one of its direct causes. Also, the priority of nonexistence to existence is priority in time. This is the same as the priority of earlier parts of time over later ones. So nonexistence comes first only incidentally, not in itself. Perhaps the ancients counted nonexistence as a direct cause because what comes to be in time is, in reality, made up of parts of motion and time. These have a weak kind of existence: as each part or instance passes away, another part or instance comes into being.[^V03-533] From this point of view, nonexistence can be called a direct cause of what comes to be.
 
-#### Chapter 5 — Ways One Thing Can Come Before Another
+#### V. Ways One Thing Can Come Before Another
 
 Priority and posteriority are among the features of anything that exists. There are several kinds of priority: priority in rank, in nature, in excellence, in time, and in essence or causation. There are also two more kinds, which we will explain.
 
@@ -1362,7 +1363,7 @@ The second further kind is priority through the Real, and posteriority through H
 
 But the priority of existence over existence is another kind. Here, there is no action and response, no acting and being acted on. The two are like one thing with different aspects and states, moving from one state to another. What marks this kind of priority is the divine aspect. Once you understand the meaning of each kind of priority, you will also understand its opposite—posteriority—and the idea of two things being together, as these terms are understood.
 
-#### Chapter 6 — How These Kinds of Priority Share a Meaning
+#### VI. How These Kinds of Priority Share a Meaning
 
 People disagree about whether the word *priority* applies to all these kinds by name alone or by a shared meaning, and whether that meaning stays the same or changes by degree. Most later philosophers take it to have one fixed meaning in every case, without degrees. Some say that the shared meaning is this: whatever is prior, simply by being prior, has something the later thing lacks, while everything the later thing has is already present in the prior thing. This is not right. A thing that is earlier in time is gone by the time the later thing exists. Yet the time that belongs to the later thing is not present in the earlier one,[^V03-539] nor was it present there before.[^V03-540] The time belonging to the earlier thing is likewise never present in the later thing. Each part of time has its own existence, unlike every other part. Nor is it true without qualification that the later thing has nothing the earlier thing lacks. Later created things can have many features that the first created thing does not have, such as possibility and being a substance. The definition should at least be limited to whatever makes one thing prior. Even then, it is refuted by what we have said about parts of time and other cases.
 
@@ -1392,7 +1393,7 @@ The feature that makes one thing prior to another must be what differs between t
 
 Fourth, it is not right to treat priority by excellence as figurative or as an unrelated use of the word. Here, too, there is a feature that can vary by degree: excellence or lack of excellence. Whiteness, knowledge, leadership, vice, goodness, and badness can all be greater or lesser. A brighter white is prior to a weaker white as white; someone more vicious comes before someone less vicious in vice. The feature that makes one prior is not existence, necessity, time, place, or rank. This kind should clearly be counted as its own kind of priority.
 
-#### Chapter 7 — Whether Priority Changes by Degree Across Its Kinds
+#### VII. Whether Priority Changes by Degree Across Its Kinds
 
 It is clear that the meaning of priority varies by degree when we compare its different kinds in general. It is harder to prove that this holds between every pair of kinds, and the issue is not very important. Philosophers have said that priority by causation comes before priority by nature, which comes before the other kinds; priority in time comes next, followed by priority in place.
 
@@ -1402,7 +1403,7 @@ The truth is that the difference between parts of time belongs to their changing
 
 This also answers the objection that priority and posteriority are relative pairs and so must exist together. How, then, can one part of time come before another? We reply that both the earlier and later parts exist together within the one continuous flow of time. Its unity is also its division, and its priority is also its presence. This is because time has a weak kind of existence and an incomplete unity.[^V03-554]
 
-#### Chapter 8 — Kinds of Being Together
+#### VIII. Kinds of Being Together
 
 The kinds of being together correspond to the kinds of priority and posteriority in meaning, not in existence. Being together is not the other member of a relative pair with priority and posteriority, so it does not have to exist wherever they do. It is instead like the absence of a feature that something could have.[^V03-555] Two things can lack priority in time without existing together at the same time; nor does the absence of natural priority mean that they are together by nature. Things entirely separate from matter have neither temporal priority nor temporal togetherness. The relation of such a thing to a person like Zayd is neither priority nor posteriority nor togetherness in time. Things that exist together in time must both be temporal, just as things that share a position or place must both be spatial. Whatever does not exist in time has no temporal priority, posteriority, or togetherness.
 
@@ -1414,7 +1415,7 @@ A cause must be together with its effect because they are relative to one anothe
 
 A cause cannot exist without its effect also existing. I do not mean merely that the two are relative pairs. Their existence must actually be together. If the cause is enough by itself to be a cause, then as long as it exists, it is a cause and the effect exists. If it needs something in addition to itself, then while it is only in that state, it is a cause only potentially; it does not yet have to produce an effect. The true cause is then the thing together with what must be added to it. That extra condition may be a choice or desire, or something separate that the cause awaits. Once that condition is present and nothing else is lacking, the effect must exist. The two then exist together in time, in the timeless order, or in some other way. But they are not together in the way their existence is constituted: the effect's existence depends on the cause's existence, while the cause's does not depend on the effect. It follows that removing the cause removes the effect, but removing the effect does not require that the cause be removed. The cause must be removed before its effect can be removed. Removing or restoring the cause brings about the removal or restoration of the effect. By contrast, removing or restoring the effect is a sign that the cause has been removed or restored. The effect exists with its cause and through its cause; the cause exists with the effect.
 
-#### Chapter 9 — What Essential Coming-to-Be Really Means
+#### IX. What Essential Coming-to-Be Really Means
 
 If this coming-to-be describes existence, it means that existence itself depends on something else in its very identity, not through some added feature. Its very being is such that, if we set aside the existence that supports and brings it about, it would be nothing at all. It is therefore poor in itself: its very identity depends on something included in what it is, while that other thing does not depend on it, since it is rich and independent. This is one kind of “after”: existence after existence, even if both occur at the same time or in the timeless order.
 
@@ -1440,7 +1441,7 @@ The result of this discussion, the scholar says, is that in the earlier rank a p
 
 I say it is surprising that he admits that the thing has the possibility of existence and nonexistence in that rank. Possibility is a negative idea: it means that neither existence nor nonexistence is necessary. So he has admitted that this lack of necessity belongs to the essence in itself. This must involve some kind of presence. We now have everything needed for priority: the prior thing has some presence in that rank, while the later thing is absent from it. The essence has a presence there, as do its defining features. How could it not? The essence, considered in itself, cannot be separated from its own nature and essential features. It therefore has a kind of presence through itself, even if, in reality, that presence depends on existence, as we have explained.
 
-#### A Difficulty and Its Solution
+#### 1. A Difficulty and Its Solution
 
 The objection is that if the nonexistence of an essence comes before its existence, it must come before it by nature. Philosophers recognise only two kinds of essential priority: priority by causation and priority by nature. It cannot be priority by causation here. This would mean that no simple complete cause could exist,[^V03-565] contrary to their view.[^V03-566] They suggest this answer: a cause is whatever an effect needs in order to exist.[^V03-567] The need itself, and what comes before that need—such as possibility and the related considerations—are outside the cause, because they are not being considered in this definition. For this reason, they explicitly say that essential possibility is not part of the cause.[^V03-568]
 
@@ -1450,11 +1451,11 @@ The sound answer is this:[^V03-571] bringing existence itself from a cause is on
 
 This capacity for existence can also be near or far. If we consider an essence's possibility in itself, without relating it to its cause, it is a distant capacity. If we consider it in relation to its cause, it is near to becoming actual. Here, becoming actual means existing, as when prime matter receives a form and becomes one thing with it.
 
-### Stage Ten — Intellect and What It Understands
+### Stage Ten: Intellect and What It Understands
 
 Among the features of things simply as they exist, which do not require a special natural or learned ability, are knowing, being knowledge, and being known. So knowledge and its aspects belong in first philosophy, which studies the general features of existence itself. This discussion has three parts. The first concerns what knowledge is and the features that belong to it by nature; it contains several chapters.
 
-#### Chapter 1 — Defining Knowledge
+#### I. Defining Knowledge
 
 Knowledge may be one of those realities whose existence is the same as what they are. Realities of this kind cannot be defined, because definitions are made from broader kinds and distinguishing features, which are general ideas, while each existence is individual in itself. Nor can knowledge be given a complete description. Nothing is clearer than knowledge: it is an inward experience that every living, knowing being first finds in itself, without confusion or doubt. Something so clear cannot be explained by anything clearer. Since everything appears to the mind through knowledge, how could knowledge itself appear through something other than knowledge?[^V03-572]
 
@@ -1464,7 +1465,7 @@ Some scholars argue that knowledge needs no definition because anyone who knows 
 
 This argument does not show that everyone knows the full nature of knowledge. It shows only that everyone knows it in some way, without distinguishing it from other things. To know that one thing has a feature, you need only have some idea of the thing, the feature, and their relation.[^V03-574] Logic explains that a judgment requires an idea of what is being discussed, an idea of what is said about it, and an idea of the link between them. Everyone knows they have hearing, sight, hands, feet, and a head. Most people do not know what these things are in their full nature or through a precise description.
 
-#### Chapter 2 — Why Knowing Things That Are Absent from Us Requires Their Images to Be Present in Us
+#### II. Why Knowing Things That Are Absent from Us Requires Their Images to Be Present in Us
 
 In our earlier discussion of existence, we showed that things have images in the mind, especially things that do not exist—and even things that cannot exist.[^V03-575][^V03-576] We make true, positive judgments about them. For example, we judge that a partner to God is impossible, that two contradictions cannot be true together, and that a mountain of gold or a sea of quicksilver would be a material substance, even though no such thing exists outside the mind. For a judgment that one thing has a feature to be true, the thing being judged must exist in some way in the setting where the judgment is made. These things, then, have existence in some mode. They cannot be described in the outside world as impossible or nonexistent there. A thing does not exist until its existence is necessary; once it exists, it is no longer nonexistent. So what is true of nonexistence and impossibility can be true only in knowledge, not in the outside world.
 
@@ -1482,7 +1483,7 @@ We answered these objections at the start of this book. Knowing things has a mod
 
 Some people answer that a thing's features may differ according to what receives it. Heat may take on certain features when it exists in physical matter, and lack those features when it exists in a soul that has no position or size, while remaining the same essence in both cases. But this does not answer the objection if the problem concerns heat itself—its warmth and its power to burn. The answer does not explain why those features disappear.[^V03-582] We must use the account we have already laid out for mental existence.
 
-#### Chapter 3 — The Proposed Accounts of Knowledge and What They Share
+#### III. The Proposed Accounts of Knowledge and What They Share
 
 Many people say that the philosophers' accounts of intellect and what it understands are deeply confused. They point out that Avicenna speaks of understanding in several different ways. At times, he treats it as something negative: when he explains that God's being intellect and understood does not add anything to His being or His attributes, he says that it means He is free of matter, which is a lack of something.[^V03-583] At other times, he describes understanding as images present in the intellect, matching the essences of the things understood. He says that for a thing to understand itself is for its image to be present to itself.[^V03-584] In *The Pointers*, he says the same: to perceive something is for its reality to be present to the one who perceives it. At still other times, he treats understanding as a relation. He says that the simple intellect of the Necessary Being is intellect not because many images exist within Him, but because those images flow from Him,[^V03-585] so that the simple intellect is like the source that creates distinct images.
 
@@ -1540,7 +1541,7 @@ Another objection says that when we see something, the thing we see is Zayd hims
 
 I say the truth is this:[^V03-611] the true object of sight is an imaginal individual that exists in the outside world, but not in the eye itself. I will explain this further in its place, if God wills. That is a brief outline of the views philosophers have held about knowledge and the problems with each. Now I will set out more fully the view I have been pointing to.
 
-#### Chapter 4 — What Knowledge Really Is
+#### IV. What Knowledge Really Is
 
 Knowledge is not something negative, like being free of matter. Nor is it a relation. It is existence—but not every kind of existence. It is actual existence, not potential existence; and not all actual existence, but existence free of nonexistence. The more free of nonexistence an existence is, the stronger its being knowledge.
 
@@ -1552,7 +1553,7 @@ First matter is weak in a different way: it is pure potential to become many thi
 
 What we have said shows that existence by itself is not enough for something to perceive or be perceived. It must be an existence without bodily position and direction, which are features of a category of material things. Actual existence, free of these absences, is perception. This may be what earlier writers meant by the further state that occurs alongside the presence of an image: a stronger and more independent existence, not divided into parts and not located in any one region of the material world. Every image that gives us knowledge has this kind of existence. A mental image is not something we can point to in space. What the senses directly perceive is not, in truth, the same as the material qualities called heat or cold, the first things we touch. These qualities are sensed only indirectly. What is directly sensed is an image whose existence is the same as its being sensed. As we have explained, the existence of what is understood and its being understood are one. The directly sensed image is not in a spatial position, although the sense organ and the outside object must be related in space for the image to arise. This spatial relation is not needed for imagination, inner thought, or reason. Nor is the image present in the mind in the same way as an image exists in physical matter. We will explain the differences between these two kinds of presence next.
 
-#### Chapter 5 — How a Mental Image Is Present to the Soul but Exists Differently in Matter
+#### V. How a Mental Image Is Present to the Soul but Exists Differently in Matter
 
 There are eight differences. First, material qualities crowd each other out.[^V03-615] Something with one shape or color cannot have a different shape or color at the same time. The same is true of conflicting tastes, smells, and sounds. But mental images do not crowd each other out. The power that brings our senses together can take them all in at once.[^V03-616] Each of the five senses can also perceive different kinds within its field: sight sees opposite colors, taste senses opposite flavors, and so on. So an image in perception has a different kind of existence.
 
@@ -1574,7 +1575,7 @@ The reason is that this kind of image, stripped of material limits, has a higher
 
 The point here is to show how mental images that match material things can also be described in ways that seem opposite to their material forms, without contradiction. This depends on understanding how something can grow stronger or weaker in existence. When existence becomes stronger, a thing can rise out of its earlier kind into a higher kind, even though it becomes more fully what it was. As the common saying goes, once something passes its limit, it turns into its opposite. The same happens when one material being develops: an embryo first takes on a natural form, then a soul, and then intellect. What it could not be said to have earlier can now be said of it, while features that were true of it before may no longer apply.[^V03-625]
 
-#### Chapter 6 — On the Claim That Knowledge Is an Accident
+#### VI. On the Claim That Knowledge Is an Accident
 
 In our view, images formed through the senses or imagination do not exist as accidents in the sense organs. The organs are like mirrors and places where these images appear, not the things that contain them. The images themselves are immaterial substances, while their qualities are features of those substances. All of them exist in the soul, as possible things exist through God.
 
@@ -1600,7 +1601,7 @@ Someone might answer that, just as substance means an essence that exists indepe
 
 But the problem remains. We now turn to the view we have already pointed toward and will make the case for it.
 
-#### Chapter 7 — What It Means for the Intellect to Become One with What It Understands
+#### VII. What It Means for the Intellect to Become One with What It Understands
 
 The question of how the soul understands the forms of things is one of the hardest questions in philosophy. No Muslim philosopher, as far as we know, had fully worked it out. We saw how difficult it is to explain how knowing a substance could itself be a substance and an accident. We found no answer in the major books of the leading philosopher, Avicenna—*The Healing*, *The Salvation*, *The Pointers*, or *The Sources of Wisdom*—that could resolve the problem. Avicenna’s followers, including his student Bahmanyār, the distinguished commentator Naṣīr al-Dīn al-Tusi, and later thinkers, offered nothing we could rely on either. If even these respected scholars could not settle it, what can we expect from those who trade in guesses, fantasies, and endless disputes?
 
@@ -1628,7 +1629,7 @@ Someone might reply that this image is only a means by which the soul understand
 
 An image that lets the soul understand does not exist in the soul as a house, wealth, or children exist for their owner.[^V03-638] Those things are connected to a person only by a relation; their presence does not complete or develop that person. A natural bodily form does complete matter and make it an actual thing. Matter is not any definite thing until a form gives it shape. The form does not arrive as a separate being moving into matter; rather, matter rises from a less complete state to a more complete one.[^V03-639] The soul likewise becomes intellect in act after being intellect only in possibility.[^V03-640] An intellectual image does not attach to the soul as a separate thing, like a horse standing beside us, or like an accident added to a substance that could exist without it.[^V03-641] Such connections amount only to relations; they do not complete anything. By contrast, an image that the soul understands completes it more deeply than natural forms complete matter.
 
-#### Chapter 8 — Confirming That the Intellect and What It Understands Become One
+#### VIII. Confirming That the Intellect and What It Understands Become One
 
 Avicenna states in many of his books that the intellect and what it understands cannot become one. He strongly rejects this idea and treats it as absurd. In this chapter I will present his arguments against it and the objections he raises against those who say that intellect and knower become one. Then I will answer them.
 
@@ -1688,7 +1689,7 @@ Now consider the intellectual forms themselves.[^V03-654] By a proof God inspire
 
 Although Avicenna strongly rejects the union of knower and intelligible in his other books, he sets out this very idea in *The Beginning and the Return*. There he argues that the Necessary Being understands Himself and is intellect and intelligible. I do not know whether he presents this only as another school's view, because of the purpose of that book, or whether it was his own belief after the light of truth appeared to him. Naṣīr al-Dīn al-Tusi, in his commentary on *The Pointers*, excuses Avicenna by saying that *The Beginning and the Return* was written to explain the view held by Aristotle’s followers, as Avicenna says at the start. From this we can see that only the earliest philosophers had fully understood this noble teaching. Later scholars of debate and argument did not inherit it—until God granted it to a poor seeker and opened his heart through His power.
 
-#### Chapter 9 — The Earlier Philosophers’ View: The Soul Understands by Joining the Active Intellect
+#### IX. The Earlier Philosophers’ View: The Soul Understands by Joining the Active Intellect
 
 The standard view in many books by philosophers of the Islamic period is that[^V03-655] this account, like the one just discussed, is false. The two views are closely related. Their argument is that the Active Intellect must either be one simple being or a composite made of parts. If it is one simple being, then a soul that joins with it in order to understand one thing would join with it in order to understand every intelligible thing. If the soul joins with only one part of it, not the whole, then the Active Intellect must have a part for every act of understanding a human being can achieve. But human beings can understand endlessly many things, so it would have endlessly many parts of different kinds. Each of these intelligible things could be understood by endlessly many souls. Zayd's understanding of blackness, for example, would be like Amr's understanding of blackness. The Active Intellect would therefore need endlessly many parts of the same kind, repeated endlessly many times.
 
@@ -1720,7 +1721,7 @@ Each of these, depending on how we consider it, differs from the first actual in
 
 When he says that the intellect in an animal is not cut off from the First Intellect, he means that the animal's intellectual nature is not cut off from it, because that nature is one with it.[^V03-665] When he speaks of parts of intellect, he means meaningful parts that can be intellectual forms of bodily parts: the understood head, hand, and foot of an understood animal. Each one has the same kinds of existence as the whole, such as being understood or sensed.[^V03-666] And when he says that the intellect of a thing is potentially all things, he uses “potential” and “actual” in a special sense, not the usual one. “Potential” means that one existence, in its unity, gathers many essences and meanings that may appear as many existences elsewhere. As when strong blackness is said to be all weaker blackness potentially, he does not mean it can be divided into them or is ready to be affected by them. It is a pure existence, fully actual and without any lack. “Actual” here means that a bodily thing is brought into being with material qualities. The rest of his words are clear once these ideas are understood.
 
-#### Chapter 10 — Refuting a Later View of Knowledge
+#### X. Refuting a Later View of Knowledge
 
 One later thinker says that knowledge and awareness are relations, and that a relation exists only when both things it connects exist. If what is understood is the knower itself, he says, then that knower cannot exist without understanding itself. No further image needs to be formed in it; its being a knower is simply its relation to itself as the understood thing.[^V03-667] But if the understood thing differs from the knower, the knower cannot understand it while it is absent from the outside world. So an image of that thing must be formed in the knower to create the relation called understanding. This is the rule, he says, that the arguments support. Since an image must be present and knowledge cannot simply be the image itself, a further relation must be added to it. Once all other possibilities have been ruled out, this must be the correct account.
 
@@ -1730,7 +1731,7 @@ If the one who wills is also what is willed, then it cannot fail to will itself 
 
 If someone replies that one thing cannot be both able and subject to power, or that it cannot move itself or be angry with itself, we answer that these facts are not contained in the concept of power alone. To know that the one who has power differs from what it acts on, or that the mover differs from what is moved, we need an argument beyond the meanings of those words. The same is true of father and child, or an angry person and the one they are angry with. Avicenna explains this point in several places in *The Healing*. We will return to it and explain it further.[^V03-669]
 
-#### Chapter 11 — How One Thing Can Be Intellect, Knower, and Known Without Becoming Many
+#### XI. How One Thing Can Be Intellect, Knower, and Known Without Becoming Many
 
 Fakhr al-Dīn al-Rāzī says that literal-minded people admired this grand, poetic claim and concluded that a knower must become one with what it understands, whether it understands itself or something else.[^V03-670] But careful thinkers, he says, rejected union and instead claimed that when a thing understands itself, the intellect, the knower, and the intelligible are one.
 
@@ -1762,7 +1763,7 @@ When al-Rāzī says that if knowing oneself is one's very being, then whatever i
 
 Someone who says knowledge is only a relation should ask what gives rise to that relation and why it belongs to some things, not others, and connects some things rather than others. In truth, every relation that exists requires some settled, positive existence in one or both of its sides before the relation can arise.[^V03-676] That existence is the source of the relation. It may be the very being of one side, or a feature added to it. A relation can never stand on its own.[^V03-677]
 
-#### Chapter 12 — Further Questions About Self-Knowledge
+#### XII. Further Questions About Self-Knowledge
 
 It has been asked: whether we say that perception is a relation,[^V03-678] or that it is the perceived form appearing in the one who perceives it, how can a thing know itself? If knowledge is a relation, then a relation must hold between two things. One thing cannot be related to itself, so it cannot know itself. And if knowledge is the appearance of a form, a thing’s form appears to something else. It makes no sense to say that it appears to itself.
 
@@ -1792,7 +1793,7 @@ I have not seen a copy of *The Discussions*, and this passage does not sound lik
 
 Someone might object that individuation is an existent feature, and so its existence must come after the existence of the thing it individuates. We reply that the same issue arises with a defining feature in relation to the broader kind it completes, existence in relation to the essence it makes actual, and form in relation to the matter it completes. As we explained earlier, things are described by such features within the mind’s analysis, not as separate features in existence. In reality, they are one with the things they describe.
 
-#### Chapter 13 — Kinds of Perception
+#### XIII. Kinds of Perception
 
 We perceive things in four ways: through our senses, through imagination, through our grasp of meanings tied to particular things, and through reason. Sensation perceives a thing that exists in matter and is present to the perceiver, together with its particular sensible features: where and when it is, its position, quality, quantity, and other features.[^V03-686] Some of these features always belong to the thing in the outside world, while others may vary; but what is directly sensed and present to the perceiver is the thing’s form, not the material thing itself. Before a sensible thing makes an impression on the sense, the sense is no more actually sensing than it was before. Once the impression occurs, it must fit the nature of the sense. Otherwise, it would not be an act of sensing that thing. So the sense receives the thing’s form, separated from its matter, though it does not separate the form completely.
 
@@ -1818,7 +1819,7 @@ Its abstraction means that this nature has been drawn from the external material
 
 As long as the soul is confined to these psychic conditions, it cannot become an intellect in act, and its object of thought cannot become intelligible in act. While the soul exists in its natural or psychic mode, it has only the potential to be intellect and intelligible.[^V03-696] When it sheds that mode and enters a new one, its existence and individuality become intellectual and universal. It can then become one with the objects of thought, and its relation to individual people is equal.[^V03-697] In short, an intellectual form is not surrounded by psychic features, nor does it exist in the psychic way of such states as desire, anger, fear, grief, or courage. We have also explained that abstraction in understanding and other forms of perception does not mean removing incidental features one by one. Nor does it mean that the soul stays still while the perceived things move from matter to the senses, then from the senses to imagination, and from imagination to intellect.[^V03-698] The perceiver and what it perceives are abstracted together. They pass together from one mode of existence to another, from one level of being to another, until the soul becomes intellect, knower, and intelligible in act, after being all three only in possibility.
 
-#### Chapter 14 — How the Rational Power Unifies Many Things and Distinguishes One Thing into Many
+#### XIV. How the Rational Power Unifies Many Things and Distinguishes One Thing into Many
 
 In our account, the intellect unifies many things by becoming an intellectual world, one with every reality and the source of every intelligible meaning. It is a simple intellect that gives rise to the soul’s many distinct acts of knowledge.[^V03-699][^V03-700] Most philosophers explain this in two other ways. First, by analysis: if we strip away the individual features and other accidents from people who fall under one species, the one shared nature remains.[^V03-701] Second, by combination: the intellect can join a defining feature to a broader kind, so that together they form one unified essence, either as a real unity or as a unity in predication.
 
@@ -1826,7 +1827,7 @@ The intellect can also distinguish one thing into many. It does so by giving int
 
 That is why intellectual perception is the fullest kind of perception. The intellect does not stop at a thing’s surface or outward form. It enters into the thing’s essence and reality and forms a matching image of it in every respect. Indeed, it becomes that reality in its essence. Sense perception, by contrast, is mixed with ignorance and reaches its object only partly. The senses grasp the outer forms and appearances of things, not their inner realities.
 
-#### Chapter 15 — Levels of the Intellect and What It Understands
+#### XV. Levels of the Intellect and What It Understands
 
 The philosophers say that there are three kinds of understanding.[^V03-703] The first is the intellect in potentiality: it is not yet any of the intelligible forms, nor does it actually contain any of them.[^V03-704] But the soul can acquire all intelligible forms and rise through their levels. The potential intellect is a world of intellect in possibility, capable of perceiving all realities and receiving the forms of every existent that is intelligible in itself because it is free of matter. For things that are not intelligible in themselves—because they are forms in matter, sense, or imagination—the rational power can separate their forms from matter, as the philosophers have explained and as we will explain, God willing. The soul then becomes able to produce and receive distinct intellectual forms. The world of forms has two sides: an intellectual world and a sensory world. A sensory world is what it is through its form, not its matter.
 
@@ -1864,7 +1865,7 @@ He adds that their view fails even if knowledge is only a relation: a relation t
 
 I say that this question is too lofty and difficult for a thinker like this to reach its depth through reasoning and a store of familiar arguments. If it could be solved by discursive thought and following inherited opinions, Avicenna and those near his level would not have overlooked it. Yet Avicenna’s own writings show a contradiction: he affirms simple intellect while rejecting the union of knower and known.
 
-#### Chapter 16 — Whether the Soul Can Understand Many Things at Once
+#### XVI. Whether the Soul Can Understand Many Things at Once
 
 On the account we have established—that when the soul moves from potentiality to actuality it becomes a simple intellect that is all things—the matter is settled for us. Here is why. Knowledge and understanding are kinds of existence; existence is one with essence, and knowledge is one with what is known. Some kinds of existence are low and weak; others are noble and strong. The weak kind is like a thin outer shell, containing few meanings and fixed on one thing, such as a single quantity, however thick or extended it may be. A noble kind is like the inner core, able to contain many meanings, even if its dimensions are small or it has no dimensions at all, as with the rational soul.
 
@@ -1878,13 +1879,13 @@ You may object that when we turn our minds to understanding one thing, we cannot
 
 Given this, the difficulty people find in grasping several things at once may come from the imaginative power, which has trouble presenting many different images together. These images are pictures or representations of the intellectual things the soul grasps with its intellect. The intellect itself can grasp them together. The feeling that we cannot understand many things at once may come from imagination’s difficulty in picturing them all at the same moment.[^V03-718][^V03-719] Imagination can still hold together images that do not represent intelligible things. That is why it is said: the intellect makes many things one, while sense perception makes one thing many.
 
-#### Chapter 17 — How the Simple Soul Can Understand Many Things
+#### XVII. How the Simple Soul Can Understand Many Things
 
 We have already established that a simple thing cannot, by itself and without anything between, give rise to more than one thing.[^V03-720] But how can one simple power give rise to many acts of understanding? An effect becomes many through one of four things: the cause itself is many; the thing receiving the effect differs; the tools differ; or the effects are arranged in a sequence. The rational soul is simple. Even if it were made of parts, their number could not match its countless acts of understanding. The many acts cannot come from many receivers either, since the receiver is the soul itself.
 
 Nor can the acts depend on one another in a sequence. Understanding black does not depend on understanding white, or white on black. The same is true of many ideas and judgments that do not make one another possible or produce one another. The remaining answer is that the tools differ. The senses, with their different organs, are like scouts bringing reports from different places. They prepare the soul to take in immaterial intellectual forms. Particular sensations multiply because the body moves in different ways to gain what is useful and avoid harm. The soul benefits from these sensations, which prepare it to form its first ideas and judgments. It then combines these, producing endlessly many further ideas and judgments. So the many first ideas arise through the different senses and tools; the ideas we learn arise as the first ones are combined in a natural order, each earlier one helping produce what comes after.
 
-#### Chapter 18 — Different Ways to Classify Knowledge
+#### XVIII. Different Ways to Classify Knowledge
 
 As we have said many times, knowledge is immaterial existence itself. Existence is not, in itself, a general kind or species that can be divided into different types by distinguishing features, into individuals by their particular traits, or into groups by added conditions. Every act of knowledge is a simple, individual reality; it does not fall under some more basic universal kind. So when we divide knowledge, we are really dividing what is known, because knowledge and its object are one, as existence and essence are one. This is what is meant by saying that knowledge of a substance is a substance, and knowledge of a feature is a feature. Knowledge of each thing is of the same kind as the thing known.
 
@@ -1896,7 +1897,7 @@ There is another way to divide knowledge. Some knowledge is active, some is rece
 
 Knowledge applies to its different cases in degrees, just as existence does. These degrees differ in priority, age, strength, and weakness. Knowledge of God’s own being is knowledge in the fullest sense. It is the oldest kind of knowledge because it causes all other knowledge, and it is the clearest and most evident in itself. It seems hidden to us because it is so clear and our sight is too weak to grasp it; the very reason it is hidden from us is the reason it is most clear in itself. The same applies to knowledge of a cause compared with knowledge of its effect, and to knowledge of a substance compared with knowledge of a feature that depends on that substance. But “knowledge” as an action, a change in the knower, or a relation—such as teaching, learning, or being a knower—is a shared word used in different senses, or a figurative use.
 
-#### Chapter 19 — A Sign That the Soul Has a Sacred Power
+#### XIX. A Sign That the Soul Has a Sacred Power
 
 Know that all knowledge comes from the holy world, but souls differ in their readiness to receive it. When the soul is fully ready, it makes no difference whether the knowledge is a first truth or a further conclusion. A person’s grasp of first truths is like the way they grasp a theoretical conclusion once they see the middle steps that prove it: in both cases, the knowledge seems to come without a cause. But nothing exists without a cause. The cause may be open and visible, or hidden from view. The one who places knowledge in ready souls is, in truth, a cause hidden from the senses: the Teacher of great strength in the highest realm. Its action in souls is very subtle. Yet it may come from within to the outward mind, as with the prophets, or appear from the hidden world in the visible world, as with the saints. The visible causes—study, repetition, and listening to a human teacher—only prepare the soul; they do not compel knowledge to appear. That is why these methods may succeed or fail.
 
@@ -1908,7 +1909,7 @@ Since people’s minds differ in clarity, strength, and readiness for insight, t
 
 It also grasps pure intellectual realities as they are in themselves, not only through general meanings and definitions. Reaching the realities of those intelligible things is the heart of understanding. General knowledge is still a means to reach them, once its meanings are firm and settled in the soul. That is why it has been said, “Knowledge is the seed of direct vision.”[^V03-724] Most people first set out the question they want to answer and then search for the middle steps that prove it. The sacred soul finds the middle step first, then reaches the conclusion. That is how proofs from a cause work in reality.
 
-#### Chapter 20 — Knowing a Cause Gives Knowledge of Its Effect, but Not the Other Way Around
+#### XX. Knowing a Cause Gives Knowledge of Its Effect, but Not the Other Way Around
 
 The first claim[^V03-725] is this: a cause either causes an effect by itself or does not. If it needs some added condition to have an effect, then it is not the real cause by itself. The real cause is the whole made up of it and that condition. The same question applies to that whole, until we reach something that produces its effect by its own nature. Anyone who knows this cause must know that its nature makes it the cause of that effect. If they know the cause as it is, they must know it in the very way that makes the effect follow from it. Once they know that it causes the effect, they must know the effect too, because knowing one side of a relation in the way that brings the relation about gives knowledge of the other side.[^V03-726] This is the argument found in the books of the philosophers.
 
@@ -1942,7 +1943,7 @@ Someone might object that if we directly know the particular existence of an eff
 
 That is not so. We have seen that a cause exists more strongly than its effect. The effect’s weak and limited existence cannot contain the cause’s existence or rise to its level. In the same way, knowledge of the effect does not give us full knowledge of the cause. This is why Yaʿqūb ibn Isḥāq al-Kindī said: “The First Cause is connected to what flows from it to us, while we are connected to it only through that cause. We may therefore observe it only as far as a thing receiving what flows from it can observe its source. We must not compare its understanding of us with our understanding of it, since its understanding reaches farther, is fuller, and contains us more completely.” Anyone who thinks that the First Cause does not know particular things is far from the truth.
 
-#### Chapter 21 — Knowledge of an Effect Requires Knowledge of Its Cause
+#### XXI. Knowledge of an Effect Requires Knowledge of Its Cause
 
 This question,[^V03-741] like the one before it, can be settled only by understanding the nature of existence.[^V03-742] Complete certainty about something requires the intellectual form to match its actual existence in the outside world.[^V03-743] Anything that has a cause is possible in itself; otherwise, it could not depend on a cause. As we have already said, things do not cause or depend on one another through their essences. If they did, every effect would follow from an essence, the First Principle would have an essence, and knowing any essence would reveal God’s full reality and all the causes of that essence. The parts that make existence complete would then also make an essence complete, since existence would be only an abstract relation. All of this is impossible. Every effect has an essence and an existence. If we consider only its essence, we need to know its parts—its broad kind and the feature that distinguishes it within that kind—in order to understand it.[^V03-744][^V03-745]
 
@@ -1964,7 +1965,7 @@ One of those who seek God has found an answer to this problem, though words cann
 
 So although we know ourselves through knowledge of our source, our knowledge of that source is its existence, together with its act of bringing us into being. Since the source causes us, our knowledge of it comes before our knowledge of ourselves, just as its existence comes before ours. Knowledge follows existence in strength and weakness, and in being a cause or an effect. A thing exists in itself as an effect, but it exists more fully in its source and cause. Its being with its maker is stronger than its being with itself: with itself, it exists only as something possible; with its maker, it exists as something that must be. All things exist in the First Principle in a way higher than any other way of existing. A prophetic prayer says: “O Being, O Source of being, O One who exists before every existence, after every existence, and gives existence to every existence.”
 
-#### Chapter 22 — Knowledge Through Causes Gives Only Universal Knowledge
+#### XXII. Knowledge Through Causes Gives Only Universal Knowledge
 
 Know that we can know a thing either through a form that matches its essence or through its very existence. We know ourselves and the forms present to our souls in this second way. Later philosophers say that God knows things through mental forms added to His being. Any knowledge through an image or form is universal. Even if we add a thousand details to it, the idea can still apply to many things. So, if we know things through their first causes and explanations in this way, we will know all their effects, even particular individuals, only in a universal way.
 
@@ -1978,7 +1979,7 @@ Avicenna continues: if you know all the movements of the heavens, you know every
 
 This does not make the knowledge any less universal, if we remember what was said earlier. That was Avicenna’s account. His view is that God knows every existing thing, including each particular, but knows each one through a set of universal qualities and relations that identify it alone.[^V03-761] He does not mean that God knows only the kinds of things and misses their individual features. Some later philosophers, including Naṣīr al-Dīn al-Tusi and his peers, disagreed with Avicenna about forms being established in God’s being. But they did not complete the account of knowledge either. They did not reach the explanation they wanted. We have answered their objections to Avicenna and shown where their arguments fall short. God willing, we will explain the true way God knows things later.
 
-#### Chapter 23 — Knowledge of Particular Things Must Change If They Change
+#### XXIII. Knowledge of Particular Things Must Change If They Change
 
 In *The Healing*, Avicenna tries to explain how particular things can be known without changing the knower. He says: if you knew an eclipse in the way it happens, or remained forever as you are, you would know not merely the general idea of an eclipse but every eclipse that occurs. Its happening and its absence would be the same to you, and would not change anything in you. In either case, your knowledge would be the same: that an eclipse with certain features occurs after another eclipse, or after the sun reaches a certain position, after a certain length of time, and so on. Your statement would be true before that eclipse, while it occurs, and after it. But if you include time in your knowledge and know at one moment that an eclipse is not happening, then at another that it is happening, your knowledge cannot remain the same. A new act of knowledge would arise in you. You could not be as you were before once the eclipse occurred. And you are a being in time and moments, while the First Being is not; it is even less fitting to describe Him as making a new judgment about something from within one time and then another.
 
@@ -2012,7 +2013,7 @@ For an intellectual relation, the object must be present as something that can b
 
 That is the end of Avicenna's argument. The point is that the existence of an object and a knower, taken separately, is not enough for intellectual knowledge of the object. The object must be present in a form that can be understood. It must have a way of existing as something known, not merely a material existence outside the knower. Forms that are separate from matter can have this kind of existence. Material things, considered only in their material existence, cannot enter an intellectual relation in that same way.
 
-#### Chapter 24 — Explaining the Different Meanings of “Intellect”
+#### XXIV. Explaining the Different Meanings of “Intellect”
 
 Know that, as we will explain in the Book of the Soul, the human soul has two powers: one for knowing and one for action. These two powers cannot be separated from each other, unlike the powers in other animals.[^V03-779] As for the power of action, human acts can be good or bad. We may know that something is good or bad without learning it through reasoning, or we may need to reason it out.[^V03-780] Reasoning it out requires fitting premises. Three things are involved: a power that distinguishes good from bad; the premises used to work out what is good or bad; and the actions themselves, which are called good or bad.
 
@@ -2048,7 +2049,7 @@ These separate forms can be understood fully only after most or all other forms 
 
 This is the end of Farabi’s account. It clearly supports the view that the knower becomes one with what it understands. It also says that a person can become a simple intellect that gathers all intelligibles within it. Given such direct statements by Farabi, by the author of *The Theology of Aristotle*, attributed to Aristotle, and by Porphyry, whom Avicenna says wrote a book on intellect and intelligibles and defended their union with the Active Intellect, how can later thinkers reject this honored teaching without first understanding it? Anyone who has not reached it should follow the advice Avicenna gives at the end of *The Pointers*.
 
-#### Chapter 25 — Alexander’s Account of the Intellect, Following Aristotle
+#### XXV. Alexander’s Account of the Intellect, Following Aristotle
 
 In his treatise, Alexander says that Aristotle described three kinds of intellect.[^V03-807] First is the potential intellect. By “potential,” I mean a subject that can become something through receiving a form. Prime matter is potential because it can become any kind of thing. In the same way, the intellect that has not yet understood anything is potential. It has not yet become one of the things it can understand, but it can become all of them.[^V03-808][^V03-809] The power in the soul that is like this is called the potential intellect. It is not yet any existing thing in act, but it can become able to understand all existing things by receiving their forms.[^V03-810]
 
@@ -2064,7 +2065,7 @@ The Active Intellect may govern what happens in this world on its own, returning
 
 This is the end of Alexander’s treatise. I have quoted it to strengthen the case that the soul can become one with the Active Intellect and with the intelligibles. Since this point is very subtle and difficult, it needs more explanation. Perhaps those ready to seek it will find a way to reach it.
 
-#### Chapter 26 — Answering a Difficulty About the Potential Intellect Becoming Actual
+#### XXVI. Answering a Difficulty About the Potential Intellect Becoming Actual
 
 You may see two problems with saying that the potential intellect becomes intellect in act. First, as we said earlier, this seems to mean that one reality changes into another. The human soul is a natural form belonging to a body. Together with the body, it makes one natural kind: the human being.[^V03-823] How, then, can it become an intellectual substance and an intelligible form, separate from matter and bodies? We have already pointed to the answer: a thing’s existence is not the same as its essence.[^V03-824] Existence can grow stronger. Through a continuous process, a thing can move from one kind of existence toward another. This is like black becoming deeper, or heat becoming stronger.
 
@@ -2074,7 +2075,7 @@ We answer that composition is required only when something is potential and actu
 
 We have already said that abstracting a sensible form to make it intelligible does not mean deleting some features and keeping others. It means moving from material existence to intellectual existence, by first moving through sense and imagination. The same is true of the soul. The sensing soul is the first level of animal life, after it has passed through the levels of elements, lifeless matter, and plants. At first, it senses in act but only imagines in potentiality, as with certain simple animals that have no imagination, such as worms, snails, and shellfish. Once imagination develops, the soul imagines in act and understands only in potentiality. This potential intellect can both understand and be understood only in potentiality. When the soul takes on intellectual forms, it becomes both knower and known in act. Its existence then becomes a new kind of existence, beyond the natural world and part of the intellectual world. The earlier levels belonged to the natural world or to the world between nature and intellect.
 
-#### Chapter 27 — How the Potential Intellect Becomes Actual Intellect
+#### XXVII. How the Potential Intellect Becomes Actual Intellect
 
 In *The Origin and Return*, Avicenna explains how the potential intellect becomes intellect in act, even though in his other books he rejects the idea that the intellect becomes one with what it understands. He says that when a form free of matter and its features becomes one with the intellect, it makes the intellect actual by being present in it. It does not remain separate from the intellect as a body's form is separate from its matter. If the intellect were separate from the form and understood it, then it would need another inner form in order to understand it. The same question would arise about that second form, and the chain would never end.
 
@@ -2098,7 +2099,7 @@ Third, the number of separate intellects would increase every time a potential i
 
 Anyone who accepts this high and subtle teaching must examine many basic questions about reality and depart from the path followed by most people. That is what happens when someone seeks the truth about God and leaves behind the familiar resting places. God knows best.
 
-#### Chapter 28 — First Principles, Their Relation to Later Principles, and the Defense of the First Principle
+#### XXVIII. First Principles, Their Relation to Later Principles, and the Defense of the First Principle
 
 First principles cannot be learned through definitions or proofs. In our understanding of things, there are basic ideas such as existence, thing, and being present. These cannot be defined, because they have no parts and nothing is clearer than they are. In our judgments, a first principle is that affirmation and denial cannot both be true of the same thing, and that one or the other must be true. This principle cannot be proved. Any proof of it would go in a circle.
 
@@ -2114,7 +2115,7 @@ In the first case, explain the meanings of the terms. In the second, some philos
 
 In the third case, the remedy is to resolve the person's doubts. Begin with geometry and arithmetic, move to the rules of logic,[^V03-847] then to the principles of natural science, and only gradually to what lies beyond nature. Pure theology should come last. Most people should not attempt these difficult studies at the outset. Very few are equipped to understand them, and success comes from God, the Mighty and Wise.
 
-#### Chapter 29 — Every Separate Being Must Understand Itself
+#### XXIX. Every Separate Being Must Understand Itself
 
 Once we understand knowledge as existence present to a thing without absence or concealment, it is easy to show that every separate being understands itself. Matter does not perceive itself, because it has no existence apart from form. Natural forms do not perceive themselves either: their existence is bound up with bodies and places, and each part is elsewhere than the others.[^V03-848] A body cannot be present to itself as a whole. But a being that is not bodily is present to itself, and therefore understands itself. Knowledge is existence without being hidden from the knower.
 
@@ -2144,7 +2145,7 @@ Philosophers who use the second argument first show that God understands Himself
 
 Second, the rule fails because nothing can be together with God in this way.[^V03-865] How, then, can this argument prove that God knows things? It can do so only if one accepts that images of things exist in God’s being. Third, the argument would require every separate intellect to contain actual forms of every possible thing. That would give even the First Effect more distinct aspects than can be counted.[^V03-866] It would also conflict with the philosophers’ view that each separate intellect has no more than two or three aspects. In short, this argument is hard to apply and does not succeed as it stands.[^V03-867] Even if it did, it would work only if we accepted that intellect means the union of the knower and the known,[^V03-868] and that God contains all things in the highest and most complete way.
 
-#### Chapter 30 — Every Separate Being Is Intellect in Itself
+#### XXX. Every Separate Being Is Intellect in Itself
 
 This does not need a new proof. Every argument we have given for the first claim shows that a thing’s understanding itself cannot be separated from its being understood by itself.[^V03-869] The fourth argument can also show this.[^V03-870] If a separate being can understand something else, it must also understand itself. Since it is free of matter and its effects, anything it can know must already be present to it in act. It cannot be changed by an outside influence or move from potentiality to actuality. Nothing new can arise in it. So if it can be understood, it must already be understood. And because it can understand every thing that is open to its understanding, it must understand itself. Every separate being is therefore intellect in itself, always.
 
@@ -2156,7 +2157,7 @@ The better answer is that the human soul is not intellect in act at the start of
 
 Apart from our life of sense, the soul has two further levels: imagination and intellect. When the soul’s ability to imagine becomes complete, it becomes an actual imaginer. It is then separate from the world of sense and from the bodies, places, and directions found there. Its images are not physical things that can be pointed to. When its ability to understand grows through sound proofs and clear definitions, it becomes intellect in act and is separate from both the sensible and imaginal worlds. It can then understand any reality or essence it chooses. What was only potential when the soul was at the imaginal level has now become actual intellectual form.
 
-#### Chapter 31 — How the Active Intellect Relates to Our Souls
+#### XXXI. How the Active Intellect Relates to Our Souls
 
 We have seen that the human soul rises from one form and level of perfection to another. It begins with simple bodily existence, then takes on the forms of the elements, minerals, plants, and animals, until it develops all the powers of animal life. It then reaches the first level that is not tied to bodily matter. As it rises further, it reaches the acquired intellect, the first level fully separate from matter. This is close to the Active Intellect. The acquired intellect contains forms that were first joined to matter and later became separate. The Active Intellect, by contrast, was never in matter and must always be separate.
 
@@ -2170,7 +2171,7 @@ There should be a separate substance in the world of sense that relates to actua
 
 We have also said that the Active Intellect is of the same kind as the acquired intellect. The forms of things are always ordered in it from the noblest to the least noble.[^V03-878] They do not exist there as separate forms or as forms lodged in it, yet they are ordered. This is another wonder.[^V03-879] Their order in the Active Intellect differs from their order in the acquired intellect. For us, the most general ideas are first, because we learn general ideas before specific ones. But general kinds depend on the more specific kinds for their existence. We understand the specific kinds later, even though they are fuller in existence and harder for us to grasp. So the order of forms in a soul that has become intellect may at first be the reverse of their order in the Active Intellect. As the soul develops, however, it reaches the order required by its intellectual nature and by divine teaching: the noblest and brightest forms first, through their union with the knower. All natural forms are undivided in the Active Intellect but divided in matter. Aristotle is reported to have said in *On the Soul*: “It is no surprise that intellect, though undivided, contains undivided things, and gives matter likenesses of what is in its own being, which matter can receive only in a divided way.”
 
-#### Chapter 32 — Self-awareness is the self’s own act and lasts as long as the self exists
+#### XXXII. Self-awareness is the self’s own act and lasts as long as the self exists
 
 Some philosophers argue[^V03-880] that anyone who understands himself must do so in one of two ways: either he is present to himself, or another image of him is present to him. The second option cannot be right. The image would either match him in kind or differ from him. If it matched him and existed within him, the two would have nothing to distinguish them—not in what they are, in the features that follow from their nature, or in any other respect. They could not be two, though the argument assumes that they are. That is a contradiction. If the image differed from him in kind, its presence would make him understand the thing from which the image came, not himself. So self-understanding must come from the self’s own presence to itself. It must continue for as long as the self exists. That is their argument.
 
@@ -2202,7 +2203,7 @@ No one can say that I know myself by way of my actions—that I first infer myse
 
 Nor does using someone else’s action as evidence give us knowledge of ourselves. We know a thing either through itself, through its cause, through its effect, or through something caused by its cause, as in different kinds of proof.[^V03-890] But something that is neither a cause nor an effect of a thing, nor an effect of its cause, cannot give us knowledge of that thing.[^V03-891]
 
-#### Chapter 33 — Anyone who understands something must be free of matter
+#### XXXIII. Anyone who understands something must be free of matter
 
 The proof follows from what we have already established. Understanding means that the form of the thing understood exists in the one who understands it. But an intelligible form cannot be divided into measurable parts in any way, and it cannot have a position in space, either in itself or because of something else. Blackness, for example, is not divided in itself, but it can be divided along with the body in which it exists. A point has a position only because it belongs to a line. But something that cannot be divided or located in any way cannot exist in a material thing that has a position. So an intelligible form cannot exist in a material thing.[^V03-892] The converse follows: anything that understands an intelligible form must be free of matter. This is what we wanted to prove. The usual view is that understanding occurs when the intelligible form exists in the intellect as something received by it. Our view is that the intellect and the form become one. On our view, the proof is even clearer, since something without a position cannot become one with something that has a position.
 
@@ -2228,7 +2229,7 @@ An intelligible form cannot have a position either. If it did, it would either b
 
 If the intellect were located in one part of the person, the person would not understand with his whole self, but only with that part. Then one and the same person would both know and not know the same thing. That is impossible.
 
-#### Chapter 34 — The one who perceives imagined forms must also be free of this material world
+#### XXXIV. The one who perceives imagined forms must also be free of this material world
 
 This claim differs from the view of most philosophers, including Avicenna and those who follow him. But what matters is proof; truth is known through proof, not through the authority of people. The senses cannot settle what belongs to the intellect; the intelligible is not ruled by what the senses perceive, but rules over it.
 
@@ -2284,7 +2285,7 @@ These are strong and decisive proofs. They will be very useful for understanding
 
 Nothing of the human being would remain, though the revealed laws teach that every human soul survives—happy or unhappy, complete or incomplete, learned or ignorant.
 
-#### Chapter 35 — The human soul’s understanding is not essential or necessary to it
+#### XXXV. The human soul’s understanding is not essential or necessary to it
 
 This passage comes from some who believed that rational souls existed before their bodies.[^V03-924] Although the view is attributed to established philosophers such as Plato and his followers, it may be understood as a subtle symbol beyond the reach of most people. The human soul has different stages, some before its connection with the body and others after it comes into being.
 
@@ -2302,7 +2303,7 @@ If knowledge were essential to the soul, it would never be separated from it. Th
 
 They might say that these forms are stored in the soul as in a storehouse. But to say this is to say that the soul has the ability to recover them by connecting with that storehouse. That ability is acquired only through earlier acts of understanding.[^V03-932] If merely having the forms in an intellectual being—such as the Active Intellect—and being able to connect with them were enough to count as understanding, then every soul would already know everything in the Active Intellect in this sense.[^V03-933] This would bring us back to the symbolic interpretation just described. There is an obvious difference between knowing something in act and having the potential to know it.
 
-#### Chapter 36 — Learning is not recollection
+#### XXXVI. Learning is not recollection
 
 The claim that learning is recollection is closer to the truth than the claim just discussed. Some careful thinkers who believed souls existed before bodies saw that knowledge could not be essential to the soul. They therefore said that before joining the body, souls knew all things. This knowledge was not essential, so it disappeared when the soul became absorbed in managing the body. On this view, thinking is a kind of remembering, and learning is recollection.
 
@@ -2312,7 +2313,7 @@ The answer is that the proof that the soul comes into being will be given later.
 
 What we acquire through thought is not the same as what we knew before we began. Each thing we seek has a sign by which we can recognize it once we find it. The seeker knows that it is the answer because it matches that sign. The author of *The Summary* offers a strong objection about acquiring concepts. By God’s help, I have untangled and answered it.[^V03-935]
 
-#### Chapter 37 — Why intelligible forms are not in bodies or bodily powers
+#### XXXVII. Why intelligible forms are not in bodies or bodily powers
 
 If what we know is an intelligible form, no bodily power, or any power in a body, can perceive it.[^V03-936][^V03-937] Here is the proof. Any image perceived by a power in a body must either exist in that body or not exist in it. If it does exist there, it is not an intelligible form but a sensible one. We assumed it was intelligible, so that cannot be right.
 
@@ -2340,7 +2341,7 @@ Blackness, too, means “a color that constricts the eye.” When it exists in b
 
 Things have different kinds of existence, even when their meaning and essence are one. We know the same nature—for example, a human being—through sensation, through imagination, and through intellect. This shows us that one essence can exist materially, purely intellectually, or in an intermediate way.
 
-#### Chapter 38 — The senses do not know that what they perceive exists
+#### XXXVIII. The senses do not know that what they perceive exists
 
 That is the work of the intellect. Sensory perception involves the sense organs being affected and images of the things perceived appearing in them. Some say these images exist in the organs themselves, as most people believe. The truth, however, is that they appear in the soul, which uses the senses as a means of showing them. In either case, this happens because the material sense organ is ready to receive them.
 
@@ -2358,7 +2359,7 @@ What we hear, see, or touch are sensible qualities that represent things; in rea
 
 Such claims are among the remarkable things we learn about the human soul and life after death. We will explain them further, God willing.
 
-#### Chapter 39 — The kinds of knowledge
+#### XXXIX. The kinds of knowledge
 
 For us, knowledge is a form of existence.[^V03-953] Existence has three levels: complete, self-sufficient, and incomplete.[^V03-954] The first is the world of pure intellects,[^V03-955] forms that are free of dimensions, bodies, and matter. The second is the world of animal souls and imaginal forms.[^V03-956] The third is the world of forms that exist in and depend on matter; these are the forms we sense.
 
@@ -2396,7 +2397,7 @@ There can be only one intellectual form of each kind, because the kind has one d
 
 This proof shows that every natural kind, whether it has countless individuals or only one, has an intellectual form that exists in its own right in the Divine intellectual realm. This is Plato's view of the Divine Forms. I doubt that anyone over all these centuries, apart from Plato and perhaps one of his followers, has fully grasped his purpose through proof. Only a single humble and obscure seeker seems to have reached it.
 
-#### Closing discussion — Terms with similar meanings
+#### 1. Closing discussion: Terms with similar meanings
 
 The following terms are close in meaning, but they are not all interchangeable.
 

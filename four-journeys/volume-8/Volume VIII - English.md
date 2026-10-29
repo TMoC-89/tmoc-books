@@ -5,73 +5,74 @@
 **Mulla Sadra (Ṣadr al-Dīn Muḥammad al-Shīrāzī)**
 
 ## Contents
-- The Fourth Journey — On the soul, from its beginning in bodily matter through its final stages and return to its highest ends
-  - Book One — General questions about the soul
-    - Chapter 1 — Defining the soul
-    - Chapter 2 — What the soul is in general
-  - Book Two — The nature of the animal soul, its substantiality, and its partial independence from matter
-    - Chapter 1 — The animal soul is a substance
-    - Chapter 2 — Proofs that the animal soul is immaterial in some way
-    - Chapter 3 — Replies to doubts about the soul’s being a substance
-    - Chapter 4 — The powers of the soul that branch out through the body
-    - Chapter 5 — A principle for working out how many powers there are
-  - Book Three — The plant powers, their actions, and their states
-    - Chapter 1 — The main kinds of plant power
-    - Chapter 2 — Digestion, waste, and the powers that expel it
-    - Chapter 3 — How some organs have doubled powers, and what food is
-    - Chapter 4 — The Four Stages of Digestion
-    - Chapter 5 — What the Powers of Nourishment and Growth Really Are
-    - Chapter 6 — Why the Powers of Nourishment and Growth Stop, and Why Death Is Necessary
-    - Chapter 7 — What We Need to Know About the Formative Power
-    - Chapter 8 — A Classification of the Soul's Powers and the Powers Below Them
-    - Chapter 9 — Each Body Has One Soul, and All Its Powers Arise from It
-    - Chapter 10 — Some Levels of the Soul Arise Before Others
-    - Chapter 11 — Another Account of the Human Powers, Following Those with Insight
-    - Chapter 12 — Which Organ Forms First?
-    - Chapter 13 — When the Rational Soul Joins the Body
-    - Chapter 14 — Why the Soul's Powers Differ
-    - Chapter 15 — Why Human Beings Have an Animal Power
-  - Book Four — The Animal Soul and Its Powers
-    - Chapter 1 — A general account of these powers and what each does
-    - Chapter 2 — Touch and its features
-    - Chapter 3 — Taste and its questions
-    - Chapter 4 — Smell
-    - Chapter 5 — Hearing
-    - Chapter 6 — Sight
-    - Chapter 7 — Arguments for imprinting, replies to them, and arguments against imprinting
-    - Chapter 8 — What the ray theorists say
-    - Chapter 9 — Why people see double, and why the ray and imprint views disagree about its cause
-    - Chapter 10 — Why sight needs a transparent medium
-    - Chapter 11 — Why there are only five senses
-    - Chapter 12 — What the senses have in common
-  - Book Five — The soul’s inner perceptions
-    - Chapter 1 — Common sense, or the soul’s tablet
-    - Chapter 2 — Imagination
-    - Chapter 3 — Imagination, estimation, and memory
-    - Chapter 4 — The soul as the source of all our powers
-    - Chapter 5 — Answering the claim that the soul cannot perceive particulars
-    - Chapter 6 — Earlier views about the soul, and how Avicenna answers them
-  - Book Six — The rational soul is fully immaterial and how it comes to be
-    - Chapter 1 — The rational soul is not a body and has no size
-    - Chapter 2 — Scriptural evidence on this subject
-  - Book Seven — Aspects of the rational soul in its relation to the natural world
-    - Chapter 1 — How the soul is joined to the body
-    - Chapter 2 — How human souls come to be
-    - Chapter 3 — A fuller account of the question: examining earlier claims and answering their arguments
-    - Chapter 4 — The soul does not perish when the body perishes
-    - Chapter 5 — The soul cannot perish
-    - Chapter 6 — An Eastern account of the soul's return
-    - Chapter 7 — The rational soul comes from an intellect separate from matter
+
+- The Fourth Journey: On the soul, from its beginning in bodily matter through its final stages and return to its highest ends
+  - Book One: General questions about the soul
+    - I. Defining the soul
+    - II. What the soul is in general
+  - Book Two: The nature of the animal soul, its substantiality, and its partial independence from matter
+    - I. The animal soul is a substance
+    - II. Proofs that the animal soul is not wholly dependent on physical matter
+    - III. Replies to doubts about the soul’s being a substance
+    - IV. The powers of the soul that branch out through the body
+    - V. A principle for working out how many powers there are
+  - Book Three: The plant powers, their actions, and their states
+    - I. The main kinds of plant power
+    - II. Digestion, waste, and the powers that expel it
+    - III. How some organs have doubled powers, and what food is
+    - IV. The Four Stages of Digestion
+    - V. What the Powers of Nourishment and Growth Really Are
+    - VI. Why the Powers of Nourishment and Growth Stop, and Why Death Is Necessary
+    - VII. What We Need to Know About the Formative Power
+    - VIII. A Classification of the Soul's Powers and the Powers Below Them
+    - IX. Each Body Has One Soul, and All Its Powers Arise from It
+    - X. Some Levels of the Soul Arise Before Others
+    - XI. Another Account of the Human Powers, Following Those with Insight
+    - XII. Which Organ Forms First?
+    - XIII. When the Rational Soul Joins the Body
+    - XIV. Why the Soul's Powers Differ
+    - XV. Why Human Beings Have an Animal Power
+  - Book Four: The Animal Soul and Its Powers
+    - I. A general account of these powers and what each does
+    - II. Touch and its features
+    - III. Taste and its questions
+    - IV. Smell
+    - V. Hearing
+    - VI. Sight
+    - VII. Arguments for imprinting, replies to them, and arguments against imprinting
+    - VIII. What the ray theorists say
+    - IX. Why people see double, and why the ray and imprint views disagree about its cause
+    - X. Why sight needs a transparent medium
+    - XI. Why there are only five senses
+    - XII. What the senses have in common
+  - Book Five: The soul’s inner perceptions
+    - I. Common sense, or the soul’s tablet
+    - II. Imagination
+    - III. Imagination, estimation, and memory
+    - IV. The soul as the source of all our powers
+    - V. Answering the claim that the soul cannot perceive particulars
+    - VI. Earlier views about the soul, and how Avicenna answers them
+  - Book Six: How the reasoning soul exists without depending on matter, and how it begins to exist
+    - I. The reasoning soul is not a body and does not have a physical size
+    - II. Scriptural evidence on this subject
+  - Book Seven: Aspects of the rational soul in its relation to the natural world
+    - I. How the soul is joined to the body
+    - II. How human souls come to be
+    - III. A fuller account of the question: examining earlier claims and answering their arguments
+    - IV. The soul does not perish when the body perishes
+    - V. The soul cannot perish
+    - VI. An Eastern account of the soul's return
+    - VII. The rational soul comes from an intellect separate from matter
 
 In the name of God, the Most Compassionate, the Most Merciful.
 
-### The Fourth Journey — On the soul, from its beginning in bodily matter through its final stages and return to its highest ends
+### The Fourth Journey: On the soul, from its beginning in bodily matter through its final stages and return to its highest ends
 
 This journey discusses the soul’s stages and its return to its highest ends. It is divided into books.[^V08-1][^V08-2]
 
-### Book One — General questions about the soul
+### Book One: General questions about the soul
 
-#### Chapter 1 — Defining the soul
+#### I. Defining the soul
 
 Know that God’s care gives every possible thing existence[^V08-3] through His most sacred outpouring, each level in order from the noblest down to the least noble.[^V08-4] His care does not stop at some point[^V08-5] and refuse to give more.[^V08-6] So there remain infinitely many things that can move from possibility into existence. Though bodily matter is dark, dense, and cold, it can still be brought to a fuller state by an active source. The sun and other stars, for example, warm and refine it.[^V08-7] In this way it ripens and becomes balanced, fit to nourish living things and to serve as the material from which new beings can form. It becomes ready to receive growth and life,[^V08-8] taking on forms whose effects show God’s wisdom and care, as in plants and animals. Nature first carries out the tasks of the compounds and powers that came before them. We have already explained why what is lower can receive what is higher: possible things were not made in vain, but so they could return to their proper end. The elements were made to receive life and spirit.
 
@@ -135,7 +136,7 @@ A body’s ability to produce the actions of life can come about in two ways.[^V
 
 Life is not something that first makes a living thing alive. It is impossible for a thing to become alive by first having the very condition of being alive. In the same way, existence is not something that first makes an existent thing exist. As we learned in discussing existence, relations, place, and intellect, some things are identical with their own relation or state: a relation is the relation itself; a place does not need another place; an intellectual form’s existence is the same as its being understood.
 
-#### Chapter 2 — What the soul is in general
+#### II. What the soul is in general
 
 Now that we have finished defining the soul in the broad sense of its relationship to the body, we should ask what the soul itself is. Is it anything beyond being a perfection of the body? Calling it a perfection does not yet tell us whether it is a substance or an accident. A perfection is something whose presence makes a kind of thing what it is. The soul makes an animal an animal and a plant a plant. But many perfections exist in a subject, like blackness or writing. They are first perfections of a whole made up of themselves and a subject: blackness completes something as black, and writing completes someone as a writer.
 
@@ -156,9 +157,9 @@ That is not so. Every animal is a body by its very nature. Body is its general k
 Once we accept that animal is a real kind of thing within the broader kind of body, and that life belongs to it by its nature, we can see that animal life does not come from the general nature of bodyhood. If it did, every body would be an animal, since all bodies share that nature. Animal life instead comes from something that completes this particular kind of body. Whatever completes a basic kind of substance must itself be a substance. So the source of life in an animal is a substantial form.[^V08-65]
 
 The same applies to a plant body. Growth and nourishment belong by nature to this particular kind of body, not to bodyhood shared by all bodies. A plant body must therefore have a specific form that completes the nature of natural body in a particular way, gives form to its matter, and produces its distinctive effects. Since this form completes, distinguishes, and constitutes a substance, it has a stronger claim to be called a substance than the general, indeterminate nature of body itself or the material body that can be acted on by it. This is the plant soul. We have already given a principle in our discussion of specific forms that shows why such sources of life are substances; readers who still have doubts may return to it.
-### Book Two — The nature of the animal soul, its substantiality, and its partial independence from matter
+### Book Two: The nature of the animal soul, its substantiality, and its partial independence from matter
 
-#### Chapter 1 — The animal soul is a substance
+#### I. The animal soul is a substance
 
 What we have said so far is enough, but let us make the point clearer. Some people claim that the soul is the body’s mixture, or temperament. Several proofs show that this is wrong.
 
@@ -228,7 +229,7 @@ It has also been argued that if the mover were a power of temperament, it would 
 
 I answer as before: the plant powers carry out different actions in keeping with the soul’s aims. These nine proofs[^V08-94] show that the animal soul is not a power of temperament,[^V08-95] like a mineral form. In fact, the effects and properties of minerals also come from substantial forms other than their temperaments.
 
-#### Chapter 2 — Proofs that the animal soul is not wholly dependent on physical matter
+#### II. Proofs that the animal soul is not wholly dependent on physical matter
 
 The first proof is that an animal’s body can gain or lose parts as it breaks down,[^V08-96] yet the animal remains the same individual through these changes. Every animal body is affected by its inborn heat, heat from the elements within it, the heat of movement, and the surrounding air—especially in the height of summer. The animal remains the same individual through all these conditions. So its identity is not the same as the bodily structure we can sense.
 
@@ -244,7 +245,7 @@ The larger point is that a human being knows the visible organs only through the
 
 Here is another proof that an animal is not merely its perceptible bodily structure. Imagine an animal created all at once, fully formed, but unable to sense anything outside itself. Suppose it were suspended in open air, where the air offers no resistance and it feels no qualities at all. Its limbs are separated so they do not touch one another. In this state, it would still be aware of itself, while unaware of any of its visible or hidden organs. It would affirm that it exists, but would not affirm that it has size, length, width, or any direction. If it imagined a position, direction, or limb, it would not imagine it as part of itself. What it is aware of is plainly different from what it is unaware of. Its identity is therefore different from all its organs.[^V08-102]
 
-#### Chapter 3 — Replies to doubts about the soul’s being a substance
+#### III. Replies to doubts about the soul’s being a substance
 
 Some people argue that plant powers, and the animal soul too, are states of the body: they perceive particular things and carry out particular actions.[^V08-103] A separate substance,[^V08-104] they say, cannot perceive or act in these particular ways.[^V08-105][^V08-106] So the soul must be a bodily power that causes the whole made up of itself and the body.[^V08-107] The plant and animal powers would then exist in a subject that depends on them, making them substantial forms. Those who allow that one thing can be both a substance and an accident in different respects say that the soul is a substance as a part of a plant or animal, but an accident because it exists in and depends on the body. Those who deny that something present in a subject can also be a substance reject the soul’s substantiality altogether.[^V08-108] We have already shown that both views are mistaken.[^V08-109] Still, those who call the soul an accident offer several arguments for their position.
 
@@ -284,7 +285,7 @@ The animal soul—and likewise the human soul—gathers the perceptive and plant
 
 The plant powers found in plants differ in nature and kind from the plant powers found in animals. In neither case are these powers accidents, as some have supposed. They are substances: actual in plants, but potential in animals. “Potential” here does not mean that they have only a preparatory possibility. Their potentiality is like the way intelligible forms are present in the simple intellect as a unified, active capacity.
 
-#### Chapter 4 — The powers of the soul that branch out through the body
+#### IV. The powers of the soul that branch out through the body
 
 In *The Healing*, Avicenna says that the powers of the soul[^V08-122] fall first into three kinds. The first is the plant soul: the first perfection of a natural body with organs, insofar as it grows, develops, and reproduces.[^V08-123] The second is the animal soul: the first perfection of a natural body with organs, insofar as it perceives particular things and moves by choice. The third is the human soul: the first perfection of a natural body with organs, insofar as it understands universal things and acts through reflective choice and judgment. Each kind has degrees, from greater to lesser perfection. The plant soul has three powers.[^V08-124] The nutritive power changes another body into something like the body it belongs to, attaches it to that body, and makes it similar to itself, replacing what has worn away.
 
@@ -308,7 +309,7 @@ Avicenna and his followers say that the common sense and imagination are located
 
 Some philosophers treat the animal soul as the whole set of these powers. Others identify the soul with estimation and treat all the other powers as subordinate to it. Each view has something right in it, as you will see. This is a brief account of the animal powers and their divisions. They are all carried by the vital spirit, whose substance resembles that of the heavens. The details of the rational soul’s powers will be discussed elsewhere. For now, I will set out the proofs for these powers, consider the objections, and answer them. First, however, I will explain how many kinds of difference there are among the soul’s actions. May God grant success.
 
-#### Chapter 5 — A principle for working out how many powers there are
+#### V. A principle for working out how many powers there are
 
 People commonly think that five kinds of difference explain why there are different powers and sources of action.[^V08-132] First, things may differ in meaning. For example, “animal” includes the meanings of growing and sensing. Some therefore say that an animal is made up of matter and form: a plant-like body and a sensing soul. In the same way, they distinguish the nature of a plant by its bodily aspect, which comes from matter, and its plant life, which comes from form. They apply this pattern to everything made of matter and form. Second, actions may differ by being present or absent: movement and rest, knowledge and ignorance, certainty and doubt. Third, they may differ in strength: certainty and opinion in belief; greater or lesser desire in character; or larger and smaller bodies.
 
@@ -400,9 +401,9 @@ Even death comes upon the soul because, by God’s decree, it has entered this w
 
 Another sign that the soul itself, rather than an unconscious natural power, performs actions such as attraction, expulsion, and the like is that when a person urgently needs food to be transformed, digested, and expelled—as happens to a sick person at the crisis of an illness—the person finds their other perceptive powers weakened.[^V08-176] This is because the soul is occupied and absorbed in those bodily actions, so its other actions are interrupted. Once that work is done, the soul turns again to the level where its perceptive actions take place. God knows best.
 
-### Book Three — The plant powers, their actions, and their states
+### Book Three: The plant powers, their actions, and their states
 
-#### Chapter 1 — The main kinds of plant power
+#### I. The main kinds of plant power
 
 Plant powers may be powers that are served, powers that serve, or powers with a role between the two. The powers that serve the soul act on food either for the sake of the individual or for the sake of the species. If they serve the individual, they do so either to keep it alive or to bring its own growth to completion.
 
@@ -446,7 +447,7 @@ As for the second objection, the power that gives forms to all things that come 
 
 Just as many different reactions cannot come from one receiver without several different aspects of receptivity, many different actions cannot come from one agent without several different aspects of activity. We have already shown in our discussion of cause and effect that a general action requires a general agent, and a particular action a particular agent. This piece of writing comes from this particular writer; this image comes from this particular artist. An observable action that we can point to must be traced to an observable agent that we can point to. An intellectual agent is not directly the agent of anything except an intelligible action. May God guide us.
 
-#### Chapter 2 — Digestion, waste, and the powers that expel it
+#### II. Digestion, waste, and the powers that expel it
 
 We now turn to the expelling power, distinguish these four powers, and identify the organs that serve as their instruments. As for digestion, remember that food contains two substances: one can be made like the body it nourishes, and the other cannot. The digestive power acts on each in a different way. Its action on the first is as described above. The second may be coarse, thin, or sticky. The digestive power thins what is coarse, thickens what is thin, and breaks up what is sticky. One might object: the thinner something is, the easier it should be to expel; why, then, do you count thickening as one of the changes that makes expulsion easier? We answer that a thin substance may be absorbed into the stomach wall and remain there, while a thicker substance is not absorbed and can therefore be expelled completely.
 
@@ -460,7 +461,7 @@ This answers several objections. First, the liver’s flesh has no fibres, yet t
 
 You may ask: does the blood pass from the lengthwise fibres into the flesh of the liver, which is itself attracting the blood, or does it pass into the liver without the liver flesh attracting it? If the first, attraction does not depend on the fibres; if the second, the organ has no nutritive power. We choose the first. This does not mean attraction fails to depend on the fibres: it depends on them whether directly or indirectly. So every organ’s power of attraction requires fibres within it or close by, as in the liver and the eye’s crystalline humour.
 
-#### Chapter 3 — How some organs have doubled powers, and what food is
+#### III. How some organs have doubled powers, and what food is
 
 Some natural philosophers may be right that the stomach has two sets of these four powers. The powers that draw food from outside the body into the stomach are not the same as those that draw from the stomach what is suitable for the stomach itself. Likewise, the powers that hold food in the stomach and change it into a substance suitable to become blood—the chyle—are not the same as those that send it to the liver. Other powers hold in the substance of the stomach the blood drawn from the liver, change it into food that nourishes the stomach, and expel its waste. The same applies to the liver: changing food into blood is different from changing it into the substance of the liver, just as turning food into liquid is different from making it part of the stomach.[^V08-190]
 
@@ -482,7 +483,7 @@ We have shown by proof that things actually sensed are joined in their being wit
 
 Food and the body it nourishes are one and the same existing thing once nourishment has taken place. They differ only when the mind analyses the process: it may consider the body or organ on its own, before the new completion reaches it, or consider it as complete, with the perfection it has gained through the earlier actions and changes that prepared it. This is like the way the soul is completed by acquiring forms of knowledge. One of the subtle points that can bring insight here[^V08-198] is that the stages of digestion correspond to the stages of abstraction in understanding.
 
-#### Chapter 4 — The Four Stages of Digestion
+#### IV. The Four Stages of Digestion
 
 Know that animals, and human beings too, need food as long as they remain in this world and have a bodily nature. Their food must resemble the body it nourishes, in both form and matter, because these bodies are constantly changing and wearing away. Each organ needs its own share of food, suited to it and like it. The body's nutritive power matures and transforms the food, then strips away its husks and waste. This power stands to the body as the intellect stands to the soul.
 
@@ -494,7 +495,7 @@ Of these four, the best is the substance called blood. Some of it passes along t
 
 The waste products correspond to the four stages of digestion. Waste from the first stage, in the stomach, is excreted as stool through the intestines. Most waste from the second stage leaves as urine through the bladder; the rest is carried off by the spleen and gall bladder. Waste from the third stage leaves in sweat and through other visible openings, such as the nose, ears, and eyes—as tears—or through openings we cannot see, such as the pores. Some waste from the fourth stage leaves as semen. The rest leaves through what grows beyond the body's needs—hair, nails, dirt, and other matter expelled by the body's nature, such as burst abscesses and the like.
 
-#### Chapter 5 — What the Powers of Nourishment and Growth Really Are
+#### V. What the Powers of Nourishment and Growth Really Are
 
 You have learned from our approach that a definition can explain what a thing is or explain its existence. We have already distinguished these questions. We may explain what a thing is by naming the broader kind it belongs to and what distinguishes it from other members of that kind. But existence itself has no parts, so it cannot be explained in that way. If an existence is complete, it is defined through its agent and its end; if it is incomplete, through its action. As we indicated earlier, the definition of an existence and the proof that it exists are one and the same. A proof that explains why something exists is stronger than one that shows only that it exists.[^V08-203]
 
@@ -518,7 +519,7 @@ When parts are separated, the result is inherently painful. It is impossible tha
 
 The truth, as we have established, is that growth is a continuous movement in quantity. Change means that an ability which has not yet been realized gradually becomes real. Here, the process is gradual because, at every moment, the thing that moves has a different instance of quantity. In growth, there is no fixed amount to which another amount is added, whether by matter entering the organ or by any other means.
 
-#### Chapter 6 — Why the Powers of Nourishment and Growth Stop, and Why Death Is Necessary
+#### VI. Why the Powers of Nourishment and Growth Stop, and Why Death Is Necessary
 
 First, let us present the arguments people have made on this subject. Then we will set out a general principle from divine metaphysics and philosophy as a whole, which God has taught us and which will clarify this question and others like it.
 
@@ -578,7 +579,7 @@ The Prophet also said, “This world is the field of the next.” This is the wi
 
 Human souls, and other souls too, naturally long for death. They are like craftsmen, while bodies and limbs are like workshops, and the body's powers are like tools. A craftsman works in a workshop for a purpose. When the work is complete and he has reached his aim, he leaves the workshop, sets down his tools, and rests. Likewise, when souls have completed what was required of them in union with the body, and each has developed its capacities in the way it was made to, they turn to themselves. The body then becomes a burden and keeps them from returning to their own homes and sources. Souls have their own sources, like mines of gold and silver, as the hadith says. Death, then, is wisdom and mercy from God, as He says: “Then He causes you to die, then gives you life; then to Him you will return.” The father of the prophets, Abraham, peace be upon him, said: “He is the One who causes me to die, then brings me to life.”
 
-#### Chapter 7 — What We Need to Know About the Formative Power
+#### VII. What We Need to Know About the Formative Power
 
 Let us first present what has been said about this power, then explain what we take to be true. One of the leading later philosophers says: “In my view, the formative power is unreal, because these actions cannot come from a power that has no awareness.” We have already explained how powers are aware of themselves and of what they do. Another thinker before him said that these actions, and similar ones usually assigned to plant powers, come from angels.[^V08-223] Once you understand the kinds of angels God has and how they act by His permission, you will see that the highest ranks are too exalted to carry out such lowly actions directly, without the help of servants and assistants. We have also shown that powers which directly perform changing physical actions must themselves be bodily, while the powers that understand truths applying to many things, wise purposes, and general benefits exist apart from bodies. So the question returns to the powers that act directly: how do they form and shape things? Most theologians, such as the Ashʿarites, assign all these acts to God alone, without a mediator or a specific cause, since they allow an act to be preferred by the will without any reason for that choice. You have already seen the problem with this view.
 
@@ -682,7 +683,7 @@ Likewise, Mika'il stands before his Lord and receives what he must do: send down
 
 Most people fall into serious mistakes because they ignore the rights of each level and look at things with only one eye. Consider the disagreement about the formative power. One group assigns these acts to an unaware bodily power. They deny the rights of God and His closest angels, and their right eye goes blind: they see the world of creation but not the world of God's command. Another group assigns the actions of the formative power—shaping and creating things that change, decay, and come into being—to God Himself. They deny the rights of God's servants and remove from action those He appointed to carry it out. Their left eye goes blind: they try to see God without seeing creation. In the end, they see neither God nor creation, because creation is the path to God. How can someone reach the end after denying the path and leaving the straight way? They will be raised blind in both eyes, though they once had sight and the ability to see, because they did not look at God's signs and wisdom or reflect on His work and care. Their state on the Day of Resurrection will be as God describes: “We will raise him blind on the Day of Resurrection.” He will say, “My Lord, why have You raised me blind when I could see?” God will say, “Our signs came to you, but you forgot them; so today you will be forgotten.”
 
-#### Chapter 8 — A Classification of the Soul's Powers and the Powers Below Them
+#### VIII. A Classification of the Soul's Powers and the Powers Below Them
 
 Classification here means that the powers are not different kinds, each separated from the others by an essential feature, as plant species differ from animal species. They differ instead through features connected with human life: some arise before others, some are used before others. Before they flow out from the human soul and spread through the body, they are like parts of that soul. Each then occupies the place suited to it. The soul first divides into three parts, which are like three separate souls elsewhere: a plant soul, located in the liver; an animal soul, located in the heart; and a human soul, whose rule is in the brain. These souls arise one after another. The plant part comes first, then the animal, then the human. The first two disappear when the body's balance is lost and its readiness ends. The human part remains in the next world. It does not arise from the body's readiness or balanced temperament. It is a divine matter, a sacred secret; its relation to God is like light to its source. The spirit remains through God, as we will explain in its proper place.[^V08-267]
 
@@ -708,7 +709,7 @@ Multiplicity depends on unity, which is the source, root, return, and end of mul
 
 Once we saw that it understands intelligible things, is present to itself, and knows its own identity, it became clear that this is a sacred substance that cannot die or decay.[^V08-270] It remains with God and will be gathered with the angels and prophets, peace be upon them, when its bond with them has grown firm. “How excellent those companions are.”
 
-#### Chapter 9 — Each Body Has One Soul, and All Its Powers Arise from It
+#### IX. Each Body Has One Soul, and All Its Powers Arise from It
 
 Rather, the powers we have listed are details of the soul's own being and expressions of its identity. Know that some people of limited insight saw that human beings have effects like those of natural powers: heat and cold, attraction and repulsion, transformation and ripening, and other actions also produced by the forms of the elements. They saw other effects like those of plants: nourishment, growth, and reproduction. They saw still others like those of animals: sensation, imagination, desire, and anger. Then they saw in human beings speech, understanding, and reasoning. They thought that a human being is made up of a natural form and three other souls: plant, animal, and human.
 
@@ -724,7 +725,7 @@ In short, the human soul descends from its highest immaterial state to the level
 
 Most later philosophers, such as Avicenna and his followers, denied this because they did not build their account of the soul on a sound understanding of existence—its degrees, its sources, and its ends. They were afraid that, if this were true, the soul would be divided; that the Active Intellect would be split into as many parts as there are knowing souls; and that each of our souls would know what every other soul knows.[^V08-274] We have already given a clear proof that lifts the veil from these doubts, thanks be to God, when discussing the union of the knower and what is known.[^V08-275]
 
-#### Chapter 10 — Some Levels of the Soul Arise Before Others
+#### X. Some Levels of the Soul Arise Before Others
 
 As we have seen, the soul does not begin with all its abilities fully developed. Some appear before others.
 
@@ -736,7 +737,7 @@ Next comes the ability to think things through, make judgments, and use reason t
 
 At this stage, the person has become fully human in the life of the soul, but may still develop in either an angelic or a devilish direction. At the resurrection, the person joins either the angels or the devils and their followers. With God's help, someone who follows the path of truth and God's oneness, develops the intellect through knowledge, and frees it from bodily attachments becomes angelic in actuality, joining the angels who are close to God. Someone who follows error and ignorance instead becomes one of the devils, or is raised among animals and insects.
 
-#### Chapter 11 — Another Account of the Human Powers, Following Those with Insight
+#### XI. Another Account of the Human Powers, Following Those with Insight
 
 One of the mystics, explaining God's words, “None knows the forces of your Lord but He,” said that God has forces in hearts, souls, and other worlds. Only God knows their true nature and number. Here we will describe some of the forces of the heart—that is, the rational soul. This is the part that concerns us. It has two armies: one seen by the eyes, made up of the body's organs and limbs, and one seen only by inner sight, made up of powers and senses. All of them serve the heart, which directs them. They are made to obey it and cannot resist or rebel. When it tells the eye to open, it opens. When it tells the leg to move, it moves. When it decides that the tongue should speak, the tongue speaks. The other organs obey in the same way.
 
@@ -770,7 +771,7 @@ Even if the perfect human being uses a limb as an intermediary, their commands m
 
 That ends the mystic's account of the human being's unity and role as God's deputy. Praise be to God, who has shown us through clear proof—lifting every veil and answering every doubt—the way to understand what those who know God have experienced directly. Many of the discussions in this book help establish this subtle teaching and other great divine truths, which most thinkers have failed to grasp. Only a few have brought together the learning of careful thinkers and the insight of those who see inwardly. By God's grace, we have brought together direct insight and experience with inquiry and proof. Now let us return to where we left off.
 
-#### Chapter 12 — Which Organ Forms First?
+#### XII. Which Organ Forms First?
 
 Doctors and natural philosophers disagree about this. Anatomists say that dissection shows the heart is the first organ to form. Hippocrates says it is the brain. Muhammad ibn Zakariya says it is the liver. The anatomists rely on what they have observed, since questions about particular cases cannot be settled by proof alone. Hippocrates and Muhammad ibn Zakariya do not challenge what dissection shows; they rely instead on weak or faulty comparisons.
 
@@ -790,7 +791,7 @@ I see a problem with this argument. Even if we accept that the first thing to fo
 
 In animals, the natural spirits form first. The liver is the place that gathers and holds them. The body's nutritive power then draws food parts into them, so they are nourished, grow, and develop. As they grow in their being and size, they need a higher, nobler, and stronger place. So another center forms above the first, on the side with more heat. Its spirit is purer, stronger, warmer, and better able to receive life. This is the heart. The other organs form in turn, some to lead and others to serve, until the body is complete in all its powers and organs. It is like a thriving city: its parts are added one by one. It needs an obeyed ruler, citizens who serve the ruler, and homes, animals, and other things that serve the citizens. The ruler may be the last to appear in the work of building, but first in the plan and purpose.
 
-#### Chapter 13 — When the Rational Soul Joins the Body
+#### XIII. When the Rational Soul Joins the Body
 
 As we have said, the rational soul reaches its full power of thought—its ability to understand ideas—in most people around the age of forty. But the human soul becomes distinct from other animal souls earlier, through its readiness for intellectual development. Avicenna says that the woman's seed receives a soul when the man's generative power enters it. The spirit seems to form from the man's seed, and the body from the woman's. Once the seed has a soul, that soul begins to complete the body's organs. At this stage, it is only a nutritive soul, since nourishment is the only work it does.
 
@@ -806,7 +807,7 @@ The third problem is that this account makes the tool appear before the one who 
 
 One philosopher compares this to the way fire affects coal. One piece becomes warm, another turns red and begins to glow, and a third gives light and burns. At the final stage, it acts like fire and does what the earlier stages did, along with more. As the power grows stronger, it produces more effects. A strong light includes weaker degrees of light, though not as a container holds separate parts or a measured thing contains imagined pieces. In the same way, a stronger form of existence gathers what belongs to weaker forms and does more as it grows stronger. Sometimes it rises from a short-lived stage to one that lasts. It then becomes an intermediary between the Active Intellect and the work of governing bodies. We will explain this at length later.
 
-#### Chapter 14 — Why the Soul's Powers Differ
+#### XIV. Why the Soul's Powers Differ
 
 Some say that each organ's nutritive power differs in kind and nature from the nutritive power in every other organ. Otherwise, their actions would not differ in kind. The same, they say, is true of the powers of growth and reproduction, and of the four powers that serve nourishment. These powers share a broad class, but each is a different kind.[^V08-291]
 
@@ -816,7 +817,7 @@ The nutritive power in each organ may act differently and in a different place. 
 
 The soul is one, yet contains every kind of perception and movement. When its powers appear in the body, they seem to be different kinds. Within the soul, they are gathered into one. The five senses are gathered in the inner sense that brings them together; all acts of understanding are gathered in the theoretical intellect; plant powers such as drawing in and pushing out are gathered in one plant-life power; and all the moving powers spread through the body are gathered in the animal power that urges movement, and in the human practical intellect.
 
-#### Chapter 15 — Why Human Beings Have an Animal Power
+#### XV. Why Human Beings Have an Animal Power
 
 Know that a thing of any kind cannot reach a higher, more complete kind until it has first completed the lower, less complete kind beneath it and gained all its powers and needs. This is a universal rule supported by proof.[^V08-296] The nature that reaches the human level and the rational soul must first complete all the conditions of animal life, in both its basic powers and their branches. So human beings must have an animal power. But this does not mean that a person has one fully formed animal soul and another, separate human soul. As we have explained, the human rational soul is the very same soul as the animal soul, differing in meaning and effect, not in number. The rational power in us is the animal power that has reached the rational level. Here, “animal power” means the power that prepares the organs to receive sensation and movement.[^V08-297]
 
@@ -842,11 +843,11 @@ The soul's relation to the body also changes with a person's state. In deep slee
 
 From this we know that the soul's presence does not require all its powers to spread through every organ at every moment. A paralyzed organ may receive the natural and plant powers of the soul without receiving its animal powers. So the argument from paralysis does not prove that human beings have a separate animal power. We must follow the account we have established and explained.
 
-### Book Four — The Animal Soul and Its Powers
+### Book Four: The Animal Soul and Its Powers
 
 This book examines the powers found in animal souls. Some give rise to the outer senses; others give rise to inner perception. The inner powers are closer to the unseen realm[^V08-307], while the powers behind voluntary movement rank below the powers of perception. The book has several chapters.
 
-#### Chapter 1 — A general account of these powers and what each does
+#### I. A general account of these powers and what each does
 
 When God created plants from earthly matter, He gave them a fuller life than the elements, stones, and minerals such as iron and copper. Plants have a power that draws nourishment through their roots. He also gave them tools and powers that serve them. We have already discussed the powers. Their tools are the fine veins you can see in a leaf: they begin as thicker branches, then divide into finer and finer strands that spread through the leaf until they are too small to see. Yet even with this greater life, plants are still incomplete and cannot stand on their own.
 
@@ -874,7 +875,7 @@ Now consider this: if an animal had senses and powers of perception but no natur
 
 Desire and anger—whether they concern an individual's need for suitable food or the kind's desire to reproduce—lead only to what helps or harms us in the present. They do not guide us toward what is good or bad in the long term. For this, God gave human beings another motive, beyond desire and anger. It is guided by reason, which, through God's light, shows us what lies ahead and helps us recognize the good of reward and the harm of punishment in the next life. This motive is called the will. Some religious scholars call it the religious motive. God gave it to human beings alone as an honor, just as He set us apart with reason, which recognizes the consequences of our actions. The will follows reason as desire follows the senses. I have summarized the account of one Muslim scholar here because of its clear order and fine expression. Now let us return to the senses and examine them one by one.
 
-#### Chapter 2 — Touch and its features
+#### II. Touch and its features
 
 As you know, an animal that lives on earth has a balanced mixture of qualities. It needs a power that preserves this balance and detects the body around it, such as air or water. That body may be harmful, so the animal can avoid being burned by heat or frozen by cold; or it may suit the animal, so it can seek it out or settle in it. Touch is therefore the earliest sense. Perhaps the need to avoid harm through touch is stronger, while taste is especially important for finding food that keeps an animal alive. But avoiding harm to preserve life comes before gaining benefits that make life better. Food can also be found through the other senses. So touch is the first and oldest sense, and the whole body must have the power of touch.
 
@@ -900,7 +901,7 @@ The basic elements are constantly changing because they contain opposing qualiti
 
 In our view, existence itself is awareness. That is why the wise knowers of God say that all existing things know their Lord and bow before Him, as Scripture teaches. When existence is free of absence and darkness, it brings full perception. Material things are mixed with darkness and hidden by barriers; their existence is sunk in absence and limitation. As these barriers lift and they become connected with the sources of soul and intellect that do not depend on matter, they rise toward life and awareness. Plant souls, though immersed in matter, may be closer to the unseen realm than the forms of elements and minerals, because their opposing qualities are more balanced. That is why plants show some signs of life that these other bodies do not.[^V08-321]
 
-#### Chapter 3 — Taste and its questions
+#### III. Taste and its questions
 
 Taste is more widespread among animals than the other senses, except touch, and it is the sense most like touch. It comes second after touch because it detects what suits the body and so helps the animal seek it out. When the need for food grows stronger, taste becomes sharper. Taste also depends on touch, but touching the surface is not enough. The flavored substance must enter the organ of taste—the tongue—either directly or through saliva that comes from the tongue and receives the flavors. The saliva must have no taste of its own if it is to carry the flavors accurately. If it has a taste, as it may in illness, it will not convey them correctly. In truth, the tongue itself must also be tasteless, or nearly so, if it is to take on a flavor and let us sense it.
 
@@ -912,7 +913,7 @@ We must also understand that what we truly taste is not the flavor that belongs 
 
 The power of taste is one. Some ask why philosophers say that touch has several powers because it senses several kinds of things, but do not say that taste has several powers because it senses several tastes. One answer may be that a single power can distinguish many tastes because they all stand in one kind of opposition to one another. The qualities sensed by touch do not all oppose one another in the same way: the opposition between hot and cold differs from the opposition between wet and dry.[^V08-322]
 
-#### Chapter 4 — Smell
+#### IV. Smell
 
 Smell is subtler than taste, just as taste is subtler than touch. These three are the coarsest and least refined senses. Smell perceives odors when air carrying them reaches the nose. So smell, too, depends on contact. It resembles touch, as if it were a kind of touch. In subtlety, smell stands to taste as taste stands to touch.
 
@@ -934,7 +935,7 @@ Another question about smell concerns a report about Plato, Pythagoras, Hermes, 
 
 One distinguished later sage reported that, when he came into contact with that world in sleep or while awake, he smelled fragrances sweeter than musk and ambergris—so much sweeter that our scents cannot be compared with them. Those who study spiritual realities agree that each planet has its own incense, and each spiritual being has a familiar scent that they breathe in and enjoy, along with the aromas of foods prepared for them. They then bestow on those who are ready whatever they are prepared to receive. Later, you will see what supports this claim and others like it.
 
-#### Chapter 5 — Hearing
+#### V. Hearing
 
 Hearing is the perception of sound. We have already discussed what sound is in our earlier study of categories, when discussing qualities we can perceive. Here, we should ask how hearing occurs.
 
@@ -1002,7 +1003,7 @@ There is also no need to wonder that the world of the spheres might contain odor
 
 So our powers can behold melodies, sounds, odors, and other things in two ways: sometimes through things outside us that prepare the way for them, and sometimes through inner causes, as in dreams. In sleep we may see astonishing images and hear great sounds, and we have no doubt that these experiences exist. It is therefore no wonder if the world of the spheres contains delightful tastes, pleasant odors, and wonderful melodies. Their causes are not limited to the familiar things we encounter here.
 
-#### Chapter 6 — Sight
+#### VI. Sight
 
 Anatomy has established that seven pairs of nerves branch from the brain. The first pair begins deep in the front chambers of the brain, near two small growths shaped like nipples. These are small, hollow nerves. The nerve from the right side crosses toward the left, while the nerve from the left crosses toward the right. They meet in a cross-shaped intersection, then the right-hand nerve enters the right pupil and the left-hand nerve enters the left pupil. The power of sight is carried in the spirit that fills the hollow of these nerves, especially at the point where they meet.
 
@@ -1042,7 +1043,7 @@ An illuminating relation properly describes the relation between a thing and the
 
 Perhaps the view we have chosen was the teaching of the ancients, and the name was later changed in transmission because the view was difficult and those who passed it on did not fully understand it. Once proof shows that seeing occurs when an image free from external matter is present to the soul, and rules out the theories of rays and imprints in the crystalline fluid or anything like it, our claim is established. We will now examine in detail the problems with the other two famous views.
 
-#### Chapter 7 — Arguments for imprinting, replies to them, and arguments against imprinting
+#### VII. Arguments for imprinting, replies to them, and arguments against imprinting
 
 Those who support the imprinting view offer several arguments. Their main one is this: the eye is a smooth, shining body. When a smooth body faces a dense, colored object, the object's likeness is imprinted on it, as happens in a mirror. The general claim is obvious; the claim about the eye is supported by things we observe. In the dark, someone who has just woken may see light when rubbing an eye. A similar flash can appear when a hand is passed over the back of a black cat. When we look toward the end of our nose, we may see a ring of light around it. After waking, we may briefly see objects nearby and then lose sight of them, because the eye is then full of light. If we close one eye, the pupil of the other widens; they say this is because a shining substance fills it. And if bright spirits did not flow from the brain into the eye, they say, the pupils would not be hollow.
 
@@ -1092,7 +1093,7 @@ The sixth argument is that a physical cause cannot act on a distant body without
 
 The reply is that this would follow only if the nearer body were ready to receive the effect, as the farther one is. The air is not ready to receive an image of the visible object.[^V08-352]
 
-#### Chapter 8 — What the ray theorists say
+#### VIII. What the ray theorists say
 
 The science of optics and mirrors is a field of its own, studied carefully by many scholars. They base their account on rays leaving the eye and reaching the visible object, just as rays from the sun, moon, and other shining bodies reach what they face. The rays form a cone, with its point at the light source and its base at the object it faces. This suggests that we see by rays leaving the eye, and that we see whatever the rays reach.
 
@@ -1110,7 +1111,7 @@ A similar case occurs when an object appears twice because a mirror is placed be
 
 They also explain why a tree on a riverbank can look upside down in the water. A ray that reaches the water is reflected toward the top of the tree from a point closer to the viewer, and toward the base from a point farther away, until the base of the tree aligns with the base of its reflection. The soul is used to seeing things along straight rays and does not notice the reflection. It therefore takes the reflected ray to have traveled straight through the water. It sees the top as farther away and deeper in the water, and the other parts in order down to the base, so the tree looks inverted. Optics explains these details and similar cases more fully.
 
-#### Chapter 9 — Why people see double, and why the ray and imprint views disagree about its cause
+#### IX. Why people see double, and why the ray and imprint views disagree about its cause
 
 Those who support the imprinting view say that the image of a visible object is first imprinted in the crystalline fluid, but sight does not happen there. They say that, just as an imagined cone extends from the visible object and narrows behind the crystalline layer, the image in the crystalline fluid travels through the spirit flowing in the two hollow optic nerves toward their meeting point. The two cones meet and cross there. Beyond that meeting point, there is no perceiving spirit. So the two images join into one at the point where the spirit carries the visual power. If the two images do not reach the same place, but end at different parts of the visual spirit, a separate image comes from each one through the crystalline fluid, and we see one object as two.[^V08-362][^V08-363]
 
@@ -1122,7 +1123,7 @@ The same applies to someone with crossed eyes. The main rays from the two eyes d
 
 Those who support imprinting have offered other explanations for double vision. One is that the visual spirit moves to the right or left, so the image is formed in one place before the two cones cross, and the object appears twice. This is like seeing one reflection in still water and many reflections in rippling water. Another explanation is that the spirit behind the crossing of the optic nerves moves forward or backward. In that case, it has two opposite movements: one toward the shared sense and the other toward the meeting point of the nerves. The image reaches both before the earlier image has faded, so each place receives another visible image. The difference between the explanations is that the first describes movement from side to side, while the second describes movement forward and back.[^V08-365]
 
-#### Chapter 10 — Why sight needs a transparent medium
+#### X. Why sight needs a transparent medium
 
 Here is the argument. A power that belongs to a body can affect something, or be affected by it, only through a shared position. Action and reaction take place between things linked as cause and effect. This link is direct between a power and the matter, subject, or body it belongs to, since these help make it what it is, set it apart, or complete it. The link is indirect between that power and something else that has a spatial relation to its body.[^V08-366]
 
@@ -1138,11 +1139,11 @@ This shows why the claim that a thinner medium is always better cannot be right.
 
 You might say that the Shaykh admits this kind of action does not require the cause and the thing affected to touch. If there were empty space between the sense and the object, what would be wrong with an image being imprinted in the sense? The answer is that even without direct touch, there must still be either contact or a physical medium between them. That medium and the thing affected must work together almost as one body: one part is ready to receive the effect, while the other is not. If there were no body between fire and what it heats, nothing would warm. And if there were no body between the sun and the earth, the earth would receive neither light nor heat.
 
-#### Chapter 11 — Why there are only five senses
+#### XI. Why there are only five senses
 
 Most people thought there might be a sixth sense in addition to the five. The philosophers denied it. They argued, as the Shaykh explains in one of his books, that nature does not move from a simpler kind to a more complete kind until it has brought the simpler kind to its full development.[^V08-371] In the same way, nature could not rise above animal life without first completing all the powers of animals. If another sense were possible, animals would have it. Since even the human being, the most complete animal we know, does not have a sixth sense, there is no other sense.[^V08-372]
 
-#### Chapter 12 — What the senses have in common
+#### XII. What the senses have in common
 
 Some people say that the only things we directly sense are qualities sensed through the body, such as colors, sounds, smells, tastes, and things felt by touch. Everything else is sensed only indirectly. On this view, the senses have no thing they can sense in common.[^V08-373] That is not so.[^V08-374]
 
@@ -1164,9 +1165,9 @@ If this is how the senses work, then the same is true of the things they sense. 
 
 Some people think animals need another sense, beyond the five, to perceive these shared features. That is mistaken. As we have seen, each of the five senses can perceive them. There is no need for a sixth. A sixth sense would add nothing, since the five already do this work, and nature does not create a power that serves no purpose.
 
-### Book Five — The soul’s inner perceptions
+### Book Five: The soul’s inner perceptions
 
-#### Chapter 1 — Common sense, or the soul’s tablet
+#### I. Common sense, or the soul’s tablet
 
 Most people say that common sense is a power located in the front part of the brain.[^V08-377] I hold that it is a power of the soul, prepared to arise in the front of the brain, more precisely in the vital spirit that flows there. It receives the forms carried to it by all the outer senses. The senses are like spies who bring reports from distant regions to the king’s minister.
 
@@ -1200,7 +1201,7 @@ Those who deny the existence of this power offer two arguments. First, someone a
 
 I reply that the first objection does not apply to my view. I do not say that perceived images are physically imprinted in a body. They belong to the soul in another way, not by being physically lodged in it. The second objection also misses the point. The brain is not where the images are imprinted. Nor does the soul need the brain in order to perceive images it has received through the senses, or to perceive absent things once it is prepared to do so. The brain is needed as the place where this power can arise and as the bodily basis that prepares the soul to connect with the source from which images take shape. I firmly deny that these enormous images are imprinted in any part of the brain. We have shown that images of imagination do not exist in this physical world, since they do not have positions in space. Still, another power besides the soul itself must be established, because the one that perceives particulars is different from the one that perceives universals. A particular thing and a universal idea are different in kind, and the perceiver must be of the same kind as what it perceives. So the power that perceives particulars cannot be the one that perceives universals.
 
-#### Chapter 2 — Imagination
+#### II. Imagination
 
 Imagination, also called the formative power,[^V08-388] is the power that preserves images within us. Three arguments are offered to show that it differs from common sense.
 
@@ -1216,7 +1217,7 @@ The same applies here. At first, perceiving a sensible image requires something 
 
 We have already shown that the power that calls back images is not found in material things. Still, it is not essential to our philosophical account to prove that common sense and imagination are different powers. Even if they were one power with a less developed and a more developed side, nothing important would be lost. What matters is to establish that this is an inner, substantial power, distinct from intellect and the outer senses, with a realm of its own beyond the world of intellect and the world of nature and motion. We have already proved that it is not part of the body or its parts. Through it, the states of the grave, its reward and punishment, the intermediate realm, and the resurrection of bodies become real. Its domain is the whole body, its authority is in the rear of the first brain ventricle, and its instrument is the vital spirit located there.
 
-#### Chapter 3 — Imagination, estimation, and memory
+#### III. Imagination, estimation, and memory
 
 The imaginative power is also called the thinking power when the rational soul uses it to arrange thoughts and their premises. It differs from the other powers of perception because acting and arranging are different from perceiving and judging. We can combine images we have sensed or separate them in a way we have never seen outside us—for example, we can imagine an animal with a human head, a horse’s body, and two wings. None of the other powers does this, so it must belong to a different power.
 
@@ -1258,7 +1259,7 @@ There is no real inconsistency in Avicenna’s words, as some have thought. In h
 
 But Avicenna and his followers did not hold that all powers of perception and movement, despite their differences, are one individual reality whose unity gathers all their meanings and identities. Listen closely to what is revealed from the world of mysteries, and guard it from those who are not ready to hear it.
 
-#### Chapter 4 — The soul as the source of all our powers
+#### IV. The soul as the source of all our powers
 
 By this I mean that the one who perceives through all the powers of a human being is the rational soul. It is also what moves the body through the powers found in animals, plants, and nature. This is a profound point, and there are many arguments for it. Some begin from perception, others from movement. I will give three arguments from perception first.
 
@@ -1318,7 +1319,7 @@ The soul gains the ability to call back images that have faded by experiencing t
 
 At the end of this chapter, Avicenna says that these arguments and others show that even nonrational animal souls are immaterial substances. They are the same enduring selves that perceive and experience things, while the body and its powers are tools that change around them. This completes the evidence for our claim.
 
-#### Chapter 5 — Answering the claim that the soul cannot perceive particulars
+#### V. Answering the claim that the soul cannot perceive particulars
 
 There are four general arguments against the idea that the soul perceives particular things. The first is that people know directly that sight happens in the eye and hearing in the ear, and nowhere else. Just as we know that the tongue does not see and the eye does not taste, we know that the tongue tastes and the eye sees. If the soul were the one that perceived everything, these familiar distinctions would be false.
 
@@ -1380,7 +1381,7 @@ The answer is that we have already shown that the power perceiving imagined part
 
 The power that gives an animal the urge to act also relates to bodily desire.[^V08-438] We say that both it and estimation are immaterial powers, though we have not found any philosopher who says that the power that starts animal desire is bodily. The power that carries an action through the nerves and muscles is certainly bodily. It is called ability: a power in the nerves and muscles that moves them by tightening, loosening, pulling, or pushing.[^V08-439] The same is true of natural powers that move simple and complex bodies directly, by natural or forced movement. Forced movement ultimately comes back to natural movement, and movements that come through the soul also need natural powers.[^V08-440]
 
-#### Chapter 6 — Earlier views about the soul, and how Avicenna answers them
+#### VI. Earlier views about the soul, and how Avicenna answers them
 
 I will treat the earlier thinkers’ words as symbols and interpret them as far as I can. Avicenna says that they disagreed because they followed different paths to understanding the soul. Some approached it through movement, some through perception, some used both paths, and others spoke about life without dividing it into parts.[^V08-441]
 
@@ -1474,9 +1475,9 @@ Fifth, Avicenna says that the claim that a thing perceives what resembles itself
 
 I reply that by what is known, I mean the image present to the one who knows it and preserved by that person. The soul is the highest source of the images present in its own powers. It can take in general ideas when it is still only potential intellect; once joined with the active intellect, it creates and preserves them. In his book *The Origin and Return*, Avicenna says that the potential intellect can strip an image of its material features, then create and receive an intelligible form. It also acts on what is sensed and turns it into something intelligible.[^V08-469]
 
-### Book Six — How the reasoning soul exists without depending on matter, and how it begins to exist
+### Book Six: How the reasoning soul exists without depending on matter, and how it begins to exist
 
-#### Chapter 1 — The reasoning soul is not a body and does not have a physical size
+#### I. The reasoning soul is not a body and does not have a physical size
 
 There are several arguments for this. The first begins with our ability to understand general ideas that apply to many different individual things. An idea that applies generally, considered as general, cannot exist inside a body or be imprinted in a bodily part, whether that part is divisible or indivisible.
 
@@ -1710,7 +1711,7 @@ The eleventh argument is this. When a form or quality comes to exist in a body f
 
 One might object that a bodily quality can return without a new cause. Water may lose its natural coldness when heated, then regain that coldness once the heat is gone. I reply that we are speaking of a quality brought about by a cause outside the thing itself. The coldness of water belongs to its nature, provided nothing blocks it. When the coldness returns, it returns with its cause: the nature of water and the absence of anything that prevents it. These ten proofs[^V08-543] give certainty that the human soul is immaterial, whether or not it has reached the level of intellect in reality. The soul that imagines in reality is also free, in its being and action, from the material world. But intellect is independent of both the physical world and the world of images; imagination is independent only of the physical world.
 
-#### Chapter 2 — Scriptural evidence on this subject
+#### II. Scriptural evidence on this subject
 
 Most people gain more from reports and scripture than from philosophical arguments. They believe[^V08-544] something only when their senses seem to confirm it, and they do not accept abstract reasoning unless it can be traced back to something they can sense. So let us give scriptural evidence for this teaching and show that revelation and reason agree here, as they do in other philosophical matters. The true divine law cannot conflict with necessary, certain knowledge. A philosophy whose principles fail to agree with the Qur'an and the Prophet’s teaching is no sound philosophy.
 
@@ -1820,9 +1821,9 @@ Some say that the soul is a subtle presence placed in the body, and that blamewo
 
 These are some of the views of religious scholars and hints from the Sufi masters. They show that a human being has a spiritual substance. Everything we have quoted has a sound meaning, even if some statements seem open to objection at first. Those who understand the secrets of divine law can give them a proper interpretation. These scholars followed the sayings of the Prophet and the Imams. Much of what they say can be found in reports attributed to those who “do not speak from desire; it is only revelation revealed to them, taught by one mighty in power.” If I did not fear making this section too long, I would explain their words and aims in a way that agrees with decisive proofs and sound principles, without doubt or fault. God is the source of mercy and generosity.[^V08-590]
 
-### Book Seven — Aspects of the rational soul in its relation to the natural world
+### Book Seven: Aspects of the rational soul in its relation to the natural world
 
-#### Chapter 1 — How the soul is joined to the body
+#### I. How the soul is joined to the body
 
 Know that things differ in how strongly they depend on other things. The strongest kind of dependence is dependence in meaning and reality, both in the mind and outside it, as a thing’s nature depends on its existence.[^V08-591] The second kind is dependence in being and identity, when one thing’s very self depends on another, as a possible thing depends on the Necessary Being.[^V08-592] The third kind is dependence both in being and in kind, when a thing depends on what it exists in, as a quality such as blackness depends on its subject, the body.[^V08-593]
 
@@ -1850,7 +1851,7 @@ Given what we have explained, it is clear that at the beginning the soul is not 
 
 At its coming to be, the soul is the final stage of material forms and the first stage of perceptive forms. Its existence is the last of the bodily shells and the first of the spiritual cores.
 
-#### Chapter 2 — How human souls come to be
+#### II. How human souls come to be
 
 The previous discussion is enough to show that human souls come to be when bodies do. We have seen that the soul changes, moving from the lowest substantial states to the highest. If it were eternal by its own nature, it would already be complete from the start, with no lack or weakness. If it had no lack in its existence, it would not need organs or powers, some plant-like and some animal.[^V08-602][^V08-603] Also, if it were eternal, the kind would be confined to a single individual. In the creative realm, it could not divide and multiply. Several individuals of one kind arise only among bodies and material things, whose existence involves potentiality, motion, matter, and change. A kind whose existence involved none of these would exist as one individual. But human souls exist in many individuals and still belong to one kind. So these individual souls cannot have existed before their bodies, much less have been eternal.[^V08-604][^V08-605]
 
@@ -1908,7 +1909,7 @@ This argument has several weaknesses. First, the proof against moving from one b
 
 Third, souls may have existed before these bodies in another world, connected to other bodies that are not natural bodies made of the elements or the heavenly spheres. The impossibility of a soul moving from one body to another has been proved only when it means moving between material bodies in this world, as matter becomes ready to receive the soul. As will be shown later, the proof against that kind of movement does not rule out every other mode of existence.[^V08-623][^V08-624]
 
-#### Chapter 3 — A fuller account of the question: examining earlier claims and answering their arguments
+#### III. A fuller account of the question: examining earlier claims and answering their arguments
 
 This question is hard to follow and goes very deep. That is why the philosophers of earlier times disagreed about it. The reason is that the human soul has no single, fixed place in its existence, as other natural things, souls, and intellects do. Each of those has a known place and level. The human soul, by contrast, passes through many different levels. It has earlier and later modes of existence, and takes a different form in each world and at each level. As the saying goes: “My heart can take on every form: it is a pasture for gazelles and a monastery for monks.”[^V08-625] This makes the soul hard to understand.
 
@@ -2036,7 +2037,7 @@ The argument is right to say that if the soul depended on the body, it would per
 
 I answer that after this natural mode of existence, souls have two further modes. One is an animal mode, between intellect and nature, for those who are in between or incomplete. The other is an intellectual mode, for those who are complete and close to God.
 
-#### A clarification
+#### 1. A clarification
 
 The claim that the body is needed only for the soul’s action, not for its existence, confuses two kinds of action: an action that belongs to a thing by its nature, and an action that is external and incidental. It treats the soul as if it already had a complete existence in itself, and only afterward began to act on a body—to govern, move, nourish, and complete it—like a builder or gardener who improves a building or a tree by adding soil or water. That work may complete the thing, and it may also develop the builder or gardener, but it is external to both.
 
@@ -2054,7 +2055,7 @@ Nor can the cause be made of parts. If each part could cause the soul by itself,
 
 I reply that I have already answered these objections when discussing the rule that a simple thing can come from a complex cause. See that discussion if you want the full argument. And none of this proves that the soul, simply as a soul, existed eternally. The soul is not a completely simple reality; neither is anything that exists in time and movement, such as natural forms. God is the source of generosity.
 
-#### Chapter 4 — The soul does not perish when the body perishes
+#### IV. The soul does not perish when the body perishes
 
 The philosophers’ familiar proof that the soul does not perish with the body goes as follows. The soul must come to be when the body comes to be, so the two either exist at the same time or one comes before the other. If they exist at the same time, either they are joined in nature or only in existence. They cannot be joined in nature, since that would mean that the soul and body were two relative things rather than two substances. If they are joined only in existence and neither depends on the other, then when either one ends, the fact that they exist together ends. But that would not cause the other to end. So suppose one depends on the other in order to exist.
 
@@ -2088,7 +2089,7 @@ As for the philosophers’ claim that a cause untouched by change can act only w
 
 Nor does it make sense to say that matter can prepare or provide a condition for the existence of a substance that is separate from matter and needs no matter or material conditions. In general, matter can prepare only for what can become one of its states. There is no sense in saying that something can be prepared for a being whose nature is entirely different from its own. Keep this question in mind, for it will come up again.[^V08-697]
 
-#### Chapter 5 — The soul cannot perish
+#### V. The soul cannot perish
 
 Earlier, we argued that the soul cannot be destroyed when the body is destroyed. Here, we make a stronger claim: the soul cannot perish at all.
 
@@ -2110,7 +2111,7 @@ The remaining question is how the soul's separate existence can begin if a separ
 
 The argument that the body holds the possibility of the soul's coming into being, but not the possibility of its perishing, also trades on two meanings of “receiver.” Sometimes this means something ready to receive a form; sometimes it means something that is acted on or completed by a form. The body that holds the possibility of the soul's coming into being is not the living body, but something earlier, such as the seed from which the body's parts develop. That earlier thing does not remain when the soul-form comes into being. The body that remains with the soul receives it in another sense: the soul completes the body, as the form completes the material part of a living thing. The body may also be what receives the possibility of the soul's perishing; but the thing that can receive that perishing is something else, something that remains when the soul is gone. For both coming into being and perishing, we must distinguish what a thing comes from and what it exists in. If we ignore the difference, we confuse the two cases.[^V08-703][^V08-704]
 
-#### Chapter 6 — An Eastern account of the soul's return
+#### VI. An Eastern account of the soul's return
 
 The distinguished scholar Nasir al-Din Muhammad al-Tusi once wrote to one of his learned contemporaries, Shams al-Din al-Khusrawshahi, and asked him to explain several difficult questions. His correspondent did not answer. One of the unanswered questions concerned whether the soul survives after the body dies. Al-Tusi put it this way:
 
@@ -2140,7 +2141,7 @@ The philosophers who study divine things say that every natural kind has a built
 
 In short, we can fully understand this only if we understand how the soul joins the Active Intellect and how all things return to the Highest Source. The stages of being follow one another and differ in strength, yet remain connected. The end of one level is the beginning of the next. The last step of existence tied to the body is the first step of existence separate from matter. The world that is wholly separate from matter contains no coming into being, change, or new states. The soul's entry into that world does not change it, just as the soul's coming from it did not change it. The soul enters that world in the same way it came from it, without any change taking place in that world. Think carefully about this and the meaning will become clear.
 
-#### Chapter 7 — The rational soul comes from an intellect separate from matter
+#### VII. The rational soul comes from an intellect separate from matter
 
 We have already shown that the cause of souls cannot be a body simply because it is a body. If it could, every body would be a cause of souls. Nor can the cause be a power that depends on a body. Such a power either needs the body in order to exist, or it exists without depending on the body but needs the body only to act. Both possibilities are impossible. So such a power cannot cause the soul to exist.
 

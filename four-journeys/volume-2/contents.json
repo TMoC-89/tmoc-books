@@ -1,0 +1,988 @@
+{
+  "version": 1,
+  "initiallyCollapsed": true,
+  "languages": {
+    "en": {
+      "sourceHash": "039a9d0d7ab62aad1d8766a0874db05ae2ba40b9450a6756757407e91dd01122",
+      "entries": [
+        {
+          "id": "passage-en-00004",
+          "level": 1,
+          "kind": "opening",
+          "label": "Opening pages"
+        },
+        {
+          "id": "passage-en-00072",
+          "level": 1,
+          "kind": "division",
+          "label": "Stage Four: Essence",
+          "expanded": false
+        },
+        {
+          "id": "passage-en-00073",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. What is essence?"
+        },
+        {
+          "id": "passage-en-00080",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. Universals and particulars"
+        },
+        {
+          "id": "passage-en-00094",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Objection and reply"
+        },
+        {
+          "id": "passage-en-00098",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. Kinds of distinction"
+        },
+        {
+          "id": "passage-en-00103",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. How a general kind differs from matter, and a specific kind from its subject"
+        },
+        {
+          "id": "passage-en-00129",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. How to identify a kind’s distinguishing feature, how it differs from a mere mark, and how it joins the general kind"
+        },
+        {
+          "id": "passage-en-00131",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Further discussion and clarification"
+        },
+        {
+          "id": "passage-en-00140",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VI. How the distinguishing feature completes the general kind"
+        },
+        {
+          "id": "passage-en-00144",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VII. How form joins with matter"
+        },
+        {
+          "id": "passage-en-00153",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VIII. How the general kind is taken from matter and the distinguishing feature from form"
+        },
+        {
+          "id": "passage-en-00168",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IX. Platonic Forms and Ideas"
+        },
+        {
+          "id": "passage-en-00204",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A note"
+        },
+        {
+          "id": "passage-en-00238",
+          "level": 3,
+          "kind": "section",
+          "label": "2. A Difficulty and Its Answer"
+        },
+        {
+          "id": "passage-en-00258",
+          "level": 3,
+          "kind": "section",
+          "label": "3. An Awakening for the Mind"
+        },
+        {
+          "id": "passage-en-00267",
+          "level": 3,
+          "kind": "section",
+          "label": "4. A Merciful Illumination"
+        },
+        {
+          "id": "passage-en-00272",
+          "level": 1,
+          "kind": "division",
+          "label": "Stage Five: Unity and Multiplicity"
+        },
+        {
+          "id": "passage-en-00273",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. One and Many"
+        },
+        {
+          "id": "passage-en-00294",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. Sameness and Its Opposite"
+        },
+        {
+          "id": "passage-en-00296",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A Note to Clarify the Point"
+        },
+        {
+          "id": "passage-en-00305",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. Why Two Things Cannot Become One"
+        },
+        {
+          "id": "passage-en-00309",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. Some Rules About Unity and Multiplicity"
+        },
+        {
+          "id": "passage-en-00314",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. Opposition"
+        },
+        {
+          "id": "passage-en-00325",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VI. The Kinds of Opposition and the Rules for Each"
+        },
+        {
+          "id": "passage-en-00336",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Continued"
+        },
+        {
+          "id": "passage-en-00349",
+          "level": 3,
+          "kind": "section",
+          "label": "2. Summary"
+        },
+        {
+          "id": "passage-en-00353",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VII. The Opposition Between One and Many"
+        },
+        {
+          "id": "passage-en-00363",
+          "level": 1,
+          "kind": "division",
+          "label": "Stage Six: Cause and Effect"
+        },
+        {
+          "id": "passage-en-00365",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. What a Cause Is and How Causes Are Divided"
+        },
+        {
+          "id": "passage-en-00374",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. Why Cause and Effect Must Be Present Together"
+        },
+        {
+          "id": "passage-en-00394",
+          "level": 3,
+          "kind": "section",
+          "label": "1. An Objection and Its Answer"
+        },
+        {
+          "id": "passage-en-00402",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. Can Something That Accompanies a Cause Come Before Its Effect?"
+        },
+        {
+          "id": "passage-en-00412",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. Why Causes and Effects Cannot Form a Circle or Stretch Back Forever"
+        },
+        {
+          "id": "passage-en-00462",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Critique and Clarification"
+        },
+        {
+          "id": "passage-en-00488",
+          "level": 3,
+          "kind": "section",
+          "label": "2. Clarification"
+        },
+        {
+          "id": "passage-en-00493",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. Why the Chain of Causes Must Have an End"
+        },
+        {
+          "id": "passage-en-00501",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Guidance"
+        },
+        {
+          "id": "passage-en-00505",
+          "level": 3,
+          "kind": "section",
+          "label": "2. Objection and Answer"
+        },
+        {
+          "id": "passage-en-00513",
+          "level": 3,
+          "kind": "section",
+          "label": "3. Eastern Wisdom"
+        },
+        {
+          "id": "passage-en-00517",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VI. Can Something Simple Both Receive and Act?"
+        },
+        {
+          "id": "passage-en-00534",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VII. How Thoughts Can Help Bring Things into Being"
+        },
+        {
+          "id": "passage-en-00542",
+          "level": 3,
+          "kind": "section",
+          "label": "1. An Objection and Its Answer"
+        },
+        {
+          "id": "passage-en-00548",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VIII. Is a Cause Stronger than Its Effect?"
+        },
+        {
+          "id": "passage-en-00558",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IX. When Can a Complete Cause Exist Alongside Its Effect?"
+        },
+        {
+          "id": "passage-en-00561",
+          "level": 2,
+          "kind": "chapter",
+          "label": "X. Six Distinctions Shared by the Four Kinds of Cause"
+        },
+        {
+          "id": "passage-en-00571",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XI. Can a Simple Thing Have a Cause Made of Parts?"
+        },
+        {
+          "id": "passage-en-00594",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XII. Untitled chapter"
+        },
+        {
+          "id": "passage-en-00601",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIII. Why a Completely Simple Cause Cannot Produce Two Effects That Arise Together"
+        },
+        {
+          "id": "passage-en-00616",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIV. Can One Effect Depend on Several Causes?"
+        },
+        {
+          "id": "passage-en-00625",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XV. Some Principles about the Active Cause"
+        },
+        {
+          "id": "passage-en-00660",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XVI. Why a Complete Cause Cannot Be Separated from Its Effect"
+        },
+        {
+          "id": "passage-en-00671",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XVII. The Basic Material of Things and Its Kinds"
+        },
+        {
+          "id": "passage-en-00678",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XVIII. Names for the Basic Material"
+        },
+        {
+          "id": "passage-en-00683",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIX. Why Matter Longs for Form"
+        },
+        {
+          "id": "passage-en-00723",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XX. Form as a Cause, and How Nature Differs from Form"
+        },
+        {
+          "id": "passage-en-00737",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXI. What a Goal Is and What People Have Said About It"
+        },
+        {
+          "id": "passage-en-00739",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXII. A Closer Look at Goals, Chance, and Aimless Action"
+        },
+        {
+          "id": "passage-en-00741",
+          "level": 3,
+          "kind": "section",
+          "label": "1. How Even Aimless Action Has a Goal"
+        },
+        {
+          "id": "passage-en-00748",
+          "level": 3,
+          "kind": "section",
+          "label": "2. Chance"
+        },
+        {
+          "id": "passage-en-00773",
+          "level": 3,
+          "kind": "section",
+          "label": "3. The Goals of Chosen Actions"
+        },
+        {
+          "id": "passage-en-00789",
+          "level": 4,
+          "kind": "section",
+          "label": "1. An objection and a reminder"
+        },
+        {
+          "id": "passage-en-00794",
+          "level": 3,
+          "kind": "section",
+          "label": "4. The Purpose of Beings That Follow One Another Without End"
+        },
+        {
+          "id": "passage-en-00801",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXIII. The Difference Between a Goal and a Good"
+        },
+        {
+          "id": "passage-en-00807",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXIV. The Difference Between Good and Generosity"
+        },
+        {
+          "id": "passage-en-00841",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Questions and Clarifications"
+        },
+        {
+          "id": "passage-en-00862",
+          "level": 3,
+          "kind": "section",
+          "label": "2. Addendum"
+        },
+        {
+          "id": "passage-en-00866",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXV. More on Cause and Effect"
+        },
+        {
+          "id": "passage-en-00892",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXVI. The Highest Goal of the Earlier Discussions"
+        },
+        {
+          "id": "passage-en-00899",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A Problem and Its Solution"
+        },
+        {
+          "id": "passage-en-00906",
+          "level": 3,
+          "kind": "section",
+          "label": "2. A Note"
+        },
+        {
+          "id": "passage-en-00928",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXVII. Why Possible Beings Are Truly Many"
+        },
+        {
+          "id": "passage-en-00943",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXVIII. How Existence Flows Through Particular Beings"
+        },
+        {
+          "id": "passage-en-00958",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXIX. What First Flows from True Existence"
+        },
+        {
+          "id": "passage-en-00964",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A Note on Upholding God's Transcendence"
+        },
+        {
+          "id": "passage-en-00983",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXX. Why Possible Things Have No Existence in Themselves"
+        },
+        {
+          "id": "passage-en-01007",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXI. Why Evil Does Not Belong to Existence Itself"
+        },
+        {
+          "id": "passage-en-01020",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXII. How Evil and Suffering Can Arise Without Undermining the Goodness of Existence"
+        },
+        {
+          "id": "passage-en-01036",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXIII. How Possible Beings Reflect the Presence of God"
+        },
+        {
+          "id": "passage-en-01067",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXIV. Another Proof That the Necessary Being Is One"
+        },
+        {
+          "id": "passage-en-01076",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXV. Why possibility and potential are not direct causes of existence"
+        },
+        {
+          "id": "passage-en-01091",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXVI. Why powers in bodies need a spatial relation to act"
+        },
+        {
+          "id": "passage-en-01102",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXVII. Why existence alone can act as a cause or be caused"
+        },
+        {
+          "id": "passage-en-01113",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXVIII. Why an effect need not be preceded by nonexistence"
+        },
+        {
+          "id": "passage-en-01134",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXIX. Why every event in time depends on an unbroken circular motion"
+        },
+        {
+          "id": "en-notes-head",
+          "level": 1,
+          "kind": "notes"
+        }
+      ]
+    },
+    "ar": {
+      "sourceHash": "709383c4112d4f6caadbcda861224be75d19448345646dd080b7a1a87c0f1f41",
+      "entries": [
+        {
+          "id": "passage-ar-00005",
+          "level": 1,
+          "kind": "opening",
+          "label": "الصفحات الافتتاحية"
+        },
+        {
+          "id": "passage-ar-00073",
+          "level": 1,
+          "kind": "division",
+          "label": "المرحلة الرابعة: في الماهية ولواحقها",
+          "expanded": false
+        },
+        {
+          "id": "passage-ar-00074",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في الماهية"
+        },
+        {
+          "id": "passage-ar-00080",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في الكلى والجزئي"
+        },
+        {
+          "id": "passage-ar-00089",
+          "level": 3,
+          "kind": "section",
+          "label": "١. بحث وتعقيب"
+        },
+        {
+          "id": "passage-ar-00092",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في انحاء التعين"
+        },
+        {
+          "id": "passage-ar-00095",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في الفرق بين الجنس والمادة وبين النوع والموضوع"
+        },
+        {
+          "id": "passage-ar-00105",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في معرفه الفصل وفي الفرق بين الفصل وما ليس بفصل وفي كيفية اتحاده مع الجنس"
+        },
+        {
+          "id": "passage-ar-00107",
+          "level": 3,
+          "kind": "section",
+          "label": "١. بحث وتحصيل"
+        },
+        {
+          "id": "passage-ar-00113",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٦. في كيفية تقوم الجنس بالفصل"
+        },
+        {
+          "id": "passage-ar-00118",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٧. في تحقيق اقتران الصورة بالمادة"
+        },
+        {
+          "id": "passage-ar-00126",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٨. في كيفية اخذ الجنس من المادة والفصل من الصورة"
+        },
+        {
+          "id": "passage-ar-00135",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٩. في تحقيق الصور والمثل الإفلاطونية"
+        },
+        {
+          "id": "passage-ar-00151",
+          "level": 3,
+          "kind": "section",
+          "label": "١. تنبيه"
+        },
+        {
+          "id": "passage-ar-00167",
+          "level": 3,
+          "kind": "section",
+          "label": "٢. عقده وفك"
+        },
+        {
+          "id": "passage-ar-00181",
+          "level": 1,
+          "kind": "division",
+          "label": "المرحلة الخامسة: في الوحدة والكثرة ولواحقهما"
+        },
+        {
+          "id": "passage-ar-00182",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في الواحد والكثير"
+        },
+        {
+          "id": "passage-ar-00200",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في الهوهو وما يقابلها"
+        },
+        {
+          "id": "passage-ar-00202",
+          "level": 3,
+          "kind": "section",
+          "label": "١. تنبيه تحصيلي"
+        },
+        {
+          "id": "passage-ar-00208",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في أن اتحاد الاثنين ممتنع"
+        },
+        {
+          "id": "passage-ar-00211",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في بعض احكام الوحدة والكثرة"
+        },
+        {
+          "id": "passage-ar-00216",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في التقابل"
+        },
+        {
+          "id": "passage-ar-00226",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٦. في بيان أصناف التقابل واحكام كل منها"
+        },
+        {
+          "id": "passage-ar-00245",
+          "level": 3,
+          "kind": "section",
+          "label": "١. مخلص"
+        },
+        {
+          "id": "passage-ar-00248",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٧. في التقابل بين الواحد والكثير"
+        },
+        {
+          "id": "passage-ar-00255",
+          "level": 3,
+          "kind": "section",
+          "label": "١. بحث وتقويم"
+        },
+        {
+          "id": "passage-ar-00257",
+          "level": 1,
+          "kind": "division",
+          "label": "المرحلة السادسة: في العلة والمعلول"
+        },
+        {
+          "id": "passage-ar-00258",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في تفسير العلة وتقسيمها"
+        },
+        {
+          "id": "passage-ar-00265",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في وجوب وجود العلة عند وجود معلولها وفي وجوب وجود المعلول عند وجود علته"
+        },
+        {
+          "id": "passage-ar-00276",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في أن ما مع العلة هل يكون متقدما على المعلول"
+        },
+        {
+          "id": "passage-ar-00282",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في ابطال الدور والتسليل في العلل والمعلولات"
+        },
+        {
+          "id": "passage-ar-00325",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في الدلالة على تناهى العلل كلها"
+        },
+        {
+          "id": "passage-ar-00338",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٦. في أن البسيط هل يجوز ان يكون قابلا وفاعلا"
+        },
+        {
+          "id": "passage-ar-00349",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٧. في أن التصورات قد يكون مبادي لحدوث الأشياء"
+        },
+        {
+          "id": "passage-ar-00354",
+          "level": 3,
+          "kind": "section",
+          "label": "١. عقده وحل"
+        },
+        {
+          "id": "passage-ar-00357",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٨. في أن العلة هل هي أقوى من معلولها"
+        },
+        {
+          "id": "passage-ar-00363",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٩. في أنه كيف يصح قولهم بان العلة التامة للشئ المركب يكون معه"
+        },
+        {
+          "id": "passage-ar-00366",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٠. في احكام مشتركه بين العلل الأربع"
+        },
+        {
+          "id": "passage-ar-00373",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١١. في أنه هل يجوز ان يكون للشئ البسيط عله مركبه من اجزاء"
+        },
+        {
+          "id": "passage-ar-00385",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٢. فصل بلا عنوان"
+        },
+        {
+          "id": "passage-ar-00389",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٣. في أن البسيط الذي لا تركيب فيه أصلا لا يكون عله لشيئين بينهما معيه بالطبع"
+        },
+        {
+          "id": "passage-ar-00397",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٤. في أن المعلول الواحد هل يستند إلى علل كثيره"
+        },
+        {
+          "id": "passage-ar-00400",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٥. في احكام العلة الفاعلة"
+        },
+        {
+          "id": "passage-ar-00417",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٦. في أن المعلول من لوازم ذات الفاعل التام بحيث لا يتصور بينهما الانفكاك"
+        },
+        {
+          "id": "passage-ar-00422",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٧. في العلة العنصرية وأقسامها"
+        },
+        {
+          "id": "passage-ar-00425",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٨. في ألقاب العلة العنصرية"
+        },
+        {
+          "id": "passage-ar-00428",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٩. في حال شوق الهيولى إلى الصورة"
+        },
+        {
+          "id": "passage-ar-00449",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٠. في العلة الصورية والفرق بين الطبيعة والصورة"
+        },
+        {
+          "id": "passage-ar-00455",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢١. في الغاية وما قيل فيها"
+        },
+        {
+          "id": "passage-ar-00457",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٢. في تفصيل القول في الغاية والاتفاق والعبث والجزاف"
+        },
+        {
+          "id": "passage-ar-00459",
+          "level": 3,
+          "kind": "section",
+          "label": "١. في العبث واثبات غاية ما له"
+        },
+        {
+          "id": "passage-ar-00465",
+          "level": 3,
+          "kind": "section",
+          "label": "٢. في الاتفاق"
+        },
+        {
+          "id": "passage-ar-00478",
+          "level": 3,
+          "kind": "section",
+          "label": "٣. في غاياه الأفعال الاختيارية"
+        },
+        {
+          "id": "passage-ar-00486",
+          "level": 3,
+          "kind": "section",
+          "label": "٤. في غاية الكائنات المتعاقبة لا إلى نهاية"
+        },
+        {
+          "id": "passage-ar-00491",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٣. في الفرق بين الغاية والخير"
+        },
+        {
+          "id": "passage-ar-00495",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٤. في الفرق بين الخير والجود"
+        },
+        {
+          "id": "passage-ar-00517",
+          "level": 3,
+          "kind": "section",
+          "label": "١. تذنيب"
+        },
+        {
+          "id": "passage-ar-00520",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٥. في تتمه الكلام في العلة والمعلول واظهار شئ من الخبايا في هذا المقام"
+        },
+        {
+          "id": "passage-ar-00538",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٦. في الكشف عما هو البغيه القصوى والغاية العظمى من المباحث الماضية"
+        },
+        {
+          "id": "passage-ar-00543",
+          "level": 3,
+          "kind": "section",
+          "label": "١. عقده وفك"
+        },
+        {
+          "id": "passage-ar-00550",
+          "level": 3,
+          "kind": "section",
+          "label": "٢. تنبيه"
+        },
+        {
+          "id": "passage-ar-00564",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٧. في اثبات التكثر في الحقائق الامكانية"
+        },
+        {
+          "id": "passage-ar-00576",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٨. في كيفية سريان حقيقة الوجود في الموجودات المتعينة والحقائق الخاصة"
+        },
+        {
+          "id": "passage-ar-00583",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٩. في أول ما ينشأ من الوجود الحق"
+        },
+        {
+          "id": "passage-ar-00587",
+          "level": 3,
+          "kind": "section",
+          "label": "١. تنبيه تقديسى"
+        },
+        {
+          "id": "passage-ar-00595",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٠. في التنصيص على عدميه الممكنات بحسب أعيان ماهياتها"
+        },
+        {
+          "id": "passage-ar-00604",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣١. في الإشارة إلى نفى جهات الشرور عن الوجود الحقيقي"
+        },
+        {
+          "id": "passage-ar-00611",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٢. فيه يستأنف الكلام من سبيل آخر في كيفية لحوق الشرور والآفات لطبيعة الوجود على وجه لا ينافي خيريتها الذاتية"
+        },
+        {
+          "id": "passage-ar-00619",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٣. في كيفية كون الممكنات مرايا لظهور الحق فيها ومجالى لتجلى الاله عليها"
+        },
+        {
+          "id": "passage-ar-00635",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٤. في ذكر نمط آخر من البرهان على أن واجب الوجود فردانى"
+        },
+        {
+          "id": "passage-ar-00640",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٥. في أن الامكان وإن كان متقدما على الوجود كما مر وكذا القوة وان كانت متقدمه على الفعل بالزمان فشئ منهما ليس من الأسباب الذاتية للوجود"
+        },
+        {
+          "id": "passage-ar-00647",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٦. في أن القوى الجسمانية لا تفعل ما تفعل الا بمشاركه الوضع"
+        },
+        {
+          "id": "passage-ar-00651",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٧. في أن الوجود وحده يصلح للعلية والمعلولية"
+        },
+        {
+          "id": "passage-ar-00659",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٨. في أنه لا يشترط في الفعل تقدم العدم عليه"
+        },
+        {
+          "id": "passage-ar-00672",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٩. في أن حدوث كل حادث زماني يفتقر إلى حركه دورية غير منقطعه"
+        },
+        {
+          "id": "ar-notes-head",
+          "level": 1,
+          "kind": "notes"
+        }
+      ]
+    }
+  }
+}

@@ -5,70 +5,71 @@
 **Mulla Sadra (Ṣadr al-Dīn Muḥammad al-Shīrāzī)**
 
 ## Contents
-- Author's preface
-- Part One — General Matters: Divine Science in Its Broader Sense
+
+- Author’s preface
+- Part One: General Matters: Divine Science in Its Broader Sense
 - The First Journey: From the World to God
-  - The First Path — Knowledge needed in every field of study, with an introduction and six stages
-    - Introduction — What philosophy is, its branches, its purpose, and its value
-    - Stage One — Existence and its first divisions
-      - First Inquiry — The nature of existence
-        - Chapter — Why existence is the subject of divine science and the first thing the mind grasps
-        - Chapter — Existence has one shared meaning, but applies to things by degrees
-        - Chapter — The general idea of existence is formed by the mind, not part of a thing’s essence
-        - Chapter — Existence is real outside the mind
-        - Chapter — What makes each particular existence distinct?
-        - Chapter — Every existence is simple, and existence itself is not a general kind
-        - Chapter — Existence itself has no cause
-        - Chapter — Existence and being a thing
-        - Chapter — Relational existence
-      - Method Two — The roots of necessity and possibility, and the parts of a statement
-        - Chapter — Defining necessity, possibility, impossibility, truth, and falsehood
-        - Chapter — Necessary existence cannot depend on another; no necessary link joins two necessary beings
-        - Chapter — The Necessary Being has no essence apart from His existence
-        - Chapter — The Necessary Being is necessary in every respect
-        - Chapter — The Necessary Being is one, not merely a kind confined to a single individual
-        - Chapter — Revisiting necessity, possibility, and impossibility, and answering objections about them
-        - Chapter — Different meanings of “possible”
-        - Chapter — Another way to understand the concepts that qualify statements
-        - Chapter — Why possibility cannot come from something else
-        - Chapter — How something possible in itself can entail something impossible in itself
-        - Chapter — Why a thing cannot favor existence or nonexistence without becoming necessary
-        - Chapter — Why a thing needs a cause: possibility in its essence and limitation in its existence
-        - Chapter — How a possible thing’s nonexistence depends on a cause
-        - Chapter — A possible thing exists only when something else makes its existence necessary
-        - Chapter — The two necessities and two impossibilities surrounding every possible thing
-        - Chapter — Why some things have two kinds of possibility and others have only one
-        - Chapter — Some rules about what is impossible in itself
-        - Chapter — How the impossible or nonexistent can be known
-        - Chapter — How one impossible thing can entail another
-        - Chapter — How the existence of a possible thing differs from its essence in thought
-        - Chapter — How existence and essence are united in a possible thing outside the mind
-      - Method Three — Another realm of existence beyond the one we witness, and related questions
-        - Chapter — Proving mental existence and its shadow-like appearance
-        - Chapter — Presenting several proofs for mental existence
-        - Chapter — Objections to mental existence and replies to them
-        - Chapter 4 — Further clarification and refinement
-        - Chapter — A Throne-inspired solution to this problem
-    - Stage Two — Further rules about existence and related questions about nonexistence
-      - Chapter — What linking existence means
-      - Chapter — When existence is called a second-order concept, and what that means
-      - Chapter — Existence is pure good
-      - Chapter — Existence has no opposite or equal
-      - Chapter — Nonexistence is one concept
-      - Chapter — How the absence of a cause and the absence of its effect relate to each other
-      - Chapter — How nonexistence applies to itself
-      - Chapter — A nonexistent thing cannot be restored
-      - Chapter — Why nonexistence is not a relation
-      - Chapter — Why a negative statement still needs its two terms
-      - Chapter — Can God have a particular kind of nonexistence?
-      - Chapter — What depends on something impossible in itself need not itself be impossible
-      - Chapter — Can human beings know what things truly are?
-      - Chapter — Different kinds of possibility
-    - Stage Three — What it means to bring things into existence
-      - Chapter — Where the debate lies about making things, and the different views
-      - Chapter — Refuting the arguments that a cause makes a nature existent
-      - Chapter — Can existence grow stronger or weaker?
-      - Chapter — Degrees of intensity and weakness
+  - The knowledge needed in every field of study: an introduction and six stages
+    - Introduction: What philosophy is, how it is divided, and why it matters
+    - Stage One: Existence and its first divisions
+      - Method One: The nature of existence
+        - I. Why existence is the subject of the highest branch of philosophy, and why the mind grasps it first
+        - II. How the idea of existence applies to many things, but not in exactly the same way
+        - III. The general idea of existence in the mind is not part of each thing's makeup
+        - IV. Existence has a reality outside the mind
+        - V. What makes each existence distinct?
+        - VI. Existences are simple realities; existence itself is not a general kind
+        - VII. Existence itself has no cause in any sense
+        - VIII. Existence and being a thing
+        - IX. Relational existence
+      - Method Two: The roots of necessity and possibility, and the parts of a statement
+        - I. Defining necessity, possibility, impossibility, truth, and falsehood
+        - II. Necessary existence cannot depend on another; no necessary link joins two necessary beings
+        - III. The Necessary Being has no essence apart from His existence
+        - IV. The Necessary Being is necessary in every respect
+        - V. The Necessary Being is one, not merely a kind confined to a single individual
+        - VI. Revisiting necessity, possibility, and impossibility, and answering objections about them
+        - VII. Different meanings of “possible”
+        - VIII. Another way to understand the concepts that qualify statements
+        - IX. Why possibility cannot come from something else
+        - X. How a possible thing can entail something impossible in itself
+        - XI. Refuting the idea that an essence naturally favors existence or nonexistence
+        - XII. What makes a thing need a cause: possibility in its essence and limitation in its existence
+        - XIII. How a possible thing’s nonexistence needs a cause
+        - XIV. A possible thing exists only if its cause makes it necessary
+        - XV. The two kinds of necessity and impossibility
+        - XVI. Why some possible things have one kind of possibility and others have two
+        - XVII. Some rules about what is impossible in itself
+        - XVIII. How can we know what is impossible or nonexistent?
+        - XIX. How one impossible thing can entail another
+        - XX. In what sense existence is added to a possible thing’s essence
+        - XXI. How a possible thing’s existence is one with its essence outside the mind, and joined to it in a certain way
+      - Method Three: Another realm of existence beyond the one we witness, and related questions
+        - I. Proving mental existence and its shadow-like appearance
+        - II. Presenting several proofs for mental existence
+        - III. Objections to mental existence and replies to them
+        - IV. Further clarification and refinement
+        - V. A solution drawn from higher knowledge
+    - Stage Two: Further rules about existence and related questions about nonexistence
+      - I. What linking existence means
+      - II. When existence is called a second-order concept, and what that means
+      - III. Existence is pure good
+      - IV. Existence has no opposite or equal
+      - V. Nonexistence is one concept
+      - VI. How the absence of a cause and the absence of its effect relate to each other
+      - VII. How nonexistence applies to itself
+      - VIII. A nonexistent thing cannot be restored
+      - IX. Why nonexistence is not a relation
+      - X. Why a negative statement still needs its two terms
+      - XI. Can God have a particular kind of nonexistence?
+      - XII. What depends on something impossible in itself need not itself be impossible
+      - XIII. Can human beings know what things truly are?
+      - XIV. Different kinds of possibility
+    - Stage Three: What it means to bring things into existence
+      - I. Where the debate lies about making things, and the different views
+      - II. Refuting the arguments that a cause makes a nature existent
+      - III. Can existence grow stronger or weaker?
+      - IV. Degrees of intensity and weakness
 
 ### Author’s preface
 
@@ -231,13 +232,13 @@ What the author says here does not fully match what this knower says, since the 
 
 When the author says “the mystics and saints,” remember that they do not all pass through the same stages. The stages of the mystics who travel are like the self, the heart, the spirit, and the other subtle realities. The stages of the saints are the stages of traveling in God: taking on His qualities one by one, not just learning about them. This means having real knowledge of things, real power to act in the world, speaking truth from God, and perceiving sounds, sights, and smells that others do not perceive. The saints rise from the oneness that includes God's names to the complete disappearance of the separate self in absolute oneness, then travel from God back to creation. These are the stages suited to the saints.
 
-### Part One — General Matters: Divine Science in Its Broader Sense
+### Part One: General Matters: Divine Science in Its Broader Sense
 
 ### The First Journey: From the World to God
 
 *The nature of existence and its basic features*
 
-### The knowledge needed in every field of study — an introduction and six stages
+### The knowledge needed in every field of study: an introduction and six stages
 
 #### Introduction: What philosophy is, how it is divided, and why it matters
 
@@ -259,11 +260,11 @@ For this reason, God calls Himself Wise in many passages of His glorious Book, a
 
 Nothing that exists is nobler than God and His messengers, who guide people along the clearest path. God calls both wise. That alone shows the dignity and glory of wisdom. We should follow its paths and seek its depths as well as its heights. Let us offer a few of its gifts and a taste of what it contains. Let us set out its foundations and rules, give its arguments and proofs as fully as we can, and gather the insights that reach us, scattered, from the Highest Source. The keys to clear understanding are in God's hand; He gives them to whomever He wills.
 
-### Stage One — Existence and its first divisions
+### Stage One: Existence and its first divisions
 
-#### First inquiry — The nature of existence
+#### Method One: The nature of existence
 
-#### Why existence is the subject of the highest branch of philosophy, and why the mind grasps it first
+#### I. Why existence is the subject of the highest branch of philosophy, and why the mind grasps it first
 
 Know that we describe a thing as one or many; as general, shared by many things, or particular to one; as already realized or only possible; as equal to, smaller than, or greater than something else; as moving or still; as hot or cold; and in other ways too.
 
@@ -317,7 +318,7 @@ First, we may consider them in relation to matter in some way, and study them fr
 
 Second, a science may study not these things in general but particular kinds that exist only when matter is ready for them and undergoes movement and change. Those kinds belong in a narrower science. If their features are mentioned in general here, they serve as starting points for inquiry, not as questions this science itself investigates.
 
-#### How the idea of existence applies to many things, but not in exactly the same way
+#### II. How the idea of existence applies to many things, but not in exactly the same way
 
 It is almost self-evident that different things share the idea of existence. Reason finds something in common between one existing thing and another, but not between what exists and what does not. If existing things shared no idea at all, but differed from one another in every respect, then any two of them would be as unrelated as existence and nonexistence.
 
@@ -337,7 +338,7 @@ In the second way, one thing is earlier in one respect because of another respec
 
 So priority and posteriority, completeness and lack, strength and weakness belong to existences through what they are. In things and essences, they arise through their existence, not from the essence by itself. We will explain this further when we discuss the different degrees of existence.
 
-#### The general idea of existence in the mind is not part of each thing's makeup
+#### III. The general idea of existence in the mind is not part of each thing's makeup
 
 At this point, it should be clear[^V01-67] that the idea of existence is general and applies to things with differences in degree, not with perfect sameness.
 
@@ -345,13 +346,13 @@ Any reality that can be pictured in the mind keeps its essence even when the way
 
 If existence were a broader kind of all the things to which it applies, then the One who must exist would be separated from other things by a further feature. Its very nature would then be made up of a general kind and a distinguishing feature, which is impossible, as we will explain later. Some have also argued that anything which applies to things by degrees must be incidental to them. Since existence has been shown to apply to its instances in this way, they say, it must be incidental too. But this argument does not hold for a number of early Shia thinkers, as will become clear.
 
-#### Existence has a reality outside the mind
+#### IV. Existence has a reality outside the mind
 
 Since what makes each thing truly what it is is its particular existence,[^V01-68] existence has a stronger claim to reality than that thing—or anything else. Whiteness, for example, is more truly white than the thing that receives whiteness. Existence exists through itself; everything other than existence exists through the existence that belongs to it. Strictly speaking, existence itself is what exists, just as a relation is the relation itself, not the substance, quantity, or quality that has a relation to something else. A father, something equal, and something similar are examples of things described through relations.
 
 As Bahmanyar says in *Al-Taḥṣīl*: “In short, the nature of existence is to be present in reality, and nothing else. How could something not be real when being real is its very nature?”
 
-#### Discussion — Is existence real?
+#### 1. Discussion: Is existence real?
 
 The philosopher of illumination Suhrawardi argued against the reality of existence as follows: If existence were present in the outside world, then existence itself would be an existent thing, because to be present is to exist. And if everything that exists needs an existence, then existence would need another existence, and that one another, without end.[^V01-69]
 
@@ -377,7 +378,7 @@ Consider this further. If existence had no real instances beyond the different w
 
 Someone may object: If existence had real instances in essences beyond mere conceptual shares, then the existence of an essence would depend on that essence already existing. Anything affirmed of another requires that other to exist first. So the essence would have to exist before it existed. But this objection does not depend on existence having real instances of its own. It applies whenever we say that an essence exists, even if existence were only a concept shared among things. The answer is that existence is the very reality of an essence, not something added to it after the essence already exists. Many thinkers missed this subtle point. Some make an exception to the rule that a feature depends on its subject; others replace that dependence with a relation of implication; still others deny that existence is attributed to an essence either in the mind or outside it. Instead, they say the essence simply coincides with the idea of “existent,” a simple idea like other derived words, called *hast*—“is” or “exists”—in Persian. On this account, the expression has no underlying source, either in the mind or in the outside world.[^V01-78]
 
-#### What makes each existence distinct?
+#### V. What makes each existence distinct?
 
 We should understand[^V01-80] that each existence is made distinct either by its own reality,[^V01-79] by its degree of priority or posteriority, strength or weakness, or by the subject to which it belongs.[^V01-81]
 
@@ -407,7 +408,7 @@ I once firmly held that existence was only an idea and that essences alone were 
 
 In short, it should now be clear that the general idea of existence is a mental abstraction, while its individual instances and the realities on which that idea rests exist outside the mind. The same is true of the idea of “thing” in relation to the particular things it describes. The idea of existence stands to particular existences as the idea of a “thing” stands to particular things. Yet these particular existences have no names of their own. That is true whether they differ in their underlying reality or only in how complete they are. We describe them as “the existence of this,” “the existence of that,” or “existence without a cause.” From them, the general, self-evident idea of existence follows in the mind.[^V01-84] Essences, by contrast, have names and features that we can know.
 
-#### Existences are simple realities; existence itself is not a general kind
+#### VI. Existences are simple realities; existence itself is not a general kind
 
 A reality that is existence cannot be built from a general kind and a feature that sets it apart. Here is why. Logic tells us that a general kind needs no distinguishing feature simply to be what it is. It needs such a feature to become an actual, particular thing. In that sense, the distinguishing feature brings the general kind into actuality.
 
@@ -421,7 +422,7 @@ Nor is existence a universal concept in any of the other ways that universal ide
 
 Since existence has no general kind and no distinguishing feature, it has no strict definition. And since it has no definition, it cannot be proved by demonstration, because definitions and proofs share corresponding parts, as we have already indicated. We know existence either through direct awareness of it or by reasoning from its effects and necessary features. The second kind of knowledge is only partial and indirect.
 
-#### Existence itself has no cause in any sense
+#### VII. Existence itself has no cause in any sense
 
 You can now see why existence, considered in itself, cannot be made of parts. That is true whether the supposed parts exist outside the mind, are found in thought, or arise only when we analyze a thing. Look at what makes up the essence of a thing. Do you not find that its reality depends on those parts—not because it is an effect they produce, but because its very nature depends on them? The essence of the whole is simply the essence of its components, whether we consider them in the outside world, in the mind, or in reality as such.
 
@@ -431,7 +432,7 @@ There is another problem: something other than existence would have to come befo
 
 Once you see that nothing other than existence can come before existence through existence, it becomes clear that existence as such is established by itself and exists through itself. It is its own reality and its own existence. In itself, it depends on nothing; dependence belongs only to its particular expressions and later forms.[^V01-95] Existence as existence has no agent from which it comes, no matter that turns into it, no subject in which it exists, no form it takes on, and no goal it serves. Rather, it is the source of all causes, the form of all forms, and the goal of all goals—the final goal and pure good toward which all realities and essences tend. Existence is therefore above every kind of cause: it has no cause by which it exists, no cause from which it comes, no cause through which it arises, no subject in which it exists, and no goal for which it exists. We will explain each of these points later.
 
-#### Objections and answers
+#### 1. Objections and answers
 
 Several objections remain to the claim that existence has real instances outside the mind. One comes from Suhrawardi's *The Book of Hints*: If existence is a feature of essence in the outside world, then essence must receive it. Does essence exist after, before, or at the same time as existence? If it exists afterward, then existence was already independent of essence, so essence cannot be receiving it as a feature. If essence exists beforehand, then it exists before existence. If the two exist together, essence exists alongside existence, not through it, and must have another existence of its own. All these consequences are false, so the original claim must be false.
 
@@ -487,7 +488,7 @@ Here is the answer. Philosophers define each basic kind of thing by its nature a
 
 Existence is not an accident in the sense of something that inheres in the essence it makes real. It is accidental in another sense, and united with essence in a certain way.[^V01-109] Even if we call it an accident, that does not make it a quality, because it is neither universal nor general. What is universal and applies broadly to existing things is the abstract idea of existence in the mind, from which the idea “existent” is formed. This abstract concept also differs from other accidents: an accident exists in itself in the same way that it exists in its subject, but the existence of existence is the very existence of essence, not some further existence added to it. So existence does not need a subject in order to be real, and the circle of dependence disappears. In our view, the existence of a substance is substantial through that substance's own substantiality, not through another substance; and the existence of an accident is accidental through that accident's own nature, not through another accident. As we have seen, existence does not describe essence as a separate feature in reality. The mind sees that relation only when it analyzes things.
 
-### Clarification: Existence and light
+### 2. Clarification: Existence and light
 
 From what we have explained, we can see that the word “light” has two uses. Sometimes it means the act or state of lighting something up. In that sense, it has no existence outside the mind; it is an abstract idea. At other times, it means what is clear in itself and makes other things clear: God, the intellects, the souls, and the kinds of light we can understand or see, such as starlight and the light of lamps. In this sense, light exists in reality, not merely in the mind. The same word is used for these different realities in related senses. In its first use, “light” is a general idea that applies to many examples. In its second, it is the very reality of light, with different degrees of completeness and incompleteness, strength and weakness.[^V01-110] In that sense, it is not a general idea or an individual thing that needs some further mark to make it distinct. Light is pure actuality, distinction, clarity, and manifestation.
 
@@ -549,7 +550,7 @@ The third problem is that this view also gives us many existences, just as it gi
 
 The only difference is that this view calls the abstract idea of existence “relation,” “dependence,” or some other name. So there seems to be no reason to say that, on this view, real existence is one individual while “existent” is a general concept with many examples. In both views, the existence—or the fact of being existent—attributed to things is a mental concept shared by all that exist, whether the source of their existence is their own essence, a relation of dependence, or something else. If “existence” is used in another sense, to mean the reality that exists through itself, then the same word is being used for two different meanings. We will explain the different views about how things exist later.
 
-#### Chapter — Existence and being a thing
+#### VIII. Existence and being a thing
 
 Some people[^V01-126] say that existence is a feature that comes to be attached to an essence that is already a thing, whether it exists or not. This view is extremely weak. The nature of essence is different from the nature of existence, but until an essence exists, we cannot point to it as this particular essence. We can speak of what does not exist only in words. An essence cannot be anything at all—not even itself—until it exists. For to be itself already depends on its being real and existing.
 
@@ -573,7 +574,7 @@ It is astonishing that people who say such things are counted among serious scho
 
 He says that such people appeared within the Muslim community. They were drawn to rational questions, but had neither sound judgment nor the kind of direct insight the mystics had. They came across books brought by a group during the Umayyad period, whose authors had names that sounded Greek. They assumed that anyone with a Greek name must be a philosopher. They found sayings in these books that appealed to them, developed them in the name of philosophy, and spread them widely, pleased with what they had found. Later thinkers followed them, even when they disagreed with some details. All of them were misled by the Greek names attached to works that seemed philosophical but contained no true philosophy. Their predecessors accepted these writings, and later generations followed them. Philosophy, he says, emerged only after the sayings of ordinary Greeks and their public speakers had spread and been accepted.
 
-#### Chapter — Relational existence
+#### IX. Relational existence
 
 The term “relational existence”[^V01-131] in philosophical discussions is used in two senses. One is the opposite of existence as a predicate: the way one thing exists in relation to another, as discussed when considering necessity, possibility, and impossibility.[^V01-132] This is the link in affirmative statements, in addition to the judgment that joins subject and predicate—a judgment found in every kind of statement. Philosophers disagree about whether this linking existence differs in kind from existence as a predicate, and whether it occurs in simple statements such as “X exists.” The correct answers are yes to the first question and no to the second. In our view, existence has one nature throughout[^V01-133][^V01-134], but the meanings and abstract ideas drawn from it can differ in kind.[^V01-135] As I will explain more fully, the truth is that the two agree only in the word “existence.”[^V01-136][^V01-137]
 
@@ -591,9 +592,9 @@ In short, dependent existence in the first sense is a purely relational idea tha
 
 These distinctions[^V01-141] also apply to nonexistence, as people have explained in the same way. Confusion often arises because the same word is used in different senses. If we agreed to call the first linking relation “linking existence” and the second “dependent existence,” and used “predicative existence” for the first independent sense and “existence in itself” for the second, we could avoid confusion. The same terminology could be used for nonexistence.[^V01-142]
 
-### Method Two — The roots of necessity and possibility, and the parts of a statement
+### Method Two: The roots of necessity and possibility, and the parts of a statement
 
-#### Chapter — Defining necessity, possibility, impossibility, truth, and falsehood
+#### I. Defining necessity, possibility, impossibility, truth, and falsehood
 
 The mind grasps among its first ideas[^V01-143][^V01-144] the meaning of necessity[^V01-145] and its opposite, the absence of necessity. Some thinkers tried to define them precisely, rather than merely explain them. But their definitions went in a circle: they called the impossible what is not possible, then called the possible what is not impossible.
 
@@ -653,7 +654,7 @@ They also failed to distinguish this kind of necessity from what is necessary in
 
 This kind of necessity—true of something while it exists, but not caused by its existence—is shared by the essential features that come first and the properties that follow from them. What differs is their order in relation to the essence: one belongs to its nature first, the other follows from it. That order is a priority of nature, not a familiar kind of causal priority.
 
-#### Chapter — Necessary existence cannot depend on another; no necessary link joins two necessary beings
+#### II. Necessary existence cannot depend on another; no necessary link joins two necessary beings
 
 If we suppose two beings necessary in themselves,[^V01-167] neither can also be necessary through a cause. As you have learned, something is necessary in itself when, considered entirely on its own, it is correct to say of it that it exists and is existent, without adding any other feature—whether the feature is joined to it, abstracted from it, used to limit it, or used to explain why the statement applies.[^V01-168]
 
@@ -669,7 +670,7 @@ What is necessary, considered simply as necessary, does not become necessary in 
 
 So if we suppose two beings necessary in themselves, they cannot be linked by their very natures. At most, they would happen to exist alongside each other. In relation to the other, each would still be possible. Two related things whose existence depends on their being together cannot be established by their own realities alone; the relation requires a third thing that gives rise to it. This is explained in the discussion of proof, where the author shows how each of the two is defined and why the definition must include the cause that establishes their relation, rather than the other related thing itself.[^V01-174]
 
-#### Chapter — The Necessary Being has no essence apart from His existence
+#### III. The Necessary Being has no essence apart from His existence
 
 This means that God has no essence distinct from His own pure existence.[^V01-175][^V01-176] A possible thing, such as a human being, has an essence—rational animal—and an existence, the fact that it is real outside the mind. There are several reasons to show that this is not true of God.
 
@@ -759,7 +760,7 @@ That substance would need a feature defining it, so God’s essence would be mad
 
 Anything with an essence beyond existence must therefore be either a substance or an accident. But the Necessary Being is not a substance, as we have shown, and cannot be an accident, since He does not exist in something else. So He has no essence apart from existence.
 
-### Objections and replies[^V01-196]
+### 1. Objections and replies[^V01-196]
 
 Several objections have been made to the claim that the Necessary Being is pure existence, with no essence added to it.
 
@@ -797,7 +798,7 @@ As for the other view, existence is not a universal, even though it is unbounded
 
 Another objection: everyone knows what existence means, while God's reality is unknown. What is known cannot be the same as what is unknown. The familiar answer is that what we know is existence in general, which differs from God's own specific reality.[^V01-214]
 
-### A flash of illumination
+### 2. A flash of illumination
 
 God's reality is not known to anyone through ideas or descriptions held in the mind; no philosopher or mystic would dispute this, and it has been proved. How could it be otherwise, when His reality is nothing but His own particular existence? A thing's particular existence cannot be multiplied, unlike an essence, which is an open-ended idea that can have many different forms of existence. Knowing something is simply one way that thing exists for an immaterial knower.[^V01-215]
 
@@ -819,7 +820,7 @@ This does not contradict the experience the mystics describe, in which they lose
 
 > Between You and me, my “I” keeps coming between us. By Your grace, remove my “I” from between us.
 
-### The Throne Section
+### 3. The Throne Section
 
 Know, seeker of truth—may God strengthen you with His spirit—that knowledge, like ignorance, has two forms: simple and self-aware. In the simple form, you grasp something without noticing that you have grasped it or recognising what it is. In the self-aware form, you grasp the thing and also know that you have grasped it and what it is.
 
@@ -837,7 +838,7 @@ This is what those who have reached direct spiritual vision agree upon. They are
 
 God's saying, “When He wills something, His command is only to say to it, ‘Be,’ and it is,” clearly shows that all beings understand their Lord, know their Creator, and hear His speech. For carrying out a command follows from hearing it and understanding what is intended, each according to the listener's capacity and the way the listener perceives. God's saying to the heavens and the earth, “Come, willingly or unwillingly,” and their reply, “We come willingly,” makes the same point.
 
-### An objection and its answer
+### 4. An objection and its answer
 
 You may say that existence is a single kind of thing, since its meaning is one and shared by all. A kind has the same necessary features in every individual: whatever belongs to one must belong to the others, since what follows from a thing's nature cannot fail to follow from it. So if existence requires that something be in a subject—or requires that it not be in a subject—the same must be true of both the Necessary and the possible. If existence requires neither, then the Necessary Being needs some outside cause to make Him necessary.
 
@@ -855,7 +856,7 @@ Even a concept that applies uniformly need not belong essentially to everything 
 
 The second claim is also unsound. It assumes that a concept applied by degrees must be outside the realities of its individuals and their levels. We will return to this point, God willing.
 
-#### Chapter — The Necessary Being is necessary in every respect
+#### IV. The Necessary Being is necessary in every respect
 
 The point of this chapter is that the Necessary Being has no aspect of possibility. Whatever can be attributed to Him as possible in the broadest sense is in fact necessary for Him. One consequence is that no perfection remains for Him to acquire. But this consequence is not the same as the principle itself,[^V01-232] as many have assumed. Being necessary in every respect belongs to the Necessary Being alone; having no perfection left to acquire does not. Immaterial beings of light also have nothing left to acquire. If one of them could still gain a perfection, it would have the capacity to receive change. That would subject it to motion and the conditions of physical bodies. It would then be bodily and darkened, despite being immaterial and luminous—a contradiction.
 
@@ -865,7 +866,7 @@ Here is the second proof. Suppose God's own reality were not enough to account f
 
 If this were so, God's reality, considered just as it is and without any condition, would not make His existence necessary. His existence would be necessary only with the attribute present or only with it absent. If it were necessary with the attribute present, then the attribute would not really come from something else: it would belong to God's reality just as it is, without taking the other thing into account. And if necessity applied only on the condition that the attribute was present, then God's necessity would not be essential and eternal. But if His existence were necessary with the attribute absent, then the attribute's absence would not be caused by the absence of its cause. And if His necessity depended on that absence, it would not be essential and eternal either. Far above this is God. If His existence is not necessary without a condition, He is not necessary in Himself.[^V01-235]
 
-### A clarification and a stronger formulation
+### 1. A clarification and a stronger formulation
 
 A familiar objection runs like this. At most, the proof shows that an attribute's presence or absence depends on something else. It does not show that God's own reality depends on that thing. What does it mean to consider God's reality without the other thing? If it means simply not thinking about that thing, the argument fails: overlooking something does not make it absent.[^V01-236] If it means that the thing really is absent, the reasoning goes through, but its conclusion is no contradiction. On that assumption, considering God's reality without the supposed conditions would itself be impossible. An impossible assumption may lead to another impossibility.
 
@@ -895,7 +896,7 @@ It is astonishing that Avicenna, with all his learning, insight, and intelligenc
 
 What appears to us as things coming to be, following one another, and changing does so in relation to certain levels of existence. A thing's disappearance from one level does not mean that it has disappeared from every other level—how much less from the reality of existence, which encompasses all things and preserves every level and mode of being? We will explain this further, God willing.[^V01-242]
 
-#### Chapter — The Necessary Being is one, not merely a kind confined to a single individual
+#### V. The Necessary Being is one, not merely a kind confined to a single individual
 
 We have seen that existence is not one member of some broader kind. And although the Necessary Being is distinct through His very reality, that fact alone does not prove that there cannot be another Necessary Being. Some have argued that if a thing is distinct through its very reality, there can be only one member of its kind. But that is not enough to establish God's oneness.[^V01-243] We can still imagine several different realities, each necessary in itself and each distinct through its own reality.[^V01-244] We therefore need another proof.
 
@@ -925,7 +926,7 @@ Apart from these ways of agreeing, two things cannot truly share a description u
 
 More than that, if we reflect on the very concept of existence—the abstract idea we know at once—we are led to understand that the reality it comes from is self-subsisting: the Necessary Truth itself.[^V01-252] It is pure existence, free of universality, particularity, multiplicity, and division. If we suppose another thing with this same pure existence, it cannot be distinct from the first.[^V01-253] There would not be two; there would be one reality and one existence. As the author of *The Book of Flashes* says: “Pure existence, beyond which there is nothing fuller: whenever you suppose it a second time and look, it is the same as before, because nothing is distinct from what is pure.” God's necessary existence, which is His very reality, therefore shows that He is one, as the Qur'an says: “God bears witness that there is no god but He.” And it shows that possible things exist through Him, as He says: “Is it not enough that your Lord is witness over all things?”
 
-### A proof from the Throne
+### 1. A proof from the Throne
 
 With God's help and the support of His highest realm, we have another proof from the Throne[^V01-254] that the Necessary Being is one. It also rules out the possibility just raised. First we must establish a principle.
 
@@ -939,7 +940,7 @@ So each of the two would have a level of perfection and a share of existence tha
 
 The Necessary Being must therefore be so complete and fully actual that He includes every level of existence and every perfection that belongs to existence as such. There is nothing equal to Him in existence or excellence. His reality must be the source of all perfections and every good. This proof may not help readers who are still new to philosophy, because it relies on principles established in many different parts of this book. But for someone trained in philosophy, it is stronger than many powerful proofs.
 
-#### Chapter — Revisiting necessity, possibility, and impossibility, and answering objections about them
+#### VI. Revisiting necessity, possibility, and impossibility, and answering objections about them
 
 Fakhr al-Dīn al-Rāzī raises an objection about necessity, possibility, and impossibility, the three conditions that enter into our judgments. Suppose necessity necessarily belongs to God's existence. It would then seem to be an effect of that existence. Yet every effect is possible in itself, and whatever is possible becomes necessary through its cause. God's necessity would therefore require a prior necessity, which would require another, without end.
 
@@ -1005,7 +1006,7 @@ Third, a possible judgment does not require its subject to exist independently i
 
 Fourth, consider the claim that a statement of possibility does not require its subject to exist in the world. That does not mean we can truly say, while Zayd does not exist, that he may be a writer. In this argument, Zayd's possibility of writing concerns his condition in the world; such a condition cannot belong to him there unless he exists. The point is that the possible connection between subject and predicate does not, by itself, require the subject to exist. Other aspects of the statement may require this: the statement as a whole may be about something in the world, apart from its modality. A modality that does not require the subject's existence does not prevent the judgment itself from requiring it. The discussion is about the judgments, not only about their modalities; and in the case before us, the modality is necessity.[^V01-283]
 
-#### Chapter — Different meanings of “possible”
+#### VII. Different meanings of “possible”
 
 In ordinary speech, we call something *possible* when its existence is not impossible. We also use the word when a relation stated between two things is not impossible.[^V01-284] Here *impossible* means either that a thing must fail to exist or that a stated relation must fail to hold. So, in both uses, *possible* means that the opposite is not necessary.[^V01-285] Strictly, this absence of necessity belongs to the opposite side of the statement. Applying it to the relation we are discussing is a figure of speech: we describe one side by reference to the other.[^V01-286]
 
@@ -1033,7 +1034,7 @@ This readiness is not one of the abstract meanings of possibility that exist onl
 
 This kind of possibility is not a modality. It is treated as a predicate, or as part of a predicate.
 
-#### Chapter — Another way to understand the concepts that qualify statements
+#### VIII. Another way to understand the concepts that qualify statements
 
 At first it seems that each of the three concepts—necessity, possibility, and impossibility—could belong to something in three ways: in itself, through another thing, or in relation to another thing. This gives nine combinations. But closer thought rules one out: possibility cannot arise *through* another thing. It can belong to something in itself or in relation to another. Eight combinations remain. The three cases that hold in themselves—necessity, impossibility, and possibility—form a genuine division that covers every kind of thing and concept as it exists in reality and at its different levels. The exception is a possible essence considered just as it is in itself. At that level, it is not described by possibility, even though possibility is its status in reality. Considered in itself, it is simply what it is.[^V01-298]
 
@@ -1075,7 +1076,7 @@ The same distinction applies to two effects of one cause. Each is necessary in r
 
 Strict possibility relative to another means that, given the other thing—whether it exists or not—neither the existence nor the nonexistence of the first thing is required. This occurs only between things with no natural causal connection, and no shared cause that produces them both.
 
-#### Chapter — Why possibility cannot come from something else
+#### IX. Why possibility cannot come from something else
 
 Every thing must be either necessary, possible, or impossible. These three leave no fourth option. First ask whether its existence is necessary. If not, ask whether its nonexistence is necessary. If the answer to both questions is no, it is possible. So our three-part division is really two successive choices, each between a statement and its denial. Every division with more than two parts can be understood in this way. Whatever aspect of a thing we consider, one of the three must apply.
 
@@ -1093,7 +1094,7 @@ Others define possibility as the equal standing of existence and nonexistence in
 
 But what I have explained shows why this will not do. A possible essence, considered in itself, has no actuality at all. It is pure potential and complete dependence. It has no active power of its own, and it requires nothing until it receives existence from the Necessary, Self-Subsisting One. If it could bring something out of potential and into actuality by itself, then what is only potential, precisely as potential, would help make something actual. Our natural understanding of things rules this out. In itself, an essence that is possible does not require anything—not even the denial of something else.
 
-#### Clarification and reminder
+#### 1. Clarification and reminder
 
 Some philosophers take possibility to be a property that necessarily follows from an essence. They then argue that, if possibility came from something else, either two independent causes would produce one effect, or a thing necessary or impossible in itself would become possible in itself. An opponent replies: perhaps each cause acts independently only when the other is absent. If both are present, neither is independent. Think of a whole with several parts. The absence of any one part can account for the whole’s absence; if several parts are missing, their absences do not each act as a separate, complete cause. But this reply cannot establish possibility in itself. On that account, something outside the essence would always matter, whether by being present or absent.
 
@@ -1131,7 +1132,7 @@ So when “possibility” is said of different essences, it is not identical wit
 
 The same difficulty arises with unity. An essence and its added unity would each need unity; existence would need unity, and unity would need existence. Their combinations would generate further endless series. Possibility would have to exist, the existence of possibility would itself be possible, and new series would arise. If that existence were necessary, possibility would no longer be something added to a thing. And still more series would form between possibility and necessity through another, between existence and necessity, and between unity and necessity. So concepts that would produce these endlessly multiplying chains cannot have separate forms outside the mind. They are ideas drawn from things. They do not correspond to extra objects added to essences in the world, nor do they reach a final, fixed point at which the mind can stop repeating them.
 
-#### Discussion and clarification
+#### 2. Discussion and clarification
 
 There are several reasons to doubt this rule. First, its defenders themselves say that the Necessary Being is nothing but existence and necessity: He exists through Himself and is necessary in Himself. They do not deny that He exists outside the mind. Yet their account of existence contradicts this. They say that existence is only an idea in the mind, with no form in the world, yet they also say that God’s essence is the source of all forms and the root of all realities.
 
@@ -1169,7 +1170,7 @@ If possibility had its own actual form in the world, even as an attribute attach
 
 It is also mistaken to define a possible thing by saying that its own nature makes neither its existence nor its nonexistence necessary. When we divide things into necessary, possible, and impossible, we consider how each stands in relation to existence itself. We do not restrict the meaning of existence or compare the thing with anything else.[^V01-339]
 
-#### Objections and replies
+#### 3. Objections and replies
 
 Those who say that possibility and similar ideas—necessity, existence, thinghood, and unity—have real forms in the world, additional to the essence of the possible, necessary, existent, thing, or one, offer several arguments for their view.
 
@@ -1219,7 +1220,7 @@ Another objection to those who say that a possible event has an actual possibili
 
 The mind can picture something that might exist and judge that it could either exist or not exist. It can judge this simply by considering what the thing is. That is possibility in itself. Or it may make the judgment by considering the thing’s causes, the readiness of what can receive it, the absence of things that oppose it, and the removal of what would prevent it from coming about. This is readiness for a thing to exist—a kind of possibility through preparation.[^V01-350]
 
-#### Chapter: Features of what is possible in itself
+#### 4. Features of what is possible in itself
 
 We have delayed discussing the features of what is necessary in itself until the section on divine matters. They belong to a different kind of inquiry, and their subject is too exalted to place among the general rules about concepts and ideas drawn from things. We have mentioned only a few points needed to make the path of reasoning clear; we will return to them later by a sacred and higher path.
 
@@ -1245,7 +1246,7 @@ Someone might object that if a whole made of two things that are impossible in t
 
 The answer is that the whole does not exist because its parts do not exist. The existence of the parts is what gives the whole existence; if the parts existed without a cause, the whole would exist as well. A cause is needed for the parts only when they are themselves possible things. When a part is impossible in itself, the whole’s nonexistence ultimately comes from that part’s necessary nonexistence. It does not lead to the absence of some other thing. The chain of existences, by contrast, ends at the Necessary Being, whose existence is necessary in itself.
 
-#### Section: How a possible thing can entail something impossible in itself
+#### X. How a possible thing can entail something impossible in itself
 
 Many people who discuss these questions without thinking deeply reject any necessary connection between something possible and something impossible.[^V01-355] They assume that if something possible entails an impossibility in reality, then that possible thing must itself be impossible. Their reasoning is this: if a starting claim were possible but what follows from it were impossible, the starting claim could still hold while its necessary consequence did not. That would contradict the claim that one entails the other.
 
@@ -1303,7 +1304,7 @@ Muḥyī al-Dīn Ibn ʿArabī, a thinker devoted to knowledge of God, writes in 
 
 “When a person sees their image in a mirror, they know for certain that they have seen their image in one sense, and have not seen it in another. The image may look very small because the mirror is small, or very large because it is large. A person cannot deny that they have seen their image, yet they know that their image is not inside the mirror, nor between the person and the mirror. They are neither truthful nor untruthful when they say, ‘I saw my image’ and ‘I did not see my image.’ What, then, is this image they see? Where is it? What is its nature? It is at once denied and affirmed, present and absent, known and unknown. God has shown His servant this truth by way of an example, so that the servant may know: if they are bewildered and unable to grasp the nature of this image, though they themselves belong to the world, then how much more unable, ignorant, and bewildered must they be before its Creator?”
 
-#### Section: Refuting the idea that an essence naturally favors existence or nonexistence
+#### XI. Refuting the idea that an essence naturally favors existence or nonexistence
 
 If you have followed what we said about what things are, and why the mind calls them possible, you will need no further argument against the claim that something, by its very nature, favors existence over nonexistence—or the reverse.[^V01-372] This claim can mean either that a possible thing’s own nature makes one side more likely than the other, without making it necessary; or that, when the thing is considered in itself, one side fits it better than the other, though not because an outside cause makes it so.[^V01-373]
 
@@ -1331,7 +1332,7 @@ Here is the mistake. If one outcome is only more likely, the other is only less 
 
 Even if we grant that the less-likely side is impossible when we consider the essence together with that description, the impossibility belongs to the essence only as qualified by the less-likely feature. It is therefore impossibility through another, not impossibility in itself. The preference of the other side would then be necessity through another, not necessity in itself.[^V01-378][^V01-379][^V01-380] This does not overturn our argument. The impossibility that belongs to a description that can be removed can itself be removed; the same is true of the necessity that corresponds to it. This also undermines the other foundations people have offered on this question. Few of those arguments escape the same objection.
 
-#### Some false assumptions
+#### 1. Some false assumptions
 
 Some people say that certain possible things are naturally more inclined toward existence than nonexistence, while still needing an outside cause and remaining possible. They mean that a complete cause makes these things exist more often, more fully, or with fewer conditions. Others say the reverse: that some possible things are more inclined toward nonexistence than existence.[^V01-381]
 
@@ -1347,7 +1348,7 @@ Movement and similar things that do not remain fixed are equally open to continu
 
 The second claim mistakes something that is not yet a complete cause for a cause. Before all the conditions for its effect are met, a thing is not yet acting as a cause at all. Once those conditions are met, it brings about its effect without fail. An effect may be closer to happening when fewer conditions remain to be met. But this does not make the thing itself any more or less able to exist. What changes is its readiness for the effect, which can grow stronger or weaker and is a real feature of the world. Whether a thing, considered in itself, can exist or fail to exist is a different question—one the mind answers without measuring that readiness. A thoughtful reader can use the principles already given to dismiss the wild claims made by some disputants on this subject. There is no point in listing and answering them; doing so would waste time without purpose and spend the precious days of life for no return.
 
-#### Section: What makes a thing need a cause: possibility in its essence and limitation in its existence
+#### XII. What makes a thing need a cause: possibility in its essence and limitation in its existence
 
 Some people make a show of reasoning and sound judgment without having learned enough to judge well. They have gone to extremes in denying the truth, and they disagree even among themselves. Some say that being brought into existence after not existing is, by itself, what makes a thing need a cause. Some say it is one part of what makes a thing need a cause. Others say it is a condition for needing a cause, while possibility itself is what makes a thing need one. Still others prepare for debate by questioning a judgment that comes naturally to the mind—a judgment present in children and even built into animals, as when an animal recoils at the sound of sticks or clubs. Their claims are not worth the time spent mocking them or the effort of wearing down one’s mind. Yet ordinary people and most students are drawn to them.
 
@@ -1397,7 +1398,7 @@ The famous philosophers in Aristotle’s school choose the third option: the cau
 
 What we have said shows that the three-part division was not carefully made.[^V01-410] Consider the link we express when we say that a thing exists. We can use it simply to connect the thing with existence, without making the link itself another independent thing in our thoughts. In that role it is like a mirror: we see what it connects, not the mirror itself. But if the mind turns its attention to it separately, removing it from its role as a link, it becomes an object of thought in its own right, distinct from the two things it links. It then becomes like any other essence, and we can again ask: what aspect of it depends on the creator, and through what feature does the creator act on it? Those are among the questions people have raised.
 
-#### Section — How a possible thing’s nonexistence needs a cause
+#### XIII. How a possible thing’s nonexistence needs a cause
 
 Here is an objection.[^V01-411] If something does not exist because a cause made nonexistence more likely, then the cause must somehow act on nonexistence. But nonexistence is nothing at all. How could anything act on it? Also, if a possible thing does not exist because the cause of its existence is absent, that seems to require different kinds of nonexistence—some acting as causes and others as effects. Yet absences have no distinctions or order, so there can be no cause and effect among them.
 
@@ -1417,7 +1418,7 @@ The mind then pictures an essence as joined with existence, while recognizing th
 
 This does not conflict with existence being first among all things that come from a cause. The discussion here looks at the essence in relation to its existence and to the cause that gives it existence. Something may also come later in its dependent existence than something that is prior to it in itself. For example, in natural philosophy, one establishes that motion exists before proving that it has a source and an unmoved mover whose power has no limit. The body’s changing nature is considered first; only later is it shown to have a mover that is necessary in itself, even though that Necessary Being is prior to all things in reality. So there is no contradiction in existence being prior to essence in itself, while the mind considers essence and its earlier conditions first as it traces their dependence on existence.
 
-#### A point to keep in mind
+#### 1. A point to keep in mind
 
 We have hinted at this and will explain it further. A general idea in the mind, whether it describes what a thing is or a feature it has, is not what the One who exists through Himself brings into being.[^V01-413] What is directly caused is existence itself, whether that existence is called originated or enduring. In fact, if both depend on another, enduring existence depends on its cause even more than originated existence does.
 
@@ -1445,7 +1446,7 @@ Consider speech and writing. The speaker’s speech is like creation; the writer
 
 This echoes the verse: “If every tree on earth were a pen, and the sea were supplied with seven more seas, God’s words would not run out. God is Mighty and Wise.”
 
-#### Section — A possible thing exists only if its cause makes it necessary
+#### XIV. A possible thing exists only if its cause makes it necessary
 
 We have established that a possible thing does not exist unless something else tips the balance in favor of its existence. It does not cease to exist unless something else tips the balance towards its nonexistence. So whichever side is realized, the thing must have a cause outside itself that tips the balance.
 
@@ -1457,7 +1458,7 @@ In short, necessity is where the chain of possibilities ends. Actual existence i
 
 We have therefore shown that neither a thing that could exist or not exist, nor its dependent existence, becomes real unless its cause makes it necessary. A cause is not a cause of an effect unless it brings that effect about decisively. Once we speak of a cause and its effect, each necessarily stands in that relation to the other. The First Cause must not only exist; it must also be the source of other things. As we shall explain, God necessarily gives existence to what comes from Him. God willing, we shall return to this.
 
-#### Section — The two kinds of necessity and impossibility
+#### XV. The two kinds of necessity and impossibility
 
 The last chapter showed that, before either outcome occurs, a complete cause makes one of two things necessary: the thing will exist, or it will not. At the same time, that cause rules out the opposite outcome. Once either existence or nonexistence has actually occurred, a second kind of necessity applies. While a thing has a feature, it must be described as having it. So while a thing exists, it must be described as existing; it cannot at the same time be described as absent. And while it is absent, it cannot at the same time be described as present.
 
@@ -1471,7 +1472,7 @@ The word “existent” also applies to every actual existence in a way that mus
 
 Every statement that describes something or connects it to a feature has this later necessity. It may also have another kind of necessity: the timeless necessity in “God exists and has power”; a necessity that depends on what the thing is; a necessity that depends on a description, whether the description is part of the thing or added to it; or simple possibility. In short, if existence or nonexistence applies to an essence at some time, the opposite remains possible when we consider the essence by itself. But if we consider the essence in the state it actually has, the opposite is impossible. This impossibility comes from that state or from the condition attached to it, not from the essence by itself. It is impossible through something else in one sense, and through the condition itself in another.
 
-#### A possible misunderstanding
+#### 1. A possible misunderstanding
 
 Someone may think that a possible thing, taken together with its existence, cannot fail to exist by its own nature. After all, existence and nonexistence cannot be true at the same time. This would make existence necessary in itself, and the whole possible thing necessary in itself too.[^V01-429]
 
@@ -1497,13 +1498,13 @@ The subject of both claims is the same essence. We do not add the idea of “bei
 
 This critic’s argument also fails when applied to existence itself. Existence is what makes something actually real, and in every case it comes with this later necessity. It is itself a real thing. In a statement such as “existence is real,” it is both the subject and what is said of the subject; its opposite, “existence is not real,” is impossible in itself.[^V01-435] The only way through this difficulty is to keep apart the two kinds of necessity: the necessity that holds while a thing remains in a condition, which causes no problem, and absolute, timeless necessity, which does not follow here.
 
-#### Addendum
+#### 2. Addendum
 
 Any possible thing that has received existence and necessity through another at some time[^V01-436] cannot fail to exist at that time. Nor can we say that it has no place anywhere in reality.[^V01-437] That would mean it is absent from every level of reality, without restricting the claim to some other time.[^V01-438] But we already know that it existed at one time.
 
 Thus, when we say that a thing which exists at one time could have been nonexistent, we mean that nonexistence is possible for its nature considered by itself. We do not mean that what actually existed has no place in reality.
 
-#### Section — Why some possible things have one kind of possibility and others have two
+#### XVI. Why some possible things have one kind of possibility and others have two
 
 Some possible things[^V01-439] can receive existence from the generosity of the highest source simply because of what they are. They need no outside condition and no further feature to make them ready. Their existence therefore flows from the generous source without delay, without a stretch of time when they did not exist, and without any bodily preparation. Each has only one way of existing; its kind is represented by a single instance. Different instances of the same kind arise only when causes outside the essence make them different. What follows from a thing’s nature, or from a feature that belongs to it, does not change. So there is no room here for many different instances of the same kind.
 
@@ -1537,7 +1538,7 @@ When readiness is considered as belonging to the subject that has it, it is call
 
 Some scholars[^V01-448] say that readiness is simply the bodily quality itself, considered in relation to the form that will arise from it. The mixture in a sperm, considered by itself, is a bodily quality; considered in relation to the animal form that will arise, it is readiness. A courtyard is a feature of the house; when we consider how many people it can hold, we call that its capacity. We will return to the correct account in the chapter on potentiality and actuality, God willing.
 
-#### Section — Some rules about what is impossible in itself
+#### XVII. Some rules about what is impossible in itself
 
 Just as the mind cannot grasp the reality of the Necessary Being in Himself—because He is so great, bright, complete, and beyond all limits—it cannot directly picture what is impossible in itself, taken precisely as impossible. Its whole nature is failure and nothingness. Just as the Necessary Sustainer cannot be contained by the mind because He encompasses everything, what is impossible in itself lies outside being and thinghood. It has no reality to point to, no content for the mind to contain, and no object for awareness or imagination to reach. We reach the judgment that something is impossible in itself through an argument about what follows from it, rather than by picturing it directly. In a different way, the proof of the Creator also proceeds through an explanation resembling a proof from cause to effect.
 
@@ -1549,7 +1550,7 @@ In debate, people sometimes begin by assuming something impossible, hoping to sh
 
 A strict “if … then” statement joining two false claims may therefore be true or false. If the claims have a necessary connection—for example, a human being’s being a donkey and braying—the statement is true. If the claims rule one another out, the statement is false. If neither follows from nor conflicts with the other, we can only suppose that they might go together. We cannot prove it. Certainty requires a necessary connection; possibility alone gives us grounds only for conjecture.
 
-#### Section — How can we know what is impossible or nonexistent?
+#### XVIII. How can we know what is impossible or nonexistent?
 
 Whatever we know must be distinguishable from other things. And whatever can be distinguished must exist. It follows that anything we know exists, and that we cannot know what does not exist. Yet we do know that God has no partner and that contradicting claims cannot both be true. Neither of these supposed things can exist. How can we know them?
 
@@ -1563,7 +1564,7 @@ But when those same ideas stand for things that cannot exist, they give us no ba
 
 The key is that some concepts apply to themselves as ideas, but not as real things.[^V01-454] The idea of “a partner to God” or “the absolutely unknown” is itself a concept, but it does not name an actual thing. In one sense, the concept applies to itself; in another, it does not. This is why we can correctly say that such a thing cannot exist.
 
-#### Section — How one impossible thing can entail another
+#### XIX. How one impossible thing can entail another
 
 Remember[^V01-455] that debaters often say an impossible assumption may lead to any impossible conclusion. That is not generally true. Two claims, whether possible or impossible, can be linked by necessity only if they have a connection of their own. In that case, once we grant one claim, the mind cannot separate it from the other. The connection may be between a cause and its effect, or between two effects of the same cause.
 
@@ -1591,7 +1592,7 @@ Someone may object that two cannot be odd while still being two, so evenness mus
 
 Both answers make the same point. If being odd conflicts with being two in reality, that is no problem: a hypothetical case need not be possible in reality. But it is wrong to say the conflict holds under every assumption. We can suppose that two is odd, and under that supposition its being a number follows. So “two is even” does not follow from “two is a number” in every possible way the premise may be understood.
 
-#### Section — In what sense existence is added to a possible thing’s essence
+#### XX. In what sense existence is added to a possible thing’s essence
 
 Saying that existence is “added” to a possible thing’s essence does not mean that the two are separate realities. The reality of a thing is its own particular existence. Nor does it mean that existence is a separate feature attached to the essence, like a color attached to a body.[^V01-459] That would mean the essence needs another existence beyond its own.
 
@@ -1605,7 +1606,7 @@ Most people put the point this way: “We can understand an essence and still do
 
 These five arguments, once fully stated, show only that the ideas of existence and essence are different. Yet what their proponents want to establish is that they differ in reality.[^V01-461] Consider the divine attributes: for those who hold the truth, they differ in meaning but are one in reality, because the reality of God’s essence is itself the reality of all His perfect attributes, as we will see, God willing.
 
-#### Section — How a possible thing’s existence is one with its essence outside the mind, and joined to it in a certain way
+#### XXI. How a possible thing’s existence is one with its essence outside the mind, and joined to it in a certain way
 
 As we have shown, existence in its true sense—not the general idea of existence formed by the mind—is something real.[^V01-462] If the existence of a possible thing were not one with its essence in reality, as a real thing is joined to an idea, then existence would have to be either the essence itself in meaning or one of its parts. Both possibilities have already been shown, by agreement and by reason, to be false. We can understand an essence without being aware of whether it exists, among other arguments already mentioned.
 
@@ -1623,7 +1624,7 @@ The truth, as we said earlier, is that existence is added to essence in thought,
 
 Some people deny that the bearer must exist before a quality can belong to it. They say this applies to qualities of existence, not to qualities of essence.[^V01-464]
 
-#### A mistake and the answer
+#### 1. A mistake and the answer
 
 When we say that we can think about what something is without thinking about its existence, we mean without thinking about whether it exists outside the mind. If we also ignored its existence in the mind, there would be nothing there for us to think about. Even if we grant that we can overlook its mental existence while still thinking about the essence, this does not prove that the essence is not existence in every sense. What a thing is may itself be one particular way of existing. It can be said to exist in the mind when we think of it, and outside the mind when it is present there. We may be unaware of its existence in the mind while still thinking about the thing. In this way, we can speak of existence as existing without having to add another reality to it. The general idea of existence applies to particular ways of existing.
 
@@ -1663,7 +1664,7 @@ He gives two answers to the second objection. To begin with, God is not necessar
 
 The second answer turns the objection back on most of Aristotle’s followers. They say that God’s existence is not joined to an essence, whereas the existence of possible things is. So we may ask them: if existence as such requires separation from essence, then every existence must be separate from essence—which contradicts your view of possible things. If it requires being joined to essence, then the Necessary Being’s existence must also be joined to essence—which contradicts what you have accepted. If it requires neither, then the Necessary Being’s separation from essence must depend on a cause, and He would not be necessary. If this objection does not defeat the Shaykh’s view, their view is open to the same objection. And if they answer that the shared idea of existence applies by degrees, rather than in exactly the same way, the same answer works here too.
 
-#### Discussion and clarification
+#### 2. Discussion and clarification
 
 The difference between the two positions is clear. For the philosophers in Aristotle’s school, shared existence is not a kind of essence or a general kind, because they do not think an essence, or any part of it, can apply to different things by degrees. They say that only an additional feature can apply in this way, while the things it describes differ in their own natures. The Shaykh, however, says that existence is one simple kind of reality.[^V01-475]
 
@@ -1703,13 +1704,13 @@ He is the Necessary Being, the Real, established through Himself and the source 
 
 In the lesser resurrection, this is a passage from the visible world to the unseen. Just as created forms exist through God’s self-disclosure at the many levels, they pass away through the disclosure of His essence at the level of oneness. Essences are forms of His perfections and displays of His names and attributes. They appear first in knowledge, then in the outside world.[^V01-497] The many names, the different attributes, and their detailed forms do not diminish His true oneness or His everlasting perfections, as we will explain, God willing.
 
-#### Method Three — Another realm of existence beyond the one we witness, and related questions
+#### Method Three: Another realm of existence beyond the one we witness, and related questions
 
-#### Chapter — Proving mental existence and its shadow-like appearance
+#### I. Proving mental existence and its shadow-like appearance
 
 Most philosophers agree that things have another way of existing or appearing besides the way we see them in the world. Only a small group concerned with outward appearances disputes this. We call this other way *existence in the mind*: things appear to us through thinking and the senses.[^V01-498]
 
-#### Preliminary remarks
+#### 1. Preliminary remarks
 
 Before presenting and discussing the proofs for this claim, we need to set out two points. First, as you know, possible things have both an essence and an existence. We will prove something we have already hinted at, and a careful reader will almost be ready to accept it: what a maker first brings about, and what is directly produced by an agent, is a way for the thing to exist, not its essence. A thing’s essence does not need to be made, produced, acted on, or completed. That is not because it must exist or is already fully real. It is because, considered in itself, it is incomplete, hidden, weak, and still only a possibility. As we have already noted, existence can be stronger or weaker, more or less complete. The stronger and more complete the existence, the more effects follow from it.
 
@@ -1737,9 +1738,9 @@ This is supported by what the great Shaykh Muhyi al-Din Ibn Arabi says in *The B
 
 Ibn Arabi’s words strongly support what we are discussing. They also contain many further points, which we will explain in the discussions of the soul, God willing. Keep these two points firmly in mind; they will help you understand mental existence and answer the objections raised against it.[^V01-510]
 
-#### Chapter — Presenting several proofs for mental existence
+#### II. Presenting several proofs for mental existence
 
-#### First method
+#### 1. First method
 
 We can think of things that do not exist outside the mind, even impossible things such as a partner to God, two opposites existing together, or an indivisible particle. We can distinguish each of these in thought from all the other nonexistent things. But pure nonexistence cannot be distinguished. So these things must exist in some way. Since, by assumption, they do not exist outside the mind, they must exist in the mind.
 
@@ -1751,7 +1752,7 @@ That is the answer according to those who hold this view. Those who say that the
 
 This answer is not enough. It works only for things that are nonexistent but have a reality apart from their nonexistence. But if we think of absolute nonexistence itself, then saying that the mental form is the reality of the known thing through its mental existence and shadow-like appearance seems contradictory. Absolute nonexistence has no existence at all, and what is hidden cannot appear in any way. This is really the well-known problem of how we can know something that is completely unknown.[^V01-512] We will find what we need to answer it, God willing.
 
-#### Second method
+#### 2. Second method
 
 We make true positive statements about things that have no existence outside the mind. We also make statements about existing things without limiting them to the examples that actually exist; we speak of all real and possible examples. For instance, “Every phoenix is a bird” and “The three angles of any triangle add up to two right angles.” A true positive statement requires its subject to exist, as ordinary human understanding confirms. Since the subject’s external existence is not enough to explain these statements, we know it must have another kind of existence: mental existence.
 
@@ -1771,7 +1772,7 @@ Third, we can think of a particular person who once existed and make an external
 
 The answer is that the external feature, like the subject, has a mental form that matches the external reality and is joined to the mental subject. But in an external statement we are not looking at the subject and feature as they exist in the mind. We are talking about what they represent outside the mind. There is no problem with a thing in the mind representing something external: the point of representation is to show the thing represented, not the representation itself.
 
-#### Third method
+#### 3. Third method
 
 We can take different individuals, each marked by its own personal or defining features, and form from them one shared idea that applies to them all.[^V01-516] We can say that each is that shared idea. For example, from different human beings we form the shared idea “human being,” which applies to both young and old. The general idea “animal” applies to mules and donkeys. It goes together with each individual’s particular features, yet in itself it leaves aside the material features and conditions that distinguish them.
 
@@ -1809,7 +1810,7 @@ Fakhr al-Din al-Razi raised this objection against the philosophers. They mainta
 
 Look at date palms: the female trees lean toward the male trees, even when the males grow in the opposite direction. Trees beside a river bend toward the water. Trees growing beside a wall lean away from it as they rise. They put out many leaves between their fruit and possible sources of harm, and their fruits protect their kernels with coverings. These sights point toward the view described above. There are flashes of insight here that would not fit this discussion; perhaps they will come up later, if God wills, through His grace and generosity.
 
-#### Chapter — Objections to mental existence and replies to them
+#### III. Objections to mental existence and replies to them
 
 Aristotle and those who followed his school, including al-Farabi, Avicenna, their students, and most later philosophers, held that things appear to us through understanding, imagination, and the senses. These powers are where things have a mental, shadow-like presence. On this view, general ideas exist in the soul, which is not material; particular ideas exist in the power of imagination; and bodily forms exist in the senses and imagination. This view raises several questions, which we should set out and answer.
 
@@ -1999,7 +2000,7 @@ For a concept to serve as a name for a nature, its meaning must fit that nature 
 
 The same kind of statement is made about the Necessary Being: for example, that its individuality is identical with its essence, or that its oneness differs from what we mean by “oneness.” The statement concerns the idea of the Necessary Being. But the claim that its individuality is identical with its essence concerns the reality that proof leads us to: God, the Living and Self-Subsisting, who is beyond being pictured in any mind. We can therefore see that these statements, and statements like them, are not plain, unconditional statements.[^V01-576] Although they can be restated as conditionals, they do not simply reduce to conditionals. In them, the assumption is part of the subject itself: no definite nature has been formed, not at all in the case of impossible things, or in the mind in the case of God. This is different from first taking a fully formed subject and then making a claim about it only under some added condition.
 
-#### Chapter 4 — Further clarification and refinement
+#### IV. Further clarification and refinement
 
 Some later thinkers could not answer all the objections to mental existence.[^V01-577] They therefore chose another view: what exists in the mind is not the thing known itself, but a shadow or image that resembles it in some way. Here is their reasoning. Proof and experience both show that when we understand something, an image of it appears in the mind. Through it, the mind becomes aware of those things, makes judgments about them, and speaks about them. But because of the objections already raised, they say that the things themselves cannot exist in the mind. The view that seems to satisfy both proof and experience is that what appears in the mind is a shadow or model of the thing known. It resembles the thing the way a spoken word or written mark resembles its meaning. But words and writing resemble meanings by agreement; mental images resemble them by nature.
 
@@ -2041,7 +2042,7 @@ When the mind sets aside what distinguishes one body of water from another, it g
 
 Know that most later thinkers do not build their views on sound spiritual principles or on firm, inspired insights. They rely instead on what might be logically possible and on ideas accepted without proof, not on deep experience or clear demonstrations. So when they try to give a deeper explanation, they add objections and replies until their books become layers of darkness. Only a few find a way out. God has not wronged them; they have wronged themselves.
 
-#### Chapter — A solution drawn from higher knowledge
+#### V. A solution drawn from higher knowledge
 
 Here is another way to answer some objections to the claim that things can exist in the mind. It avoids having to say that a thing’s nature turns into a different nature. It also avoids the view of a respected contemporary scholar, who says that calling knowledge and mental forms “qualities” is only a figure of speech or comparison. At the same time, this account preserves the principle that a thing’s essential features remain the same even when its mode of existence changes, and it treats mental forms as real qualities.[^V01-591] Here is the idea: the human soul can draw general ideas from things outside the mind, from what we imagine, and from images that are not physical things.
 
@@ -2055,9 +2056,9 @@ Knowledge becomes actual and definite only when the reality of the thing known j
 
 The point is that knowledge belongs to quality in its own right, because quality is its closest kind. In the mind, the idea of the thing known is one with knowledge in reality and existence, so it belongs to the kind of the known thing only indirectly. Just as Zayd is a substance in his own right, but belongs to the kind called relation when we consider him as someone’s father or son.[^V01-595] That accomplished scholar, following the earlier philosophers, holds that a quality and the description based on it refer to the same reality, though we can think of them in different ways.[^V01-596] For him, “white” and “whiteness” are one reality, though we can consider one as describing a thing and the other as whiteness in itself. As you will see later, this point is explained more fully. It clears the difficulty and removes the confusion.
 
-### Stage Two — Further rules about existence and related questions about nonexistence
+### Stage Two: Further rules about existence and related questions about nonexistence
 
-#### Chapter — What linking existence means
+#### I. What linking existence means
 
 Someone may object: if existence is a link in a statement such as “A is B,” then B must exist in itself too.[^V01-597][^V01-598] For something to exist for another thing, the objection says, it must first exist in itself.[^V01-599] And if B’s being true of A is itself true of A, then that new link must also be true of A, and so on without end.
 
@@ -2087,7 +2088,7 @@ He says that blackness does not exist as an independent thing. If he means that 
 
 If he means that blackness, considered according to its own nature, does not exist, then we cannot accept that. A quality has existence in itself, just as a substance does. The difference is that a quality’s existence in itself is the very same as its existence for the thing it belongs to. A substance exists in itself and for itself. A quality exists in itself, but not for itself; it exists for another thing. As we said earlier, to exist for itself means not to depend on another thing.[^V01-602]
 
-#### Chapter — When existence is called a second-order concept, and what that means
+#### II. When existence is called a second-order concept, and what that means
 
 Philosophers use the term 'second-order concept' in two ways. In the first sense, it refers to descriptions we form by thinking about things and the ideas from which we draw those descriptions. These include abstract nouns, features that necessarily follow from a thing’s nature, and relations between things. At other times, it means concepts studied by logic, such as “universal,” “particular,” and “kind.” These apply to concepts already in the mind, and statements made with them are themselves mental statements. These are the subject matter of logic, unlike the first group. In the first sense, the abstract idea of “existence” or “being real”—not existence itself as a reality—is a second-order concept. So are “thinghood,” possibility, necessity, and the terms derived from them. They are second-order concepts in metaphysics, not in the logical sense.[^V01-603]
 
@@ -2119,7 +2120,7 @@ Remember that every thing has its own level of existence, with its own degree of
 
 At the lowest level, a thing’s existence as a substance depends entirely on the form present in it. Its actuality is nothing but potentiality and readiness. Its unity as one thing is also, in one respect, a multiplicity of separate parts, and in another, a unity of connected parts. If substances can have such limited existence, how much weaker must the existence of their features be? These descend through ever weaker degrees of possibility until one feature has no reality beyond its longing and movement toward another feature—of quality, place, or position. It moves toward that other feature in stages and over time. This is the kind of existence motion has in the outside world. If first philosophy accepts motion as real, it must accept this kind of existence, which fits the world outside the mind. To claim that motion has some other, fixed kind of existence is ignorance opposed to wisdom.[^V01-613]
 
-#### Chapter — Existence is pure good
+#### III. Existence is pure good
 
 This question[^V01-614] becomes clear once we establish that existence is more than an idea in the mind, however obvious that idea may be. Something real corresponds to it outside the mind: the reality of things actually existing.
 
@@ -2137,7 +2138,7 @@ Things remain good, both in themselves and in what follows from them, until the 
 
 True evil is never sought in itself. Relative evil follows by accident from something truly good, which is sought in itself: existence in its own nature. What follows from a thing’s nature is not brought about separately by the one who causes it. As we have said, evils arise from the limits of individual things and from existence falling short of the fullest perfection and greatest beauty.
 
-#### Chapter — Existence has no opposite or equal
+#### IV. Existence has no opposite or equal
 
 Two opposites[^V01-618] must belong to the same kind of thing, though not to the broadest class of all. But, as we will explain, existence itself belongs to no such class. So existence, simply as existence, has no opposite. A pair of opposites must also differ as much as possible. But two existences, considered simply as existences, do not differ in that way. Nor does the general nature of existence differ from any idea that can exist. No reality is more general than existence, so that existence could fall under it together with other things and share its features. For this reason, existence itself has no equal or likeness either.
 
@@ -2161,7 +2162,7 @@ Consider first what it means to call something completely unknown. We mean that 
 
 The same is true of absolute nonexistence. The idea means stripping something of every kind of existence, both outside the mind and within it. That is why no claim can be made about it. Yet simply considering or imagining something—even by imagining that it is not considered or imagined—is one way it exists in the mind. In this respect, it has existence; in another, it is treated as having none. These two sides let us make a claim about it and also deny that claim. Tusi makes the same point in *Naqd al-Muhassal* (*Critique of the Summary*): “The removal of all existence, both outside the mind and within it, can be imagined as what is not established or imagined at all. We can make a claim about it as the thing we have imagined, but not as something that is not established. This is not a contradiction, because the subject is different in each case. Nor is there any bar to something being the opposite of one thing in one respect and part of it in another. For example, if we say that something is either present in the mind or not present in the mind, what is not present in the mind is the opposite of what is present there, because it is formed by adding ‘not’ to ‘present in the mind.’ Yet as an idea, it is itself part of what is present in the mind.”
 
-#### Chapter — Nonexistence is one concept
+#### V. Nonexistence is one concept
 
 Nonexistence, considered in itself, has one simple meaning.[^V01-623] We can distinguish one absence from another only by connecting each to something different. In reality or in imagination, there are no separate kinds of nonexistence, each belonging to a different nonexistent thing, nor are there many kinds of negation for the many things that are denied. Whatever lies in the realm of nonexistence and hidden nothingness is alike in being nonexistent. Just as something that does not exist in a given setting is nothing there, so too nonexistence itself is nothing.[^V01-624]
 
@@ -2175,7 +2176,7 @@ An endless division of a continuous length means there is no final piece so smal
 
 Nonexistence, then, is one and has no distinct parts or form of its own. Nothing in reality is itself nonexistence. If we ask what nonexistence is, there is nothing to name; and if we ask what a thing is, nonexistence cannot be the answer. To call something nonexistent is simply to say that existence does not apply to it. When nonexistence is said of a thing, this means that existence is not said of it. The thing does not acquire a piece of nonexistence.
 
-#### Chapter — How the absence of a cause and the absence of its effect relate to each other
+#### VI. How the absence of a cause and the absence of its effect relate to each other
 
 Nonexistence, simply as nonexistence, cannot be understood, any more than it can exist.[^V01-627] Yet the human mind can form an idea of anything and use that idea as a label. Just as it forms ideas of the natures of things that exist outside the mind, it also forms ideas for things that have no real nature of their own.[^V01-628] These ideas apply to their supposed examples only by assumption, as we explained earlier.
 
@@ -2187,7 +2188,7 @@ Second, the idea of the cause’s absence in the mind itself brings about the id
 
 As absences themselves, one is specifically the cause and the other its effect, though we judge them through the mind’s reflection of them. As mental pictures, whichever one appears first can lead to the other, so there is no circular reasoning. Just as the existence of a cause brings about the existence of its effect, while the effect’s existence gives us evidence of its cause, so the absence of a cause brings about the absence of its effect, while the effect’s absence gives us evidence that the cause is absent. If the cause is absent, its effect must be absent too. But the effect’s absence does not prove that the cause is absent. The cause may be absent along with its effect, which would explain why the effect is absent. So the effect is absent with, and because of, the cause’s absence. The cause is absent along with the effect’s absence, but not because of it.
 
-#### Chapter — How nonexistence applies to itself
+#### VII. How nonexistence applies to itself
 
 We can speak of nonexistence just as we speak of anything else. For example, we can say that nonexistence does not exist outside the mind. But this raises a puzzle. When we speak of the absence of something, we name a particular kind of absence. At the same time, that absence is the opposite of the thing whose absence it is. So if we attach it to itself—if we speak of the absence of nonexistence—does it become both a kind and an opposite at once? Those roles seem to conflict: being a kind means the idea applies to its subject, while being an opposite means it excludes what it opposes.
 
@@ -2195,7 +2196,7 @@ Keep in mind that the relation between nonexistence and the thing it is said to 
 
 These two relations apply in different ways. Being a kind is a relation among ideas in the mind, like other logical ideas. Being opposite is a relation among things outside the mind, even though the mind can hold both opposites together as ideas. This explanation untangles the issue better than some later philosophers’ accounts.
 
-#### Chapter — A nonexistent thing cannot be restored
+#### VIII. A nonexistent thing cannot be restored
 
 Nonexistence means only that existence is absent. Since existence is a thing’s very identity, one individual can have only one identity—and therefore one existence and one nonexistence. The same individual cannot exist twice or be absent twice. This is what the mystics mean when they say that God never reveals Himself in the same form twice.[^V01-632] It follows that something which has ceased to exist cannot return as exactly the same individual. If its identity really were the same, its existence would have to be the same too. Yet the argument treats that single existence as occurring more than once. It would be both one and many, which is a contradiction. It would also mean that the beginning and the return were the same state, though they are opposites. That is impossible.
 
@@ -2267,7 +2268,7 @@ We say to them and their followers: if by “the default” you mean what is com
 
 This is what Avicenna meant: when there is no proof that something is necessary, or that it is impossible, we should not deny it or claim that it is impossible. We should leave it within the bounds of possibility—that is, regard it as something reason may consider. He did not mean that we should believe it possible in itself. He also said that anyone who makes a habit of believing things without proof has turned away from human nature.
 
-#### Chapter — Why nonexistence is not a relation
+#### IX. Why nonexistence is not a relation
 
 The early philosophers held that the connection expressed by a statement is always affirmative, whether the statement says that something is so or says it is not.[^V01-643] A negative statement does not create a new connection of its own. It denies the connection asserted by the matching positive statement. It does not join the thing named to what is said about it; it denies that they are joined. We call it a statement that links a description to its subject only by comparing it with a positive statement.[^V01-644] For this reason, a negative statement has no separate status based on negation. Its status is the status of the matching affirmative connection. Later philosophers disagreed. They said that a negative statement has its own negative connection, different from an affirmative one, and that it too has a status of its own.
 
@@ -2289,7 +2290,7 @@ Now that you understand that negation, as negation, has no definite content that
 
 Our aim here is to show the way to truth and how to travel toward God. The detailed work belongs to the discipline of logic.
 
-#### Chapter — Why a negative statement still needs its two terms
+#### X. Why a negative statement still needs its two terms
 
 What we say about a thing may or may not exist outside the mind. But to make a judgment, we must have both the thing and what we say about it present in thought. We cannot judge what is not before the mind. The subject, too, must exist in thought in every statement, whether affirmative or negative. If a statement affirms something about the outside world, its subject must also exist there. You cannot affirm one thing of another unless that other thing exists in some way.
 
@@ -2337,7 +2338,7 @@ Or we may say that each requires one side without asking whether the other side 
 
 The author of *Durrat al-Taj* tried to challenge the claim that anything not strictly possible is broadly possible. He argued that if we consider a nature entirely by itself, it is neither strictly possible nor broadly possible. This objection does not work. The claim concerns how things stand in reality, not how the mind views them at one particular level.
 
-#### Chapter — Can God have a particular kind of nonexistence?
+#### XI. Can God have a particular kind of nonexistence?
 
 Philosophers commonly say that some particular ways of existing are impossible for God, whose existence depends on nothing. This does not conflict with His necessary existence. In the same way, a particular way of existing can be impossible for something that depends on another, without contradicting its basic possibility. It may even confirm it. Particular kinds of absence can also be impossible for something dependent, or for something impossible in itself—for example, an absence that comes after existence.
 
@@ -2345,7 +2346,7 @@ It is clear that God cannot exist in any of the dependent ways of existing: He c
 
 So a thing that exists only through change cannot, by its very nature, have a time before its existence when it was absent, then appear after that absence, or later become absent after it existed. These “before” and “after” relations belong to time. This does not mean that existence or nonexistence in general is impossible for such a thing. Likewise, once a real existence has taken place, a particular kind of absence that would remove it from reality—given its time, place, or qualities—is impossible for anything that depends on another. This is impossible as a feature of the thing, not by its nature.[^V01-669]
 
-#### Critique and clarification
+#### 1. Critique and clarification
 
 There is no doubt that ways of existing that involve limits cannot belong to God. But it is open to question whether a particular way of existing is impossible for Him simply because it is existence. Existence, taken as existence, is one simple reality. Its levels differ only in fullness or lack, strength or weakness. Lack and weakness amount to absence. Each level below God therefore has two sides: it is existence, and it falls short of complete perfection. Insofar as such a level falls short of perfection, it cannot belong to God. But insofar as it is existence, it must belong to Him, for He is necessary in every respect.
 
@@ -2371,7 +2372,7 @@ There is also another way to answer. Time and motion are unlike ordinary feature
 
 As long as we mean time and motion in this way, we cannot ask directly whether either one exists necessarily or possibly, lasts or ends. Such descriptions apply to them only because of something else. If we stop considering them in this way, they are no longer time or motion; they have become something else with different rules.[^V01-674]
 
-#### Chapter — What depends on something impossible in itself need not itself be impossible
+#### XII. What depends on something impossible in itself need not itself be impossible
 
 If something depends on what is impossible in itself, that does not mean the dependent thing is impossible in itself. It is impossible because of something else: the thing it depends on is impossible in itself.[^V01-675] Someone might say the case is different when what is depended on is the subject—the thing that is impossible in itself—and what depends on it is a property, such as its being impossible in itself. Then the subject's impossibility in itself would entail that the property is impossible in itself too. They say this follows from the special relation between a subject and the property that describes it.
 
@@ -2391,7 +2392,7 @@ Later, we will see that the familiar claim that one impossible thing entails ano
 
 Why? For one thing to entail another, one must depend on the other. Either one causes the other, or both are caused by something else. So at least one of them must be caused by something else. But anything caused by another is possible in itself, because a thing needs something else only if it is possible in itself. So what is impossible because of something else is possible in itself. Two things that are impossible in themselves do not entail one another, and neither does a thing entail what opposes it.
 
-#### A seeming problem, and its answer
+#### 1. A seeming problem, and its answer
 
 Someone might object: if the idea of something possible or impossible does not entail its opposite, how do proofs by assuming the opposite work? They establish something by assuming that it is false, then showing that the assumption leads to a contradiction. For example, to show that time has no beginning or end, they say that if it were absent before it existed, that earlier absence and its later existence could not be together. They make the same argument about its absence after it exists. And to show that spatial magnitudes are finite, they say that an unlimited magnitude would have to be limited.
 
@@ -2425,7 +2426,7 @@ As long as human minds are occupied with guiding these earthly bodies, they cann
 
 This is because most human souls in this world work mainly through imagination and the senses. What perceives must be of the same kind as what it perceives, just as food must be suited to the one who eats it. That is why these things are easy for us to know.
 
-#### Chapter — Can human beings know what things truly are?
+#### XIII. Can human beings know what things truly are?
 
 Some books say[^V01-679] that we can know composite things because we can define them by their constituent parts, but we cannot know simple things because their true natures cannot be understood. At most, we can describe them through their properties and effects. For example, the soul is said to be something that moves the body.[^V01-680] What we know about it, then, is that it moves the body; its true nature remains unknown. The argument is that people disagree about what things are because each person notices a different property and judges the thing by it. If we knew the true natures of things, we would also know their properties, near and remote, because knowing a cause leads to knowing its effects. If that were so, no claim about the properties of a thing would need to be proved. That is the argument.
 
@@ -2453,7 +2454,7 @@ In some parts of *The Healing*, Avicenna says that the defining feature of an an
 
 This shows that existence has real instances outside the mind. It is not merely an abstract idea in the mind, defined by its relation to whatever it is applied to and multiplied as those things multiply, as later thinkers have claimed. Avicenna’s words here are almost direct evidence for what we have argued.[^V01-687]
 
-#### Chapter — Different kinds of possibility
+#### XIV. Different kinds of possibility
 
 Possibility divides into what can exist in itself and what can exist in something else.[^V01-688] Anything that can exist in something else can also exist in itself, but the reverse is not always true. Something may be possible in itself without its existence being merely possible for another thing. It may have to exist for something else, as forms do for matter and underlying subjects do for their qualities. Or it may be unable to exist in something else at all, like substances that exist on their own.
 
@@ -2467,9 +2468,9 @@ But if a thing’s own possibility is not enough for it to receive existence, th
 
 These conditions must come before the thing exists; otherwise, it would not be something that comes into being. For this readiness to form, there must be earlier events, with no first event at the beginning of the chain. There must also be something that keeps changing in its very being and identity, so that coming into being and passing away belong to its nature.[^V01-694] And there must be a place for these events to occur. Through them, the thing becomes fully ready to receive what comes next. That place is matter.
 
-### Stage Three — What it means to bring things into existence
+### Stage Three: What it means to bring things into existence
 
-#### Chapter — Where the debate lies about making things, and the different views
+#### I. Where the debate lies about making things, and the different views
 
 There are two ways of bringing something about. In the first, a thing itself is brought into existence. This act concerns that thing alone, without joining it to anything else.[^V01-695] Compound making is making one thing be something, or making it have a quality. Its result is a statement such as “the human being is wise,” which requires two terms: what is made and what it is made to be. Anyone who thinks compound making ultimately reduces to simple making—that only one thing is made, such as the relation of having a quality, becoming something, or being described—has missed the point.
 
@@ -2505,7 +2506,7 @@ The second option is also false, because the Necessary Being has no nature apart
 
 Third,[^V01-704] the claim that the nature of heat must exist forever if it depends on no condition or cause is neither sound nor well grounded. Those who say that a maker’s effect is a thing’s existence, not its nature, do not claim that the nature stands on its own without existence, and then serves as something that receives existence. In their view, only existence is real outside the mind. What we call a thing’s nature is united with that existence. The mind can consider each existence and draw from it a meaning that it then describes as the thing’s nature. Existence is what is described; nature is the description. Nature comes from existence as a shadow comes from the person who casts it, and a shadow has no separate existence. We have explained this more than once.
 
-#### Chapter — Refuting the arguments that a cause makes a nature existent
+#### II. Refuting the arguments that a cause makes a nature existent
 
 Some later thinkers argued for the view held by Aristotle’s followers as follows. What makes something need a cause is its possibility, and possibility is only the way existence and the like relate to a nature. So what first needs a maker, and what the maker first brings about, is this relation.
 
@@ -2571,7 +2572,7 @@ So, for them, the effects that are luminous beings are real, individual results 
 
 It is also strange that most people who say makers make natures reject any difference in degree among instances of the same general kind or species. Yet they treat existence as a mental concept and say, openly or by implication, that the nature of a cause comes before the nature of its effect. If the cause and effect are both kinds of substance—for example, the Active Intellect and prime matter—they must admit that the cause’s substance comes before the effect’s substance. They are reluctant to accept this.
 
-#### Closer examination
+#### 1. Closer examination
 
 The question of differences in degree can be examined in a way that clears away the doubts, God willing. Here is a teaching from the Throne: sound reasoning shows that existence itself is what the maker brings about through simple making. Natures themselves are not made in this way, since, considered in themselves, they have no relation to their maker. We have shown that anything insofar as it is caused is connected to its cause in some way, though the nature of this connection is hard to grasp. This is true whether existence has a nature that by itself requires a relation to another nature, with nothing between the two, or not. Someone might ask: why is the maker’s first effect not a nature’s being existent, as Aristotle’s followers commonly say—in the sense of a compound statement?[^V01-727]
 
@@ -2627,7 +2628,7 @@ A question that asks us to understand a thing—especially by defining it—depe
 
 This establishes the difference between accepting a claim as true and forming an idea of something. With a little thought, it also answers both objections.
 
-#### Chapter — Can existence grow stronger or weaker?
+#### III. Can existence grow stronger or weaker?
 
 Growth or decline in intensity is motion in quality, just as increase or decrease is motion in quantity.[^V01-746] Motion in a category means that, at each imagined moment, the changing thing is in a state of that category different—in kind, type, or some other way—from its state at another moment. Some think this means that the category itself changes in its state. That is wrong. To become blacker, for example, does not mean that one and the same blackness grows stronger. That would make blackness itself the thing moving, even though the first blackness is incomplete in itself and is not the same as the stronger one.
 
@@ -2645,7 +2646,7 @@ The truth here is that the instances of the kind in which motion takes place are
 
 Nor can you return and say that, for existence to grow stronger or weaker, it is enough that the thing remains stable.[^V01-754] Motion requires its subject to persist, but a state that exists only in time does not persist at all—not during the time when it exists, nor beyond that time. A fuller explanation will come in our discussion of motion and time, God willing.
 
-#### Chapter — Degrees of intensity and weakness
+#### IV. Degrees of intensity and weakness
 
 Perhaps you have learned in your earlier studies that two things can differ, in reality or in thought, in one of three ways.[^V01-755] They may differ in their entire essence, sharing no essential feature, as the categories do. Or they may share an essential nature but differ in one part of it: the shared nature is the broader kind, and what distinguishes each kind within it is its defining feature. Together, broader kind and defining feature make a specific nature; this is a unified kind of composition. Or they may share their whole essential nature and differ only through added accidental features. What results are individual or species-level instances, joined by those added features.
 

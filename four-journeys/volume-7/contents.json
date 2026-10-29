@@ -1,0 +1,808 @@
+{
+  "version": 1,
+  "initiallyCollapsed": true,
+  "languages": {
+    "en": {
+      "sourceHash": "93edd0ad981490feaadc92603d2d2b69110fd2ae8617a811323e5ef03970bfe0",
+      "entries": [
+        {
+          "id": "passage-en-00004",
+          "level": 1,
+          "kind": "opening",
+          "label": "Opening pages"
+        },
+        {
+          "id": "passage-en-00070",
+          "level": 1,
+          "kind": "division",
+          "label": "Station Seven: Divine speech and the Book",
+          "expanded": false
+        },
+        {
+          "id": "passage-en-00072",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. What it means to speak"
+        },
+        {
+          "id": "passage-en-00075",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. The purpose of speech"
+        },
+        {
+          "id": "passage-en-00084",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Supporting testimony"
+        },
+        {
+          "id": "passage-en-00088",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. The difference between speech and the Book, and between speaking and writing"
+        },
+        {
+          "id": "passage-en-00096",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. How speech and the Book correspond"
+        },
+        {
+          "id": "passage-en-00102",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. The beginning and end of speech and the Book"
+        },
+        {
+          "id": "passage-en-00114",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VI. Why God sent down Books and sent messengers to creation"
+        },
+        {
+          "id": "passage-en-00122",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VII. How speech descends and revelation comes from God through the angel to the Prophet’s heart and then to creation, as it emerges from the unseen into the visible"
+        },
+        {
+          "id": "passage-en-00141",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VIII. Uncovering the Book and revealing the inner meaning and spirit of speech to those who understand"
+        },
+        {
+          "id": "passage-en-00145",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IX. Understanding the saying of the Commander of the Faithful, the leader of those who affirm God’s oneness: “All of the Qur'an is in the bāʾ of ‘In the name of God,’ and I am the dot beneath the bāʾ”"
+        },
+        {
+          "id": "passage-en-00151",
+          "level": 2,
+          "kind": "chapter",
+          "label": "X. The difference between God’s Book that is created and His Book that creates"
+        },
+        {
+          "id": "passage-en-00157",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XI. The Prophet’s saying that the Qur'an has an outer meaning, an inner meaning, a limit, and a point of arrival"
+        },
+        {
+          "id": "passage-en-00170",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XII. Clarifying that the Book’s inner core is known only to God’s people, those with insight and understanding"
+        },
+        {
+          "id": "passage-en-00182",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIII. Describing the Qur'an through symbols and signs"
+        },
+        {
+          "id": "passage-en-00191",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A warning and reminder"
+        },
+        {
+          "id": "passage-en-00197",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIV. The books that record what is erased and what is made firm"
+        },
+        {
+          "id": "passage-en-00205",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XV. The Qur'an’s names and descriptions"
+        },
+        {
+          "id": "passage-en-00224",
+          "level": 1,
+          "kind": "division",
+          "label": "Station Eight: Divine care and mercy"
+        },
+        {
+          "id": "passage-en-00225",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. On providence"
+        },
+        {
+          "id": "passage-en-00230",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. Good and evil"
+        },
+        {
+          "id": "passage-en-00237",
+          "level": 3,
+          "kind": "group",
+          "label": "Kind One: Harm suffered directly from the harmful thing"
+        },
+        {
+          "id": "passage-en-00248",
+          "level": 4,
+          "kind": "section",
+          "label": "1. A difficulty and an answer"
+        },
+        {
+          "id": "passage-en-00259",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. Five possible ways good and evil can be combined"
+        },
+        {
+          "id": "passage-en-00267",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. Why the kinds of evil just described exist only in the world of change and decay"
+        },
+        {
+          "id": "passage-en-00273",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. How evils enter God’s decree"
+        },
+        {
+          "id": "passage-en-00292",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VI. Answering objections about good and evil"
+        },
+        {
+          "id": "passage-en-00316",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VII. Why what people call evils occur in this world"
+        },
+        {
+          "id": "passage-en-00326",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VIII. The relative amounts of good and evil"
+        },
+        {
+          "id": "passage-en-00359",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IX. The visible world, like the world understood by the mind, is made as well and as fully as it can be"
+        },
+        {
+          "id": "passage-en-00366",
+          "level": 2,
+          "kind": "chapter",
+          "label": "X. In detail, every level of created beings is the best and noblest possible; two approaches, from cause to effect and from effect to cause"
+        },
+        {
+          "id": "passage-en-00367",
+          "level": 3,
+          "kind": "group",
+          "label": "First approach: from cause to effect"
+        },
+        {
+          "id": "passage-en-00368",
+          "level": 4,
+          "kind": "section",
+          "label": "1. Everything in the descending order exists in the best possible way"
+        },
+        {
+          "id": "passage-en-00376",
+          "level": 4,
+          "kind": "section",
+          "label": "2. The beings and generated things that rise through the world of composition are perfectly ordered"
+        },
+        {
+          "id": "passage-en-00380",
+          "level": 4,
+          "kind": "section",
+          "label": "3. The world as a whole, in kind and in individual reality, has the best order and fullest completion"
+        },
+        {
+          "id": "passage-en-00386",
+          "level": 5,
+          "kind": "section",
+          "label": "1. A question and further examination"
+        },
+        {
+          "id": "passage-en-00391",
+          "level": 3,
+          "kind": "group",
+          "label": "Second approach: from effect to cause"
+        },
+        {
+          "id": "passage-en-00395",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XI. A few signs of God’s wisdom and care in creating the heavens and earth"
+        },
+        {
+          "id": "passage-en-00408",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XII. An example of His care in creating compound beings"
+        },
+        {
+          "id": "passage-en-00419",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIII. Signs of God’s wisdom and care in creating the human being"
+        },
+        {
+          "id": "passage-en-00440",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIV. God’s care in creating the earth and what it contains for human benefit"
+        },
+        {
+          "id": "passage-en-00451",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XV. The wonders of God’s work in the celestial bodies and the lights of the stars"
+        },
+        {
+          "id": "passage-en-00469",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XVI. All beings love God, long to meet Him, and seek His home of honor"
+        },
+        {
+          "id": "passage-en-00495",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XVII. Another way to show that love runs through all things"
+        },
+        {
+          "id": "passage-en-00503",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XVIII. The beloved is one in the end, but each kind has its own near beloved"
+        },
+        {
+          "id": "passage-en-00524",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIX. On the separate forms that serve as models"
+        },
+        {
+          "id": "passage-en-00531",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XX. Why refined men and youths love beautiful faces"
+        },
+        {
+          "id": "passage-en-00554",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXI. The things beings love differ with their levels of existence"
+        },
+        {
+          "id": "passage-en-00566",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXII. People differ in what they love"
+        },
+        {
+          "id": "passage-en-00578",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXIII. Divine love belongs especially to perfected mystics and saints who have reached God"
+        },
+        {
+          "id": "passage-en-00588",
+          "level": 1,
+          "kind": "division",
+          "label": "Station Nine: God’s creative act"
+        },
+        {
+          "id": "passage-en-00589",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. Preliminary principles for identifying the first things that come from God and the existence proper to each"
+        },
+        {
+          "id": "passage-en-00609",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. The first thing to come from the First Reality must be one"
+        },
+        {
+          "id": "passage-en-00617",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. Another proof that the first thing to come from the First Reality must be one"
+        },
+        {
+          "id": "passage-en-00627",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. Objections to this rule and replies to them"
+        },
+        {
+          "id": "passage-en-00677",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. Another argument that the first thing to come from the First Reality is simple and one"
+        },
+        {
+          "id": "passage-en-00699",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VI. The principle that the nobler possible being comes before the lower one"
+        },
+        {
+          "id": "passage-en-00724",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VII. What follows from the principles established so far"
+        },
+        {
+          "id": "passage-en-00766",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Closing clarification: Resolving a difficult objection"
+        },
+        {
+          "id": "passage-en-00777",
+          "level": 1,
+          "kind": "division",
+          "label": "Station Ten: God’s unceasing generosity"
+        },
+        {
+          "id": "passage-en-00779",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. Why this question matters, and why God’s unceasing giving is compatible with a world that comes into being and changes"
+        },
+        {
+          "id": "passage-en-00795",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. Another proof that bodies come into being"
+        },
+        {
+          "id": "passage-en-00822",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. The theologians’ arguments and some of their views on this question"
+        },
+        {
+          "id": "passage-en-00838",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. Some arguments used by theologians and religious communities to show that God’s outpouring stops"
+        },
+        {
+          "id": "passage-en-00896",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. How to reconcile revelation and philosophy on God’s unceasing giving and the world’s coming into being"
+        },
+        {
+          "id": "en-notes-head",
+          "level": 1,
+          "kind": "notes"
+        }
+      ]
+    },
+    "ar": {
+      "sourceHash": "1886f4712c192d41a59eaacbf3759c9b0bc5ad5a7c62f370fad7b451c5f1b762",
+      "entries": [
+        {
+          "id": "passage-ar-00005",
+          "level": 1,
+          "kind": "opening",
+          "label": "الصفحات الافتتاحية"
+        },
+        {
+          "id": "passage-ar-00071",
+          "level": 1,
+          "kind": "division",
+          "label": "الموقف السابع: من السفر الثالث في أنه تعالى متكلم",
+          "expanded": false
+        },
+        {
+          "id": "passage-ar-00073",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في تحصيل مفهوم التكلم"
+        },
+        {
+          "id": "passage-ar-00076",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في تحصيل الغرض من الكلام"
+        },
+        {
+          "id": "passage-ar-00086",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في الفرق بين الكلام والكتاب والتكلم والكتابة"
+        },
+        {
+          "id": "passage-ar-00092",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في وجوه من المناسبة بين الكلام والكتاب"
+        },
+        {
+          "id": "passage-ar-00096",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في مبدء الكلام والكتاب وغايتهما"
+        },
+        {
+          "id": "passage-ar-00103",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٦. في فائدة انزال الكتب وارسال الرسل إلى الخلق"
+        },
+        {
+          "id": "passage-ar-00109",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٧. في كيفية نزول الكلام وهبوط الوحي من عند الله"
+        },
+        {
+          "id": "passage-ar-00124",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٨. في كشف النقاب عن وجه الكتاب ورفع الحجاب عن سر الكلام وروحه لأولي الألباب"
+        },
+        {
+          "id": "passage-ar-00129",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٩. في تحقيق كلام أمير المؤمنين وامام الموحدين على ع كما ورد"
+        },
+        {
+          "id": "passage-ar-00134",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٠. في بيان الفرق بين كتابه المخلوق وكتابه الخالق"
+        },
+        {
+          "id": "passage-ar-00139",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١١. في تحقيق قول النبي ص ان للقرآن ظهرا وبطنا وحدا ومطلعا"
+        },
+        {
+          "id": "passage-ar-00147",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٢. في توضيح ما ذكرناه وتبيين ما أجملناه من كون معرفه لب الكتاب مختصه باهل الله من ذوى البصائر والألباب"
+        },
+        {
+          "id": "passage-ar-00154",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٣. في نعت القرآن بلسان الرمز والإشارة"
+        },
+        {
+          "id": "passage-ar-00159",
+          "level": 3,
+          "kind": "section",
+          "label": "١. تنبيه واشعار"
+        },
+        {
+          "id": "passage-ar-00163",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٤. في الإشارة إلى نسخ الكتب ومحوها واثباتها"
+        },
+        {
+          "id": "passage-ar-00169",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٥. في ذكر ألقاب القرآن ونعوته"
+        },
+        {
+          "id": "passage-ar-00178",
+          "level": 1,
+          "kind": "division",
+          "label": "الموقف الثامن: في العناية الإلهية والرحمة"
+        },
+        {
+          "id": "passage-ar-00180",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في القول في العناية"
+        },
+        {
+          "id": "passage-ar-00185",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في مباحث الخير والشر"
+        },
+        {
+          "id": "passage-ar-00190",
+          "level": 3,
+          "kind": "group",
+          "label": "القسم الأول: ما كان مواصلا للمضرور به المؤف من جهة وجوده فيدركه مدرك"
+        },
+        {
+          "id": "passage-ar-00202",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في اقسام الاحتمالات التي للموجود من جهة الخير والشر"
+        },
+        {
+          "id": "passage-ar-00207",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في أن جميع أنواع الشرور من القسم المذكور لا توجد الا في عالم الكون والفساد"
+        },
+        {
+          "id": "passage-ar-00209",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في كيفية دخول الشرور في القضاء الإلهي"
+        },
+        {
+          "id": "passage-ar-00220",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٦. في دفع أوهام وقعت للناس في مسألة الخير والشر"
+        },
+        {
+          "id": "passage-ar-00236",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٧. في أن وقوع ما يعده الجمهور شرورا في هذا العالم"
+        },
+        {
+          "id": "passage-ar-00243",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٨. في بيان كميه أنواع الخيرات والشرور الإضافية"
+        },
+        {
+          "id": "passage-ar-00267",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٩. في أن العالم المحسوس كالعالم المعقول مخلوق على أجود ما يتصور في حقه وأبلغ ما يمكن على وجه الاجمال"
+        },
+        {
+          "id": "passage-ar-00271",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٠. في بيان ان كل مرتبه من مراتب مجعولاته أفضل ما يمكن وأشرف ما يتصور على الوجه التفصيلي وفيه منهجان لمى وانى"
+        },
+        {
+          "id": "passage-ar-00272",
+          "level": 3,
+          "kind": "group",
+          "label": "المنهج اللمي"
+        },
+        {
+          "id": "passage-ar-00274",
+          "level": 4,
+          "kind": "section",
+          "label": "١. في بيان ان كل ما وقع في مراتب البدء على أفضل انحاء الوجود"
+        },
+        {
+          "id": "passage-ar-00280",
+          "level": 4,
+          "kind": "section",
+          "label": "٢. في بيان ان الموجودات العائدة والكائنات الواقعة في مراتب"
+        },
+        {
+          "id": "passage-ar-00283",
+          "level": 4,
+          "kind": "section",
+          "label": "٣. في أن مجموع العالم من حيث المجموع على أفضل نظام و أكمل تمام نوعا وشخصا ماهية وحقيقة"
+        },
+        {
+          "id": "passage-ar-00287",
+          "level": 5,
+          "kind": "section",
+          "label": "١. بحث وتحصيل"
+        },
+        {
+          "id": "passage-ar-00291",
+          "level": 3,
+          "kind": "group",
+          "label": "المنهج الاني"
+        },
+        {
+          "id": "passage-ar-00295",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١١. في نبذ من آثار حكمته تعالى وعنايته في خلق السماوات والأرض"
+        },
+        {
+          "id": "passage-ar-00306",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٢. في ذكر أنموذج من آثار عنايته في خلق المركبات"
+        },
+        {
+          "id": "passage-ar-00313",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٣. في آيات حكمته وعنايته في خلق الانسان"
+        },
+        {
+          "id": "passage-ar-00326",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٤. في عنايته تعالى في خلق الأرض وما عليها لينتفع بها الانسان"
+        },
+        {
+          "id": "passage-ar-00334",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٥. في بدائع صنع الله في الاجرام الفلكية والأنوار الكوكبية"
+        },
+        {
+          "id": "passage-ar-00345",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٦. في اثبات ان جميع الموجودات عاشقه لله سبحانه مشتاقة إلى لقائه والوصول إلى دار كرامته"
+        },
+        {
+          "id": "passage-ar-00362",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٧. في بيان طريق آخر في سريان معنى العشق في كل الأشياء"
+        },
+        {
+          "id": "passage-ar-00366",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٨. في بيان ان المعشوق الحقيقي لجميع الموجودات وإن كان شيئا واحدا في المال وهو نيل الخير المطلق والجمال الأكمل الا ان لكل واحد من أصناف الموجودات معشوقا خاصا قريبا يتوسل بعشقه إلى ذلك المعشوق العام"
+        },
+        {
+          "id": "passage-ar-00385",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٩. في التنبيه على اثبات الصور المفارقة التي هي مثل الأصنام"
+        },
+        {
+          "id": "passage-ar-00390",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٠. في ذكر عشق الظرفاء والفتيان للأوجه الحسان"
+        },
+        {
+          "id": "passage-ar-00403",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢١. في أن تفاوت المعشوقات لتفاوت الوجودات"
+        },
+        {
+          "id": "passage-ar-00413",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٢. في اختلاف الناس في المحبوبات"
+        },
+        {
+          "id": "passage-ar-00424",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٣. في الإشارة إلى المحبة الإلهية المختصة بالعرفاء الكاملين والأولياء الواصلين"
+        },
+        {
+          "id": "passage-ar-00433",
+          "level": 1,
+          "kind": "division",
+          "label": "الموقف التاسع: في فيضه تعالى وابداعه وفعله"
+        },
+        {
+          "id": "passage-ar-00434",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في تمهيد أصول يحتاج إلى معرفتها في تحقيق أول الهويات الصادرة عنه تعالى وان اي وجود يخصه"
+        },
+        {
+          "id": "passage-ar-00447",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في أن أول ما يصدر عن الحق الأول يجب ان يكون امرا واحدا"
+        },
+        {
+          "id": "passage-ar-00454",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في سياقه أخرى من الكلام لتبيين هذا المرام أورده بهمنيار في كتاب التحصيل تلخيصا لما قد تكرر ذكره في كلام الشيخ الرئيس سيما في التعليقات"
+        },
+        {
+          "id": "passage-ar-00465",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في ذكر شكوك أوردت على هذه القاعدة والإشارة إلى دفعها"
+        },
+        {
+          "id": "passage-ar-00500",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في الإشارة إلى منهج آخر في أن الصادر الأول واحد غير مركب"
+        },
+        {
+          "id": "passage-ar-00517",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٦. في قاعده امكان الأشرف الموروثة من الفيلسوف الأول مما يتشعب عن أصل امتناع صدور الكثرة عن الواحد الحق"
+        },
+        {
+          "id": "passage-ar-00539",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٧. في نتيجة ما قدمناه من الأصول وثمره ما أصلناه في هذه الفصول"
+        },
+        {
+          "id": "passage-ar-00570",
+          "level": 3,
+          "kind": "section",
+          "label": "١. تكميل انحلالي لشك اعضالي"
+        },
+        {
+          "id": "passage-ar-00579",
+          "level": 1,
+          "kind": "division",
+          "label": "الموقف العاشر: في دوام جود المبدء الأول"
+        },
+        {
+          "id": "passage-ar-00581",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في الإشارة إلى شرف هذه المسألة وان دوام الفيض"
+        },
+        {
+          "id": "passage-ar-00593",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في بيان حدوث الأجسام بالبرهان من ماخذ آخر مشرقي غير ما سلف في مباحث احكام الجوهر من العلم الكلى"
+        },
+        {
+          "id": "passage-ar-00608",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في ذكر ملفقات المتكلمين ونبذ من آرائهم وأبحاثهم في هذه المسألة"
+        },
+        {
+          "id": "passage-ar-00621",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في بعض احتجاجات المتكلمين وأرباب الملل انقطاع الفيض"
+        },
+        {
+          "id": "passage-ar-00652",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في طريق التوفيق بين الشريعة والحكمة في دوام فيض الباري وحدوث العالم"
+        },
+        {
+          "id": "ar-notes-head",
+          "level": 1,
+          "kind": "notes"
+        }
+      ]
+    }
+  }
+}

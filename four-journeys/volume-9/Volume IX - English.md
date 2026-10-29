@@ -5,72 +5,73 @@
 **Mulla Sadra (Ṣadr al-Dīn Muḥammad al-Shīrāzī)**
 
 ## Contents
-- Book Eight — Refuting the idea that souls move from one body to another, and answering its proponents
-  - Chapter 1 — A proof from the highest realm
-  - Chapter 2 — Refuting the forms of transmigration and its proponents' arguments
-  - Chapter 3 — Addressing the remaining doubts and answering them
-  - Chapter 4 — How the soul relates to the body, and the difference between natural death and death from an outside cause
-  - Chapter 5 — Every person has one self: the soul itself is the living, perceiving, and thinking being
-  - Chapter 6 — A weakness in the argument of the author of The Book of Discussions
-  - Chapter 7 — The body's powers are shadows of the soul's inner powers
-  - Chapter 8 — What the soul first connects to
-- Book Nine — The human soul's traits, actions, reactions, and stages
-  - Chapter 1 — The human being's distinctive traits
-  - Chapter 2 — The main qualities of the soul and the roots of good and bad character
-  - Chapter 3 — The stages of a person, according to the powers of the soul
-  - Chapter 4 — How perception rises from the lowest level to the highest
-  - Chapter 5 — Why some powers of the soul are more divided than others, and how they remain powers of one person as they change
-- Book Ten — The spiritual afterlife, intellectual happiness and misery, and other forms of happiness and misery
-  - Chapter 1 — What true happiness is
-  - Chapter 2 — How the soul reaches this happiness, and why it is kept from it in this world
-  - Chapter 3 — Misery opposed to true happiness
-  - Chapter 4 — Why some souls lack intellectual knowledge and miss happiness in the afterlife
-  - Chapter 5 — How the Active Intellect becomes present in our souls
-  - Chapter 6 — The Anqa, the spiritual being of the mystics, described through symbols
-  - Chapter 7 — Sensory happiness and misery in the afterlife, apart from true intellectual happiness and misery
-  - Chapter 8 — The different views about resurrection
-  - Chapter 9 — Arguments of those who deny resurrection
-  - Chapter 10 — How people differ in their understanding of the afterlife
-  - Chapter 11 — The nobility of knowing the afterlife and the greatness of understanding the resurrection of souls and bodies
-- Book Eleven — Bodily resurrection and the states of the afterlife
-  - Chapter 1 — Principles needed to establish this subject
-  - Chapter 2 — What follows from these principles
-  - Chapter 3 — Answering the doubts of those who deny the resurrection of bodies
-  - Chapter 4 — The true grave: a garden of paradise or a pit of Fire
-  - Chapter 5 — A brief note on the punishment of the grave
-  - Chapter 6 — What remains of the human being
-  - Chapter 7 — The basis of the next life's lasting forms
-  - Chapter 8 — Resurrection
-  - Chapter 9 — How people are gathered
-  - Chapter 10 — The human soul passes through many resurrections, before and after this body comes into being
-  - Chapter 11 — A person passes through countless resurrections
-  - Chapter 12 — A reminder that death and resurrection are real
-  - Chapter 13 — How all beings, even plants and lifeless things, return to God, as the Qur'an teaches
-  - Chapter 14 — What “the Hour” means
-  - Chapter 15 — What it means to blow the Trumpet
-  - Chapter 16 — The small and the great Resurrection
-  - Chapter — Which bodies are raised in the afterlife, and which are not
-  - Chapter — The state of people of insight here
-  - Chapter — The Straight Path
-  - Chapter — Spreading out the records and bringing out the books
-  - Chapter — The nature of reckoning and the scales
-  - Chapter 22 — Groups of people on the Day of Resurrection
-  - Chapter 23 — Events that take place on the Day of Resurrection
-  - Chapter 24 — What Paradise and Hell are
-  - Chapter 25 — Signs and forms of Paradise and Hell
-  - Chapter 26 — The gates of Paradise and Hell
-  - Chapter 27 — Further insight into what Paradise and Hell are
-  - Chapter 28 — How the people of Hell remain in Hell
-  - Chapter 29 — What Hell is made of and what form it takes
-  - Chapter 30 — Where the pain and punishment of Hell are felt
-  - Chapter 31 — The gatekeepers of Hell and their number
-  - Chapter 32 — The stages of the journey to God and the way to the true Paradise
-  - Chapter 33 — The Tree of Tuba and the Tree of Zaqqum
-  - Chapter 34 — How the states and effects of the people of Paradise and Hell continually renew
 
-### Book Eight — Refuting the idea that souls move from one body to another, and answering its proponents
+- Book Eight: Refuting the idea that souls move from one body to another, and answering its proponents
+  - I. A proof from the highest realm
+  - II. Refuting the forms of transmigration and its proponents' arguments
+  - III. Addressing the remaining doubts and answering them
+  - IV. How the soul relates to the body, and the difference between natural death and death from an outside cause
+  - V. Every person has one self: the soul itself is the living, perceiving, and thinking being
+  - VI. A weakness in the argument of the author of The Book of Discussions
+  - VII. The body's powers are shadows of the soul's inner powers
+  - VIII. What the soul first connects to
+- Book Nine: The human soul's traits, actions, reactions, and stages
+  - I. The human being's distinctive traits
+  - II. The main qualities of the soul and the roots of good and bad character
+  - III. The stages of a person, according to the powers of the soul
+  - IV. How perception rises from the lowest level to the highest
+  - V. Why some powers of the soul are more divided than others, and how they remain powers of one person as they change
+- Book Ten: The spiritual afterlife, intellectual happiness and misery, and other forms of happiness and misery
+  - I. What true happiness is
+  - II. How the soul reaches this happiness, and why it is kept from it in this world
+  - III. Misery opposed to true happiness
+  - IV. Why some souls lack intellectual knowledge and miss happiness in the afterlife
+  - V. How the Active Intellect becomes present in our souls
+  - VI. The Anqa, the spiritual being of the mystics, described through symbols
+  - VII. Sensory happiness and misery in the afterlife, apart from true intellectual happiness and misery
+  - VIII. The different views about resurrection
+  - IX. Arguments of those who deny resurrection
+  - X. How people differ in their understanding of the afterlife
+  - XI. The nobility of knowing the afterlife and the greatness of understanding the resurrection of souls and bodies
+- Book Eleven: Bodily resurrection and the states of the afterlife
+  - I. Principles needed to establish this subject
+  - II. What follows from these principles
+  - III. Answering the doubts of those who deny the resurrection of bodies
+  - IV. The true grave: a garden of paradise or a pit of Fire
+  - V. A brief note on the punishment of the grave
+  - VI. What remains of the human being
+  - VII. The basis of the next life's lasting forms
+  - VIII. Resurrection
+  - IX. How people are gathered
+  - X. The human soul passes through many resurrections, before and after this body comes into being
+  - XI. A person passes through countless resurrections
+  - XII. A reminder that death and resurrection are real
+  - XIII. How all beings, even plants and lifeless things, return to God, as the Qur'an teaches
+  - XIV. What “the Hour” means
+  - XV. What it means to blow the Trumpet
+  - XVI. The small and the great Resurrection
+  - XVII. Which bodies are raised in the afterlife, and which are not
+  - XVIII. The state of people of insight here
+  - XIX. The Straight Path
+  - XX. Spreading out the records and bringing out the books
+  - XXI. The nature of reckoning and the scales
+  - XXII. Groups of people on the Day of Resurrection
+  - XXIII. Events that take place on the Day of Resurrection
+  - XXIV. What Paradise and Hell are
+  - XXV. Signs and forms of Paradise and Hell
+  - XXVI. The gates of Paradise and Hell
+  - XXVII. Further insight into what Paradise and Hell are
+  - XXVIII. How the people of Hell remain in Hell
+  - XXIX. What Hell is made of and what form it takes
+  - XXX. Where the pain and punishment of Hell are felt
+  - XXXI. The gatekeepers of Hell and their number
+  - XXXII. The stages of the journey to God and the way to the true Paradise
+  - XXXIII. The Tree of Tuba and the Tree of Zaqqum
+  - XXXIV. How the states and effects of the people of Paradise and Hell continually renew
 
-#### Chapter 1 — A proof from the highest realm
+### Book Eight: Refuting the idea that souls move from one body to another, and answering its proponents
+
+#### I. A proof from the highest realm
 
 This question is a place where people easily lose their footing and go astray. The reason is that some statements by the earliest prophets and spiritually accomplished people seem, at first, to support the idea that souls move from one body to another. Some accounts of what Plato, Socrates, and other ancient philosophers said also seem to support it. We will show that these statements have a sound meaning that does not involve transmigration. By God's grace, we have also been given a strong proof that rules out every kind of it, whether a soul is supposed to move down into a lower kind of body or rise into a higher one.
 
@@ -106,7 +107,7 @@ The same may be true of what is reported about Aristotle changing his mind and a
 
 As for souls that have reached full understanding—those who know, whether their actions are also complete or remain middling—everyone agrees that they are free from bodies, whether earthly or afterlife bodies. They belong to the company of intellects free from bodies, dimensions, motion, and matter. This is so whether the transfer spoken of by the ancient philosophers is true or false.
 
-#### Chapter 2 — Refuting the forms of transmigration and its proponents' arguments
+#### II. Refuting the forms of transmigration and its proponents' arguments
 
 Some transmigrationists say that human souls move from their human bodies into animal bodies whose character and actions resemble their own. A small group of philosophers known as transmigrationists held this view.[^V09-2] They claimed that no soul can become separate from its body after death, because it is material. It must therefore keep moving among animal bodies and other bodies. They found this view easier to accept.
 
@@ -216,7 +217,7 @@ Even if animals have souls that are separate from matter and directed toward per
 
 Even if animals are open to intellectual completion, they need not pass through the human level to reach it. There are many paths to God and to the world of the divine kingdom. As the Qur'an says, “Each has a direction toward which it turns,” and “There is no creature but He holds it by its forelock. My Lord is on a straight path.”[^V09-29] This is the human path that leads to the Lord of Muhammad, Hud, and the other prophets, the name that gathers all the divine names. Other paths lead to the lords of different kinds and the names that belong to them, such as the Avenger, the One who humbles, the Compeller, and the One who leads astray.
 
-#### Chapter 3 — Addressing the remaining doubts and answering them
+#### III. Addressing the remaining doubts and answering them
 
 Know that transmigrationists have other arguments that we need to present and answer. The issue is easily confused and hard to follow. That is why people widely believe that the ancient philosophers, despite their great wisdom, taught transmigration. In our view, this is simply a false accusation based on confusing the resurrection of souls with their transfer into other bodies.
 
@@ -310,7 +311,7 @@ He explains elsewhere that the first realm is called the “possible unseen,” 
 
 Some people perceive these images through the senses while awake; others perceive them through imagination. In dreams, they are certainly perceived through imagination. Ibn Arabi also says that after death, in the imaginal realm, people perceive things through the same images they had in this life. Each person there is held by what they have earned, confined within the forms of their actions until the resurrection in the next life.
 
-#### Chapter 4 — How the soul relates to the body, and the difference between natural death and death from an outside cause
+#### IV. How the soul relates to the body, and the difference between natural death and death from an outside cause
 
 Know that the soul carries the body; the body does not carry the soul, as most people think. They hear that the soul is the product of the elements and the balance of bodily qualities. They suppose that the soul comes from the body, grows stronger when the body is nourished, and grows weaker when it is not. This is mistaken. The soul brings the body into being and gives it its form. It moves the body in different directions.[^V09-54] The soul is present with the body, its powers, and its limbs, guiding them as it wills and taking them wherever it wishes. It can move the body down or lift it up, despite the body's heaviness. When the soul wants to lift it, the body rises and its heaviness gives way to lightness. When it wants to lower the body, it moves down and its lightness gives way to heaviness.
 
@@ -350,7 +351,7 @@ The people on this ship, caught in such a storm, respond in one of two ways. If 
 
 But if they do not understand God's plan—that all that the Wise One does is good and right—and do not accept the call to trust and surrender, their reward is Hell. They are kept from happiness and far from the pleasure of God, the All-Knowing and All-Wise.
 
-#### Chapter 5 — Every person has one self: the soul itself is the living, perceiving, and thinking being
+#### V. Every person has one self: the soul itself is the living, perceiving, and thinking being
 
 It is also the being that hears and sees, nourishes and grows, and reproduces. In a sense, it is the natural body that moves, grows, and senses.
 
@@ -418,7 +419,7 @@ We answer: the intellect gives its qualities to external matter by bringing thin
 
 Until then, the soul passes through different stages and needs all of them: sometimes it is at the level of sense and nature, sometimes at the level of soul and imagination, and sometimes at the level of intellect and what it understands. This is its condition as long as it is connected to the natural body. Once it leaves this world, it is at the level of separate intellect if it has reached full maturity in knowledge and action. If it has not, it remains at the second, imaginal level of the afterlife. There it takes on forms that fit its habits and states, which differ from one soul to another.
 
-#### Chapter 6 — A weakness in the argument of the author of The Book of Discussions
+#### VI. A weakness in the argument of the author of The Book of Discussions
 
 As the light of truth has dawned on you from its horizon, as we have reminded you many times, consider the argument of one who argues for many sources of human actions, some bodily and some spiritual. The argument, in brief, is this: if the soul and its powers were one thing, the soul would have to be joined to matter when it nourishes the body, makes it grow, reproduces, and senses bodily things. Yet it would have to detach itself from matter when it understands abstract truths.[^V09-72] But that is impossible.
 
@@ -452,7 +453,7 @@ We have explained in several places that the direct sources of motion and change
 
 The same is true of the powers of plants and animals, as we explained in our discussion of forms. This is why we return to what we have said about the unity of the soul.
 
-#### Chapter 7 — The body's powers are shadows of the soul's inner powers
+#### VII. The body's powers are shadows of the soul's inner powers
 
 Know that the powers present in the body and its organs belong to the natural human being. They are shadows and likenesses of the guiding soul and its powers—the human being of the next life. That imaginal human being, with its own powers and organs, is in turn a shadow and likeness of the intellectual human being, with its own aspects and qualities. The natural body, its organs, and its qualities are therefore shadows of shadows and likenesses of likenesses of what exists in the human intellect.[^V09-83]
 
@@ -484,7 +485,7 @@ The soul's effect on an image already present within it is like sunlight falling
 
 The soul also perceives things that are visible outside it. As we explained earlier in our discussion of sight, the material thing and its position in relation to the eye prepare the soul to bring forth an image like that thing. The image is separate from matter and its material conditions, and exists in the soul's own realm, like an imagined image. The difference is that an image of something seen depends on an outside object and its conditions, while an imagined image does not.
 
-#### Chapter 8 — What the soul first connects to
+#### VIII. What the soul first connects to
 
 The soul acts on the body's dense, material organs only through a suitable medium that connects the two. This medium is a fine, light substance called the spirit. It flows through the organs by way of the nerves in the brain. The claim that the soul first acts through this spirit—said to be formed from the finer, vaporous part of the bodily fluids, while the body is formed from their thicker, coarser part—is close to obvious and needs no proof. The levels of existence are arranged from fine to coarse, just as they are arranged from noble to low.
 
@@ -510,11 +511,11 @@ We answer that some commentators on the *Canon of Medicine* say no conclusive pr
 
 A full treatment of this question belongs in medical books.
 
-### Book Nine — The human soul's traits, actions, reactions, and stages
+### Book Nine: The human soul's traits, actions, reactions, and stages
 
 Some of the soul's powers exist at a higher level than others and are less open to division. This book has several chapters.
 
-#### Chapter 1 — The human being's distinctive traits
+#### I. The human being's distinctive traits
 
 One distinctive human trait is speech. Consider the wisdom God showed in making human beings from the elements: He gave them a system of words shared by agreement. We need others to live in this world and depend on help from our own kind. If one person lived alone, with no one else of the same kind or family around, and no access to anything beyond what nature provided, that person would soon die or live badly.
 
@@ -566,7 +567,7 @@ Once the soul becomes an active intellect, no longer needing the body, it become
 
 The same is shown by Abraham's vision: “We showed Abraham the kingdom of the heavens and the earth,” and by his words, “I have turned my face toward the One who created the heavens and the earth.” How could the human stage described by the words “I am only a human being like you” be the same as the divine stage described by the Prophet's saying, “I have a time with God when no angel brought near or prophet sent can reach me”?
 
-#### Chapter 2 — The main qualities of the soul and the roots of good and bad character
+#### II. The main qualities of the soul and the roots of good and bad character
 
 Most differences in human character come from differences in the soul's strength and nobility, or in its weakness and baseness.[^V09-108] We have already seen that existence itself has different degrees of strength and weakness, and that these differences change the nature and qualities of things.
 
@@ -588,7 +589,7 @@ Just as a person's outward appearance is beautiful when all its parts are well f
 
 The power of knowledge is at its best when it can tell truth from falsehood in speech, right from wrong in belief, and good from bad in action. When this power is balanced, without excess or neglect,[^V09-114] it gives rise to wisdom. In truth, wisdom is the root of all good and the source of the other virtues. God says, “Whoever is given wisdom has been given much good.” He also says, “That is God's favor; He gives it to whom He wills. God is the possessor of great favor,” after saying that He teaches people the Book and wisdom. This wisdom—the knowledge of things as they are—is a fruit of the first kind, moral wisdom. The more knowledge a person gains, the better; this is not true of moral wisdom, which must remain balanced.[^V09-115]
 
-#### Further note
+#### 1. Further note
 
 The power of anger is balanced when it follows wisdom and religious law. The same is true of desire. Justice is the power that keeps anger and desire under the guidance of reason and religion. Theoretical reason is like a wise adviser. Justice is the power that carries out its instructions. Anger and desire are the powers that act on those instructions. They are like a hunting dog's and horse's movements: they should move, stop, hold back, or reach out when the guide directs them.
 
@@ -606,7 +607,7 @@ When courage comes from strength, it must also be guided by wisdom. Courage then
 
 A desire to rule may come from a noble soul or from a strong but ignorant one. The ignorant person mistakenly believes they deserve what is beyond their reach, and their strength drives them to seek it. Self-sufficiency may come from strength and confidence in one's ability to meet a need,[^V09-122] or from nobility and a lack of attachment to present things or worry about what is absent.[^V09-123] A feeling of poverty may come from weakness and fear of being without what one needs, or from baseness and greed. Justice belongs to a noble soul, especially when it is strong; injustice belongs to a low and grasping soul. Truthfulness goes with nobility, lying with baseness. Generosity comes from strength joined to nobility; foolishness from weakness joined to baseness. High ambition belongs to a strong and noble soul, while failure and small ambition belong to a weak and low one.
 
-#### Chapter 3 — The stages of a person, according to the powers of the soul
+#### III. The stages of a person, according to the powers of the soul
 
 The inner self of every human being is a mixture of different powers: animal, predatory, devilish, and angelic. The animal power gives rise to appetite, greed, and unrestrained desire. The predatory power gives rise to envy, hostility, and hatred. The devilish power gives rise to cunning, deception, schemes, pride, the love of status, boasting, and the desire to dominate. The angelic power gives rise to knowledge and purity. These four are the roots from which all character grows. They are mixed together so deeply within a person that they are hard to separate.
 
@@ -616,7 +617,7 @@ After this, the intellect develops. It brings the light of faith. It belongs to 
 
 When the light of the intellect arrives, a battle begins in the heart. If the intellect is weak, Satan takes control, and the person is gathered with Satan and all his forces. If the intellect grows strong through knowledge and faith, the other powers become subject to it and join the ranks of the angels. No soul knows in what land it will die.
 
-#### Chapter 4 — How perception rises from the lowest level to the highest
+#### IV. How perception rises from the lowest level to the highest
 
 Know that every universal idea we understand has a nature that can be shared by many. Take human nature. Considered simply as human, it can belong to many people. By itself, it does not tell us whether there is one person or many, whether it is known through reason or sense, or whether it is universal or particular. If it did, it could not apply to the opposite case.[^V09-124]
 
@@ -668,7 +669,7 @@ Someone might object: if the soul in the higher world can sense, how can sensati
 
 We answer that sensation in the higher, intellectual world is not like sensation in this lower world.[^V09-147] The higher being senses according to the kinds of things that exist there. Its sight is connected to the sight of the lower human being, as one fire is connected to another higher fire. The lower human being receives the power of sense through this connection. If there were bodies in the higher world like these bodies here, the higher soul would sense them too. The second human—the image of the first in the bodily world—senses bodies because it carries traces of the first human being's intellectual form.
 
-#### Chapter 5 — Why some powers of the soul are more divided than others, and how they remain powers of one person as they change
+#### V. Why some powers of the soul are more divided than others, and how they remain powers of one person as they change
 
 As we have seen, beings differ in how complete they are. The argument from possibility shows that every level between the highest and lowest must be realized in the world.[^V09-148] We explained this when we described kinds of inanimate things, plants, and animals: they exist at different levels, and the highest level of one kind connects to the lowest level of the next.
 
@@ -754,9 +755,9 @@ Avicenna says in a letter to a student who asked him to rewrite a book that had 
 
 I say: Even if these duties had been forced on Avicenna, without his choosing them, who wrote so much about particular sciences and crafts? Did his deep immersion in them not keep him from turning toward God, staying close to Him, and seeking greater light and knowledge from Him?
 
-### Book Ten — The spiritual afterlife, intellectual happiness and misery, and other forms of happiness and misery
+### Book Ten: The spiritual afterlife, intellectual happiness and misery, and other forms of happiness and misery
 
-#### Chapter 1 — What true happiness is
+#### I. What true happiness is
 
 Existence is good and a source of happiness. Being aware of existence is also good and brings happiness.[^V09-185] But beings differ in how complete they are. The more complete a being's existence, the less it is marked by absence and limitation, and the greater its happiness. The less complete its existence, the more evil and misery are mixed into it. The First Reality, God, is the most complete and noble of all. Below God are the intellects free of bodies, then souls. Lower still are natural powers and bodily forms. At the lowest level are basic matter, time, and motion.
 
@@ -778,7 +779,7 @@ The point of this discussion is that bodily existence always carries death, dist
 
 When the soul's tie to the body ends, it sees intellectual forms directly. Awareness becomes presence, knowledge becomes direct sight, and perception becomes inward vision. The pleasure of intellectual life is greater than any other good or happiness. As we have seen, true pleasure comes from existence, especially intellectual existence, which is free from the trace of nonexistence. The truest beloved and fullest perfection is God, who is existence itself and contains every kind of being. Joy in God is the greatest joy and rest: it is rest without pain.
 
-#### Chapter 1 — How the soul reaches this happiness, and why it is kept from it in this world
+#### II. How the soul reaches this happiness, and why it is kept from it in this world
 
 The soul reaches this joy and happiness through actions that purify it, clear away its inner stains, and polish the mirror of the heart. It also reaches them through thought and study that help it understand the forms and natures of things. When the soul has learned what things are and its intellect has become active, it no longer needs the senses, body, or bodily powers. Yet the body and its powers still distract it and keep it from full union with the intellect and from reaching its source.[^V09-191]
 
@@ -804,7 +805,7 @@ A person should also know the intellects that bring other beings into existence,
 
 We have seen that true nobility and happiness come to the soul through its theoretical side, which is the root of its being. What comes from its practical side, which is tied to the body and its needs, brings safety from hardship, purification from faults and stains, clarity instead of weakness and vice, and freedom from punishment and painful torment. By itself, though, this does not bring the soul true nobility or intellectual joy. Still, the righteous and those who live simply have a kind of happiness suited to them, as we will explain later.
 
-#### Chapter 3 — Misery opposed to true happiness
+#### III. Misery opposed to true happiness
 
 This kind of misery does not belong to animal souls, to souls that remain simple, or to ordinary people who have not yet developed a desire to learn the intellectual and theological sciences or a love of status and leadership. Most people who earn their living through crafts, ordinary people, women, and children fall into these groups. If they suffer, their suffering is of another kind; if they are happy, their happiness is of another kind too. Those who suffer fall into two groups. The first are those who were destined to go astray and against whom the decree was set from eternity. They belong to darkness, worldly life, and a veil that seals their hearts by nature. God says, “I will surely fill Hell with jinn and people,” and, “We have created many jinn and people for Hell. They have hearts with which they do not understand.”[^V09-200]
 
@@ -822,7 +823,7 @@ To sum up, afterlife misery comes either from bodily habits formed by sins of de
 
 The second kind of intellectual misery is a deep, painful disease.[^V09-210] A person may be able to learn and long for intellectual knowledge and completion, yet fail to make the effort needed to develop the intellect. The soul then loses its natural readiness and takes on twisted habits and false ideas that oppose reality. It speaks from stubborn loyalty to a view and denies what is true. This is a disease that even the doctors of the soul struggle to cure. What is impossible cannot be achieved. The pain it causes is the opposite of the pleasure that comes from intellectual completion. That pleasure is greater than any bodily pleasure; this pain is worse than any bodily pain, whether burning in fire, freezing in bitter cold, beheading, or losing a limb. People in this world may not feel it for the reason already explained: they do not feel its opposite pleasure either. Children do not understand the pleasures and pains known to mature adults. They may laugh at adults, enjoy what is not truly pleasant, and dislike what adults enjoy. The immature in understanding are like children in this respect.
 
-#### Chapter 4 — Why some souls lack intellectual knowledge and miss happiness in the afterlife
+#### IV. Why some souls lack intellectual knowledge and miss happiness in the afterlife
 
 The part of a person that receives knowledge is a subtle power that guides the body's organs and puts its senses and abilities to work. By its nature, it can receive every kind of knowledge, just as a mirror can reflect any color or visible thing. But five things can prevent it from receiving these forms of knowledge, as one scholar explains through the example of a mirror.
 
@@ -842,7 +843,7 @@ When those barriers are lifted from the heart—the rational soul—the forms of
 
 All acts of worship and bodily practice aim to clear the heart, purify the soul, and improve its practical side. “Successful is the one who purifies it; lost is the one who corrupts it.” Purity alone is not true perfection, since it is the absence of something bad. The true aim is the light of faith: the knowledge of God, His acts, His books, His messengers, and the Last Day. God says, “When God wills to guide someone, He opens their heart to Islam, and they are in a light from their Lord.” An open heart is the goal of practical wisdom; light is the goal of theoretical wisdom. The true philosopher joins both. In the language of religion, such a person is a true believer. This is the great success.
 
-#### Chapter 5 — How the Active Intellect becomes present in our souls
+#### V. How the Active Intellect becomes present in our souls
 
 The Active Intellect exists in itself, and it also exists in our souls. The soul reaches its full development when the Active Intellect is present within it, connected to it, and united with it. Nothing can be the natural goal of another thing unless the two can become one. What is a thing's natural goal at one time can become its form at another, unless something blocks its way. We explained this union in the general discussion of knowledge and the relationship between intellect and what it understands. That account is enough for those who can grasp it through insight and experience, though it will not help those who deny it. If someone asks how one thing can be both a cause that comes before another thing and a goal that follows it, they should return to the argument already given and follow the same path.[^V09-216]
 
@@ -864,7 +865,7 @@ The Active Intellect acts on the soul and its images as the sun acts on a health
 
 As the light that forms the soul grows stronger, the soul unites with the universal human spirit, called the Spirit of Holiness and the Active Intellect. This source is wide enough to include all human beings, just as a universal nature can be said of many individuals. But the universal nature is only a general idea of those individuals,[^V09-220] while this source is their real foundation: it contains them and keeps them. General natures, too, are signs of real, luminous beings and sacred intellectual forms. In short, when the soul becomes intellect, its sense images become actual objects of thought[^V09-221] and are themselves known, for everything that is actually understood is also an actual knower.
 
-#### Chapter 6 — The Anqa, the spiritual being of the mystics, described through symbols
+#### VI. The Anqa, the spiritual being of the mystics, described through symbols
 
 The Anqa is a real being to the mystics. They are as certain of its existence as they are of whiteness.[^V09-222] It is a sacred bird, and its home is Mount Qaf.[^V09-223] Its whistle wakes those asleep in the beds of darkness. Its call stirs those who have forgotten God's signs, though few listen closely or recognize its echo.[^V09-224] Many have shut themselves off from hearing and turned away from their Lord's signs. They are deaf, mute, and blind, so they do not understand. The Anqa is with all creation, though creation is not with it. As the Persian poet says:
 
@@ -880,7 +881,7 @@ how can you know the language of birds?
 
 Whoever protects themselves with one of its feathers may pass through fire without burning and cross water without drowning.[^V09-229] Through the support of this sacred bird, all beings reach the forms of perfection suited to them, and those who travel the path reach their aims and needs.
 
-#### Chapter 7 — Sensory happiness and misery in the afterlife, apart from true intellectual happiness and misery
+#### VII. Sensory happiness and misery in the afterlife, apart from true intellectual happiness and misery
 
 Philosophers have disagreed about whether souls that know only simple ignorance, and have not taken on any intellectual form or even basic knowledge, continue to exist after death. Alexander of Aphrodisias, one of the greatest students of Aristotle, is said to have believed that such souls perish. Avicenna also leaned toward this view in some of his writings. We have already explained that if the next life consisted only of intellectual existence, these simple souls would have to perish, because in any realm a thing exists through its form, not through its matter. But beyond this changing, bodily life there are two lasting realms of forms: one of things understood through intellect, and another of images that can be perceived without depending on matter.
 
@@ -984,7 +985,7 @@ Another sign that creating the beings of the next life accords more closely with
 
 The forms of the next life, however, are brought into being all at once, without birth from parents or gradual development. God says: “The first and the last will surely be gathered together at the appointed time.” Their existence comes in a single act, by God's permission, when Israfil breathes their spirits into the forms of their bodies, which come from those spirits. It is one blast,[^V09-256] and suddenly they are all there.
 
-#### Chapter 8 — The different views about resurrection
+#### VIII. The different views about resurrection
 
 Among the common errors and ignorant views is the claim that neither souls nor bodies can be raised, and that resurrection is impossible. This is the view of atheists, naturalists,[^V09-257] materialists, and some natural philosophers and doctors whose opinions carry no authority in religion or philosophy. They assume that a human being is nothing more than this visible body, its bodily balance, and the powers and qualities that depend on it. They say that all these things disappear at death, leaving only scattered matter. A human being, like any animal or plant, is gone once dead; happiness and misery are limited to bodily pleasures and pains in this worldly life. This view contradicts reason, as the careful philosophers have shown, and revelation, as the careful religious scholars have shown.
 
@@ -1006,7 +1007,7 @@ The answer is that what matters is the one who experiences them. That is the sou
 
 That is how the different views are stated. The truth, as you will learn, is that the person raised in the next life is this very same person, both in soul and in body. The soul is this same soul, and the body is this same body: if you saw it, you would say, “I have seen this very person—the one who lived in this world.” This is so even though the body has undergone many changes, to the point where we might say, “This has become gold,” or “This has become iron,” and eventually both may become one, pure intellect.[^V09-259] Whoever denies this rejects religious teaching and falls short in wisdom; they would also have to reject many clear passages of the Qur'an.
 
-#### Chapter 9 — Arguments of those who deny resurrection
+#### IX. Arguments of those who deny resurrection
 
 Those who deny resurrection argue, first, that something destroyed cannot be brought back. They also ask what happens if one person eats another.[^V09-260] If the eaten person's parts are restored to the eater's body, then the eaten person has not been raised. If those parts are restored to the body they came from, then the eater has not been raised. If they are restored to both, the very same parts would be enjoying reward and suffering punishment at once, as when a believer eats an unbeliever.
 
@@ -1036,7 +1037,7 @@ Anyone who looks within knows that a soul is not drawn to one body or some of it
 
 These problems and far-fetched explanations disappear only through the truth we have established. God has given us this share of the higher wisdom, along with other rare insights. Anyone who follows God's path and receives the light of divine knowledge can recognize its truth and worth, just as a skilled jeweler can tell a bright gem from other stones.
 
-#### Chapter 10 — How people differ in their understanding of the afterlife
+#### X. How people differ in their understanding of the afterlife
 
 Know that people who believe in the truth of resurrection and the raising of bodies hold different views, each suited to a different level of understanding.
 
@@ -1090,7 +1091,7 @@ All these states come from the power of the next life becoming visible in some s
 
 When the soul's bond to this body ends, by force or by choice, the things suited to its actions, deeds, intentions, and beliefs are revealed to it. God says: “We have lifted your veil from you, and today your sight is sharp.” If its actions and intentions were good, it will have rest, sweet provision, and a garden of delight. If they were evil and its beliefs corrupt, it will face boiling water and enter the fire.
 
-#### Chapter 11 — The nobility of knowing the afterlife and the greatness of understanding the resurrection of souls and bodies
+#### XI. The nobility of knowing the afterlife and the greatness of understanding the resurrection of souls and bodies
 
 Know that this subject includes the grave, rising, resurrection, the gathering of all people, judgment, the record of deeds, the balance, the place of judgment, the bridge, paradise and its levels and gates, and hell and its gates and depths. It is a great part of faith and a central subject in wisdom and true understanding. It is among the most subtle, noble, and difficult fields of knowledge. Only a person with clear insight and a heart lit by God can find its way. Few of the greatest philosophers, past or present, have understood it.
 
@@ -1124,9 +1125,9 @@ There is another way these accounts agree. The existence of the blessed and the 
 
 Now we can begin the promised proof of bodily resurrection and the raising of bodies, together with the related conditions and ranks of the afterlife. We will lay it out through certain starting points and clear proofs, as suits those who seek to understand. We ask God and His spiritual world for help.
 
-### Book Eleven — Bodily resurrection and the states of the afterlife
+### Book Eleven: Bodily resurrection and the states of the afterlife
 
-#### Chapter 1 — Principles needed to establish this subject
+#### I. Principles needed to establish this subject
 
 These principles and starting points have already been explained in full throughout this book. I bring them together here so that we can keep them in view and consider what follows from them.
 
@@ -1182,7 +1183,7 @@ When a person reaches the height of their substantial development,[^V09-301] the
 
 Until the soul has passed beyond all the limits of nature and the soul's lower life, it has not reached God's nearness or earned a place in His presence. Death is the first stage of the next life and the last stage of this one. After leaving this world, a person may remain for a long or short time in the intermediate world between this life and the next. Some rise quickly through the light of knowledge, the strength of worship, a pull from God, or the intercession of those who intercede. The last to intercede is the Most Merciful.
 
-#### Chapter 2 — What follows from these principles
+#### II. What follows from these principles
 
 Anyone who reflects carefully on the ten principles and rules whose foundations we have laid with clear and decisive arguments, especially throughout this book, and whose nature is free from confusion, envy, stubbornness, partisanship, and pride, will have no doubt about resurrection and the raising of souls and bodies. They will know with certainty that this very body will be raised on the Day of Resurrection in the form of a body. They will see that resurrection means the return of this same soul and body, with the same identity and individuality. The body raised on that Day is this very body, not some other body made of different earthly matter, as some Muslim thinkers say, or a separate imaginal body, as the Illuminationists say.[^V09-302][^V09-303] This is the sound belief: it agrees with the revealed law and with reason. Whoever believes and accepts this truly believes in the Day of Judgment.
 
@@ -1194,7 +1195,7 @@ We have written a separate treatise on this subject, showing clearly and with so
 
 God also says of all things: “On the Day We move the mountains and you see the earth laid bare, We will gather them all and leave no one behind. They will be brought before your Lord, lined up.” And: “We inherit the earth and all who are on it, and to Us they will return.” And: “As We began the first creation, so We will bring it back.”
 
-#### Chapter 3 — Answering the doubts of those who deny the resurrection of bodies
+#### III. Answering the doubts of those who deny the resurrection of bodies
 
 The principles we have set out establish this conclusion and also answer the objections raised against it. It is worth setting out the objections and showing how they are answered.
 
@@ -1286,7 +1287,7 @@ When the deniers ask, “When will this promise be fulfilled, if you are truthfu
 
 Once the traveler has passed through these veils and has settled into the presence of God, the hidden reality of the Hour becomes open to them, and knowledge becomes direct sight.[^V09-338]
 
-#### Chapter 4 — The true grave: a garden of paradise or a pit of Fire
+#### IV. The true grave: a garden of paradise or a pit of Fire
 
 I have already explained that death is real. Natural death marks the end of our turning away from this world and the beginning of our return to God.[^V09-339] When the spirit leaves the natural body, it remains connected to the body in some way. This connection is not to the body's material parts, as some later thinkers claimed—a view we have already disproved. Rather, it is to the body as a whole: to its form and structure as preserved in memory. When the soul leaves the body, it takes with it the power that perceives particular meanings on its own and bodily forms with the help of imagination. We have shown that the imaginative power exists independently and survives the body. It needs the physical body at the beginning of life, but not in order to continue. After leaving the body, it can perceive particular things and bodily forms just as it did in this life.[^V09-340]
 
@@ -1296,11 +1297,11 @@ Resurrection is the soul's emergence from the haze of these forms, like a child 
 
 As long as the soul remains in this weak state, with an awareness like that of someone asleep, it is said to be in the world of the grave and the intermediate state. This also explains the pressure of the grave, even when the dead body lies still in the earth or is in the air or water. What directly hurts and affects the soul is not the physical event that happens to the body, but the form of that event as it reaches the soul through its connection with the body. If the same form reached the soul by another means, without a physical cause, it would affect it in the same way for as long as the soul remained connected to the body—whether or not that body still existed. The pressure and punishment of the grave work in this way, as do its reward and comfort. The grave's spaciousness or narrowness depends on whether the soul feels open and at ease or constricted.
 
-#### Chapter 5 — A brief note on the punishment of the grave
+#### V. A brief note on the punishment of the grave
 
 One of the scholars said: Anyone who looked within with the light of insight would see the self filled with harmful things and predators: desire, anger, deceit, envy, resentment, self-admiration, and showing off. These keep tearing at the soul whenever it loses sight of them, even for a moment. Most people cannot see them. But when the veil is lifted and a person is placed in the grave, they see these traits take on forms that match their meanings. Scorpions and snakes surround them. These are the person's own habits and qualities, now present in the soul and revealed in their true inner forms. Every meaning has a fitting form. This is the punishment of the grave for the unhappy; for the blessed, the opposite is true.[^V09-343]
 
-#### Chapter 6 — What remains of the human being
+#### VI. What remains of the human being
 
 We have said that when the soul leaves the body, something of the body remains, though it exists only in a weak way. A report from the Prophet calls it the “tailbone,” and scholars have disagreed about what this means. Some say it is the material intellect; others say it is matter itself. Al-Ghazali says it is the soul, from which the life of the next world grows.[^V09-344] Abu Yazid al-Waqwaqi says it is an indivisible particle that remains unchanged. Ibn Arabi says in *The Meccan Revelations* that it is the person's fixed, individual essence. The theologians say it is the body's original parts. We say it is the power of imagination: the last level of existence reached in this life through the natural, plant, and animal powers as they arise one after another in human matter, and the first level reached in the next life.
 
@@ -1310,7 +1311,7 @@ After the earliest elemental and lifeless stages, the first power to arise is nu
 
 At last, a power arises that can retain images from the five outer senses after the senses no longer perceive them. It keeps these images from vanishing even when the external material things that held them—like bodies for those images—have decayed. The images it preserves exist in a different way from the things they represent, just as the human body exists in a different way from the spirit that survives its decay. This power remains after the body has fallen apart. It can serve as the basis of the next life because it is the final form reached by forms in this world and the completion of the natural powers that arose one after another. It is also the first basis for the forms and powers of the next life, which differ in rank and closeness to the Active Principle. This power can join this world and the next: it is the roof of this world and the floor of the next.
 
-#### Chapter 7 — The basis of the next life's lasting forms
+#### VII. The basis of the next life's lasting forms
 
 The finer a thing's underlying matter is, the more readily it can take on a form. The simpler and more spiritual it is, the nobler the forms it can receive. We have already explained that matter and form are joined as one, like a general class and the feature that sets a kind apart. So they must have a close likeness that allows them to unite.[^V09-345] Here is an example. Fresh water is finer than earth, so it changes more readily and takes on shapes, colors, tastes, and other qualities more easily. Air is finer and nobler than both, and flows more freely, so it changes faster and takes on what it can receive more easily. Its forms—smells and sounds—are finer than those taken in by earth and water. Rays and light receive forms still faster, at once; the colors and shapes they receive are more spiritual and closer to the world of spirit.[^V09-346]
 
@@ -1318,11 +1319,11 @@ Likewise, the life-giving spirit that rises from the heart's hollow to the brain
 
 There are other differences between what underlies worldly forms and what underlies the forms of the next life. Worldly forms arise only after matter has been prepared over time and made ready by suitable conditions and outside causes. The basis of the next life is different: its forms flow from the First Giver through the soul's own inner qualities, causes, and powers.[^V09-349] When these have become firm, the forms appear as a necessary result. Another difference is that if a worldly form is removed from matter, an outside cause must act on the matter again to restore it. For example, once whiteness or sweetness has left something, the thing cannot restore it by itself. But if an image disappears from the soul, the soul does not need new learning or effort to bring it back. Its own nature and inner make-up are enough. This is what God points to when He says, “That day, each person will have enough to occupy them.” It shows that outside chance causes will not operate in that world. Creation will flow from what is within, from the First Source—not from outside events and tools that only prepare matter through change, as they do here. God also says, “Sovereignty that day belongs to God,” and, “There will be no family ties among them.”[^V09-350]
 
-#### Chapter 8 — Resurrection
+#### VIII. Resurrection
 
 Resurrection is the soul's emergence from the haze of the forms surrounding it, like an embryo leaving its secure place in the womb. As we have already said, the true grave is the soul's being sunk and confined, after the body's death, among the forms that surround it. Between death and resurrection, the soul is like an embryo or a sleeping person: its powers and senses are not yet strong enough to perceive the things of the next life.[^V09-351] When the time to rise comes, the human being emerges from this state and moves toward God, turning toward the Divine Presence. One person comes free of attachments and the prison of desire, joyful in their own being and glad to meet God: “Whoever longs to meet God, God longs to meet them.” Another comes held fast by forces that restrain and overpower them, unwilling to meet God: “Whoever dislikes meeting God, God dislikes meeting them.”
 
-#### Chapter 9 — How people are gathered
+#### IX. How people are gathered
 
 We have already said that in this world human beings are one kind, and its members are alike. In the next life, however, they become countless kinds. The soul's form is a basis that can receive many different forms of the next life, according to the habits and traits a person has acquired. On the Day of Resurrection, God clothes each soul in forms that fit those traits, and the person is gathered in those forms and through them.[^V09-352] God says, “When the Trumpet is blown, you will come in crowds.” People will be gathered in different ways according to their actions, habits, and beliefs. Some will come as honored guests: “On the day We gather the mindful to the Most Merciful as honored guests.” Others will be brought for punishment: “On the day He gathers the enemies of God to the Fire.” Some will be raised blind; some with blue faces; some with chains around their necks, dragged through boiling water and then thrown into the Fire. Others will be honored and welcomed: “Peace be upon you. You have done well, so enter and stay forever,” and “Enter in peace, safe and secure.” Still others will be seized and bound: “Take him and chain him, then burn him in the Fire.”
 
@@ -1344,7 +1345,7 @@ When the sun of the next life rises and stands, the shapes of these passing thin
 
 Someone may object: “Your argument makes a circle. Longing for God and following the path toward Him depend on knowing Him, but knowing Him depends on following that path and longing for Him.” I reply: “Yes. Knowledge is the first and the last, the beginning and the end. But this is not an impossible circle, because knowledge can be weak or strong. The knowledge that first leads a person to act may be only a likely belief or a received teaching that settles in the soul. This can still lead to good action. The final knowledge, reached after a person acts and follows the straight path, is different: it is direct awareness and a real connection with what is known. Sufis call this ‘fading away in God's oneness.’”
 
-#### Chapter 10 — The human soul passes through many resurrections, before and after this body comes into being
+#### X. The human soul passes through many resurrections, before and after this body comes into being
 
 We have already said that the human soul has a way of existing before it becomes a soul in this world, as reports from the Prophet's family teach and as Plato famously believed. Some followers of Aristotle's school criticized Plato, as their books record, but they did not understand what he meant. They thought he meant that the soul existed as a soul, in the same state it has in this life, before the body. That would lead to transmigration, to one soul shared by everyone, or to many individuals of one kind with nothing outside them to distinguish one from another.[^V09-362] We have already shown that this was not Plato's claim. Before the soul becomes a human, thinking soul, it has other ways of existing. Some belong to this life: animal life and the natural powers of plants and other things. The changes from one of these states to another take place through time and movement, in matter that changes, comes into being, and passes away. Other states come before this life: some belong to the world of images, some to intellect, and some to God's decree. The transitions there are a downward flow of existence through God's giving and creation, without time or movement. After this life come further stages: animal life through the senses, life in imagination, and sacred intellectual life.[^V09-363] Anyone who reflects on what we have explained will see that the human being passes through many resurrections.
 
@@ -1360,7 +1361,7 @@ I have quoted Ibn Arabi at length because his account contains valuable points a
 
 Since existence flows down from its highest source through these stages in this order, our return and resurrection must follow the same steps in reverse.
 
-#### Chapter 11 — A person passes through countless resurrections
+#### XI. A person passes through countless resurrections
 
 God has made the levels of sensing, imagining, and thinking into steps and ladders that a seeker climbs toward Him. The seeker must first descend into the world of physical things perceived by the senses, then into the world of images without matter, perceived by imagination as sense perception gives way to it. From there comes the world of forms beyond matter, as imagination matures into reason. Each of these three worlds has many levels, differing in how fine or dense they are.[^V09-373] The higher the world, the more levels it contains and the wider the gap between its lowest and highest. A person cannot reach even the lowest level of the final world without passing through all the levels of the middle world.
 
@@ -1372,7 +1373,7 @@ Then He sprinkled them with His light, as the report says.
 
 My dear seeker, just as you must enter this world of the senses, you must also learn about the things you sense if you are to leave this world and its attachments behind. You can turn away from them only by giving them up, and you cannot give them up until you know how low and limited they are. This world and the next are linked as lower and higher, base and noble, first and last. Knowing one of these linked things helps you know the other; not knowing one means you do not know the other. If you do not know how low this world is, you cannot know the worth of the next. And if you do not know the worth of the next, how can you choose it or long for it? For this and other reasons, philosophers studied natural bodies and the things we sense, so they could move from them to what lies beyond the senses and beyond nature. God says, “You know how you were first created. Why, then, do you not remember?”
 
-#### Chapter 12 — A reminder that death and resurrection are real
+#### XII. A reminder that death and resurrection are real
 
 As we have explained throughout this book, every real thing has a natural movement toward the next life and a built-in longing for the sacred world. Its very nature is a kind of worship that draws it toward God.[^V09-376] This is especially true of human beings, the noblest kind among things that come into being and pass away. As we have often said, each person changes from within: from their first natural life to the end of bodily life, then through the stages of the soul, and finally to the end of intellectual life. The soul first seeks to complete this life of the senses and furnish the body's realm with powers and tools. The body is like a mount or a ship carrying the soul on its journey toward God, across the land of bodies and the sea of spirits.
 
@@ -1392,7 +1393,7 @@ The soul's fear and dislike of bodily death belong to its share in this natural 
 
 God has also placed pain and fear in animals so they will protect their bodies from harm and illness. Bodies cannot sense danger or act to protect themselves. Without pain and fear, the soul would neglect the body and leave it exposed to danger before its life was complete. It would die before reaching the next form of life and developing its inner self. This would conflict with God's wisdom and care. The pain and fear in animals are not punishments for sins, as some who believe in transmigration have thought.[^V09-385]
 
-#### Chapter 13 — How all beings, even plants and lifeless things, return to God, as the Qur'an teaches
+#### XIII. How all beings, even plants and lifeless things, return to God, as the Qur'an teaches
 
 As we have explained, all things that can exist fall into levels. At the highest are the intellects beyond bodies, the forms of God's knowledge. Next are the spirits that guide the heavenly bodies and earthly bodies as a whole. Below them are spirits that guide particular bodies, imaginal souls attached to lower bodies made of vapor, smoke, or fire, and some kinds of jinn and demons. Then come plant souls, the natural powers within bodies, and finally material bodies, the lowest and farthest from the First Source. All of them return to God. We will now prove this, both in general and in detail, with the help of our Lord, the Most High.
 
@@ -1526,13 +1527,13 @@ I have often said that such a body exists as an image present to awareness. For 
 
 You have learned that every body has a form belonging to the soul and a higher source that guides it. Through these it has life and speech, not through its dark physical matter,[^V09-444] which is mixed with absence and does not remain unchanged for even an instant. Yet there is a further subtle point[^V09-445] that can give Ibn Arabi's words a sound meaning. Within these changing, dark bodies is another body, radiant with light and spreading through them as light spreads through crystal. Through it they receive life and come under the direction of souls and spirits. I do not mean what physicians call the animal spirit, which they describe as rising from the blood in the heart and liver and flowing through the arteries. That is a compound physical thing, found only in some bodies, and it receives life from another source. The radiant body I mean is not made up of such parts. It extends through all bodies and lives through its own existence, an existence that is itself living awareness.
 
-#### Chapter 14 — What “the Hour” means
+#### XIV. What “the Hour” means
 
 God says, “They ask you about the Hour: when will it come? What have you to do with its mention? Its end rests with your Lord.” Some say it is called the Hour because souls are moving toward it,[^V09-446] not by crossing distances in space but by passing through breaths of time, through their inner movement and natural turning toward God and His realm, as we explained in the discussion of why death is necessary. When a person dies, their Hour arrives and their Resurrection begins. This is the “small Resurrection.” We can compare it with the Great Resurrection, just as one day contains many hours, or one year many days.[^V09-447] People with knowledge and certainty do not doubt the Hour. They know it is real.
 
 They do not wait for it as heedless people do. Those who are veiled from the truth doubt that it will happen, think it unlikely, ask when it will come, and say, “When will this promise be fulfilled, if you are truthful?” People with certainty prepare to meet it. They see it as if it were already standing over them, happening now, or close at hand. God says, “How can you know? The Hour may be near. Those who do not believe in it demand that it come sooner, but those who believe in it are wary of it and know that it is true. Those who argue about the Hour are far astray.” He also says, “The Hour is coming; there is no doubt about it, but most people do not know.” And He says, “They ask, ‘When will this promise come, if you are truthful?’ Say, ‘I have no power to help or harm myself except as God wills. Every community has its appointed time. When its time comes, they cannot delay it by a moment or bring it forward.’”
 
-#### Chapter 15 — What it means to blow the Trumpet
+#### XV. What it means to blow the Trumpet
 
 God says, “The Trumpet will be blown,” and so on. The Prophet was asked about the Trumpet and said that it is a horn of light that Israfil holds to his mouth. It is described as wide at one end and narrow at the other, though people differ about which end is which.[^V09-448] The Arabic word for the Trumpet can also mean “forms” when the vowel is changed. Al-Hasan al-Basri is reported to have read it in that way. In his great commentary on the Qur'an, al-Razi gives three meanings. First, it may mean an instrument that makes a loud sound when blown, like a horn used by a ruler to call troops. The verse would then use this instrument as an image. The report that it is a horn of light supports this reading, since light does not make a sound that the senses can hear.
 
@@ -1548,7 +1549,7 @@ Ibn Arabi says elsewhere that when God takes spirits from natural bodies and pla
 
 I say that those already raised are not among the people of the heavens and earth, because their true being lies beyond bodies, bodily forms, and souls. Their identities do not change with time. They are absorbed in the sea of divine oneness and the power of God's light, like the angels who are near to Him. Their identities are hidden beneath the overwhelming light of God; they do not turn back toward themselves.[^V09-453] The second blowing brings life after death and lasting life after the end of passing life. This life is higher than the first, and its permanence is real and has no end.
 
-#### Chapter 16 — The small and the great Resurrection
+#### XVI. The small and the great Resurrection
 
 The small Resurrection is clear: when a person dies, their Resurrection has begun. The time of the great Resurrection, however, is hidden. God has set its time, but whoever claims to know exactly when it will happen is lying. The Prophet said, “Those who set a time are liars.” Everything that happens in the great Resurrection has a counterpart in the small one.[^V09-454][^V09-455]
 
@@ -1562,7 +1563,7 @@ The same idea becomes easier to accept when we see how all the human powers of a
 
 God says, “He directs the affairs from heaven to earth; then they rise back to Him on a day whose measure is a thousand years by your reckoning.” When all things return to Him, He gives them existence again, and they rise into a life that will never end. God says, “Just as We began the first creation, We will bring it back. This is a promise We will surely fulfill.” If you have not tasted this truth yourself—whether you are a scholar who has not yet reached it, someone too sure of limited reason, or someone trapped by outward forms—then trust the prophets and saints. Believe what they say about what you cannot see, as a blind person trusts the guide who leads them. Do not deny any of it. May God protect us from weak faith in the Last Day and from rejecting the great news brought by those who know. Proof, the Qur'an's signs, and the light of insight all show that the world's beings are always changing: their separate identities fade and their natures renew at every moment. God is the end of every movement and change. “To God all things return.” So glory to the One who holds the kingdom of all things in His hand; to Him you will return.
 
-#### Chapter — Which bodies are raised in the afterlife, and which are not
+#### XVII. Which bodies are raised in the afterlife, and which are not
 
 As long as spirits remain spirits, they always govern bodies. There are two kinds of bodies they govern. In the first kind, the soul acts directly and inwardly, without anything in between. In the second, it acts through another body that comes first. Our outward senses cannot perceive the first kind. They perceive only bodies like the ones that carry them: outer shells, such as those of water and air, animals and plants, fine vaporous bodies, or dense flesh and plant matter. Souls govern all of these only through an intermediary. The first kind of body—the one the soul governs directly—is luminous and alive through its own life, and cannot die.
 
@@ -1570,7 +1571,7 @@ It ranks above the transparent bodies we see in this world and above what is cal
 
 As for the upper intermediate realms, the highest level of this world, called the Lote Tree of the Furthest Limit, is almost pure form without matter. It is like an imaginal body, and souls act on it as they act on the forms of imagination. The levels below it are like the spirits in our brains, since they are like the imagination of the greater world. Some people of spiritual insight have said that the luminous bodies of the heavens do not have imagination as a separate power; they are imagination itself. Just as human imagination is never without images, an angel's being is never without form. The form of a heavenly sphere is to the angel what the power of imagination is to a human being.[^V09-459] The blue sky we see is not the sky's true form, and the scattered lights we see are not its lights in the Day of Resurrection. On that day, this sky will be erased and broken apart, and its stars will be dimmed and blotted out.[^V09-460]
 
-#### Chapter — The state of people of insight here
+#### XVIII. The state of people of insight here
 
 Some people see the events of the afterlife with inner sight. They witness Paradise and its people before the Hour arrives. They do not need to undergo physical death for the veils to lift from their hearts and inner vision. Their state before death is like the state of others after death. God says, “We have removed your veil, and today your sight is sharp.” This happens because their worldly state has changed into an afterlife state.[^V09-461][^V09-462]
 
@@ -1580,7 +1581,7 @@ This also shows the difference between the people of Paradise and the people of 
 
 This may raise a difficult question: all people share in having been created from seed; all have natural bodies. How, then, can they become fit to enter the Abode of Peace and live near the Lord of the worlds? What does dust have in common with the Lord? God answers, “By the Lord of the Easts and the Wests, We are able to replace them with others like them and bring them into a form they do not know.” In other words, their natural state changes as they gain knowledge, faith, and good works. This change in their very being makes them ready to enter the holy realm and the world of spirits.[^V09-465]
 
-#### The Straight Path
+#### XIX. The Straight Path
 
 As you have learned, every being has a natural movement and an inborn tendency toward the Cause of causes. Human beings share this general movement, but they also have another movement of their own.[^V09-466] It begins with a religious motive—a change in the soul's condition—and consists in following the way of unity and the path of those who affirm God's oneness: the prophets, the saints, and their followers. This is the path we ask God to show us when we say, “Guide us to the straight path.” It is the path described in God's words, “Say, ‘This is my way: I call to God with clear insight, I and those who follow me,’” and “You guide to a straight path, the path of God, to whom belongs all that is in the heavens and the earth.”
 
@@ -1590,7 +1591,7 @@ To turn away from this path is to fall from our original nature and follow our l
 
 You have learned that the true middle between opposing extremes is like being free of them. This freedom from the extremes is called justice. It is what saves us from Hell, and it is sharper than a sword. So the straight path has two sides: one is finer than a hair, the other sharper than a sword.[^V09-469] Turning aside from the first means falling away from our original nature: “Those who do not believe in the Hereafter stray from the path.” Failing to keep to the second means being cut off and split apart. This is the meaning of the words, “Are you content with the life of this world instead of the Hereafter?” and “They will be dragged through scalding water.” The reason is that justice is not a true perfection in itself. True perfection lies only in the light of knowledge, the strength of faith, and recognition of God.[^V09-470] Justice is a quality of the soul that consists in a balance between its powers. It is not a positive perfection in its own right. Relying on it and being satisfied with it can keep a person attached to this world, since justice too belongs to this world. Love of this world is the root of every sin.
 
-#### A Qur'anic illumination
+#### 1. A Qur'anic illumination
 
 On the Day of Resurrection, this path will become visible to those who cross it. How clearly it appears, and how easily people make their way across it, will depend on the light of their certainty. The strength of their certainty determines how firmly and quickly they travel it. So the ranks of the blessed differ according to the light of their knowledge, certainty, and faith. We can draw near to God only through knowledge and certainty, and knowledge is light. Believers will make their way toward meeting God by the strength of their light and insight. God says, “On the Day you see believing men and women, with their light shining ahead of them and to their right, they will say, ‘Our Lord, complete our light for us…’”
 
@@ -1614,7 +1615,7 @@ Al-Makki also says: “The straight path is the path of affirming God's oneness,
 
 Al-Makki is right that only the knowledge of God's oneness can bring us to nearness to God and carry us along the way. Other kinds of knowledge and good deeds matter only when they help us gain that knowledge; they are tools, not ends in themselves.[^V09-479]
 
-#### An unveiling insight
+#### 2. An unveiling insight
 
 The straight path that brings you to Paradise is the image of guidance you create for yourself through the inward work of the heart and the states of the soul while you are in the natural world. When the veil is lifted and your heart's sight is opened, you will see that the blessed human soul itself is the image of God's straight path. It has its own limits and stages. Whoever travels through them, step by step and station by station, will reach the nearness of their Lord and enter Paradise. In this world, as with other things of the afterlife, the path is hidden from our eyes and senses.
 
@@ -1624,7 +1625,7 @@ Shaykh al-Saduq says in *The Beliefs*: “We believe that the Path is real, that
 
 I find it astonishing that the Path, the one who crosses it, the distance, and the movement along it are all one thing.[^V09-483] This is how it is on the afterlife journey taken by the human soul. The traveler toward God—the soul itself—travels within itself and crosses the stations and stages within itself by means of itself. At every step, it puts its foot on its own head,[^V09-484] or its head on its own foot. This sounds astonishing, but it is not astonishing once you understand what is happening.
 
-#### Spreading out the records and bringing out the books
+#### XX. Spreading out the records and bringing out the books
 
 Words and actions do not last while they remain in the changing world of material things. But when someone acts or speaks, the act or word leaves an impression in the soul, a state of the heart that lasts for a time. When actions and words are repeated, their impressions take hold in the soul and become settled traits. A passing state differs from a settled trait only in degree: as a quality grows stronger, it can become a substantial form that gives rise to that quality. A little heat in coal, for example, can intensify until it becomes a burning flame. In the same way, a state of the soul can grow into a settled trait—a lasting form in the soul that easily produces actions of its kind, without thought or effort.
 
@@ -1654,7 +1655,7 @@ To explain: the material of the people and things of the afterlife—the seeds f
 
 God says, “Every person has their bird fastened around their neck. On the Day of Resurrection, We will bring out for them a book they will find open: ‘Read your book! Today you are enough to call yourself to account.’”[^V09-495] This also shows that the person in the next life is not made from natural matter, but from the images of the soul and its power to know. God says, “We will bring you into a form you do not know.”[^V09-496] The Book of the righteous is in the highest realm, and what is there is not created from bodily matter. We know, then, that at the Resurrection a person takes form from what they know and believe. If they are filled with blameworthy desires, false hopes, and corrupt aims, they will be among the people of the Fire, burning in its torment, and their book will be in Sijjin. But if what they know is made up of holy realities and knowledge of God, His angels, His books, and His messengers, they will belong to the highest spiritual realm, the most exalted dwelling, the closest nearness, and the finest company.
 
-#### The nature of reckoning and the scales
+#### XXI. The nature of reckoning and the scales
 
 You may have realized from the principles we have repeated that, on the Day of Resurrection, everyone held accountable will see the total of all their scattered actions and words, and the final account of their good and bad deeds.[^V09-497] In their book they will find every deed, small or great. Nothing will be left out. They will find everything they did present, and their Lord will wrong no one.
 
@@ -1674,7 +1675,7 @@ God sent them down from heaven so each person can know the extent of their knowl
 
 The Qur'an also contains food for other groups that is less subtle: it is like husks and bran, suited to people whose natures are coarse and low.[^V09-503] As God says, “There is nothing fresh or dry that is not in a clear Book.” Just as it contains the nourishment of sound reason for people of understanding, so it contains something like straw and husks for ordinary people, whose rank is like that of cattle. God says, “As a provision for you and your cattle.” Food must resemble the one who eats it. What is sensed nourishes the power of sensation; imagined or supposed things nourish the imaginative and estimating powers; and intelligible things nourish the intellect. Through them, the intellect is fed and strengthened, reaches its full development, and moves from a state of potential understanding to the active intellect, where it remains forever.
 
-#### A note on the scales
+#### 1. A note on the scales
 
 One thing a traveler on the road to the afterlife must understand is how to compare the two worlds and weigh what exists in one against what exists in the other.[^V09-504] If God opens the heart to compare the visible world with the hidden world, it becomes easier to follow God's path and enter the Abode of Peace. The traveler will learn many of the Qur'an's secrets and levels, and see the realities and lights in its verses—things missed by most scholars who rely on formal learning and by famous philosophers who are thought to be wise.[^V09-505] This is a great opening into the true nature of things, especially the afterlife. It is also the first stage of prophecy. The prophets first begin to see in dreams what is in the spiritual world. The realities of things appear to them dressed in imagined forms, because a true dream is one part of prophecy.
 
@@ -1694,7 +1695,7 @@ In the beginning, then, everyone whose certainty, faith, and affirmation of God'
 
 The pan of good deeds is on the right, the eastern side; the pan of bad deeds is on the left, the western side. Once one side outweighs the other and judgment is carried out, the two pans become, in effect, one. The winning side overcomes and erases the other. The blessed will have both hands on the right; the people of the left will have both hands on the left. Understand this.
 
-#### Chapter 22 — Groups of people on the Day of Resurrection
+#### XXII. Groups of people on the Day of Resurrection
 
 As you have learned, people in the next life fall into three broad groups: those brought near to God, the blessed people of the right, and the wretched people of the left. In terms of their final reckoning, they fall into two main classes. The first class enters Paradise and receives its blessings without an account. It contains three groups.
 
@@ -1708,7 +1709,7 @@ The other class consists, broadly, of those who face punishment. It too contains
 
 Some people are examined closely, down to every small detail, because that is how they treated others in this world. They demanded every last part of what was owed to them and showed no leniency in their dealings. They will be treated in the next life as they treated people here. Others feared a bad account and dreaded the punishment of the Day of Resurrection. They will not be examined in every detail at the place of reckoning. How, then, could they be punished and kept in the place of punishment?
 
-#### Chapter 23 — Events that take place on the Day of Resurrection
+#### XXIII. Events that take place on the Day of Resurrection
 
 When the Light of all lights appears, the veils lift and the glory of God's sustaining presence is revealed. The rule of oneness overcomes all multiplicity. The powers that act and cause change grow strong as barriers disappear,[^V09-511] abilities that were only potential become active,[^V09-512] movements reach their goals, and realities emerge from the hidden places and material coverings that concealed them. Every being returns to its source; everything goes back to its origin; everything incomplete reaches completion. All affairs return to God, as He says, “To God belongs the inheritance of the heavens and the earth,” and, “To God all affairs return.” No one owns anything except by God's leave.[^V09-513] God says, “To whom does all power belong today? To God, the One, the All-Powerful.”
 
@@ -1782,7 +1783,7 @@ Hisham ibn Salim also reports that he asked Ja'far al-Sadiq about the words, “
 
 Ali also said, “You are the clear Book, whose signs reveal what lies hidden,” and, “Your cure is within you, though you do not see it; your illness comes from you, though you do not notice it.” These sayings show that the human soul is where the joys of Paradise and the pains and punishments of Hell take place.
 
-#### Chapter 24 — What Paradise and Hell are
+#### XXIV. What Paradise and Hell are
 
 Paradise, as described in the Book and the teachings of the Prophet, and as confirmed by reason and spiritual insight, is the home of lasting life and peace. There is no death,[^V09-539] aging, sickness, grief, worry, decay, or loss there. It is the home of rest and honor. Its people feel no weariness or fatigue. They have whatever their souls desire and whatever delights their eyes, and they remain there forever. Its people are God's neighbors,[^V09-540] His friends and beloved ones, and those honored by Him.
 
@@ -1830,7 +1831,7 @@ Other reports point to the Fire being in this very land, like the report about t
 
 Al-Asma'i reports a man from Hadramawt as saying that a terrible, foul smell comes from the direction of Barahut, after which news arrives that a great unbeliever has died. Some of these reports speak of the spirits of unbelievers, without mentioning the Fire. But when we consider them together with the other reports and with God's words, “They are exposed to the Fire morning and evening, and when the Hour comes, ‘Bring Pharaoh's people into the harshest punishment,’” the connection to the Fire becomes clearer.
 
-#### A note on these reports
+#### 1. A note on these reports
 
 To people who rely on outward readings, these reports may seem to contradict one another. To those who have reached spiritual insight, their inward meanings agree. Their knowledge rests on sound proofs and clear insight. They are as certain of these truths as they are of the sun at midday. Others, who rely on debate or repeat reports without understanding them, find the claims contradictory because they have not entered a subject through its proper door.
 
@@ -1840,7 +1841,7 @@ You have also learned that Paradise and Hell are to this world as a child is to 
 
 The sea mentioned in the report is not the visible sea. It means another, inward sea that the senses cannot perceive, as in God's words, “By the sea set ablaze.” The seven seas mentioned by Ibn Abbas and Ka'b al-Ahbar, or the Fire beneath seven seas, do not mean the seas of this world. They mean the levels of nature in their basic being. Nature itself is an unseen Fire: it burns bodies, melts forms, and changes skins.
 
-#### Chapter 25 — Signs and forms of Paradise and Hell
+#### XXV. Signs and forms of Paradise and Hell
 
 Know that every real kind of thing and every basic meaning has a universal reality, particular examples, and physical forms that appear in this world. A human being, for example, has a universal reality: the universal human intellect, which gathers all human qualities and features in a higher and nobler way. This is the spirit God refers to when He says, “I breathed into him of My spirit.” There are also particular examples, such as Zayd and Amr, and visible forms, like images in mirrors or polished bodies.
 
@@ -1850,7 +1851,7 @@ Hell also has a universal reality, shared by all its particular forms: distance 
 
 Hell also has particular examples: each person's nature is the source of bodily suffering, and their soul and desires are the source of spiritual suffering. It has visible forms and places in this world, as in the reports about the valley of Barahut and other places. Paradise and Hell also have gates, as we will explain.
 
-#### Chapter 26 — The gates of Paradise and Hell
+#### XXVI. The gates of Paradise and Hell
 
 The gates of Paradise are mentioned in God's words, “The angels will enter to them from every gate,” and, “The gates of heaven will not be opened for them, nor will they enter Paradise,” and, “Gardens of lasting life, whose gates are open to them.” The gates of Hell are mentioned in, “Enter the gates of Hell, where you will remain,” “When they come to it, its gates will be opened,” and, “It has seven gates, and each gate has an assigned share of them.”
 
@@ -1868,7 +1869,7 @@ A report says, “Dirt does not consume the place of faith.” The heart's inner
 
 The levels and openings of Hell correspond to the levels and balconies of Paradise.[^V09-559] A bad deed leads to another bad deed, just as a good deed leads to another good deed. The seven gates of Hell are named for the levels they open onto: the Gate of Hell, the Gate of the Blaze, the Gate of the Fire, the Gate of the Flame, the Gate of Saqar, the Gate of the Crusher, and the Gate of Sijjin. The eighth gate, which remains shut, is the barrier. Hell's openings are branches of disbelief and wrongdoing; Paradise's openings are branches of faith and obedience. Whoever does good will see it in the next life; whoever does evil may see it, though God may also pardon them.
 
-#### A reminder
+#### 1. A reminder
 
 Know that a person's inner life in this world will be their outer form in the next. While they live here, the next life is hidden from them. When they move from this world to the next, what was hidden becomes visible to them.
 
@@ -1886,7 +1887,7 @@ It is now clear that all eight of these senses can become gates to Paradise for 
 
 You might ask: a house door resembles the house it opens into. Paradise and Hell have completely different natures and kinds of existence. How, then, can the same human senses be the gates of both Paradise and Hell? We answer: the hearing, sight, and other senses of people guided toward happiness differ in their nature from the senses of people ruled by desire and misery. They may share the basic ability to sense, but the senses of the blessed are cleansed of material impurity and lit by knowledge and piety. The senses of the wretched are covered by the darkness of habit and dimmed by ignorance and desire. In short, the blessed person's hearing, sight, and heart have been changed in the next life. They have become suitable gates to Paradise, the home of good deeds and blessings. But the hearing, sight, and heart of the people of Hell have become more wretched, darker, and more impure than they were before. They are now suited to be gates to the home of darkness, ruin, punishment, and pain.
 
-#### An unveiling insight
+#### 2. An unveiling insight
 
 Know—may God guide you along the straight path to the next life—that Paradise, which those who belong there will reach, is already visible to you today in the place where it is,[^V09-562] though not in its outward form. You move through it in your present state without knowing that you are there. Your natural form keeps you from seeing it and the blessings prepared within it: its rooms, trees, rivers, food, and drink. Those with spiritual insight can see what is hidden from others. They can see this place as a green garden, or as Hell, with the toil and strain of its heat and cold, its fires and flames, its snakes and scorpions, its scalding water and Zaqqum.
 
@@ -1894,7 +1895,7 @@ People without spiritual insight and clear inner sight remain blind within their
 
 Some people keep this spiritual sight throughout their lives; others do not. The second group may still be higher in rank, for God has hidden wisdom in His creatures. The people of God have eyes with which they see, ears with which they hear, and hearts with which they understand—but these are not the eyes, ears, and hearts of the body, as you learned earlier. The unbelieving and veiled are deaf, mute, and blind; they do not understand what comes from God and do not return to Him.
 
-#### Chapter 27 — Further insight into what Paradise and Hell are
+#### XXVII. Further insight into what Paradise and Hell are
 
 You have learned that the next life lies between the world of pure intellect and the material world of bodies. Everything there appears in forms that can be sensed and known by a power of the soul that is imagination here and sense there. When a person dies and is freed from this natural body, their small Resurrection begins. They are first gathered into the intermediate world, then into Paradise or Hell at the Great Resurrection.
 
@@ -1962,7 +1963,7 @@ The abode of Hell and punishment is not a separate, independent world or dwellin
 
 What supports this view is that Hell is an image of God's anger, just as Paradise is an image of His mercy. We have already shown that God's mercy is essential and reaches all things,[^V09-590] while anger is a response. Good things come directly from their source; evil things occur as secondary results.[^V09-591] By the same reasoning, Paradise exists in its own right, while the Fire exists as a consequence.
 
-#### A note from a mystic
+#### 1. A note from a mystic
 
 A mystic says[^V09-592] about God's words, “Protect yourselves from the Fire whose fuel is people and stones”: Fire can be a remedy for some illnesses. There are illnesses that can be cured only by cauterizing with fire. God says of some people, “They will be branded on their foreheads and sides.” God has made fire a remedy in this case, protecting them from a disease worse than fire itself. What disease is greater than grave sins? God may therefore use Hell as a medicine for them in the next life, just as fire is used to cauterize in this life. By entering Hell, they are cured of something worse: God's anger. For this reason they later leave Hell and enter Paradise, just as worldly laws can protect people from punishment in the next life. These are the mystic's words.
 
@@ -1970,7 +1971,7 @@ This supports what we have said: Hell is not a real, independent home of punishm
 
 The same is true of those who enter the Fire for a time because of their bad deeds. If the light of faith remains in the heart, the darkness of sin cannot reach its innermost part or surround it completely. Such a person will leave Hell and recover from its punishment. But if disbelief has made the heart completely black, and the darkness of sin has reached its deepest part, that person will never leave the Fire; they will remain there forever. If you want to understand this further, listen carefully to what follows, and keep it from the wicked and base.
 
-#### Chapter 28 — How the people of Hell remain in Hell
+#### XXVIII. How the people of Hell remain in Hell
 
 This is a difficult question, and scholars who rely on formal learning disagree about it. Mystics disagree too. Will the punishment of those who truly belong in Hell last without end? Or will they find happiness in their home of misery, so that their pain ends after a set time? They do agree that unbelievers do not leave Hell and remain there forever.[^V09-593] Each of the two homes has its own inhabitants and will be filled.
 
@@ -2042,7 +2043,7 @@ Qaysari summarizes: “The three main places in the next life that hold all peop
 
 “Those who worship things other than God are punished because they confined the Real to the thing they worshipped and treated the limitless God as if He were limited. Yet, since the thing they worshipped was in truth the Real appearing in that form, they worshipped no one but God, and in this respect God accepts it. Their punishment therefore becomes pleasure for them.[^V09-630] Unbelievers suffer greatly, but their nature calls for this state, so they do not feel pain in it. A person may call it punishment when they know there are higher ranks and kinds of joy beyond their own. But punishment does not last forever as punishment: it ends through the help of those who intercede, and at last through the help of the Most Compassionate. This is why watercress will grow at the bottom of Hell, and why the report says, ‘My mercy comes before My anger.’”
 
-#### Chapter 29 — What Hell is made of and what form it takes
+#### XXIX. What Hell is made of and what form it takes
 
 We have already said that Hell belongs to the same kind of reality as this world. Its source and material are the soul's attachment to worldly things simply because they are worldly. Its form is made up of painful traits, absences, and faults. Absence and defect are negative states, so by themselves they do not act or cause pain. But when the soul experiences them as present, they have a kind of existence for it. In this way they become real evils for the person who has them.[^V09-631] Consider the loss of a connection. It is only the absence of a connection that should be there, yet the sense of touch can feel it as intense pain. It is an absence that is experienced and felt. If an absence can be present in this way, it becomes a real evil. The pain of touch is the experience of something that harms the one who feels it.
 
@@ -2064,7 +2065,7 @@ God made Hell through His quality of anger. The pain and suffering felt by those
 
 One of the strangest reports about this comes from the Prophet. He was sitting with his companions in the mosque when they heard a great crash and became frightened. He asked, “Do you know what that sound was?” They said, “God and His Messenger know best.” He said, “A stone was thrown from the top of Hell seventy years ago. It has just reached the bottom.” Just as he finished speaking, a hypocrite who was seventy years old died in his house. The Prophet said, “God is greatest.” The companions understood that the stone was that hypocrite. From the day God created him, he had been falling into Hell. When he died, he reached its bottom. God says, “The hypocrites will be in the lowest level of the Fire.” God let the companions hear that sound so they would learn. Consider how remarkable the Prophet's words are and how gently he taught them. Ibn Arabi ends there.
 
-#### A spiritual reminder
+#### 1. A spiritual reminder
 
 You have learned that Paradise is above the seventh heaven in rank, but in its true nature it is within the veils of the heavens and earth, because it belongs to the unseen world, which is the inner side of the visible world. You have also learned that the next life grows out of this world. Know, then, that this world is like a kitchen where food for the people of Paradise is prepared. The warmth of the heavens' movements and the rays of the stars ripen it.[^V09-637] Human deeds are the material from which the food of their souls and bodies in the next life is made.[^V09-638] The more balanced and complete their deeds are, through worldly discipline and bodily effort for God's sake, the better prepared their food, fruit, and drink will be in the next life. It will suit them better and give lasting life greater strength.
 
@@ -2080,7 +2081,7 @@ When matter takes on a higher form, it first has to weaken or break down from it
 
 The soul's growth also comes after inner breaking and digestion. Bodily movement brings this about in physical acts of worship, and thought brings it about in acts of understanding. All of this depends on the movements of the heavens and the light of the stars. So the knowledge and good deeds that complete the soul—and the life, joy, food, and drink they give it in Paradise—come through the natural heat of this world. That heat belongs to the same source as the fire of Hell, as we have explained more than once.
 
-#### Chapter 30 — Where the pain and punishment of Hell are felt
+#### XXX. Where the pain and punishment of Hell are felt
 
 You have learned that Hell is a mixed state, part of this world and part of the next life. Its matter is the absence and evil found in this world. Its form is the soul's experience of those absences and evils as painful images, because it is attached to and absorbed in this world. So where does punishment take place? It is not simple, like saying it happens only in the body, only in the rational soul, or only in the animal soul.
 
@@ -2104,7 +2105,7 @@ As for the limbs and organs, they have only lasting joy in Hell, just like its k
 
 If the person remains in the intermediate world, they may see a frightening dream or painful image and suffer, or they may see a good dream and pleasant image and feel joy. The pleasure or pain follows wherever they go. The same is true of their state in the next life. Pay attention to this point and see clearly what I have explained.
 
-#### Chapter 31 — The gatekeepers of Hell and their number
+#### XXXI. The gatekeepers of Hell and their number
 
 God says, “Over it are nineteen,” and, “We have made the keepers of the Fire angels. We have made their number only a trial for those who disbelieve.” Know that God has angels who act in bodies by His command, just as He has angels whose knowledge is turned only toward Him, with no concern for bodies. They are the ones referred to in the verses “those who race ahead” and “those who direct affairs.”[^V09-650] These subordinate beings direct affairs in the intermediate realms of darkness and in the forms of the natural world. The natural world appears outwardly as this world, with its many levels, but inwardly it is Hell, with its levels. The word “then” in the verse points to an order of existence: each of these beings is under a holy, separate reality that existed before the souls that govern and the natural things that move. They are like the spirits of the great heavenly world and of the small human world, which contains a pattern of the great one. In the upper, greater world, they are the spirits of the moving planets and the fixed stars, grouped into the twelve signs of the zodiac. Together they make nineteen governors in broad outline, though their details are beyond counting.[^V09-651][^V09-652] Some are governed by others, in keeping with the order of wisdom.
 
@@ -2116,7 +2117,7 @@ When the spirit leaves the body at death and passes from this world to the next,
 
 But whoever is guided by their Lord and stands firmly on the straight path—the path of God, the Mighty and Praiseworthy—will travel toward the next life with the light of guidance and the steady steps of knowledge and piety. They will reach the home of peace, escape these ruinous punishments, and be freed from the world's slavery and from desires that command wrongdoing. God gives the example of “a man owned by several partners who quarrel with one another, and a man devoted to one man alone. Are the two alike?” Praise belongs to God, but most people do not understand.
 
-#### Chapter 32 — The stages of the journey to God and the way to the true Paradise
+#### XXXII. The stages of the journey to God and the way to the true Paradise
 
 The stages that lead to the true Paradise have corresponding depths of distance from God and descent into the real Fire.[^V09-653] One of the people who reached certainty says that a person is first given a particular existence, then a particular knowledge, then a will, then limited power, and then action. Since the return is a return to our original nature, a return to the beginning at the end, the seeker must gradually leave these qualities behind, in the reverse order from the one in which they first appeared.
 
@@ -2136,7 +2137,7 @@ But those who do not follow the path of those who see God's oneness, whose actio
 
 For every stage reached by the people of the Real, they have a corresponding depth in Hell. The depth corresponding to trust in God is abandonment: “If God abandons you, who can help you after Him?” The depth corresponding to submission is humiliation: “Whoever God humiliates will find no one to honor them.” The depth corresponding to nearness and union is being driven away and cursed: “Those whom God curses, and all who curse, will curse them.” The first group gave up the claim that its power, knowledge, and existence belonged to it alone. It gained in return unlimited power, knowledge that comes from God, and everlasting existence. The second group insists that these qualities belong to it in its own right. It therefore falls into boundless helplessness, complete ignorance, and everlasting ruin. That is the great disgrace.
 
-#### Chapter 33 — The Tree of Tuba and the Tree of Zaqqum
+#### XXXIII. The Tree of Tuba and the Tree of Zaqqum
 
 God says, “Tuba is theirs, and a beautiful homecoming,” and, “The Tree of Zaqqum is food for the sinner.” It is a tree that grows from the root of Hell—that is, from worldly nature. Its fruit is like the heads of devils. The fruit is where the tree begins to bear and where its fruits come out of their coverings. Here, it stands for the beginnings of false beliefs and bad qualities: the main devilish traits. When each of these traits takes root and grows strong in the soul, it becomes an essential form of a devil, as we have seen when a person's dominant traits become lasting forms within the soul. These traits that give rise to devils are misleading desires, destructive hopes, and blameworthy appetites. They feed and strengthen the souls of those who have lost their way, fill their inner selves, and give rise to Hellfire and painful torment. God says:
 
@@ -2156,7 +2157,7 @@ The wise mystic Ibn Arabi says in *The Bezels of Wisdom* that the Tree of Tuba i
 
 From this we can understand that the Tree of Tuba means the source of true knowledge and good qualities. They adorn, nourish, and clothe souls that are ready to receive them, just as the things on earth adorn and nourish the people who live there. Since our souls are the soil of this tree and God is the one who plants it, its ornaments must be knowledge, insight, and fine qualities. These are also the soul's food and clothing, for knowledge feeds the soul and piety clothes it.
 
-#### Chapter 34 — How the states and effects of the people of Paradise and Hell continually renew
+#### XXXIV. How the states and effects of the people of Paradise and Hell continually renew
 
 The people of Hell certainly undergo changes: their skins are replaced,[^V09-658] and their bodies change from one form to another. God says, “Whenever their skins are burned away, We replace them with other skins, so they may taste the punishment.” Their nature is made up of bodily, material powers, because, as we have said, Hell is of the same kind as this world. The actions and reactions of material powers are limited, so they must eventually stop or change.
 

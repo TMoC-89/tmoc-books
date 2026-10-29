@@ -1,0 +1,1462 @@
+{
+  "version": 1,
+  "initiallyCollapsed": true,
+  "languages": {
+    "en": {
+      "sourceHash": "26f8dc7f07d9795e0c5cc0ca6909cc5e39350d4b0986524c1274cbd8b6081fcf",
+      "entries": [
+        {
+          "id": "passage-en-00004",
+          "level": 1,
+          "kind": "opening",
+          "label": "Opening pages"
+        },
+        {
+          "id": "passage-en-00121",
+          "level": 1,
+          "kind": "division",
+          "label": "Stage Seven: Power and action",
+          "expanded": false
+        },
+        {
+          "id": "passage-en-00123",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. The meanings of power"
+        },
+        {
+          "id": "passage-en-00129",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. Defining power as the source of change"
+        },
+        {
+          "id": "passage-en-00138",
+          "level": 3,
+          "kind": "group",
+          "label": "The second kind: Power that produces different actions without awareness"
+        },
+        {
+          "id": "passage-en-00140",
+          "level": 3,
+          "kind": "group",
+          "label": "The third kind: Power that produces one steady action with awareness"
+        },
+        {
+          "id": "passage-en-00142",
+          "level": 3,
+          "kind": "group",
+          "label": "The fourth kind: Power that produces different actions with awareness"
+        },
+        {
+          "id": "passage-en-00147",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. Must the ability to act exist when the action happens?"
+        },
+        {
+          "id": "passage-en-00155",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. When must a change happen, and when can it fail to happen?"
+        },
+        {
+          "id": "passage-en-00170",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. Another way to divide the power to act"
+        },
+        {
+          "id": "passage-en-00174",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VI. Another way to divide causes"
+        },
+        {
+          "id": "passage-en-00178",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VII. Another way to classify abilities to act"
+        },
+        {
+          "id": "passage-en-00182",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VIII. Does every action have to start after a time when it did not exist?"
+        },
+        {
+          "id": "passage-en-00190",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IX. Power is not the body's temperament, as some doctors claim"
+        },
+        {
+          "id": "passage-en-00193",
+          "level": 2,
+          "kind": "chapter",
+          "label": "X. Motion and rest"
+        },
+        {
+          "id": "passage-en-00205",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A Difficulty and Its Solution"
+        },
+        {
+          "id": "passage-en-00215",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XI. What kind of existence does motion have?"
+        },
+        {
+          "id": "passage-en-00230",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XII. Proving the First Mover"
+        },
+        {
+          "id": "passage-en-00236",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIII. Answering objections to the rule that every moving thing has a mover"
+        },
+        {
+          "id": "passage-en-00250",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIV. Dividing the moving power and proving an intellective mover"
+        },
+        {
+          "id": "passage-en-00254",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XV. Why the immediate source of particular actions and motions is not separate from matter"
+        },
+        {
+          "id": "passage-en-00259",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XVI. Every thing that comes to be is preceded by potentiality and the matter that carries it"
+        },
+        {
+          "id": "passage-en-00268",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XVII. Actuality comes before potentiality"
+        },
+        {
+          "id": "passage-en-00275",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XVIII. What is the subject of motion: the body or something else?"
+        },
+        {
+          "id": "passage-en-00281",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIX. An Eastern insight"
+        },
+        {
+          "id": "passage-en-00288",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XX. Nature is the immediate source of motion in every moving thing"
+        },
+        {
+          "id": "passage-en-00299",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXI. How the changing is connected to the unchanging"
+        },
+        {
+          "id": "passage-en-00306",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXII. How motion relates to the basic kinds of being"
+        },
+        {
+          "id": "passage-en-00319",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXIII. Which categories can undergo motion, and which cannot?"
+        },
+        {
+          "id": "passage-en-00327",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXIV. How motion occurs in each of the five categories"
+        },
+        {
+          "id": "passage-en-00335",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Note and clarification"
+        },
+        {
+          "id": "passage-en-00354",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXV. A clearer account of motion in quantity"
+        },
+        {
+          "id": "passage-en-00365",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Discussion and conclusion"
+        },
+        {
+          "id": "passage-en-00370",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXVI. Another proof that things change in their very substance"
+        },
+        {
+          "id": "passage-en-00376",
+          "level": 3,
+          "kind": "section",
+          "label": "1. An illustrative note"
+        },
+        {
+          "id": "passage-en-00379",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXVII. Why a thing's very form can come to be through motion"
+        },
+        {
+          "id": "passage-en-00385",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXVIII. Further evidence that natural substances in heavenly and earthly bodies are renewed"
+        },
+        {
+          "id": "passage-en-00395",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXIX. Why circular motion is the oldest, most lasting, complete, and noble motion"
+        },
+        {
+          "id": "passage-en-00401",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXX. Time is real and measures motion as a continuous quantity"
+        },
+        {
+          "id": "passage-en-00408",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXI. Gradual Existence as the Immediate Goal of Time and Motion"
+        },
+        {
+          "id": "passage-en-00424",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXII. Nothing Precedes Time and Motion Except God, Exalted in Glory"
+        },
+        {
+          "id": "passage-en-00432",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXIII. How the Changing Is Linked to the Eternal"
+        },
+        {
+          "id": "passage-en-00444",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A Clarifying Note"
+        },
+        {
+          "id": "passage-en-00448",
+          "level": 3,
+          "kind": "section",
+          "label": "2. Discussion and Clarification"
+        },
+        {
+          "id": "passage-en-00461",
+          "level": 3,
+          "kind": "section",
+          "label": "3. Discussion continued"
+        },
+        {
+          "id": "passage-en-00475",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXIV. Why Time Has No First or Last Moment"
+        },
+        {
+          "id": "passage-en-00487",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXV. Arguments for a Beginning of Time and Replies"
+        },
+        {
+          "id": "passage-en-00516",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXVI. What the “Now” Is, and How It Exists and Passes Away"
+        },
+        {
+          "id": "passage-en-00527",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXVII. How Motion and Its Effects Can Cease to Exist"
+        },
+        {
+          "id": "passage-en-00535",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXVIII. How the Instant Measures Time"
+        },
+        {
+          "id": "passage-en-00538",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXIX. How Motion Divides Time, and Time Measures Motion"
+        },
+        {
+          "id": "passage-en-00541",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Eastern Insight"
+        },
+        {
+          "id": "passage-en-00544",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XL. What Exists in Time"
+        },
+        {
+          "id": "passage-en-00547",
+          "level": 1,
+          "kind": "division",
+          "label": "Stage Eight: Further rules of motion"
+        },
+        {
+          "id": "passage-en-00548",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. Where Motion Begins and Ends, and When Its Endpoints Oppose Each Other"
+        },
+        {
+          "id": "passage-en-00553",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. Why Motion Does Not Occur in the Other Five Categories"
+        },
+        {
+          "id": "passage-en-00561",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. What Rest Is, What Kind of Rest Opposes Motion, and How a Body Can Have Neither"
+        },
+        {
+          "id": "passage-en-00571",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. How One Motion Can Be One Event, One Kind, or Another"
+        },
+        {
+          "id": "passage-en-00578",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. What Speed and Slowness Are, and Why They Are Not Caused by Pauses"
+        },
+        {
+          "id": "passage-en-00581",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VI. Further Points About Speed and Slowness"
+        },
+        {
+          "id": "passage-en-00585",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VII. When Motions Oppose Each Other"
+        },
+        {
+          "id": "passage-en-00588",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VIII. Why Straight and Circular Motions Are Not Opposites"
+        },
+        {
+          "id": "passage-en-00593",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IX. Why Every Straight Motion Ends in Rest"
+        },
+        {
+          "id": "passage-en-00610",
+          "level": 2,
+          "kind": "chapter",
+          "label": "X. How Motion Is Divided by What Causes It"
+        },
+        {
+          "id": "passage-en-00618",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XI. What Does Natural Motion Seek?"
+        },
+        {
+          "id": "passage-en-00625",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XII. Can One Body Have Different Sources of Motion?"
+        },
+        {
+          "id": "passage-en-00630",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIII. What Causes Forced Motion?"
+        },
+        {
+          "id": "passage-en-00642",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIV. Why Every Body Has a Tendency to Move in a Straight Line or a Circle"
+        },
+        {
+          "id": "passage-en-00675",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XV. Bodily Forces Have Limits in How They Move Things"
+        },
+        {
+          "id": "passage-en-00699",
+          "level": 1,
+          "kind": "division",
+          "label": "Stage Nine: Eternity and things coming into being"
+        },
+        {
+          "id": "passage-en-00700",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. What Do “Coming-to-Be” and “Eternity” Mean?"
+        },
+        {
+          "id": "passage-en-00705",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. The Case for Essential Coming-to-Be"
+        },
+        {
+          "id": "passage-en-00714",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. Is Coming-to-Be in Time an Extra Feature of Existence?"
+        },
+        {
+          "id": "passage-en-00719",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. Coming-to-Be and the Need for a Cause"
+        },
+        {
+          "id": "passage-en-00730",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. Ways One Thing Can Come Before Another"
+        },
+        {
+          "id": "passage-en-00743",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VI. How These Kinds of Priority Share a Meaning"
+        },
+        {
+          "id": "passage-en-00758",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VII. Whether Priority Changes by Degree Across Its Kinds"
+        },
+        {
+          "id": "passage-en-00763",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VIII. Kinds of Being Together"
+        },
+        {
+          "id": "passage-en-00769",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IX. What Essential Coming-to-Be Really Means"
+        },
+        {
+          "id": "passage-en-00782",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A Difficulty and Its Solution"
+        },
+        {
+          "id": "passage-en-00787",
+          "level": 1,
+          "kind": "division",
+          "label": "Stage Ten: Intellect and What It Understands"
+        },
+        {
+          "id": "passage-en-00789",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. Defining Knowledge"
+        },
+        {
+          "id": "passage-en-00794",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. Why Knowing Things That Are Absent from Us Requires Their Images to Be Present in Us"
+        },
+        {
+          "id": "passage-en-00803",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. The Proposed Accounts of Knowledge and What They Share"
+        },
+        {
+          "id": "passage-en-00832",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. What Knowledge Really Is"
+        },
+        {
+          "id": "passage-en-00838",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. How a Mental Image Is Present to the Soul but Exists Differently in Matter"
+        },
+        {
+          "id": "passage-en-00849",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VI. On the Claim That Knowledge Is an Accident"
+        },
+        {
+          "id": "passage-en-00862",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VII. What It Means for the Intellect to Become One with What It Understands"
+        },
+        {
+          "id": "passage-en-00876",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VIII. Confirming That the Intellect and What It Understands Become One"
+        },
+        {
+          "id": "passage-en-00906",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IX. The Earlier Philosophers’ View: The Soul Understands by Joining the Active Intellect"
+        },
+        {
+          "id": "passage-en-00922",
+          "level": 2,
+          "kind": "chapter",
+          "label": "X. Refuting a Later View of Knowledge"
+        },
+        {
+          "id": "passage-en-00927",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XI. How One Thing Can Be Intellect, Knower, and Known Without Becoming Many"
+        },
+        {
+          "id": "passage-en-00943",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XII. Further Questions About Self-Knowledge"
+        },
+        {
+          "id": "passage-en-00958",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIII. Kinds of Perception"
+        },
+        {
+          "id": "passage-en-00971",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIV. How the Rational Power Unifies Many Things and Distinguishes One Thing into Many"
+        },
+        {
+          "id": "passage-en-00975",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XV. Levels of the Intellect and What It Understands"
+        },
+        {
+          "id": "passage-en-00994",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XVI. Whether the Soul Can Understand Many Things at Once"
+        },
+        {
+          "id": "passage-en-01001",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XVII. How the Simple Soul Can Understand Many Things"
+        },
+        {
+          "id": "passage-en-01004",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XVIII. Different Ways to Classify Knowledge"
+        },
+        {
+          "id": "passage-en-01010",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIX. A Sign That the Soul Has a Sacred Power"
+        },
+        {
+          "id": "passage-en-01016",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XX. Knowing a Cause Gives Knowledge of Its Effect, but Not the Other Way Around"
+        },
+        {
+          "id": "passage-en-01033",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXI. Knowledge of an Effect Requires Knowledge of Its Cause"
+        },
+        {
+          "id": "passage-en-01044",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXII. Knowledge Through Causes Gives Only Universal Knowledge"
+        },
+        {
+          "id": "passage-en-01051",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXIII. Knowledge of Particular Things Must Change If They Change"
+        },
+        {
+          "id": "passage-en-01068",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXIV. Explaining the Different Meanings of “Intellect”"
+        },
+        {
+          "id": "passage-en-01086",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXV. Alexander’s Account of the Intellect, Following Aristotle"
+        },
+        {
+          "id": "passage-en-01094",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXVI. Answering a Difficulty About the Potential Intellect Becoming Actual"
+        },
+        {
+          "id": "passage-en-01099",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXVII. How the Potential Intellect Becomes Actual Intellect"
+        },
+        {
+          "id": "passage-en-01111",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXVIII. First Principles, Their Relation to Later Principles, and the Defense of the First Principle"
+        },
+        {
+          "id": "passage-en-01119",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXIX. Every Separate Being Must Understand Itself"
+        },
+        {
+          "id": "passage-en-01134",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXX. Every Separate Being Is Intellect in Itself"
+        },
+        {
+          "id": "passage-en-01140",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXI. How the Active Intellect Relates to Our Souls"
+        },
+        {
+          "id": "passage-en-01147",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXII. Self-awareness is the self’s own act and lasts as long as the self exists"
+        },
+        {
+          "id": "passage-en-01163",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXIII. Anyone who understands something must be free of matter"
+        },
+        {
+          "id": "passage-en-01176",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXIV. The one who perceives imagined forms must also be free of this material world"
+        },
+        {
+          "id": "passage-en-01204",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXV. The human soul’s understanding is not essential or necessary to it"
+        },
+        {
+          "id": "passage-en-01213",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXVI. Learning is not recollection"
+        },
+        {
+          "id": "passage-en-01218",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXVII. Why intelligible forms are not in bodies or bodily powers"
+        },
+        {
+          "id": "passage-en-01232",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXVIII. The senses do not know that what they perceive exists"
+        },
+        {
+          "id": "passage-en-01241",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXIX. The kinds of knowledge"
+        },
+        {
+          "id": "passage-en-01260",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Closing discussion: Terms with similar meanings"
+        },
+        {
+          "id": "en-notes-head",
+          "level": 1,
+          "kind": "notes"
+        }
+      ]
+    },
+    "ar": {
+      "sourceHash": "4c08817efa244577b0764aadaad5b67245fed11f87c1fe7097b1eea699b9bf70",
+      "entries": [
+        {
+          "id": "passage-ar-00005",
+          "level": 1,
+          "kind": "opening",
+          "label": "الصفحات الافتتاحية"
+        },
+        {
+          "id": "passage-ar-00122",
+          "level": 1,
+          "kind": "division",
+          "label": "المرحلة السابعة: في القوة والفعل",
+          "expanded": false
+        },
+        {
+          "id": "passage-ar-00123",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في معاني القوة"
+        },
+        {
+          "id": "passage-ar-00127",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في تحديد القوة بهذا المعنى"
+        },
+        {
+          "id": "passage-ar-00133",
+          "level": 3,
+          "kind": "group",
+          "label": "القسم الثاني: القوة التي تصدر عنها أفعال مختلفة من غير أن يكون لها شعور"
+        },
+        {
+          "id": "passage-ar-00135",
+          "level": 3,
+          "kind": "group",
+          "label": "القسم الثالث: القوة التي يصدر عنها فعل واحد على سنه واحده مع الشعور"
+        },
+        {
+          "id": "passage-ar-00137",
+          "level": 3,
+          "kind": "group",
+          "label": "القسم الرابع: القوة التي يصدر عنها أفعال مختلفة مع الشعور بتلك الافعال"
+        },
+        {
+          "id": "passage-ar-00139",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في أن القدرة هل يجب أن تكون مع الفعل أم لا"
+        },
+        {
+          "id": "passage-ar-00145",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في ايضاح القول بان كل واحده من القوة الانفعالية متى يجب معها الفعل ومتى لا يجب"
+        },
+        {
+          "id": "passage-ar-00153",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في تقسيم آخر للقوة الفاعلية"
+        },
+        {
+          "id": "passage-ar-00155",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٦. في طور آخر من التقسيم"
+        },
+        {
+          "id": "passage-ar-00157",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٧. في طور آخر من التقسيم"
+        },
+        {
+          "id": "passage-ar-00160",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٨. في أنه هل يجب سبق العدم على الفعل في كل فاعليه أم لا"
+        },
+        {
+          "id": "passage-ar-00164",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٩. في أن القدرة ليست نفس المزاج كما زعمه بعض الأطباء"
+        },
+        {
+          "id": "passage-ar-00166",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٠. في حركة والسكون"
+        },
+        {
+          "id": "passage-ar-00173",
+          "level": 3,
+          "kind": "section",
+          "label": "١. عقده وحل"
+        },
+        {
+          "id": "passage-ar-00180",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١١. في تحقيق القول في نحو وجود حركه"
+        },
+        {
+          "id": "passage-ar-00190",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٢. في اثبات المحرك الأول"
+        },
+        {
+          "id": "passage-ar-00193",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٣. في دفع شكوك أوردت على قاعدة كون كل متحرك له محرك"
+        },
+        {
+          "id": "passage-ar-00204",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٤. في تقسيم القوة المحركة وفي اثبات محرك عقلي"
+        },
+        {
+          "id": "passage-ar-00208",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٥. في أن المبدء القريب لهذه الأفاعيل والحركات المخصوصة ليس أمرا مفارقا عن المادة"
+        },
+        {
+          "id": "passage-ar-00211",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٦. في أن كل حادث يسبقه قوه الوجود ومادة تحملها"
+        },
+        {
+          "id": "passage-ar-00218",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٧. في أن الفعل مقدم على القوة"
+        },
+        {
+          "id": "passage-ar-00224",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٨. في تحقيق موضوع حركه وان موضوعها هل الجسم أم غيره"
+        },
+        {
+          "id": "passage-ar-00228",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٩. في حكمه مشرقية"
+        },
+        {
+          "id": "passage-ar-00233",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٠. في اثبات الطبيعة لكل متحرك وانها هي المبدء القريب لكل"
+        },
+        {
+          "id": "passage-ar-00240",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢١. في كيفية ربط المتغير بالثابت"
+        },
+        {
+          "id": "passage-ar-00243",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٢. في نسبه حركه إلى المقولات"
+        },
+        {
+          "id": "passage-ar-00249",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٣. في تعيين ان أي مقولة من المقولات تقع فيها حركه وأيها لم تقع فيها"
+        },
+        {
+          "id": "passage-ar-00253",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٤. في تحقيق وقوع حركه في كل واحده من هذه المقولات الخمس"
+        },
+        {
+          "id": "passage-ar-00257",
+          "level": 3,
+          "kind": "section",
+          "label": "١. تنبيه وتوضيح"
+        },
+        {
+          "id": "passage-ar-00267",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٥. في توضيح ما ذكرنا في تحقيق حركه الكمية"
+        },
+        {
+          "id": "passage-ar-00274",
+          "level": 3,
+          "kind": "section",
+          "label": "١. بحث وتحصيل"
+        },
+        {
+          "id": "passage-ar-00277",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٦. في استيناف برهان آخر على وقوع حركه في الجوهر"
+        },
+        {
+          "id": "passage-ar-00283",
+          "level": 3,
+          "kind": "section",
+          "label": "١. تنبيه تمثيلي"
+        },
+        {
+          "id": "passage-ar-00286",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٧. في هدم ما ذكره الشيخ وغيره من أن الصور الجوهرية لا يكون حدوثها بالحركة بوجه آخر"
+        },
+        {
+          "id": "passage-ar-00291",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٨. في تأكيد القول بتجدد الجواهر الطبيعية المقومة للأجرام السماوية والأرضية"
+        },
+        {
+          "id": "passage-ar-00299",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٩. في أن أقدم الحركات الواقعة في مقولة عرضية وأدومها هي الوضعية المستديرة وهي أيضا أتمها وأشرفها"
+        },
+        {
+          "id": "passage-ar-00301",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٠. في اثبات حقيقة الزمان وانه بهويته الاتصالية الكمية مقدار"
+        },
+        {
+          "id": "passage-ar-00305",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣١. في أن الغاية القريبة للزمان وحركه تدريجية الوجود"
+        },
+        {
+          "id": "passage-ar-00314",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٢. في أنه لا يتقدم على ذات الزمان وحركه شئ الا الباري عز مجده"
+        },
+        {
+          "id": "passage-ar-00321",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٣. في ربط الحادث بالقديم"
+        },
+        {
+          "id": "passage-ar-00327",
+          "level": 3,
+          "kind": "section",
+          "label": "١. تنبيه فيه تنوير"
+        },
+        {
+          "id": "passage-ar-00331",
+          "level": 3,
+          "kind": "section",
+          "label": "٢. بحث وتحصيل"
+        },
+        {
+          "id": "passage-ar-00346",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٤. في أن الزمان يمتنع ان يكون له طرف موجود"
+        },
+        {
+          "id": "passage-ar-00353",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٥. في احتجاج من يضع للزمان بداية ان المثبتين للزمان بداية احتجوا بأمور"
+        },
+        {
+          "id": "passage-ar-00369",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٦. في حقيقة الان وكيفية وجوده وعدمه"
+        },
+        {
+          "id": "passage-ar-00379",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٧. في كيفية عدم حركه وما يتبعها"
+        },
+        {
+          "id": "passage-ar-00385",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٨. في أن الان كيف يعد الزمان"
+        },
+        {
+          "id": "passage-ar-00388",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٩. في كيفية تعدد الزمان بالحركة وحركه بالزمان وكيفية تقدير كل منهما بالآخر"
+        },
+        {
+          "id": "passage-ar-00393",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤٠. في الأمور التي في الزمان"
+        },
+        {
+          "id": "passage-ar-00397",
+          "level": 1,
+          "kind": "division",
+          "label": "المرحلة الثامنة: في تتمه أحوال حركه واحكامها"
+        },
+        {
+          "id": "passage-ar-00398",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في ما منه حركه وما إليه حركه ووقوع التضاد بينهما الذي منه حركه والذي إليه في الكيف والكم يتضادان"
+        },
+        {
+          "id": "passage-ar-00403",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في نفى حركه عن باقي المقولات الخمس بالذات"
+        },
+        {
+          "id": "passage-ar-00408",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في حقيقة السكون وان مقابل حركه أي سكون هو وانه كيف يخلق الجسم عنهما جميعا"
+        },
+        {
+          "id": "passage-ar-00416",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في الوحدة العددية والنوعية والجنسية للحركة"
+        },
+        {
+          "id": "passage-ar-00422",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في حقيقة السرعة والبطؤ وانهما ليسا بتخلل السكون"
+        },
+        {
+          "id": "passage-ar-00425",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٦. في أحوال متعلقه بالسرعة والبطؤ"
+        },
+        {
+          "id": "passage-ar-00429",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٧. في تضاد الحركات"
+        },
+        {
+          "id": "passage-ar-00432",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٨. في أن المستقيمة من حركه لا تضاد المستديرة ولا المستديرات المتخالفة الانحداب تضاد بعضها"
+        },
+        {
+          "id": "passage-ar-00436",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٩. في أن كل حركه مستقيمة فهي منتهية إلى السكون"
+        },
+        {
+          "id": "passage-ar-00452",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٠. في انقسام حركه بانقسام فاعلها"
+        },
+        {
+          "id": "passage-ar-00459",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١١. في أن المطلوب بالحركة الطبيعية ما ذا"
+        },
+        {
+          "id": "passage-ar-00464",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٢. في أن مبادئ الحركات المختلفة يمكن ان يجتمع في جسم واحد أم لا"
+        },
+        {
+          "id": "passage-ar-00467",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٣. في تحقيق مبدء حركه القسرية"
+        },
+        {
+          "id": "passage-ar-00472",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٤. في أن كل جسم لا بد وأن يكون فيه مبدء ميل مستقيم أو مستدير"
+        },
+        {
+          "id": "passage-ar-00488",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٥. في أن القوة المحركة الجسمانية متناهية التحريك"
+        },
+        {
+          "id": "passage-ar-00507",
+          "level": 1,
+          "kind": "division",
+          "label": "المرحلة التاسعة: في القدم والحدوث"
+        },
+        {
+          "id": "passage-ar-00508",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في بيان حقيقتهما"
+        },
+        {
+          "id": "passage-ar-00512",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في اثبات الحدوث الذاتي والمذكور فيه وجهان"
+        },
+        {
+          "id": "passage-ar-00517",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في أن الحدوث الزماني هل هو كيفية زائدة على وجود الحادث"
+        },
+        {
+          "id": "passage-ar-00521",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في أن الحدوث ليس علة الحاجة إلى العلة المفيدة بل هو منشأ الحاجة إلى العلة المعدة والعلة المعدة هي علة بالعرض لا بالذات"
+        },
+        {
+          "id": "passage-ar-00527",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في ذكر التقدم والتأخر وأقسامهما"
+        },
+        {
+          "id": "passage-ar-00533",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٦. في كيفية الاشتراك بين هذه الأقسام"
+        },
+        {
+          "id": "passage-ar-00544",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٧. في دعوى ان اطلاق التقدم على أقسامه بالتشكيك والتفاوت"
+        },
+        {
+          "id": "passage-ar-00546",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٨. في اقسام المعية"
+        },
+        {
+          "id": "passage-ar-00550",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٩. في تحقيق الحدوث الذاتي"
+        },
+        {
+          "id": "passage-ar-00560",
+          "level": 3,
+          "kind": "section",
+          "label": "١. عقده وحل"
+        },
+        {
+          "id": "passage-ar-00564",
+          "level": 1,
+          "kind": "division",
+          "label": "المرحلة العاشرة: في العقل والمعقول"
+        },
+        {
+          "id": "passage-ar-00566",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في تحديد العلم"
+        },
+        {
+          "id": "passage-ar-00569",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في أن العلم بالأشياء الغائبة وجوداتها عنا لا بد فيه من تمثل صورها عندنا"
+        },
+        {
+          "id": "passage-ar-00575",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في حال التفاسير المذكورة في باب العلم وتزييفها وتحصيل المعنى الجامع لافراده"
+        },
+        {
+          "id": "passage-ar-00594",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في تحقيق معنى العلم"
+        },
+        {
+          "id": "passage-ar-00600",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في الفرق بين حضور الصورة الادراكية للنفس وبين حصولها في المادة"
+        },
+        {
+          "id": "passage-ar-00608",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٦. في قولهم ان العلم عرض"
+        },
+        {
+          "id": "passage-ar-00617",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٧. في بيان ان التعقل عبارة عن اتحاد جوهر العاقل بالمعقول"
+        },
+        {
+          "id": "passage-ar-00628",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٨. في تأكيد القول باتحاد العاقل بالمعقول"
+        },
+        {
+          "id": "passage-ar-00649",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٩. في قول المتقدمين ان النفس انما تعقل باتحادها بالعقل الفعال"
+        },
+        {
+          "id": "passage-ar-00663",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٠. في تزييف ما ذكره بعض المتأخرين في معنى العلم"
+        },
+        {
+          "id": "passage-ar-00667",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١١. في تحقيق ان كون الشئ عقلا وعاقلا ومعقولا لا يوجب كثره في الذات ولا في الاعتبار"
+        },
+        {
+          "id": "passage-ar-00681",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٢. في حل باقي الشكوك في كون الشئ عاقلا لذاته"
+        },
+        {
+          "id": "passage-ar-00690",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٣. في أنواع الادراكات"
+        },
+        {
+          "id": "passage-ar-00698",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٤. في أن القوة العاقلة كيف تقوى على توحيد الكثير وتكثير الواحد"
+        },
+        {
+          "id": "passage-ar-00701",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٥. في درجات العقل والمعقول"
+        },
+        {
+          "id": "passage-ar-00714",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٦. في امكان التعقلات الكثيرة في النفس دفعه واحده"
+        },
+        {
+          "id": "passage-ar-00718",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٧. في أن النفس مع بساطتها كيف تقوى على هذه التعقلات الكثيرة"
+        },
+        {
+          "id": "passage-ar-00721",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٨. في قسمه العلم إلى الأقسام"
+        },
+        {
+          "id": "passage-ar-00726",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٩. في الإشارة إلى اثبات القوة القدسية"
+        },
+        {
+          "id": "passage-ar-00732",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٠. في أن العلم بالعلة يوجب العلم بالمعلول من غير عكس"
+        },
+        {
+          "id": "passage-ar-00745",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢١. في أن العلم بذى السبب يمتنع حصوله الا من جهة العلم بسببه"
+        },
+        {
+          "id": "passage-ar-00753",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٢. في أن الشئ إذا علم من طريق العلم بعلله وأسبابه علما انطباعيا فلا يعلم الا كليا"
+        },
+        {
+          "id": "passage-ar-00758",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٣. في أن العلم بالشخصيات يجب تغيره بتغيرها"
+        },
+        {
+          "id": "passage-ar-00774",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٤. في تفسير معاني العقل"
+        },
+        {
+          "id": "passage-ar-00786",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٥. في بيان معاني العقل التي نقلها الإسكندر الافريدوسي على رأى فيلسوف الأول أرسطاطاليس"
+        },
+        {
+          "id": "passage-ar-00794",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٦. في دفع الاشكال في صيرورة العقل الهيولاني عقلا بالفعل"
+        },
+        {
+          "id": "passage-ar-00799",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٧. في الاستدلال على صيرورة العقل الهيولاني عقلا بالفعل ومعقولا بالعقل"
+        },
+        {
+          "id": "passage-ar-00809",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٨. في الأوليات ونسبتها إلى الثواني والذب عن أول الأوائل"
+        },
+        {
+          "id": "passage-ar-00815",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٩. في أن كل مجرد يجب ان يكون عاقلا لذاته"
+        },
+        {
+          "id": "passage-ar-00830",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٠. في أن كل مجرد فإنه عقل لذاته"
+        },
+        {
+          "id": "passage-ar-00837",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣١. في نسبه العقل الفعال إلى نفوسنا"
+        },
+        {
+          "id": "passage-ar-00845",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٢. في أن كل من عقل ذاته فلا بد ان يكون عقله لذاته عين ذاته ويكون دائما ما دامت ذاته"
+        },
+        {
+          "id": "passage-ar-00853",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٣. في أن العاقل للشئ يجب ان يكون مجردا عن المادة"
+        },
+        {
+          "id": "passage-ar-00860",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٤. في أن المدرك للصور المتخيلة أيضا لا بد ان يكون مجردا عن هذا العالم"
+        },
+        {
+          "id": "passage-ar-00875",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٥. في أن تعقل النفس الانسانية للمعقولات ليس أمرا ذاتيا ولا من اللوازم لها"
+        },
+        {
+          "id": "passage-ar-00881",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٦. في أن التعلم ليس بتذكر"
+        },
+        {
+          "id": "passage-ar-00885",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٧. في أن المعقولات لا تحل جسما ولا قوه في جسم بل يحصل لجوهر قائم بنفسه ضرب آخر من الحصول كما أوضحنا سبيله"
+        },
+        {
+          "id": "passage-ar-00891",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٨. في أن الحواس لا تعلم أن للمحسوس وجودا"
+        },
+        {
+          "id": "passage-ar-00895",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٩. في اقسام العلوم"
+        },
+        {
+          "id": "ar-notes-head",
+          "level": 1,
+          "kind": "notes"
+        }
+      ]
+    }
+  }
+}

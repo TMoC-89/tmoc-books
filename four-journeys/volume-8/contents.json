@@ -1,0 +1,742 @@
+{
+  "version": 1,
+  "initiallyCollapsed": true,
+  "languages": {
+    "en": {
+      "sourceHash": "21d4fb94abe30369ace1a09603322a66c7cf246040e3f7e0db89d99510493c6d",
+      "entries": [
+        {
+          "id": "passage-en-00004",
+          "level": 1,
+          "kind": "opening",
+          "label": "Opening pages"
+        },
+        {
+          "id": "passage-en-00071",
+          "level": 2,
+          "kind": "section",
+          "label": "The Fourth Journey: On the soul, from its beginning in bodily matter through its final stages and return to its highest ends"
+        },
+        {
+          "id": "passage-en-00073",
+          "level": 1,
+          "kind": "division",
+          "label": "Book One: General questions about the soul",
+          "expanded": true
+        },
+        {
+          "id": "passage-en-00074",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. Defining the soul"
+        },
+        {
+          "id": "passage-en-00106",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. What the soul is in general"
+        },
+        {
+          "id": "passage-en-00117",
+          "level": 1,
+          "kind": "division",
+          "label": "Book Two: The animal soul"
+        },
+        {
+          "id": "passage-en-00118",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. The animal soul is a substance"
+        },
+        {
+          "id": "passage-en-00153",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. Proofs that the animal soul is not wholly dependent on physical matter"
+        },
+        {
+          "id": "passage-en-00161",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. Replies to doubts about the soul’s being a substance"
+        },
+        {
+          "id": "passage-en-00181",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. The powers of the soul that branch out through the body"
+        },
+        {
+          "id": "passage-en-00193",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. A principle for working out how many powers there are"
+        },
+        {
+          "id": "passage-en-00239",
+          "level": 1,
+          "kind": "division",
+          "label": "Book Three: The plant powers"
+        },
+        {
+          "id": "passage-en-00240",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. The main kinds of plant power"
+        },
+        {
+          "id": "passage-en-00262",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. Digestion, waste, and the powers that expel it"
+        },
+        {
+          "id": "passage-en-00269",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. How some organs have doubled powers, and what food is"
+        },
+        {
+          "id": "passage-en-00280",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. The Four Stages of Digestion"
+        },
+        {
+          "id": "passage-en-00286",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. What the Powers of Nourishment and Growth Really Are"
+        },
+        {
+          "id": "passage-en-00298",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VI. Why the Powers of Nourishment and Growth Stop, and Why Death Is Necessary"
+        },
+        {
+          "id": "passage-en-00328",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VII. What We Need to Know About the Formative Power"
+        },
+        {
+          "id": "passage-en-00380",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VIII. A Classification of the Soul's Powers and the Powers Below Them"
+        },
+        {
+          "id": "passage-en-00393",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IX. Each Body Has One Soul, and All Its Powers Arise from It"
+        },
+        {
+          "id": "passage-en-00401",
+          "level": 2,
+          "kind": "chapter",
+          "label": "X. Some Levels of the Soul Arise Before Others"
+        },
+        {
+          "id": "passage-en-00407",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XI. Another Account of the Human Powers, Following Those with Insight"
+        },
+        {
+          "id": "passage-en-00424",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XII. Which Organ Forms First?"
+        },
+        {
+          "id": "passage-en-00434",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIII. When the Rational Soul Joins the Body"
+        },
+        {
+          "id": "passage-en-00442",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIV. Why the Soul's Powers Differ"
+        },
+        {
+          "id": "passage-en-00447",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XV. Why Human Beings Have an Animal Power"
+        },
+        {
+          "id": "passage-en-00460",
+          "level": 1,
+          "kind": "division",
+          "label": "Book Four: The animal soul’s powers"
+        },
+        {
+          "id": "passage-en-00462",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. A general account of these powers and what each does"
+        },
+        {
+          "id": "passage-en-00476",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. Touch and its features"
+        },
+        {
+          "id": "passage-en-00489",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. Taste and its questions"
+        },
+        {
+          "id": "passage-en-00495",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. Smell"
+        },
+        {
+          "id": "passage-en-00506",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. Hearing"
+        },
+        {
+          "id": "passage-en-00540",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VI. Sight"
+        },
+        {
+          "id": "passage-en-00560",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VII. Arguments for imprinting, replies to them, and arguments against imprinting"
+        },
+        {
+          "id": "passage-en-00585",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VIII. What the ray theorists say"
+        },
+        {
+          "id": "passage-en-00594",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IX. Why people see double, and why the ray and imprint views disagree about its cause"
+        },
+        {
+          "id": "passage-en-00600",
+          "level": 2,
+          "kind": "chapter",
+          "label": "X. Why sight needs a transparent medium"
+        },
+        {
+          "id": "passage-en-00608",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XI. Why there are only five senses"
+        },
+        {
+          "id": "passage-en-00610",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XII. What the senses have in common"
+        },
+        {
+          "id": "passage-en-00621",
+          "level": 1,
+          "kind": "division",
+          "label": "Book Five: The soul’s inner perceptions"
+        },
+        {
+          "id": "passage-en-00622",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. Common sense, or the soul’s tablet"
+        },
+        {
+          "id": "passage-en-00639",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. Imagination"
+        },
+        {
+          "id": "passage-en-00647",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. Imagination, estimation, and memory"
+        },
+        {
+          "id": "passage-en-00668",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. The soul as the source of all our powers"
+        },
+        {
+          "id": "passage-en-00698",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. Answering the claim that the soul cannot perceive particulars"
+        },
+        {
+          "id": "passage-en-00729",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VI. Earlier views about the soul, and how Avicenna answers them"
+        },
+        {
+          "id": "passage-en-00776",
+          "level": 1,
+          "kind": "division",
+          "label": "Book Six: The reasoning soul"
+        },
+        {
+          "id": "passage-en-00777",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. The reasoning soul is not a body and does not have a physical size"
+        },
+        {
+          "id": "passage-en-00894",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. Scriptural evidence on this subject"
+        },
+        {
+          "id": "passage-en-00949",
+          "level": 1,
+          "kind": "division",
+          "label": "Book Seven: The soul and the natural world"
+        },
+        {
+          "id": "passage-en-00950",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. How the soul is joined to the body"
+        },
+        {
+          "id": "passage-en-00964",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. How human souls come to be"
+        },
+        {
+          "id": "passage-en-00993",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. A fuller account of the question: examining earlier claims and answering their arguments"
+        },
+        {
+          "id": "passage-en-01057",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A clarification"
+        },
+        {
+          "id": "passage-en-01066",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. The soul does not perish when the body perishes"
+        },
+        {
+          "id": "passage-en-01083",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. The soul cannot perish"
+        },
+        {
+          "id": "passage-en-01094",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VI. An Eastern account of the soul's return"
+        },
+        {
+          "id": "passage-en-01109",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VII. The rational soul comes from an intellect separate from matter"
+        },
+        {
+          "id": "en-notes-head",
+          "level": 1,
+          "kind": "notes"
+        }
+      ]
+    },
+    "ar": {
+      "sourceHash": "25fa177eef8c2707ef01ed2897cebb9483aefeaf425bea96041e2302051497dd",
+      "entries": [
+        {
+          "id": "passage-ar-00005",
+          "level": 1,
+          "kind": "opening",
+          "label": "الصفحات الافتتاحية"
+        },
+        {
+          "id": "passage-ar-00072",
+          "level": 2,
+          "kind": "section",
+          "label": "السفر الرابع: في علم النفس من مبدء تكونها من المواد الجسمانية إلى آخر"
+        },
+        {
+          "id": "passage-ar-00074",
+          "level": 1,
+          "kind": "division",
+          "label": "الباب الأول: في احكام عامه للنفس",
+          "expanded": true
+        },
+        {
+          "id": "passage-ar-00075",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في تحديد النفس"
+        },
+        {
+          "id": "passage-ar-00096",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في ماهية النفس المطلقة"
+        },
+        {
+          "id": "passage-ar-00103",
+          "level": 1,
+          "kind": "division",
+          "label": "الباب الثاني: في ماهية النفس الحيوانية"
+        },
+        {
+          "id": "passage-ar-00104",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في جوهريتها"
+        },
+        {
+          "id": "passage-ar-00124",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في بيان تجرد النفس الحيوانية وعليه براهين كثيره"
+        },
+        {
+          "id": "passage-ar-00128",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في دفع ما أورد على جوهرية النفس من الشكوك"
+        },
+        {
+          "id": "passage-ar-00141",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في تعديد قوى النفس المنشعبة عنها في البدن"
+        },
+        {
+          "id": "passage-ar-00148",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في قاعدة تستعلم منها تعدد القوى"
+        },
+        {
+          "id": "passage-ar-00178",
+          "level": 1,
+          "kind": "division",
+          "label": "الباب الثالث: في ذكر القوى النباتية وأفعالها وأحوالها"
+        },
+        {
+          "id": "passage-ar-00179",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في اقسام تلك القوى بالوجه الكلى"
+        },
+        {
+          "id": "passage-ar-00189",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في فعل الهاضمة في الفضلة المندفعة والإشارة إلى وجود"
+        },
+        {
+          "id": "passage-ar-00194",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في أن هذه القوى في بعض الأعضاء مضاعفة وفي حقيقة الغذاء"
+        },
+        {
+          "id": "passage-ar-00200",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في مراتب الهضم وان للهضوم أربع مراتب"
+        },
+        {
+          "id": "passage-ar-00204",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في تحديد القوة الغاذية والنامية حدا بحسب الحقيقة"
+        },
+        {
+          "id": "passage-ar-00212",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٦. في سبب وقوف القوى كالنامية والغاذية في ضرورة الموت"
+        },
+        {
+          "id": "passage-ar-00225",
+          "level": 3,
+          "kind": "section",
+          "label": "١. إشارة"
+        },
+        {
+          "id": "passage-ar-00235",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٧. في تحقيق الكلام في القوة المصورة"
+        },
+        {
+          "id": "passage-ar-00270",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٨. في الإشارة إلى تعديد القوى النفسانية وما دونها على سبيل التصنيف"
+        },
+        {
+          "id": "passage-ar-00280",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٩. في أن لكل بدن نفسا واحده وان القوى التي أحصيناها تنشأ منها"
+        },
+        {
+          "id": "passage-ar-00284",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٠. في أن هذه المراتب من النفس بعضها سابقه في الحدوث على بعض كما مر"
+        },
+        {
+          "id": "passage-ar-00287",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١١. في طور آخر من تعديد القوى الانسانية على منهج أهل البصيرة"
+        },
+        {
+          "id": "passage-ar-00298",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٢. في أن أول عضو يتكون هو ماذا؟"
+        },
+        {
+          "id": "passage-ar-00305",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٣. في وقت تعلق النفس الناطقة بالبدن"
+        },
+        {
+          "id": "passage-ar-00313",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٤. في اختلاف هذه القوى"
+        },
+        {
+          "id": "passage-ar-00315",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٥. في اثبات القوة الحيوانية للانسان"
+        },
+        {
+          "id": "passage-ar-00323",
+          "level": 1,
+          "kind": "division",
+          "label": "الباب الرابع: من علم النفس في أحوال القوى المختصة بالنفوس الحيوانية"
+        },
+        {
+          "id": "passage-ar-00325",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في الإشارة إلى تلك القوى ومنفعه كل منها على الاجمال"
+        },
+        {
+          "id": "passage-ar-00333",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في اللمس وأحواله"
+        },
+        {
+          "id": "passage-ar-00341",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في الذوق وفيه مباحث"
+        },
+        {
+          "id": "passage-ar-00345",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في الشم"
+        },
+        {
+          "id": "passage-ar-00351",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في السمع"
+        },
+        {
+          "id": "passage-ar-00366",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٦. في البصر"
+        },
+        {
+          "id": "passage-ar-00375",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٧. فيما تمسك به أصحاب الانطباع وتعقيبه بما يرد عليهم وذكر حجه النفاة"
+        },
+        {
+          "id": "passage-ar-00391",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٨. فيما قاله أصحاب الشعاع"
+        },
+        {
+          "id": "passage-ar-00397",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٩. في سبب الحول وفيما وقع الخلاف بين أصحاب الشعاع وأصحاب الانطباع في سبب الحول"
+        },
+        {
+          "id": "passage-ar-00402",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٠. في أنه لا بد في الابصار من توسط الجسم الشفاف"
+        },
+        {
+          "id": "passage-ar-00408",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١١. في انحصار الحواس في هذه الخمس"
+        },
+        {
+          "id": "passage-ar-00410",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٢. في المحسوسات المشتركة بينها"
+        },
+        {
+          "id": "passage-ar-00415",
+          "level": 1,
+          "kind": "division",
+          "label": "الباب الخامس: من علم النفس في الادراكات الباطنة"
+        },
+        {
+          "id": "passage-ar-00416",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في الحس المشترك ويسمى نبطاسيا أي لوح النفس"
+        },
+        {
+          "id": "passage-ar-00427",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في الخيال"
+        },
+        {
+          "id": "passage-ar-00432",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في المتخيلة والواهمة والذاكرة"
+        },
+        {
+          "id": "passage-ar-00441",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في بيان ان النفس كل القوى"
+        },
+        {
+          "id": "passage-ar-00458",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في دفع ما قيل في النفس لا تدرك الجزئيات"
+        },
+        {
+          "id": "passage-ar-00477",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٦. في تعديد مذاهب القدماء في امر النفس ذكرها الشيخ في الشفاء ونقضها"
+        },
+        {
+          "id": "passage-ar-00507",
+          "level": 1,
+          "kind": "division",
+          "label": "الباب السادس: في بيان تجرد النفس الناطقة الانسانية"
+        },
+        {
+          "id": "passage-ar-00508",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في أن النفس الناطقة ليست بجسم ولا مقدار"
+        },
+        {
+          "id": "passage-ar-00585",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في شواهد سمعية في هذا الباب"
+        },
+        {
+          "id": "passage-ar-00611",
+          "level": 1,
+          "kind": "division",
+          "label": "الباب السابع: في نبذ من أحوال النفس الناطقة"
+        },
+        {
+          "id": "passage-ar-00612",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في كيفية تعلق النفس بالبدن"
+        },
+        {
+          "id": "passage-ar-00619",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في تحقيق حدوث النفوس البشرية"
+        },
+        {
+          "id": "passage-ar-00639",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في ايضاح القول في هذه المسألة المهمة وتعقيب ما ذكروه وهدم ما أصلوه"
+        },
+        {
+          "id": "passage-ar-00683",
+          "level": 3,
+          "kind": "section",
+          "label": "١. ايضاح وتأكيد"
+        },
+        {
+          "id": "passage-ar-00691",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في أن النفس لا تفسد بفساد البدن"
+        },
+        {
+          "id": "passage-ar-00701",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في أن الفساد على النفس محال"
+        },
+        {
+          "id": "passage-ar-00708",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٦. في ذكر ميعاد مشرقي"
+        },
+        {
+          "id": "passage-ar-00716",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٧. في أن سبب النفس الناطقة امر مفارق عقلي"
+        },
+        {
+          "id": "ar-notes-head",
+          "level": 1,
+          "kind": "notes"
+        }
+      ]
+    }
+  }
+}

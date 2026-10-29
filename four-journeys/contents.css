@@ -1,0 +1,4 @@
+/* Keep the reference reader's contents styling. Volume IV has genuine
+   additional levels, so reduce only the deepest indentation. */
+.toc-reviewed[dir] ol ol ol ol { margin-inline-start: 7px; padding-inline-start: 6px; }
+.toc-reviewed[dir] ol ol ol ol ol { margin-inline-start: 5px; padding-inline-start: 5px; }

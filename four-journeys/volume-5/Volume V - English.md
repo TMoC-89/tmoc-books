@@ -5,77 +5,78 @@
 **Mulla Sadra (Ṣadr al-Dīn Muḥammad al-Shīrāzī)**
 
 ## Contents
-- Art One — The Substantiality of Natural Bodies
-  - Chapter 1 — Different Views on Bodily Substance and How It Exists
-  - Chapter 2 — The Continuity That Makes Body What It Is
-  - Chapter 3 — How all extensions and continuities depend on continuous substance
-  - Chapter 4 — The different ways of dividing magnitude into parts
-  - Chapter 5 — Proving that body is one continuous thing, and how this reveals the nature of bodily form
-  - Chapter 6 — A point that disproves al-Nazzam’s view
-  - Chapter 7 — Problems that follow from denying that bodies are continuous
-  - Chapter 8 — The atomists’ objections and what lies behind them
-  - Chapter 9 — Why a body can always be divided by separation
-- Art Two — Matter: what it is and whether it exists
-  - Chapter 1 — What We Mean by Matter, and Why It Must Exist
-  - Chapter 2 — How the Aristotelians Understand Matter
-  - Chapter 3 — Proving the Existence of Prime Matter
-  - Chapter 4 — Another Argument for the Existence of Prime Matter
-  - Chapter 5 — Another Argument for the Same Point
-  - Chapter 6 — A Further Argument, Called “the Proof of the Most Particular”
-  - Chapter 7 — Another Argument from the *Eastern Investigations*
-- Art Three — The essential union of matter and form
-  - Chapter 1 — Bodily Nature Cannot Exist Without Matter
-  - Chapter 2 — General Conclusions About This Question
-  - Chapter 3 — Why Bodily Matter Cannot Exist Without Any Form
-  - Chapter 4 — How Matter and Form Depend on Each Other, and Why Form Comes First
-  - Chapter 5 — How an Effect Can Exist Alongside Its Cause
-  - Chapter 6 — How One General Nature Can Cause One Particular Thing
-- Art Four — The distinctive natures of bodies and their substantial forms
-  - Chapter 1 — What the Term Means
-  - Chapter 2 — Proving It from Its Role as the Source of Movement and Effects
-  - Chapter 3 — Another Route to Proving Natural Forms: They Make Matter What It Is
-  - Chapter 4 — A Third Method for Showing That the Specific Form Is a Substance
-  - Chapter 5 — A Fourth Method for the Same Point
-  - Chapter 6 — Answering the Objection to the Last Two Arguments
-  - Chapter 7 — The Natural Form Does Not Give Body Its Existence by Taking Turns with Other Forms
-  - Chapter 8 — The Natural Form Exists at a Higher Level Than Bodily Form
-  - Chapter 9 — Natural Forms and Bodily Powers Do Not Exist Only at the Edges of Bodies
-  - Chapter 10 — How Natural Things Exist
-  - Chapter 11 — The First Forms, Those That Follow, and How Perishable Things Persist
-- Art Five — Why natural bodies continually change and pass away
-- Stage Four — Potentiality, actuality, motion, and rest
-  - Chapter 1 — A Hint from the Throne
-  - Chapter 2 — Every Moving Thing, Whether Body, Nature, or Soul, Will Pass Away; Everything Perishes Except His Face
-  - Chapter 3 — Prophets and Philosophers Agree That the World Began
-  - Chapter 4 — Other Philosophers on the World’s Beginning and the Passing Away of Heaven and Earth
-  - Chapter 5 — Sayings of Muslim Mystics on Nature’s Renewal and the Passing Away of the World
-  - Art Six — The principles and causes studied in natural science
-    - Chapter 1 — What Is Nature?
-    - Chapter 2 — Nature’s Relation to Form and Soul Above It, and to Matter, Motion, and Accidents Below It
-    - Chapter 3 — Nature’s Own Action, Whether Universal or Particular, Aims at Good, Not Evil
-    - Chapter 4 — The Subject and Principles of Natural Science
-    - Chapter 5 — Principles That Natural Science Takes as Given
-    - Chapter 6 — How Matter, Form, and Privation Are Shared Principles
-    - Chapter 7 — Which Causes Should Matter Most in Natural Science?
-    - Chapter 8 — How Matter and Form Make Up a Natural Body
-    - Chapter 9 — Answering Doubts About the Union of Form and Matter
-    - Chapter 10 — More on the Union of Matter and Form: Objections and Replies
-    - Chapter 11 — More on the Causes of Changing Natural Things
-    - Chapter 12 — How These Principles Relate to One Another
-    - Chapter 13 — How Causes Enter Our Questions and Proofs
-    - Chapter 14 — What Is Mixture, and How Does It Come to Be?
-    - Chapter 15 — What Avicenna Says Here, and the Reply
-    - Chapter 16 — Further Reflections, and Replies to Objections to Our View
-    - Chapter 17 — This View May Not Be New
-    - Chapter 18 — How Natural Beings Rise toward Perfection
+
+- Part One: What Makes Physical Bodies Substances
+  - I. Different Views on Bodily Substance and How It Exists
+  - II. The Continuity That Makes Body What It Is
+  - III. How all extensions and continuities depend on continuous substance
+  - IV. The different ways of dividing magnitude into parts
+  - V. Proving that body is one continuous thing, and how this reveals the nature of bodily form
+  - VI. A point that disproves al-Nazzam’s view
+  - VII. Problems that follow from denying that bodies are continuous
+  - VIII. The atomists’ objections and what lies behind them
+  - IX. Why a body can always be divided by separation
+- Part Two: Matter: what it is and whether it exists
+  - I. What We Mean by Matter, and Why It Must Exist
+  - II. How the Aristotelians Understand Matter
+  - III. Proving the Existence of Prime Matter
+  - IV. Another Argument for the Existence of Prime Matter
+  - V. Another Argument for the Same Point
+  - VI. A Further Argument, Called “the Proof of the Most Particular”
+  - VII. Another Argument from the *Eastern Investigations*
+- Part Three: The essential connection between matter and form
+  - I. Bodily Nature Cannot Exist Without Matter
+  - II. General Conclusions About This Question
+  - III. Why Bodily Matter Cannot Exist Without Any Form
+  - IV. How Matter and Form Depend on Each Other, and Why Form Comes First
+  - V. How an Effect Can Exist Alongside Its Cause
+  - VI. How One General Nature Can Cause One Particular Thing
+- Part Four: The different natures of physical bodies and the forms that make them what they are
+  - I. What the Term Means
+  - II. Proving It from Its Role as the Source of Movement and Effects
+  - III. Another Route to Proving Natural Forms: They Make Matter What It Is
+  - IV. A Third Method for Showing That the Specific Form Is a Substance
+  - V. A Fourth Method for the Same Point
+  - VI. Answering the Objection to the Last Two Arguments
+  - VII. The Natural Form Does Not Give Body Its Existence by Taking Turns with Other Forms
+  - VIII. The Natural Form Exists at a Higher Level Than Bodily Form
+  - IX. Natural Forms and Bodily Powers Do Not Exist Only at the Edges of Bodies
+  - X. How Natural Things Exist
+  - XI. The First Forms, Those That Follow, and How Perishable Things Persist
+- Part Five: Why natural bodies continually change and pass away
+  - Stage Four: What things can become, what they already are, motion, and rest
+  - I. A Hint from the Throne
+  - II. Every Moving Thing, Whether Body, Nature, or Soul, Will Pass Away; Everything Perishes Except His Face
+  - III. Prophets and Philosophers Agree That the World Began
+  - IV. Other Philosophers on the World’s Beginning and the Passing Away of Heaven and Earth
+  - V. Sayings of Muslim Mystics on Nature’s Renewal and the Passing Away of the World
+- Part Six: The Principles and Causes Studied in Nature
+  - I. What Is Nature?
+  - II. Nature’s Relation to Form and Soul Above It, and to Matter, Motion, and Accidents Below It
+  - III. Nature’s Own Action, Whether Universal or Particular, Aims at Good, Not Evil
+  - IV. The Subject and Principles of Natural Science
+  - V. Principles That Natural Science Takes as Given
+  - VI. How Matter, Form, and the Absence of a Form Can Be Shared
+  - VII. Which Causes Should Matter Most in Natural Science?
+  - VIII. How Matter and Form Make Up a Natural Body
+  - IX. Answering Doubts About the Union of Form and Matter
+  - X. More on the Union of Matter and Form: Objections and Replies
+  - XI. More on the Causes of Changing Natural Things
+  - XII. How These Principles Relate to One Another
+  - XIII. How Causes Enter Our Questions and Proofs
+  - XIV. What Is Mixture, and How Does It Come to Be?
+  - XV. What Avicenna Says Here, and the Reply
+  - XVI. Further Reflections, and Replies to Objections to Our View
+  - XVII. This View May Not Be New
+  - XVIII. How Natural Beings Rise toward Perfection
 
 In the name of God, the Most Compassionate, the Most Merciful.
 
 The first topic concerns the properties of substances and has several parts.
 
-### Part One — What Makes Physical Bodies Substances
+### Part One: What Makes Physical Bodies Substances
 
-#### Introduction — The Nature of the Natural Body
+#### Introduction: The Nature of the Natural Body
 
 As you learned at the beginning of this journey, the realities of things are their particular existences: the actual forms and individual identities of things. Essences are universal ideas that correspond to these identities in the outside world. In the mind, essences can be universal and shared. To exist outside the mind means that an essence truly applies to particular existences. In themselves, essences are neither existent nor nonexistent, neither universal nor particular.
 
@@ -189,7 +190,7 @@ Defining something through a way of existing is not defining it through a merely
 
 What al-Razi says applies to simple and compound things alike. We cannot define real things only through negations, whether they are simple or compound. A definition is meant to give the mind something to grasp, while negation only removes something from thought.
 
-#### Chapter 1 — Different Views on Bodily Substance and How It Exists
+#### I. Different Views on Bodily Substance and How It Exists
 
 No reasonable person disputes that body exists as a substance with what allows it to have length, width, and depth in some sense. But it is not self-evident whether body is connected in itself, whether it is simple or made from two substances, or whether it is made from a substance and an accident. That is why people disagree about how body exists.
 
@@ -207,7 +208,7 @@ The commentators on his books—Muhammad al-Shahrazuri, author of *The History o
 
 When a candle changes shape, two kinds of magnitude are involved. One remains fixed and does not grow or shrink as the candle takes on different shapes; this is a substance. The other changes as the dimensions extend in different directions; it is an accident in the first, substantial magnitude. Together they make up the body. In the terminology of *The Tablets of Light*, the substance is matter; in the terminology of *The Wisdom of Illumination*, the substantial extension is body. Relative to the forms and specific kinds that shape it, this extension is called matter. So there is no contradiction between calling body simple and its magnitude substantial in one book, and calling body compound and its magnitude accidental in the other. The body and extension meant in each book are different. The appearance of a contradiction comes from using the same words in different senses.
 
-### Discussion and a Further Point
+### 1. Discussion and a Further Point
 
 The great Illuminationist philosopher speaks clearly in some parts of his larger work, *The Path* and *The Discussions*, against any continuity or extension other than the kind that belongs to quantity. He rejects the continuity that makes body what it is. In *The Tablets of Light*, however, he gives no indication that what he calls matter is a substantial extension that extends by itself or a magnitude that exists independently. Instead, he gives it the properties of matter as the philosophers in Aristotle’s school understand it: something simpler than body as body, and able to serve as a broader kind for simple or compound kinds of body. He says that body contains something that can receive both continuity and separation, while continuity itself can receive neither. So the receiver must be something else. He also says that extension is part of the essence of body; otherwise we would not need it in order to understand body. The receiver of extension, which he calls matter, is another part of body.
 
@@ -217,7 +218,7 @@ The matter he describes in one book could be body, since he says it is connected
 
 You will later see the difference between extension and continuity as the philosophers in Aristotle’s school use the term for what makes body what it is, and continuity as a kind of quantity that belongs to body. The Illuminationist philosopher rejects the first meaning altogether and takes it to be body itself. This is a clear account of the different views people have held about body in general. We will now give reasons for the philosophers’ view that body is made of two substances: a material substance and a formal one, God willing.
 
-#### Chapter 2 — The Continuity That Makes Body What It Is
+#### II. The Continuity That Makes Body What It Is
 
 The first thing you need to understand is the meaning of continuity and of what is continuous, both when these words name a real feature in itself and when they describe a relation to something else.
 
@@ -257,7 +258,7 @@ The same is true of a line. We can see the difference between the continuity tha
 
 This shows that geometrical body is an accident in natural body. In the ordinary course of nature, they can be separated in the mind but not in existence. Both can likewise be separated from matter in imagination, but not in existence. What depends on matter in imagination and in reality is the particular change and response of each. The nature of these ideas will become clear in the chapters that follow, God willing.
 
-#### Chapter 3 — How all extensions and continuities depend on continuous substance
+#### III. How all extensions and continuities depend on continuous substance
 
 Reason, by the nature God gave it, rejects the idea that magnitude or continuous quantity could belong to something that is not itself extended and continuous. As Avicenna says in his Persian book *Danishnama*: “A body is continuous by its very nature. If it were disconnected, it could not have dimensions.”
 
@@ -269,7 +270,7 @@ Strictly speaking, even separate quantity—the number of individuals belonging 
 
 If neither unity nor multiplicity necessarily belongs to the kind, then it must be able to exist either as one connected thing or as many separate things. You have already learned that what makes continuity possible is not something outside the nature of natural body; it belongs to body as continuous substance. You will soon see that something else in the body makes separation possible: its formal part prepares it to be divided. So the quantitative parts of every kind depend for their existence on substantial continuity. Keep this principle in mind.
 
-#### Chapter 4 — The different ways of dividing magnitude into parts
+#### IV. The different ways of dividing magnitude into parts
 
 There are four kinds of division.
 
@@ -289,7 +290,7 @@ The word “part” is used in several ways. It can mean what a thing is made fr
 
 Their existence comes after the existence of the whole, so they are not truly parts that make up its essence. Each measurable part is one by its own continuous unity, and is called a part only in relation to a number of other connected units. That is why parts and the whole share a definition, a name, a concept, and the name “body.” Remember this; it will help you answer Democritus’s view.
 
-#### Chapter 5 — Proving that body is one continuous thing, and how this reveals the nature of bodily form
+#### V. Proving that body is one continuous thing, and how this reveals the nature of bodily form
 
 Know that the science that establishes what things are and how they exist is universal science, or first philosophy, not natural science.[^V05-3] In the same way, created realities can be brought into existence only by active intellects, not by bodily powers that receive and undergo change. Knowledge is the form and reality of what is known.
 
@@ -331,7 +332,7 @@ Another argument imagines a thin surface made from indivisible parts, with lengt
 
 The second approach uses geometrical shapes, angles, and chords. It includes many arguments, as anyone who studies Euclid can see. In my commentary on *Athir al-Din’s Guide to Wisdom*, I set out a number of good geometrical proofs that bodies are continuous and can be divided without end.
 
-#### A Difficulty and Its Answer
+#### 1. A Difficulty and Its Answer
 
 A commentator on *The Aims of the Wise* says that Euclid’s proof of these shapes depends on drawing an equilateral triangle, which in turn depends on drawing a circle. But, he says, there is no way to prove such shapes to those who believe in indivisible atoms. The usual way to define a circle is to imagine a fixed straight line turning around one fixed endpoint until it returns to its starting place. This produces a curved line whose points are all at the same distance from the fixed endpoint. But this explanation does not prove anything to atomists: it is only an idea, and does not show that the shape is possible, let alone that it actually exists.
 
@@ -397,7 +398,7 @@ The answer is that shape belongs to something extended in length, width, and dep
 
 Some imagine that the shadow of every body becomes twice its length at some point. Then half the shadow would be the shadow of half the body. If a body whose length is an odd number of indivisible units cast such a shadow, half of it would be the shadow of half its length. The body would be divided, and so would one of its indivisible parts. We answer that the general claim is false: it holds only for things that can be halved.[^V05-8] As with the argument just before it, the mistake is to treat a property of the whole as a property of each indivisible part.[^V05-9]
 
-#### Chapter 6 — A point that disproves al-Nazzam’s view
+#### VI. A point that disproves al-Nazzam’s view
 
 Al-Nazzam agreed with the philosophers that a body can be divided without end. But he, like other Mu‘tazilites, did not distinguish between division that is possible and division that has already happened. He treated all the possible parts as already actual. That leads to a part that cannot be divided, and so he ends up in the very position he was trying to avoid.
 
@@ -425,7 +426,7 @@ To accept their view is to open the door to sophistry and turn away from truth. 
 
 It is also strange that the very argument used to support al-Nazzam’s view becomes, in the hands of many, an argument against the philosophers’ view that bodies are continuous.
 
-#### Chapter 7 — Problems that follow from denying that bodies are continuous
+#### VII. Problems that follow from denying that bodies are continuous
 
 Our senses show that this view is false, yet those who believe in indivisible atoms accept the problems it brings: the parts of a spinning wheel come apart; a moving object stops; things leap across space; parts overlap; and the fast cannot catch the slow. Faced with these problems, some theologians gave up their insistence on indivisible atoms and returned to the view of careful thinkers such as Imam al-Razi, while others suspended judgment.
 
@@ -447,7 +448,7 @@ The second problem is that we do not notice an object stop while moving because,
 
 What further confirms how mistaken they are is that their view leads to an effect without its cause when the sun moves but its shadow stands still,[^V05-10] and to a cause without its effect in the following example.[^V05-11] Imagine a well one hundred cubits deep, with a board fixed halfway down. Tie one end of a fifty-cubit rope to the board and a bucket to the other end. Then lower a hook on another fifty-cubit rope until it catches the first rope at the board, and pull it. The hook starts moving from the middle of the well at the same time as the bucket starts from the bottom. They reach the top together, though the bucket travels one hundred cubits and the hook only fifty. Yet the hook’s movement is a full part of the cause of the bucket’s movement. If the hook pauses while it is moving, the bucket’s effect would exist without its complete cause.
 
-#### Chapter 8 — The atomists’ objections and what lies behind them
+#### VIII. The atomists’ objections and what lies behind them
 
 Know that the atomists’ argument rests on this idea: if a body can be divided without end, then a tiny body, such as a mustard seed, and a huge one, such as a mountain, must be equal in size, since both can be divided without end. Their measures would therefore both be infinite, because an infinite sum of magnitudes must be infinite.
 
@@ -537,7 +538,7 @@ For example, a line cannot change smoothly into a surface, nor can a surface cha
 
 So an angle formed by a curved line and a straight one does not grow until it becomes equal to an angle formed by two straight lines. The angle between a circle and its tangent cannot grow until it is equal to any straight-sided angle. Nor can the angle between a diameter and a circle’s edge grow until it equals a right angle. Nor can the angle between a tangent and the perpendicular diameter shrink until it equals one of the larger angles between straight lines. There is no leap.
 
-#### Further Discussion and Clarification
+#### 1. Further Discussion and Clarification
 
 A questioner might ask: if one angle is larger or smaller than another, should it not also be possible to say that they are equal? If one is larger, it must contain the other plus something more. That would make equality possible in principle.
 
@@ -559,7 +560,7 @@ There are many other objections of the same kind. I will not go through them one
 
 Another objection says that if a body is continuous, two movements that start and stop together cannot differ in speed. At every imagined instant, each moving thing occupies a position; so their positions would match, making the movements equal in speed. But both the argument and its conclusion are false, as the earlier objection about the mustard seed and the mountain has shown.
 
-#### Chapter 9 — Why a body can always be divided by separation
+#### IX. Why a body can always be divided by separation
 
 Some early philosophers, including Democritus, said that what we see as individual bodies—water and air, for example—are not simple things. They are made from small, hard, similar bodies that touch one another. These building blocks cannot be physically divided, though we can divide them in thought. Calling them bodies is what distinguishes this view from the belief in indivisible atoms.
 
@@ -611,7 +612,7 @@ In short, the extended form that makes something a body is one shared kind in al
 
 This proves that every body can be divided by separation without reaching a final point. There is no need to claim that all bodies look alike or have the same nature. Avicenna used one proof for both the bodies of the atomists and the heavenly bodies. He treated the obstacle to dividing the heavens as something that lasts, and the obstacles in smaller bodies as things that can pass. In both cases, the obstacle lies outside body simply as body. For the heavens it may belong to what makes them a special kind of body, but not to what makes them body at all. If an obstacle is essential to a kind, then that kind can exist in only one individual, and cannot be divided.
 
-#### Another Summary
+#### 1. Another Summary
 
 Even without assuming that separate bodies resemble one another, the proof still works. Consider one body and its ability to be divided in thought. What can be done to the whole in thought can also be done to a measurable part, and vice versa, because the whole and part share the same extended nature. The measurable parts are instances of that nature.
 
@@ -633,7 +634,7 @@ Yet that is not enough to establish the existence of matter. We must also show t
 
 Our teacher and master, the foremost of the distinguished scholars—may God increase his standing—answers that if extension admits division in the imagination, then its own nature also allows real separation, even when a lasting or temporary obstacle prevents it. If division were impossible by its very nature, imagining such a division would be a pure invention, no different from imagining a division in something entirely free of extension. But imagined division is an idea drawn from the thing as we understand it, especially when it arises from a difference between two of its features.
 
-#### Discussion and Clarification
+#### 2. Discussion and Clarification
 
 This would be disproved by time, which they say is continuous and can be divided in thought, but cannot be split into separate parts. Also, even if imagining a division meant that division could happen outside the mind, that would not prove that the division is possible by nature, much less that the matter is ready to receive it. The mind can first imagine something possible, then learn from proof that it is not.
 
@@ -641,9 +642,9 @@ And if an extended thing cannot actually be separated, that does not make imagin
 
 There are two further arguments against this view. The first is that bodies truly expand and contract, as experiments show: a narrow-necked bottle draws in water after air has been sucked from it; and a sealed, hollow vessel makes a loud noise when it is put in a fire, even though empty space is impossible. The second argument is that if each of these bodies were simple and had one nature, it would be spherical, as we will explain. There would then be empty gaps between them, which is impossible. But if each body were made from bodies with different natures, it would not be one connected thing. That is also impossible. Further, its parts would tend to separate and return to their natural places and shapes, which would bring back the same problem of empty space.
 
-### Art Two — Matter: what it is and whether it exists
+### Part Two: Matter: what it is and whether it exists
 
-#### Chapter 1 — What We Mean by Matter, and Why It Must Exist
+#### I. What We Mean by Matter, and Why It Must Exist
 
 No one with even a little discernment denies that bodies contain something that forms and features come to occupy, and that undergoes one change after another. Most people need no argument to accept the existence of something that fits the name “matter”: something that can receive these changes and features, and their disappearance. Anyone capable of serious thought knows, by reflection or direct insight, that earth becomes a drop of reproductive fluid, which becomes the body of a person or animal; a seed becomes a tree, and a tree becomes ash or charcoal.
 
@@ -675,7 +676,7 @@ You have already seen that a defining feature need not be a kind of accident or 
 
 How strange that, while trying to repair his view, the author of *al-Mawaqif* fell into another trap: his explanation also makes bodies unable to endure. If they depend on a collection of accidents that do not endure—and he admits that accidents do not endure—then the bodies themselves must disappear whenever those accidents do. He says that accidents do not endure, but substances do. If substances were all alike in themselves, however, differing bodies could not be made from substances alone. They would have to be made from substances together with accidents, and then bodies could not endure because the accidents do not endure. Is this not a contradiction?
 
-#### Chapter 2 — How the Aristotelians Understand Matter
+#### II. How the Aristotelians Understand Matter
 
 The Aristotelians define matter as “the substance that receives form.” At first glance, this definition seems to apply to the soul too, since the soul is a substance that receives forms. The better course is to specify that matter receives sensible forms. Some also restrict the definition further, saying that matter’s only nature is its ability to receive. There is a flaw in this view—not the one the Illuminationist philosopher raises in *al-Mutarahat*, which we will discuss later, but another one. Within the soul[^V05-15] there is a material intellect,[^V05-16] which is only receptive: it is a pure capacity for intellectual forms, as we will explain. But this intellect is not the soul itself. The soul, as soul, is a form that brings the bodily matter to completion. It cannot be a capacity for intellectual perfection, since one and the same thing cannot, in the same respect, be both actual and potential—even if the two states concern different things. Nor can it be the form of one thing and the matter of another, even if those two things differ.
 
@@ -731,7 +732,7 @@ One might object to our definition of matter as “a substance that receives sen
 
 We could also define matter as a substance that receives bodily forms. Then body can be defined as a substance that can be pointed to by the senses or in which three dimensions can be imagined crossing at right angles, as we explained earlier.
 
-#### Chapter 3 — Proving the Existence of Prime Matter
+#### III. Proving the Existence of Prime Matter
 
 Consider the views we have ruled out. Some say that bodies are made of parts that cannot be divided in size. The theologians treat those parts as substances, following thinkers who lived before Plato and Aristotle, when philosophy was still developing. Al-Nazzam, Dirar, and al-Najjar treat them as accidents.[^V05-17] Democritus and his followers say that the parts cannot be separated, although they can be divided in other ways. Once these views are set aside, what remains is clear: a body is continuous in itself, as our senses show, but it can also be separated. Separation and joining are not merely parts moving apart or coming together. They are the loss of unity and the beginning of separation, or the loss of separation and the beginning of continuity.
 
@@ -747,7 +748,7 @@ So the lowest kind of substantial form is the continuous identity of a body. The
 
 Its continuity and endurance come from its dependence on forms in general. Their kinds endure as individual instances follow one after another, sustained by a holy source that preserves the world of bodies and their forms and necessary features. It preserves their kinds through the succession of their instances, sustains their existence and good, and makes up for their defects, evils, and losses by bringing similar things after them.
 
-#### Discussion and Clarification
+#### 1. Discussion and Clarification
 
 Ibn Sahlān al-Sāwī, author of *al-Basāʾir*, objects to this proof: “Separation is a privation, and what does not exist needs no receptacle. Otherwise, there would have to be infinitely many existing receptacles for nonexistence before anything existed.”
 
@@ -757,7 +758,7 @@ Sight, for example, belongs to an organ that can take on the form of what it see
 
 As you have seen, the subject that receives continuity is pure capacity. It needs only the slightest readiness to receive anything, since it is wholly bare of form in itself. Its relation to continuity, its loss, and its return is like the relation of a unit to a state it can receive again and again. This differs from other, secondary subjects. They have forms that define them, giving them a certain readiness. To change from one opposite state to another, they may need a strong cause to act on them. They can also be affected in a way that destroys their readiness for the other state or for the opposite in general. This is true of something shaped by a complete form, with no higher form available to it; or of something shaped by a heavenly or stellar form, which has no opposite or counterpart and cannot be corrupted except by total annihilation, as the great teachers of our faith and philosophy hold. In this respect, prime matter’s relation to joining and separation is not like the eye’s relation to sight and blindness, or a human being’s relation to knowledge and ignorance.
 
-#### Another Discussion
+#### 2. Another Discussion
 
 They say: “Even if separation needs something to receive it, the body itself is that receiver. There is no need to posit anything else besides prime matter.”
 
@@ -765,7 +766,7 @@ We answer that we have already explained that the continuity that makes a body a
 
 We can show this in another way. Body can be separated, but continuity itself cannot be separated. So body is not continuity itself. Yet body cannot be understood without continuity. Therefore continuity is not outside the nature of body. The first argument shows that continuity is not all that body is; this argument shows that it is not outside body’s nature. Whatever is neither outside a thing nor the whole of it is one of its parts. So continuity is part of body. It follows that matter is not the body itself but another part, distinct from continuity. The nature of body is made up of continuity and what receives it: continuity is the substantial form, and what receives it is prime matter. That is the point we wanted to establish.
 
-#### Another Discussion
+#### 3. Another Discussion
 
 The proof just given assumes that a body is made of two substances, and that there is a substantial continuity—an extended substance. We do not accept this. We accept only the continuity that divides the category of quantity. The only thing established by disproving indivisible atoms, we say, is that body is a substance whose nature is to be continuous and extended, and to receive dimensions. It has not been proved that extension itself is the nature of body, or one of its parts.
 
@@ -817,7 +818,7 @@ The answer is that even if the old philosophers were right that a concept made u
 
 There is a problem here. The real issue is not simply whether the combined idea can be called an accident. The main problem is that the members of one category cannot belong inside one another. This account makes a single nature a combination of two categories, substance and quantity. It would no longer be one genuine kind, with one real definition, but a construct of thought with only an imagined unity.
 
-#### Summary
+#### 4. Summary
 
 The true meaning of geometric size is an extended thing whose extension is fixed so that it can be measured by a unit cube, or something equivalent. Its being a substance is no part of this meaning, just as the fact that something is a substance or an accident is no part of the meaning of a derived word. In existence, a thing must be one or the other, but that is not part of the word’s meaning.
 
@@ -829,7 +830,7 @@ If we leave out the fact that the white thing is a body and consider only what i
 
 The same distinction applies to other solid shapes. Thank God for helping us resolve this objection.
 
-#### Another Discussion
+#### 5. Another Discussion
 
 Suppose that a body does have a substantial continuity. Still, it is nothing but geometric size; there is no other kind of continuity in it. This size can receive separation. The thing that receives separation is not matter, and it does not help to say that geometric size disappears when separation occurs, because the continuity that separation destroys is only accidental, not substantial.
 
@@ -889,7 +890,7 @@ To answer the third argument: motion in quantity and increase in size do not mea
 
 It is strange that this great divine philosopher and careful debater established precisely this account in his book *al-Mashariʿ wa-l-Mutarahat*, at the beginning of the section on strength and weakness. How, then, did he make this misleading argument, which leads others astray? Surely he did not mean to.
 
-#### Another Discussion with Him
+#### 6. Another Discussion with Him
 
 One of the careful thinkers raises a related objection to the Illuminationist philosopher’s view in *al-Talwīḥāt*. There, he says that a body in the world consists of a substance he calls matter and an accidental continuity or extension. But this accidental extension, which he says completes the body, must itself be either universal or particular—both impossible, for the reasons already given. It cannot be universal. Nor can it be particular, since the specific sizes change while the body remains in both conditions described above. If the extension that has been shown to be an accident is the only one in the body, then it cannot complete the body, since it changes while the body remains. If there is another extension that remains while the accidental one disappears, then the body has two particular accidental extensions, which is impossible.
 
@@ -905,7 +906,7 @@ The correct answer is that the extension which, according to the Aristotelians, 
 
 This also answers the earlier objection, if you understand it. The substantial part of extension is not a universal or particular thing in the sense the objection assumes. Wholeness and part, large and small, belong only to extension as quantity. The first question to settle is whether substantial extension can be divided into measured parts.
 
-#### Another Discussion
+#### 7. Another Discussion
 
 Let us grant that a body has three things when considered in terms of extension: first, a substance that belongs to the nature of body; second and third, two accidents that add to it. One changes as the body expands and contracts, the other as its shape changes. But why must separation destroy something essential to the body? It is enough that body by nature can receive continuity and separation. It does not follow that what receives them must be one individual by virtue of continuous unity. We would have to prove that individual unity is always the same as continuous unity, and always accompanies it. That has not been shown. A single person or a single bed can have individual unity even though it is made of many connected parts. So being a body does not mean being one continuous thing. It only requires one individual subject that can receive continuity and separation, and that subject may itself be continuous while its own continuity changes.
 
@@ -919,7 +920,7 @@ When the body is divided, two individually distinct things come into existence. 
 
 Or perhaps the two parts existed while the body was joined only as possibilities, close to becoming actual. Then there must be matter that can bear their possible existence and individuality while the body is joined. When separation brings their existence or individuality from potential to actual, that matter becomes their bearer and takes on their forms. This matter cannot be the original continuous body, for the reasons already given. So there must be another substance that can receive the original body and the two bodies that arise from it. That is what we wanted to prove.
 
-#### Discussion and Clarification
+#### 8. Discussion and Clarification
 
 There is no doubt that the plurality of existences is the plurality—or at least implies the plurality—of individual beings, and that one existence is the oneness—or at least implies the oneness—of an individual. Nor is there any doubt that continuity and separation describe the body’s being one or many. We agree with this. One of our basic principles is that a thing exists only in its own particular way of existing, and existence makes it an individual and gives it its identity.
 
@@ -935,7 +936,7 @@ The same is true of the matter of the elemental world. Philosophers say it is on
 
 We answer that it is not clear what it means to call matter indefinite in a way that does not also apply to body. The usual explanation, which most people accept, is that matter has a definite underlying nature but is indefinite in its forms. It has two kinds of definiteness: one is essential and enduring; the other is accidental and changes. The same can be said of extended substance: it has a definite nature but is indefinite in whether continuity is one or many. It has an enduring essential nature and a changing measured state, just as the usual account says of matter.
 
-#### A Deeper Conclusion
+#### 9. A Deeper Conclusion
 
 The strongest way to answer this objection, and to complete the proof for matter through the body’s capacity to receive both continuity and separation, begins with a point no reasonable person can deny. When one continuous body is separated, something that was actually present in it disappears. And when two bodies become one, something appears that was not present when they were separate. We can therefore ask what disappeared from the single body when separation occurred and then returned when the bodies joined. It must be something that belongs to continuity. But is it a real, essential unity, or a unity that exists only as a relation?
 
@@ -955,7 +956,7 @@ How lofty they are, how widely they embrace all things without mixing into them,
 
 Avicenna glimpsed another kind of encompassing. In *al-Mubahathat*, in a passage following the discussion quoted above, he says: “Intellectual meanings are forms. This does not mean that they can never be divided in any way. It means that they cannot be divided into parts that are the same in meaning but many in position. An intelligible meaning, as intelligible, can be divided only into parts that differ in meaning, so it cannot exist in bodies. But these meanings are not necessarily intelligible in themselves; they can be intelligible or not. In that case, they may be divided in a certain way. It is possible for what is one through continuity and bodily existence to be divided into two or more similar beings, and this does not prevent it from being bodily unity.” That is the end of his words. Understand it and take it to heart.
 
-#### Another Discussion
+#### 10. Another Discussion
 
 If a body’s becoming many after being one means that it ends and must have matter, then the matter of the many bodies must be either one or many. If it is one, then the same thing would have to exist in several places and different directions at once. If it is many, then that multiplicity must either come about when the body is separated or be present in matter from the beginning.
 
@@ -975,7 +976,7 @@ So when matter is said to exist in different places and directions, this means t
 
 Matter’s ability to receive places and directions as one individual does not conflict with the plurality that comes about through separation. Continuity is different. Some philosophers say that there are two kinds of unity: one is simply the absence of multiplicity, while the other is a positive feature that can itself be divided. Matter’s unity seems to be of the first kind. It is not a positive feature in matter but the absence of many matters; it is simply matter’s nature not to be many in itself. The unity of bodily forms is of the second kind: it is a real unity that can disappear through separation and become many. If it were not real, how could separation remove it from matter and joining bring it about?
 
-#### Chapter 4 — Another Argument for the Existence of Prime Matter
+#### IV. Another Argument for the Existence of Prime Matter
 
 A body, simply as body, exists as one continuous thing and has an actual form. Yet it is also able to be joined or divided, and to receive things it does not now have, such as color, motion, heat, and the specific forms that complete it. In this respect, it exists only potentially. So, considered simply as body, it has both an actual and a potential side. In one respect it is actual; in another, it is only able to become something.
 
@@ -997,7 +998,7 @@ This argument and the one before it begin from much the same point. But the pres
 
 If they say, “If the capacity for separation were in continuity, then continuity would remain when separation came about,” we have already answered this in the earlier argument. If they say, “If a capacity exists in continuity as something real, then one thing would be actual and potential at the same time, which is impossible,” we reply that the same thing cannot be actual and potential in the same respect. But it can be actual in one respect and have the capacity for something else in another. Its actuality may come from its own nature, while its potentiality comes from something else that it lacks. There is no contradiction between having one thing and lacking many others. Arguments often go wrong when they ignore these different respects. The bearer of a capacity need not be the source from which that capacity comes.
 
-#### A Deeper Conclusion
+#### 1. A Deeper Conclusion
 
 Every feature that really belongs to a thing, whether it is a positive quality or an idea we draw from the thing, must have a source in that thing. As we have explained, an effect follows from its complete cause, and a feature follows from what truly bears it. So a quality, whether it is something present or something absent, cannot come from its opposite. Blackness cannot come from whiteness or from anything that requires whiteness. Nor can absence come from existence or from anything that entails existence.
 
@@ -1051,7 +1052,7 @@ Keep this point in mind. If we overlook it, we can badly misunderstand what thin
 
 As for the claim that an accident cannot be part of a substance, if “accident” means something that belongs to a thing without being needed for that thing to exist, then we do not accept that matter’s distinguishing feature is an accident in this sense. If “accident” means something that is not itself a substance by its own nature, even if we can use the word “substance” for it in a secondary sense, then the claim that a substance cannot be made up of it has not been proved. As we have explained, some realities that are not self-subsisting do not fit neatly into either the category of substance or the category of accident. This is the best answer the philosophers in Aristotle’s school can offer. God guides us to the truth.
 
-#### Chapter 5 — Another Argument for the Same Point
+#### V. Another Argument for the Same Point
 
 A body has a nature made up of a general kind and a distinguishing feature. The general kind is “substance”; the distinguishing feature is “something with three dimensions,” taken in general. Whenever a thing has a definition made up of a kind and a distinguishing feature, and the feature could disappear in the world while the meaning of the kind remains, the two must correspond to two parts outside the mind. Those parts give rise to the concepts of kind and feature: an external matter, which gives rise to the kind, and an external form, which gives rise to the feature. In the mind, when each is considered on its own, they are called the matter and form of thought.
 
@@ -1065,11 +1066,11 @@ The right answer is to say that kind and feature are one in what they bring abou
 
 When a house is torn down, the bricks remain, though they are no longer parts of the house. Being a part of the house, like being a kind or a broader kind, is a relation. That relation ends when the thing it refers to ends.
 
-#### Chapter 6 — A Further Argument, Called “the Proof of the Most Particular”
+#### VI. A Further Argument, Called “the Proof of the Most Particular”
 
 Here is the argument, shortened and stripped of unnecessary detail. Everything that can exist depends on the Real One, who is one in every respect. Among the things that can exist are extended bodies. Every effect must have some connection to its cause that makes it possible for that cause to produce this effect rather than another. But bodily form has no such connection to the Real One, who has no hint of composition. It also has no such connection to the intellects, in which no part can be set apart from another. So there must be something between them and the intellects that has a different kind of connection to each. That is matter. In itself, matter is not extended, so it can come from what is separate from bodies. Because it can receive extension, it can then serve as the means through which extended bodies come to be.
 
-#### Discussion
+#### 1. Discussion
 
 This argument assumes that matter exists before bodily form in the order of reality. But the reverse is true: actuality comes before potentiality. As we have shown in our discussions of what things are and of cause and effect, form comes before matter in existence, just as a distinguishing feature comes before the complete reality of the general kind, even though the general kind comes first in our understanding.
 
@@ -1079,7 +1080,7 @@ What links matter to what is separate from bodies is not a direct likeness. The 
 
 Matter, then, is pure possibility and potentiality. Its nature depends on something that has actual existence and stands on its own. Like an accident, matter depends on something else, though it has a general unity that joins it to bodily substances and allows it to be spoken of as one of them. Its nature is the meaning of “substance,” but this does not mean that it is itself an independently existing substance.
 
-#### Chapter 7 — Another Argument from the *Eastern Investigations*
+#### VII. Another Argument from the *Eastern Investigations*
 
 This argument begins with the claim that a heavenly body must have a particular shape and size, because it cannot come to be or pass away. What makes this shape and size necessary? It cannot be body as such, since all bodies share that nature, and then every body would have to have the same shape and size. That is false. So the cause must be something else: either something present in the body, something that serves as its subject, or something separate from it.
 
@@ -1113,7 +1114,7 @@ We must leave further discussion for another place. The argument’s answer—th
 
 The true form that completes a material subject is the form present in it, not one particular individual form considered apart from its subject. So the form cannot come before its subject in its individual identity. The subject is what makes it individual. If we then ask why this subject is special, despite being like other subjects, we arrive at the question of how a new thing can be connected to what is eternal. We will explain this later, if God wills.
 
-#### Addendum
+#### 1. Addendum
 
 If matter and form are essential parts of a body, why do we not use them as answers to the question “Why?” Why do we instead use them to answer “What is it?” and claim that no proof is needed for them? The answer is that we must distinguish parts of a definition from parts that exist in the world. The parts of a definition are the general kind and the distinguishing feature, as the mind draws them out by considering what is vague and what makes the thing definite. Matter and form are the parts that make up a thing’s existence.
 
@@ -1121,9 +1122,9 @@ Only the parts of a definition are basic to what a thing is, taken simply in its
 
 This shows that the way a cause exists in relation to an effect is like the way a definition belongs to what it defines. So proving that a body is made of matter and form does not mean we can skip the proof. First, we learn from the body’s defining qualities that it is a substance. Then we use argument to discover its parts in the world: the capacity for receiving, which appears in the definition of body, points to prime matter; its dimensions point to its form, the extended substance itself.
 
-### Part Three — The essential connection between matter and form
+### Part Three: The essential connection between matter and form
 
-#### Chapter 1 — Bodily Nature Cannot Exist Without Matter
+#### I. Bodily Nature Cannot Exist Without Matter
 
 The proof that matter exists through potentiality and actuality shows that no body is without matter. Every body has some potentiality: it is not fully complete, or it is limited in its position, actions, or changes from one state to another. This is true even of the heavens. They may be actual in their substance, quantity, quality, place, position, and all their stable features, but they remain potential in how they are positioned in relation to other things. They cannot occupy every possible position at once.
 
@@ -1157,19 +1158,19 @@ If a body had no matter, it could not be divided in reality. But it can be, so i
 
 By reversing this argument, we can show that what prevents division is not part of bodily substance simply as bodily substance, even if it belongs to some bodies, such as the heavens. The heavenly form may prevent a body from being divided, but that is not part of the general nature of body. It belongs only to certain instances, so it is an added feature and may be removed in thought. The bodily nature of the heavens can be divided in itself, even if its heavenly nature prevents division. Whatever can be divided in reality is never separate from matter. This proves that all bodies need matter.
 
-#### Discussion
+#### 1. Discussion
 
 If the natures of the heavens—their specific forms, as we will explain—prevent them from being divided, then each kind of heavenly body must exist as only one individual. This is their view. If there were two planets or heavenly spheres of one kind, parts from one could be joined in the same way as imagined parts within it, and parts of the two could be separated in the same way as the two bodies. So the nature of each kind would have to allow joining and separation, even though its nature is supposed to prevent them. They therefore say there cannot be two heavenly bodies of the same kind. The same applies to each heavenly body according to its special nature, though it can be divided as a body.
 
 But there is a counterexample. A body with a planet, a small circle, or an off-center circle has two separate sides in one heavenly body. The two sides of a planet’s path or of the small circle are separate parts of one body. The two sides of an off-center circle are even more clearly distinct, like the two ends. If the proof against there being two heavenly bodies is sound, it should also show that one heavenly body can be torn apart and rejoined. That would contradict their claim that this kind of body cannot be divided or joined. If they answer that the body was made this way from the beginning, the same answer could be given for two bodies of one kind.
 
-#### A Heavenly Insight
+#### 2. A Heavenly Insight
 
 The Illuminationist thinker who wrote *The Discussions* raised this objection against the philosophers but did not answer it. God gave me a way to answer it. A heavenly nature does not run through a body in the way human nature does. The form that makes a heavenly body the particular kind it is does not exist in its matter as a form that completes it. Each heavenly body has a separate soul that gives it its features, positions, actions, and characteristic movements. The parts of a heavenly body, whether only imagined or actually separate, are parts of its bodily extension and matter, not parts of its specific heavenly nature. The body's extension can be divided and joined; what cannot split into two is that body's nature as a particular heaven.
 
 So the problem is not that one heaven has become two heavens, or that one heaven has become two parts as a heaven. It is that one extended body has become two parts as a body. The two complementary parts are not two heavens, even though they are bodies associated with the heavens. That is why astronomers do not count them as separate heavens.
 
-#### Chapter 2 — General Conclusions About This Question
+#### II. General Conclusions About This Question
 
 One conclusion follows from what we have said: matter is not part of a thing’s essence. If it were, that would be clear without proof. We understand what a body is simply as body: a substance in which three dimensions can be imagined. We can still ask whether this substance has matter that bears it. Only after a proof do we know that another, material substance exists alongside it. We then see that a sensible body is made of two substances: one that exists in another, and the one that bears it. So matter is not part of the definition of body.
 
@@ -1183,7 +1184,7 @@ Another conclusion concerns this rule: if one instance of a specific nature can 
 
 We have also adopted the early philosophers’ view that one specific nature can exist at different levels of dependence on a subject. So we cannot prove that heavenly bodies need prime matter merely by showing that bodies which can be split apart and joined need it. We must use one of the other two routes.[^V05-25]
 
-#### Chapter 3 — Why Bodily Matter Cannot Exist Without Any Form
+#### III. Why Bodily Matter Cannot Exist Without Any Form
 
 We can understand this point through one of the routes used to establish matter: the relation between potentiality and actuality.[^V05-26] If matter were stripped of every form, it would still exist as something actual and as something able to receive other things. It would then have one aspect by which it is actual and another by which it is only potential. That would make it composite, though we have assumed it to be simple. This is a complete proof, and careful examination leaves no objection to it.
 
@@ -1235,7 +1236,7 @@ As already mentioned, later natural forms act on second matter, such as a body t
 
 Prime matter is different. In itself it has none of these stages of completion or kinds of being. It has no reality apart from what is joined to it. First it exists through bodily form, then through further forms that complete it, as we will explain.
 
-#### Chapter 4 — How Matter and Form Depend on Each Other, and Why Form Comes First
+#### IV. How Matter and Form Depend on Each Other, and Why Form Comes First
 
 We have shown that bodily form cannot exist without matter, and that matter cannot exist without form. Their connection is essential, not accidental. Whenever two things are essentially bound together, their relation must be either one of mutual dependence, like paired relations, or one of cause and effect.
 
@@ -1277,7 +1278,7 @@ There is a further problem. A particular form always has a definite limit and sh
 
 So neither kind of bodily form can be an independent cause, mediator, or tool for bringing matter into existence. Form can only work together with the active cause as one part of a complete cause.
 
-#### Chapter 5 — How an Effect Can Exist Alongside Its Cause
+#### V. How an Effect Can Exist Alongside Its Cause
 
 We have learned that form comes first in the order of existence, and matter comes second. Causation means that one thing is prior to another in the order of existence. Form exists in matter by being present in it, so form and matter exist together. This does not prevent form from giving existence to matter or matter from receiving existence from form.
 
@@ -1285,7 +1286,7 @@ When a cause is fully at work, its effect follows from it, and the effect exists
 
 The same is true of substances and their accidents. A substance, once it has become actual in itself, can serve as the means by which accidents exist in it.
 
-#### Chapter 6 — How One General Nature Can Cause One Particular Thing
+#### VI. How One General Nature Can Cause One Particular Thing
 
 We have established that form and matter do not exist at the same level: form has a degree of priority that matter lacks. We have also seen that form is not a complete cause or an active cause of matter. There must be something beyond form on which matter depends and from which it receives existence. This must be a divine, luminous substance and a sacred act. It cannot be a soul, much less a form or bodily nature. Yet its giving cannot be complete without form. The work is done by the two together. With the permission of the Lord of separate forms, this intellectual light gives bodily form and makes matter actual through form taken in its general sense. It does not make form actual through matter.
 
@@ -1303,7 +1304,7 @@ Matter’s individual unity is not so fixed that it cannot depend on the shared,
 
 This becomes clearer if we consider how matter and form depend on each other for their particularity without falling into an impossible circle. Matter is prior in its nature and particularity to the particular form that exists in it. But matter becomes particular through the general form itself, not through the particular identity of the form. Forms, by their natures and not by their individual identities, are prior both to the particularity and to the nature of matter. A particular form, in turn, depends on matter that has become particular through form—not on a particularity that existed before form. Keep this distinction in mind.
 
-#### Discussion
+#### 1. Discussion
 
 You may ask: if every specific nature that can have many real instances becomes particular through matter, then matter itself must become particular through another matter. This would lead to an endless chain of matter. If instead matter becomes particular through form, we have a circle.
 
@@ -1311,7 +1312,7 @@ The answer is that the two claims mean different things. A form becomes particul
 
 But how could what receives particularity also cause it? Matter does not. The near cause of a form’s particularity is the set of features around it—its position, place, time, and similar features—which are called the marks of particularity. By contrast, matter becomes particular through the general form because form acts and gives particularity, while matter receives it. So neither an endless chain nor a circle follows.
 
-#### Discussion and Resolution
+#### 2. Discussion and Resolution
 
 Someone may object that matter and form cannot each become particular through the other unless they are joined. But for them to be joined, each must already be particular, since what is only general does not exist and cannot be joined to anything.
 
@@ -1323,7 +1324,7 @@ So an essence can be considered without making it universal or particular, and i
 
 The two replies just discussed—one acceptable, the other not—were given by al-Tusi and Fakhr al-Din al-Razi. Perhaps al-Razi used his reply because he did not accept that natures exist in the outside world.
 
-#### Addendum
+#### 3. Addendum
 
 Matter and form each cease to exist if the other ceases. But this does not mean that they have the same rank in existence. The same is true of any cause and its effect. When a cause is removed, its effect is removed. But when an effect is removed, the cause does not have to be removed with it. If the cause is also removed, it is prior to the effect in the order of dependence, even if both cease at the same time.
 
@@ -1331,15 +1332,15 @@ Here the order is reversed in this respect: the effect’s removal comes later, 
 
 We have discussed this before in the discussion of nonexistence.
 
-### Part Four — The different natures of physical bodies and the forms that make them what they are
+### Part Four: The different natures of physical bodies and the forms that make them what they are
 
-#### Chapter 1 — What the Term Means
+#### I. What the Term Means
 
 The philosophers in Aristotle’s school held that each kind of natural body has, besides extension and the capacity to receive dimensions, a form through which it becomes a particular kind. They called this a *specific form*—the form that establishes and completes a kind. What belongs to one kind of body differs from what belongs to the others.
 
 They also saw this form as the source of a body’s distinctive effects and of the movements and rests that belong to it by nature. In that respect they called it a power or a nature. They also called it a perfection, because it turns a general kind into a particular, composite kind. These are different names for one thing found in every natural body. Any one of these descriptions can help show that it is a substance and lead us to understand what it is.
 
-#### Chapter 2 — Proving It from Its Role as the Source of Movement and Effects
+#### II. Proving It from Its Role as the Source of Movement and Effects
 
 There is no doubt that different effects, each belonging to a different kind of body, must come from different principles within those bodies. We know that bodies have different effects. Water and air, for example, separate and join easily; earth and fire do so with difficulty; the heavenly bodies do not separate or join at all. Each kind of heavenly or earthly body also has its own shape, place, position, and natural quality. It tends to keep these once it has them, seeks them again when something forces it away from them, and returns to them as quickly as it can once the force is gone.
 
@@ -1409,7 +1410,7 @@ For this reason, the philosophers say that the motions of the heavenly bodies ne
 
 So bodies, too, must contain powers that receive influence from separate principles and act within material bodies. These can only be bodily powers, plant souls, or animal souls. All are called specific forms, though they differ in rank and ability.
 
-#### Chapter 3 — Another Route to Proving Natural Forms: They Make Matter What It Is
+#### III. Another Route to Proving Natural Forms: They Make Matter What It Is
 
 The proof is this. We know directly that every kind of body has something specific to it besides matter and bodily extension, something that cannot be separated from it. It must be either a feature that depends on a subject or a substance that makes a body the kind of thing it is. It cannot be merely a dependent feature, because it makes something that cannot stand on its own into a complete thing. A principle that gives such completion is a form, as we have already seen. Just as matter cannot exist without bodily extension, it cannot exist without becoming a particular kind of body. We cannot picture a body that is neither a heavenly body nor an element, an animal, or a tree. So general body exists only through a specific form. The form makes body actual in a particular way. Since what makes a substance complete in its own existence must itself be a substance, the form that specifies body must be a substance.
 
@@ -1437,7 +1438,7 @@ He asks: “The features that make a kind specific arise from external causes or
 
 He asks: “The forms make what bears them complete in existence, unlike the features that distinguish kinds.” The answer is: “The whole question is how you know that the forms you call specific make body complete in existence. If you know it because they make body specific, the same can be said of the features that make kinds specific. If these features do not help make a thing complete, you cannot use this argument in cases such as the plurality of necessary beings, where you say that each needs a distinguishing feature. You would first have to establish that the feature is an essential difference or an external addition.” That is where his discussion ends.
 
-#### A Conclusion from the Throne
+#### 1. A Conclusion from the Throne
 
 To answer this objection, we must first establish a principle. There are two kinds of features that matter can take on. The first kind are perfections through which matter develops and toward which nature tends. For example, a natural body becomes a plant, then an animal, then a human being. The plant form perfects earthly bodily nature and makes it a particular kind. It then has effects different from those that follow from general bodily nature, such as natural shape, place, size, and position.
 
@@ -1449,13 +1450,13 @@ Bodily nature itself calls for such features, without thereby becoming one parti
 
 The first kind are prior in existence to the natural body considered as matter, and they make the kinds of body they belong to complete. They must therefore be substances: what makes a substance complete in its existence and gives it its definite nature must itself be a substance. The second kind come after a kind is already complete and attach to it as further features, so they are accidents. Think this through carefully.
 
-#### A Rule from the Throne
+#### 2. A Rule from the Throne
 
 When something has a natural unity and is made up of two parts, one of which is certainly a substance and the other of which may or may not be, we can work out the second part’s status by looking at its rank and strength of existence. Consider the effects that follow from its existence as such. If it exists more fully than the part already known to be a substance, as its effects seem to show, then it is more properly the source of the whole’s completion and the part that is prior and causal. The part whose status is already known stands in the opposite relation to it. This assumes that every combination into a natural kind or subkind must have some relation of priority and dependence between its two parts. Without that, it would be a kind or subkind only because the mind happened to put it together.
 
 But if the part whose status is uncertain has a weaker existence than the part known to be a substance, and a lower rank, then it does not complete the whole. It must exist after and depend on the other part, and be caused by it. In that case it is either matter or an accident that exists in the other part. If it were a substance that needed nothing from the other, and the other substance also needed nothing from it, there would be no natural bond or unity between them. If the uncertain part is an accident that exists in something else, we are back where we started. Think carefully about this.
 
-#### Chapter 4 — A Third Method for Showing That the Specific Form Is a Substance
+#### IV. A Third Method for Showing That the Specific Form Is a Substance
 
 The specific forms are parts of the essences of natural bodies. When they change, the answer to “What is it?” changes too. So they are not accidents. When accidents change, they do not change what the thing is at its core. Whatever changes the answer to what a thing is must be a substance, not an accident; otherwise a substance would receive its definite nature from an accident.
 
@@ -1463,7 +1464,7 @@ The ancient philosophers reply that some accidents do change the answer to “Wh
 
 No one can say that these shapes are substances; that would go against common sense. Nor can a collection of accidents become a substance simply by being joined together. Wasn’t a garment made from cotton, with twisting and weaving added to it? Once it has become a garment, if we ask what it is, we cannot answer “cotton”; we have to say “a garment.” The same is true of other examples. So some accidents do change the answer to “What is it?” A change in the answer does not show whether the thing that changed is a substance or an accident. This route of proof therefore fails.
 
-#### Another Discussion
+#### 1. Another Discussion
 
 The usual definitions of substance and accident, and the distinctive feature of each, do not depend on whether the answer to “What is it?” changes. The proper distinction is this: the subject of an accident is complete in itself, while the subject of a substantial form is made complete by the form it receives. An accident exists in a subject that does not depend on that accident. A form exists in matter that depends on the form.
 
@@ -1475,7 +1476,7 @@ That is all the defender of the ancient view has to say against the philosophers
 
 Then we will return to the proof God has shown us, the insight He has opened to our hearts through His mercy and favor. We will offer some of it without hesitation, even if it departs from the familiar view.
 
-#### Chapter 5 — A Fourth Method for the Same Point
+#### V. A Fourth Method for the Same Point
 
 These forms are parts of the essence of each kind of substance. The essence of fire, for example, is not just bodily nature; it is made up of body and something else, and together they make the reality of fire. The same is true of water, air, stone, plants, animals, and other things.
 
@@ -1489,7 +1490,7 @@ In short, you cannot prove that a part of water is a substance unless you have a
 
 This completes the account given by the author of *The Paths and the Discussions* on behalf of the ancient philosophers. We have kept his wording, since changing it would add nothing when the aim is simply to convey the meaning. Now, as God wills, let us give the answer we promised.
 
-#### Chapter 6 — Answering the Objection to the Last Two Arguments
+#### VI. Answering the Objection to the Last Two Arguments
 
 First, keep in mind a principle accepted by careful thinkers: a natural kind has a real unity of its own. It is not a collection brought together by human work, like a house or a tool. So a natural kind cannot be made from parts that belong to different basic categories. This applies both to simple elements and to natural compounds. Their forms come to their matter from the Giver of Forms when the matter has become ready through its changes and through the natural causes and powers within it.
 
@@ -1529,7 +1530,7 @@ If one part is a substance in its own right and does not need a subject, it is a
 
 Nor can the accident be part of some other subject. Then it would not be a part of this natural kind at all. So a single, naturally unified thing cannot be made up of parts from two different categories. We have already shown why such a combination cannot have one real existence.
 
-#### A Conclusion from the Throne
+#### 1. A Conclusion from the Throne
 
 In an earlier discussion of essences, God sent me a dream and inspired me with a conclusion that has since become clear in my heart. It shows that specific forms are the concrete existences of natural bodies. Existence itself, simply as existence, is neither a substance nor an accident.
 
@@ -1539,7 +1540,7 @@ Their simplicity, brightness, and role as the source of effects in the world giv
 
 The need of these forms for matter does not come from their own nature. It comes from features that attach to them—such as size, quality, position, and place—which require matter. These are the features philosophers call the marks of individuality. Think carefully about this.
 
-#### Chapter 7 — The Natural Form Does Not Give Body Its Existence by Taking Turns with Other Forms
+#### VII. The Natural Form Does Not Give Body Its Existence by Taking Turns with Other Forms
 
 We have learned that bodily form changes when a natural form changes. The relation of natural form to body is like the relation of a defining feature to a general kind. The defining feature is prior in existence to the general kind. So when the prior feature changes, what depends on it changes too, but not the other way around.
 
@@ -1549,13 +1550,13 @@ Here is why. Every feature that exists in something else—whether an accident o
 
 That is why the kind of bodily form makes matter actual, while particular bodily measures make it this individual body. This differs from natural forms of different kinds. Each natural form makes body a particular kind. When one kind of natural form changes into another, body as a natural thing changes too. Prime matter remains, as long as some bodily form remains. Since prime matter is wholly potential and vague in its nature, any bodily form can make it this particular matter. But a body, considered simply as body, is a definite kind, and it needs a particular form in order to be this individual body. When that form is lost, the body is lost. The marks that make prime matter an individual are not lost so long as some bodily form remains.
 
-#### A Consequence
+#### 1. A Consequence
 
 For this reason, philosophers say that when a tree is cut down or an animal dies, the body that existed with its plant or animal form ceases to exist, and another body comes to be. Prime matter, by contrast, continues. This is one point of disagreement between the two schools, because it follows from their disagreement over whether specific forms are substances or accidents.
 
 The same issue arose in our discussion of essences. In a compound, the general kind and its defining feature are made actual together, just as in a simple thing. The followers of Illumination instead say that each is made actual separately. Yet these are parts that can be predicated of the whole, and predication means that they are one in existence. They hold that when a tree is cut down, its defining feature—the power of growth—goes away, while its general kind, body, remains; and the same happens when an animal dies or a body is divided. We have already explained this point. Keep that explanation in mind.
 
-#### Chapter 8 — The Natural Form Exists at a Higher Level Than Bodily Form
+#### VIII. The Natural Form Exists at a Higher Level Than Bodily Form
 
 We have already set out principles that lead to this conclusion, but let us explain it another way. It is impossible for a body made from prime matter and general extension to exist as a fully actual thing and only afterward receive a particular size, shape, place, position, or a natural ability to resist or allow being split and joined, either easily or with difficulty.
 
@@ -1575,7 +1576,7 @@ But “body” as a general nature predicated of all bodily kinds is not one and
 
 When matter and bodies differ by kind—such as the matter and bodies of the heavens, or the matter and natures of the earthly elements—the explanation is clear: those kinds of matter are not prior in existence or in time to their particular natures. But if we speak of matter as one in kind through shared bodily nature, or as one individual, as some people claim, and say that it takes on one form after another, then it does so because it receives different readinesses from higher causes. These arise through the motions of the heavenly bodies, as will become clear later.
 
-#### Chapter 9 — Natural Forms and Bodily Powers Do Not Exist Only at the Edges of Bodies
+#### IX. Natural Forms and Bodily Powers Do Not Exist Only at the Edges of Bodies
 
 Forms and powers cannot exist in a body only at one of its indivisible boundaries, such as a point or a surface. If they exist in body as body—in its own divisible nature—they must spread through it. If one existed only at a boundary, it would have to have an existence separate from the body, and then it would not be the body’s boundary. Also, some bodies, such as a sphere, have no straight edge or point. Before a heavenly body begins to move, it has no fixed point or line as its pole or axis. If its moving power existed only at that point or line, the power would not exist until two stages after the motion had already begun. That is impossible. So the power cannot exist only at an indivisible part of the body.
 
@@ -1583,7 +1584,7 @@ We have also learned that size and position belong to bodies by nature and, some
 
 If they did, removing a feature of body would remove the thing that depends on it in the same way. But if a body loses its size, position, or shape, the body itself and every power or accident in it cease to be. If its size is halved, half of its color is halved too. The same is not true of color and movement: if the color disappears, the movement need not disappear; if half the color disappears, half the movement does not necessarily disappear.
 
-#### An Insight from the Throne
+#### 1. An Insight from the Throne
 
 We should also know that in some things unity is the same as being divisible. This is true of number. In other things, unity means that they can be divided: this is true of time and size. Number is what can be divided into units; time is a continuous flow of change; and size is a continuous quantity that can be divided.
 
@@ -1603,7 +1604,7 @@ The soul, considered in itself as a complete nature, is not spread through the b
 
 This describes souls that exist as separate beings. In plants, and perhaps in some animals such as snakes, the power of unity is weaker and is overcome by division. If such an animal is cut in two, each half can retain a power of movement and sensation for a long time. The same is true of the growing power in each cut piece of certain trees when it is planted.
 
-#### Chapter 10 — How Natural Things Exist
+#### X. How Natural Things Exist
 
 From what we have already discussed, we know some of the near causes of natural things: prime matter and form. We will establish later, in our discussion of the universal motions, that they also have separate purposes in the world of intellect. These are two more distant causes of things below the heavens.
 
@@ -1617,7 +1618,7 @@ Their matter is shared, and each kind has something of the other within it: each
 
 So what lasts through time is the kind, not one numerically identical individual. The same is true of prime matter, the first motion, and time: each continues as one general kind, not as one individual that remains unchanged. Each kind continues through a series of individuals. One set of individuals exists for a while and then passes away; another set of the same kind takes its place and lasts for a while; then it too passes away. This continues as long as God wills.
 
-#### Chapter 11 — The First Forms, Those That Follow, and How Perishable Things Persist
+#### XI. The First Forms, Those That Follow, and How Perishable Things Persist
 
 Some forms belong to the elements themselves. Others arise when the elements are mixed. Some mixtures are more complex than others. An element is destroyed only by something outside it, because nothing within its whole body is opposed to it. A simple mixture contains only a few opposing qualities, and their powers are weak. So the force that destroys it from within is weak too; it is destroyed only by something outside it. But in mixtures built from other mixtures, the many opposing qualities and their combinations make these conflicts stronger.
 
@@ -1629,11 +1630,11 @@ In this way, bodies are protected from what would destroy them from within. They
 
 As we have learned, what lasts is often the kind, not the individual. So another power is needed to replace individuals that die. It produces new matter, separate from the matter of the earlier individual, and gives it a form that is numerically different from the earlier one. This preserves the kind through its many individuals. The power is called the generative power. It too has supporting powers, whose details we will discuss later, God willing.
 
-### Part Five — Why natural bodies continually change and pass away
+### Part Five: Why natural bodies continually change and pass away
 
 We have already established this claim, proved it, and made its path clear in earlier discussions.
 
-### Stage Four — What things can become, what they already are, motion, and rest
+### Stage Four: What things can become, what they already are, motion, and rest
 
 We discussed the way nature exists as the near cause of motion, especially in the section called “Eastern Wisdom,” where we explained how what changes is connected to what does not change, and proved that there is motion in substance. We also defended the view that material substances grow stronger in their very existence. But here we want to add another kind of explanation, to make the point clearer and stronger.
 
@@ -1641,7 +1642,7 @@ This view may seem strange because it differs from what most people assume. They
 
 What has come down to us from the early philosophers says the opposite of what later thinkers commonly claimed. We will see from the statements we quote in these chapters that the early philosophers did not believe the world or the heavens had always existed.
 
-#### Chapter 1 — A Hint from the Throne
+#### I. A Hint from the Throne
 
 We have already suggested that the purpose of the heavens’ turning, the planets’ motion, and the world’s ongoing activity is to make the whole world good and happy. Creation begins in God’s generosity and mercy. He brings each thing to its perfection and end, moves it toward its goal, raises what is lower toward what is higher, and gives each kind of matter the form suited to it, making it the best it can be.
 
@@ -1651,7 +1652,7 @@ This is the highest purpose of the world’s order: the motion of the heavens an
 
 From this account we see that bodies, their natures, and their powers are all subject to passing away. None of them lasts forever. Keep this hidden knowledge safe; only those made pure can touch it.
 
-#### Another Secret
+#### 1. Another Secret
 
 This concerns the fading and passing away of the natural world. All the pleasures of the senses—the bright lights and colors, the lovely smells and tastes, and the moving sounds found in nature—come from the soul’s giving them life, by God’s permission. They come from the soul and return to it. That is why our souls can draw these forms away from their matter through the senses, then shape them as they wish through imagination and the power that works with it. Everything that remains in nature also exists in the soul, though in a lower form. Nature has muddied and clouded it by mixing with it, because nature is lower in rank.[^V05-33]
 
@@ -1659,7 +1660,7 @@ We have explained that bodily existence is mixed with nonexistence: its core is 
 
 Every perfection and pleasure found in this world has its source in another world, where it exists in a fuller, stronger, higher, and purer way, and brings greater delight. How could anyone suppose that pleasures and good things are present in the lower world but absent from the higher one? If what we have said is true, everything returns to its source, and everything incomplete moves toward its perfection. The happy return to their families in joy. The wretched suffer for a time, their skins renewed as they are burned, until they rise to the home of bliss or fall into the fire. “As for the one who transgressed and chose the life of this world, Hell will be his home. But as for the one who feared standing before his Lord and restrained himself from desire, Paradise will be his home.”
 
-#### Another Secret
+#### 2. Another Secret
 
 From what we have explained and proved, you can see that bodily nature, whether heavenly or earthly, slowly fades and disappears. If you look at your own state, and at the state of anything with a soul, you will see that the natures, powers, and bodies the soul uses gradually melt away and lose their qualities in its service and in obedience to the higher command. The same is true of everything lower in relation to what is higher, every branch in relation to its root, and every effect in relation to its cause.
 
@@ -1671,7 +1672,7 @@ We have also established that the soul can join intellect. When the soul leaves 
 
 Nature seems to sense that it will fade, while the soul will not. So it draws the soul toward itself and makes itself appealing, keeping the soul from becoming pure and joining intellect. This too serves God’s wisdom: for a time, the soul is occupied with managing the natural world, until God brings about what He has decreed. The argument from final purpose therefore shows that the whole natural world will pass away.
 
-#### An Objection and an Explanation
+#### 3. An Objection and an Explanation
 
 Someone might ask: Why must nature pass away? Why can it not rise to the level of the soul, as the soul rises to the level of intellect?
 
@@ -1683,7 +1684,7 @@ We have learned that the soul does not remain with nature forever. It rises beyo
 
 When a prisoner leaves, the prison does not remain as a locked home for him. Nor is there any need for a prison once its prisoner has gone. The Imam al-Sadiq points to this when he says that the Hour will not rise while anyone on earth still says, “God, God.” So God’s wisdom and unchanging law require nature to vanish, fade, and pass away. Clear proof shows that the passing away of nature and bodies is possible and required by divine wisdom. When nature—whether heavenly or earthly—changes and disappears, the soul leaves it, just as a person leaves a ruined house. God says: “When the sky is split open and obeys its Lord, as it must, and when the earth is stretched out and casts out what is within it and becomes empty.” The sky’s splitting points to the end of its nature when its soul returns to its Maker and answers the call: “O soul at peace, return to your Lord, well pleased and pleasing to Him. Enter among My servants; enter My Garden.”
 
-#### Chapter 2 — Every Moving Thing, Whether Body, Nature, or Soul, Will Pass Away; Everything Perishes Except His Face
+#### II. Every Moving Thing, Whether Body, Nature, or Soul, Will Pass Away; Everything Perishes Except His Face
 
 Know that God, exalted is He, is the maker of everything. We have already explained, in our discussion of causes and their effects, how the true end of each thing leads back to its maker. There is no need to repeat it here; anyone with an awakened heart can return to that discussion. In short, God is pure good, with no evil in Him, and pure existence, untouched by nonexistence. Everything seeks what is pure good and existence, and draws near to it by nature or by choice. Or it seeks what leads to that good and draws near to what leads to it.
 
@@ -1715,7 +1716,7 @@ Even if we grant this, it does not hurt our argument. If the substance has that 
 
 It is therefore established that nothing has always existed except God, and that everything returns to Him. Glory be to the One who holds the rule of all things; to Him you will return.
 
-#### A Hint from the East
+#### 1. A Hint from the East
 
 Every individual thing, whether necessary or possible, has intelligible consequences and effects that follow from it, such as being a thing, being caused, and existing. This is especially true of the divine reality, the source of every existence and every identity, and the origin of every idea and essence. If this is so, then the divine essence must have rays, lights, and effects, since all existence comes from the light of His rising and the brightness of His appearing.
 
@@ -1723,7 +1724,7 @@ Most philosophers call these lights the active intellects. The followers of Aris
 
 How could these rays be separated from their source? If they were separate in existence, they would no longer be rays. Think of the sun’s rays in the visible world—though God is far above any comparison. There is a difference between these two kinds of rays: the rays of the sun of intellect are living, speaking, and active, while the rays of the sun we see are lights that serve something else, not themselves. They are not alive or active. The divine forms are also connected to their source and goal through intellect. The sun’s rays, by contrast, have a spatial relation to the sun. How could the two be the same?
 
-#### Chapter 3 — Prophets and Philosophers Agree That the World Began
+#### III. Prophets and Philosophers Agree That the World Began
 
 Know that the view we have explained—that the whole world, the heavens and everything in them, the earth and all that belongs to it, came to be—is the true belief shared by every community with a true revealed law, and by all who have followed the divine path, in the past and today. In every age, those who believe in one God and seek the truth have shared one faith and one way in the foundations of belief, the principles of religion, and the questions of where all things began and where they will return. The prophets, the friends of God, and their followers have had one religion; no disagreement among them is reported on the basic truths.
 
@@ -1833,7 +1834,7 @@ Plato then called universal things “forms” because each is one. He believed 
 
 I say that when he said that all sensible things are corruptible, he included both the heavenly bodies and the elements below. So he believed that the heavens and everything under them began to exist. If the source means “universal things”—and this is not a copyist’s mistake for “particular things”—he means the general meanings and kinds of sensible and other things, which have no separate form in themselves. The word “they” refers to the forms. Plato did not think these general meanings had a separate existence or a single identity in the world. Otherwise, the fact that definitions remain true of changing sensible things would mean that some part of the world had always existed. As we have already explained, general meanings exist in the world only through individuals, and they do not have one numerical identity that lasts while individuals change. By “sharing in forms,” he meant the intellectual forms that sensible things have in the separate world. These sensible things depend on those separate forms as their cause and goal—not on general ideas in the mind, which do not exist on their own.
 
-#### A Report with a Lesson
+#### 1. A Report with a Lesson
 
 Know that Abu al-Hasan al-ʿAmiri, in his book *From the Present to the Everlasting*, relates the views of the early philosophers. He says that Plato’s view on whether the world had always existed or had a beginning is disputed. In his book *On the Care of the Body*, Plato is said to have claimed that the world is eternal, was never made, and will always last. Proclus relied on this statement and wrote a book arguing that the world had no beginning. John Philoponus wrote a reply to him.
 
@@ -1925,7 +1926,7 @@ These are his noble, luminous words.
 
 I say: people of faith and insight, has any philosopher or theologian after Aristotle made a stronger case for the world’s beginning and its link to the true Maker, without any change in God’s essence, will, or relation to the world?
 
-#### An Explanation and a Reminder
+#### 2. An Explanation and a Reminder
 
 Aristotle’s words contain subtle hints and important points that some readers may miss, so we will explain them. When he says that one form does not come from another, he means that an earlier form is not the cause of a later form in its own right. A cause that makes something exist must exist together with what depends on it. So anything that comes before another thing in time cannot be the cause that makes it exist.
 
@@ -1947,7 +1948,7 @@ So when, by God’s permission, the mover of the heavens and the source of tempo
 
 This is because motion is the form of the things that come to be. If motion ends, all of them end. When it runs out, the world of coming-to-be runs out, and the Resurrection begins. This explanation of the world’s end, the heavens’ ruin, and the folding up of heaven and earth is enough for people who worship God.
 
-#### An Objection and an Explanation
+#### 3. An Objection and an Explanation
 
 Someone might think that the mover has not reached its goal and has not attained what it seeks. We answer that if the mover knows it will never reach its goal, it should stop acting anyway. Something that cannot be reached cannot be an inborn goal of the agent, as we have assumed here. A being might aim at something unreachable by chance or force, but neither kind of action is constant, and neither belongs to natural action. The mover of the heavens is a noble angel and a wise agent. The action of a wise agent cannot be without a goal. So the heavens and everything in them exist for a goal known in advance and reached in the end.
 
@@ -1971,7 +1972,7 @@ When Aristotle says that intellect’s action stops at nature, he is pointing to
 
 Aristotle calls the causes of generation “secondary” or “accidental” because a later form does not come from the earlier form. It comes from a higher cause that is not in time. He may still call the earlier form a cause in another sense: it came before the later form in time. This is why philosophers distinguish causes ordered by their very nature from causes that only prepare something in time. When Aristotle says the sensible world points to the intellectual world, he means that every sensible form in this world has an intellectual form in the divine world and in God’s knowledge. Many early philosophers, including Plato and Socrates, held this view. We have already built a firm case for it and made its path clear many times.
 
-#### Chapter 4 — Other Philosophers on the World’s Beginning and the Passing Away of Heaven and Earth
+#### IV. Other Philosophers on the World’s Beginning and the Passing Away of Heaven and Earth
 
 One of them was Zeno, the elder son of Phares. In our discussion of motion, we quoted his clear statement that the world began: things persist and pass away. They persist because their forms are continually renewed; they pass away when an earlier form fades as another takes its place. He said that both form and matter are subject to passing away. Anyone who understands how matter and form depend on one another can see why both are renewed at every moment.
 
@@ -2041,7 +2042,7 @@ These carefully formed words make it clear that Proclus’s view—though people
 
 So when Proclus says that this world is eternal, he does not mean that the sensible forms of the heavens and other natural things last forever as individual things. He means that their simple intellectual forms remain in God’s knowledge and do not pass away when their compound, sensible forms do. Passing away implies an end and a return; coming to be implies a beginning and a cause. Every changing thing must finally return to One who has neither beginning nor end. This is sound only if we understand that these enduring intellectual forms are not beings with an existence separate from God, which would make many eternal beings; nor states within God’s essence, which would make His essence multiple; nor identical with God in His own essence, which would involve a change from necessary existence to possible existence, or the reverse. All of these are impossible. The truth is that what is necessary is forever necessary, what is possible is always possible, what is real has always been real, and what is false has never been real. Only those with direct spiritual insight and a firm grasp of God’s oneness can know this. Still, as we have shown, every inborn longing and desire must necessarily lead to what it seeks.
 
-#### Chapter 5 — Sayings of Muslim Mystics on Nature’s Renewal and the Passing Away of the World
+#### V. Sayings of Muslim Mystics on Nature’s Renewal and the Passing Away of the World
 
 We have already quoted many verses from the Qur'an that point to this teaching, which lies at the heart of both wisdom and religion. We also find it in reports from the Prophet and his family, the people of purity and prophecy, peace be upon them all. One example is this saying of Imam Ali in *The Path of Eloquence*: “I warn you about this world. It is a place from which people move on, and a home that makes its residents unwelcome. Its settled people are travelers, and its residents will leave. It rocks those who live in it like a ship tossed by storms on the deep sea.” He also says: “What can I say about a home whose beginning is hardship and whose end is ruin? Those who pursue it lose it; those who turn away from it receive it.” These words, like the saying before them, are full of wisdom. Their full meaning becomes clear only to someone who has mastered the principles we have explained and has trained the mind deeply in the search for divine knowledge.
 
@@ -2053,11 +2054,11 @@ He says that a person who relies on reasoning has no knowledge of this. It is a 
 
 I asked, “How soon will the Hour appear?” He replied, “The Hour is near; people’s reckoning is near, yet they turn away without paying attention.” I asked him to tell me one sign that it was near. He said, “The existence of Adam is one of its signs.” I asked, “Was there another home before this world?” He said, “The home of existence is one. It is neither this world nor the next until you are part of it. The next world is distinguished only by you. As for bodies, they keep taking on forms and changing, coming and going. This has always been so and will always be so.” Those were his noble words.
 
-### Part Six — The Principles and Causes Studied in Nature
+### Part Six: The Principles and Causes Studied in Nature
 
 The natural philosopher receives these principles from the divine philosopher as a report and accepts them as a starting point. Proving them is the responsibility of the philosopher who studies divine things, who receives them from God through the angels closest to Him, the means by which His command reaches creation. This part has several chapters.
 
-#### Chapter 1 — What Is Nature?
+#### I. What Is Nature?
 
 There is no doubt that the bodies around us act, are acted on, move, and change. We see some of these actions and changes come from outside causes: a stone moving upward, fire moving downward, water becoming warm, or air becoming cool. Others seem to have no outside cause: a stone falling downward, fire rising, water cooling, and fire heating. Seeds and reproductive fluids also change into plants and animals. And animals move and rest by choice in many ways, without any outside agent directing each movement or forcing them to act.
 
@@ -2089,7 +2090,7 @@ The words “in itself” can also be understood in two ways: in relation to the
 
 “Not by accident” also has two meanings, one relating to the agent and one to what receives the action. In the first meaning, nature is the source of movement in something that is truly moving, not merely moving along with something else. A passenger at rest in a boat, for example, moves only because the boat moves. In the second meaning, if nature moves a copper statue, it moves the copper in itself; it moves the statue only by accident. That is why a doctor does not heal himself simply by being a doctor: he treats himself as a patient, not as a doctor. As doctor, he gives treatment; as patient, he receives it.
 
-#### A Further Point
+#### 1. A Further Point
 
 Some later writers thought this definition was too short and tried to add to it. They said: “Nature is a power spread through bodies that shapes them, gives them form, and preserves that form. It is also the source of the movements and rests that belong to the body.” Avicenna says this addition is unnecessary and wrong. He argues that the power in this definition is an active power. An active power is defined as the source of movement, one thing moving another, as long as the mover is something other than the thing moved. “Power” means a source of movement within a thing, and “spread through” simply means “present in.”
 
@@ -2097,7 +2098,7 @@ If the thing receiving a power is divisible, then what exists in it is also divi
 
 I say that nature is the source of its own actions and effects, including movement. This is not like a quality added to a thing after it already exists, as laughter or writing is added to a person. Nature’s existence and its being the source of these actions are one and the same. So Avicenna’s definition is not merely a definition of the word “nature,” as his words seem to suggest; it describes nature’s reality. We should also understand that “nature,” “power,” and “form” are different ideas, but those different ideas do not require different kinds of existence. In every kind of body, this power is one physical reality that produces the body’s own movements, changes, and other effects. It may or may not have its being as part of a soul-like substance. We will explain this later.
 
-#### Chapter 2 — Nature’s Relation to Form and Soul Above It, and to Matter, Motion, and Accidents Below It
+#### II. Nature’s Relation to Form and Soul Above It, and to Matter, Motion, and Accidents Below It
 
 Avicenna says in *The Healing*: “Every body has a nature, matter, form, and accidents. Its nature is the power that produces its own movement or change, and likewise its rest and stability. Its form is the essence that makes it what it is. Its matter is what carries that essence. Its accidents are the features that follow or come to it from outside once its matter has received its form and its kind is complete. Sometimes a thing’s nature is the very same as its form, and sometimes it is not.
 
@@ -2151,7 +2152,7 @@ We should also understand several related terms used by scholars: “nature,” 
 
 “By nature” can describe what exists through nature as its first outcome, such as individual natural things, or as its second outcome, such as natural kinds. “Naturally” means anything that follows from nature, either in a way that serves its purpose, as in individual things and kinds, or as a necessary result, as in features that must belong to it or arise from it. “What acts like nature” means movements and rests that nature itself produces according to its own tendency, not something outside that tendency. A result that does not fit nature’s usual course may still come from nature because of the matter that receives its action. A flattened head or an extra finger, for example, is not what nature ordinarily produces. It happens because of an unusual condition in the matter, such as its size or quality. It is “by nature” in the sense that nature caused it, but it does not serve nature’s purpose; it results from an accidental condition in the matter.
 
-#### Eastern Wisdom
+#### 1. Eastern Wisdom
 
 Nature may be particular or universal. Particular nature belongs to each individual. Universal nature exists with an identity separate from the individual matter. Its relation to individual things is like that of a maker to what it makes, or a root to its branches.
 
@@ -2169,7 +2170,7 @@ In *The Divine Science*, when answering an argument against goals in an endless 
 
 If we consider both of Avicenna’s statements—that natural kinds do not exist independently, and that the kind rather than its individuals is the main goal of nature—we see that they conflict. A true goal, which an agent directly seeks, must exist in reality more fully than what the agent produces only by accident and in passing.
 
-#### Chapter 3 — Nature’s Own Action, Whether Universal or Particular, Aims at Good, Not Evil
+#### III. Nature’s Own Action, Whether Universal or Particular, Aims at Good, Not Evil
 
 Avicenna says that many things outside the course of particular nature still fall within the course of universal nature. Death, for example, is not intended by the particular nature in Zayd, but it is intended by universal nature for several reasons. It frees the soul from the body so that a happy soul can reach its afterlife reward; the body was made for that purpose. When souls do not reach happiness, this is not nature’s fault but the result of bad choices.
 
@@ -2187,7 +2188,7 @@ Fourth, as Avicenna explains in his discussion of the afterlife, intellectual ha
 
 The truth is that every nature moves toward its own completion and goal. It fails to reach it because something forces it away, something interrupts it, or its own power falls short. The wisdom in death is not limited to bringing the soul to happiness. Intellectual happiness is not the only kind of completion or full actuality. Every soul separated from its body has another existence, stronger and more lasting than its life here. But stronger existence does not rule out misery and punishment, as we will explain in the study of the afterlife.
 
-#### Chapter 4 — The Subject and Principles of Natural Science
+#### IV. The Subject and Principles of Natural Science
 
 According to the science of logic, especially its account of proof, some sciences are universal and others particular. A universal science studies things simply as existing things and studies the features that belong to them as such. It does not need to treat them as having size, number, or change. Mathematics and natural science study things under those further conditions, so they are particular sciences.
 
@@ -2211,7 +2212,7 @@ Some people stop at general categories. They know that something is a body but d
 
 When knowledge reaches the specific natures and their features, inquiry through reasoning comes to an end. What remains is direct presence before the intellectual natures and forms that exist apart from matter. The mind does not suffer from failing to know every particular nature, because such natures perfect bodily things, not the intellect.
 
-#### Chapter 5 — Principles That Natural Science Takes as Given
+#### V. Principles That Natural Science Takes as Given
 
 Natural things have principles and causes, which we will now discuss. The subject of natural science is the natural body insofar as it can change. So its definition includes both what it means to be a natural body and its capacity for change. We have already explained what a natural body is, and we have already explained motion and change. A natural body has principles insofar as it is a body; these form part of the subject of natural science. It also has further principles insofar as it comes to be, passes away, and changes.
 
@@ -2265,7 +2266,7 @@ Ancient philosophers also spoke of matter’s longing for form, comparing matter
 
 Avicenna says, “This is something I do not understand.” I have already discussed how to make sense of this claim in the section on causes. If “matter” means any matter perfected by a form—including the matter of a body with its powers, which is perfected by a soul, and even the potential intellect, which is perfected by the intellect in actuality—then it is not very difficult to say that matter longs for form.
 
-#### Chapter 6 — How Matter, Form, and the Absence of a Form Can Be Shared
+#### VI. How Matter, Form, and the Absence of a Form Can Be Shared
 
 Most philosophers hold that no single matter is shared by every natural form. Some bodies come to be and pass away; others do not. They are created directly and have no matter in which they come to be. So, they argue, there cannot be one matter that receives the forms of things that come to be and pass away, and also the forms of things that do not naturally perish or come to be through matter. There may be one matter shared by bodies that come to be and pass away and change into one another, but not by all bodies. This is Avicenna’s view.
 
@@ -2303,7 +2304,7 @@ Here we are considering form as one part of a thing that comes to be. It is the 
 
 We have already said that natural science does not deal with an agent cause or final cause shared by all things, whether shared in the first sense or as a universal. It does, however, study an agent cause or final cause that is shared by a group of natural things, but not by all of them.
 
-#### Chapter 7 — Which Causes Should Matter Most in Natural Science?
+#### VII. Which Causes Should Matter Most in Natural Science?
 
 There is no doubt that a thing’s form deserves more attention than its matter when we want to understand what the thing is. Form makes it what it actually is; matter makes it what it could be. The agent cause and the final cause also deserve more attention than matter, because they explain why the thing exists. It may seem that we should look for form before either of those two causes. The science of proof says that one question can come before another, but asking about the agent and the goal is more noble and reaches higher than asking about form. The agent and goal complete the thing’s existence, while form completes its nature and meaning. A thing’s complete being is that thing together with something more: its perfection. Form alone does not complete a thing’s existence unless its agent and goal are also present. Matter is the least important cause.
 
@@ -2327,7 +2328,7 @@ Studying prime matter as pure potentiality does not require us to study every ki
 
 What seems right to me is this: material kinds, insofar as they exist in a world of change and motion, are made up of absence, coming-to-be, motion, and perfection. They must therefore have both a side of potentiality and a side of actuality. A philosopher should understand both sides of each thing’s lack and perfection: its potentiality and actuality, its matter and form. Its form is the form of something that moves toward it and becomes complete through it.
 
-#### Chapter 8 — How Matter and Form Make Up a Natural Body
+#### VIII. How Matter and Form Make Up a Natural Body
 
 Our view agrees with what one of the later great thinkers from our city of Shiraz, may God protect it and its people, came to understand: matter and form unite in one being. To explain this, we need two starting points.
 
@@ -2405,7 +2406,7 @@ These meanings are potential only in the sense that they could exist separately 
 
 In the same way, a human being actually contains all the meanings present in the nature of an animal, with the added capacity to understand in actuality. But there seems to be a conflict between those earlier meanings and actual understanding of general ideas, since opposites cannot be actual in one existence. We answer this by saying that “rational” means able to understand general ideas, not understanding them at every moment. In its bodily existence, a human being understands them only after leaving behind this material existence and many of its coverings, and reaching another kind of existence: finally becoming a separate substance. This happens when the soul becomes intellect, and its sense-based form becomes the meaningful matter for an intellectual form that is both intellect and understood.
 
-#### Chapter 9 — Answering Doubts About the Union of Form and Matter
+#### IX. Answering Doubts About the Union of Form and Matter
 
 One objection was raised by the author of the *Notes on the Abstracted Principles* against a contemporary thinker. The view of union that he opposed is very different from ours. He says that the mind analyzes even simple things into broader kind and difference. For example, it analyzes color into a broader kind and into what distinguishes it: what makes sight unable to tell black apart from other colors, or white apart from other colors. If the account of union were right, these features would have matter and form. Yet Avicenna clearly says that features do not have matter and form.
 
@@ -2465,7 +2466,7 @@ Another kind is the union of things that can each exist on their own but combine
 
 I say that any statement by philosophers that matter and form differ, or that the nature of a compound differs from its form, can be understood in a way that does not conflict with their unity. In the first case, they differ when considered as matter and form, but not when considered as broader kind and difference. In the second, “form” means the form as it exists in the outside world, where every natural form is made up of potentiality and actuality, coming-to-be and passing away. When they say form is identical with nature, they mean form as it exists on its own in the intellect.
 
-#### Chapter 10 — More on the Union of Matter and Form: Objections and Replies
+#### X. More on the Union of Matter and Form: Objections and Replies
 
 Dawani says: You know that proof shows that anyone who understands general ideas must be separate from matter. If the soul exists as one with the body and becomes separate only at death, as you suppose, then no universal form could take shape in it. It would follow that no one could understand general ideas until after death. And how could something physical change into something separate from matter? If the soul is one stage in the body’s changes, then the effects of being separate could not exist until that change had happened, just as the effects of reproductive fluid are not in food, the effects of an early embryo are not in reproductive fluid, and the effects of a developed body are not in that early embryo. That is his argument.
 
@@ -2509,7 +2510,7 @@ So a real union between two things must involve both unity and difference: unity
 
 I say: The real weakness in that objection is arguing over a label after the intended meaning has been made clear.
 
-#### Chapter 11 — More on the Causes of Changing Natural Things
+#### XI. More on the Causes of Changing Natural Things
 
 We have already discussed the four causes and their rules in a general way, not only as they apply to things that change. Here we consider how they apply to changing things, in a way that makes it easier to understand natural things. Every body has a material cause, an agent cause, a formal cause, and a final cause. Natural philosophers do not have to prove that every changing thing has all four causes. That proof belongs to the philosopher who studies divine things. But anyone who studies changing natural things must understand what these causes mean and accept their roles as starting points.
 
@@ -2553,7 +2554,7 @@ Sometimes a thing’s unity is also the source of its multiplicity, as with numb
 
 The final cause is what a form exists in matter for. It is a real good, either in itself or for something else, or a good that only seems good. Every action that comes from an agent in itself, and not by chance, aims at what is good for that agent, whether it truly is good, absolutely or in some respect, or only seems good.
 
-#### Chapter 12 — How These Principles Relate to One Another
+#### XII. How These Principles Relate to One Another
 
 You have learned that one nature may exist in more than one way and have more than one relation. The final cause, in one way of existing, comes before the action and even before the agent as an agent. In another way, it comes after the action as its result. So the goal is a goal in one respect and an agent in another. Form, too, is an agent in one respect, since it makes matter actual; it is a formal cause in another, since it makes a thing the kind of thing it is; and it is a goal in another, since motion from matter comes to an end in it. Matter, because of its potentiality, may also be matter for another form. In this way, one thing can include all the kinds of cause, without being made of several parts—except for matter and form, since potentiality and actuality are different, even when they relate to one thing.
 
@@ -2575,7 +2576,7 @@ Form is a cause through another cause in natural compounds where form makes matt
 
 These rules apply only when we consider the compound as a compound and treat matter and form as different. This difference is still compatible with their being one in a certain way of existing. Do not confuse these two points.
 
-#### Chapter 13 — How Causes Enter Our Questions and Proofs
+#### XIII. How Causes Enter Our Questions and Proofs
 
 God, whose existence depends on nothing else, has no cause. He is the source of all causes. Some things have some causes but not others: a kind of separate thing may have an agent and a goal, but no matter or form, since it is itself a complete form. Other things have all four causes: compounds, natural kinds, and all things that move or change, which natural science studies. The natural philosopher must understand all their causes and include them in proofs, especially their matter and form, to understand their effects fully.
 
@@ -2595,7 +2596,7 @@ If you set aside figurative answers and ask for the real one, the full answer in
 
 Let us end this part by discussing mixture and explaining it fully, as it follows from what we have said about the union of matter and form. We promised to give this account.
 
-#### Chapter 14 — What Is Mixture, and How Does It Come to Be?
+#### XIV. What Is Mixture, and How Does It Come to Be?
 
 People usually discuss this question in natural science. I include it here for the reason I have given, and perhaps for another: the nature of a thing and the way it exists are suitable subjects for the divine sciences.
 
@@ -2667,11 +2668,11 @@ Another argument follows from the same point. If the elemental forms remained in
 
 If the elements remained in natural compounds, the fiery part of a ruby, for example, would have two forms. One body would then be both fire and ruby, which is impossible. We have already discussed this argument.
 
-#### Report
+#### 1. Report
 
 This is the same argument Avicenna raised against himself. We will discuss his answer and why we do not accept it later.
 
-#### Chapter 15 — What Avicenna Says Here, and the Reply
+#### XV. What Avicenna Says Here, and the Reply
 
 You may be impressed by what Avicenna says on this subject. In a chapter of *The Healing*, he writes that some people in his time had come up with a strange view. They said that when simple elements mix and act on one another, they shed their forms and take on a single new form. They then have one matter and one form. Some said this new form stands between the elements’ own forms and prepares the mixture to receive the specific form of a natural compound. Others said it is itself a new specific form, while mixture is only a condition that comes with it, not a form. Avicenna then gives this argument: if that view were true, fire would act evenly on the whole compound. But when a piece of meat is distilled, it separates into a watery liquid that drips away and an earthy ash that does not. He says he tested a piece of meat in a distilling vessel and found that it separated in this way.
 
@@ -2691,7 +2692,7 @@ Second, the same difficulty applies to the view Avicenna himself accepts. He say
 
 But this answer does not settle the matter. A preparatory cause cannot take the place of the cause that actually brings about an effect. If the cause is a form, then if one form causes another form to perish, the form that is destroyed would also be destroying the form that destroys it. If the cause is a strong quality, then the quality that breaks down another must itself be broken down by that quality. The same problem arises if one form is said to cause a change in another quality, since forms act through qualities. The direct causes of changes and motions are qualities and tendencies.
 
-#### Chapter 16 — Further Reflections, and Replies to Objections to Our View
+#### XVI. Further Reflections, and Replies to Objections to Our View
 
 Avicenna adds: Let us ask what destroys the substantial forms of the elements when they come together. He then makes an argument much like the second one we have just discussed. In brief, when water and earth come together, each destroys the other’s form. This is impossible. If something outside them destroys their forms and gives them a new one, either they must still exist when that happens—in which case the question begins again—or their forms need not be destroyed at all. Simple elements could then produce natural things without any mixture. That is the rest of his argument.
 
@@ -2719,7 +2720,7 @@ The only way to avoid this problem is to accept that elemental forms do not rema
 
 Someone might object that our view leaves each natural kind with only one matter and one form, so it is not a compound but simple. There is no contradiction here. We call these bodies compounds because a new form comes to be in matter that existed before it, or because their secondary mixture is mainly made up of elements, as in plants and animals. In any case, names alone do not decide what things are.
 
-#### Chapter 17 — This View May Not Be New
+#### XVII. This View May Not Be New
 
 Perhaps this view was held by the earliest philosophers. Avicenna reports the First Teacher’s words in *The Healing*, in the chapter before the one where he argues that the forms of the elements do not remain. The First Teacher says, “Mixtures exist potentially.” This seems to mean that the forms of mixtures do not actually exist, but exist only as possibilities.
 
@@ -2751,7 +2752,7 @@ Once you understand this, you can see that the forms that follow one another in 
 
 Together, these points show that the opposed forms of the elements do not actually remain in any of the three kinds of natural beings: minerals, plants, or animals. If those forms remained, their own nature would prevent a more complete form from coming to be. Matter is to form as lack is to completion, and matter and form are joined as one being. The same is true when something incomplete becomes complete, as when a short line grows longer or a curved line expands into a half-circle or a full circle.
 
-#### Chapter 18 — How Natural Beings Rise toward Perfection
+#### XVIII. How Natural Beings Rise toward Perfection
 
 Existence is one realm, and the whole world is like one great living being, with its parts connected. This connection is not spatial: their surfaces do not touch. It means that each level of perfection is next to the level above it in the order of existence. There is no empty gap between them where we could imagine an unfilled level of greater or lesser perfection. We do not allow such gaps. We will prove this from two principles: the possibility of a higher level and the possibility of a lower one. The first principle comes from the First Teacher; with God’s help, we have set out the second. We will discuss both later. They apply to kinds of things that come to be, though not to every individual.
 

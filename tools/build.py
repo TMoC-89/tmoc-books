@@ -226,70 +226,60 @@ def nav_tree(items):
     return root['children']
 
 
-def four_journeys_nav(items, lang, volume):
-    """Group chapters and their smaller headings for the nine-volume reader.
+def reader_contents(book):
+    """Load an explicit reviewed outline, without guessing from heading words.
 
-    The source lists often give notes the same level as chapters, and some
-    smaller headings are marked as top-level divisions. Keep the original
-    titles and targets; adjust only sidebar hierarchy and displayed labels.
+    Original navigation remains the source of titles and targets. A review
+    cannot silently drop, reorder, or reuse entries after a content update.
     """
-    major_en = re.compile(r'^(?:Contents$|Notes$|Author.s preface$|Part\b|Third Part\b|Art\b|Book\b|Stage\b|Station\b|(?:First|Third) Discussion\b|Method\b|First inquiry\b|Article\b|(?:The |Third )?(?:First|Fourth)?\s*Journey\b|The knowledge needed\b)', re.I)
-    major_ar = re.compile(r'^(?:المحتويات$|الحواشي$|مقدمه المؤلف$|الجزء\b|السفر\b|المرحلة\b|الفن\b|الباب\b|الموقف\b|المقالة\b|المنهج\b|المسلك\b|القسم (?:الأول|الثاني|الثالث|الرابع)\b)')
-    chapter_en = re.compile(r'^Chapter\b', re.I)
-    chapter_ar = re.compile(r'^(?:الفصل|فصل)(?:\s|[—:])')
-    have_chapter = False
-    result = []
-    for item in items:
-        entry = dict(item)
-        title = entry['title']
-        major = (major_ar if lang == 'ar' else major_en).search(title)
-        if lang == 'ar' and volume in (3, 7) and title.startswith('القسم '):
-            major = None
-        chapter = (chapter_ar if lang == 'ar' else chapter_en).search(title)
-        if lang == 'en' and re.search(r'\bcontinued\s*$', title, re.I) and have_chapter:
-            chapter = None
-        # Volume I's opening inquiry has chapter titles without the word
-        # "Chapter" in the English edition; the Arabic identifies them as
-        # chapters. Keep those peers visible at chapter level.
-        if lang == 'en' and volume == 1 and entry['id'] in {
-            'passage-en-00173', 'passage-en-00200', 'passage-en-00210',
-            'passage-en-00214', 'passage-en-00230', 'passage-en-00245',
-            'passage-en-00252',
-        }:
-            chapter = True
-        if major:
-            entry['level'] = 1
-            have_chapter = False
-        elif chapter:
-            entry['level'] = 2
-            have_chapter = True
-            # The source does not number every chapter consistently. Use one
-            # neutral sidebar style without altering the actual book headings.
-            if lang == 'ar':
-                entry['label'] = re.sub(r'^((?:ال)?فصل)\s+[0-9٠-٩]+(?=\s*[—:])', r'\1', title)
-            else:
-                entry['label'] = re.sub(r'^(Chapter)\s+[0-9]+(?=\s*[—:])', r'\1', title, flags=re.I)
-        else:
-            entry['level'] = 3 if have_chapter else 2
-        result.append(entry)
-    return result
+    filename = book.get('contentsFile')
+    if not filename:
+        return book['nav'], False
+    contents = load_json(os.path.join(book['path'], filename))
+    if contents.get('version') != 1 or set(contents['languages']) != set(book['languages']):
+        raise ValueError(f'{book["path"]}: incompatible contents review')
+    result = {}
+    for lang, source in book['nav'].items():
+        reviewed = contents['languages'][lang]
+        digest = hashlib.sha256(json.dumps(source, ensure_ascii=False).encode()).hexdigest()
+        entries = reviewed['entries']
+        if digest != reviewed['sourceHash'] or [e['id'] for e in entries] != [e['id'] for e in source]:
+            raise ValueError(f'{book["path"]}: {lang} contents need review after a source change')
+        previous = 0
+        result[lang] = []
+        for original, entry in zip(source, entries):
+            level = entry['level']
+            if type(level) is not int or not 1 <= level <= previous + 1:
+                raise ValueError(f'{book["path"]}: invalid contents level at {entry["id"]}')
+            if entry['kind'] not in {'opening', 'division', 'group', 'chapter', 'section', 'notes'}:
+                raise ValueError(f'{book["path"]}: invalid contents kind at {entry["id"]}')
+            node = dict(original, level=level, kind=entry['kind'])
+            if entry.get('label'):
+                node['label'] = entry['label']
+            if contents.get('initiallyCollapsed'):
+                node['expanded'] = entry.get('expanded', False)
+            result[lang].append(node)
+            previous = level
+    return result, True
 
 
 def render_toc(nodes, lang, collapse, uid):
     out = ['<ol>']
     for n in nodes:
         label = n.get('label') or n['title']
-        link = f'<a href="#{esc(n["id"])}" data-title="{esc(n["title"])}">{esc(label)}</a>'
+        tooltip = f' title="{esc(n["title"])}"' if n.get('kind') and label != n['title'] else ''
+        kind = f' data-kind="{esc(n["kind"])}"' if n.get('kind') else ''
+        link = f'<a href="#{esc(n["id"])}" data-title="{esc(n["title"])}"{tooltip}>{esc(label)}</a>'
         if n['children']:
             uid[0] += 1
             list_id = f'toc-{lang}-{uid[0]}'
-            open_ = not collapse or n['level'] < 2  # long contents: top-level parts open, deeper lists folded
+            open_ = n.get('expanded', not collapse or n['level'] < 2)
             toggle = (f'<button class="toc-toggle" type="button" aria-expanded="{str(open_).lower()}" aria-controls="{list_id}" '
                       f'aria-label="{esc(("أقسام " if lang == "ar" else "Sections in ") + n["title"])}">{icon("chevron")}</button>')
             sub = render_toc(n['children'], lang, collapse, uid).replace('<ol>', f'<ol id="{list_id}"{"" if open_ else " hidden"}>', 1)
-            out.append(f'<li><div class="toc-row">{link}{toggle}</div>{sub}</li>')
+            out.append(f'<li{kind}><div class="toc-row">{link}{toggle}</div>{sub}</li>')
         else:
-            out.append(f'<li><div class="toc-row">{link}</div></li>')
+            out.append(f'<li{kind}><div class="toc-row">{link}</div></li>')
     out.append('</ol>')
     return ''.join(out)
 
@@ -399,7 +389,8 @@ def render_reader(book, library, content, views, prefix, site):
     parts = [head(title=doc_titles['en'], description=description, prefix=prefix, canonical=canonical, site=site,
                   og_type='book', boot=boot, extra=f' data-lang="{langs[0]}"',
                   css=f'<link rel="stylesheet" href="{asset("assets/base.css", prefix)}">\n<link rel="stylesheet" href="{asset("assets/reader.css", prefix)}">'
-                  + (f'\n<link rel="stylesheet" href="{asset("assets/reviewer.css", prefix)}">' if book.get('review') else ''))]
+                  + (f'\n<link rel="stylesheet" href="{asset("assets/reviewer.css", prefix)}">' if book.get('review') else '')
+                  + (f'\n<link rel="stylesheet" href="{asset(book["contentsStylesheet"], prefix)}">' if book.get('contentsStylesheet') else ''))]
     parts.append(f'<script type="application/ld+json">{json.dumps(jsonld, ensure_ascii=False)}</script>\n')
     parts.append(f'<script type="application/json" id="book-data">{json.dumps(data, ensure_ascii=False)}</script>\n')
     if book.get('review'):  # part of the page, so the Review button responds immediately (runs before reader.js)
@@ -459,13 +450,12 @@ def render_reader(book, library, content, views, prefix, site):
         side.append(f'<nav class="volume-switch" aria-label="Volumes"><span class="side-heading">{both({"en": "Volume", "ar": "المجلد", "fr": "Tome"}, langs)}</span><ol>{items}</ol></nav>')
     side.append(f'<h2 class="side-heading" id="toc-heading">{both(UI["contents"], langs)}</h2>')
     total_items = sum(len(v) for v in book['nav'].values()) / max(1, len(book['nav']))
+    contents, reviewed = reader_contents(book)
     for l in langs:
-        entries = book['nav'][l]
-        if book.get('series', {}).get('work') == 'four-journeys':
-            entries = four_journeys_nav(entries, l, book['series']['volume'])
-        tree = nav_tree(entries)
+        tree = nav_tree(contents[l])
         rtl = f' lang="{l}" dir="{"rtl" if l == "ar" else "ltr"}"'
-        side.append(f'<nav class="toc" data-l="{l}"{rtl} aria-labelledby="toc-heading">{render_toc(tree, l, total_items > 40, [0])}</nav>')
+        cls = 'toc toc-reviewed' if reviewed else 'toc'
+        side.append(f'<nav class="{cls}" data-l="{l}"{rtl} aria-labelledby="toc-heading">{render_toc(tree, l, total_items > 40, [0])}</nav>')
     dl = []
     for l in langs:
         f = book['downloads'].get(l)

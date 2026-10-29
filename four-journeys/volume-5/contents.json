@@ -1,0 +1,1240 @@
+{
+  "version": 1,
+  "initiallyCollapsed": true,
+  "languages": {
+    "en": {
+      "sourceHash": "27700a417a3ce874785928b4470f7a560f65aa958aa42a075738b05320e8121c",
+      "entries": [
+        {
+          "id": "passage-en-00004",
+          "level": 1,
+          "kind": "opening",
+          "label": "Opening pages"
+        },
+        {
+          "id": "passage-en-00076",
+          "level": 1,
+          "kind": "division",
+          "label": "Part One: Physical bodies as substances",
+          "expanded": false
+        },
+        {
+          "id": "passage-en-00077",
+          "level": 2,
+          "kind": "section",
+          "label": "Introduction: The Nature of the Natural Body"
+        },
+        {
+          "id": "passage-en-00093",
+          "level": 3,
+          "kind": "section",
+          "label": "A Closer Examination"
+        },
+        {
+          "id": "passage-en-00106",
+          "level": 3,
+          "kind": "section",
+          "label": "A Further Point"
+        },
+        {
+          "id": "passage-en-00119",
+          "level": 3,
+          "kind": "section",
+          "label": "A Difficulty and Its Solution"
+        },
+        {
+          "id": "passage-en-00134",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. Different Views on Bodily Substance and How It Exists"
+        },
+        {
+          "id": "passage-en-00143",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Discussion and a Further Point"
+        },
+        {
+          "id": "passage-en-00148",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. The Continuity That Makes Body What It Is"
+        },
+        {
+          "id": "passage-en-00168",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. How all extensions and continuities depend on continuous substance"
+        },
+        {
+          "id": "passage-en-00174",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. The different ways of dividing magnitude into parts"
+        },
+        {
+          "id": "passage-en-00184",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. Proving that body is one continuous thing, and how this reveals the nature of bodily form"
+        },
+        {
+          "id": "passage-en-00205",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A Difficulty and Its Answer"
+        },
+        {
+          "id": "passage-en-00238",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VI. A point that disproves al-Nazzam’s view"
+        },
+        {
+          "id": "passage-en-00252",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VII. Problems that follow from denying that bodies are continuous"
+        },
+        {
+          "id": "passage-en-00263",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VIII. The atomists’ objections and what lies behind them"
+        },
+        {
+          "id": "passage-en-00308",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Further Discussion and Clarification"
+        },
+        {
+          "id": "passage-en-00319",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IX. Why a body can always be divided by separation"
+        },
+        {
+          "id": "passage-en-00345",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Another Summary"
+        },
+        {
+          "id": "passage-en-00356",
+          "level": 3,
+          "kind": "section",
+          "label": "2. Discussion and Clarification"
+        },
+        {
+          "id": "passage-en-00360",
+          "level": 1,
+          "kind": "division",
+          "label": "Part Two: Matter"
+        },
+        {
+          "id": "passage-en-00361",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. What We Mean by Matter, and Why It Must Exist"
+        },
+        {
+          "id": "passage-en-00377",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. How the Aristotelians Understand Matter"
+        },
+        {
+          "id": "passage-en-00405",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. Proving the Existence of Prime Matter"
+        },
+        {
+          "id": "passage-en-00413",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Discussion and Clarification"
+        },
+        {
+          "id": "passage-en-00418",
+          "level": 3,
+          "kind": "section",
+          "label": "2. Another Discussion"
+        },
+        {
+          "id": "passage-en-00422",
+          "level": 3,
+          "kind": "section",
+          "label": "3. Another Discussion"
+        },
+        {
+          "id": "passage-en-00448",
+          "level": 3,
+          "kind": "section",
+          "label": "4. Summary"
+        },
+        {
+          "id": "passage-en-00454",
+          "level": 3,
+          "kind": "section",
+          "label": "5. Another Discussion"
+        },
+        {
+          "id": "passage-en-00484",
+          "level": 3,
+          "kind": "section",
+          "label": "6. Another Discussion with Him"
+        },
+        {
+          "id": "passage-en-00492",
+          "level": 3,
+          "kind": "section",
+          "label": "7. Another Discussion"
+        },
+        {
+          "id": "passage-en-00499",
+          "level": 3,
+          "kind": "section",
+          "label": "8. Discussion and Clarification"
+        },
+        {
+          "id": "passage-en-00507",
+          "level": 3,
+          "kind": "section",
+          "label": "9. A Deeper Conclusion"
+        },
+        {
+          "id": "passage-en-00517",
+          "level": 3,
+          "kind": "section",
+          "label": "10. Another Discussion"
+        },
+        {
+          "id": "passage-en-00527",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. Another Argument for the Existence of Prime Matter"
+        },
+        {
+          "id": "passage-en-00538",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A Deeper Conclusion"
+        },
+        {
+          "id": "passage-en-00565",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. Another Argument for the Same Point"
+        },
+        {
+          "id": "passage-en-00572",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VI. A Further Argument, Called “the Proof of the Most Particular”"
+        },
+        {
+          "id": "passage-en-00574",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Discussion"
+        },
+        {
+          "id": "passage-en-00579",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VII. Another Argument from the Eastern Investigations"
+        },
+        {
+          "id": "passage-en-00596",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Addendum"
+        },
+        {
+          "id": "passage-en-00600",
+          "level": 1,
+          "kind": "division",
+          "label": "Part Three: Matter and form"
+        },
+        {
+          "id": "passage-en-00601",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. Bodily Nature Cannot Exist Without Matter"
+        },
+        {
+          "id": "passage-en-00618",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Discussion"
+        },
+        {
+          "id": "passage-en-00621",
+          "level": 3,
+          "kind": "section",
+          "label": "2. A Heavenly Insight"
+        },
+        {
+          "id": "passage-en-00624",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. General Conclusions About This Question"
+        },
+        {
+          "id": "passage-en-00631",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. Why Bodily Matter Cannot Exist Without Any Form"
+        },
+        {
+          "id": "passage-en-00657",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. How Matter and Form Depend on Each Other, and Why Form Comes First"
+        },
+        {
+          "id": "passage-en-00678",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. How an Effect Can Exist Alongside Its Cause"
+        },
+        {
+          "id": "passage-en-00682",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VI. How One General Nature Can Cause One Particular Thing"
+        },
+        {
+          "id": "passage-en-00691",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Discussion"
+        },
+        {
+          "id": "passage-en-00695",
+          "level": 3,
+          "kind": "section",
+          "label": "2. Discussion and Resolution"
+        },
+        {
+          "id": "passage-en-00701",
+          "level": 3,
+          "kind": "section",
+          "label": "3. Addendum"
+        },
+        {
+          "id": "passage-en-00705",
+          "level": 1,
+          "kind": "division",
+          "label": "Part Four: The natures of physical bodies"
+        },
+        {
+          "id": "passage-en-00706",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. What the Term Means"
+        },
+        {
+          "id": "passage-en-00709",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. Proving It from Its Role as the Source of Movement and Effects"
+        },
+        {
+          "id": "passage-en-00744",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. Another Route to Proving Natural Forms: They Make Matter What It Is"
+        },
+        {
+          "id": "passage-en-00758",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A Conclusion from the Throne"
+        },
+        {
+          "id": "passage-en-00764",
+          "level": 3,
+          "kind": "section",
+          "label": "2. A Rule from the Throne"
+        },
+        {
+          "id": "passage-en-00767",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. A Third Method for Showing That the Specific Form Is a Substance"
+        },
+        {
+          "id": "passage-en-00771",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Another Discussion"
+        },
+        {
+          "id": "passage-en-00777",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. A Fourth Method for the Same Point"
+        },
+        {
+          "id": "passage-en-00784",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VI. Answering the Objection to the Last Two Arguments"
+        },
+        {
+          "id": "passage-en-00804",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A Conclusion from the Throne"
+        },
+        {
+          "id": "passage-en-00809",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VII. The Natural Form Does Not Give Body Its Existence by Taking Turns with Other Forms"
+        },
+        {
+          "id": "passage-en-00814",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A Consequence"
+        },
+        {
+          "id": "passage-en-00817",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VIII. The Natural Form Exists at a Higher Level Than Bodily Form"
+        },
+        {
+          "id": "passage-en-00827",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IX. Natural Forms and Bodily Powers Do Not Exist Only at the Edges of Bodies"
+        },
+        {
+          "id": "passage-en-00831",
+          "level": 3,
+          "kind": "section",
+          "label": "1. An Insight from the Throne"
+        },
+        {
+          "id": "passage-en-00841",
+          "level": 2,
+          "kind": "chapter",
+          "label": "X. How Natural Things Exist"
+        },
+        {
+          "id": "passage-en-00848",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XI. The First Forms, Those That Follow, and How Perishable Things Persist"
+        },
+        {
+          "id": "passage-en-00854",
+          "level": 1,
+          "kind": "division",
+          "label": "Part Five: Change and passing away"
+        },
+        {
+          "id": "passage-en-00856",
+          "level": 2,
+          "kind": "section",
+          "label": "Stage Four: What things can become, what they already are, motion, and rest"
+        },
+        {
+          "id": "passage-en-00860",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. A Hint from the Throne"
+        },
+        {
+          "id": "passage-en-00865",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Another Secret"
+        },
+        {
+          "id": "passage-en-00869",
+          "level": 3,
+          "kind": "section",
+          "label": "2. Another Secret"
+        },
+        {
+          "id": "passage-en-00875",
+          "level": 3,
+          "kind": "section",
+          "label": "3. An Objection and an Explanation"
+        },
+        {
+          "id": "passage-en-00881",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. Every Moving Thing, Whether Body, Nature, or Soul, Will Pass Away; Everything Perishes Except His Face"
+        },
+        {
+          "id": "passage-en-00897",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A Hint from the East"
+        },
+        {
+          "id": "passage-en-00901",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. Prophets and Philosophers Agree That the World Began"
+        },
+        {
+          "id": "passage-en-00956",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A Report with a Lesson"
+        },
+        {
+          "id": "passage-en-01002",
+          "level": 3,
+          "kind": "section",
+          "label": "2. An Explanation and a Reminder"
+        },
+        {
+          "id": "passage-en-01013",
+          "level": 3,
+          "kind": "section",
+          "label": "3. An Objection and an Explanation"
+        },
+        {
+          "id": "passage-en-01025",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. Other Philosophers on the World’s Beginning and the Passing Away of Heaven and Earth"
+        },
+        {
+          "id": "passage-en-01060",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. Sayings of Muslim Mystics on Nature’s Renewal and the Passing Away of the World"
+        },
+        {
+          "id": "passage-en-01066",
+          "level": 1,
+          "kind": "division",
+          "label": "Part Six: Principles and causes in nature"
+        },
+        {
+          "id": "passage-en-01068",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. What Is Nature?"
+        },
+        {
+          "id": "passage-en-01084",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A Further Point"
+        },
+        {
+          "id": "passage-en-01088",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. Nature’s Relation to Form and Soul Above It, and to Matter, Motion, and Accidents Below It"
+        },
+        {
+          "id": "passage-en-01115",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Eastern Wisdom"
+        },
+        {
+          "id": "passage-en-01124",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. Nature’s Own Action, Whether Universal or Particular, Aims at Good, Not Evil"
+        },
+        {
+          "id": "passage-en-01133",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. The Subject and Principles of Natural Science"
+        },
+        {
+          "id": "passage-en-01145",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. Principles That Natural Science Takes as Given"
+        },
+        {
+          "id": "passage-en-01172",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VI. How Matter, Form, and the Absence of a Form Can Be Shared"
+        },
+        {
+          "id": "passage-en-01191",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VII. Which Causes Should Matter Most in Natural Science?"
+        },
+        {
+          "id": "passage-en-01203",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VIII. How Matter and Form Make Up a Natural Body"
+        },
+        {
+          "id": "passage-en-01242",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IX. Answering Doubts About the Union of Form and Matter"
+        },
+        {
+          "id": "passage-en-01272",
+          "level": 2,
+          "kind": "chapter",
+          "label": "X. More on the Union of Matter and Form: Objections and Replies"
+        },
+        {
+          "id": "passage-en-01294",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XI. More on the Causes of Changing Natural Things"
+        },
+        {
+          "id": "passage-en-01316",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XII. How These Principles Relate to One Another"
+        },
+        {
+          "id": "passage-en-01327",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIII. How Causes Enter Our Questions and Proofs"
+        },
+        {
+          "id": "passage-en-01337",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIV. What Is Mixture, and How Does It Come to Be?"
+        },
+        {
+          "id": "passage-en-01373",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Report"
+        },
+        {
+          "id": "passage-en-01375",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XV. What Avicenna Says Here, and the Reply"
+        },
+        {
+          "id": "passage-en-01385",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XVI. Further Reflections, and Replies to Objections to Our View"
+        },
+        {
+          "id": "passage-en-01399",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XVII. This View May Not Be New"
+        },
+        {
+          "id": "passage-en-01415",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XVIII. How Natural Beings Rise toward Perfection"
+        },
+        {
+          "id": "en-notes-head",
+          "level": 1,
+          "kind": "notes"
+        }
+      ]
+    },
+    "ar": {
+      "sourceHash": "bad599ea95308c6a40b1b66a4147cc9fcd89279d994ba481cf706306b879d61f",
+      "entries": [
+        {
+          "id": "passage-ar-00005",
+          "level": 1,
+          "kind": "opening",
+          "label": "الصفحات الافتتاحية"
+        },
+        {
+          "id": "passage-ar-00076",
+          "level": 1,
+          "kind": "division",
+          "label": "الفن الأول: في تجوهر الأجسام الطبيعية",
+          "expanded": false
+        },
+        {
+          "id": "passage-ar-00085",
+          "level": 2,
+          "kind": "section",
+          "label": "بحث وتحقيق"
+        },
+        {
+          "id": "passage-ar-00106",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في ذكر اختلاف الناس في تحقق الجوهر الجسماني ونحو وجوده الذي يخصه"
+        },
+        {
+          "id": "passage-ar-00109",
+          "level": 3,
+          "kind": "section",
+          "label": "١. بحث وإشارة"
+        },
+        {
+          "id": "passage-ar-00112",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في شرح الاتصال المقوم للجوهر الجسماني وما يلزمه و يتوارد عليه آحاده مع بقاء الأول"
+        },
+        {
+          "id": "passage-ar-00122",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في أن جميع الامتدادات والاتصالات مما يستصح وجودها بالجوهر المتصل"
+        },
+        {
+          "id": "passage-ar-00126",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في أنحاء التقسيم إلى الاجزاء المقدارية"
+        },
+        {
+          "id": "passage-ar-00129",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في اثبات المتصل الوحداني لينكشف به نحو وجود الصورة الجسمية"
+        },
+        {
+          "id": "passage-ar-00140",
+          "level": 3,
+          "kind": "section",
+          "label": "١. عقده وحل"
+        },
+        {
+          "id": "passage-ar-00158",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٦. في ذكر ما يختص بابطال مذهب النظام المعتزلي"
+        },
+        {
+          "id": "passage-ar-00165",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٧. في الإشارة إلى مفاسد مترتبة على نفى الاتصال في الجسم"
+        },
+        {
+          "id": "passage-ar-00172",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٨. في تقرير شبه المثبتين للجزء ومبنى خيالاتهم وكشف الغشاوة عن وجه المقصود بإزالتها"
+        },
+        {
+          "id": "passage-ar-00195",
+          "level": 3,
+          "kind": "section",
+          "label": "١. بحث وتتميم"
+        },
+        {
+          "id": "passage-ar-00201",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٩. في أن قبول القسمة الانفكاكية ثابته إلى غير النهاية"
+        },
+        {
+          "id": "passage-ar-00214",
+          "level": 3,
+          "kind": "section",
+          "label": "١. مخلص آخر"
+        },
+        {
+          "id": "passage-ar-00219",
+          "level": 3,
+          "kind": "section",
+          "label": "٢. بحث وكشف"
+        },
+        {
+          "id": "passage-ar-00222",
+          "level": 1,
+          "kind": "division",
+          "label": "الفن الثاني: في البحث عن حال الهيولى"
+        },
+        {
+          "id": "passage-ar-00223",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في الإشارة إلى مهية الهيولى من جهة مفهوم الاسم واثبات"
+        },
+        {
+          "id": "passage-ar-00235",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في الإشارة إلى مهية الهيولى عند المحصلين من المشائين"
+        },
+        {
+          "id": "passage-ar-00251",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في اثبات الجوهر الهيولاني"
+        },
+        {
+          "id": "passage-ar-00259",
+          "level": 3,
+          "kind": "section",
+          "label": "١. بحث آخر"
+        },
+        {
+          "id": "passage-ar-00262",
+          "level": 3,
+          "kind": "section",
+          "label": "٢. بحث آخر"
+        },
+        {
+          "id": "passage-ar-00278",
+          "level": 3,
+          "kind": "section",
+          "label": "٣. مخلص عرشي"
+        },
+        {
+          "id": "passage-ar-00283",
+          "level": 3,
+          "kind": "section",
+          "label": "٤. بحث آخر"
+        },
+        {
+          "id": "passage-ar-00303",
+          "level": 3,
+          "kind": "section",
+          "label": "٥. بحث آخر معه"
+        },
+        {
+          "id": "passage-ar-00310",
+          "level": 3,
+          "kind": "section",
+          "label": "٦. بحث آخر على نمط آخر"
+        },
+        {
+          "id": "passage-ar-00315",
+          "level": 3,
+          "kind": "section",
+          "label": "٧. بحث وتعقيب"
+        },
+        {
+          "id": "passage-ar-00320",
+          "level": 3,
+          "kind": "section",
+          "label": "٨. مخلص عرشي"
+        },
+        {
+          "id": "passage-ar-00327",
+          "level": 3,
+          "kind": "section",
+          "label": "٩. بحث آخر على جهة أخرى"
+        },
+        {
+          "id": "passage-ar-00332",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في ذكر منهج آخر للفلاسفة لاثبات حقيقة الهيولى ونحو وجودها الذي يخصها"
+        },
+        {
+          "id": "passage-ar-00338",
+          "level": 3,
+          "kind": "section",
+          "label": "١. مخلص عرشي"
+        },
+        {
+          "id": "passage-ar-00356",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في الإشارة إلى منهج آخر لهذا المرام"
+        },
+        {
+          "id": "passage-ar-00361",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٦. في ذكر ما تجشمه بعض المتأخرين من أهل التحقيق لهذا المطلب و سماه برهان خاص الخاص"
+        },
+        {
+          "id": "passage-ar-00363",
+          "level": 3,
+          "kind": "section",
+          "label": "١. بحث وإشارة"
+        },
+        {
+          "id": "passage-ar-00367",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٧. في حجه أخرى أفادها صاحب المباحث المشرقية"
+        },
+        {
+          "id": "passage-ar-00379",
+          "level": 3,
+          "kind": "section",
+          "label": "١. تتميم"
+        },
+        {
+          "id": "passage-ar-00382",
+          "level": 1,
+          "kind": "division",
+          "label": "الفن الثالث: في تصاحب الهيولى والصورة"
+        },
+        {
+          "id": "passage-ar-00383",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في أن الجسمية من حيث هي لا تنفك عن الهيولى"
+        },
+        {
+          "id": "passage-ar-00397",
+          "level": 3,
+          "kind": "section",
+          "label": "١. تحقيق وبحث"
+        },
+        {
+          "id": "passage-ar-00399",
+          "level": 3,
+          "kind": "section",
+          "label": "٢. مخلص عرشي"
+        },
+        {
+          "id": "passage-ar-00402",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في ذكر احكام كليه متعلقه بهذا المقام"
+        },
+        {
+          "id": "passage-ar-00407",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في استحالة تعرى الهيولى الجسمية عن مطلق الصورة"
+        },
+        {
+          "id": "passage-ar-00421",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في كيفية التلازم بين الهيولى والصورة ليظهر نحو وجود كل"
+        },
+        {
+          "id": "passage-ar-00436",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في تجويز كون المعلول مقارنا للعلة"
+        },
+        {
+          "id": "passage-ar-00439",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٦. في كيفية كون الشئ الواحد بالعموم علة لشئ واحد بالعدد بوجه خاص"
+        },
+        {
+          "id": "passage-ar-00446",
+          "level": 3,
+          "kind": "section",
+          "label": "١. بحث وتحصيل"
+        },
+        {
+          "id": "passage-ar-00448",
+          "level": 3,
+          "kind": "section",
+          "label": "٢. بحث وتحصيل"
+        },
+        {
+          "id": "passage-ar-00451",
+          "level": 3,
+          "kind": "section",
+          "label": "٣. تذنيب"
+        },
+        {
+          "id": "passage-ar-00454",
+          "level": 1,
+          "kind": "division",
+          "label": "الفن الرابع: في اثبات الطبائع الخاصة للأجسام"
+        },
+        {
+          "id": "passage-ar-00455",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في الإشارة إلى معناها"
+        },
+        {
+          "id": "passage-ar-00457",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في اثباتها من جهة مبدئيتها للحركات والآثار"
+        },
+        {
+          "id": "passage-ar-00476",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في اثبات الصور الطبيعية من منهج آخر وهو كونها مقومه للمادة"
+        },
+        {
+          "id": "passage-ar-00483",
+          "level": 3,
+          "kind": "section",
+          "label": "١. مخلص عرشي"
+        },
+        {
+          "id": "passage-ar-00490",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في ايراد منهج ثالث لاثبات جوهرية الصورة النوعية"
+        },
+        {
+          "id": "passage-ar-00493",
+          "level": 3,
+          "kind": "section",
+          "label": "١. بحث آخر"
+        },
+        {
+          "id": "passage-ar-00497",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في ايراد منهج رابع في هذا المرام"
+        },
+        {
+          "id": "passage-ar-00502",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٦. في دفع المناقضة التي ذكرت على الاستدلال بالمنهجين الأخيرين"
+        },
+        {
+          "id": "passage-ar-00519",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٧. في أن تقويم الصورة الطبيعية للجسمية ليس على سبيل البدل"
+        },
+        {
+          "id": "passage-ar-00522",
+          "level": 3,
+          "kind": "section",
+          "label": "١. تفريع"
+        },
+        {
+          "id": "passage-ar-00524",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٨. في أن مرتبه وجود الصورة الطبيعية متقدمة على مرتبه وجود الصورة الجسمية"
+        },
+        {
+          "id": "passage-ar-00532",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٩. في أن وجود الصور الطبيعية والقوى الجسمانية ليست في أطراف ونهايات للأجرام"
+        },
+        {
+          "id": "passage-ar-00541",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٠. في الإشارة إلى نحو وجود الأشياء الكائنات"
+        },
+        {
+          "id": "passage-ar-00545",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١١. في الإشارة إلى الصور الأول وما بعدها والى نحو بقاء الفاسدات"
+        },
+        {
+          "id": "passage-ar-00549",
+          "level": 1,
+          "kind": "division",
+          "label": "الفن الخامس: في أن نحو وجود الأجسام الطبيعية ليس الا على سبيل التجدد والانقضاء"
+        },
+        {
+          "id": "passage-ar-00551",
+          "level": 2,
+          "kind": "section",
+          "label": "المرحلة الرابعة: التي في مباحث القوة والفعل وأحكامهما واحكام حركه والسكون"
+        },
+        {
+          "id": "passage-ar-00554",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. فيه لامعة عرشية"
+        },
+        {
+          "id": "passage-ar-00557",
+          "level": 3,
+          "kind": "section",
+          "label": "١. سر آخر"
+        },
+        {
+          "id": "passage-ar-00560",
+          "level": 3,
+          "kind": "section",
+          "label": "٢. سر آخر"
+        },
+        {
+          "id": "passage-ar-00569",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في اثبات ان كل متحرك جسما كان أو طبيعة أو نفسا سيؤول إلى فناء بل كل شئ هالك الا وجهه كما نطق به القرآن ووافقه البرهان"
+        },
+        {
+          "id": "passage-ar-00582",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في أن القول بحدوث العالم مجمع عليه بين الأنبياء ع والحكماء"
+        },
+        {
+          "id": "passage-ar-00640",
+          "level": 3,
+          "kind": "section",
+          "label": "١. تفسير وتذكره"
+        },
+        {
+          "id": "passage-ar-00654",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في ذكر اعتقادات الفلاسفة الذين هم غير هؤلاء الأصول الأعلون في حدوث العالم وخرابه وبوار السماوات والأرضين"
+        },
+        {
+          "id": "passage-ar-00684",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في نبذ من كلام أئمة الكشف والشهود من أهل هذه الملة البيضاء في تجدد الطبيعة الجرمية الذي هو ملاك الامر في دثور العالم وزواله"
+        },
+        {
+          "id": "passage-ar-00690",
+          "level": 1,
+          "kind": "division",
+          "label": "الفن السادس: من علم الجواهر في المبادئ والأسباب للطبيعيات"
+        },
+        {
+          "id": "passage-ar-00692",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في تعريف الطبيعة"
+        },
+        {
+          "id": "passage-ar-00705",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في نسبه الطبيعة إلى ما فوقها من الصورة والنفس والى ما تحتها من المادة وحركه والاعراض"
+        },
+        {
+          "id": "passage-ar-00725",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في أن فعل الطبيعة بالذات سواء كانت كليه أو جزئيه ليس الا الخير والصلاح لا الشر والفساد"
+        },
+        {
+          "id": "passage-ar-00727",
+          "level": 3,
+          "kind": "section",
+          "label": "١. بحث من وجوه"
+        },
+        {
+          "id": "passage-ar-00731",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في موضوع العلم الطبيعي ومباديه"
+        },
+        {
+          "id": "passage-ar-00739",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في تعديد المبادئ التي للطبيعيين ان يأخذوها على سبيل المصادرة والوضع"
+        },
+        {
+          "id": "passage-ar-00754",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٦. في كيفية كون هذه المبادئ المقارنة أعني المادة والصورة والعدم مشتركة"
+        },
+        {
+          "id": "passage-ar-00768",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٧. في أن أي العلل ينبغي ان يكون أشد مطلبا واهتماما للطبيعيين"
+        },
+        {
+          "id": "passage-ar-00777",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٨. في معرفه كيفية تركب الجسم الطبيعي عن مادته وصورته"
+        },
+        {
+          "id": "passage-ar-00803",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٩. في حل شكوك تتوهم ورودها على القول بالاتحاد بين الصور والمواد"
+        },
+        {
+          "id": "passage-ar-00824",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٠. في تتمه القول في الاتحاد بين المادة والصورة جرحا وتعديلا"
+        },
+        {
+          "id": "passage-ar-00840",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١١. في تتمه القول في أحوال العلل من حيث كونها مبادئ للمتغيرات والطبيعيات"
+        },
+        {
+          "id": "passage-ar-00854",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٢. في تعيين المناسبات بين هذه المبادئ"
+        },
+        {
+          "id": "passage-ar-00861",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٣. في كيفية دخول العلل في المباحث والأفكار وطلب اللمية والجواب عنها"
+        },
+        {
+          "id": "passage-ar-00867",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٤. في تحقيق مهية المزاج وآنيته"
+        },
+        {
+          "id": "passage-ar-00890",
+          "level": 3,
+          "kind": "section",
+          "label": "١. تقرير"
+        },
+        {
+          "id": "passage-ar-00892",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٥. فيما ذكره الشيخ في هذا المقام ودفعه"
+        },
+        {
+          "id": "passage-ar-00898",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٦. في تتمه الاستبصار ودفع ما يمكن ايراده على المذهب المختار"
+        },
+        {
+          "id": "passage-ar-00907",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٧. في أن هذا المذهب أي عدم بقاء صور العناصر في المواليد يشبه ان يكون غير مستحدث"
+        },
+        {
+          "id": "passage-ar-00915",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٨. في بيان ان الموجودات الطبيعية متفاوتة في الفضيلة والشرف وان المواد الجسمية متهيئة لقبول الفيض الوجودي على التدريج فكان هيهنا طبيعة واحده شخصية متوجهه نحو الكمال سائره إلى عالم القدس مترقية من أدنى المنازل إلى ارفعها"
+        },
+        {
+          "id": "ar-notes-head",
+          "level": 1,
+          "kind": "notes"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,712 @@
+{
+  "version": 1,
+  "initiallyCollapsed": true,
+  "languages": {
+    "en": {
+      "sourceHash": "12bed6f48b46fcede67595c49cc9fb4b4d09c60e094b3934825b29d0f89132f6",
+      "entries": [
+        {
+          "id": "passage-en-00004",
+          "level": 1,
+          "kind": "opening",
+          "label": "Opening pages"
+        },
+        {
+          "id": "passage-en-00063",
+          "level": 2,
+          "kind": "section",
+          "label": "Third Journey: Knowledge of God"
+        },
+        {
+          "id": "passage-en-00086",
+          "level": 3,
+          "kind": "section",
+          "label": "Part One: God’s nature and attributes"
+        },
+        {
+          "id": "passage-en-00087",
+          "level": 1,
+          "kind": "division",
+          "label": "Station One: The Necessary Being",
+          "expanded": false
+        },
+        {
+          "id": "passage-en-00088",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. Establishing God's Existence and Coming to Know Him"
+        },
+        {
+          "id": "passage-en-00108",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. Other Paths to This Great Goal"
+        },
+        {
+          "id": "passage-en-00133",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. A Persian Proof, and Its Flaws"
+        },
+        {
+          "id": "passage-en-00143",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. Other Arguments That Do Not Hold Up"
+        },
+        {
+          "id": "passage-en-00161",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. Why God's Existence Is Not Separate from What He Is"
+        },
+        {
+          "id": "passage-en-00178",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VI. God's Oneness: He Has No Partner in Necessary Existence"
+        },
+        {
+          "id": "passage-en-00194",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VII. A Later Thinker’s Proof of Oneness, and Its Problems"
+        },
+        {
+          "id": "passage-en-00254",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VIII. The Necessary Being Has No Partner in Divinity: The World Has One God"
+        },
+        {
+          "id": "passage-en-00267",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IX. God Is Not Made of Parts, Either in Reality or in Thought"
+        },
+        {
+          "id": "passage-en-00280",
+          "level": 2,
+          "kind": "chapter",
+          "label": "X. God Cannot Be Divided into Different Kinds"
+        },
+        {
+          "id": "passage-en-00285",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XI. No Concept Makes God One of Several Beings"
+        },
+        {
+          "id": "passage-en-00291",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XII. God Is the Fullness of All Things, and All Things Return to Him"
+        },
+        {
+          "id": "passage-en-00304",
+          "level": 1,
+          "kind": "division",
+          "label": "Station Two: God’s attributes"
+        },
+        {
+          "id": "passage-en-00305",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. The Kinds of Attributes"
+        },
+        {
+          "id": "passage-en-00313",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. Four Ways of Describing Qualities, and Which Can Truly Be Said of God"
+        },
+        {
+          "id": "passage-en-00317",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A Higher Insight"
+        },
+        {
+          "id": "passage-en-00320",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. The Later Thinkers’ Argument That God’s Attributes Are Not Separate from What He Is"
+        },
+        {
+          "id": "passage-en-00327",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Several Objections"
+        },
+        {
+          "id": "passage-en-00341",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. Why God's Perfections Are Not Separate from What He Is"
+        },
+        {
+          "id": "passage-en-00360",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A Further Explanation"
+        },
+        {
+          "id": "passage-en-00365",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. How God's Qualities Are One Reality Though Their Meanings Differ"
+        },
+        {
+          "id": "passage-en-00371",
+          "level": 1,
+          "kind": "division",
+          "label": "Station Three: God’s Knowledge"
+        },
+        {
+          "id": "passage-en-00372",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. Foundations for This Inquiry"
+        },
+        {
+          "id": "passage-en-00405",
+          "level": 3,
+          "kind": "section",
+          "label": "1. An Objection and a Clarification"
+        },
+        {
+          "id": "passage-en-00417",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. Proving That God Knows Himself"
+        },
+        {
+          "id": "passage-en-00422",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. God's Knowledge of Everything Other Than Himself"
+        },
+        {
+          "id": "passage-en-00430",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. A Survey of Views on God's Knowledge of Things"
+        },
+        {
+          "id": "passage-en-00436",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. Examining the Muʿtazilite View and a View Attributed to the Sufis"
+        },
+        {
+          "id": "passage-en-00445",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VI. Plato’s Forms Apart from Matter, and the View Attributed to Porphyry"
+        },
+        {
+          "id": "passage-en-00449",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VII. The View That Forms of Things Are Present in God's Essence"
+        },
+        {
+          "id": "passage-en-00564",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VIII. The True Account, and Problems with the View That Forms Are Imprinted in God's Essence"
+        },
+        {
+          "id": "passage-en-00581",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IX. The View That God's Knowledge of All Things Is One"
+        },
+        {
+          "id": "passage-en-00596",
+          "level": 2,
+          "kind": "chapter",
+          "label": "X. Untitled chapter"
+        },
+        {
+          "id": "passage-en-00605",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XI. The View That God Knows Things Through the Light That Reveals Them"
+        },
+        {
+          "id": "passage-en-00622",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XII. The Clear Truth About God's Knowledge Before All Things"
+        },
+        {
+          "id": "passage-en-00669",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIII. The Levels of God's Knowledge of Things"
+        },
+        {
+          "id": "passage-en-00703",
+          "level": 1,
+          "kind": "division",
+          "label": "Station Four: God’s power"
+        },
+        {
+          "id": "passage-en-00704",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. What “power” means"
+        },
+        {
+          "id": "passage-en-00717",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. Our power is an ability we may exercise; God’s power is always fully realized"
+        },
+        {
+          "id": "passage-en-00737",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. Answering an objection"
+        },
+        {
+          "id": "passage-en-00743",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. Another reason one will cannot choose either side of every possibility"
+        },
+        {
+          "id": "passage-en-00748",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. The theologians' views on what makes God will the world's creation"
+        },
+        {
+          "id": "passage-en-00756",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VI. Clearing up some misunderstandings"
+        },
+        {
+          "id": "passage-en-00776",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VII. What will and aversion mean"
+        },
+        {
+          "id": "passage-en-00795",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VIII. Answering objections about God's will"
+        },
+        {
+          "id": "passage-en-00820",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IX. Further support from reports of the Imams"
+        },
+        {
+          "id": "passage-en-00855",
+          "level": 2,
+          "kind": "chapter",
+          "label": "X. God's wisdom, care, guidance, and generosity"
+        },
+        {
+          "id": "passage-en-00859",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XI. His will extends to all actions"
+        },
+        {
+          "id": "passage-en-00881",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XII. Answering the remaining objections to eternal will, and some objections to created will"
+        },
+        {
+          "id": "passage-en-00924",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIII. How to understand scriptural references to God’s hesitation and testing, and to a change in what is decreed"
+        },
+        {
+          "id": "passage-en-00941",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIV. A fuller account of answered prayers and how to resolve the objection"
+        },
+        {
+          "id": "passage-en-00967",
+          "level": 1,
+          "kind": "division",
+          "label": "Station Five: God is living"
+        },
+        {
+          "id": "passage-en-00991",
+          "level": 1,
+          "kind": "division",
+          "label": "Station Six: God hears and sees"
+        },
+        {
+          "id": "passage-en-00997",
+          "level": 2,
+          "kind": "section",
+          "label": "A Throne-like clarification"
+        },
+        {
+          "id": "en-notes-head",
+          "level": 1,
+          "kind": "notes"
+        }
+      ]
+    },
+    "ar": {
+      "sourceHash": "f2b9998caa52d83c405b1c4d841719749673097c9dff7b3f2705aa050ecf481a",
+      "entries": [
+        {
+          "id": "passage-ar-00005",
+          "level": 1,
+          "kind": "opening",
+          "label": "الصفحات الافتتاحية"
+        },
+        {
+          "id": "passage-ar-00064",
+          "level": 2,
+          "kind": "section",
+          "label": "السفر الثالث: في العلم الإلهي"
+        },
+        {
+          "id": "passage-ar-00074",
+          "level": 3,
+          "kind": "section",
+          "label": "الفن الأول: فيما يتعلق بأحوال المبدء وصفاته وفيه مواقف"
+        },
+        {
+          "id": "passage-ar-00075",
+          "level": 1,
+          "kind": "division",
+          "label": "الموقف الأول: في الإشارة إلى واجب الوجود",
+          "expanded": false
+        },
+        {
+          "id": "passage-ar-00076",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في اثبات وجوده والوصول إلى معرفه ذاته"
+        },
+        {
+          "id": "passage-ar-00091",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في الإشارة إلى مناهج أخرى للوصول إلى هذه الوجهة الكبرى"
+        },
+        {
+          "id": "passage-ar-00106",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في الإشارة إلى وجوه من الدلائل ذكرها بعض المحققين من أهل فارس وظن أنها برهانية والى ما فيها من الاختلال"
+        },
+        {
+          "id": "passage-ar-00111",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في الإشارة إلى طرائق أخرى لا قوام"
+        },
+        {
+          "id": "passage-ar-00117",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في أن واجب الوجود آنيته مهيته"
+        },
+        {
+          "id": "passage-ar-00128",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٦. في توحيده أي انه لا شريك له في وجوب الوجود"
+        },
+        {
+          "id": "passage-ar-00134",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٧. في تعقيب هذا الكلام بذكر ما افاده بعض المحققين وما يرد عليه"
+        },
+        {
+          "id": "passage-ar-00176",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٨. في أن واجب الوجود لا شريك له في الإلهية وان اله العالم واحد"
+        },
+        {
+          "id": "passage-ar-00185",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٩. في أنه تعالى بسيط الحقيقة من كل جهة ليس مؤتلفة الذات من اجزاء وجودية عينية أو ذهنية كالمادة والصورة الخارجيتين أو الذهنيتين ولا من اجزاء حديه حملية ولا من الاجزاء المقدارية"
+        },
+        {
+          "id": "passage-ar-00192",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٠. في أن الواجب الوجود لا فصل لحقيقته المقدسة على أنه مقسم"
+        },
+        {
+          "id": "passage-ar-00194",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١١. في أن واجب الوجود لا مشارك له في أي مفهوم كان"
+        },
+        {
+          "id": "passage-ar-00199",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٢. في أن واجب الوجود تمام الأشياء وكل الموجودات واليه يرجع الأمور كلها"
+        },
+        {
+          "id": "passage-ar-00208",
+          "level": 1,
+          "kind": "division",
+          "label": "الموقف الثاني: في البحث عن صفاته تعالى"
+        },
+        {
+          "id": "passage-ar-00209",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في الإشارة إلى اقسام الصفات"
+        },
+        {
+          "id": "passage-ar-00215",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في قسمه أخرى رباعية للصفات الثبوتية حتى يعلم أن أيتها لائقة للذات الواجبية"
+        },
+        {
+          "id": "passage-ar-00219",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في حال ما ذكره المتأخرون في أن صفاته تعالى يجب ان يكون نفس ذاته"
+        },
+        {
+          "id": "passage-ar-00223",
+          "level": 3,
+          "kind": "section",
+          "label": "١. بحث من وجوه"
+        },
+        {
+          "id": "passage-ar-00231",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في تحقيق القول بعينيه الصفات الكمالية للذات الأحدية"
+        },
+        {
+          "id": "passage-ar-00245",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في ايضاح القول بان صفات الله الحقيقية كلها ذات واحده لكنها مفهومات كثيره"
+        },
+        {
+          "id": "passage-ar-00251",
+          "level": 1,
+          "kind": "division",
+          "label": "الموقف الثالث: في علمه تعالى"
+        },
+        {
+          "id": "passage-ar-00252",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في ذكر أصول ومقدمات ينتفع بها في هذا المطلب"
+        },
+        {
+          "id": "passage-ar-00286",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في اثبات علمه بذاته"
+        },
+        {
+          "id": "passage-ar-00291",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في علمه تعالى بما سواه"
+        },
+        {
+          "id": "passage-ar-00297",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في تفصيل مذاهب الناس في علمه تعالى بالأشياء"
+        },
+        {
+          "id": "passage-ar-00302",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في الإشارة إلى بطلان مذهب الاعتزال ومذهب ينسب إلى أهل التصوف"
+        },
+        {
+          "id": "passage-ar-00309",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٦. في حال ما ذهب إليه الأفلاطونيون القائلون بالمثل العقلية"
+        },
+        {
+          "id": "passage-ar-00312",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٧. في حال القول بارتسام صور الأشياء في ذاته تعالى"
+        },
+        {
+          "id": "passage-ar-00361",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٨. في تحقيق الحق في هذا المقام وفي اظهار ما نجده قادحا في مذهب القائلين بارتسام الصور في ذاته تعالى"
+        },
+        {
+          "id": "passage-ar-00374",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٩. في حال مذهب القائلين بان علمه تعالى بما سواه علم واحد"
+        },
+        {
+          "id": "passage-ar-00385",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٠. فصل بلا عنوان"
+        },
+        {
+          "id": "passage-ar-00390",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١١. في حال مذهب من كان يرى أن علمه تعالى بالأشياء هو بالإضافة الاشراقية"
+        },
+        {
+          "id": "passage-ar-00408",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٢. في ذكر صريح الحق وخالص اليقين ومخ القول في علمه تعالى السابق على كل شئ حتى على الصور العلمية القائمة بذاته التي هي بوجه عين الذات وبوجه غيرها كما بيناه"
+        },
+        {
+          "id": "passage-ar-00441",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٣. في مراتب علمه بالأشياء"
+        },
+        {
+          "id": "passage-ar-00463",
+          "level": 1,
+          "kind": "division",
+          "label": "الموقف الرابع: في قدرته تعالى"
+        },
+        {
+          "id": "passage-ar-00464",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في تفسير معنى القدرة"
+        },
+        {
+          "id": "passage-ar-00471",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في أن القدرة فينا عين القوة والامكان وفي الواجب تعالى عين الفعلية"
+        },
+        {
+          "id": "passage-ar-00482",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في دفع ما ذكره بعض الناس"
+        },
+        {
+          "id": "passage-ar-00487",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في بيان ماخذ آخر في ابطال رأى من زعم أن شان الإرادة الواحدة ان يتعلق باي طرف من طرفي الممكن وباي ممكن من الممكنات"
+        },
+        {
+          "id": "passage-ar-00492",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في حكاية مذهب المتكلمين في المرجح والداعي لإرادة خلق العالم"
+        },
+        {
+          "id": "passage-ar-00498",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٦. في دفع بعض الأوهام عن هذا المقام"
+        },
+        {
+          "id": "passage-ar-00507",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٧. في تفسير الإرادة والكراهة"
+        },
+        {
+          "id": "passage-ar-00523",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٨. في دفع ما أورد على اتحاد هذه الأمور في حقه تعالى وفي كون الإرادة القديمة سببا لايجاد الحادث"
+        },
+        {
+          "id": "passage-ar-00538",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٩. في اعتضاد ما ذكرنا من الفرق بين اراده الله سبحانه وبين إرادتنا من طريق الرواية والنقل"
+        },
+        {
+          "id": "passage-ar-00557",
+          "level": 3,
+          "kind": "section",
+          "label": "١. تتميم وتحصيل"
+        },
+        {
+          "id": "passage-ar-00562",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٠. في حكمته تعالى وعنايته وهدايته وجوده"
+        },
+        {
+          "id": "passage-ar-00565",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١١. في شمول ارادته لجميع الافعال"
+        },
+        {
+          "id": "passage-ar-00579",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٢. في حل بقيه الشبه الواردة على الإرادة القديمة وبعض الشبه الواردة على الإرادة الحادثة"
+        },
+        {
+          "id": "passage-ar-00605",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٣. في تصحيح القول بنسبه التردد والابتلاء وأشباههما إليه كما ورد في الكتاب والسنة وكذا القول بالبداء حسبما نقل من أئمتنا"
+        },
+        {
+          "id": "passage-ar-00615",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٤. في استيناف القول في استجابة الدعوات بوجه تفصيلي ودفع الاشكال المورد فيها"
+        },
+        {
+          "id": "passage-ar-00629",
+          "level": 1,
+          "kind": "division",
+          "label": "الموقف الخامس: في كونه تعالى حيا"
+        },
+        {
+          "id": "passage-ar-00642",
+          "level": 1,
+          "kind": "division",
+          "label": "الموقف السادس: في كونه تعالى سميعا بصيرا"
+        },
+        {
+          "id": "passage-ar-00645",
+          "level": 2,
+          "kind": "section",
+          "label": "ايضاح عرشي"
+        },
+        {
+          "id": "ar-notes-head",
+          "level": 1,
+          "kind": "notes"
+        }
+      ]
+    }
+  }
+}

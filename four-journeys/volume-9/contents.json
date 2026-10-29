@@ -1,0 +1,856 @@
+{
+  "version": 1,
+  "initiallyCollapsed": true,
+  "languages": {
+    "en": {
+      "sourceHash": "d7324087def906d00cf2930c02628eae7285785a17a5a47eed8f27e85c6eb5ab",
+      "entries": [
+        {
+          "id": "passage-en-00004",
+          "level": 1,
+          "kind": "opening",
+          "label": "Opening pages"
+        },
+        {
+          "id": "passage-en-00071",
+          "level": 1,
+          "kind": "division",
+          "label": "Book Eight: The case against souls moving between bodies",
+          "expanded": false
+        },
+        {
+          "id": "passage-en-00072",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. A proof from the highest realm"
+        },
+        {
+          "id": "passage-en-00090",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. Refuting the forms of transmigration and its proponents' arguments"
+        },
+        {
+          "id": "passage-en-00145",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. Addressing the remaining doubts and answering them"
+        },
+        {
+          "id": "passage-en-00192",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. How the soul relates to the body, and the difference between natural death and death from an outside cause"
+        },
+        {
+          "id": "passage-en-00212",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. Every person has one self: the soul itself is the living, perceiving, and thinking being"
+        },
+        {
+          "id": "passage-en-00246",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VI. A weakness in the argument of the author of The Book of Discussions"
+        },
+        {
+          "id": "passage-en-00263",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VII. The body's powers are shadows of the soul's inner powers"
+        },
+        {
+          "id": "passage-en-00279",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VIII. What the soul first connects to"
+        },
+        {
+          "id": "passage-en-00292",
+          "level": 1,
+          "kind": "division",
+          "label": "Book Nine: The human soul’s traits and stages"
+        },
+        {
+          "id": "passage-en-00294",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. The human being's distinctive traits"
+        },
+        {
+          "id": "passage-en-00320",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. The main qualities of the soul and the roots of good and bad character"
+        },
+        {
+          "id": "passage-en-00331",
+          "level": 3,
+          "kind": "section",
+          "label": "1. Further note"
+        },
+        {
+          "id": "passage-en-00340",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. The stages of a person, according to the powers of the soul"
+        },
+        {
+          "id": "passage-en-00345",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. How perception rises from the lowest level to the highest"
+        },
+        {
+          "id": "passage-en-00371",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. Why some powers of the soul are more divided than others, and how they remain powers of one person as they change"
+        },
+        {
+          "id": "passage-en-00414",
+          "level": 1,
+          "kind": "division",
+          "label": "Book Ten: The spiritual afterlife"
+        },
+        {
+          "id": "passage-en-00415",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. What true happiness is"
+        },
+        {
+          "id": "passage-en-00426",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. How the soul reaches this happiness, and why it is kept from it in this world"
+        },
+        {
+          "id": "passage-en-00439",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. Misery opposed to true happiness"
+        },
+        {
+          "id": "passage-en-00448",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. Why some souls lack intellectual knowledge and miss happiness in the afterlife"
+        },
+        {
+          "id": "passage-en-00458",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. How the Active Intellect becomes present in our souls"
+        },
+        {
+          "id": "passage-en-00469",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VI. The Anqa, the spiritual being of the mystics, described through symbols"
+        },
+        {
+          "id": "passage-en-00476",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VII. Sensory happiness and misery in the afterlife, apart from true intellectual happiness and misery"
+        },
+        {
+          "id": "passage-en-00528",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VIII. The different views about resurrection"
+        },
+        {
+          "id": "passage-en-00539",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IX. Arguments of those who deny resurrection"
+        },
+        {
+          "id": "passage-en-00554",
+          "level": 2,
+          "kind": "chapter",
+          "label": "X. How people differ in their understanding of the afterlife"
+        },
+        {
+          "id": "passage-en-00581",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XI. The nobility of knowing the afterlife and the greatness of understanding the resurrection of souls and bodies"
+        },
+        {
+          "id": "passage-en-00598",
+          "level": 1,
+          "kind": "division",
+          "label": "Book Eleven: Bodily resurrection"
+        },
+        {
+          "id": "passage-en-00599",
+          "level": 2,
+          "kind": "chapter",
+          "label": "I. Principles needed to establish this subject"
+        },
+        {
+          "id": "passage-en-00627",
+          "level": 2,
+          "kind": "chapter",
+          "label": "II. What follows from these principles"
+        },
+        {
+          "id": "passage-en-00633",
+          "level": 2,
+          "kind": "chapter",
+          "label": "III. Answering the doubts of those who deny the resurrection of bodies"
+        },
+        {
+          "id": "passage-en-00679",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IV. The true grave: a garden of paradise or a pit of Fire"
+        },
+        {
+          "id": "passage-en-00684",
+          "level": 2,
+          "kind": "chapter",
+          "label": "V. A brief note on the punishment of the grave"
+        },
+        {
+          "id": "passage-en-00686",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VI. What remains of the human being"
+        },
+        {
+          "id": "passage-en-00691",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VII. The basis of the next life's lasting forms"
+        },
+        {
+          "id": "passage-en-00695",
+          "level": 2,
+          "kind": "chapter",
+          "label": "VIII. Resurrection"
+        },
+        {
+          "id": "passage-en-00697",
+          "level": 2,
+          "kind": "chapter",
+          "label": "IX. How people are gathered"
+        },
+        {
+          "id": "passage-en-00708",
+          "level": 2,
+          "kind": "chapter",
+          "label": "X. The human soul passes through many resurrections, before and after this body comes into being"
+        },
+        {
+          "id": "passage-en-00716",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XI. A person passes through countless resurrections"
+        },
+        {
+          "id": "passage-en-00722",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XII. A reminder that death and resurrection are real"
+        },
+        {
+          "id": "passage-en-00732",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIII. How all beings, even plants and lifeless things, return to God, as the Qur'an teaches"
+        },
+        {
+          "id": "passage-en-00799",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIV. What “the Hour” means"
+        },
+        {
+          "id": "passage-en-00802",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XV. What it means to blow the Trumpet"
+        },
+        {
+          "id": "passage-en-00810",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XVI. The small and the great Resurrection"
+        },
+        {
+          "id": "passage-en-00817",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XVII. Which bodies are raised in the afterlife, and which are not"
+        },
+        {
+          "id": "passage-en-00821",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XVIII. The state of people of insight here"
+        },
+        {
+          "id": "passage-en-00826",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XIX. The Straight Path"
+        },
+        {
+          "id": "passage-en-00831",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A Qur'anic illumination"
+        },
+        {
+          "id": "passage-en-00843",
+          "level": 3,
+          "kind": "section",
+          "label": "2. An unveiling insight"
+        },
+        {
+          "id": "passage-en-00848",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XX. Spreading out the records and bringing out the books"
+        },
+        {
+          "id": "passage-en-00863",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXI. The nature of reckoning and the scales"
+        },
+        {
+          "id": "passage-en-00873",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A note on the scales"
+        },
+        {
+          "id": "passage-en-00883",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXII. Groups of people on the Day of Resurrection"
+        },
+        {
+          "id": "passage-en-00890",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXIII. Events that take place on the Day of Resurrection"
+        },
+        {
+          "id": "passage-en-00927",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXIV. What Paradise and Hell are"
+        },
+        {
+          "id": "passage-en-00951",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A note on these reports"
+        },
+        {
+          "id": "passage-en-00956",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXV. Signs and forms of Paradise and Hell"
+        },
+        {
+          "id": "passage-en-00961",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXVI. The gates of Paradise and Hell"
+        },
+        {
+          "id": "passage-en-00970",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A reminder"
+        },
+        {
+          "id": "passage-en-00979",
+          "level": 3,
+          "kind": "section",
+          "label": "2. An unveiling insight"
+        },
+        {
+          "id": "passage-en-00983",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXVII. Further insight into what Paradise and Hell are"
+        },
+        {
+          "id": "passage-en-01017",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A note from a mystic"
+        },
+        {
+          "id": "passage-en-01021",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXVIII. How the people of Hell remain in Hell"
+        },
+        {
+          "id": "passage-en-01057",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXIX. What Hell is made of and what form it takes"
+        },
+        {
+          "id": "passage-en-01068",
+          "level": 3,
+          "kind": "section",
+          "label": "1. A spiritual reminder"
+        },
+        {
+          "id": "passage-en-01076",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXX. Where the pain and punishment of Hell are felt"
+        },
+        {
+          "id": "passage-en-01088",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXI. The gatekeepers of Hell and their number"
+        },
+        {
+          "id": "passage-en-01094",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXII. The stages of the journey to God and the way to the true Paradise"
+        },
+        {
+          "id": "passage-en-01104",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXIII. The Tree of Tuba and the Tree of Zaqqum"
+        },
+        {
+          "id": "passage-en-01114",
+          "level": 2,
+          "kind": "chapter",
+          "label": "XXXIV. How the states and effects of the people of Paradise and Hell continually renew"
+        },
+        {
+          "id": "en-notes-head",
+          "level": 1,
+          "kind": "notes"
+        }
+      ]
+    },
+    "ar": {
+      "sourceHash": "0a361e6ccacda5d9fbdb59d2d78ab9b219f2a7c36de662ceec36af10a14d4329",
+      "entries": [
+        {
+          "id": "passage-ar-00005",
+          "level": 1,
+          "kind": "opening",
+          "label": "الصفحات الافتتاحية"
+        },
+        {
+          "id": "passage-ar-00073",
+          "level": 1,
+          "kind": "division",
+          "label": "الباب الثامن: في إبطال تناسخ النفوس",
+          "expanded": false
+        },
+        {
+          "id": "passage-ar-00074",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في ابطاله بوجه عرشي"
+        },
+        {
+          "id": "passage-ar-00087",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في ابطال التناسخ باقسامه والإشارة إلى مذاهب أصحابه وهدم آرائهم"
+        },
+        {
+          "id": "passage-ar-00113",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في دفع الشكوك الباقية لأصحاب النقل وحلها"
+        },
+        {
+          "id": "passage-ar-00137",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في تتمه الاستبصار لهذا الباب من جهة كيفية نسبه النفس إلى البدن والإشارات إلى الموت الطبيعي واجله والفرق بينه وبين الاجل الاخترامي"
+        },
+        {
+          "id": "passage-ar-00147",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في أن لكل شخص انساني ذاتا واحده هي نفسه وهي بعينها الحي"
+        },
+        {
+          "id": "passage-ar-00160",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٦. في ضعف ما قاله صاحب المطارحات في هذا المقام دفعا لما قيل في تكثر القوى من غير أن يرجع إلى ذات واحده"
+        },
+        {
+          "id": "passage-ar-00165",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٧. في أن هذه القوى البدنية كلها ظل لما في النفس من الهيئات النفسانية"
+        },
+        {
+          "id": "passage-ar-00174",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٨. في المتعلق الأول للنفس"
+        },
+        {
+          "id": "passage-ar-00182",
+          "level": 1,
+          "kind": "division",
+          "label": "الباب التاسع: في شرح بعض ملكات النفس الانسانية"
+        },
+        {
+          "id": "passage-ar-00184",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في خواص الانسان"
+        },
+        {
+          "id": "passage-ar-00201",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في أوصاف النفس الانسانية ومجامع أخلاقها واختلافها في الشرف والردائة"
+        },
+        {
+          "id": "passage-ar-00208",
+          "level": 3,
+          "kind": "section",
+          "label": "١. إشارة"
+        },
+        {
+          "id": "passage-ar-00214",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في منازل الانسان ودرجاته بحسب قوى نفسه"
+        },
+        {
+          "id": "passage-ar-00217",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في كيفية ارتقاء المدركات من أدنى المنازل إلى أعلاها والكلام في مراتب التجرد"
+        },
+        {
+          "id": "passage-ar-00235",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في أن قوى النفس المتعلقة بالبدن بعضها أقل قبولا للتجزي وبعضها"
+        },
+        {
+          "id": "passage-ar-00259",
+          "level": 1,
+          "kind": "division",
+          "label": "الباب العاشر: في تحقيق المعاد الروحاني"
+        },
+        {
+          "id": "passage-ar-00260",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في ماهية السعادة الحقيقية"
+        },
+        {
+          "id": "passage-ar-00268",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في كيفية حصول هذه السعادة ومنشأ احتجاب النفس عنها ما دامت في هذا العالم"
+        },
+        {
+          "id": "passage-ar-00277",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في الشقاوة التي بإزاء السعادة الحقيقية"
+        },
+        {
+          "id": "passage-ar-00284",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في سبب خلو بعض النفوس عن المعقولات وحرمانهم عن السعادة الأخروية"
+        },
+        {
+          "id": "passage-ar-00290",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في كيفية حصول العقل الفعال في أنفسنا"
+        },
+        {
+          "id": "passage-ar-00298",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٦. في اظهار نبذ من أحوال هذا الملك الروحاني المسمى عند العرفاء بالعنقاء على سبيل الرمز والإشارة"
+        },
+        {
+          "id": "passage-ar-00302",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٧. في بيان السعادة والشقاوة الحسيتين الأخرويتين دون العقليتين الحقيقيتين"
+        },
+        {
+          "id": "passage-ar-00331",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٨. في اختلاف مذاهب الناس في باب المعاد"
+        },
+        {
+          "id": "passage-ar-00338",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٩. في احتجاج المنكرين للمعاد"
+        },
+        {
+          "id": "passage-ar-00350",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٠. في تفاوت مراتب الناس في درك امر المعاد وتفاضل مقاماتهم في ذلك"
+        },
+        {
+          "id": "passage-ar-00364",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١١. في التنبيه على شرف علم المعاد وعلو مكانه وسمو معرفه بعث الأرواح والأجساد وعظم شانها"
+        },
+        {
+          "id": "passage-ar-00377",
+          "level": 1,
+          "kind": "division",
+          "label": "الباب الحادي عشر: في المعاد الجسماني"
+        },
+        {
+          "id": "passage-ar-00378",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١. في ذكر أصول يحتاج إليها في اثبات هذا المقصد أو ينتفع بها فيه"
+        },
+        {
+          "id": "passage-ar-00396",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢. في نتيجة ما قدمناه وثمره ما أصلناه"
+        },
+        {
+          "id": "passage-ar-00401",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣. في دفع شبه المنكرين وشكوك الجاحدين لحشر الأجساد"
+        },
+        {
+          "id": "passage-ar-00438",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٤. في القبر الحقيقي وانه روضه من رياض الجنة أو حفره من حفر النيران"
+        },
+        {
+          "id": "passage-ar-00442",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٥. في الإشارة إلى عذاب القبر"
+        },
+        {
+          "id": "passage-ar-00444",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٦. في الامر الباقي من الانسان"
+        },
+        {
+          "id": "passage-ar-00448",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٧. في مادة الآخرة وهيولي صورها الباقية"
+        },
+        {
+          "id": "passage-ar-00452",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٨. في البعث"
+        },
+        {
+          "id": "passage-ar-00454",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٩. في الحشر"
+        },
+        {
+          "id": "passage-ar-00464",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٠. في أن للنفس الانسانية أنحاء كثيره من الحشر بعضها قبل حدوث هذا البدن الطبيعي وبعضها بعده"
+        },
+        {
+          "id": "passage-ar-00469",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١١. في أن للانسان حشرا كثيرا كثره لا تحصى"
+        },
+        {
+          "id": "passage-ar-00473",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٢. في تذكر ان الموت حق والبعث حق"
+        },
+        {
+          "id": "passage-ar-00482",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٣. في الإشارة إلى حشر جميع الموجودات حتى الجماد والنبات إلى الله تعالى كما يدل عليه الآيات القرآنية"
+        },
+        {
+          "id": "passage-ar-00535",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٤. في معنى الساعة"
+        },
+        {
+          "id": "passage-ar-00538",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٥. في معنى النفخ في الصور"
+        },
+        {
+          "id": "passage-ar-00545",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٦. في القيامتين الصغرى والكبرى"
+        },
+        {
+          "id": "passage-ar-00551",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٧. في أن أي الأجسام يحشر في الآخرة وأيها لا يحشر"
+        },
+        {
+          "id": "passage-ar-00555",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٨. في حال أهل البصيرة هاهنا"
+        },
+        {
+          "id": "passage-ar-00559",
+          "level": 2,
+          "kind": "chapter",
+          "label": "١٩. في الصراط"
+        },
+        {
+          "id": "passage-ar-00564",
+          "level": 3,
+          "kind": "section",
+          "label": "١. تنوير قرآني"
+        },
+        {
+          "id": "passage-ar-00576",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٠. في نشر الصحائف وابراز الكتب"
+        },
+        {
+          "id": "passage-ar-00589",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢١. في حقيقة الحساب والميزان"
+        },
+        {
+          "id": "passage-ar-00605",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٢. في الإشارة إلى طوائف الناس يوم القيامة"
+        },
+        {
+          "id": "passage-ar-00609",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٣. في أحوال تعرض يوم القيامة"
+        },
+        {
+          "id": "passage-ar-00631",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٤. في بيان ماهية الجنة والنار"
+        },
+        {
+          "id": "passage-ar-00651",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٥. في الإشارة إلى مظاهر الجنة والنار ومشاهدهما"
+        },
+        {
+          "id": "passage-ar-00654",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٦. في أبواب الجنة والنار"
+        },
+        {
+          "id": "passage-ar-00666",
+          "level": 3,
+          "kind": "section",
+          "label": "١. مكاشفة تنبيهية"
+        },
+        {
+          "id": "passage-ar-00670",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٧. في تتمه الاستبصار في بيان حقيقة أحوال الجنة والنار"
+        },
+        {
+          "id": "passage-ar-00686",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٨. في كيفية خلود أهل النار في النار"
+        },
+        {
+          "id": "passage-ar-00713",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٢٩. في استيضاح معرفه جهنم ومادتها وصورتها"
+        },
+        {
+          "id": "passage-ar-00728",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٠. في تعيين محل الآلام والعقوبات في النار"
+        },
+        {
+          "id": "passage-ar-00735",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣١. في الإشارة إلى الزبانية وعددها"
+        },
+        {
+          "id": "passage-ar-00741",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٢. في الإشارة إلى درجات السلوك إلى الله والوصول إلى الجنة الحقيقية"
+        },
+        {
+          "id": "passage-ar-00748",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٣. في شجره طوبى وشجره زقوم"
+        },
+        {
+          "id": "passage-ar-00753",
+          "level": 2,
+          "kind": "chapter",
+          "label": "٣٤. في كيفية تجدد الأحوال والآثار على أهل الجنة والنار"
+        },
+        {
+          "id": "ar-notes-head",
+          "level": 1,
+          "kind": "notes"
+        }
+      ]
+    }
+  }
+}

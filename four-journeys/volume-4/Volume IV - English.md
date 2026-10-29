@@ -5,120 +5,121 @@
 **Mulla Sadra (Ṣadr al-Dīn Muḥammad al-Shīrāzī)**
 
 ## Contents
-- Stage — Natural science
-  - Art One — The category of quantity: its existence, kinds, and status as an accident
-    - Chapter 1 — Three features of quantity
-    - Chapter 2 — How magnitude differs from corporeality
-    - Chapter 3 — How quantity divides into continuous and discrete kinds
-    - Chapter 4 — Another division of quantity: with position and without position
-    - Chapter 5 — What is quantity only incidentally
-    - Chapter 6 — Quantity has no contrary
-    - Chapter 7 — Quantity does not intensify or weaken
-    - Chapter 8 — Why dimensions must be finite
-    - Chapter 9 — Five further points about infinity
-    - Chapter 10 — Can magnitude exist apart from matter? Other relations among body, surface, and line
-    - Chapter 11 — Further questions about magnitude
-    - Chapter 12 — What is place, and does it exist?
-    - Chapter 13 — Establishing the Nature of Place
-    - Chapter 14 — Reply to Those Who Believe in a Vacuum
-    - Chapter 15 — Observations That Point to the Impossibility of a Vacuum
-    - Chapter 16 — If a Vacuum Existed, It Could Not Attract or Repel Bodies
-  - Art Two — The Category of Quality
-    - Introduction — Defining Quality and Dividing It into Four Kinds
-    - Part One — Sensible Qualities (in five chapters)
-      - Book One — General Rules for This Group
-        - Chapter 15 — Its Shared Feature, Its Two Kinds, and Their Names
-        - Chapter 16 — Are Bodily Qualities Just Shapes or Mixtures?
-      - Book Two — Qualities We Feel by Touch
-        - Chapter 17 — What Heat and Cold Are
-        - Chapter 18 — The Nature of Innate Heat and Whether It Exists
-        - Chapter 19 — The Nature of Wetness and Dryness, and Whether They Exist
-        - Chapter 20 — Fineness, Coarseness, Stickiness, Brittleness, Dampness, and Dryness
-        - Chapter 21 — Heaviness and Lightness
-        - Chapter 22 — Qualities Often Mistaken for Qualities of Touch
-      - Book Three — Qualities We See
-        - Chapter 23 — Establishing That Colors Are Real
-        - Chapter 24 — Visible Light
-        - Chapter 25 — What Light Is and Its Different Kinds
-        - Chapter 26 — Light, Radiance, Rays, Glints, Shadow, and Darkness; and When Colors Become Actual…
-      - Book Four — Qualities We Hear
-        - Chapter 1 — What Causes Sound
-        - Chapter 2 — Showing That Sound Exists Outside the Ear
-        - Chapter 3 — Why Sounds Are High or Low, and What Echo, Ringing, and Letters Are
-        - Chapter 4 — How Letters Divide into Consonants and Vowels, and into Brief and Sustained Sounds
-      - Book Five — Taste and Smell, and Why They Are Properties of Things
-        - Chapter 1 — Tastes
-        - Chapter 2 — Smells
-    - Part Two — Power and the lack of power
-      - Chapter 1 — Three Kinds of Power
-      - Chapter 2 — A Closer Look at These Kinds
-      - Chapter 3 — Where Softness and Hardness Fit Among the Qualities
-    - Part Three — Qualities found in souls
-      - Chapter 1 — Power
-      - Chapter 2 — Will
-      - Chapter 3 — What Character Is and Its Kinds
-      - Chapter 4 — What Pleasure and Pain Are
-      - Chapter 5 — Does All Pain Come from a Break in Continuity?
-      - Chapter 6 — Which Bodily Imbalance Causes Pain?
-      - Chapter 7 — Kinds of Pleasure, and Why Some Are Better
-      - Chapter 8 — Avicenna on Pleasure in the Senses, and a Reply to an Objection
-      - Chapter 9 — Health and Illness as Qualities of the Soul
-      - Chapter 10 — The State Between Health and Illness
-      - Chapter 11 — Joy, Grief, and Other Emotions
-      - Chapter 12 — Causes of Joy and Grief
-      - Chapter 13 — Weakness and Strength of Heart, Distress and Vigor
-      - Chapter 14 — How Emotions Affect the Body
-      - Chapter 15 — How Emotions Relate to the Blood
-    - Part Four — Qualities of quantity: three articles and two preliminary questions
-      - Article One — Straightness and Circularity
-        - Chapter 1 — What They Are
-        - Chapter 2 — What a Circle Is, and How We Know It Exists
-        - Chapter 3 — Straight and Curved Lines Differ in Kind
-        - Chapter 4 — Straight and Curved Are Not Opposites
-        - Chapter 5 — Can a Straight Line and a Curve Be Compared?
-      - Article Two — Shape
-        - Chapter 1 — Its Definition
-        - Chapter 2 — Is Shape a Quality or a Position?
-        - Chapter 3 — What Kind of Thing Is an Angle?
-        - Chapter 4 — Is an Angle a Quantity or a Quality?
-        - Chapter 5 — Why Shapes Have No Degrees or Opposites
-      - Article Three — Overall Appearance and Number Qualities
-        - Chapter 1 — Overall Appearance (Question Five)
-        - Chapter 2 — Can Attributes Have General and Specific Parts?
-        - Chapter 3 — Features and Qualities of Numbers
-  - Art Three — The remaining categories of properties
-    - Article One — Relation
-      - Chapter 1 — Starting the Discussion of Relations
-      - Chapter 2 — What a True Relation Is
-      - Chapter 3 — Properties of Both Sides of a Relation
-      - Chapter 4 — What the Category of Relation Itself Means
-      - Chapter 5 — Does Relation Exist Outside the Mind?
-      - Chapter 6 — How Relation Exists in the Outside World
-      - Chapter 7 — When One Side of a Relation Becomes Specific, So Does the Other
-      - Chapter 8 — Different Ways to Classify Relations
-      - Chapter 9 — Can Relations Be Opposites or Have Degrees?
-      - Chapter 10 — Universal and Particular, Essential and Accidental
-    - Article Two — The Remaining Categories
-      - Chapter 1 — What “Where” Means
-      - Chapter 2 — Different Kinds of “Where”
-      - Chapter 3 — Further Features of “Where”
-      - Chapter 4 — What “When” Means and Its Kinds
-      - Chapter 5 — Position
-      - Chapter 6 — Possession
-      - Chapter 7 — The Categories of Acting and Being Acted On
-      - Chapter 8 — Answering an Objection to the Existence of These Categories
-  - Art Four — Substance, its basic kinds, and their properties
-    - Chapter 1 — Examining the Nature of Substance and Accident
-    - Chapter 2 — Defining Accident
-    - Chapter 3 — Defining Substance: Existing Not in a Subject
-    - Chapter 4 — Is “Substance” Predicated of Its Subordinates as a Broader kind?
-    - Chapter 5 — Why Some Substances Are More Basic Than Others
-    - Chapter 6 — The Properties of Substance
-    - Chapter 7 — Why One Thing Cannot Be Both Substance and Accident
+
+- Stage: Natural science
+  - Part One: The category of quantity: its existence, kinds, and status as an accident
+    - I. Three features of quantity
+    - II. How magnitude differs from corporeality
+    - III. How quantity divides into continuous and discrete kinds
+    - IV. Another division of quantity: with position and without position
+    - V. What is quantity only incidentally
+    - VI. Quantity has no contrary
+    - VII. Quantity does not intensify or weaken
+    - VIII. Why dimensions must be finite
+    - IX. Five further points about infinity
+    - X. Can magnitude exist apart from matter? Other relations among body, surface, and line
+    - XI. Further questions about magnitude
+    - XII. What is place, and does it exist?
+    - XIII. Establishing the Nature of Place
+    - XIV. Reply to Those Who Believe in a Vacuum
+    - XV. Observations That Point to the Impossibility of a Vacuum
+    - XVI. If a Vacuum Existed, It Could Not Attract or Repel Bodies
+  - Part Two: The Category of Quality
+    - Introduction: Defining Quality and Dividing It into Four Kinds
+    - Section One: Sensible Qualities (in five books)
+      - Book One: General Rules for This Group
+        - I. Its Shared Feature, Its Two Kinds, and Their Names
+        - II. Are Bodily Qualities Just Shapes or Mixtures?
+      - Book Two: Qualities We Feel by Touch
+        - I. What Heat and Cold Are
+        - II. The Nature of Innate Heat and Whether It Exists
+        - III. The Nature of Wetness and Dryness, and Whether They Exist
+        - IV. Fineness, Coarseness, Stickiness, Brittleness, Dampness, and Dryness
+        - V. Heaviness and Lightness
+        - VI. Qualities Often Mistaken for Qualities of Touch
+      - Book Three: Qualities We See
+        - I. Establishing That Colors Are Real
+        - II. Visible Light
+        - III. What Light Is and Its Different Kinds
+        - IV. The Difference Between Radiance, Light, Rays, Glints, Shadow, and Darkness, and Why Colors Become Actual Only When There Is Light
+      - Book Four: Qualities We Hear
+        - I. What Causes Sound
+        - II. Showing That Sound Exists Outside the Ear
+        - III. Why Sounds Are High or Low, and What Echo, Ringing, and Letters Are
+        - IV. How Letters Divide into Consonants and Vowels, and into Brief and Sustained Sounds
+      - Book Five: Taste and Smell, and Why They Are Properties of Things
+        - I. Tastes
+        - II. Smells
+    - Section Two: Power and the lack of power
+      - I. Three Kinds of Power
+      - II. A Closer Look at These Kinds
+      - III. Where Softness and Hardness Fit Among the Qualities
+    - Section Three: Qualities found in souls
+      - I. Power
+      - II. Will
+      - III. What Character Is and Its Kinds
+      - IV. What Pleasure and Pain Are
+      - V. Does All Pain Come from a Break in Continuity?
+      - VI. Which Bodily Imbalance Causes Pain?
+      - VII. Kinds of Pleasure, and Why Some Are Better
+      - VIII. Avicenna on Pleasure in the Senses, and a Reply to an Objection
+      - IX. Health and Illness as Qualities of the Soul
+      - X. The State Between Health and Illness
+      - XI. Joy, Grief, and Other Emotions
+      - XII. Causes of Joy and Grief
+      - XIII. Weakness and Strength of Heart, Distress and Vigor
+      - XIV. How Emotions Affect the Body
+      - XV. How Emotions Relate to the Blood
+    - Section Four: Qualities of quantity: three articles and two preliminary questions
+      - Article One: Straightness and Circularity
+        - I. What They Are
+        - II. What a Circle Is, and How We Know It Exists
+        - III. Straight and Curved Lines Differ in Kind
+        - IV. Straight and Curved Are Not Opposites
+        - V. Can a Straight Line and a Curve Be Compared?
+      - Article Two: Shape
+        - I. Its Definition
+        - II. Is Shape a Quality or a Position?
+        - III. What Kind of Thing Is an Angle?
+        - IV. Is an Angle a Quantity or a Quality?
+        - V. Why Shapes Have No Degrees or Opposites
+      - Article Three: Overall Appearance and Number Qualities
+        - I. Overall Appearance (Question Five)
+        - II. Can Attributes Have General and Specific Parts?
+        - III. Features and Qualities of Numbers
+  - Part Three: The Remaining Kinds of Properties
+    - Article One: Relation
+      - I. Starting the Discussion of Relations
+      - II. What a True Relation Is
+      - III. Properties of Both Sides of a Relation
+      - IV. What the Category of Relation Itself Means
+      - V. Does Relation Exist Outside the Mind?
+      - VI. How Relation Exists in the Outside World
+      - VII. When One Side of a Relation Becomes Specific, So Does the Other
+      - VIII. Different Ways to Classify Relations
+      - IX. Can Relations Be Opposites or Have Degrees?
+      - X. Universal and Particular, Essential and Accidental
+    - Article Two: The Remaining Categories
+      - I. What “Where” Means
+      - II. Different Kinds of “Where”
+      - III. Further Features of “Where”
+      - IV. What “When” Means and Its Kinds
+      - V. Position
+      - VI. Possession
+      - VII. The Categories of Acting and Being Acted On
+      - VIII. Answering an Objection to the Existence of These Categories
+  - Part Four: Substance, its basic kinds, and their properties
+    - I. Examining the Nature of Substance and Accident
+    - II. Defining Accident
+    - III. Defining Substance: Existing Not in a Subject
+    - IV. Is “Substance” Predicated of Its Subordinates as a Broader kind?
+    - V. Why Some Substances Are More Basic Than Others
+    - VI. The Properties of Substance
+    - VII. Why One Thing Cannot Be Both Substance and Accident
 
 In the name of God, the Most Compassionate, the Most Merciful.
 
-### Stage — Natural science
+### Stage: Natural science
 
 The natural order of study would place substances and their kinds before accidents and theirs.[^V04-1] We have postponed the discussion of substances for two reasons. First, most things we can prove about them depend on principles established in the study of accidents. Second, knowledge of substances fits more naturally in divine science, which studies the realities of things themselves, than in philosophy, which studies general concepts and their first divisions.[^V04-2] For these reasons, we have treated accidents before substances.
 
@@ -164,9 +165,9 @@ The Sheikh allows that these things fall outside the ten categories. This does n
 
 The fourth question concerns how the categories are divided into kinds: by defining features or by incidental features? A division by incidental features may match the division by defining features, as when we divide animals into those that can understand and those that cannot, matching the division into rational and nonrational. Or it may not match it, as when we divide animals into male and female.
 
-### Art One — The category of quantity: its existence, kinds, and status as an accident
+### Part One: The category of quantity: its existence, kinds, and status as an accident
 
-#### Chapter 1 — Three features of quantity
+#### I. Three features of quantity
 
 There are three features by which we can know what quantity in general is.
 
@@ -188,7 +189,7 @@ Some define quantity as “an accident that accepts equality and inequality.” 
 
 The best definition is the one given by the two Sheikhs: quantity is “that which can in itself contain a unit by which it is counted.” This works for both continuous and discrete quantity. It is not circular, because “one” is as basic as existence and needs no definition, and neither does number.
 
-#### Chapter 2 — How magnitude differs from corporeality
+#### II. How magnitude differs from corporeality
 
 There are six ways to show that magnitude differs from corporeality. The first four rely on rejecting indivisible physical parts.
 
@@ -214,7 +215,7 @@ Someone might object that the same reasoning applies to matter and form: they ar
 
 The answer is that someone who understands a body as made of indivisible particles has not understood what a body truly is. Someone who understands it as a continuous substance without matter has grasped its nature, though incompletely. Someone who understands it as matter without form has not grasped it in reality. Those who make magnitudes constituents of a body treat them as its form, not its matter. Also, we can know form without knowing matter, so the two must differ. In the same way, we can understand corporeality while being unsure whether a surface exists; this shows that the surface is distinct from the form.
 
-#### An Illuminationist argument
+#### 1. An Illuminationist argument
 
 Here is an argument for the view that geometrical magnitudes are accidents added to the natural body. Anything that belongs with something else to the reality of a broader kind must have the same principles, constituents, and completing features as that other thing. The kinds of one must also fall under the kinds of the other.
 
@@ -226,7 +227,7 @@ But general magnitude, if it needs a defining feature, must need one because it 
 
 The consequences are impossible, so the assumption that corporeality and magnitude are the same must also be false. This also answers the objections raised against the second and third proofs.
 
-#### Chapter 3 — How quantity divides into continuous and discrete kinds
+#### III. How quantity divides into continuous and discrete kinds
 
 This chapter explains the kinds of continuous quantity, why number is the only discrete quantity, and why speech is not discrete quantity and heaviness and lightness are not continuous quantities.
 
@@ -258,7 +259,7 @@ First, equality in quantity means that one thing's boundary and whole extent mat
 
 Second, heaviness and lightness seem divisible when we say, for example, that one body's weight is half another's.[^V04-6] But this is because one body travels half the distance in the same time, or travels the same distance in half the time. The comparison comes from the effect heaviness has on motion, which is connected to distance and time.
 
-#### Chapter 4 — Another division of quantity: with position and without position
+#### IV. Another division of quantity: with position and without position
 
 The word “position” has three meanings. First, something may be pointed out by the senses, either actually or in principle. To point to it is to mark the direction it occupies in the world, as *The Healing* explains. In this sense, a point has position, but unity does not.
 
@@ -276,7 +277,7 @@ But the position that belongs to quantity is different. It does not change when 
 
 Writers often discuss five meanings of length, four of breadth, and four of depth here. We have postponed them until our discussion of natural bodies for a subtle reason. If length, breadth, and depth mean the extensions themselves, they are quantities by their own nature and belong to the kind of line. The other meanings combine quantities with relations, and their concepts concern natural things. So it is better to discuss them with natural bodies.
 
-#### Chapter 5 — What is quantity only incidentally
+#### V. What is quantity only incidentally
 
 Something may be quantitative only incidentally in four ways.
 
@@ -292,7 +293,7 @@ Fourth, a power may be called finite or infinite because of its effects on thing
 
 Now that we have defined quantity and its primary kinds, let us turn to its properties and further divisions.
 
-#### Chapter 6 — Quantity has no contrary
+#### VI. Quantity has no contrary
 
 Discrete quantities have no contraries for three reasons.
 
@@ -304,7 +305,7 @@ Third, contraries must belong in turn to the same immediate subject. Numbers do 
 
 The three kinds of continuous magnitude—bodies, surfaces, and lines—are not contraries either. There are also three reasons for this. First, each can receive or contain another, and what is received must depend on what receives it. How, then, could the two be contraries? Second, no magnitude is as far as possible from another. Third, their immediate subjects are not the same.
 
-### Questions and replies
+### 1. Questions and replies
 
 **Question:** Is evenness a quantity contrary to oddness?
 
@@ -328,7 +329,7 @@ Besides, separation is the absence of continuity in something that, by its kind 
 
 **Reply:** Their immediate subjects are not the same, so they cannot take turns in one subject. Being above and being below are contraries, but they are not places; they are relations. A place, considered simply as a place, is neither above nor below. Each is above or below only in relation to another place. Relational things cannot be contraries.
 
-#### Chapter 7 — Quantity does not intensify or weaken
+#### VII. Quantity does not intensify or weaken
 
 Some writers distinguish increase and decrease from becoming more or less in degree in two ways.
 
@@ -346,7 +347,7 @@ I say that, on their view, the same applies to quality. One blackness is not mor
 
 These two properties—having no contraries and not becoming more or less in degree—are not unique to quantity. Substance has no contrary, and neither do some kinds of quality. Quantity’s distinctive properties are the three we listed earlier, together with a fourth: it can be finite or infinite. We will now discuss that.
 
-#### Chapter 8 — Why dimensions must be finite
+#### VIII. Why dimensions must be finite
 
 There are many proofs that dimensions cannot extend without limit. We will give three.
 
@@ -426,7 +427,7 @@ Here is why. A proof of finitude must show that the smaller group ends, while th
 
 That is why two bodies cannot occupy the same place, and why a cause and its effect cannot occupy the same level in the order of causes. When one part of either group is already matched to a part of the other, it cannot also be matched to a second part. But things that cannot be matched by nature or by place, and can be paired only by the mind, are different. The mind can pair a finite number of things from each group, yet many things may remain in both groups—more, in fact, than the mind can hold in view. A contradiction appears only when the groups can be matched in the required way and the remaining parts can be brought into view. We will explain this further later.
 
-#### A guide to infinity in past and future events
+#### 1. A guide to infinity in past and future events
 
 When we call past individuals infinite, we cannot mean that each one is infinite. That is plainly false. We must be speaking of them taken together. But does this mean a collection that really exists, or one held in the mind? And do we mean that this collection positively has an infinite number, or only that it has no first limit? These distinctions give us four possible claims.
 
@@ -442,7 +443,7 @@ As for whether future events are finite or infinite, we can say three things abo
 
 In short, future events are finite in actuality up to any present point, and can always continue; but they have no final end.
 
-#### Chapter 9 — Five further points about infinity
+#### IX. Five further points about infinity
 
 First, “infinity” may mean the idea itself, or something described as infinite, just as “number” may mean number itself or something that has a number. Some early philosophers made infinity itself the first principle of the world. This is wrong for two reasons. First, infinity is a negative idea; it has no reality of its own. Second, it must either be divisible or not. If it is divisible, each part would have to be equal to the whole, since there is no other nature here beyond the idea of infinity. Each part would then be infinite too, which is impossible. If it cannot be divided, it is infinite only in the negative sense of “not finite,” not in the sense of a positive, unlimited nature that can serve as a first principle.
 
@@ -460,7 +461,7 @@ Fifth, if an infinite body existed, it would act on other things—or be acted o
 
 If the thing acted on were also infinite, then the time taken to affect one part would stand to the time taken to affect the whole in the same ratio as that part stands to the whole. So every part[^V04-13] would have to be affected in no time. This would mean that a smaller part is affected faster than a larger part that is already affected in no time, which is impossible. The same reasoning applies in reverse, from being acted on to acting.
 
-#### Chapter 10 — Can magnitude exist apart from matter? Other relations among body, surface, and line
+#### X. Can magnitude exist apart from matter? Other relations among body, surface, and line
 
 We have already seen that the magnitudes found in bodies depend on matter. Suppose, however, that there were a magnitude apart from matter. Its independence would have to come either from its nature, from features that belong to its nature, or from some added feature.
 
@@ -478,7 +479,7 @@ If both exist in another subject, the same problem is even clearer. I say that t
 
 This is like natural body. Body by itself does not require that it be an animal or that it not be an animal. Each requirement comes from a further form that completes natural body. The same is true of geometrical body. In our view, these forms are united with body in existence.
 
-#### A difficulty and its answer
+#### 1. A difficulty and its answer
 
 You might ask whether this view means that a vacuum could exist outside the mind, since a vacuum would be magnitude without matter.
 
@@ -512,7 +513,7 @@ We can also show that line and surface exist because bodies touch. If they touch
 
 The old saying that a point in motion traces a line, a line traces a surface, and a surface traces a body is either a symbolic way of speaking, as was common among early writers, or a way of describing what happens in imagination. In imagination, a moving point produces a line; moving that line in another direction produces a surface; moving the surface in a third direction produces a body. In reality, the order is the reverse: the body comes before the surface, the surface before its edge, and the edge before its endpoint. Each whole comes before its boundary.
 
-#### Chapter 11 — Further questions about magnitude
+#### XI. Further questions about magnitude
 
 First, the particular magnitude found in this world depends on matter. The bodily form does not determine it by itself; otherwise, all bodies would share one size. Nor is it determined by the agent alone, without matter. When an agent gives a bodily form a magnitude it did not have before, it must stretch it in one direction or shrink it in another. This requires the body to be acted on, and being acted on depends on matter.
 
@@ -532,7 +533,7 @@ I say that this definition is not disproved by the tip of a cone or the center o
 
 We have already discussed many features of number in our discussion of unity and multiplicity. Two topics remain under quantity: angle and place. We will discuss angle with the qualities that belong to quantity, and turn now to place.
 
-#### Chapter 12 — What is place, and does it exist?
+#### XII. What is place, and does it exist?
 
 We may know something through some of its signs and features but not others. We then ask about the features we do not know, whether they exist, how they should be defined, and how they should be divided. By “place,” we mean something a body can move from or into, rest in, point to by saying “here” or “there,” measure as a half or a quarter, and share with no other body at the same time. These are four agreed signs of place. They help keep the debate from becoming a dispute about words.
 
@@ -572,7 +573,7 @@ Those who say place is matter argue that bodies occupy it in succession, just as
 
 The second argument might be restated in this way: place has a boundary and contains something, and everything with a boundary that contains something is a form. But the second claim is false. There are three further reasons against both accounts. First, we leave a place when we move, but do not leave our matter or form. Second, we move in search of a place, not in search of our matter or form. Third, we can describe a made thing by the matter it is made from, as when we say “wooden door”; we do not describe it in the same way by its place.
 
-#### Chapter 13 — Establishing the Nature of Place
+#### XIII. Establishing the Nature of Place
 
 In the previous chapter, we established that place exists. We can now ask what it is.
 
@@ -632,7 +633,7 @@ The same applies to movement in quantity, position, and other categories. If pla
 
 But if place is a surface, and “where” is the body's relation to that surface, neither the surface nor the relation to it can form a continuous series through movement. A separate surface at each instant would require surfaces to follow one another without end and time and place to be made up of indivisible moments. Nor could one surface last throughout the whole time of the movement. This too points to place being a three-dimensional extension.
 
-#### Chapter 14 — Reply to Those Who Believe in a Vacuum
+#### XIV. Reply to Those Who Believe in a Vacuum
 
 Most who believe in a vacuum say that it is not something that exists. Imam al-Razi describes their view without making it sound as if they think the vacuum itself exists. They say that two bodies can exist without touching and with no body touching the space between them. They claim that the apparent dimensions between the two bodies are only a false impression, just as it is false to imagine that the region beyond the world is either empty or filled. Others accept that the vacuum is a real thing.
 
@@ -664,7 +665,7 @@ Another argument, which will be discussed in the section on motion, says that wh
 
 This argument is weak. It does not show that there is matter throughout the world, much less that there must be. It shows only that there is air along some of the paths through which a stone is thrown. There could still be large pockets of vacuum between those regions, and there could be pure vacuum beyond the point where the stone's motion ends.
 
-#### Chapter 15 — Observations That Point to the Impossibility of a Vacuum
+#### XV. Observations That Point to the Impossibility of a Vacuum
 
 First, if a narrow-necked vessel is full of water and has a small opening at the bottom, the water flows out when the top is open but does not flow when the top is sealed. This shows that, despite the water's natural weight, it cannot descend when a vacuum would have to form above it. But what about mercury flowing out, or water flowing when the opening is made wider, or water failing to flow when half the vessel contains air? These cases do not disprove the argument. Mercury is so heavy that it may force the air to move; if the air has nowhere to go, it may push the water aside and enter through the opening. If it cannot do that, the mercury remains in place, since nature takes the easier path. It is also possible that holding the water in place is easier than making the air expand.
 
@@ -700,7 +701,7 @@ The fourth example is simply false.
 
 For the fifth, the change in the jar's size may be too small for us to notice. Or the wine may compress and give off vapor or air; it may also condense and take up less space.
 
-#### Chapter 16 — If a Vacuum Existed, It Could Not Attract or Repel Bodies
+#### XVI. If a Vacuum Existed, It Could Not Attract or Repel Bodies
 
 Muhammad ibn Zakariyya al-Razi claimed that a vacuum attracts bodies. He used as evidence that water stays in vessels called water siphons and is drawn into suction vessels. Others say that a vacuum pushes bodies upward.
 
@@ -714,7 +715,7 @@ If there is nothing for the parts to flee from, then their flight makes no sense
 
 There is another difficulty. A vacuum that pushes a body upward would have to stay with the body as it moves. Then the vacuum itself would need a natural place to move toward. If it does not stay with the body, the body keeps moving through one vacuum after another and touches each one only for an instant. But nothing can move something else at a single instant, and after that instant the vacuum no longer touches it. Someone might say that the vacuum gives the body a power that moves it upward. But that conflicts with the claim that the parts of a vacuum are all alike.
 
-#### A Note
+#### 1. A Note
 
 The theologians claimed that a body's place is the surface it rests on, which keeps it from falling. But after considering the matter, they saw that the lower body as a whole cannot be the place of the body above it; only its surface can be. Yet they also say that an arrow passing through the air has a place, even though nothing beneath it stops it from falling. If the body below it were its place, only part of that body's surface could be.
 
@@ -732,11 +733,11 @@ The imagination within us is like this. It is a dimensioned substance, extended 
 
 We will examine this fully when we come to the knowledge of the afterlife. The remaining questions about quantity will be discussed under time. From God come protection and right guidance.
 
-### Art Two — The Category of Quality
+### Part Two: The Category of Quality
 
 This art consists of an introduction and four parts.
 
-#### Introduction — Defining Quality and Dividing It into Four Kinds
+#### Introduction: Defining Quality and Dividing It into Four Kinds
 
 We can define the broadest categories only incompletely. No broader kind exists above them, and there is no single feature that distinguishes each one from other members of a broader kind. A definition that combines two equally general concepts, each treated as a distinguishing feature, is only a possibility in thought. We do not know that such a definition is real; usually, we prove that it is not.
 
@@ -786,11 +787,11 @@ The fourth division asks whether a quality acts by making something else resembl
 
 The last three divisions are the Sheikh's ways of explaining the four kinds in *The Healing*. They are all weak and much alike.
 
-### Part One — Sensible Qualities (in five chapters)
+### Section One: Sensible Qualities (in five books)
 
-### Book One — General Rules for This Group
+### Book One: General Rules for This Group
 
-#### Chapter 15 — Its Shared Feature, Its Two Kinds, and Their Names
+#### I. Its Shared Feature, Its Two Kinds, and Their Names
 
 The common feature of every sensible quality is that it acts on what receives it in a way that produces something similar to itself: heat makes another thing hot, cold makes another thing cold, and colors imprint their images on sight.
 
@@ -806,7 +807,7 @@ As for the two kinds: if a sensible quality is lasting, as with the yellow color
 
 If a sensible quality does not last, it is called a short-lived sensory effect because it fades quickly and seems to be a temporary reaction. It belongs in the first group for the two reasons just given. But since it lasts only briefly and disappears quickly, it is not given the name of the lasting kind; it is simply called a short-lived sensory effect.
 
-#### Chapter 16 — Are Bodily Qualities Just Shapes or Mixtures?
+#### II. Are Bodily Qualities Just Shapes or Mixtures?
 
 Some argue that sensible qualities have no reality of their own. They are only reactions that occur in the senses. When asked why a sense responds to some things and not others—why sight responds differently to transparent things and colored things—they say that bodies are made up of particles that cannot actually be divided, though we can imagine dividing them. These particles have different shapes, arrangements, and positions, and those differences produce different effects in the senses. What spreads out our vision is called white; what gathers it in is called black. In food, the tiny particles of a sharp or pungent taste penetrate the tongue and seem to cut it in many directions; sweetness counteracts that cutting. They give the same kind of explanation for smells and for things we feel as hot or cold.
 
@@ -824,11 +825,11 @@ Some people also claim that qualities are nothing but mixtures. They say that wh
 
 This view is false. Every mixture, as long as it lies between its extreme limits, can be felt by touch. But no color can be felt by touch. So no mixture is a color. Also, colors and other sensible qualities can reach opposite extremes, while mixtures remain between extremes. They are therefore different things.
 
-### Book Two — Qualities We Feel by Touch
+### Book Two: Qualities We Feel by Touch
 
 These include heat and cold, wetness and dryness, fineness and coarseness, stickiness and brittleness, dampness and dryness, and heaviness and lightness. Roughness and smoothness, hardness and softness are also included here. We will discuss each of them in this book.
 
-#### Chapter 17 — What Heat and Cold Are
+#### I. What Heat and Cold Are
 
 In *The Healing*, Avicenna defines heat as a quality that separates things joined together and brings like parts together. Cold, he says, brings both like and unlike parts together. In his *Definitions*, he describes heat as an active quality that moves a thing upward by making it lighter. As a result, it brings like parts together and separates unlike ones. This second definition is better: joining and separating are not heat’s first effects. They follow from its primary effect, which is to make a thing lighter and tend upward.
 
@@ -854,7 +855,7 @@ Some ancient thinkers denied that cold exists and treated it as the absence of h
 
 We might interpret the ancient view more charitably: heat exists more strongly than cold, and cold is a weaker form of existence. Heat’s action also seems more clearly positive than cold’s, since movement seems more active than rest or freezing. Heat may even be a heavenly substance, like the influence that flows from the world of souls into bodies and produces effects unlike those of ordinary, bodily heat.
 
-#### Chapter 18 — The Nature of Innate Heat and Whether It Exists
+#### II. The Nature of Innate Heat and Whether It Exists
 
 It may seem that we use the word “heat” in entirely different senses when we speak of the heat of fire, the heat that flows from the stars and other heavenly bodies, the innate heat that flows from the realm of souls, and the heat caused by movement. But the word has one meaning: the sensible quality that thins and raises things. The different kinds of heat may still differ in their real nature.
 
@@ -878,7 +879,7 @@ Anyone who looks carefully will see that heat relates to nature as an impulse re
 
 For us, nature and soul are forms of innate heat, and they have many levels. The spirit that carries the soul through this world is a fiery substance, but it is not, as most people think, a mixture of the elements. It belongs to the same order as the heavenly bodies. Because it is alive in itself, it cannot die or grow cold. It may cease to exist, but that is not the same as dying. There is a difference between corruption and simple nonexistence, just as there is a difference between existence and coming into being. These questions are beyond the understanding of many independent thinkers, let alone those who merely follow others.
 
-#### Chapter 19 — The Nature of Wetness and Dryness, and Whether They Exist
+#### III. The Nature of Wetness and Dryness, and Whether They Exist
 
 Some early thinkers say that a body is wet when it sticks to whatever it touches. Avicenna rejects this: if wetness meant sticking, then the body that sticks most would be the wettest. But honey does not stick more than water. Avicenna says that wetness is the quality that makes a body easily take on the shape of something around it and easily release that shape. Dryness makes both harder.
 
@@ -910,7 +911,7 @@ So on this account, wetness is not a real quality. It is also probably not direc
 
 Avicenna seems to say in his chapter on the elements that wetness cannot be sensed, while in *The Psychology* he says that it can. One scholar suggests that by “unsensed” Avicenna means wetness as ease in taking on shapes, and by “sensed” he means ease of adhesion—in other words, dampness. This is a good explanation, though God knows best.
 
-#### Chapter 20 — Fineness, Coarseness, Stickiness, Brittleness, Dampness, and Dryness
+#### IV. Fineness, Coarseness, Stickiness, Brittleness, Dampness, and Dryness
 
 “Fine” can mean thin in consistency, as with water and air, or easy to divide into very small parts. Coarseness has two opposite meanings. In the natural philosophy of *The Healing*, Avicenna says that rarefaction resembles fineness in the first sense, but adds something more: it makes a body thinner while increasing its volume. Thinness also implies greater volume, but rarefaction includes it in its meaning, while thinness only entails it. Rarefaction can also mean that a body’s parts move apart, leaving spaces that finer material fills. We are not concerned with this last meaning here.
 
@@ -922,7 +923,7 @@ Stickiness is a mixed quality, not a simple one. A sticky thing can easily be sh
 
 There are three related words here: “wet,” “damp,” and “soaked.” A wet body has a natural form that calls for wetness, meaning that it adheres and separates easily. A damp body gains moisture by contact with something wet. If the moisture has penetrated inside it, the body is soaked. Dryness is the opposite of dampness.
 
-#### Chapter 21 — Heaviness and Lightness
+#### V. Heaviness and Lightness
 
 This chapter raises several questions about heaviness, lightness, and the impulses that move bodies.
 
@@ -978,7 +979,7 @@ Twelfth, heaviness and lightness do not act on each other. Heaviness makes a bod
 
 As we have seen, the pause between a forced upward motion and a natural downward motion comes from the interaction of nature with the forced upward impulse, not from two opposite impulses acting together. They do not coexist. During the pause, both impulses are absent. Only at the edges do they appear: at the first instant of the pause, the natural force finishes overcoming the forced impulse; at the last instant, the body's natural impulse begins again, once the effects that blocked it have worn away.
 
-#### Chapter 22 — Qualities Often Mistaken for Qualities of Touch
+#### VI. Qualities Often Mistaken for Qualities of Touch
 
 Roughness, smoothness, hardness, and softness are often mistaken for qualities we feel by touch because people do not distinguish what belongs to a thing in itself from what comes along with it. Roughness means that a body's parts are unevenly arranged; smoothness means they are even. These are conditions of arrangement. But what we feel is not arrangement alone. We also feel hardness or softness, heat or cold, and other qualities, so roughness and smoothness do not belong to this group of qualities.
 
@@ -988,9 +989,9 @@ The absence of yielding is not a quality. Keeping a shape is a matter we have al
 
 The other qualities that result from mixing the four basic tactile qualities—heat, cold, wetness, and dryness—belong in another discussion, when we examine natural bodies. Taste would fit after touch, since taste follows it, but we have postponed that short discussion. Here we have tried to follow the qualities we see, asking the source of all good and generosity to help us gain knowledge and deepen our understanding.
 
-### Book Three — Qualities We See
+### Book Three: Qualities We See
 
-#### Chapter 23 — Establishing That Colors Are Real
+#### I. Establishing That Colors Are Real
 
 Some people say that color is not real, and that all colors are illusions, as with the rainbow, halos, and similar things. On their account, white appears when air mixes with tiny transparent particles. The many surfaces that face one another reflect light from one to another. This is how snow looks white: the only cause is air mixed with transparent particles, with light passing through tiny frozen parts and reflecting many times. The same explanation is given for foam on water, powdered crystal, and clear glass.
 
@@ -1018,7 +1019,7 @@ To complete the discussion: colors produced by artificial cooking, natural ripen
 
 Among those who say black and white are real qualities, some hold that all other colors are mixtures of the two. They offer several weak arguments for this. Others say the basic colors are black, white, red, yellow, and green, and that the rest are mixtures. Observation shows that a particular mixture can produce a particular color. It does not show that this color can arise only from that mixture, or that it has no distinct nature of its own.
 
-#### Chapter 24 — Visible Light
+#### II. Visible Light
 
 If “light” means what appears by itself and makes other things appear, then it is the same as existence—or existence itself. It is one simple reality, divided according to the different levels of existence. There is a light that exists through itself and rules over all else; there are also intellectual, soul, and bodily lights. God is the Light of Lights, with no limit to His intensity. All other lights have a limit, meaning that something brighter can be imagined above each of them. Some, such as intellectual lights, may have effects that reach without limit. All are glimmers of His light. Even dense bodies have light insofar as they exist, though their existence is mixed with the darkness of nonexistence and possibility, as we explained in our commentary on *The Wisdom of Illumination*.
 
@@ -1046,7 +1047,7 @@ The third argument can be answered by saying that different meanings do not prev
 
 As for the fourth argument, it assumes that particles must separate and travel across a distance. It does not follow simply from light being a body.
 
-#### Chapter 25 — What Light Is and Its Different Kinds
+#### III. What Light Is and Its Different Kinds
 
 Light needs no definition, like other things we sense. Defining it as a quality that is the first completion of something transparent, or as a quality that lets us see without needing to see something else first, is to define it by something less clear. These descriptions are meant only to point out some of its features.
 
@@ -1076,7 +1077,7 @@ Those who say that light is the same as color do not mean that every light is th
 
 The third argument is easily answered by what we have said. The fourth is also easy to answer with a little care. Color may fail to appear because the light on something is too weak, or because it is too strong. When light reflected from a colored, bright object reaches another object, it may show only light if the light or color is weak, or if the receiving object cannot take on the color. When both are strong, and the receiving object is ready for them, both light and color can appear. Reflection is a long subject. Sometimes a polished object has its own color and light, but what it reflects is only light from another bright source, depending on the position of the two objects. What appears in the receiving object is then only the light of that source, not the color and light of the polished object. If the receiving object is polished too, it may reflect an image of both, or of only one.[^V04-34]
 
-#### Chapter 26 — The Difference Between Radiance, Light, Rays, Glints, Shadow, and Darkness, and Why Colors Become Actual Only When There Is Light
+#### IV. The Difference Between Radiance, Light, Rays, Glints, Shadow, and Darkness, and Why Colors Become Actual Only When There Is Light
 
 Light that comes from a source by its own nature, rather than by receiving it from another, is called radiance. The sun gives radiance. Light that comes from another source, as the moon’s does, is called light. This follows the Qur'anic verse that says God made the sun a radiance and the moon a light: the sun gives off radiance, while the moon receives light.
 
@@ -1088,19 +1089,19 @@ The reply is that if color is, by its nature, something seen by sight, then a he
 
 I say the better approach is to connect this question to the earlier one: is color the same as light or something different? If color is one of light’s levels, then it does not exist in darkness. If it is different, it may exist in darkness, though we cannot see it because a condition for sight is missing.
 
-#### Addendum
+#### 1. Addendum
 
 Some think darkness is needed in order to see certain things, such as objects that shine at night. Avicenna denies this. Darkness cannot be a condition for seeing shining things, because a bright object can be seen whether the viewer is in darkness or in light. We see a fire in either setting. We cannot see the sun in darkness because when it rises, darkness is gone. Stars and other things that shine are seen at night but not by day because sunlight is stronger than their light. When sight is affected by strong light, it does not respond to weaker light. At night, no brighter light overwhelms theirs, so we see them. They are not invisible by day because darkness is needed to see them; the reason is simply that their light is overpowered. So darkness is not a condition for seeing these things.
 
-### Book Four — Qualities We Hear
+### Book Four: Qualities We Hear
 
-#### Chapter 1 — What Causes Sound
+#### I. What Causes Sound
 
 The nearest cause of sound is a wave or vibration in the air.[^V04-36] This wave is caused either by a forceful impact or by a forceful separation, as when a drum is struck or cotton is pulled apart. In either case, nearby air is driven forcefully to the sides—by the striker in one case, and by the spreading cotton in the other. The air farther away is then made to follow the shape and wave of the air nearby. This produces one collision after another, with a pause between them, until the wave reaches the air beside the ear.
 
 Sound is not the wave itself, as some people think, nor is it the striking or pulling apart that others identify as sound. The wave can be felt by touch; when it is strong, it can hit or block the ear. Striking and pulling apart can be seen by sight, through color. But no sound is felt by touch or seen by sight. So the wave, the impact, and the separation are not themselves sound. We can also know that an impact, a separation, or a wave has occurred without knowing what sound it made; and we can hear a sound without knowing which of those three caused it. They are not the sound itself.
 
-#### Chapter 2 — Showing That Sound Exists Outside the Ear
+#### II. Showing That Sound Exists Outside the Ear
 
 Someone may say that sound does not exist outside us. It is created in the sense of hearing when moving air touches the ear. They argue that when we hear a sound, we also hear where it comes from. But the direction of the sound cannot remain in the moving air beside the ear. If that were so, we should not be able to tell which direction a sound comes from. A hand, by contrast, feels only what it touches and cannot tell whether it came from the right or left. Hearing lets us tell direction, and also whether a sound is near or far. So we must hear sounds where they are, outside the ear.
 
@@ -1110,7 +1111,7 @@ The first answer fails because a sound may come from the listener’s right and 
 
 I say the difficulty remains. What is perceived must be present to the one perceiving it at the moment of perception, and what is present to a sense must come into contact with it. The shape of the sound wave and the air’s movement are present to the ear, but distance and direction are not. The truth is that the soul’s connection to the body also connects it to what touches the body, such as the air around it, almost as if body and air were one thing. The soul can then perceive what happens in that air—its shape, the distances between things, their directions, and other features—as they are.[^V04-37]
 
-#### Chapter 3 — Why Sounds Are High or Low, and What Echo, Ringing, and Letters Are
+#### III. Why Sounds Are High or Low, and What Echo, Ringing, and Letters Are
 
 A high sound can be caused by the hardness and smoothness of the struck object; by its short length and strong tension, as in some instruments; or by a narrow air passage and a point close to where the air is blown. These causes produce a sound that reaches the ear as a high pitch. A low sound comes from the opposite causes. Both high and low pitch can vary by degree: as the causes increase, the effect increases in proportion, and as the causes decrease, so does the effect.
 
@@ -1120,7 +1121,7 @@ A letter is a feature of sound that lets us tell one sound from another even whe
 
 I say all these accounts make sense. The feature relates to the sound as a distinguishing part relates to a broader kind. They exist as one thing, though the mind can analyze them as two; there is no separate feature sitting on top of the sound in the outside world. Saying that the sounds have the same pitch rules out pitch itself as the difference, since high and low sounds are already distinct. Saying that they are distinguished “in what is heard” rules out differences such as length, shortness, pleasantness, and similar features, which do not make one letter sound different from another. Some question whether the feature that distinguishes a letter must itself be heard, or whether it only needs to make the heard sound different. For example, nasal tone or hoarseness can vary while the sound remains the same, and a sound can change without either of them changing. These definitions, like other definitions of things we sense, explain what is already clear to the mind by pointing out its features.
 
-#### Chapter 4 — How Letters Divide into Consonants and Vowels, and into Brief and Sustained Sounds
+#### IV. How Letters Divide into Consonants and Vowels, and into Brief and Sustained Sounds
 
 The three short vowels are counted among the letters. They are called short voiced sounds. The letters alif, wāw, and yā’ when they have no vowel of their own and follow a matching short vowel are called long voiced sounds: alif follows the short “a” sound, wāw follows “u,” and yā’ follows “i.” In Arabic these are the letters that lengthen and soften the vowel. All other letters are consonants. Wāw and yā’ are also consonants when they carry a vowel, or when they have no vowel and are not preceded by the matching short vowel. Alif is only a long vowel; the name is also used for hamza, but that is a different use of the word.
 
@@ -1132,9 +1133,9 @@ A consonant followed by a short vowel forms a short syllable, such as *la*, *lu*
 
 The twenty-nine sounds of Arabic, and the sounds of other languages, differ in kind. Each sound also has variations. Some variations sort sounds into groups, such as whether a consonant is still or vowelled, rounded or open, doubled or doubled onto another sound. Others distinguish one instance from another: this “b” spoken by one person now, the same sound spoken later, or spoken by another person in a particular place and way. These questions belong more properly to the study of nature.
 
-### Book Five — Taste and Smell, and Why They Are Properties of Things
+### Book Five: Taste and Smell, and Why They Are Properties of Things
 
-#### Chapter 1 — Tastes
+#### I. Tastes
 
 Bodies are either tasteless or have a taste. Tasteless bodies may truly have no taste, or they may only seem tasteless to us. Copper, iron, and similar metals do not release particles that enter the tongue and can be tasted. But if they are dissolved and refined, they break into very fine particles and a strong taste appears.
 
@@ -1148,15 +1149,15 @@ Two tastes can also combine in one body. Bitterness and puckering come together 
 
 Among the tastes between the extremes, one breaks things apart and heats them: pungency. Another breaks things apart without heat: sourness. A third tightens and dries: astringency. This is as much about tastes as natural philosophy needs to say. Anything beyond it belongs in a book on medicine.
 
-#### Chapter 2 — Smells
+#### II. Smells
 
 We name smells in three ways. First, we name them after their sources: the smell of musk, ambergris, or dung. Second, we call them pleasant or foul, without giving a precise account of what makes each smell what it is. Third, we borrow words from tastes and speak of a sweet or sour smell. We do this because certain smells often occur with certain tastes, and we recognize one by its familiar connection to the other.
 
 This completes the account of the qualities we sense, following the approach in books such as Avicenna’s *Healing*. I will discuss how sensation works later, when I turn to qualities of the soul. There is also a deeper question about these sensed qualities. When I discuss life after death and the place of human souls after they leave their bodies, I will return to them and show that they exist as forms without matter in another world, beyond the world of opposites and change.
 
-### Part Two — Power and the lack of power
+### Section Two: Power and the lack of power
 
-#### Chapter 1 — Three Kinds of Power
+#### I. Three Kinds of Power
 
 This group of qualities has three kinds. The first is a strong tendency to be affected, as in a tendency to become ill or in softness. This is called lack of power. The second is a strong tendency to resist being affected, as in robust health or hardness. The third is a strong ability to act, as in wrestling. The second and third are called power.
 
@@ -1174,7 +1175,7 @@ To show why the ability to act does not belong here, we first need a general poi
 
 This shows that a thing needs no separate readiness, by its own nature, in order to act. Readiness belongs directly to being affected and to receiving something one did not have before. If we speak of readiness to act, we mean it only in a secondary sense.
 
-#### Chapter 2 — A Closer Look at These Kinds
+#### II. A Closer Look at These Kinds
 
 Avicenna says that someone might ask whether wrestling belongs to this group because a wrestler is hard to throw, or because he can throw others. If it belongs because he is hard to throw, the answer is easy: this group would be a stronger tendency toward one side of a passive ability, either being affected or not being affected. But that explanation creates a problem. The wrestler’s readiness is being counted here because he moves someone else, and it is hard to fit that under the other kinds of quality. If wrestling belongs because the wrestler can throw others, the original problem becomes even stronger.
 
@@ -1196,7 +1197,7 @@ Here is why. If one and the same ability remains unchanged while a separate feat
 
 There is another reason to reject the view. Heat has a strong ability to burn. If that ability belonged to this group as well as to the group of qualities that act on other things and are acted on, heat would belong to two basic kinds of quality at once. That is impossible. So a strong ability to act does not belong to this group.
 
-#### Chapter 3 — Where Softness and Hardness Fit Among the Qualities
+#### III. Where Softness and Hardness Fit Among the Qualities
 
 We have already said, when discussing qualities sensed by touch, that hardness is a natural tendency to resist being affected, while softness is a natural tendency to be affected. We cannot say that one is simply the absence of the other more than we can say the reverse. So they seem to be two positive qualities, not opposites where one is merely the absence of the other.
 
@@ -1214,7 +1215,7 @@ There is still another problem. “Readiness” and “lack of readiness” are 
 
 We know that when a body combines with qualities such as heat, cold, moisture, and dryness, these tendencies arise. Yet there may be no added quality that is itself called a “readiness.” The only way to resolve this is to say that a body's potential to accept or resist an effect can come close to being real because of a quality, or because a quality has grown stronger. This is different from mere possibility as the mind understands it. That kind of possibility cannot be closer to or farther from reality, or favor one side over another. This bodily potential can. At the same time, it is not the quality itself, and it does not belong to any of the other groups.
 
-### Part Three — Qualities found in souls
+### Section Three: Qualities found in souls
 
 These qualities are generally divided into temporary states and settled habits. Some say the difference between them is only accidental, not a difference in kind. On this view, a feature of the soul is called a state while it is first taking shape. Once that same feature becomes firmly established, it is called a habit. The same individual can have a state first and later a habit, just as one person can first be a child and later an adult.
 
@@ -1226,7 +1227,7 @@ Or we may divide these qualities into a temporary state, a settled habit, and a 
 
 States and habits include countless kinds. Books on this subject mention only a few. Sufi books, by contrast, count many stages on the seekers’ path and stations of the knowers—some give the number as seven hundred or so. Here I will discuss the kinds usually covered, each in its own chapter. Knowledge is treated separately because it is so important and its questions are so difficult. Other qualities, such as powers and character traits, are discussed in chapters.[^V04-38]
 
-#### Chapter 1 — Power
+#### I. Power
 
 We have already explained power when discussing what a capacity is. In an animal, power is a state of the soul that makes it possible for an action to come from the animal if it wills, and not to come from it if it does not. The opposite is inability. Both power and inability can vary from one action to another.
 
@@ -1244,7 +1245,7 @@ If power had to be separate from will, and could not by itself entail will, then
 
 If power were defined as existing without will, or as willing that an effect not occur, it would have to be incomplete. When a power has reached the full strength of its ability to bring about an effect, it must be joined to will, and the effect must follow without delay. This is complete power.
 
-#### Chapter 2 — Will
+#### II. Will
 
 In animals, will is a quality of the soul. Its meaning seems clear when we act, though it is hard to put into words in a way that captures it exactly. Will differs from appetite, just as reluctance differs from aversion. A person may will what they do not desire, such as taking a bitter medicine that will help them. And a person may desire what they do not will, such as eating delicious food that will harm them.
 
@@ -1260,7 +1261,7 @@ As for God’s will, the philosophers say it is His knowledge of the world’s o
 
 That knowledge is sufficient for the most complete order to exist, and it gives existence the advantage over nonexistence. In this sense, it is will. Knowledge in us, too, can become so strong that it causes something to happen outside us. For example, someone walking along a narrow, high wall may become so convinced that they are about to fall that this thought causes them to fall. The influence of some souls through concentrated intention, and the evil eye, belongs to the same kind of event; we know of their effects from experience and the reports of a truthful witness. So it should not seem impossible that eternal knowledge is the cause of all that comes to be.
 
-#### Chapter 3 — What Character Is and Its Kinds
+#### III. What Character Is and Its Kinds
 
 Character is a settled trait from which actions flow easily, without first having to think them through. It is not simply the ability to act, because an ability is equally open to opposite actions, as we have already said. Nor is character the action itself. Rather, it is a condition of the soul that lets a person perform a craft without having to consider every step: writing without thinking over each letter, or playing a lute without thinking over each note.
 
@@ -1292,7 +1293,7 @@ In short, “practical wisdom” can mean the character trait itself, knowledge 
 
 The distinction should now be clear. The three balanced virtues together—and the harmony among them—make up justice. Its opposite is injustice, which lies at any of the extremes. This is the straight path stretched over Hell, or the path that leads to deserving its punishment.
 
-#### Chapter 4 — What Pleasure and Pain Are
+#### IV. What Pleasure and Pain Are
 
 Philosophers define pleasure and pain as the awareness of what suits us and the awareness of what conflicts with us. Some doctors, including Muḥammad ibn Zakariyyā al-Rāzī, claim that pleasure is a shift out of an unnatural condition, and pain is a shift out of a natural one. On that view, no pleasure or pain could last forever. Everyday experience seems to support this: pleasures are strongest when they first arise, and fade once they settle.[^V04-41]
 
@@ -1362,7 +1363,7 @@ This also resolves another objection. A sick person may enjoy sweetness even tho
 
 If we sensed bitterness without any further effect, it would be wholly bad and painful. The extra effects are what make the medicine harmful or helpful to the body; the sensations themselves do not.
 
-#### Chapter 5 — Does All Pain Come from a Break in Continuity?
+#### V. Does All Pain Come from a Break in Continuity?
 
 Galen, whom physicians regard as their leading authority, says that the direct cause of pain—the pain felt by the senses—is a break in continuity. Heat hurts because it breaks continuity. Cold also hurts because it brings about a break, in the opposite way from gathering and compression. Black looks painful because it gathers things too much; white because it spreads them too far. Bitter and sour tastes hurt because they separate too much, while astringent taste tightens things too much and so leads to separation. Loud sounds also hurt because the movement of air strikes the eardrum with force and breaks continuity. In short, physicians agree that a break in continuity is the direct cause of pain.
 
@@ -1418,7 +1419,7 @@ The opposing view—that pain is caused by a disturbed bodily mixture—can be e
 
 The view of Avicenna and his followers is the soundest. Matter and form are joined as one in a body, so the health or corruption of either is the health or corruption of the other.
 
-#### Chapter 6 — Which Bodily Imbalance Causes Pain?
+#### VI. Which Bodily Imbalance Causes Pain?
 
 Avicenna says that an imbalance in the body causes pain only when it is hot or cold, not when it is damp or dry. It must also be an uneven, unsettled imbalance, not one that has become part of the body’s usual condition.
 
@@ -1442,7 +1443,7 @@ Avicenna’s answer is that the first quality may have disappeared from the orga
 
 Know, too, that an uneven bodily imbalance may cause no pain and may not even be sensed if it develops little by little. The first change is too small for us to notice. Then each new increase is only slightly different from what came just before, so we do not notice those changes either. A sudden change is different: because it is greater, we feel it, and we continue to feel it as long as the imbalance remains.
 
-#### Chapter 7 — Kinds of Pleasure, and Why Some Are Better
+#### VII. Kinds of Pleasure, and Why Some Are Better
 
 Pleasure and pain can be divided according to the power that experiences them. There are four kinds: pleasure and pain of understanding, of our judgments and expectations, of imagination, and of the senses.
 
@@ -1472,7 +1473,7 @@ We should not accept that what is dense must be strong, or that what is fine mus
 
 Why, then, do the senses differ? The animal body is made mainly of earth, then water, vapor, air, and fire. Above these come spirits, the heavenly spheres, and angels. Because the body is made mostly of the lower elements, most animals first sense touch, then taste, smell, hearing and sight. After these come imagined images and probable beliefs, then intellectual truths and certain knowledge. Their pleasures and pains follow the same order.
 
-#### Chapter 8 — Avicenna on Pleasure in the Senses, and a Reply to an Objection
+#### VIII. Avicenna on Pleasure in the Senses, and a Reply to an Objection
 
 In the third chapter of the sixth book of the psychology section of *The Healing*, Avicenna says that some senses feel neither pleasure nor pain in the things they sense; other senses feel pleasure or pain through them.
 
@@ -1550,7 +1551,7 @@ The eye is harmed by intense light or color, on this account, because the interv
 
 In short, what suits or opposes the sense of touch, taste, and smell also suits or opposes the body and its organs. These senses therefore have pleasure and pain in their own objects. What sight and hearing perceive does not suit or oppose the eye and ear as bodily organs. It suits or opposes the soul through its powers of sight and hearing. So pleasure and pain in sight and hearing belong to the soul through those powers, not to the eye and ear as organs. This is my conclusion on the matter, and God is the giver of grace and gifts.
 
-#### Chapter 9 — Health and Illness as Qualities of the Soul
+#### IX. Health and Illness as Qualities of the Soul
 
 Avicenna defines health at the start of the *Canon* as a state or settled condition that lets the actions of the thing it belongs to come out sound and undamaged. He uses “or” here not because he is unsure, but to show that health is a quality of the soul whether it is temporary or firmly established. Some people mistakenly say it must be a settled condition. In *The Healing*, Avicenna does call it a settled condition of an animal’s body that allows its natural and other actions to be sound. But we need not take the word “or” as uncertainty about what health is. Al-Rāzī argues that any uncertainty concerns only the accidental difference between a lasting habit and a passing state, not what constitutes health itself. Yet, as we have seen, this distinction too needs examination.
 
@@ -1578,7 +1579,7 @@ That is his full argument. It is not adequately represented by the shortened acc
 
 The answer is easy. This way of dividing illness is loose. It names the causes of illness, not illness itself. Illness is a quality of the soul that arises from one of these causes, and its kinds are named according to what caused them. People also call a body’s balanced mixture “health,” even though that mixture is a quality we sense by touch, not a quality of the soul. The word “health” in that case names the cause of health.
 
-#### Chapter 10 — The State Between Health and Illness
+#### X. The State Between Health and Illness
 
 People disagree about whether there is a state between health and illness. This is not about whether there are states, such as knowledge, power, or life, that are neither healthy nor ill. Those clearly exist. The question is whether a body can be in a condition that is neither healthy nor ill—that is, whether we can say that it is neither healthy nor sick.
 
@@ -1592,7 +1593,7 @@ Al-Rāzī says the disagreement may be only about words. Those who deny a middle
 
 Avicenna’s opening remarks in the *Canon* suggest that the disagreement depends on how health is defined. He says we should not add a second condition unless we are defining health as we please and adding requirements that are not needed. These include requiring every action to be sound, every organ to be sound, the condition to hold at every time, or health to have no near danger of ending. These restrictions exclude people whose actions are sound in some ways but not others, people with some healthy organs and some unhealthy ones, people who are healthy in winter but ill in summer, and the health of older people, children, or people recovering from illness.
 
-#### Chapter 11 — Joy, Grief, and Other Emotions
+#### XI. Joy, Grief, and Other Emotions
 
 The soul can take on states that follow from its response to things its powers recognize as helpful or harmful. Joy and grief are two such states. Joy is a state of the soul that moves the bodily spirit outward, seeking what gives pleasure. Grief moves it inward, out of fear of harm that has come upon it. Desire moves it outward to draw in what suits us and gives pleasure. Anger moves it outward to push away what opposes us and seek revenge. Fright draws it inward from something harmful, whether real or imagined.[^V04-48]
 
@@ -1608,7 +1609,7 @@ This shows that imagination responds to appearances and likenesses, not only to 
 
 But revenge must not be impossibly difficult either; it must seem within reach. If the person who caused the harm is very powerful, like a king, despair and fear can prevent the desire for revenge from taking hold. Resentment, then, arises when anger lasts and revenge seems neither too easy nor beyond reach.
 
-#### Chapter 12 — Causes of Joy and Grief
+#### XII. Causes of Joy and Grief
 
 God created, by His power, a subtle spiritual body before these dense, dark bodies. It has levels that differ in refinement, like the levels of the heavens. At its three levels it is called the mental spirit, the vital spirit, and the natural spirit. Because it is fine and lies between intellects and material bodies, it serves as a vehicle for the soul’s powers, carrying them through the body’s organs. The soul’s powers first connect to this spirit, then reach the bodily organs through it.
 
@@ -1646,7 +1647,7 @@ The strengthening of the body’s natural power has three effects: the spirit be
 
 So repeated joy prepares the spirit for more joy. Repeated grief strengthens the power to grieve because it brings about the opposite of the two effects of joy: it weakens the body’s natural power, and the spirit thickens and cools as its inborn heat fades under strong inward contraction. The other effects are the opposite of those caused by joy. We can therefore conclude that repeated joy prepares the spirit for joy, and repeated grief prepares it for grief. Someone disposed to joy is affected by grief only when its cause is strong, but even a slight cause can bring them joy. For someone disposed to grief, the reverse is true.
 
-#### Chapter 13 — Weakness and Strength of Heart, Distress and Vigor
+#### XIII. Weakness and Strength of Heart, Distress and Vigor
 
 There is a state we can call weakness of heart, and another we can call distress or heaviness of heart. They are similar, but not the same. There is also strength of heart and a state of vigor or openness of heart. These, too, are similar but different. It is hard to tell them apart because each pair often goes together. The first two may seem like passive feelings, and the second two like active states.
 
@@ -1660,7 +1661,7 @@ Fourth, their effects on the body differ. When a person with a weak heart faces 
 
 Fifth, the bodily conditions that prepare a person for each state differ. Weakness of heart may follow from a spirit that is too thin and a cold bodily mixture. Distress may follow from a thick spirit and a warm bodily mixture.
 
-#### Chapter 14 — How Emotions Affect the Body
+#### XIV. How Emotions Affect the Body
 
 The different worlds reflect one another. Whatever happens in one gives rise to something like it in another.[^V04-49] The human being is a small world with three levels: the soul at the top, the body at the bottom, and the spirit in between. The body includes the blood, which is the fitting bodily mixture that sustains it. The soul affects the spirit, and through the spirit its effect reaches the body. In the other direction, bodily changes reach the soul through the spirit. The soul and body mirror each other in this way because each can be a cause or an effect of the other. Just as their substances reflect one another, so do their qualities, feelings, and changes. The spirit stands between them.
 
@@ -1674,7 +1675,7 @@ These inward and outward movements differ in speed, in how much the body opens o
 
 The same applies to inward movement, in reverse. Fright may draw the spirit inward all at once, while sadness draws it in little by little. A person may also move in both directions at once if two feelings arise together. Worry, for example, may involve both anger and sadness, pulling the movements in opposite directions. Shame first draws the spirit inward. Then the mind returns to the matter, judges that it is not so harmful, and releases the spirit outward again, making the face red.
 
-#### Chapter 15 — How Emotions Relate to the Blood
+#### XV. How Emotions Relate to the Blood
 
 Blood carries the bodily spirit, which carries the effects of these feelings. Avicenna says that abundant, clear blood with a balanced consistency and temperament prepares a person for joy, because it produces plenty of bright spirit. If the blood is still abundant and clear but is too hot, it prepares a person for anger, because it catches fire easily and moves quickly. If it is abundant and clear but thin, cold, and watery, it prepares a person for cowardice and weakness of heart. The spirit it produces moves outward slowly and catches fire less easily because it is cold and moist. So it is less ready for joy or anger. Its thinness also makes it easy to lose, and its coldness means the body produces less of it.
 
@@ -1698,7 +1699,7 @@ The second case is the grief of a person described as melancholic. Their conditi
 
 I have taken most of this discussion from Avicenna’s account of heart medicines. These questions may fit more naturally in the study of bodies, since they concern what happens to the body when it is affected. But I have discussed them here because I am tracing the nature of the soul’s states, their features, and their bodily counterparts. This concludes the discussion of this group of qualities.
 
-### Part Four — Qualities of quantity: three articles and two preliminary questions
+### Section Four: Qualities of quantity: three articles and two preliminary questions
 
 This section has three articles. Before beginning them, I will take up two questions.
 
@@ -1718,9 +1719,9 @@ Avicenna says that some features belong to quantity itself, whether or not it is
 
 Natural science has shown that a body is not colored in itself. To say it is colored means that its surface is colored. Overall appearance, then, combines two things. Shape belongs first to the surface itself, or to what the surface encloses. Color belongs to the surface when it is the outer boundary of a natural body. Both therefore belong first to quantity, and are attributed to the body through it. That is Avicenna’s argument. I have already explained the problem with it. The remaining questions will be discussed in later chapters.
 
-### Article One — Straightness and Circularity
+### Article One: Straightness and Circularity
 
-#### Chapter 1 — What They Are
+#### I. What They Are
 
 A straight line has been defined as one whose every point lies in the same direction, with none of its parts higher or lower than another. This definition is attributed to Euclid. It has also been defined as the shortest line between two points, a definition attributed to Archimedes.
 
@@ -1730,7 +1731,7 @@ The truth is that what we are trying to define is already clear. These definitio
 
 A fourth definition says that if the two ends are fixed and the line is twisted, its position does not change. A curved arc behaves differently: twisting it changes which way its bulging side faces. A fifth definition says that a straight line is one whose middle can hide one end from a viewer looking with one eye while the other eye is closed. The objections to each definition have already been answered. All these tests, except the fourth, also apply to a flat surface.
 
-#### Chapter 2 — What a Circle Is, and How We Know It Exists
+#### II. What a Circle Is, and How We Know It Exists
 
 Qualities that belong to quantity can be divided into those that belong to separate numbers and those that belong to continuous sizes. Some number features are obvious, such as being even or odd. Others must be proved by arithmetic. They are features of number, which is itself an attribute; a feature of something that is already an attribute is even more clearly an attribute.
 
@@ -1756,7 +1757,7 @@ Once a circle is established, so are triangles, right angles, squares, rectangle
 
 Proving that circles exist also challenges those who say bodies are made of indivisible parts. Geometry can show that the square of a square’s diagonal equals twice the square of its side. The ratio between them cannot be expressed as a ratio of whole numbers. This kind of irrational ratio appears in many sizes, but cannot be accounted for if every size is built from indivisible units. Geometry can also divide a line so that its total length multiplied by one part equals the square of the other part. No whole-number ratio can meet that condition in every case; it works only for certain numbers.
 
-#### Chapter 3 — Straight and Curved Lines Differ in Kind
+#### III. Straight and Curved Lines Differ in Kind
 
 We must now ask how straightness and circularity differ, and in what sense a quality can distinguish one kind of quantity from another. Straight and curved lines clearly differ. Their difference must either come from some outside feature, or from what each line is in itself. It cannot come from an outside feature.
 
@@ -1772,13 +1773,13 @@ Every particular way of existing has its own necessary feature, along with a sha
 
 It follows that circles of different sizes differ in kind. As we have seen, a line cannot change from one particular curve to another while remaining the very same line. Each particular curve belongs to a different kind. So when geometers say that a right angle in every circle is one quarter of the full turn, or that half of it is always forty-five degrees, they are not saying that quarter-circle arcs in circles of different sizes have the same length. The arcs are alike because they have the same angle and the same proportion of the full circle. They are similar or proportional, not identical in kind. The same applies to other proportional arcs.
 
-#### Chapter 4 — Straight and Curved Are Not Opposites
+#### IV. Straight and Curved Are Not Opposites
 
 Straightness and curvature are not opposites for two reasons. First, they do not have the same individual subject, and two opposing qualities must belong to one and the same subject. Second, opposites differ as much as possible. A straight line is very different from a curved one, but no particular curve is the one that differs most from a particular straight line.
 
 One thing has one individual opposite. If straightness as a whole were opposed to curvature as a whole, each particular straight line would have one particular curved line as its opposite. But any particular straight line can be the chord of infinitely many arcs, and no two of these arcs are alike. None of them differs from the straight line more than all the others. So none is its unique opposite. If no particular curved line is the greatest possible opposite of a particular straight line, straight and curved are not opposites as kinds either.
 
-#### Chapter 5 — Can a Straight Line and a Curve Be Compared?
+#### V. Can a Straight Line and a Curve Be Compared?
 
 Some say that a straight line and a curve cannot be equal, or compared as longer and shorter. Their reason is that a straight line cannot become curved. So the two cannot be laid exactly on top of one another. If they cannot be matched, they cannot be called equal, or one greater or less than the other; nor can one be half, a third, or a multiple of the other.
 
@@ -1792,9 +1793,9 @@ But the objection can be answered this way: to say that one length is greater, t
 
 That is why we can speak of a relation between different kinds of lines or surfaces in some ways, such as by their movement over time or by comparing them in the imagination. We cannot lay them together in the physical world at one instant. This is all that can be said here. God grants success.
 
-### Article Two — Shape
+### Article Two: Shape
 
-#### Chapter 1 — Its Definition
+#### I. Its Definition
 
 Geometers define a shape as something enclosed by one boundary or several. A shape may be flat or solid. If it is flat, its boundary is a line; if it is solid, its boundary is a surface. A point is not a boundary of a shape: a line marked off by two points is not called a shape, even though the points fully mark its limits. So the phrase “fully enclosed” does not rule out the line for the reason some have suggested. A circle and a sphere have one boundary; a square and a cube have several. The same is true of a semicircle or hemisphere when its boundaries are of different kinds.
 
@@ -1808,7 +1809,7 @@ I should add one more point. We can mean unity itself, or a thing that is one. L
 
 If, instead, we use “shape” to mean an abstract idea taken from these forms, then it is only an idea the mind makes, like “thinghood” or “being a substance.” Geometers use “shape” for the bounded amount itself, which is both a shape and something shaped. Others use it for the quality that appears in a natural body because of its amount. This completes what I can establish about the second question. Shape can also be confused with position, the third question, so I will turn to that now.
 
-#### Chapter 2 — Is Shape a Quality or a Position?
+#### II. Is Shape a Quality or a Position?
 
 The reason shape may be confused with position is that shape is a form an amount has because its boundary or boundaries enclose it.[^V04-50] One meaning of position is the form something has because of the way its parts are arranged in relation to one another. A square, for example, seems to get its form from the way its sides and boundaries relate to one another. This makes it seem like a position.
 
@@ -1824,7 +1825,7 @@ We answer that shape is a stable form a thing has because of the relations among
 
 A circle does not depend on position either. What makes it a circle is the special curve of its boundary. The circumference of a circle, the surface of a sphere, and similar forms are simple forms of this kind. They are not usually called shapes because they do not fit the usual definition, unless that definition is made broader. Some therefore define shape as the form an amount has because it is enclosed by a boundary, or because it forms the boundary of something else.
 
-#### Chapter 3 — What Kind of Thing Is an Angle?
+#### III. What Kind of Thing Is an Angle?
 
 An angle differs from a shape because it is formed where two or more boundaries meet. On a flat surface, two lines meet at a point; around a solid angle, two or more surfaces meet at a point or along a line. A plane angle, for example, is a surface with two boundaries that meet at a point. The surface may also be enclosed by a third or fourth boundary, or it may not. If no third boundary encloses it, the two boundaries may meet again at another point, or they may not meet again even if extended without end. Ellipses, crescent shapes, and horseshoe shapes are examples.
 
@@ -1840,7 +1841,7 @@ The truth is that for a geometer a plane angle is an actual surface, considered 
 
 Avicenna says in his discussion of the Categories that there may be a common meaning of “angle” that covers an angle formed by two lines, several surfaces meeting at a point, and two surfaces meeting along a line. That common meaning would be an amount with several boundaries that end at one shared boundary. If we use “angle” in this broad sense, that is reasonable. A solid angle does not end at a point because it is an angle; rather, its boundaries meet at one shared boundary, which happens to be a point when the boundaries are lines. If someone insists on using “angle” only for an amount whose boundaries end at a point, I will not argue. The word then has a narrower meaning, and there are amounts with boundaries that do not fall under either “angle” or “shape.”
 
-#### Chapter 4 — Is an Angle a Quantity or a Quality?
+#### IV. Is an Angle a Quantity or a Quality?
 
 Those who say an angle is a quantity point out that it can be divided and can be equal or unequal to another angle. But qualities that belong to quantities can also be divided or compared in this way. The difference is that one has these features in itself, while the other has them through the amount it belongs to. So the mere fact that an angle can be divided or compared does not settle the question.
 
@@ -1860,7 +1861,7 @@ If we say “half a circle” or “a third of a circle,” we mean half or a th
 
 An angle is similar. It can be divided into parts that each keep the angle's defining condition, except that each part is smaller than the whole. That condition is that the surface lies between two lines that meet. So we can divide the angle with one line or many lines drawn between those two sides, from the chord toward the meeting point. We can do this without end while keeping the surface's angled form. But it cannot be divided in another direction while remaining an angle, because its defining condition would no longer hold. It can be divided in that other direction only as a surface, not as an angle. A cylinder shows the same point. It is clearly an amount and a solid body. But as a cylinder, it can be divided along the direction between its two bases, not in the other directions, because only that division preserves its cylindrical form. God is the giver of guidance.
 
-#### Chapter 5 — Why Shapes Have No Degrees or Opposites
+#### V. Why Shapes Have No Degrees or Opposites
 
 This kind of quality cannot change into another, so its members are not opposites. No square is more square than another, and no number is more even than another.[^V04-52] Whenever a quality can be stronger or weaker, the same subject must be able to take on both degrees in turn. Black and white, hot and cold, health and illness, knowledge and ignorance, and generosity and stinginess work this way. The subject leaves one state and takes on another. This is how opposites with intermediate states behave: the subject may leave one extreme, pass through a middle state, and reach the other. Justice lies between two extremes, as does temperance. But when we look at individual people, we may not judge these middle states by their exact definition. We might say that one person's justice is greater than another's, even though justice, as defined, has no greater or lesser degree.
 
@@ -1872,9 +1873,9 @@ We have already seen that straightness and circularity are not opposites. Nor ar
 
 Even and odd may seem to be opposites, but they are not. They do not take turns in the same number. Nor is it enough for two meanings to have separate names and fail to occur together in one subject. “Even” has a positive meaning: a number that divides into two equal parts. “Odd” means only that a number does not divide in that way. Its meaning is a negation attached to number in general, not a distinct kind of number. That does not make it the opposite of even. If oddness were given a positive meaning, it would at most name a different kind of meaning that does not share a subject with evenness. This is the gist of Avicenna's point here.[^V04-53]
 
-### Article Three — Overall Appearance and Number Qualities
+### Article Three: Overall Appearance and Number Qualities
 
-#### Chapter 1 — Overall Appearance (Question Five)
+#### I. Overall Appearance (Question Five)
 
 As we have said, the kind of sameness we count depends on what we are dividing. When we divide something into specific kinds, we count sameness of kind. When we divide it into individual things, we count each thing as its own individual. Otherwise, no division would have a finite list of parts. If we divided words into kinds, for example, we could not stop at nouns, verbs, and particles. Words can be joined in endlessly many ways, creating endlessly many further kinds.
 
@@ -1886,7 +1887,7 @@ Or we can say that when shape and color come together, they produce another qual
 
 This second answer works only if the beauty of an overall appearance is not simply a combination of beautiful color and beautiful shape, and the same for ugliness. That is open to question. Since this is not an important issue, we can leave it aside.
 
-#### Chapter 2 — Can Attributes Have General and Specific Parts?
+#### II. Can Attributes Have General and Specific Parts?
 
 Most philosophers do not think kinds of attributes can be built from a general kind and a feature that distinguishes it, as substances can. That is why they find it difficult to explain how overall appearance could be a single kind of quality.[^V04-54] Avicenna replies that we need not deny that one attribute can consist of other attributes. Ten is an attribute insofar as it is a number; as a quantity, it is made up of five and five. A square is also an attribute, made up of a surface bounded by four lines. But Avicenna means that substances can have parts that play the roles of a general kind and a defining feature, even if those parts are not literally a broader kind and a defining feature. Attributes do not have parts of this kind, even when they can be described as having parts.
 
@@ -1904,7 +1905,7 @@ I say that anything belonging to a category or general kind must be one thing in
 
 If I may say so, the same is true of what are called composite substances. But the features that define something can be understood in two ways. We may take them from the thing itself: one meaning applies to it and other things, and another is specific to it. Both are present in the thing itself. Or we may take them from what surrounds it: its general kind from its matter, and what distinguishes it from its form. The form can contain all the meanings found in the matter that it shapes. I will examine this more fully later, if God wills.
 
-#### Chapter 3 — Features and Qualities of Numbers
+#### III. Features and Qualities of Numbers
 
 These questions are better handled in particular fields such as arithmetic and measurement. Here, I will mention only three points.
 
@@ -1914,11 +1915,11 @@ Second, these features cannot become stronger or weaker, or increase or decrease
 
 Third, being even or odd is not part of what a number is. These features are said of numbers of different kinds with the same clear meaning. If one of them were part of the nature of some numbers, it would be part of the nature of all numbers, since no number has a claim to it over another. Then the meaning of evenness would belong to every even number, and the meaning of oddness to every odd number. If that were so, we would know at once whether any number was even or odd. But we often have to work it out, especially with large numbers. So evenness and oddness are not essential features of numbers.[^V04-55] This ends what I intended to say about the category of quality. May praise of the One who gives understanding never end, and may blessings on His Messenger and family be beyond counting.
 
-### Third Part — The Remaining Kinds of Properties
+### Part Three: The Remaining Kinds of Properties
 
-### Article One — Relation
+### Article One: Relation
 
-#### Chapter 1 — Starting the Discussion of Relations
+#### I. Starting the Discussion of Relations
 
 We need to understand “relation” in the same way we understand “existence” and “one”: each can mean three different things. “Existence,” for example, can mean existence itself; it can mean something described as existing; or it can mean an existing thing, such as a human being together with its existence. The first is like the idea of a “kind” considered in logic; the second is like human nature considered in common; the third brings the two together, as when we think of “human being” and also think of it as a kind. “White” can also mean the quality of whiteness, the thing that is white, or the thing together with that quality.
 
@@ -1930,7 +1931,7 @@ The same three meanings apply to relation. We may mean the relation itself, the 
 
 But for something to be understood in relation to another, it is not enough that thinking of one happens to bring the other to mind. Otherwise, every thing would be relative to its cause or effect. Many things have their own nature and can be understood on their own, even if they are connected to something else. Rather, a relative is something whose nature cannot be established in the mind or in reality unless the other side is established too. Parenthood, for example, cannot exist without the relation of being a child.
 
-#### Chapter 2 — What a True Relation Is
+#### II. What a True Relation Is
 
 You may object that this definition fails. To say that something is understood “in relation to something else” brings us back to relation itself, or to a kind of relation. So the definition explains something by itself, or by something that depends on it. If “understood in relation to something else” means that understanding one thing requires understanding another, then the definition goes in a circle for the two sides of a relation: each depends on the other. If it means that two things are simply understood together, then many things that are not relatives also fit. We understand a roof together with its wall, but the nature of a roof and a wall is not a relation between the two. Someone might reply that a relative must be understood together with the thing that corresponds to it. But when we look closely at what “corresponds” means here, we find that it comes back to relation.
 
@@ -1942,7 +1943,7 @@ The second definition—“a relative is something whose existence is its being 
 
 As for the difference between a relation and a reciprocal relation, not every relation is reciprocal. A relation becomes reciprocal when we consider it from both sides: not only one thing's relation to another, but also the relation that follows on the other side. A roof, for example, rests on a wall, and the wall supports the roof. That is why they say a relation can be considered from one side, while a reciprocal relation involves both sides.
 
-#### Chapter 3 — Properties of Both Sides of a Relation
+#### III. Properties of Both Sides of a Relation
 
 One property of the two sides of a relation is that they depend on each other. If one exists, the other must exist too, whether in reality or in thought, and whether the relation is actual or only possible. The same is true of their absence. But this seems difficult to apply to earlier and later times. They are related, yet they do not seem to exist together. We also know that something of value will exist in the future, and knowledge and what is known are related, yet the value does not exist now while our knowledge of it does.
 
@@ -1978,7 +1979,7 @@ We can now see that the true balance in a relation is between father and son: ea
 
 Some related terms need no linking word, when the relative itself has a name, such as “greater” and “smaller.” Others need a linking word. Sometimes it is the same on both sides: “A slave belongs to a master,” and “a master belongs to a slave.” Sometimes it differs: “A knower knows through knowledge,” while “knowledge belongs to a knower.”
 
-#### Chapter 4 — What the Category of Relation Itself Means
+#### IV. What the Category of Relation Itself Means
 
 The definition given earlier—“something whose nature is understood in relation to something else”—can mean the concept itself: the very meaning of being understood in relation to another. It can also mean another nature to which this description applies. A father, for example, is understood in relation to a son, but he also has a nature of his own, such as being a human being or a horse. Fatherhood, by contrast, has no nature beyond being understood in relation to a son. So there are three things. First is what the definition describes directly: the category of relation, one of the ten highest categories.
 
@@ -1990,7 +1991,7 @@ I have already pointed out the difference. The first is the very meaning express
 
 Someone might object that relation itself is also a thing whose nature is understood in relation to another, so it should not be a category. My answer is that relation itself is a thing only in the sense that it is a relation. But a father, a house, or anything else that has a relation is already a particular kind of thing—human being, house, or something else—before the relation belongs to it. A father considered as a person has fatherhood; fatherhood itself is a relation. A feature in this sense is the very quality it names, just as “rational,” taken as a defining feature, can mean the substantial form of a reasoning being itself.
 
-#### Chapter 5 — Does Relation Exist Outside the Mind?
+#### V. Does Relation Exist Outside the Mind?
 
 Many things exist without having an existence of their own. These include the meaning of an attribute and the meanings of general and specific features in a simple thing.[^V04-59] Relations and other connections are like this. A relation does not exist apart from the existence of substance, quantity, quality, or another thing. Rather, it exists when one of these things has a nature that the mind understands in relation to something else. A roof, for example, has a position, and the mind understands its relation to the wall in that position.
 
@@ -2004,7 +2005,7 @@ This is Avicenna's account in his *Healing*. It clearly answers the objection in
 
 The second argument is one we have already seen: if earlier and later relations exist, then past and future times must exist together. The answer is also the one given earlier. Parts of time do not exist together at one instant, as things that exist at an instant do. They exist together as parts of one continuous, changing existence. In that continuous existence, their being together is their being earlier and later, just as the unity of a number is also its many parts.
 
-#### Chapter 6 — How Relation Exists in the Outside World
+#### VI. How Relation Exists in the Outside World
 
 There are several puzzles about how relation exists outside the mind. First, if relation exists, it must share in existence with other things and also differ from them in some special way. Unless existence is given that special feature, the relation will not exist outside the mind. So the feature must come before the relation. But being given that feature is itself the relation. If relation can exist only because another relation already exists, the same question arises about that earlier relation. The existence of one relation would then depend on endlessly many similar relations.
 
@@ -2038,7 +2039,7 @@ Second, something existing in itself may be possible or necessary, a substance o
 
 Third, a relation does not have a separate, settled existence like other qualities. Its appearance or disappearance therefore need not change the thing to which it is attributed, either in its own being or in its real qualities. One side of a relation may change while the other remains as it was. A person in a room can become one of two people, then one of three, then one of four, without any change in that person or their qualities. Likewise, a change in relations involving God, whose existence is necessary, does not mean a change in God Himself or in any of His perfections. Once the preceding account is clear, this is not difficult to understand.
 
-#### Chapter 7 — When One Side of a Relation Becomes Specific, So Does the Other
+#### VII. When One Side of a Relation Becomes Specific, So Does the Other
 
 If fatherhood is taken generally, it corresponds to sonhood in general. If fatherhood is taken as a specific kind, it corresponds to sonhood as a specific kind. And when fatherhood becomes an individual relation, the other side becomes individual sonhood. This rule applies when we make the relation itself more specific. It does not always apply when we make only the subject of the relation more specific.
 
@@ -2050,7 +2051,7 @@ Some relations are very broad kinds, such as agreement. Others are narrower kind
 
 A relation can also become specific through the subject it belongs to. A feature that is not part of the relation itself may be added to its subject. If that feature were absent, the same kind of relation could still remain. For example, a man can be a just father or an unjust father. The quality of being just or unjust belongs to the father, not to fatherhood itself.
 
-#### Chapter 8 — Different Ways to Classify Relations
+#### VIII. Different Ways to Classify Relations
 
 Some relations have different things on their two sides, as with father and son, double and half, or a square number and its square root. Others have the same kind of thing on both sides, as with equal things, brothers, or neighbors. In a pair of unlike things, the difference may have a fixed limit, as with half and double. Or it may have no fixed limit. Some unlimited relations are based on a fixed one, such as many times more or fewer, or the whole and one of its parts. Others have no fixed limit and are not based on a limited relation, such as greater and less.
 
@@ -2062,7 +2063,7 @@ This is what we find in Avicenna and other writers, though I have already questi
 
 Relations also occur in every category of things. In substance, we find father and son, knower and known. In quantity, we find large and small for continuous amounts, many and few for separate amounts. In quality, we find hotter and colder; in relation, nearer and farther; in place, higher and lower; in time, older and newer; in position, more upright or more bent; in having, better clothed or less clothed; in acting, more or less cutting; and in being acted on, more or less heated or cut.
 
-#### Chapter 9 — Can Relations Be Opposites or Have Degrees?
+#### IX. Can Relations Be Opposites or Have Degrees?
 
 A relation, considered by itself, does not have an independent existence. As we have seen, it depends on the things that bear it. So it follows those things in all matters of existence. Opposition, before and after, potential and actual, and similar features belong directly to the things themselves; they belong to their relations only because those relations depend on them. For example, hot and cold are truly opposed. The relations “hotter” and “colder” are opposed only because the things that bear them are hot and cold. A relation cannot be opposed to another if we set aside the things it belongs to.
 
@@ -2072,7 +2073,7 @@ But in his discussion of relation, Avicenna says that relations share the featur
 
 The same applies to whether relations can be stronger or weaker, or increase or decrease. A relation can share these features when the category of its subject allows them. These are general rules about relations. It is also useful to discuss some of their kinds in particular.
 
-#### Chapter 10 — Universal and Particular, Essential and Accidental
+#### X. Universal and Particular, Essential and Accidental
 
 “Universal” is a relational feature that can belong to a nature: it means that the nature is shared by many things. Any nature other than existence itself can have this feature. It moves from possibility to actuality when individual examples of it appear. This relational feature is different from a thing's simply being able to apply to many or to be shared among them. As we have seen, “universal” may mean the feature itself, the thing that has the feature, or both together. Here I mean the feature itself.
 
@@ -2104,9 +2105,9 @@ Completeness differs from “whole” and “all” in how we use the terms. A c
 
 You may ask what the philosophers mean when they say that God is all things. I reply that the meaning is subtle. Because God is utterly simple and one, no reality is outside His essence. Yet no thing exists in Him as a separate part, and there is no multiplicity in Him, either actual or possible.
 
-### Article Two — The Remaining Categories
+### Article Two: The Remaining Categories
 
-#### Chapter 1 — What “Where” Means
+#### I. What “Where” Means
 
 “Where” has been defined as a thing's being in its proper place. It should not mean merely the relation between a thing and its place, or it would belong to the category of relation. Rather, it is a state of the thing to which that relation to its place belongs.
 
@@ -2118,7 +2119,7 @@ Someone has also argued that being in a place cannot be the same as existing out
 
 I answer that the same argument could be made about every particular thing that exists. It would imply that being physical, being separate from matter, or being able to sense are features added to each thing's existence. That is not so. The mistake is to treat general existence as one shared kind that applies to every individual in the same way. As I have said many times, the idea of existence in general is an abstract idea; it is not one common nature found in every existing thing.
 
-#### Chapter 2 — Different Kinds of “Where”
+#### II. Different Kinds of “Where”
 
 There are two ways to divide “where.” First, some where is exact and real; some is broad and not exact. The first is a thing's being in the particular place that belongs to it, where no other thing can occupy the same place with it, as water in a cup. The second is what we mean when we say that someone is in a house. A house can hold many things, so it is not all filled by one person. Broader still is being in a dwelling, then in a city, a country such as Iraq, a region, the inhabited world, the world of elements, or the physical universe contained by the outermost sphere. This is the broadest reach. But simply being in the universe is not a “where” in the strict sense.
 
@@ -2128,7 +2129,7 @@ Some say that each exact, individual place must be caused by a quality in the th
 
 I see two problems with this objection. First, the quality in question may be one part of the cause, a condition, or a factor that prepares the thing. It need not be the sole cause that must always coincide with the effect. Second, even if the quality occurs only when the object is in its place, the two may simply coincide in time; that does not show that one causes or precedes the other. The difference is like the difference between saying, “this holds while the quality is present,” and saying, “this holds on the condition that the quality is present.” The second is narrower, and the broader statement does not imply it. Every writer must move their fingers while writing, and that movement is required at that time because of the causes at work then. Writing does not cause the fingers to move. If anything, the movement of the fingers brings writing about in the world.
 
-#### Chapter 3 — Further Features of “Where”
+#### III. Further Features of “Where”
 
 “Where” can have opposites. Being at the outer edge of a place is opposite to being at its center. These are both real states, they differ as much as possible, and they cannot belong to the same thing at the same time. Yet one can follow the other. So they are opposites.
 
@@ -2136,7 +2137,7 @@ I see two problems with this objection. First, the quality in question may be on
 
 So strength and weakness do not belong to “where” itself. They belong to some of its kinds, such as above and below. But this is not because the added relations of being above or below grow stronger or weaker, as the author of *The Discussions* claims. As we have already seen, relation itself does not take degrees.
 
-#### Chapter 4 — What “When” Means and Its Kinds
+#### IV. What “When” Means and Its Kinds
 
 “When” is one of the categories. It means that a thing exists at a particular time or at some limit of time. Many things occur at the edges of time without occupying a stretch of time, yet we can ask when they happen. Arrivals, contacts, and other events of this kind occur at something that has some connection to time.[^V04-65] “When” can be general or particular, just as “where” can: a thing may be in time in general, in a certain time, or at a particular instant.
 
@@ -2148,7 +2149,7 @@ People then say that motions and moving things have a “when” in themselves. 
 
 Anyone who defines time only as the measure of motion in terms of earlier and later must say that every motion in the world below the heavens has its own time. The definition needs another condition: it must mean the measure of the celestial sphere's motion, or of an unbroken motion, or of the clearest, fastest, or strongest motion.
 
-#### Chapter 5 — Position
+#### V. Position
 
 Position is a body's arrangement, with its parts related to one another in different directions, as when it is standing or sitting. Position is not the relations among the parts themselves. Those relations belong to the category of relation, as does being next to something. Rather, position is the body's state in which its parts have these relations, as we have explained.
 
@@ -2170,13 +2171,13 @@ I answer that the relation between this straightness and bending and the feature
 
 Keep this distinction in mind; many people miss it.
 
-#### Chapter 6 — Possession
+#### VI. Possession
 
 Possession is another category. It is a state that arises when one body is wholly or partly surrounded by another, and the surrounding body moves when the surrounded body moves. Examples include wearing armor or clothes, a turban, a ring, or shoes. Possession can be natural, as an animal is with its hide, or acquired, as when someone wears armor or clothes.
 
 “Having” can also mean what something has. In this sense it may be natural, as the powers belong to the soul, or based on an outside convention, as a horse belongs to Zayd. Strictly speaking, this kind of ownership is different from the category of possession. It belongs only to the category of relation.
 
-#### Chapter 7 — The Categories of Acting and Being Acted On
+#### VII. The Categories of Acting and Being Acted On
 
 The first is a substance acting on something else and producing a changing effect in it for as long as the action continues. Heating, for example, is present while something is warming; cooling is present while something is cooling. The second is a substance being affected by something else, with a changing effect for as long as the change continues, as when something is warming or turning black.
 
@@ -2188,7 +2189,7 @@ These categories can have opposites and come in degrees. Whitening is opposite t
 
 Know that the existence of either category in the outside world is not the gradual process itself, since that is motion. Nor is it simply the existence of the category that is being changed, such as a quality like blackness, a quantity like the size of a growing body, or a position like sitting or standing. Their existence is the existence of one of these categories while it is acting or being acted on. Blackness or heat, considered just as blackness or heat, belongs to the category of quality. But either one, considered as coming about gradually and producing another gradual change—or coming about through another gradual change—belongs to the category of acting or being acted on. The gradual process itself—the shift from what something can be to what it actually is, whether in what acts or in what is acted on—is motion and nothing else. This shows how these categories exist outside the mind and why they are accidents.[^V04-68]
 
-#### Chapter 8 — Answering an Objection to the Existence of These Categories
+#### VIII. Answering an Objection to the Existence of These Categories
 
 The author of *The Discussions* argues as follows. One thing's acting on another cannot be a positive feature added to the agent and its effect. In the same way, one thing's being affected by another—its capacity to receive an effect—cannot be a positive feature added to the receiver and what it receives.
 
@@ -2210,11 +2211,11 @@ An act that unfolds over time may be something real in the world, yet follow nec
 
 It is also not true that the agent's act upon that act must be something further, added to both. The changing act, which belongs to the category of acting, may be something added to the agent; but the creative act is not an extra thing in the outside world, added to the agent. It is the agent's own relation of acting and bringing about. We have already learned that relations do not exist independently in the outside world.
 
-### Art Four — Substance, its basic kinds, and their properties
+### Part Four: Substance, its basic kinds, and their properties
 
 These topics concern features of being as such, so they belong in general philosophy, which studies the features of existence without considering the particular details of individual things. This art has an introduction and several questions. The introduction explains the nature of substance and accident and their general features, in chapters.
 
-#### Chapter 1 — Examining the Nature of Substance and Accident
+#### I. Examining the Nature of Substance and Accident
 
 Know that some things are said to exist in themselves, while others are said to exist only by extension. An example of the first is “a human being is an animal”: the existence attributed to “human being” truly belongs to “animal” as well, since animal is truly predicated of human being. An example of the second is “Zayd is blind” or “Zayd is white.” The existence attributed to Zayd does not truly belong to blindness or whiteness. It is attributed to them indirectly, through some connection between the predicate and its subject. The connection may be negative or positive: the source of the predicate is either drawn from the subject or present in it. In this second kind of statement, it is the subject that exists, but its existence is attributed indirectly to the predicate. This kind of existence has no clear limit, so we will set it aside and focus on what exists in itself.
 
@@ -2254,7 +2255,7 @@ On the account given by Aristotle’s followers, substance has five primary kind
 
 A better division is this: if a substance can receive three dimensions, it is body. If it cannot, then either it has a part that makes it actual—whether as part of its kind or of its species—in which case it is form, either spatial or natural; or it has a part that exists only potentially, in which case it is matter. If it has no part, then if it directly governs a body, it is soul; otherwise it is intellect. This distinction will become clearer as our discussion proceeds. The human rational substance, for example, is matter for the intellectual form through which it becomes another, more complete substance in actuality, belonging to a kind that exists in a different way from the natural kinds that have bodily existence.[^V04-69] Understanding this is a gift of God's grace.
 
-#### Chapter 2 — Defining Accident
+#### II. Defining Accident
 
 This topic does not follow directly from the previous division of everything that exists into what is in a subject and what is not. Still, following the early philosophers, we will give here the usual definition of accident. An accident is something that exists in another thing, is not what makes that thing what it is, is not a part of it, and cannot exist apart from what it is in. These are four qualifications.
 
@@ -2312,7 +2313,7 @@ If “describing” means following something in existence, then matter is the o
 
 Know that accident and matter share a low and weak kind of existence, but each has an advantage over the other in one respect and a shortcoming in another. An accident's advantage is that its existence is distinct from its subject's existence; its shortcoming is that it lies outside the subject's essential makeup and has no independent standing at that level. Matter's advantage is that it is part of what makes its subject what it is; its shortcoming is that its own reality is indefinite and its existence is not distinct.
 
-#### Chapter 3 — Defining Substance: Existing Not in a Subject
+#### III. Defining Substance: Existing Not in a Subject
 
 We have already explained the meaning of substance, “what exists not in a subject,” in a way that avoids including God as a counterexample or excluding the intelligible forms in the mind, for those who think they inhere in the mind. On our view, there is no difficulty: imagined substantial forms are not imprinted in the imagination, nor are intellectual forms imprinted in the intellect. Rather, the knower becomes one with what is known, and the imagining or sensing soul becomes one with its imagined or sensed forms.
 
@@ -2334,7 +2335,7 @@ Thus, even if substantial meanings exist in the mind as the philosophers say, we
 
 He is the First and the Last, the Manifest and the Hidden, and He encompasses all things. What distinguishes substantial existence from the existence of accidents—including the existence of substantial concepts in the mind, as those who hold that they inhere there would say—is that substance does not depend on a subject, while accidents do. Hold fast to what we have explained. You will not find it stated with this clarity in the books commonly read.
 
-#### Chapter 4 — Is “Substance” Predicated of Its Subordinates as a Broader kind?
+#### IV. Is “Substance” Predicated of Its Subordinates as a Broader kind?
 
 Most philosophers hold that substance is predicated of the things beneath it as a constituent broader kind, answering the question “What is it?” in a shared sense. A minority hold that it is predicated of them like an external feature that necessarily follows them. They have sometimes supported this view with weak arguments.
 
@@ -2362,7 +2363,7 @@ I am not speaking here of their being existent substances. Matter and form may h
 
 This is what philosophers have said in this kind of discussion. We have already examined degrees of priority and gradation; keep that in mind. In the chapter after this, we will give further evidence for first substances, second substances, and what follows from them. As for the fifth argument, a universal concept of a substance can be called a substance when we say what that concept means. But the concept is not itself a substance in the ordinary sense of a thing that exists independently. We will explain this difference more fully.
 
-#### Discussion and Clarification
+#### 1. Discussion and Clarification
 
 In their writings, philosophers sometimes give three arguments to show that universal substances are substances. They call them proofs.
 
@@ -2464,7 +2465,7 @@ As for “rational” taken without qualification, animal is only an external fe
 
 You might say that animal taken in abstraction falls under animal taken absolutely as a broader kind, just as a species falls under its broader kind: it is the same broader kind, with the added condition of being abstracted, and so is a species of it. I answer that animal taken this way may be a species, but only in an abstract, intellectual sense. It does not exist outside the mind in that respect. If it did, it would be composed of broader kind and difference, though it was assumed to be simple. That is impossible. Besides, if this kind of inclusion were enough for a thing to fall under a broader kind in the outside world, it would settle the very case in dispute: a simple substance, or one of the two parts of a substantial species, could be a substance taken without any added condition or qualification. It would then be possible for the simple to be an existing substance.
 
-#### Chapter 5 — Why Some Substances Are More Basic Than Others
+#### V. Why Some Substances Are More Basic Than Others
 
 Philosophers commonly divide substances into primary substances, such as individual things; secondary substances, such as species; and third-level substances, such as broader kinds. They say that individuals are more truly substances than species, and species more truly substances than broader kinds. They do not mean that the very meaning that makes substance a broader kind comes in degrees. They have already established that an essential feature cannot be stronger or weaker in this way. Rather, they mean that individuals are more substantial in one of three respects: the existence included in the definition of substance, independence from a subject when something actually exists, or rank and excellence. In these respects, individuals are more truly substances than species: they are more independent of a subject, exist before universal species, and are the first things called substances.
 
@@ -2522,7 +2523,7 @@ To answer the fifth objection: the substantiality of a body is not different in 
 
 Still, the body is certainly an existing substance. Its substantial existence, on the view we have chosen, is not identical with the existence of either part, and the substantiality of the whole is not numerically the same as the substantiality of either part. The whole has a third substantiality, different in number from the substantiality of matter and form, though not different from them in the meaning of substantiality or in the fact that the whole is a substance. The substantiality of the whole is that of the whole, not something separate from the whole; nor is it different from the substantiality of each part in its meaning.
 
-#### Chapter 6 — The Properties of Substance
+#### VI. The Properties of Substance
 
 One property of substance is that it has no contrary. This is true if by contraries we mean things that take turns in the same subject and are as far apart as possible. If by “subject” we mean any underlying thing, including both the subject of accidents and the matter of substances, then substances do have contraries: the form of fire is contrary to the form of water. Some have reported that Avicenna considered this dispute merely verbal. As we will see, it is not.
 
@@ -2538,7 +2539,7 @@ But the philosophers do not mean that substance does not move. They mean that mo
 
 His later discussion shows only that quantity does not itself move; it does not show that motion does not occur in quantity. Those are different claims. In fact, what moves in every motion is, in itself, material substance. The property of the category of substance is not that nothing moves, but that substance does not come about gradually through a process of motion. That is what the philosophers mean when they say that substance does not intensify or move: motion does not occur in it.
 
-### A Closer Look
+### 1. A Closer Look
 
 Those who have spiritual insight, supported by strong proof and clear knowledge, take a different view: just as change can occur in quality, it can occur in substance. In the material world, the individual unity of what undergoes substantial motion is preserved by two things: an intellectual, luminous, active unity belonging to the intellect that causes it, and an open-ended, receptive unity belonging to matter, which remains through its changes and transformations.
 
@@ -2552,7 +2553,7 @@ You know that measurable size cannot be separated from matter, either in reality
 
 Also, if there were no shared limit between water and air—no point at which the hottest kind of water meets the coolest kind of air—then matter would have to be without any form for an instant. As we have said, that is impossible both by common agreement and by proof. The only way to avoid this problem is to allow motion in substantial forms: intensification and weakening.
 
-### A Note
+### 2. A Note
 
 One thing that points to and supports this view is the development of semen in the womb. It gradually becomes complete enough to perform the functions of plant life, then develops until it performs the functions of animal life, and then those of a human being. If these perfections appeared all at once, with no gradual intensification or development, the change would have to happen through an abrupt destruction of one form and an instantaneous arrival of another. This would mean that agents with entirely different natures took turns acting on the same matter. That does not happen in natural processes. One agent can hand over the material of its work to another only in deliberate crafts, where the work is done by intention and planning. In nature, the material of each process is bound up with the agent that acts on it.
 
@@ -2600,7 +2601,7 @@ People say that a broader kind is ready to receive defining features, but this i
 
 The property we are discussing is that one individual thing in reality can receive two opposing qualities. If the universal itself, as universal, could receive both, every color would be black and white. And if the universal nature of color could become black, it would be something made black, not black itself; the same would be true if it became white. There would then be no actual black or white in existence. Such errors often come from confusing numerical unity with unity of meaning.
 
-#### Chapter 7 — Why One Thing Cannot Be Both Substance and Accident
+#### VII. Why One Thing Cannot Be Both Substance and Accident
 
 The truth of this claim is obvious as soon as we consider what “substance” and “accident” mean. One is the negation of the other: an accident exists in a subject, while a substance exists without being in a subject. A thing and its negation cannot both apply to the same thing. By “substance” we mean something whose existence does not depend on a subject; by “accident” we mean something whose existence depends on some subject. So one thing cannot fall under both meanings.
 
@@ -2624,7 +2625,7 @@ For example, a human being is a substance in itself and essential to humanity, b
 
 So a thing’s being a part of a compound does not make it a substance in itself. It is a substance only if its essence does not depend on a subject. If its essence depends on a subject, it is an accident, whether or not it is part of something. When philosophers say that a part of a substantial compound is itself a substance,[^V04-88] they mean a natural compound with one nature. A part of a natural compound exists in it as matter or form, not as an accident in a subject. Avicenna discusses these points at length in the *Categories* of *The Healing*. What we have said is enough for a seeker whose aim is simply to reach what is needed to understand the subject, clear away obstacles, and resist those who mislead—not to master every argument, school, and opinion.
 
-### A Difficulty and Its Solution
+### 1. A Difficulty and Its Solution
 
 It is surprising that the author of *The Eastern Discussions*, after repeating these ideas in his books and commentaries on the philosophers, later says that they could defend their view this way: anything that exists in something else can be considered as being in a subject or as being in a compound. The second way does not make it an accident, since it is a part, and an accident cannot be a part. The first way—being in a subject—must mean either that the subject is constituted by what exists in it or that it is not.
 

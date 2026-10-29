@@ -5,60 +5,61 @@
 **Mulla Sadra (Ṣadr al-Dīn Muḥammad al-Shīrāzī)**
 
 ## Contents
-- Third Journey — Knowledge of God
-  - Art One — God’s nature and attributes
-    - Station One — The Necessary Being and the kind of existence that belongs to Him
-      - Chapter 1 — Proving God's Existence and Knowing What He Is
-      - Chapter 2 — Other Paths to This Great Goal
-      - Chapter 3 — A Persian Proof, and Its Flaws
-      - Chapter 4 — Other Ways to Prove That God Exists
-      - Chapter 5 — Why God's Existence Is His Essence
-      - Chapter 6 — God's Oneness: He Has No Partner in Necessary Existence
-      - Chapter 7 — A Later Thinker’s Proof of Oneness, and Its Problems
-      - Chapter 8 — The Necessary Being Has No Partner in Divinity: The World Has One God
-      - Chapter 9 — God Is Simple in Every Respect, with No Parts in Reality or in Thought
-      - Chapter 10 — God’s Nature Cannot Be Divided into Kinds
-      - Chapter 11 — God Has No Partner in Any Concept
-      - Chapter 12 — The Necessary Being Is the Fullness of All Things, and All Things Return to Him
-    - Station Two — A general inquiry into God’s attributes
-      - Chapter 1 — The Kinds of Attributes
-      - Chapter 2 — Another Fourfold Division of Positive Attributes, to Show Which Apply to the Necessary Essence
-      - Chapter 3 — The Later Thinkers’ Claim That God’s Attributes Must Be Identical with His Essence
-      - Chapter 4 — Establishing That God's Perfections Are Identical with His Essence
-      - Chapter 5 — How God's Real Attributes Are One Reality but Many Concepts
-    - Station Three — God’s knowledge
-      - Chapter 1 — Foundations for This Inquiry
-      - Chapter 2 — Proving That God Knows Himself
-      - Chapter 3 — God's Knowledge of Everything Other Than Himself
-      - Chapter 4 — A Survey of Views on God's Knowledge of Things
-      - Chapter 5 — Why the Muʿtazilite View Is Wrong, and How to Understand a View Attributed to the Sufis
-      - Chapter 6 — The Platonists' Separate Ideas, and the View Attributed to Porphyry
-      - Chapter 7 — The View That Forms of Things Are Present in God's Essence
-      - Chapter 8 — The True Account, and Problems with the View That Forms Are Imprinted in God's Essence
-      - Chapter 9 — The View That God's Knowledge of All Things Is One
-      - Chapter 10
-      - Chapter 11 — The View That God's Knowledge of Things Is a Relation of Illumination
-      - Chapter 12 — The Clear Truth About God's Knowledge Before All Things
-      - Chapter 13 — The Levels of God's Knowledge of Things
-    - Station Four — God’s power
-      - Chapter 1 — What “power” means
-      - Chapter 2 — In us, power is potential; in God, it is full actuality
-      - Chapter 3 — Answering an objection
-      - Chapter 4 — Another reason one will cannot choose either side of every possibility
-      - Chapter 5 — The theologians' views on what makes God will the world's creation
-      - Chapter 6 — Clearing up some misunderstandings
-      - Chapter 7 — What will and aversion mean
-      - Chapter 8 — Answering objections about God's will
-      - Chapter 9 — Further support from reports of the Imams
-      - Chapter 10 — God's wisdom, care, guidance, and generosity
-      - Chapter 11 — His will extends to all actions
-      - Chapter 12 — Answering the remaining objections to eternal will, and some objections to created will
-      - Chapter 13 — How to understand scriptural references to God’s hesitation and testing, and to a change in what is decreed
-      - Chapter 14 — A fuller account of answered prayers and how to resolve the objection
-    - Station Five — God is living
-    - Station Six — God hears and sees
 
-### Third Journey — Knowledge of God
+- Third Journey: Knowledge of God
+  - Part One: God’s nature and attributes
+    - Station One: The One Who Must Exist: His manner of existence, perfect oneness, and completeness
+      - I. Establishing God's Existence and Coming to Know Him
+      - II. Other Paths to This Great Goal
+      - III. A Persian Proof, and Its Flaws
+      - IV. Other Arguments That Do Not Hold Up
+      - V. Why God's Existence Is Not Separate from What He Is
+      - VI. God's Oneness: He Has No Partner in Necessary Existence
+      - VII. A Later Thinker’s Proof of Oneness, and Its Problems
+      - VIII. The Necessary Being Has No Partner in Divinity: The World Has One God
+      - IX. God Is Not Made of Parts, Either in Reality or in Thought
+      - X. God Cannot Be Divided into Different Kinds
+      - XI. No Concept Makes God One of Several Beings
+      - XII. God Is the Fullness of All Things, and All Things Return to Him
+    - Station Two: A general inquiry into God’s attributes
+      - I. The Kinds of Attributes
+      - II. Four Ways of Describing Qualities, and Which Can Truly Be Said of God
+      - III. The Later Thinkers’ Argument That God’s Attributes Are Not Separate from What He Is
+      - IV. Why God's Perfections Are Not Separate from What He Is
+      - V. How God's Qualities Are One Reality Though Their Meanings Differ
+    - Station Three: God’s Knowledge
+      - I. Foundations for This Inquiry
+      - II. Proving That God Knows Himself
+      - III. God's Knowledge of Everything Other Than Himself
+      - IV. A Survey of Views on God's Knowledge of Things
+      - V. Examining the Muʿtazilite View and a View Attributed to the Sufis
+      - VI. Plato’s Forms Apart from Matter, and the View Attributed to Porphyry
+      - VII. The View That Forms of Things Are Present in God's Essence
+      - VIII. The True Account, and Problems with the View That Forms Are Imprinted in God's Essence
+      - IX. The View That God's Knowledge of All Things Is One
+      - X. Untitled chapter
+      - XI. The View That God Knows Things Through the Light That Reveals Them
+      - XII. The Clear Truth About God's Knowledge Before All Things
+      - XIII. The Levels of God's Knowledge of Things
+    - Station Four: God’s power
+      - I. What “power” means
+      - II. Our power is an ability we may exercise; God’s power is always fully realized
+      - III. Answering an objection
+      - IV. Another reason one will cannot choose either side of every possibility
+      - V. The theologians' views on what makes God will the world's creation
+      - VI. Clearing up some misunderstandings
+      - VII. What will and aversion mean
+      - VIII. Answering objections about God's will
+      - IX. Further support from reports of the Imams
+      - X. God's wisdom, care, guidance, and generosity
+      - XI. His will extends to all actions
+      - XII. Answering the remaining objections to eternal will, and some objections to created will
+      - XIII. How to understand scriptural references to God’s hesitation and testing, and to a change in what is decreed
+      - XIV. A fuller account of answered prayers and how to resolve the objection
+    - Station Five: God is living
+    - Station Six: God hears and sees
+
+### Third Journey: Knowledge of God
 
 In the name of God, the Most Compassionate, the Most Merciful. We ask His help. Praise belongs to God,[^V06-1] who gives existence to all things through His own necessary existence and shines the light of His own reality on the realities of all that exists and on all that may exist. From the light of His being He brings into existence the lasting realities of the intelligences,[^V06-2] and from the showing of His attributes He brings the souls of the heavens into being. He makes the pages of the heavenly and earthly bodies a book of His words. He brings about the causes of motion[^V06-3] and the cycles of all that exists, so that His mercy may continue to reach us and His gifts and blessings may be renewed. Among all the forms of existence, He made the human soul ready to bear His trust and His messages. It reveals the wonders of His creation and the strange effects of His works. It carries the book of His signs and reads the clear and hidden meanings in the book He sent down. I thank Him for His abundant gifts, the wisdom and inspiration He gives, the fullness of His kindness, and the light of His proofs. I ask Him to bless Muhammad, His servant and teacher, the bearer of good news and warning, who was given words of great meaning,[^V06-4] sent with the truth to give good news and warn, and made, by God's leave, a caller to God and a shining lamp; and to bless his chosen, exalted family, who guard the secrets of revelation and certainty, carry the clear book of truth, and open the way to nearness to the Lord of all worlds.
 
@@ -104,11 +105,11 @@ During this journey, the proof will make this clear to you and teach you the kno
 
 We have made this rough road easier, clearing away its thorns and stones and smoothing its hard places so that any of God's servants who wishes may find the way.[^V06-18] God is the giver of grace and guidance. In His hand are the keys to goodness and wisdom, and with Him are the stores of generosity and mercy. This part contains several arts.
 
-### Part One — God’s nature and attributes
+### Part One: God’s nature and attributes
 
-### First Discussion — The One Who Must Exist: His manner of existence, perfect oneness, and completeness
+### Station One: The One Who Must Exist: His manner of existence, perfect oneness, and completeness
 
-#### Chapter 1 — Establishing God's Existence and Coming to Know Him
+#### I. Establishing God's Existence and Coming to Know Him
 
 Know[^V06-19] that[^V06-20] there are many paths to God, because He has many perfections and can be approached from many sides. Each person turns toward a different direction. Some paths, though, are firmer, nobler, and clearer than others. The strongest and noblest proof[^V06-21] does not rely on anything other than God Himself to connect its steps. The way to the goal is then the goal itself. This is the path of the people of truth:[^V06-22] they point to God as proof of God, then use His own being to show His attributes,[^V06-23] and His attributes to show His actions, one after another. Other people—such as theologians and natural philosophers—try to know God and His attributes through something else: for example, the possibility of an essence, the createdness of the world, or the body's motion. These are also signs of God's being and attributes, but this path is stronger and nobler.
 
@@ -148,7 +149,7 @@ This path is the surest, noblest, and most direct. A seeker does not need to kno
 
 For those who have reached full understanding, this path is enough to know the truth, its signs, and its works. But not everyone can draw many conclusions from one starting point. So teaching must also explain the other paths that lead to the truth, even if they do not lead to it as directly.
 
-#### Chapter 2 — Other Paths to This Great Goal
+#### II. Other Paths to This Great Goal
 
 One of these paths is the one we mentioned in the general study of existence and in first philosophy. There we explained the marks of the Necessary Being and His oneness. We said that, as a concept, “existent” divides into necessary and possible. A possible thing, in itself, is no more likely to exist than not to exist. It therefore needs something outside itself to make it exist.[^V06-45] If it made itself more likely to exist, then it would be necessary in itself, though we had assumed it was possible. The same applies if it made its own nonexistence more likely: it would then be impossible, though we had assumed it was possible. This is a contradiction. So the Necessary Being must exist. Since things exist, either one of them is necessary—in which case the point is admitted—or we must reach the Necessary Being, because the chain cannot continue without end, as we have already shown. A circle also leads to an endless chain, and is impossible; it would also make a thing come before itself, which is clearly impossible.
 
@@ -198,7 +199,7 @@ The argument is this: no possible thing, whether it is one or many, or whether i
 
 In other words, if a possible thing gives itself necessary existence and makes nonexistence impossible, then it would be its own cause, which is false because it would have to come before itself. If it does not make its existence necessary and its nonexistence impossible, then it could cease to exist on its own. That is even more clearly false. The first problem still applies: in some way, the thing would be the cause of itself. The second problem is that if it could cease to exist after it had come into being, then it could even more readily have failed to exist in the first place. So it cannot have come into being without something that made its existence necessary.
 
-#### Chapter 3 — A Persian Proof, and Its Flaws
+#### III. A Persian Proof, and Its Flaws
 
 A Persian thinker offered these arguments for the claim that God exists. He said: “If all existing things were only possible, there would have to be a circle of causes. For, on that assumption, the existence of any thing would depend on something being brought into existence, while bringing anything into existence would itself depend on something already existing.”[^V06-70][^V06-71][^V06-72]
 
@@ -218,7 +219,7 @@ The fourth argument shows only that existence as existence differs from possibil
 
 The better way to complete these arguments is to show that an endless chain of causes is impossible. Otherwise, the arguments do not work—unless one can first prove that all possible things form one possible being that needs a cause outside itself. That claim depends on proving that the whole has one unified form and a real nature of its own, unlike a number or a collection of separate things. We have already shown the problem with that claim.[^V06-78]
 
-#### Chapter 4 — Other Arguments That Do Not Hold Up
+#### IV. Other Arguments That Do Not Hold Up
 
 The philosophers who study God have another path. They use two kinds of proof. One first shows that God exists, then proves that He is one. The other first proves that the Necessary Being must be one, then shows that bodies, their forms, and their features are many. None of these can be the Necessary Being, so they must be possible and must depend on something that makes them exist.
 
@@ -254,7 +255,7 @@ This is also a good path. We have shown that changes in motion come from changes
 
 The familiar objection to the main premise—that something which is never free of changing things must itself have begun to exist—has already been answered by what we have explained. The other familiar objection says that each movement or moving thing could begin while its kind continues to exist. This objection also fails. A general kind does not exist as a lasting thing in itself, either for those who raise the objection or for us. An essence or idea does not exist on its own; it exists only through particular beings. No motion or moving thing remains the same, in its actual existence and identity, while passing through all these changes.
 
-#### Chapter 5 — Why God's Existence Is Not Separate from What He Is
+#### V. Why God's Existence Is Not Separate from What He Is
 
 A common proof that God's existence is His very essence goes like this. If an essence has existence, it needs something to make it exist and count as real. Every feature that is not part of a thing's essence must be explained either by the thing itself or by something else. But an essence cannot cause its own existence or make existence necessary for itself. Whatever causes a thing to exist must already exist before it does. If an essence caused its own existence, it would have to exist before it existed, which is impossible. This differs from an essence requiring features other than existence, as a triangle requires three angles and four requires evenness. In those cases, the essence does not have to exist before the feature follows from it. So if God's existence were something added to His essence, it would need a cause outside Him. That is impossible.
 
@@ -288,7 +289,7 @@ Some kinds of substance clearly need such a distinguisher. And if a possibility 
 
 So if the Necessary Being belonged to one of these classes, the class would make Him possible in some respect. He would no longer be necessary, which is impossible. Since the Necessary Being cannot belong to a class, He cannot have an essence in this sense. He is pure existence. This is what we wanted to show.
 
-#### Chapter 6 — God's Oneness: He Has No Partner in Necessary Existence
+#### VI. God's Oneness: He Has No Partner in Necessary Existence
 
 We have already given a special proof from the highest level of insight. No one before us had noticed it. We set it out in the first part, on universal knowledge and the rules that govern existence. Here we will point to another noble proof that begins from much the same place.
 
@@ -320,7 +321,7 @@ Another proof says: if more than one Necessary Being existed, they would either 
 
 Another proof comes from al-Farabi in *Fusus*: “Necessary existence cannot be divided so that it applies to many things that differ in number; otherwise it would be caused.”[^V06-115] The brief statement sums up the argument we have given.[^V06-116] It is a short proof that avoids Ibn Kamuna's objection, because that objection depends on treating existence as only a general concept, as the Illuminationist philosopher and most later thinkers did. Suhrawardi himself raised the objection directly in *al-Muṭāraḥāt* and hinted at it in *al-Talwīḥāt*. Ibn Kamuna, one of the commentators on Suhrawardi, later repeated it in one of his works, and it became known by his name. Because he strongly held that existence is only a mental idea and has no reality outside the mind, he wrote in one of his books: “The arguments they give show only that there cannot be more than one Necessary Being with the same essence. If their essences differ, another proof is needed, and I have not found one so far.”
 
-#### Chapter 7 — A Later Thinker’s Proof of Oneness, and Its Problems
+#### VII. A Later Thinker’s Proof of Oneness, and Its Problems
 
 The learned Dawānī says in one of his letters and in his commentary on *The Luminous Temples* that we should begin with two points.
 
@@ -440,7 +441,7 @@ With this distinction in place, we can answer the question by choosing the first
 
 We can also choose the second option in the first question, with one qualification. The general concept of existence is an attribute in the sense that, as a concept describing things, it has no existence of its own outside the mind. It describes the real nature of existence, which subsists through itself. The concept applies to that reality because that reality itself is what makes the concept true—not because another quality is present in it, as happens with ordinary attributes. So the objection that God would need a cause if existence were an attribute does not apply. This particular reality exists through itself, whether or not we apply the concepts “existence” and “existent” to it. What most philosophers call unreal is not these particular realities of existence, but the universal concept in the mind, which applies to them.
 
-#### Chapter 8 — The Necessary Being Has No Partner in Divinity: The World Has One God
+#### VIII. The Necessary Being Has No Partner in Divinity: The World Has One God
 
 The earlier proofs[^V06-165] showed that the Necessary Being is one in Himself and has no partner in necessary existence. Now we want to show that the world has one God, with no partner in divinity. At first glance, it does not follow simply from there being one Necessary Being that there is one God of the world. We can reason as follows: once it is clear that the Necessary Being is one, and that everything else is possible in itself and depends on Him for its existence, then all things must ultimately depend on Him and receive their existence from Him.[^V06-166] The existence of everything, then, comes from one source: the Necessary Being in Himself. All things come from Him. His relation to everything else is like the relation the sun’s light would have to bodies that are dark by their own nature, if the light existed on its own.[^V06-167] The sun is bright in itself, and everything else shines by its light. If you see the sun light up a place, and then see another light arise from that illumination, you trace the second light back to the sun. You do the same with a third, a fourth, and so on, down to the faintest light. In the same way, all existences, however near or far they are from the One who is truly one, come from God.
 
@@ -466,7 +467,7 @@ Every body, every bodily being, every soul, and every intellect therefore leads 
 
 “Ruin” may mean that the two realms would cease to exist altogether. The reasoning is this: if there were more than one god, the bodily world and everything connected to it would have to be multiple. But we have shown that this is false. So the claim that there are multiple gods is false as well. The next verse makes the point plain: “Then each god would have taken away what it created, and some would have risen above others.”
 
-#### Chapter 9 — God Is Not Made of Parts, Either in Reality or in Thought
+#### IX. God Is Not Made of Parts, Either in Reality or in Thought
 
 God is not made up of parts of any kind: real or mental parts such as matter and form; parts used to define a thing, such as broader kind and defining feature; or parts of size.[^V06-183] For anything composed of parts, the mind finds that the part exists in a more basic way than the whole does.[^V06-184] The whole depends on its part and is real only when the part is real, even if the part did not cause the whole. Anything that depends on something else in this way is necessary through that other thing, not necessary in itself. It is therefore possible in itself, which cannot be true of God.
 
@@ -492,7 +493,7 @@ Also, if God had a broader kind, He would belong to the category of substance an
 
 **A brief summary of this argument.** If God had the defining parts of a thing, all or some of them would have to be the reality of existence, or none would. In every case, it would be impossible to say that one of those supposed parts is the other.[^V06-194] That would contradict the assumption that God is composed of them.
 
-#### Chapter 10 — God Cannot Be Divided into Different Kinds
+#### X. God Cannot Be Divided into Different Kinds
 
 The Necessary Being has no distinguishing feature that would make Him one kind of being, a smaller subdivision of a kind, or one individual among others.[^V06-195] None of these features would, by itself, make the thing divided into parts. A broader kind or species can be simple and have no parts.[^V06-196] But we have learned that the Necessary Being has no essence. Anything with a dividing defining feature, a feature that sorts it into a class, or a feature that makes it an individual must be a universal essence. What has no essence cannot be a broader kind or species. The Necessary Being is fully determined in Himself, with no defining feature, and is an individual through Himself, with no feature that makes Him an individual.
 
@@ -502,7 +503,7 @@ They did not notice that if the Necessary Being’s simple reality were divided 
 
 If He multiplied through something else, He would have the potential to receive existence, distinct from His actual existence and necessary being. His essence would then be made of two parts: one like matter, the other like form. That is impossible.[^V06-199]
 
-#### Chapter 11 — No Concept Makes God One of Several Beings
+#### XI. No Concept Makes God One of Several Beings
 
 For two things to share any meaning at all is already a kind of oneness. As you know, oneness has several forms. Some are real[^V06-200] and some are not. Real oneness may be the very essence of the one thing itself: this is the true oneness that belongs to the Necessary Being. Or it may be something added to an essence, as when each possible essence is one. Non-real oneness belongs to several things that share some feature. We discussed these distinctions in the first journey, in the inquiry into oneness and multiplicity.
 
@@ -514,7 +515,7 @@ There is another reason. The rational soul, considered as a soul, is immaterial 
 
 The soul and body also form a natural kind and are joined together. Whatever is joined with something else has a connection to it that allows each to affect and be affected by the other. Whatever is affected by something else must have some lack and need something added to it to complete it. But the Necessary Being's existence is complete, indeed beyond all completeness. Nothing can add to it. So no being is truly akin to God. A relation is among the things farthest from a thing's own essence. Yet not a particle is without Him, and nothing in the heavens or on earth is hidden from Him. His essence is free of all things in essence, attribute, and relation, while all things depend on His presence.
 
-#### Chapter 12 — God Is the Fullness of All Things, and All Things Return to Him
+#### XII. God Is the Fullness of All Things, and All Things Return to Him
 
 This is one of the difficult truths of divine philosophy. Only someone whom God has granted knowledge and wisdom from His own presence can readily grasp it. Yet a proof[^V06-203] establishes that every reality that is simple in itself is all existing things, apart from their deficiencies and absences. God is simple in every respect, so He is all existence, just as the whole of Him is existence.[^V06-204]
 
@@ -540,9 +541,9 @@ The same is true of existence. The all-embracing divine reality, which has no gr
 
 Just as existence is one reality flowing through all things in degrees of greater and lesser completeness, so too are its real attributes—knowledge, power, will, and life—present throughout them, as existence is.[^V06-216] Those firmly grounded in knowledge understand how this is so. All existing things, even lifeless ones, are in their own way alive, aware, speaking in praise, and bearing witness to the existence of their Lord. They know their Creator. This is what we explained in the first journey. It is also what God points to when He says, “There is nothing that does not glorify Him with praise, though you do not understand their glorification.”[^V06-217] This deeper understanding of awareness is possible only for those free of the veils of body, position, and place.
 
-### Station Two — A general inquiry into God’s attributes
+### Station Two: A general inquiry into God’s attributes
 
-#### Chapter 1 — The Kinds of Attributes
+#### I. The Kinds of Attributes
 
 An attribute is either positive and affirming or negative and purifying. The Qur'an brings these together in the words, “Blessed is the name of your Lord, Possessor of majesty and honor.” Attributes of majesty describe what God is far above; attributes of honor describe the perfections with which His essence is adorned. The first kind denies deficiencies and absences. All these denials return to one: denying that God is possible in the way other things are. The second kind divides into attributes that describe His reality, such as knowledge[^V06-218] and life, and relational attributes, such as creating, providing, being first, and being a cause. All the attributes that describe His reality return to necessary existence—that is, existence at its fullest strength. All relational attributes return to one relation,[^V06-219] His sustaining all things.[^V06-220] This is the sound way to understand the matter; otherwise, multiplicity would enter His oneness. Exalted is God far above that.
 
@@ -558,7 +559,7 @@ A commentator explains that denying lifelessness of a human being rests on its b
 
 I say that this explanation is not sound. The rational nature of a human being is enough to ground the denials that it is lifeless, a tree, or a horse. Likewise, the Active Intellect, though simple, is distinct from all the possible things below it without needing several different essential aspects. The general rule is this: a thing's perfection in existence grounds the denial of deficiencies in it; its deficiencies and aspects of nonexistence ground the denial of perfections it lacks. If something is denied a positive feature simply as a positive feature, it must be composite, whether in reality or in thought: one aspect is positive and another is deficient. A human being is not a king; intellect is not necessary existence. In each case, the thing combines a positive aspect with a deficient one. But denying that a human being is lifeless or a tree requires no aspect beyond its own rational nature. Think carefully about this, and do not let it distract you from the earlier claim that what is simple in itself is the fullness of all existing things.
 
-#### Chapter 2 — Four Ways of Describing Qualities, and Which Can Truly Be Said of God
+#### II. Four Ways of Describing Qualities, and Which Can Truly Be Said of God
 
 Attributes are either perceptible or understood by the intellect. Each of these may either be identical with the thing described or distinct from it. This gives four cases: a body is extended; a body is black; an intellect knows itself; and a human being knows something.[^V06-223][^V06-224]
 
@@ -566,13 +567,13 @@ We say that God's attributes are not perceptible, for the senses cannot reach Hi
 
 Our natural judgment also tells us that an essence complete through itself is nobler and more perfect than one completed by something added to it. In short, because God is the source of the whole chain of existing goods and relations of light, there is no potentiality or possibility in Him. He has no aspect of possibility. He is wholly existence, without nonexistence; perfection without deficiency; actuality without potentiality; necessity without possibility; and good without evil. Because His existence is infinitely intense, His essence cannot be deficient or affected by anything. All His attributes of perfection are identical with His essence: each exists through the very existence of the Necessary Being. They are all necessary in themselves, without multiplying the Necessary Being. This is what al-Farabi means when he says that there must be existence in itself, knowledge in itself, power in itself, and will in itself, so that these can exist in other things only in a dependent way.[^V06-227] The same holds for every perfection of an existing thing, simply insofar as it exists.[^V06-228]
 
-#### A Higher Insight
+#### 1. A Higher Insight
 
 This points to a further truth: the realities of things may have one simple, all-gathering existence. One reality may have several modes of existence—some material, some immaterial; some possible, some necessary. Existence itself is one reality: some of it is substance, some accident; some necessary, some possible. These attributes are shared in meaning by God and possible things, but in God they are identical with His essence. For Him, then, they are necessary, since His existence is knowledge, power, will, and so on. Knowledge in an intellect that knows itself is that intellect; knowledge in a soul that knows itself is that soul. In other cases, knowledge is an accident, a mental quality distinct from power and will, which are also distinct mental qualities. Here, each has a different mode of existence and a different effect. In God, they are one existence and one reality.
 
 Their effects are one as well. The effect of God's knowledge is also the effect of His power, will, and life. Whatever He knows is also what He can do and wills, and it lives through His life; it is brought into being by His act, without any difference in the grounds of these acts, except in their names and meanings. This is how we should understand the identity of God's attributes. Later thinkers, who held that existence is only a mental construct, misunderstood this. They said the attributes are identical in God because their meanings are one, or because what follows from His essence is the same as what follows from the attributes in other things. They had missed the reality of existence and its different degrees.[^V06-229] I will make this clearer.
 
-#### Chapter 3 — The Later Thinkers’ Argument That God’s Attributes Are Not Separate from What He Is
+#### III. The Later Thinkers’ Argument That God’s Attributes Are Not Separate from What He Is
 
 They argue[^V06-230] that anything which is an attribute of something else[^V06-231] depends on that thing as its subject. Whatever depends on something else for its existence is not necessary in itself but possible in itself. So all attributes, whether they belong to the Necessary Being or to a possible being, are possible in themselves. How can both an attribute and the thing it describes be necessary in themselves? We have already shown that there cannot be several necessary beings.
 
@@ -586,7 +587,7 @@ Third, an agent brings about an effect, makes it necessary, and gives it existen
 
 If both aspects were essential, we could ask how they arise. They, too, would have to arise from different aspects. Either this continues without end, or it ends in two aspects that are essential parts of God's essence. Exalted is He far above that. This is the argument later thinkers give for the identity of God's real attributes. It has several problems.
 
-#### Several Objections
+#### 1. Several Objections
 
 First, the argument confuses receiving through passive change[^V06-236] with simply being described by an attribute. The proof may rule out the first, but it does not rule out the second. Someone could say that God's attributes are necessary consequences of His essence.[^V06-237] A thing's necessary consequences do not require a separate act that brings them about. They follow from the thing's existence: if the essence is brought into being, so are its necessary consequences; if the essence is not brought into being, neither are they. Perhaps this is what some theologians mean when they say that God's attributes are necessary through His essence.
 
@@ -614,7 +615,7 @@ One of the later scholars says that an agent's making something necessary comes 
 
 I say that what matters here is whether being described by the attribute requires a distinct aspect, whether before or during the act of giving or receiving. That is the very question we have been discussing. If the argument worked, it would prove that the two aspects are distinct; otherwise it proves nothing. Many other arguments offered for this claim follow the same pattern. I have left them out because none adds anything to what we have already considered.
 
-#### Chapter 4 — Why God's Perfections Are Not Separate from What He Is
+#### IV. Why God's Perfections Are Not Separate from What He Is
 
 I will offer several sound proofs for this great claim. The first[^V06-244] is this. If perfections such as knowledge and power were something added to God's existence, then at the level of His own existence His essence would not itself be what these perfections affirm. His essence, considered in itself, would be bare of their meaning. He would not, in Himself, know all things or be able to do whatever He wills. But that conclusion is false. His essence is the source of all goodness and perfection. How could He be deficient in Himself, then, and become complete through something else? That would mean something else has an effect on Him, so that He receives from another. It would also require Him to act in one respect and receive in another, which is impossible. The same is true of our first assumption. As for the necessary consequences of essences, they are not perfections added to an essence. Their following from an essence does not mean that the essence gains perfection from them. That would make the one essence both giver and receiver, in two different respects. These consequences are only ways we think and speak about an essence.[^V06-245][^V06-246][^V06-247]
 
@@ -652,7 +653,7 @@ If a second thing were joined to Him, God would be one of two. Anything treated 
 
 So God cannot be contained in anything, and nothing can be outside His presence. He is not in earth or heaven, yet neither is without Him. A saying attributed to the Prophet describes this: “If you lowered a rope to the lowest earth, it would reach God.” This is why the Imam says, “Whoever asks ‘Where is He?’ encloses Him, and whoever asks ‘What is He upon?’ leaves Him out of somewhere.” The Qur'an says: “He is with you wherever you are,” and “There is no private meeting of three but He is their fourth, nor of five but He is their sixth,” and “We are nearer to him than his jugular vein.” A sacred report says, “I am his hearing, his sight, and his hand.” The Prophet also said that God is above all things and beneath all things; His greatness fills all things, so neither earth nor heaven, land nor sea, nor air is empty of Him. It is also reported that Moses asked: “Are You near, so that I may speak to You in private, or far, so that I must call to You? I hear Your voice, yet I do not see You. Where are You?” God replied: “I am behind you and before you, to your right and your left. I sit with whoever remembers Me, and I am with whoever calls on Me.” There are many more verses and reports of this kind.[^V06-263]
 
-### A Further Explanation
+### 1. A Further Explanation
 
 We should clarify that denying attributes of God does not mean that He lacks them, which would leave us with no divine perfections at all. He bears every divine quality and every beautiful name, and His reality cannot be missing any perfection. The point is that all His qualities and attributes exist through one existence: the existence of His essence. Our own essential qualities, too, exist through one individual existence, but the Necessary Being has no essence distinct from existence and no possibility in Him. The divine world is vast beyond measure:[^V06-264] in His oneness, He is all.
 
@@ -662,7 +663,7 @@ There is one more point. Every perfection that things receive through existence 
 
 To say that God's attributes are identical with His essence means that His essence is such that these many meanings truly apply to it without any added quality inhering in Him. In this way of considering Him, there are attributes and a subject, knowledge and a knower, power and the powerful, existence and what exists. This is called the divine level, just as pure existence considered without any attribute is called the level of oneness and hidden identity. At the divine level, knowledge, power, will, and the other attributes are one, just as attribute and subject are one. The mind can distinguish them, though they are one in reality, as it can distinguish broader kind and difference within a simple intellect even though they are one there. In existence there is only the one essence. Considered another way, each attribute, name, and consequence is distinct from the others in countless ways. Understand this carefully, so that you fall neither into denying God's perfections nor into comparing Him to created things.[^V06-267]
 
-#### Chapter 5 — How God's Qualities Are One Reality Though Their Meanings Differ
+#### V. How God's Qualities Are One Reality Though Their Meanings Differ
 
 Many careful thinkers have assumed that saying God's attributes are identical with His essence means that their meanings and concepts are not distinct, but all go back to one meaning. This is a mistaken assumption. If it were true, the words “knowledge,” “power,” “will,” and “life” would all mean the same thing when applied to God. There would be no point in using one word after using another. That is plainly wrong and leads to denying God's perfections altogether. Rather, saying that His attributes are identical with His essence means that all these perfections exist through the one existence of His essence. God's essence is not separate from its attributes as if each were a distinct individual; nor is one of His attributes separate from the others in this way. He is powerful through His very essence and knows through His very essence: He knows His own essence, which is fully present to itself. He wills through a will that is His essence, indeed through His knowledge of the order of existence and of all created things as they ought to exist. We will explain this later.[^V06-268]
 
@@ -674,9 +675,9 @@ Look, too, at your own rational soul, created in the image of the Merciful and s
 
 This also shows why the view held by many later thinkers—that existence is only a concept we draw from things, with no real identity outside the mind—is false. If existence were merely a concept, and differed only as the meanings and essences associated with it differed, then God's attributes would have to be many distinct things, one for each meaning.[^V06-272] That is a very bad conclusion. To avoid it, those thinkers said that the attributes all have one meaning, almost making “knowledge,” “power,” and the other words synonyms when used of God. We have already seen why this is wrong. The truth, as we have said many times, is that existence is what makes things real, and it varies in completeness and intensity. The more complete and stronger an existence is, the more meanings and perfections it embodies and the more effects and actions come from it. The more complete and noble it is, the more it gathers many attributes while remaining simple and one. The weaker and less complete it is, the fewer its attributes and the more open it is to division and opposition. Meanings that coexist in one powerful existence can become opposites in a weaker one. So opposing names—Guide and Misleader, Giver of Life and Giver of Death, Withholder and Bestower, First and Last, Forgiver and Subduer—appear in opposed beings and effects: guidance and error, angels and devils, life and death, spirits and bodies.[^V06-273]
 
-### Third Discussion — God’s Knowledge
+### Station Three: God’s Knowledge
 
-#### Chapter 1 — Foundations for This Inquiry
+#### I. Foundations for This Inquiry
 
 One point we have already established is that things exist outside us and also in the knowing power that perceives them. By “outside” here I mean the world of material bodies, which have a position and orientation. When philosophers tried to show that things outside us have another kind of existence—sometimes called mental existence—they began with this problem: we cannot affirm something of what is absolutely nonexistent. Yet we often make true claims about things that do not exist outside us. For example, we can say that a phoenix is an animal, or that a mountain of gold is a mountain. For a statement to be true of something, that thing must in some way exist. Since such things are not outside us, they must have another kind of existence: existence in knowledge, whether “knowledge” means that existence itself or the relation between the knower and what is known.
 
@@ -742,7 +743,7 @@ If an image grasped by the mind existed independently, it would exist for itself
 
 We have also shown that natural bodies and their conditions are, in themselves, mixed with absence and hiddenness, even before we consider the material veils around them. So what prevents a lifeless thing or any other material thing from being known in itself is not merely that it has matter or is joined to other things. Its very mode of existence prevents it from being known, whether by the intellect or the senses. We have already pointed out the weakness in the second argument.
 
-### An Objection and a Clarification
+### 1. An Objection and a Clarification
 
 Some people think the philosophers proved that every immaterial form is an intellective knower by combining two general claims in a way that would not prove the conclusion.[^V06-306] They say the claims were: “Every nonphysical form is immaterial,” and “Every form actually understood by something is immaterial”; from these, they conclude: “Every nonphysical form is actually understood.” But that does not follow from the two claims. This objection rests on a misunderstanding. The philosophers instead argued in one of two ways. They said either that every independently existing thing, free of matter, has its own form present to itself, so it is known and knows itself; or that everything free of matter is either fit to be understood or not. But nothing can be wholly unfit to be understood, since anything that exists can be understood in some way.[^V06-307]
 
@@ -766,7 +767,7 @@ The way to end this confusion is to see that two related concepts do not always 
 
 With these points established, we can now examine God's knowledge of Himself and of everything else, how He knows things brought into being and things that come to be, and the levels of His knowledge—providence, decree, destiny, and the Book—in further chapters.
 
-#### Chapter 2 — Proving That God Knows Himself
+#### II. Proving That God Knows Himself
 
 After recalling the points we have already established, you may feel that no further proof is needed to show that God knows Himself. Still, let us make the point clearer. The reality of knowledge[^V06-315] is the reality of existence, provided it is free of deficiencies and the veils of darkness. We have shown that whatever exists independently and is free of what accompanies it is present to itself. So it is understood by itself, and its knowing itself is nothing other than its own existence. This presence does not require a difference between what is present and what it is present to, either in reality or in the mind.
 
@@ -776,7 +777,7 @@ We have also shown that God's existence is the reality of existence, from which 
 
 How could anyone with sound judgment accept that the giver and source of a perfection lacks that perfection, making the receiver nobler than the giver and the one who benefits more honored than the one who gives? We have established that all possible things depend on God, whose essence is pure necessity and pure actuality. Among the things that depend on Him are knowing beings and cognitive forms. The giver of all things possesses every perfection fully, without being made multiple by them. Otherwise, He would lack the very perfection He gives. So the Necessary Being knows, and His knowledge is not something added to His essence, as we have shown.
 
-#### Chapter 3 — God's Knowledge of Everything Other Than Himself
+#### III. God's Knowledge of Everything Other Than Himself
 
 In general discussions of knowledge, we established that complete knowledge[^V06-317] of a complete cause—or of the aspect that makes it a cause—entails complete knowledge of its effect. Do not understand “the causal aspect” to mean the relation of causality itself,[^V06-318] which comes into being only after both cause and effect. It means what comes before the effect and makes the cause its cause,[^V06-319] the reality through which the effect comes to exist.
 
@@ -792,7 +793,7 @@ Because of this difficulty, some ancient philosophers denied that God knows any 
 
 How ugly and wrong it is for a created being to claim that it can know the great realities of the heavenly realm and the subtle details of the spiritual world, call itself a philosopher and wise person, and then deny its wise and knowing Creator any knowledge of anything at all—the Creator who gave existence to those who know and lit their hearts with knowledge. Perhaps those ancient philosophers meant something other than their words seem to say, or perhaps they used “knowledge” in a special sense. They may have meant to deny God the kind of receptive knowledge humans have, or mental images divided into concepts and judgments, or something like these.[^V06-325] God knows best the hidden intentions of His servants.
 
-#### Chapter 4 — A Survey of Views on God's Knowledge of Things
+#### IV. A Survey of Views on God's Knowledge of Things
 
 There are several well-known views on how God knows things. The first is held by followers of Aristotle's school, including al-Fārābī, Avicenna, Bahmanyār, Abū al-ʿAbbās al-Lawkarī, and many later thinkers. They say that the forms of possible things are present in God's essence as mental forms, as general forms.[^V06-326] The second view is that the actual existence of things—whether they are immaterial or material, simple or composite—is what makes God know them. This was the view of Shihāb al-Dīn Suhrawardī, the leading figure among the Illuminationists, and of those who followed him, including Naṣīr al-Dīn al-Tusi, Ibn Kammūna, al-Shīrāzī, and Muḥammad al-Shahrazūrī, author of *The Divine Tree*.
 
@@ -804,7 +805,7 @@ These are the views most often discussed. One can also lay out the possibilities
 
 If knowledge is not separate from God's essence, it may still be something other than His essence, as al-Fārābī and Avicenna say; or it may be identical with His essence. In the latter case, God may be united with the intelligible forms, as Porphyry and some followers of Aristotle say, or His essence may be one general knowledge of everything other than Himself, or of everything except the First Effect. These are eight possible views. We will examine their strengths and weaknesses, correct what can be corrected, and then identify the view closest to the truth—the truth that comes from God, the Mighty and Generous.
 
-#### Chapter 5 — Examining the Muʿtazilite View and a View Attributed to the Sufis
+#### V. Examining the Muʿtazilite View and a View Attributed to the Sufis
 
 The Muʿtazilites say that a nonexistent thing is still a thing: before it exists, it is already distinct from other nonexistent things, and God knows future events eternally through this prior status.[^V06-329] To clear thinking, this is a weak and mistaken view. The books of theology and philosophy have already shown why something nonexistent cannot be a thing.
 
@@ -822,7 +823,7 @@ On this distinction, what reason rules out is an essence wholly cut off from exi
 
 We have already offered a glimpse of this in discussing the divisions of God's names and attributes. The world of the names is vast. You will see that this approach comes close to an ancient view: before things exist, God's knowledge of them is a simple, eternal intellect. In its simplicity, eternity, and necessary existence, that intellect is all things in a higher, nobler, and purer way. Just as things have a natural existence in this world, an imaginal and particular existence in another world, and a universal intellectual existence above both, they also have a divine, name-based existence in the realm of lordship. The Sufis call this the World of the Names.
 
-#### Chapter 6 — Plato’s Forms Apart from Matter, and the View Attributed to Porphyry
+#### VI. Plato’s Forms Apart from Matter, and the View Attributed to Porphyry
 
 We have defended the Platonists' view of separate Ideas. We argued for it and strengthened its case in the discussion of universal knowledge in the First Journey. But whether these Ideas are what make up God's eternal and perfect knowledge, prior to everything else, is another matter. God's knowledge is eternal and necessary through Himself, while these Ideas exist after Him and after His knowledge of them.[^V06-340] How, then, can they themselves be His knowledge of things from all eternity?
 
@@ -830,7 +831,7 @@ The same problem arises if these separate Ideas are real beings rather than ment
 
 As for the view attributed to Porphyry, Avicenna and many later philosophers have ridiculed and rejected it, as one can see in Avicenna's *Healing*, *Salvation*, and *Pointers*, in Suhrawardī's works, in Bahmanyār's *The Book of Attainment*, in al-Tusi, Fakhr al-Dīn al-Rāzī, and others.[^V06-342] We have already discussed this question at length in the section on the unity of the intellect and the intelligible. Anyone who wants to understand the view and see its depth and subtlety should read that discussion. It shows how high the view's author stood in wisdom, how firmly grounded he was in knowledge, and how clear his inner vision was—provided the reader has the strength to enter these questions and think them through. Such insight is a gift from God.[^V06-343]
 
-#### Chapter 7 — The View That Forms of Things Are Present in God's Essence
+#### VII. The View That Forms of Things Are Present in God's Essence
 
 Avicenna's view, as it appears in many of his books, is this. Sometimes an idea understood by the mind comes from an object in the world. Through sight and careful observation, for example, we form an idea of the heavens, their arrangement, and their shapes. But sometimes the idea does not come from something already perceived. The reverse may happen. A builder first forms an image of a house in his imagination; that image then moves his body until the house is built. In that case, the house's existence in the mind does not come from its existence in the world. Its existence in the world follows its existence in the mind.
 
@@ -1060,7 +1061,7 @@ Avicenna's references to the First as *simple intellect*, to His being more trul
 
 These are some of the objections made against placing intelligible forms in God's essence, together with the answers, corrections, and further arguments that have occurred to us.
 
-#### Chapter 8 — The True Account, and Problems with the View That Forms Are Imprinted in God's Essence
+#### VIII. The True Account, and Problems with the View That Forms Are Imprinted in God's Essence
 
 We do not disagree with the supporters of imprinted forms on all of their premises. We agree that the forms are necessary consequences of God's essence and are present in Him, not separate from Him. We disagree about calling them accidents and saying that their existence is mental. If they had not explicitly called them accidents, we could have read their view in the way we think correct: as eternal intelligible realities, like Plato's Forms. It is possible that calling them accidents was the later philosophers' addition, since the earliest accounts of these Ideas, such as those attributed to Anaximenes, do not describe them that way.
 
@@ -1094,7 +1095,7 @@ Once this is understood, it becomes easier to grasp what Plato, Aristotle, and t
 
 Aristotle explains in his books on nature why the idea of many worlds existing alongside this one leads to contradictions. We should think carefully about the path just described when reading divine philosophy. It is highly useful and essential to the whole inquiry. Neglecting it causes serious harm. This supports the account we have given. We can now return to the remaining views on God's knowledge.
 
-#### Chapter 9 — The View That God's Knowledge of All Things Is One
+#### IX. The View That God's Knowledge of All Things Is One
 
 One view holds that God's essence is a single, general knowledge of all things before He brings them into existence. Many later philosophers held this view. They argued that God knows Himself, and His essence is the source from which all things come. He must therefore know all things through knowledge that belongs to His essence and comes before their existence. Otherwise, He would know them by their own essences, rather than through His own. In that case, He would lack knowledge of what is other than Himself, which would mean He lacked a perfection. They therefore said that God's knowledge of the things He creates is His being the source of those things, each distinct from the others. Since the source that makes a thing distinct is knowledge of it, God's essence is knowledge of everything other than Himself.
 
@@ -1124,7 +1125,7 @@ The problem with this account[^V06-443] is that, on its surface, it shows only t
 
 How can one thing, especially something utterly one and simple like God's exalted essence, know many things with different natures and distinct identities? It cannot know them directly as separate things, or we would have to distinguish things that do not exist, as already explained. Perhaps they are known only indirectly: the one simple reality is known directly, and the ideas that follow from it are known through it. For example, we know individual human beings through the general description that applies to them, and branches through their root. This differs from knowing the parts of a definition through the thing defined, since the definition and the thing defined are one in reality but different in how we think about them, as explained in our discussion of essence. Here, the difference between general and detailed knowledge lies only in how the mind knows, not in the thing known. Even if we accept this for the human example they gave, how can God's sacred essence stand to the possible things He knows as a definition stands to what it defines?[^V06-445][^V06-446] There is a great secret here. Keep examining it.
 
-#### Chapter 10
+#### X. Untitled chapter
 
 Another view says that, at the level of His essence, God has detailed knowledge of some possible things—the First Intellect—and general knowledge of all the possible things that follow it.[^V06-447][^V06-448] He knows each effect in detail through His knowledge of the thing that comes before it, before He brings that effect into existence. In this way, He knows each later thing through the one before it, all the way to the last things in the chain. His detailed knowledge of all possible things need not be at one level; it can belong to a series of different levels. At each level, He knows the next thing in detail and knows the things that come later in a general way. On this account, God knows each effect before creating it, so His knowledge is active.
 
@@ -1142,7 +1143,7 @@ Also, saying that the First Intellect and everything in it are God's knowledge o
 
 **A teaching from illumination, with a further point.** Anyone who is fair-minded will see that the one who brings things into being, gives them their reality, and brings them forth through what follows necessarily from His essence knows them—with their true natures and what follows from them—before creating them. This is especially clear because He brings them into being in an ordered arrangement, the finest possible order. Otherwise, He could not give them existence. His knowledge must therefore be distinct from them and prior to them. Anyone who tries to prove God's knowledge of things by appealing to something He creates, such as an intellect or a soul, or who says that His detailed knowledge comes after His essence, has failed to see the matter clearly. In our view, the one firmly grounded in wisdom knows that God knows every thing, in all its detail, through His essence, before all that follows from Him and all that exists outside Him, without any difference of aspect in His essence. This is God's gift, which He grants to whichever of His servants He wills. God is rich in grace.[^V06-457]
 
-#### Chapter 11 — The View That God Knows Things Through the Light That Reveals Them
+#### XI. The View That God Knows Things Through the Light That Reveals Them
 
 Know that the master of the Illuminationist school explained God's knowledge through the principle of illumination. I followed him in this for a time, until the truth came to me and God showed me its proof. The principle is this: God knows Himself because He is light to Himself.[^V06-458] He knows the things that come from Him because they are made visible to Him by His light. They are visible either in themselves, as external substances and accidents, or through what they affect—the places where things become perceptible. Some of these are lasting, such as the intellects or souls that guide the heavenly bodies; others are not lasting, such as the animal powers of reason, imagination, and sense.[^V06-459]
 
@@ -1176,7 +1177,7 @@ The teacher and his followers rejected the idea of divine forms because they tho
 
 If you ask how knowledge can follow what is known, when this knowledge is God's essence, we answer: this divine knowledge, like power, will, and other relational attributes, is a reality that can be considered in two ways. First, it can be considered without any difference from the One's essence. In this respect, it is an attribute of God and depends on nothing else. Things depend on it, since their existences in the world proceed from it. This is why God's knowledge is called active. Second, it can be considered in relation to things. In this respect, it follows them and takes on their number as they multiply. We will explain this fully when we discuss how God knows things according to the way of those who see the truth directly. It is better to return to the question of whether knowledge follows what is known, or the known thing follows knowledge, there.[^V06-485]
 
-#### Chapter 12 — The Clear Truth About God's Knowledge Before All Things
+#### XII. The Clear Truth About God's Knowledge Before All Things
 
 This level of knowledge is called the unseen, as in God's words: “With Him are the keys of the unseen; none knows them but He.”[^V06-486] The keys are the detailed forms of things; the unseen is the level of God's pure essence, which comes before those details.[^V06-487] The purpose of this chapter is to show how God knows all things in this one, simple level—the hidden reality behind every hidden thing, simpler than anything else. We can explain this in two ways. The first follows the ancient philosophers: God is a simple intellect. The second follows the fully realized mystics: God has names and attributes in His essence.[^V06-488] These are not things that come after His essence; their relation to it is like the relation of a possible thing's nature to its existence, even though God has no nature separate from existence. Both ways are subtle and difficult. To understand them from a human teacher requires a sharp mind and a clear heart. How much more so when trying to discover them through the world of the spirit.
 
@@ -1270,7 +1271,7 @@ I say: his words show that it is a great insight to know that, in His essence, G
 
 For these two levels of knowledge, God's book is called both the Qur'an and the Criterion. The Qur'an is wisdom: simple intellect and general knowledge, in the philosophers' terms. The Criterion is the book set out in detail and clear speech: detailed intellect and the soul's knowledge as it moves from one form to another. The other books sent down to the prophets are not called the Qur'an, nor are they called God's speech, for this subtle reason. Their knowledge came from the heavenly pages of the spiritual world, according to the rank they held there. But the final Messenger sometimes received knowledge directly from God, in the moment expressed by “I have a time with God,” without Gabriel or any other near angel. God knows best.[^V06-526]
 
-#### Chapter 13 — The Levels of God's Knowledge of Things
+#### XIII. The Levels of God's Knowledge of Things
 
 God's care and decree[^V06-527] are also called the Mother of the Book and destiny, and the Book of Erasure and Confirmation, as in God's words: “God erases what He wills and confirms what He wills, and with Him is the Mother of the Book.” Their place is the Tablet and the Pen. The Tablet receives and is affected; in this account, it has two levels. The Pen acts and preserves. The Illuminationists deny God's prior care, while the Aristotle’s followers, including Avicenna and those who follow him, affirm it—but they treat it as forms added to God's essence like accidents.
 
@@ -1338,9 +1339,9 @@ In the same way, people who see with insight have learned, both through reasonin
 
 **A consequence.** Once you know that light is existence, since existence makes things appear, and that levels of light are the same as levels of existence, know that the deepest darkness is hidden nonexistence. We call something dark when the eye cannot reach it, even if it exists in itself. What exists neither for itself nor for anything else is even more deserving of the name “darkness.” Nothing in existence can be absolutely dark, or it would be sheer nonexistence. What can exist is a mixture: the light of existence joined with the darkness of possibility and the ways it can fail to exist. Bodies and their states are like this. Their existence is limited by time and place, so when they exist in one boundary, they do not exist in the others.
 
-### Station Four — God’s power
+### Station Four: God’s power
 
-#### Chapter 1 — What “power” means
+#### I. What “power” means
 
 Power has two well-known definitions.[^V06-549] The first is that an agent can either act or refrain from acting. The second is that an agent, by its nature, acts if it wills and does not act if it does not will. Theologians use the first definition; philosophers use the second.
 
@@ -1366,7 +1367,7 @@ Nor do philosophers say that an eternal act cannot come from an agent who choose
 
 Philosophers do not say that God lacks power or choice.[^V06-557] They say that His power and choice do not divide His essence into many parts, and that His way of acting is unlike the choice of animals and unlike the compelled action of bodies governed by nature. That is the end of al-Tusi's argument. May God raise his rank.
 
-#### Chapter 2 — Our power is an ability we may exercise; God’s power is always fully realized
+#### II. Our power is an ability we may exercise; God’s power is always fully realized
 
 Our souls, and the souls of other animals, are constrained in what they do and how they move. Their actions and movements are directed, like the actions and movements of nature, by aims and motives outside them. In this respect, our soul is like nature: both are directed in what they do. The difference is that the soul is aware of its aims and motives, while nature is not.
 
@@ -1406,7 +1407,7 @@ An agent acts as an agent only when its act occurs. At that moment, it is false 
 
 A fully active cause cannot have all the conditions for acting and still fail to produce its effect. So the difference between a free agent and a cause that acts by necessity is not whether it can refrain from acting. It is whether knowledge and will take part in bringing about its action. As you will see, every created being that chooses is constrained in its choice and compelled in its willing.
 
-#### Chapter 3 — Answering an objection
+#### III. Answering an objection
 
 Some people accept the definition of power as the ability both to act and to refrain, but try to avoid saying that God has this kind of possibility. They say that this possibility belongs to the thing acted upon, since the effect is possible in itself. This is a weak argument.[^V06-575] If it were right, every cause that acts by necessity would count as powerful, and there would be no difference between a necessary cause and an agent who chooses. Every effect is possible in itself when we consider only what it is. If, instead, they mean that the effect is really able to happen or is ready to come into being over time, we have already shown why that cannot apply to an agent that is fully active.
 
@@ -1418,7 +1419,7 @@ A cause makes its effect necessary. If something remains only possible, we canno
 
 Even if all these preferences are considered together, they are no stronger than the first one. The opposite could still happen. If the opposite could not happen, the preferred side would already be necessary, contrary to the claim that it is only preferred. That is the difference between necessity and preference: necessary causes can lead back to the first necessary source, from which all necessity and existence come. But a first preference cannot be the source of all later preferences, because it does not make even its own act necessary.[^V06-579] The light of truth has now appeared and driven away this darkness.[^V06-580] Possibility is what makes a thing need a complete, necessitating cause. Nothing short of the true agent can provide what is needed.
 
-#### Chapter 4 — Another reason one will cannot choose either side of every possibility
+#### IV. Another reason one will cannot choose either side of every possibility
 
 A will is related to what it wills as knowledge is related to what is known,[^V06-581] and as existence is related to the thing that exists.[^V06-582] Its relation to two opposite or incompatible things cannot be equal. Through the will, one side becomes necessary and the other impossible. How could its relation to both be the same? That would be like saying that the very same existence that makes something black could also be the existence that makes it white, or that the mental form of a human being could also be the mental form of a horse.
 
@@ -1428,7 +1429,7 @@ Know that this does not conflict with saying that God's will—which is one with
 
 What we have said still applies to every will, in God and in created beings: each will is one with what is willed, just as each act of knowledge is one with what is known, and each existence is one with the thing that exists. In truth, the will itself is what is willed, knowledge itself is what is known, and existence itself is what exists. This holds in reality, though not in the accidental way we speak of them. There is a great secret here for those who understand.[^V06-584]
 
-#### Chapter 5 — The theologians' views on what makes God will the world's creation
+#### V. The theologians' views on what makes God will the world's creation
 
 The careful commentator on *The Aims of the Book of Hints* says that theologians who believe the world began fall into three groups. The first group, mostly the early Muʿtazilites and those like them, say that something other than the agent determined the time when the world began. They call this a preference, not a necessity, and say that its purpose was to benefit the world.
 
@@ -1444,7 +1445,7 @@ There are two different questions. One asks what makes God an agent at all; no c
 
 We have established that there is a reason for God's acts, whether we mean the things He creates or His creating them. But this does not mean that something outside Him causes His agency or serves as its final aim. And even though God acts fully through His own essence, with no added will, waiting motive, or hoped-for cause, it does not follow that the world is eternal or that everything besides Him has always existed. We have discussed this in the First Journey and will return to it, if God wills. This is a subtle and elegant path. The great Muslim philosophers had reached this insight before us,[^V06-590] and the Muslim mystics reached it through direct insight and proof,[^V06-591] while also following revealed teachings and submitting to the guidance of those who speak truthfully. Praise be to God, who has favored us over many of His creatures.
 
-#### Chapter 6 — Clearing up some misunderstandings
+#### VI. Clearing up some misunderstandings
 
 You may say: If God's necessity is eternal, then the world's not coming into being must be impossible in itself.[^V06-592] That would make the world's coming into being necessary in itself, which conflicts with its being possible in itself.
 
@@ -1484,7 +1485,7 @@ This makes clear that God's knowing and willing are one, with no difference eith
 
 If no active cause, high or low, has an aim or motive in something beneath it, how could this be true of God's all-conquering power, which is above all things? God has no lack or weakness. Other active powers all have some shortcoming, but that shortcoming is made good by something above them—by the first nature of the higher intellects, or by the further development of the heavenly souls and what follows from them.
 
-#### Chapter 7 — What will and aversion mean
+#### VII. What will and aversion mean
 
 We have explained in several places in this book that one essence may exist in different ways and pass through different stages.[^V06-604] Things that differ in meaning can belong to one existence and one individual. In a single person, for example, the near and distant kinds and the successive differences that make up the idea of a human being are all present in one individual—Zayd, say. They have one existence and one identity. They are all one self, pointed to by the words “this” and “you.” These meanings are gathered in the person's simple inner reality, which is the source and form of them all. The final difference that completes the human being holds together what came before it and gives it a definite form.[^V06-605]
 
@@ -1522,7 +1523,7 @@ The body's material realm also has levels. Some parts are finer and more subtle 
 
 When love exists in the realm of intellect, it appears as thought and judgment. In the soul, it appears as desire. In the body, it appears as inclination. Once you see this, you can understand both what is right and what is mistaken in the various definitions of will. Each definition fits one level but not every level. The fact that will, power, and motive can be separate in us does not prevent them from being one in God. Our power is only a capacity; God's power is complete and fully active. In us, power means we may act or refrain; in God, it is His knowledge of the best order, which follows from Him by necessity. Keep this in mind, my dear friend. Follow the truth, not your own desires, lest they lead you away from God's path. God is the source of all help.
 
-#### Chapter 8 — Answering objections about God's will
+#### VIII. Answering objections about God's will
 
 Some people object that God's will cannot be identical with His knowledge. God knows everything, they say, but He does not will everything: He does not will evil, injustice, disbelief, or other shameful acts. Since His knowledge reaches everything but His will does not, will must differ from knowledge. And since His knowledge is His essence, His will must be an attribute added to His essence. Some of our Imami teachers have relied on this argument to prove that God's will is not identical with His essence.
 
@@ -1572,7 +1573,7 @@ The same applies to will. At its final level, God's will is the actual existence
 
 There is a great secret of divine knowledge that I will hint at here. A person with insight may see that the existence of things outside us belongs to God's knowledge and will—not only as what He knows and what He wills, but as the very act by which He knows and wills them. Anyone who understands the principles explained earlier can reach this insight.
 
-#### Chapter 9 — Further support from reports of the Imams
+#### IX. Further support from reports of the Imams
 
 As we explained earlier, when we want to do something or set out to obtain it, we first picture the action and judge that it will bring us some benefit. This judgment may be uncertain, imagined, or well founded. We may think the action will bring us a real good, or only an apparent one—something material, fame, praise, or honor that benefits our own being or one of our powers. From this thought and judgment, desire arises. When desire grows stronger, the power of will is stirred, and we resolve to act. In a human being, this will comes from a power higher than animal desire, which divides into appetite and anger: it comes from practical reason.[^V06-634]
 
@@ -1642,7 +1643,7 @@ A created agent, because its own being is incomplete, acts for something beyond 
 
 We have already proved this from the point of view of God as the source and agent of existence. Here we prove it from the point of view of God as its final end. The perfection of each thing is itself, and the completion of that perfection is another perfection, continuing through the levels of being until all reach the highest perfection and complete existence. This avoids an endless chain or a circle. “Everything perishes except His face.” In this way we understand the great resurrection and the words, “Whose is the kingdom today? God's, the One, the All-Conquering.” We also understand what the people of direct insight call passing away into God and abiding in Him, and what Porphyry calls the union of the knower and the object of knowledge. The Prophet—peace be upon him—said: “I have a time with God in which no near angel or messenger prophet can share.”[^V06-659]
 
-#### Chapter 10 — God's wisdom, care, guidance, and generosity
+#### X. God's wisdom, care, guidance, and generosity
 
 You have learned that wisdom is the best knowledge of what is known and the most exact action in what is made. The Necessary Being knows everything through Himself, its causes and sources, and brings about the most complete order for a true end that follows from His own essence. In this sense, He is wise in His knowledge and perfect in His making and action. He is perfectly wise.
 
@@ -1650,7 +1651,7 @@ As we have seen, this very knowledge causes things to exist and is His will to b
 
 Generosity means giving good without receiving anything in return. Giving can take two forms: exchange and generosity. In an exchange, you give something and receive something back. The return may be a material thing, a good reputation, joy, a prayer, a new perfection, or freedom from a flaw. In short, if the giver wants something that can be gained only by giving, the act is really an exchange—even if most people use that word only when material things are traded. Those who think clearly know that true generosity has no return and no aim. Any act done for a benefit or purpose is an exchange. Only God, who depends on nothing, acts without seeking anything beyond Himself. Only He is generous in the fullest sense; every other act of generosity comes from Him.
 
-#### Chapter 11 — His will extends to all actions
+#### XI. His will extends to all actions
 
 This is one of the subtle and difficult questions, and few people have found their way to its heart. Opinions differ, schools of thought divide, and people’s minds are left confused.
 
@@ -1694,7 +1695,7 @@ Though the soul is one and separate from the body and its powers, no part of the
 
 At death, which is the lesser resurrection of every being in the small world of the human body, these powers fade in their scattered bodily forms. At the second blowing of the trumpet, they take on another life, a single and gathered existence through the soul. Then they rise and look on. The land of the body in the next life shines with the soul’s light, just as the whole world will shine in the great resurrection. The soul encompasses and rules its powers; they begin from it and return to it. The soul’s rising begins with God and ends with God. So it is with all beings: “From Him they begin, and to Him they return. Truly, all affairs return to God.”
 
-#### Chapter 12 — Answering the remaining objections to eternal will, and some objections to created will
+#### XII. Answering the remaining objections to eternal will, and some objections to created will
 
 One objection is that if God’s will is as the philosophers and careful Muslim thinkers describe it—identical with His essence and with the motive behind His actions, namely, His knowledge of the most complete order—then the world must be eternal and His will must fail to happen at the time He wills it.[^V06-671] We have answered this in our discussions of the coming-to-be of bodies and physical natures, and of how events are connected to the divine reality.
 
@@ -1780,7 +1781,7 @@ So the changes, new events, and limitations found in individual beings and natur
 
 Abū Naṣr says in *Fuṣūṣ al-ḥikam*: “Pass into oneness, and you will be struck with wonder at eternity. If you ask about it, oneness casts its shadow, and the whole comes into being. The pen writes creation on the tablet.” He also says: “The first knowledge is of God’s essence, and it is not divided. The second knowledge comes from His essence; when it becomes many, the multiplicity is not in His essence but after His essence. Not a leaf falls without His knowing it. From there, the pen writes on the tablet without end.” He says again: “Oneness beheld itself, then beheld power, and the second knowledge followed, containing multiplicity. From there, the world of command begins; the pen writes it on the tablet, and unity becomes many.”[^V06-695][^V06-696]
 
-#### Chapter 13 — How to understand scriptural references to God’s hesitation and testing, and to a change in what is decreed
+#### XIII. How to understand scriptural references to God’s hesitation and testing, and to a change in what is decreed
 
 This also concerns the response to prayers and the rescue of people in distress, when these things occur alongside their requests and without the usual natural causes. Know that the divine reality has different levels, and the most beautiful names of God have their own manifestations.[^V06-697] We have discussed part of this in earlier stages of the First Journey.
 
@@ -1814,7 +1815,7 @@ In another section, Avicenna describes rare events that come from this soul and 
 
 Avicenna then tells a story he had heard. A physician attended the court of a Samanid ruler and was so trusted that he was invited to dine in the women’s quarters. No men entered there; female servants brought the food. One day a servant carrying the meal bent over from a sudden bout of gas and could not straighten up. The ruler asked the physician to treat her at once. The physician had no natural treatment that could cure her so quickly, so he turned to a psychological remedy. He first ordered that her hair be uncovered, but it had no effect. He then ordered that her belly be uncovered, still without effect. Finally, he ordered that she be uncovered below. As the women moved to do this, a strong heat rose in her body, dispersed the gas, and she sprang up, well again.
 
-#### Chapter 14 — A fuller account of answered prayers and how to resolve the objection
+#### XIV. A fuller account of answered prayers and how to resolve the objection
 
 Once you see clearly that all beings depend on God’s will, power, and care—His knowledge of the good in the order of things—you can also see that the parts of this order are connected and that effects follow their causes. Among the causes that bring events about is the presence of someone who calls on God and their prayer. Just as a person’s existence, knowledge, power, will, and choice are among the causes of an action, prayer, asking, persistence, and humility before God are among the causes by which a request is granted and what is sought comes about, by God’s permission and through His realm.
 
@@ -1866,7 +1867,7 @@ Second, Avicenna does not accept that the beings of this world exist in a higher
 
 For this reason, Avicenna treats God’s knowledge of things as a collection of qualities and images residing in Him. He then says that, though they are qualities in Him, they do not affect or complete Him because they follow His essence rather than precede it. His perfection and glory lie in their flowing from Him, not in their existing for Him. You have already seen the limits and flaws in this account. God is the source of generosity and grace.
 
-### Station Five — God is living
+### Station Five: God is living
 
 The life we know in this world involves awareness and action. For most animals, awareness means sensation, and action means movement through space, arising from desire.[^V06-723] These two effects come from two different powers, one that perceives and one that moves. But if a being’s awareness were higher than sensation—intellect, for example—and its action were nobler than directly causing movement—bringing things into existence, for example—then it would have an even better claim to be called living.
 
@@ -1914,7 +1915,7 @@ The report also says that human understanding cannot reach the full reality of t
 
 Yet there are people[^V06-735] who know the truth through the truth itself and know God’s attributes through His attributes, not by comparing them with created beings. They have gone beyond the ordinary state of the soul, left behind their separate selves, and awakened to the final reality. They see what others do not see.
 
-### Station Six — God hears and sees
+### Station Six: God hears and sees
 
 Our true religious law teaches—and this is among the basic truths of our clear faith, known from the Qur'an, widely transmitted reports, and the community’s consensus[^V06-736]—that the Creator hears and sees. Scholars have differed over whether hearing and sight fall under knowledge in general, meaning knowledge of things heard and seen, or whether they are two attributes distinct from knowledge.
 
