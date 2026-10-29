@@ -226,6 +226,55 @@ def nav_tree(items):
     return root['children']
 
 
+def four_journeys_nav(items, lang, volume):
+    """Group chapters and their smaller headings for the nine-volume reader.
+
+    The source lists often give notes the same level as chapters, and some
+    smaller headings are marked as top-level divisions. Keep the original
+    titles and targets; adjust only sidebar hierarchy and displayed labels.
+    """
+    major_en = re.compile(r'^(?:Contents$|Notes$|Author.s preface$|Part\b|Third Part\b|Art\b|Book\b|Stage\b|Station\b|(?:First|Third) Discussion\b|Method\b|First inquiry\b|Article\b|(?:The |Third )?(?:First|Fourth)?\s*Journey\b|The knowledge needed\b)', re.I)
+    major_ar = re.compile(r'^(?:المحتويات$|الحواشي$|مقدمه المؤلف$|الجزء\b|السفر\b|المرحلة\b|الفن\b|الباب\b|الموقف\b|المقالة\b|المنهج\b|المسلك\b|القسم (?:الأول|الثاني|الثالث|الرابع)\b)')
+    chapter_en = re.compile(r'^Chapter\b', re.I)
+    chapter_ar = re.compile(r'^(?:الفصل|فصل)(?:\s|[—:])')
+    have_chapter = False
+    result = []
+    for item in items:
+        entry = dict(item)
+        title = entry['title']
+        major = (major_ar if lang == 'ar' else major_en).search(title)
+        if lang == 'ar' and volume in (3, 7) and title.startswith('القسم '):
+            major = None
+        chapter = (chapter_ar if lang == 'ar' else chapter_en).search(title)
+        if lang == 'en' and re.search(r'\bcontinued\s*$', title, re.I) and have_chapter:
+            chapter = None
+        # Volume I's opening inquiry has chapter titles without the word
+        # "Chapter" in the English edition; the Arabic identifies them as
+        # chapters. Keep those peers visible at chapter level.
+        if lang == 'en' and volume == 1 and entry['id'] in {
+            'passage-en-00173', 'passage-en-00200', 'passage-en-00210',
+            'passage-en-00214', 'passage-en-00230', 'passage-en-00245',
+            'passage-en-00252',
+        }:
+            chapter = True
+        if major:
+            entry['level'] = 1
+            have_chapter = False
+        elif chapter:
+            entry['level'] = 2
+            have_chapter = True
+            # The source does not number every chapter consistently. Use one
+            # neutral sidebar style without altering the actual book headings.
+            if lang == 'ar':
+                entry['label'] = re.sub(r'^((?:ال)?فصل)\s+[0-9٠-٩]+(?=\s*[—:])', r'\1', title)
+            else:
+                entry['label'] = re.sub(r'^(Chapter)\s+[0-9]+(?=\s*[—:])', r'\1', title, flags=re.I)
+        else:
+            entry['level'] = 3 if have_chapter else 2
+        result.append(entry)
+    return result
+
+
 def render_toc(nodes, lang, collapse, uid):
     out = ['<ol>']
     for n in nodes:
@@ -411,7 +460,10 @@ def render_reader(book, library, content, views, prefix, site):
     side.append(f'<h2 class="side-heading" id="toc-heading">{both(UI["contents"], langs)}</h2>')
     total_items = sum(len(v) for v in book['nav'].values()) / max(1, len(book['nav']))
     for l in langs:
-        tree = nav_tree(book['nav'][l])
+        entries = book['nav'][l]
+        if book.get('series', {}).get('work') == 'four-journeys':
+            entries = four_journeys_nav(entries, l, book['series']['volume'])
+        tree = nav_tree(entries)
         rtl = f' lang="{l}" dir="{"rtl" if l == "ar" else "ltr"}"'
         side.append(f'<nav class="toc" data-l="{l}"{rtl} aria-labelledby="toc-heading">{render_toc(tree, l, total_items > 40, [0])}</nav>')
     dl = []
