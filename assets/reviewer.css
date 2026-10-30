@@ -169,3 +169,5 @@ html[data-theme="dark"] mark.source-alignment { background: rgba(218, 185, 84, .
   .review-submit-sheet { padding: 19px; }
 }
 @media print { .reviewer-workspace, .review-submit-modal, .review-save-state { display: none !important; } }
+
+.review-source-panel[lang="zh"], .review-source-edit[lang="zh"] { font-family: var(--chinese); font-size: var(--reader-size); line-height: 1.88; }

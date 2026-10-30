@@ -9,9 +9,6 @@
 - Stage Seven: Power and action
   - I. The meanings of power
   - II. Defining power as the source of change
-    - The second kind: Power that produces different actions without awareness
-    - The third kind: Power that produces one steady action with awareness
-    - The fourth kind: Power that produces different actions with awareness
   - III. Must the ability to act exist when the action happens?
   - IV. When must a change happen, and when can it fail to happen?
   - V. Another way to divide the power to act
@@ -153,15 +150,15 @@ Let us now divide powers by the actions they produce.[^V03-5] A power may produc
 
 The first kind is a power that produces one action without awareness of that action. It may be a form that makes a thing what it is, or a feature that does not. In things such as fire and water it is called a nature. In bodies made from different elements, it is called the form of that kind of body; examples include opium's cooling nature and euphorbium's heating nature. If it is a feature of the second kind, examples include heat and cold.
 
-### The second kind: Power that produces different actions without awareness
+The second kind: Power that produces different actions without awareness
 
 This is the set of powers found in plants.
 
-### The third kind: Power that produces one steady action with awareness
+The third kind: Power that produces one steady action with awareness
 
 This is the soul attributed to the heavenly spheres.
 
-### The fourth kind: Power that produces different actions with awareness
+The fourth kind: Power that produces different actions with awareness
 
 This is the ability found in animals on earth.
 

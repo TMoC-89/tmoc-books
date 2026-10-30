@@ -268,3 +268,11 @@ html[data-theme="dark"] .shelf[data-shelf="german"] .book-card { --edge: #a39a89
 .group-more:disabled { color: var(--muted); cursor: default; border-color: transparent; padding: 0; }
 .result-group + .result { border-top: 0; }
 @media (max-width: 640px) { .result-group { flex-direction: column; gap: 8px; } .group-title { font-size: 20px; } }
+
+/* Fourth source-language shelf: same grid and card design, tuned for Han characters. */
+.shelf[data-shelf="chinese"] .book-card { --edge: #81715b; }
+html[data-theme="dark"] .shelf[data-shelf="chinese"] .book-card { --edge: #c9b69a; }
+.card-original[lang="zh"], .work-original[lang="zh"] { font-family: var(--chinese); letter-spacing: 0; line-height: 1.45; }
+.card-original[lang="zh"] { font-size: 21px; }
+.work-original[lang="zh"] { font-size: clamp(23px,3.2vw,36px); }
+.result blockquote[lang="zh"] { font-family: var(--chinese); font-size: 19px; line-height: 1.8; }

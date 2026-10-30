@@ -26,14 +26,21 @@ const normalise = s => s.normalize('NFKD').replace(/\p{M}/gu, '').replace(/\u064
 const ARABIC = /[\u0600-\u06ff]/;
 let prefixes = [];
 const stem = w => { if (ARABIC.test(w)) for (const p of prefixes) if (w.startsWith(p) && w.length - p.length >= 3) return w.slice(p.length); return w; };
-const terms = text => (normalise(text).match(/[\p{L}\p{N}]+/gu) || []).map(stem);
+const terms = text => (normalise(text).match(/[\u3400-\u9fff]+|(?:(?![\u3400-\u9fff])[\p{L}\p{N}])+/gu) || []).flatMap(w => /^[\u3400-\u9fff]+$/.test(w) ? Array.from({length: Math.max(0,w.length-1)}, (_,i) => w.slice(i,i+2)) : [stem(w)]);
 const hex = t => [...t].map(c => c.codePointAt(0).toString(16));
 function bucketFor(m, t) {
+  if (/^[\u3400-\u9fff]{2}$/.test(t)) {
+    const key = 'zh-' + (t.codePointAt(0) % 256).toString(16).padStart(2,'0');
+    const split = key + '-' + (t.codePointAt(1) % 16).toString(16);
+    if (m.bucketSet.has(split)) return split;
+    return m.bucketSet.has(key) ? key : null;
+  }
   const h = hex(t);
   if (h.length >= 3 && m.bucketSet.has(h.slice(0, 3).join('-'))) return h.slice(0, 3).join('-');
   const k = h.slice(0, 2).join('-');
   return m.bucketSet.has(k) ? k : null;
 }
+
 function decode(s) {
   const out = []; let prev = 0;
   for (const part of s.split(',')) { prev += parseInt(part, 36); out.push(prev); }
@@ -86,12 +93,27 @@ function matchesPhrases(text, phrases) {
 
 function highlight(text, wanted) {
   const hits = [];
-  for (const m of text.matchAll(/[\p{L}\p{N}\p{M}\u0640]+/gu)) {
-    const w = stem(normalise(m[0]).replace(/[^\p{L}\p{N}]/gu, ''));
-    if (wanted(w)) hits.push([m.index, m.index + m[0].length]);
+  // Han-script phrases have no spaces. Index overlapping two-character pairs;
+  // highlight matching pairs and merge their overlapping ranges for a readable excerpt.
+  for (const m of text.matchAll(/[\u3400-\u9fff]+|(?:(?![\u3400-\u9fff])[\p{L}\p{N}\p{M}\u0640])+/gu)) {
+    if (/^[\u3400-\u9fff]+$/.test(m[0])) {
+      for (let i = 0; i + 1 < m[0].length; i++) {
+        if (wanted(normalise(m[0].slice(i, i + 2)))) hits.push([m.index + i, m.index + i + 2]);
+      }
+    } else {
+      const w = stem(normalise(m[0]).replace(/[^\p{L}\p{N}]/gu, ''));
+      if (wanted(w)) hits.push([m.index, m.index + m[0].length]);
+    }
   }
-  return hits;
+  hits.sort((a,b) => a[0] - b[0]);
+  const merged = [];
+  for (const [a,b] of hits) {
+    if (merged.length && a <= merged[merged.length - 1][1]) merged[merged.length - 1][1] = Math.max(b,merged[merged.length - 1][1]);
+    else merged.push([a,b]);
+  }
+  return merged;
 }
+
 function excerpt(text, hits) {
   const LEN = 320;
   if (text.length <= LEN + 60) return { text, highlights: hits };

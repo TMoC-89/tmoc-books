@@ -1,0 +1,1192 @@
+{
+  "version": 1,
+  "initiallyCollapsed": true,
+  "languages": {
+    "en": {
+      "sourceHash": "d8e7736ca0d5e200f3ebc1187bc5bcd7925a10662f2c35df0956e418d2f021d5",
+      "entries": [
+        {
+          "id": "passage-en-00009",
+          "level": 1,
+          "kind": "opening",
+          "label": "Preface"
+        },
+        {
+          "id": "passage-en-00066",
+          "level": 1,
+          "kind": "opening",
+          "label": "Contents"
+        },
+        {
+          "id": "passage-en-00174",
+          "level": 1,
+          "kind": "chapter",
+          "label": "Chapter 1: An Uneven Land"
+        },
+        {
+          "id": "passage-en-00175",
+          "level": 2,
+          "kind": "section",
+          "label": "1. The Puzzle of America"
+        },
+        {
+          "id": "passage-en-00218",
+          "level": 2,
+          "kind": "section",
+          "label": "2. Manhattan and Chinatown"
+        },
+        {
+          "id": "passage-en-00243",
+          "level": 2,
+          "kind": "section",
+          "label": "3. The Four Cs"
+        },
+        {
+          "id": "passage-en-00274",
+          "level": 2,
+          "kind": "section",
+          "label": "4. Everything Has a Price"
+        },
+        {
+          "id": "passage-en-00308",
+          "level": 2,
+          "kind": "section",
+          "label": "5. A Different World Next Door"
+        },
+        {
+          "id": "passage-en-00346",
+          "level": 2,
+          "kind": "section",
+          "label": "6. The Amana Colonies"
+        },
+        {
+          "id": "passage-en-00385",
+          "level": 2,
+          "kind": "section",
+          "label": "7. Life in the Countryside"
+        },
+        {
+          "id": "passage-en-00416",
+          "level": 2,
+          "kind": "section",
+          "label": "8. The Decline of the Farm"
+        },
+        {
+          "id": "passage-en-00450",
+          "level": 1,
+          "kind": "chapter",
+          "label": "Chapter 2: An Old Political Spirit"
+        },
+        {
+          "id": "passage-en-00451",
+          "level": 2,
+          "kind": "section",
+          "label": "1. The American Spirit"
+        },
+        {
+          "id": "passage-en-00486",
+          "level": 2,
+          "kind": "section",
+          "label": "2. The Mayflower"
+        },
+        {
+          "id": "passage-en-00526",
+          "level": 2,
+          "kind": "section",
+          "label": "3. The Beliefs That Hold America Together"
+        },
+        {
+          "id": "passage-en-00566",
+          "level": 2,
+          "kind": "section",
+          "label": "4. Freedom or Equality?"
+        },
+        {
+          "id": "passage-en-00619",
+          "level": 2,
+          "kind": "section",
+          "label": "5. Two Hundred Years of the Constitution"
+        },
+        {
+          "id": "passage-en-00660",
+          "level": 2,
+          "kind": "section",
+          "label": "6. The Roots of American Politics"
+        },
+        {
+          "id": "passage-en-00696",
+          "level": 2,
+          "kind": "section",
+          "label": "7. The Rules That Keep Politics Running"
+        },
+        {
+          "id": "passage-en-00739",
+          "level": 2,
+          "kind": "section",
+          "label": "8. A Third American Republic?"
+        },
+        {
+          "id": "passage-en-00778",
+          "level": 1,
+          "kind": "chapter",
+          "label": "Chapter 3: The Many Sides of American Character"
+        },
+        {
+          "id": "passage-en-00779",
+          "level": 2,
+          "kind": "section",
+          "label": "1. Citizens of the World—Whether They Like It or Not"
+        },
+        {
+          "id": "passage-en-00825",
+          "level": 2,
+          "kind": "section",
+          "label": "2. The Urge to Do Something Different"
+        },
+        {
+          "id": "passage-en-00888",
+          "level": 2,
+          "kind": "section",
+          "label": "3. Nothing Is Beyond Question"
+        },
+        {
+          "id": "passage-en-00938",
+          "level": 2,
+          "kind": "section",
+          "label": "4. Making Things Sacred"
+        },
+        {
+          "id": "passage-en-00971",
+          "level": 2,
+          "kind": "section",
+          "label": "5. When Technology Leads Us Astray"
+        },
+        {
+          "id": "passage-en-01002",
+          "level": 2,
+          "kind": "section",
+          "label": "6. Why Americans Work So Hard"
+        },
+        {
+          "id": "passage-en-01041",
+          "level": 2,
+          "kind": "section",
+          "label": "7. The Sexual Revolution"
+        },
+        {
+          "id": "passage-en-01097",
+          "level": 2,
+          "kind": "section",
+          "label": "8. Lonely Hearts"
+        },
+        {
+          "id": "passage-en-01167",
+          "level": 2,
+          "kind": "section",
+          "label": "9. Tomorrow's World"
+        },
+        {
+          "id": "passage-en-01220",
+          "level": 2,
+          "kind": "section",
+          "label": "10. People Are Still People"
+        },
+        {
+          "id": "passage-en-01256",
+          "level": 1,
+          "kind": "chapter",
+          "label": "Chapter 4: The Many Ways Society Runs Itself"
+        },
+        {
+          "id": "passage-en-01257",
+          "level": 2,
+          "kind": "section",
+          "label": "1. The Invisible Hand"
+        },
+        {
+          "id": "passage-en-01293",
+          "level": 2,
+          "kind": "section",
+          "label": "2. How Money Runs Society"
+        },
+        {
+          "id": "passage-en-01333",
+          "level": 2,
+          "kind": "section",
+          "label": "3. Putting People to the Test"
+        },
+        {
+          "id": "passage-en-01382",
+          "level": 2,
+          "kind": "section",
+          "label": "4. A Culture of Rules"
+        },
+        {
+          "id": "passage-en-01429",
+          "level": 2,
+          "kind": "section",
+          "label": "5. The Tax System"
+        },
+        {
+          "id": "passage-en-01464",
+          "level": 2,
+          "kind": "section",
+          "label": "6. When Technology Organizes People"
+        },
+        {
+          "id": "passage-en-01500",
+          "level": 2,
+          "kind": "section",
+          "label": "7. Even Cats and Dogs Aren't Free"
+        },
+        {
+          "id": "passage-en-01529",
+          "level": 1,
+          "kind": "chapter",
+          "label": "Chapter 5: Competing Political Forces"
+        },
+        {
+          "id": "passage-en-01530",
+          "level": 2,
+          "kind": "section",
+          "label": "1. Government by Donkey and Elephant"
+        },
+        {
+          "id": "passage-en-01561",
+          "level": 2,
+          "kind": "section",
+          "label": "2. The Rewards of Victory"
+        },
+        {
+          "id": "passage-en-01604",
+          "level": 2,
+          "kind": "section",
+          "label": "3. Interest Groups"
+        },
+        {
+          "id": "passage-en-01638",
+          "level": 2,
+          "kind": "section",
+          "label": "4. Lobbyists"
+        },
+        {
+          "id": "passage-en-01675",
+          "level": 2,
+          "kind": "section",
+          "label": "5. Radical Organizations"
+        },
+        {
+          "id": "passage-en-01697",
+          "level": 2,
+          "kind": "section",
+          "label": "6. Rule by the Many—or by the Few?"
+        },
+        {
+          "id": "passage-en-01726",
+          "level": 2,
+          "kind": "section",
+          "label": "7. Democracy Through Participation?"
+        },
+        {
+          "id": "passage-en-01772",
+          "level": 1,
+          "kind": "chapter",
+          "label": "Chapter 6: Democracy's Imperfect Elections"
+        },
+        {
+          "id": "passage-en-01773",
+          "level": 2,
+          "kind": "section",
+          "label": "1. The Race for the White House"
+        },
+        {
+          "id": "passage-en-01791",
+          "level": 2,
+          "kind": "section",
+          "label": "2. The Road to the Presidency"
+        },
+        {
+          "id": "passage-en-01837",
+          "level": 2,
+          "kind": "section",
+          "label": "3. A Picnic with the Local Democrats"
+        },
+        {
+          "id": "passage-en-01873",
+          "level": 2,
+          "kind": "section",
+          "label": "4. Debating on Television"
+        },
+        {
+          "id": "passage-en-01917",
+          "level": 2,
+          "kind": "section",
+          "label": "5. Dreaming of Congress"
+        },
+        {
+          "id": "passage-en-01948",
+          "level": 2,
+          "kind": "section",
+          "label": "6. Election Day"
+        },
+        {
+          "id": "passage-en-01975",
+          "level": 2,
+          "kind": "section",
+          "label": "7. Who Decides the Outcome?"
+        },
+        {
+          "id": "passage-en-02004",
+          "level": 1,
+          "kind": "chapter",
+          "label": "Chapter 7: The Pyramid of Power"
+        },
+        {
+          "id": "passage-en-02005",
+          "level": 2,
+          "kind": "section",
+          "label": "1. Capitol Hill"
+        },
+        {
+          "id": "passage-en-02033",
+          "level": 2,
+          "kind": "section",
+          "label": "2. A Union of Fifty States"
+        },
+        {
+          "id": "passage-en-02062",
+          "level": 2,
+          "kind": "section",
+          "label": "3. Politics at the County Level"
+        },
+        {
+          "id": "passage-en-02093",
+          "level": 2,
+          "kind": "section",
+          "label": "4. City Politics"
+        },
+        {
+          "id": "passage-en-02131",
+          "level": 2,
+          "kind": "section",
+          "label": "5. Politics at the Grassroots"
+        },
+        {
+          "id": "passage-en-02157",
+          "level": 2,
+          "kind": "section",
+          "label": "6. Government in the Open"
+        },
+        {
+          "id": "passage-en-02193",
+          "level": 2,
+          "kind": "section",
+          "label": "7. Choosing Public Officials"
+        },
+        {
+          "id": "passage-en-02236",
+          "level": 2,
+          "kind": "section",
+          "label": "8. A Congressman's Local Office"
+        },
+        {
+          "id": "passage-en-02260",
+          "level": 1,
+          "kind": "chapter",
+          "label": "Chapter 8: Governing Without Giving Orders"
+        },
+        {
+          "id": "passage-en-02261",
+          "level": 2,
+          "kind": "section",
+          "label": "1. The Driver's License"
+        },
+        {
+          "id": "passage-en-02286",
+          "level": 2,
+          "kind": "section",
+          "label": "2. The Rules of the Factory"
+        },
+        {
+          "id": "passage-en-02323",
+          "level": 2,
+          "kind": "section",
+          "label": "3. Businesses Aren't Democracies"
+        },
+        {
+          "id": "passage-en-02387",
+          "level": 2,
+          "kind": "section",
+          "label": "4. Human Services"
+        },
+        {
+          "id": "passage-en-02426",
+          "level": 2,
+          "kind": "section",
+          "label": "5. Coca-Cola Headquarters"
+        },
+        {
+          "id": "passage-en-02453",
+          "level": 2,
+          "kind": "section",
+          "label": "6. God Among Us"
+        },
+        {
+          "id": "passage-en-02493",
+          "level": 1,
+          "kind": "chapter",
+          "label": "Chapter 9: How a Society Passes Itself On"
+        },
+        {
+          "id": "passage-en-02494",
+          "level": 2,
+          "kind": "section",
+          "label": "1. The Education System"
+        },
+        {
+          "id": "passage-en-02522",
+          "level": 2,
+          "kind": "section",
+          "label": "2. MIT"
+        },
+        {
+          "id": "passage-en-02550",
+          "level": 2,
+          "kind": "section",
+          "label": "3. Harvard's Kennedy School of Government"
+        },
+        {
+          "id": "passage-en-02576",
+          "level": 2,
+          "kind": "section",
+          "label": "4. The Talent Factories"
+        },
+        {
+          "id": "passage-en-02634",
+          "level": 2,
+          "kind": "section",
+          "label": "5. The United States Naval Academy"
+        },
+        {
+          "id": "passage-en-02657",
+          "level": 2,
+          "kind": "section",
+          "label": "6. Education for Export"
+        },
+        {
+          "id": "passage-en-02688",
+          "level": 2,
+          "kind": "section",
+          "label": "7. Where Technology Is Made"
+        },
+        {
+          "id": "passage-en-02716",
+          "level": 1,
+          "kind": "chapter",
+          "label": "Chapter 10: The Power of Ideas"
+        },
+        {
+          "id": "passage-en-02717",
+          "level": 2,
+          "kind": "section",
+          "label": "1. Idea Factories"
+        },
+        {
+          "id": "passage-en-02745",
+          "level": 2,
+          "kind": "section",
+          "label": "2. The Brookings Institution"
+        },
+        {
+          "id": "passage-en-02776",
+          "level": 2,
+          "kind": "section",
+          "label": "3. The Carter Center"
+        },
+        {
+          "id": "passage-en-02804",
+          "level": 2,
+          "kind": "section",
+          "label": "4. A Forum for Defence Secretaries"
+        },
+        {
+          "id": "passage-en-02842",
+          "level": 2,
+          "kind": "section",
+          "label": "5. A Centre for Regional Affairs"
+        },
+        {
+          "id": "passage-en-02884",
+          "level": 2,
+          "kind": "section",
+          "label": "6. Reservoirs of Knowledge"
+        },
+        {
+          "id": "passage-en-02917",
+          "level": 2,
+          "kind": "section",
+          "label": "7. The City Library"
+        },
+        {
+          "id": "passage-en-02952",
+          "level": 1,
+          "kind": "chapter",
+          "label": "Chapter 11: Warning Signs Beneath the Surface"
+        },
+        {
+          "id": "passage-en-02953",
+          "level": 2,
+          "kind": "section",
+          "label": "1. The Meaning of Family"
+        },
+        {
+          "id": "passage-en-03003",
+          "level": 2,
+          "kind": "section",
+          "label": "2. An Ignorant Generation?"
+        },
+        {
+          "id": "passage-en-03046",
+          "level": 2,
+          "kind": "section",
+          "label": "3. Young People Adrift"
+        },
+        {
+          "id": "passage-en-03070",
+          "level": 2,
+          "kind": "section",
+          "label": "4. America and Its Drugs"
+        },
+        {
+          "id": "passage-en-03094",
+          "level": 2,
+          "kind": "section",
+          "label": "5. Organized Crime"
+        },
+        {
+          "id": "passage-en-03122",
+          "level": 2,
+          "kind": "section",
+          "label": "6. A Kingdom of Beggars"
+        },
+        {
+          "id": "passage-en-03147",
+          "level": 2,
+          "kind": "section",
+          "label": "7. The Black Challenge"
+        },
+        {
+          "id": "passage-en-03169",
+          "level": 2,
+          "kind": "section",
+          "label": "8. The Situation of Native Americans"
+        },
+        {
+          "id": "passage-en-03196",
+          "level": 2,
+          "kind": "section",
+          "label": "9. A Crisis of Belief"
+        },
+        {
+          "id": "passage-en-03232",
+          "level": 2,
+          "kind": "section",
+          "label": "10. The Empire of the Sun"
+        }
+      ]
+    },
+    "zh": {
+      "sourceHash": "3a722e75e610cbd7faabbfc7c512327bc474aaad8d629ccf4e9764d90ebb9fe1",
+      "entries": [
+        {
+          "id": "passage-zh-00009",
+          "level": 1,
+          "kind": "opening",
+          "label": "序"
+        },
+        {
+          "id": "passage-zh-00040",
+          "level": 1,
+          "kind": "opening",
+          "label": "目录"
+        },
+        {
+          "id": "passage-zh-00149",
+          "level": 1,
+          "kind": "chapter",
+          "label": "一、不均匀的土地"
+        },
+        {
+          "id": "passage-zh-00150",
+          "level": 2,
+          "kind": "section",
+          "label": "1. 美国制造的疑惑"
+        },
+        {
+          "id": "passage-zh-00157",
+          "level": 2,
+          "kind": "section",
+          "label": "2. 曼哈顿和唐人街"
+        },
+        {
+          "id": "passage-zh-00166",
+          "level": 2,
+          "kind": "section",
+          "label": "3. 四个C多"
+        },
+        {
+          "id": "passage-zh-00184",
+          "level": 2,
+          "kind": "section",
+          "label": "4. 高度的商品化"
+        },
+        {
+          "id": "passage-zh-00199",
+          "level": 2,
+          "kind": "section",
+          "label": "5. 边远地区"
+        },
+        {
+          "id": "passage-zh-00213",
+          "level": 2,
+          "kind": "section",
+          "label": "6. 阿马拿移民地"
+        },
+        {
+          "id": "passage-zh-00225",
+          "level": 2,
+          "kind": "section",
+          "label": "7. 乡土景观"
+        },
+        {
+          "id": "passage-zh-00240",
+          "level": 2,
+          "kind": "section",
+          "label": "8. 农场的衰落"
+        },
+        {
+          "id": "passage-zh-00254",
+          "level": 1,
+          "kind": "chapter",
+          "label": "二、古老的政治精神"
+        },
+        {
+          "id": "passage-zh-00255",
+          "level": 2,
+          "kind": "section",
+          "label": "1. “美国精神”"
+        },
+        {
+          "id": "passage-zh-00280",
+          "level": 2,
+          "kind": "section",
+          "label": "2. “五月花号”"
+        },
+        {
+          "id": "passage-zh-00293",
+          "level": 2,
+          "kind": "section",
+          "label": "3. 政治信条"
+        },
+        {
+          "id": "passage-zh-00304",
+          "level": 2,
+          "kind": "section",
+          "label": "4. 平等抑或自由"
+        },
+        {
+          "id": "passage-zh-00321",
+          "level": 2,
+          "kind": "section",
+          "label": "5. 二百年的宪法"
+        },
+        {
+          "id": "passage-zh-00338",
+          "level": 2,
+          "kind": "section",
+          "label": "6. 政治基因"
+        },
+        {
+          "id": "passage-zh-00347",
+          "level": 2,
+          "kind": "section",
+          "label": "7. 政治规矩"
+        },
+        {
+          "id": "passage-zh-00367",
+          "level": 2,
+          "kind": "section",
+          "label": "8. “第三共和国”"
+        },
+        {
+          "id": "passage-zh-00379",
+          "level": 1,
+          "kind": "chapter",
+          "label": "三、多彩的民族性格"
+        },
+        {
+          "id": "passage-zh-00380",
+          "level": 2,
+          "kind": "section",
+          "label": "1. 国际人"
+        },
+        {
+          "id": "passage-zh-00393",
+          "level": 2,
+          "kind": "section",
+          "label": "2. 标新立异"
+        },
+        {
+          "id": "passage-zh-00414",
+          "level": 2,
+          "kind": "section",
+          "label": "3. 非神秘化"
+        },
+        {
+          "id": "passage-zh-00426",
+          "level": 2,
+          "kind": "section",
+          "label": "4. 神圣化"
+        },
+        {
+          "id": "passage-zh-00438",
+          "level": 2,
+          "kind": "section",
+          "label": "5. 航天飞机的误导"
+        },
+        {
+          "id": "passage-zh-00448",
+          "level": 2,
+          "kind": "section",
+          "label": "6. 工作伦理"
+        },
+        {
+          "id": "passage-zh-00466",
+          "level": 2,
+          "kind": "section",
+          "label": "7. 性解放"
+        },
+        {
+          "id": "passage-zh-00486",
+          "level": 2,
+          "kind": "section",
+          "label": "8. 孤独的心灵"
+        },
+        {
+          "id": "passage-zh-00495",
+          "level": 2,
+          "kind": "section",
+          "label": "9. 未来世界"
+        },
+        {
+          "id": "passage-zh-00511",
+          "level": 2,
+          "kind": "section",
+          "label": "10. 人总是人"
+        },
+        {
+          "id": "passage-zh-00525",
+          "level": 1,
+          "kind": "chapter",
+          "label": "四、多层面的社会调节"
+        },
+        {
+          "id": "passage-zh-00526",
+          "level": 2,
+          "kind": "section",
+          "label": "1. 看不见的手"
+        },
+        {
+          "id": "passage-zh-00542",
+          "level": 2,
+          "kind": "section",
+          "label": "2. 钱管社会"
+        },
+        {
+          "id": "passage-zh-00558",
+          "level": 2,
+          "kind": "section",
+          "label": "3. 人的标准化"
+        },
+        {
+          "id": "passage-zh-00587",
+          "level": 2,
+          "kind": "section",
+          "label": "4. 法规文化"
+        },
+        {
+          "id": "passage-zh-00604",
+          "level": 2,
+          "kind": "section",
+          "label": "5. 税收制度"
+        },
+        {
+          "id": "passage-zh-00624",
+          "level": 2,
+          "kind": "section",
+          "label": "6. 科技治人"
+        },
+        {
+          "id": "passage-zh-00636",
+          "level": 2,
+          "kind": "section",
+          "label": "7. 猫狗不自由"
+        },
+        {
+          "id": "passage-zh-00654",
+          "level": 1,
+          "kind": "chapter",
+          "label": "五、交织的政治力量"
+        },
+        {
+          "id": "passage-zh-00655",
+          "level": 2,
+          "kind": "section",
+          "label": "1. 驴象治国"
+        },
+        {
+          "id": "passage-zh-00671",
+          "level": 2,
+          "kind": "section",
+          "label": "2. 政党分肥"
+        },
+        {
+          "id": "passage-zh-00691",
+          "level": 2,
+          "kind": "section",
+          "label": "3. 利益集团"
+        },
+        {
+          "id": "passage-zh-00708",
+          "level": 2,
+          "kind": "section",
+          "label": "4. 乐辩士"
+        },
+        {
+          "id": "passage-zh-00721",
+          "level": 2,
+          "kind": "section",
+          "label": "5. 激进组织"
+        },
+        {
+          "id": "passage-zh-00731",
+          "level": 2,
+          "kind": "section",
+          "label": "6. 多元抑或英才"
+        },
+        {
+          "id": "passage-zh-00744",
+          "level": 2,
+          "kind": "section",
+          "label": "7. 参与民主？"
+        },
+        {
+          "id": "passage-zh-00761",
+          "level": 1,
+          "kind": "chapter",
+          "label": "六、不完全竞选"
+        },
+        {
+          "id": "passage-zh-00762",
+          "level": 2,
+          "kind": "section",
+          "label": "1. 争夺白宫"
+        },
+        {
+          "id": "passage-zh-00771",
+          "level": 2,
+          "kind": "section",
+          "label": "2. 总统之路"
+        },
+        {
+          "id": "passage-zh-00792",
+          "level": 2,
+          "kind": "section",
+          "label": "3. 第三层民主党聚餐会"
+        },
+        {
+          "id": "passage-zh-00805",
+          "level": 2,
+          "kind": "section",
+          "label": "4. 电视辩论"
+        },
+        {
+          "id": "passage-zh-00818",
+          "level": 2,
+          "kind": "section",
+          "label": "5. 议员之梦"
+        },
+        {
+          "id": "passage-zh-00834",
+          "level": 2,
+          "kind": "section",
+          "label": "6. 选举日"
+        },
+        {
+          "id": "passage-zh-00852",
+          "level": 2,
+          "kind": "section",
+          "label": "7. 谁主沉浮？"
+        },
+        {
+          "id": "passage-zh-00865",
+          "level": 1,
+          "kind": "chapter",
+          "label": "七、政治金字塔"
+        },
+        {
+          "id": "passage-zh-00866",
+          "level": 2,
+          "kind": "section",
+          "label": "1. 国会山"
+        },
+        {
+          "id": "passage-zh-00881",
+          "level": 2,
+          "kind": "section",
+          "label": "2. 五十国集团"
+        },
+        {
+          "id": "passage-zh-00899",
+          "level": 2,
+          "kind": "section",
+          "label": "3. 县政治"
+        },
+        {
+          "id": "passage-zh-00915",
+          "level": 2,
+          "kind": "section",
+          "label": "4. 都市里的政治"
+        },
+        {
+          "id": "passage-zh-00938",
+          "level": 2,
+          "kind": "section",
+          "label": "5. 草根政治"
+        },
+        {
+          "id": "passage-zh-00955",
+          "level": 2,
+          "kind": "section",
+          "label": "6. 透明议事"
+        },
+        {
+          "id": "passage-zh-00977",
+          "level": 2,
+          "kind": "section",
+          "label": "7. 选择仕官"
+        },
+        {
+          "id": "passage-zh-01005",
+          "level": 2,
+          "kind": "section",
+          "label": "8. 国会人联络处"
+        },
+        {
+          "id": "passage-zh-01017",
+          "level": 1,
+          "kind": "chapter",
+          "label": "八、软性治理"
+        },
+        {
+          "id": "passage-zh-01018",
+          "level": 2,
+          "kind": "section",
+          "label": "1. 驾驶执照"
+        },
+        {
+          "id": "passage-zh-01031",
+          "level": 2,
+          "kind": "section",
+          "label": "2. 工厂的原则"
+        },
+        {
+          "id": "passage-zh-01059",
+          "level": 2,
+          "kind": "section",
+          "label": "3. 企业不民主"
+        },
+        {
+          "id": "passage-zh-01069",
+          "level": 2,
+          "kind": "section",
+          "label": "4. 人类服务"
+        },
+        {
+          "id": "passage-zh-01083",
+          "level": 2,
+          "kind": "section",
+          "label": "5. 可口可乐总部"
+        },
+        {
+          "id": "passage-zh-01096",
+          "level": 2,
+          "kind": "section",
+          "label": "6. 上帝在人间"
+        },
+        {
+          "id": "passage-zh-01117",
+          "level": 1,
+          "kind": "chapter",
+          "label": "九、制度的再生产"
+        },
+        {
+          "id": "passage-zh-01118",
+          "level": 2,
+          "kind": "section",
+          "label": "1. 教育系统"
+        },
+        {
+          "id": "passage-zh-01133",
+          "level": 2,
+          "kind": "section",
+          "label": "2. MIT"
+        },
+        {
+          "id": "passage-zh-01146",
+          "level": 2,
+          "kind": "section",
+          "label": "3. 肯尼迪政府学院"
+        },
+        {
+          "id": "passage-zh-01165",
+          "level": 2,
+          "kind": "section",
+          "label": "4. “人才工厂”"
+        },
+        {
+          "id": "passage-zh-01218",
+          "level": 2,
+          "kind": "section",
+          "label": "5. 美国海军学院"
+        },
+        {
+          "id": "passage-zh-01231",
+          "level": 2,
+          "kind": "section",
+          "label": "6. 教育出口"
+        },
+        {
+          "id": "passage-zh-01249",
+          "level": 2,
+          "kind": "section",
+          "label": "7. 科技之炉"
+        },
+        {
+          "id": "passage-zh-01262",
+          "level": 1,
+          "kind": "chapter",
+          "label": "十、活跃的智慧"
+        },
+        {
+          "id": "passage-zh-01263",
+          "level": 2,
+          "kind": "section",
+          "label": "1. 思想工厂"
+        },
+        {
+          "id": "passage-zh-01277",
+          "level": 2,
+          "kind": "section",
+          "label": "2. 布鲁金斯学会"
+        },
+        {
+          "id": "passage-zh-01291",
+          "level": 2,
+          "kind": "section",
+          "label": "3. 卡特中心"
+        },
+        {
+          "id": "passage-zh-01308",
+          "level": 2,
+          "kind": "section",
+          "label": "4. 国防部长论坛"
+        },
+        {
+          "id": "passage-zh-01327",
+          "level": 2,
+          "kind": "section",
+          "label": "5. 地区事务中心"
+        },
+        {
+          "id": "passage-zh-01352",
+          "level": 2,
+          "kind": "section",
+          "label": "6. 知识水库"
+        },
+        {
+          "id": "passage-zh-01367",
+          "level": 2,
+          "kind": "section",
+          "label": "7. 市图书馆"
+        },
+        {
+          "id": "passage-zh-01384",
+          "level": 1,
+          "kind": "chapter",
+          "label": "十一、危机的潜流"
+        },
+        {
+          "id": "passage-zh-01385",
+          "level": 2,
+          "kind": "section",
+          "label": "1. 家庭观念"
+        },
+        {
+          "id": "passage-zh-01403",
+          "level": 2,
+          "kind": "section",
+          "label": "2. 无知的一代？"
+        },
+        {
+          "id": "passage-zh-01416",
+          "level": 2,
+          "kind": "section",
+          "label": "3. 游离少年"
+        },
+        {
+          "id": "passage-zh-01437",
+          "level": 2,
+          "kind": "section",
+          "label": "4. 无毒不美国"
+        },
+        {
+          "id": "passage-zh-01453",
+          "level": 2,
+          "kind": "section",
+          "label": "5. 黑社会"
+        },
+        {
+          "id": "passage-zh-01473",
+          "level": 2,
+          "kind": "section",
+          "label": "6. 乞丐王国"
+        },
+        {
+          "id": "passage-zh-01488",
+          "level": 2,
+          "kind": "section",
+          "label": "7. 黑色挑战"
+        },
+        {
+          "id": "passage-zh-01502",
+          "level": 2,
+          "kind": "section",
+          "label": "8. 土著的境况"
+        },
+        {
+          "id": "passage-zh-01518",
+          "level": 2,
+          "kind": "section",
+          "label": "9. 精神危机"
+        },
+        {
+          "id": "passage-zh-01535",
+          "level": 2,
+          "kind": "section",
+          "label": "10. 太阳帝国"
+        }
+      ]
+    }
+  }
+}

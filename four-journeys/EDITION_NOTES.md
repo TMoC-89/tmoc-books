@@ -46,4 +46,8 @@ The local audit, untouched pre-heading snapshot, heading-change list and verific
 
 ## Scope of review
 
+### Volume III correction — 30 October 2026
+
+The second, third and fourth kinds of power in Stage Seven, Chapter II are prose cases, not smaller chapters. Their English and Arabic text is now ordinary paragraphs and is omitted from the sidebar and printed contents. Their wording, passage IDs, note callouts, paired section keys and review storage version are retained. The old section boundaries remain as continuous parts of the same reading flow so saved positions and review references still work. `data-continuation`, `data-continues` and `data-contents-parent` keep the text continuous and the current chapter highlighted; the builder puts the previous/next controls only at the end of the full group. Both Markdown volumes and the complete bilingual ZIP agree with this correction. Do not promote these cases back to headings during a future import.
+
 This is an editorial, structure and publication-quality check, not an independent word-by-word verification of the entire Arabic text against all nine printed volumes or a review of every English translation choice. The six restored note callouts are editorial placements made using the available printed PDF context. The isolated note is reported openly instead of being assigned an uncertain passage.

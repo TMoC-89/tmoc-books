@@ -21,11 +21,13 @@ body.reader { min-height: 100vh; }
 /* Everything that exists once per language carries data-l; only the active one is shown. */
 html[data-lang="en"] [data-l]:not([data-l="en"]),
 html[data-lang="ar"] [data-l]:not([data-l="ar"]),
-html[data-lang="fr"] [data-l]:not([data-l="fr"]) { display: none !important; }
+html[data-lang="fr"] [data-l]:not([data-l="fr"]),
+html[data-lang="zh"] [data-l]:not([data-l="zh"]) { display: none !important; }
 .language-view { display: none; }
 html[data-lang="en"] .language-view[data-lang="en"],
 html[data-lang="ar"] .language-view[data-lang="ar"],
-html[data-lang="fr"] .language-view[data-lang="fr"] { display: block; }
+html[data-lang="fr"] .language-view[data-lang="fr"],
+html[data-lang="zh"] .language-view[data-lang="zh"] { display: block; }
 
 /* ---------- Progress ---------------------------------------------------------------------- */
 #progress {
@@ -215,6 +217,8 @@ html[data-lang="ar"] .cover-actions .btn { font-family: var(--arabic); font-size
   font-kerning: normal; font-variant-ligatures: common-ligatures;
 }
 .language-view > .book-section + .book-section { border-top: 1px solid var(--line); }
+.book-section[data-continues="true"] { padding-bottom: 0; }
+.language-view > .book-section[data-continuation="true"] { padding-top: 0; border-top: 0; }
 
 .book-section > :is(h1, h2):first-child {
   margin: 0 0 .9em; font: 400 clamp(32px, 4.3vw, 46px)/1.12 var(--serif); letter-spacing: -.022em; text-wrap: balance;
@@ -451,3 +455,17 @@ html[data-theme="dark"] mark.search-hit { background: color-mix(in srgb, #e2b93b
 /* A rare note whose printed reference is absent still appears in the notes list. */
 .note-editorial-label { color: var(--muted); font: 600 11px/1.45 var(--ui); letter-spacing: .015em; margin: 0 0 .3em !important; }
 .language-view[data-lang="ar"] .note-editorial-label { font: 600 13px/1.5 var(--arabic); }
+
+/* Chinese edition. Keeps the same reading measure, ink, side navigation and chapter rhythm. */
+.language-view[data-lang="zh"] .book-section { font-family: var(--chinese); font-size: calc(var(--reader-size) + 1px); line-height: 1.9; letter-spacing: .01em; word-break: normal; line-break: strict; overflow-wrap: anywhere; hyphens: none; }
+.language-view[data-lang="zh"] .book-section :is(h1,h2,h3,h4,h5,h6) { font-family: var(--chinese-ui); letter-spacing: 0; line-height: 1.5; text-wrap: pretty; }
+.language-view[data-lang="zh"] .book-section > :is(h1,h2):first-child { font-size: clamp(29px, 4.1vw, 43px); }
+.language-view[data-lang="zh"] .book-section p { margin-bottom: 1.05em; }
+html[data-lang="zh"] .cover h1, html[data-lang="zh"] .cover .subtitle { font-family: var(--chinese); letter-spacing: 0; line-height: 1.4; }
+html[data-lang="zh"] .cover h1 { font-size: clamp(38px,5.4vw,66px); }
+html[data-lang="zh"] .cover .author, html[data-lang="zh"] .cover .edition, html[data-lang="zh"] .cover .eyebrow { font-family: var(--chinese-ui); letter-spacing: 0; }
+html[data-lang="zh"] .cover-actions .btn, html[data-lang="zh"] .site-footer { font-family: var(--chinese-ui); }
+.toc[data-l="zh"] a { font-family: var(--chinese-ui); font-size: 14px; line-height: 1.5; }
+.language-view[data-lang="zh"] .pager-link { font-family: var(--chinese-ui); }
+.language-view[data-lang="zh"] .pager-link span { letter-spacing: 0; }
+.language-view[data-lang="zh"] .book-section blockquote { border-inline-start: 2px solid var(--accent-line); }

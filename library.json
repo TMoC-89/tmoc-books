@@ -23,15 +23,37 @@
       "label": "From the German",
       "region": "Europe",
       "language": "German"
+    },
+    {
+      "id": "chinese",
+      "label": "From the Chinese",
+      "region": "East Asia",
+      "language": "Chinese"
     }
   ],
   "books": [
+    {
+      "no": 12,
+      "shelf": "chinese",
+      "href": "america-against-america/",
+      "tag": "Latest addition",
+      "title": "America Against America",
+      "subtitle": "An Examination of American Society and Its Contradictions",
+      "originalTitle": {
+        "lang": "zh",
+        "text": "美国反对美国"
+      },
+      "author": "Wang Huning",
+      "readers": [
+        "america-against-america"
+      ],
+      "description": "An eleven-chapter study of American life, politics, institutions, and the forces that contradict one another, translated from the 1991 Chinese book."
+    },
     {
       "no": 11,
       "shelf": "arabic",
       "href": "four-journeys/",
       "series": "four-journeys",
-      "tag": "Latest addition",
       "title": "The Four Journeys of the Intellect",
       "subtitle": "The Transcendent Wisdom of the Four Intellectual Journeys",
       "originalTitle": {

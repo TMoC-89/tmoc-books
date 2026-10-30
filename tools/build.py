@@ -95,11 +95,12 @@ LOGO = ('<svg viewBox="0 0 32 32" width="28" height="28" fill="none" aria-hidden
         '<path d="M16 8v21M7 11c2 0 4 .5 5 1M7 16c2 0 4 .5 5 1M21 12c1-1 3-1 4-1M21 17c1-1 3-1 4-1" stroke="currentColor" stroke-width="1.5"/></svg>')
 
 
-def head(*, title, description, prefix, canonical, site, css, lang='en', extra='', boot='', og_type='website'):
+def head(*, title, description, prefix, canonical, site, css, lang='en', extra='', boot='', og_type='website', translate=True):
     return f'''<!doctype html>
-<html lang="{lang}" data-theme="light"{extra}>
+<html lang="{lang}" data-theme="light"{extra}{'' if translate else ' translate="no"'}>
 <head>
 <meta charset="utf-8">
+{'' if translate else '<meta name="google" content="notranslate">'}
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>{esc(title)}</title>
 <meta name="description" content="{esc(description)}">
@@ -161,8 +162,8 @@ def parse_content(content):
 
 def pager_html(lang, prev, nxt):
     ar = lang == 'ar'
-    words = {'ar': ('السابق', 'التالي'), 'fr': ('Précédent', 'Suivant')}.get(lang, ('Previous', 'Next'))
-    label = {'ar': 'التنقل بين الفصول', 'fr': 'Navigation entre les chapitres'}.get(lang, 'Chapter navigation')
+    words = {'ar': ('السابق', 'التالي'), 'fr': ('Précédent', 'Suivant'), 'zh': ('上一节', '下一节')}.get(lang, ('Previous', 'Next'))
+    label = {'ar': 'التنقل بين الفصول', 'fr': 'Navigation entre les chapitres', 'zh': '章节导航'}.get(lang, 'Chapter navigation')
     out = [f'<nav class="chapter-pager" aria-label="{label}">']
     if prev:
         out.append(f'<a class="pager-link prev" href="#{esc(prev["id"])}" data-key="{esc(prev["key"])}"><span>{words[0]}</span><strong>{esc(prev["title"])}</strong></a>')
@@ -190,10 +191,16 @@ def normalise_content(content):
             new_tag = tag[:-1] + f' data-chars="{chars}">'
             if new_tag != s['tag']:
                 edits.append((s['open'], len(s['tag']), new_tag))
-        for i, s in enumerate(secs):
-            prev = secs[i - 1] if i else None
-            nxt = secs[i + 1] if i + 1 < len(secs) else None
-            edits.append((s['close'], 0, pager_html(v['lang'], prev, nxt)))
+        groups = []
+        for s in secs:
+            if attr(s['tag'], 'data-continuation') == 'true' and groups:
+                groups[-1].append(s)
+            else:
+                groups.append([s])
+        for i, group in enumerate(groups):
+            prev = groups[i - 1][0] if i else None
+            nxt = groups[i + 1][0] if i + 1 < len(groups) else None
+            edits.append((group[-1]['close'], 0, pager_html(v['lang'], prev, nxt)))
     for pos, dl, ins in sorted(edits, key=lambda e: e[0], reverse=True):
         content = content[:pos] + ins + content[pos + dl:]
     return content, parse_content(content)
@@ -301,14 +308,14 @@ def both(d, langs, tag='span', cls=''):
 
 
 UI = {
-    'library': {'en': 'Library', 'ar': 'المكتبة', 'fr': 'Bibliothèque'},
-    'search': {'en': 'Search the library', 'ar': 'البحث في المكتبة', 'fr': 'Rechercher dans la bibliothèque'},
-    'back_search': {'en': 'Back to search results', 'ar': 'العودة إلى نتائج البحث', 'fr': 'Retour aux résultats'},
-    'contents': {'en': 'Contents', 'ar': 'المحتويات', 'fr': 'Sommaire'},
-    'begin': {'en': 'Begin reading', 'ar': 'ابدأ القراءة', 'fr': 'Commencer la lecture'},
-    'continue': {'en': 'Continue', 'ar': 'تابع القراءة', 'fr': 'Continuer'},
-    'download': {'en': 'Download', 'ar': 'تنزيل', 'fr': 'Télécharger'},
-    'bilingual': {'en': 'Bilingual edition', 'ar': 'طبعة ثنائية اللغة', 'fr': 'Édition bilingue'},
+    'library': {'en': 'Library', 'ar': 'المكتبة', 'fr': 'Bibliothèque', 'zh': '书库'},
+    'search': {'en': 'Search the library', 'ar': 'البحث في المكتبة', 'fr': 'Rechercher dans la bibliothèque', 'zh':'搜索书库'},
+    'back_search': {'en': 'Back to search results', 'ar': 'العودة إلى نتائج البحث', 'fr': 'Retour aux résultats', 'zh': '返回搜索结果'},
+    'contents': {'en': 'Contents', 'ar': 'المحتويات', 'fr': 'Sommaire', 'zh': '目录'},
+    'begin': {'en': 'Begin reading', 'ar': 'ابدأ القراءة', 'fr': 'Commencer la lecture', 'zh': '开始阅读'},
+    'continue': {'en': 'Continue', 'ar': 'تابع القراءة', 'fr': 'Continuer', 'zh': '继续阅读'},
+    'download': {'en': 'Download', 'ar': 'تنزيل', 'fr': 'Télécharger', 'zh':'下载'},
+    'bilingual': {'en': 'Bilingual edition', 'ar': 'طبعة ثنائية اللغة', 'fr': 'Édition bilingue', 'zh': '中英双语版'},
 }
 
 LANGUAGES = {
@@ -316,6 +323,7 @@ LANGUAGES = {
     'ar': {'name': 'Arabic', 'short': 'عربي', 'native': 'العربية', 'download': 'Arabic original · النص العربي'},
     'fr': {'name': 'French', 'short': 'FR', 'native': 'Français', 'download': 'French original · Texte français'},
     'de': {'name': 'German', 'short': 'DE', 'native': 'Deutsch', 'download': 'German original · Deutscher Text'},
+    'zh': {'name': 'Chinese', 'short': '中文', 'native': '中文', 'download': 'Chinese original · 中文原文'},
 }
 
 
@@ -329,7 +337,7 @@ def series_original(s):
 
 
 def volume_word(lang, vol):
-    return {'ar': f"المجلد {vol['n']}", 'fr': f"Tome {vol['roman']}"}.get(lang, f"Volume {vol['roman']}")
+    return {'ar': f"المجلد {vol['n']}", 'fr': f"Tome {vol['roman']}", 'zh': f"第{vol['n']}卷"}.get(lang, f"Volume {vol['roman']}")
 
 
 def render_reader(book, library, content, views, prefix, site):
@@ -351,7 +359,8 @@ def render_reader(book, library, content, views, prefix, site):
     elif series:
         kicker = {'en': f"Volume {vol['roman']} of {count} · Bilingual edition",
                   'ar': f"المجلد {vol['n']} من {count} · طبعة ثنائية اللغة",
-                  'fr': f"Tome {vol['roman']} sur {count} · Édition bilingue"}
+                  'fr': f"Tome {vol['roman']} sur {count} · Édition bilingue",
+                  'zh': f"第{vol['n']}卷，共{count}卷 · 中英双语版"}
     elif bilingual:
         kicker = UI['bilingual']
     else:
@@ -387,7 +396,7 @@ def render_reader(book, library, content, views, prefix, site):
         jsonld['name'] = f"{title_en} — Volume {vol['roman']}: {vol['title']}"
 
     parts = [head(title=doc_titles['en'], description=description, prefix=prefix, canonical=canonical, site=site,
-                  og_type='book', boot=boot, extra=f' data-lang="{langs[0]}"',
+                  og_type='book', boot=boot, extra=f' data-lang="{langs[0]}"', translate='zh' not in langs,
                   css=f'<link rel="stylesheet" href="{asset("assets/base.css", prefix)}">\n<link rel="stylesheet" href="{asset("assets/reader.css", prefix)}">'
                   + (f'\n<link rel="stylesheet" href="{asset("assets/reviewer.css", prefix)}">' if book.get('review') else '')
                   + (f'\n<link rel="stylesheet" href="{asset(book["contentsStylesheet"], prefix)}">' if book.get('contentsStylesheet') else ''))]
@@ -464,6 +473,8 @@ def render_reader(book, library, content, views, prefix, site):
             dl.append(f'<li><a class="side-link" href="{esc(quote(f))}" download>{icon("download")}<span>{name}</span><small>.md</small></a></li>')
     if series:
         dl.append(f'<li><a class="side-link" href="../{esc(quote(series["zip"]))}" download>{icon("download")}<span>All {NUMBER_WORDS["en"].get(count, count)} volumes</span><small>.zip</small></a></li>')
+    if book.get('bilingualZip'):
+        dl.append(f'<li><a class="side-link" href="{esc(quote(book["bilingualZip"]))}" download>{icon("download")}<span>Both languages</span><small>.zip</small></a></li>')
     side.append(f'<div class="side-downloads"><h2 class="side-heading">{both(UI["download"], langs)}</h2><ul>{"".join(dl)}</ul></div>\n</aside>\n<div class="sidebar-backdrop" aria-hidden="true"></div>\n')
     parts.append(''.join(side))
 
@@ -479,6 +490,7 @@ def render_reader(book, library, content, views, prefix, site):
         source_note = {
             'ar': '<span data-l="ar" lang="ar" dir="rtl">النص العربي الأصلي مع الترجمة الإنجليزية. يمكنك التبديل بينهما في أي وقت بزر <b lang="en">EN</b>.</span>',
             'fr': '<span data-l="fr" lang="fr">Le texte français original et sa traduction anglaise. Passez à la traduction à tout moment avec le bouton <b lang="en">EN</b>.</span>',
+            'zh': '<span data-l="zh" lang="zh">中文原著与英文版对照阅读。使用顶部的 <b lang="en">EN</b> 按钮随时切换语言。</span>',
         }.get(source, '')
         note = (f'<p class="cover-note"><span data-l="en">English translation with the {LANGUAGES[source]["name"]} original. Switch between them at any point with the <b lang="{source}">{LANGUAGES[source]["short"]}</b> button.</span>'
                 f'{source_note}</p>')
@@ -543,7 +555,10 @@ def reading_time(words):
 def render_home(library, stats, site):
     prefix = ''
     books = library['books']
-    shelves = library['shelves']
+    # Keep language shelves, with the shelf containing the newest addition first.
+    rank = {s['id']: next((i for i, b in enumerate(books) if b['shelf'] == s['id']), len(books))
+            for s in library['shelves']}
+    shelves = sorted(library['shelves'], key=lambda s: rank[s['id']])
     langs_n = len({b['shelf'] for b in books})
     cards = {}
     for b in books:
@@ -670,7 +685,7 @@ def render_series(key, library, stats, site):
 def render_search_page(library, site):
     prefix = '../'
     canonical = site['baseUrl'] + 'search/'
-    out = [head(title=f'Search — {site["name"]}', description='Search every text in The Library: English translations, Arabic and French originals, and German source text.',
+    out = [head(title=f'Search — {site["name"]}', description='Search every text in The Library: English translations and original texts in Arabic, French, German, and Chinese.',
                 prefix=prefix, canonical=canonical, site=site, boot=THEME_BOOT,
                 css=f'<link rel="stylesheet" href="{asset("assets/base.css", prefix)}">\n<link rel="stylesheet" href="{asset("assets/library.css", prefix)}">')]
     out.append(f'<script>window.SEARCH_WORKER={json.dumps(asset("search/search-worker.js", prefix).replace("../search/", ""))};</script>\n')
@@ -683,7 +698,7 @@ def render_search_page(library, site):
 <main>
 <div class="search-heading"><p class="eyebrow">Explore the texts</p><h1>Follow a thought<span class="title-stop">.</span></h1><p>Find a passage anywhere in the Library’s translations and original texts.</p></div>
 <form class="global-search" id="search-form" role="search"><label class="sr-only" for="query">Search all texts</label>{icon("search")}<input id="query" name="q" type="search" placeholder="A name, an idea, a phrase…" maxlength="120" autocomplete="off" enterkeyhint="search" spellcheck="false"><button type="button" class="icon-btn clear-btn" id="clear-query" aria-label="Clear search" hidden>{icon("close")}</button><button type="submit" class="btn primary">Search</button></form>
-<div class="search-options"><div class="select-wrap"><label for="work-filter">Work</label><select id="work-filter"><option value="all">All works</option></select></div><div class="select-wrap"><label for="language-filter">Language</label><select id="language-filter"><option value="all">All languages</option><option value="en">English</option><option value="ar">Arabic</option><option value="fr">French</option><option value="de">German</option></select></div><p class="search-tip">Use “quotation marks” for an exact phrase.</p></div>
+<div class="search-options"><div class="select-wrap"><label for="work-filter">Work</label><select id="work-filter"><option value="all">All works</option></select></div><div class="select-wrap"><label for="language-filter">Language</label><select id="language-filter"><option value="all">All languages</option><option value="en">English</option><option value="ar">Arabic</option><option value="fr">French</option><option value="de">German</option><option value="zh">Chinese</option></select></div><p class="search-tip">Use “quotation marks” for an exact phrase.</p></div>
 <section class="search-results" id="search-results" aria-labelledby="results-title" tabindex="-1">
 <div class="results-top"><h2 id="results-title">A place to begin</h2><span id="result-summary" role="status" aria-live="polite" aria-atomic="true"></span></div>
 <div class="search-progress" id="search-progress" hidden><span></span></div>
@@ -738,6 +753,8 @@ def validate(book, content, views, problems):
         for it in items:
             if it['id'] not in seen:
                 problems.append(f'{book["path"]}: nav link #{it["id"]} ({lang}) has no target')
+    if book.get('bilingualZip') and not os.path.exists(os.path.join(ROOT, book['path'], book['bilingualZip'])):
+        problems.append(f'{book["path"]}: bilingual archive is missing')
     for lang, f in book['downloads'].items():
         if not os.path.exists(os.path.join(ROOT, book['path'], f)):
             problems.append(f'{book["path"]}: download {f} is missing')

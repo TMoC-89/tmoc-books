@@ -3,7 +3,7 @@
   "initiallyCollapsed": true,
   "languages": {
     "en": {
-      "sourceHash": "26f8dc7f07d9795e0c5cc0ca6909cc5e39350d4b0986524c1274cbd8b6081fcf",
+      "sourceHash": "9f350c39b5bd268bbbfbb4284047aae5a47547d92b74b892f6ed5331e17cac6f",
       "entries": [
         {
           "id": "passage-en-00004",
@@ -29,24 +29,6 @@
           "level": 2,
           "kind": "chapter",
           "label": "II. Defining power as the source of change"
-        },
-        {
-          "id": "passage-en-00138",
-          "level": 3,
-          "kind": "group",
-          "label": "The second kind: Power that produces different actions without awareness"
-        },
-        {
-          "id": "passage-en-00140",
-          "level": 3,
-          "kind": "group",
-          "label": "The third kind: Power that produces one steady action with awareness"
-        },
-        {
-          "id": "passage-en-00142",
-          "level": 3,
-          "kind": "group",
-          "label": "The fourth kind: Power that produces different actions with awareness"
         },
         {
           "id": "passage-en-00147",
@@ -740,7 +722,7 @@
       ]
     },
     "ar": {
-      "sourceHash": "4c08817efa244577b0764aadaad5b67245fed11f87c1fe7097b1eea699b9bf70",
+      "sourceHash": "48841954ca9e919ac8b7491152a45653d310947fde43794cc1d8b268d34968a7",
       "entries": [
         {
           "id": "passage-ar-00005",
@@ -766,24 +748,6 @@
           "level": 2,
           "kind": "chapter",
           "label": "٢. في تحديد القوة بهذا المعنى"
-        },
-        {
-          "id": "passage-ar-00133",
-          "level": 3,
-          "kind": "group",
-          "label": "القسم الثاني: القوة التي تصدر عنها أفعال مختلفة من غير أن يكون لها شعور"
-        },
-        {
-          "id": "passage-ar-00135",
-          "level": 3,
-          "kind": "group",
-          "label": "القسم الثالث: القوة التي يصدر عنها فعل واحد على سنه واحده مع الشعور"
-        },
-        {
-          "id": "passage-ar-00137",
-          "level": 3,
-          "kind": "group",
-          "label": "القسم الرابع: القوة التي يصدر عنها أفعال مختلفة مع الشعور بتلك الافعال"
         },
         {
           "id": "passage-ar-00139",

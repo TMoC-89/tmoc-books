@@ -38,12 +38,16 @@ def arabic_stem(w):
     return w
 
 
-TOKEN = re.compile(r'[^\W_]+', re.U)
+TOKEN = re.compile(r'[\u3400-\u9fff]+|[^\W_\u3400-\u9fff]+', re.U)
+CJK = re.compile(r'^[\u3400-\u9fff]+$')
 
 
 def terms(text):
     out = []
     for w in TOKEN.findall(normalise(text)):
+        if CJK.fullmatch(w):
+            out.extend(w[i:i+2] for i in range(len(w)-1))
+            continue
         if ARABIC.search(w):
             w = arabic_stem(w)
         out.append(w)
@@ -51,10 +55,14 @@ def terms(text):
 
 
 def bucket2(term):
+    if CJK.fullmatch(term):
+        return f'zh-{ord(term[0]) % 256:02x}'
     return '-'.join('%x' % ord(c) for c in term[:2])
 
 
 def bucket3(term):
+    if CJK.fullmatch(term):
+        return f'zh-{ord(term[0]) % 256:02x}-{ord(term[1]) % 16:x}'
     return '-'.join('%x' % ord(c) for c in term[:3])
 
 
@@ -188,7 +196,7 @@ def build(root, library, corpus):
         if short:
             files[k2] = short
         for t, v in enc.items():
-            if len(t) >= 3:
+            if len(t) >= 3 or CJK.fullmatch(t):
                 files.setdefault(bucket3(t), {})[t] = v
 
     if os.path.isdir(out):

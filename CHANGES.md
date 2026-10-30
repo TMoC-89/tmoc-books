@@ -1,3 +1,34 @@
+# America Against America — 30 October 2026
+
+- Corrected three prose cases in Volume III, Stage Seven, Chapter II of *The Four Journeys* in both languages. They no longer appear as headings or contents entries. Their wording, note references, passage IDs and saved section keys remain intact, and the text reads continuously.
+- Protected the new bilingual reader from automatic browser translation, corrected mixed Chinese/Latin search, used colons in its English chapter headings, and placed the newest shelf first on the homepage.
+- Recast the README as an introduction to the Library and its purpose. Moved technical instructions to `CONTRIBUTING.md`.
+
+- **Added Wang Huning's *America Against America* (*美国反对美国*) as work № 12**, the
+  latest addition, in English alongside the original Chinese. Created a distinct
+  Chinese shelf without changing the design or content of existing library cards.
+- Followed the enhanced *Four Journeys* editorial pattern: a two-level,
+  hand-verified and source-hash-checked `contents.json`; a stable chapter/section
+  structure in both languages; consistent titles, chapter transitions, and
+  complete Markdown downloads. The 11 chapters and 85 numbered sections are
+  paired exactly. Both languages use the same shared reader and Reviewer Mode.
+- Made Chinese a first-class source language throughout the reader and search
+  tools: Chinese switch, labels, serif text styles, headings, on-site Chinese
+  search filter, bilingual ZIP, and searchable Chinese passages. Chinese search
+  uses two-character sequences, grouped into compact index files to avoid tens
+  of thousands of tiny files. Reviewer alignment weights Chinese passages by
+  character length instead of assuming spaces between words.
+- Normalized only the numbered Chinese Markdown headings and excess whitespace.
+  Preserved both complete texts without rewriting their prose. Edition labels
+  identify the English and Chinese versions and the 1991 Chinese imprint.
+- Recovered the intended Unicode download filenames for two pre-existing works
+  (*Heroes Without History* and *Right and Left in Islam*) that were encoded as `#U…`
+  in the supplied ZIP. The book text was not changed.
+- Validation: deterministic site build and `--check`, exact chapter/section
+  matches, all reviewed navigation targets, no duplicate IDs, complete bilingual
+  archive, Chinese search index lookup, desktop and phone-size visual checks.
+  Details and limitations appear in `america-against-america/EDITION_NOTES.md`.
+
 # The Four Journeys of the Intellect — 28 October 2026
 
 - **Published Mullā Ṣadrā's nine-volume *The Four Journeys of the Intellect*** as work № 11,

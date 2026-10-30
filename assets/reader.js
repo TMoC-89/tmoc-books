@@ -129,6 +129,12 @@
         if (!bySection.has(sec)) bySection.set(sec, new Map());
         bySection.get(sec).set(target, a); // a later (deeper) link to the same target wins
       }
+      // Old section keys can remain as invisible continuity boundaries, without
+      // promoting their paragraphs to contents headings or losing saved places.
+      for (const sec of $$(`.language-view[data-lang="${toc.dataset.l}"] .book-section[data-contents-parent]`)) {
+        const a = $$('a[href^="#"]', toc).find(a => a.hash.slice(1) === sec.dataset.contentsParent);
+        if (a) sectionLinks.set(sec, a);
+      }
       idx.set(toc.dataset.l, { bySection, sectionLinks });
     }
     return idx;
@@ -312,7 +318,7 @@
     store.set(KEYS.lang, next);
     if (langBtn) {
       const other = book.languages.find(l => l !== next);
-      const labels = { en: 'Read the English translation', ar: 'Read the Arabic original', fr: 'Read the French original' };
+      const labels = { en: 'Read the English translation', ar: 'Read the Arabic original', fr: 'Read the French original', zh: 'Read the Chinese original' };
       const label = labels[other] || 'Switch language';
       langBtn.setAttribute('aria-label', label);
       langBtn.title = label;
@@ -328,7 +334,7 @@
   langBtn?.addEventListener('click', () => {
     closeSettings(false); closeNav();
     applyLang(book.languages.find(l => l !== lang) || 'en', true);
-    showToast(({ ar: 'النص العربي الأصلي', fr: 'Texte français original', en: 'English translation' })[lang] || lang);
+    showToast(({ ar: 'النص العربي الأصلي', fr: 'Texte français original', zh: '中文原文', en: 'English translation' })[lang] || lang);
   });
 
   /* ---------------------------------------------------------------- sidebar */

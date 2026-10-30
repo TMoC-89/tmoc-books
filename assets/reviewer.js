@@ -11,12 +11,12 @@
     set(k, v) { try { localStorage.setItem(k, v); return true; } catch { return false; } },
   };
   const root = document.documentElement, body = document.body;
-  const LANG_NAMES = { ar: 'Arabic original', de: 'German original', fr: 'French original' };
+  const LANG_NAMES = { ar: 'Arabic original', de: 'German original', fr: 'French original', zh: 'Chinese original' };
 
   /* ---------- approximate structural alignment (formerly review-alignment.js) ---------- */
   const isHeading = u => /^h[1-4]$/.test(u.tag);
   function intervalMap(units) {
-    const bodyUnits = units.filter(u => !isHeading(u)), weights = bodyUnits.map(u => Math.max(1, (u.text.match(/\S+/g) || []).length));
+    const bodyUnits = units.filter(u => !isHeading(u)), weights = bodyUnits.map(u => wordWeight(u.text));
     const total = weights.reduce((a, b) => a + b, 0) || 1;
     let offset = 0;
     return new Map(bodyUnits.map((u, i) => { const start = offset / total; offset += weights[i]; return [u.localIndex, { start, end: offset / total }]; }));
@@ -116,7 +116,7 @@
     for (const el of els) { if (el.dataset?.journalDate) { current = [el]; groups.push(current); } else if (current) current.push(el); else groups.push([el]); }
     return groups.map(make);
   }
-  const wordWeight = text => Math.max(1, (text.match(/\S+/g) || []).length);
+  const wordWeight = text => Math.max(1, (text.match(/\S+/g) || []).length, Math.ceil((text.match(/[\u3400-\u9fff]/g) || []).length / 2));
   function sourceIntervals(units) {
     const total = units.reduce((n, u) => n + wordWeight(u.text), 0) || 1; let acc = 0;
     return units.map(u => { const w = wordWeight(u.text), o = { ...u, start: acc / total, end: (acc + w) / total, mid: (acc + w / 2) / total }; acc += w; return o; });
