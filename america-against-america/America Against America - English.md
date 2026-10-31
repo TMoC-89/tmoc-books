@@ -112,9 +112,9 @@ I am grateful to the American Political Science Association, which invited the d
 
 The University of Iowa's Department of Political Science welcomed me for three months and provided everything I needed to study and work. The University of Michigan's centre for Chinese studies, Miami University's Department of Political Science in Ohio, and the School of International Relations at the University of California, San Diego, arranged shorter visits. I received a warm welcome during three weeks at the Institute of East Asian Studies at the University of California, Berkeley. I also thank the Faculty of Law at Keio University in Japan. A week there helped me form the impressions described in the section called “The Empire of the Sun.”
 
-There are too many individuals to thank properly. Virginia Yan of the Committee on Scholarly Communication with the People's Republic of China took great care in arranging my visit. Professor Stevis and his family offered me extraordinary help during my three months in Iowa, as did Professor Douglas Madsen, head of the Political Science Department, and the department's entire staff.
+There are too many individuals to thank properly. Virginia Yan[^ed-1] of the Committee on Scholarly Communication with the People's Republic of China took great care in arranging my visit. Professor Stevis[^ed-2] and his family offered me extraordinary help during my three months in Iowa, as did Professor Douglas Madsen, head of the Political Science Department, and the department's entire staff.
 
-I am also grateful to Professor Lucian Pye, president of the American Political Science Association; Professor Arnold of Miami University; Professors Oksenberg and Li Peiru at Michigan; Professor Rosenbloom at Syracuse; Professor Mal Kalle at the University of California, San Diego; Professors Robert Scalapino and Gao Ruosi at Berkeley; and Professor Yoshinari Kokubun of Keio University. Their help was invaluable.
+I am also grateful to Professor Lucian Pye, president of the American Political Science Association; Professor Walter Arnold[^ed-3] of Miami University; Professors Oksenberg and Kenneth Lieberthal[^ed-4] at Michigan; Professor David H. Rosenbloom[^ed-5] at Syracuse; Professor Miles Kahler[^ed-6] at the University of California, San Diego; Professors Robert Scalapino and Joyce Kallgren[^ed-7] at Berkeley; and Professor Ryosei Kokubun[^ed-8] of Keio University. Their help was invaluable.
 
 My Chinese friends who had lived in America for years also taught me a great deal. I thank Zheng Shiping, Shen Yi, Chen Feng, Gong Ting, Zhou Xueguang, Yu Xu, Wang Renli, Wu Danli, Lin Zhimin, Xu Huahua, Jin Ping, Gai Zheya, He Yufan, Yang Rijun, Huang Geng and Zhu Chen. They lived in different parts of the country, but wherever I visited them, I enjoyed hospitality of the most wonderfully Chinese kind.
 
@@ -372,7 +372,7 @@ They all happen to begin with the letter C in English: **cars, calls, computers 
 
 **Cars.** They fill the streets of big cities and small towns, the freeways and the country roads. There are so many makes and models that the variety is almost bewildering.
 
-While we were in Washington, Antony King, vice-chancellor of the University of Essex in Britain, pointed to the traffic and said, “Ten years ago, most of the cars I saw in America were made here. Now you see every kind, especially Japanese cars.”
+While we were in Washington, Anthony King, a political scientist at the University of Essex in Britain,[^ed-9] pointed to the traffic and said, “Ten years ago, most of the cars I saw in America were made here. Now you see every kind, especially Japanese cars.”
 
 The struggle between American and Japanese carmakers is well known. One reason Japanese manufacturers have been so successful here is simply that the American car market is enormous. A car matters tremendously to everyday life. In much of America, **not having a car is like not having legs.**
 
@@ -392,7 +392,7 @@ They conduct their romances that way as well. Several parents complained to me t
 
 Factories, government departments, the armed forces, aviation—all depend heavily on computers. They make work faster, more accurate and easier to check.
 
-Computers can also connect to networks that span the country or even the world. At Yale University, the head of the East Asian library entered my name into a computer. Within seconds he found copies of my books *National Sovereignty* and *Comparative Political Analysis* in two other universities. Computers can even send messages to one another. If you know someone's network address—what the source calls a “Bignet ID”—you can type a message and send it to them.
+Computers can also connect to networks that span the country or even the world. At Yale University, the head of the East Asian library entered my name into a computer. Within seconds he found copies of my books *National Sovereignty* and *Comparative Political Analysis* in two other universities. Computers can even send messages to one another. If you know someone's network address—a BITNET ID[^ed-10]—you can type a message and send it to them.
 
 **Cards.** These are not the paper ration cards Chinese people once used to obtain coal, eggs, vegetables or other daily necessities. American cards are usually plastic, with a magnetic strip that stores information.
 
@@ -497,9 +497,9 @@ This change does not happen overnight. Even after years of development, there wi
 
 When I speak of America's “remote regions,” I do not mean places that are far away on the map. In fact, some are only a few minutes from modern cities. Their remoteness is of another kind.
 
-I am thinking of the religious communities the Chinese text calls *Armenians*. They are an unusual people, largely rejecting modern technology and preserving a way of life that resembles Europe in the seventeenth or eighteenth century. That is what makes them so fascinating. Modern Western life has spread across the world, changing societies thousands of miles away. Yet here, close to the heart of modern America, is a community that has kept it at arm's length.
+I am thinking of the Amish communities.[^ed-11] They are an unusual people, largely rejecting modern technology and preserving a way of life that resembles Europe in the seventeenth or eighteenth century. That is what makes them so fascinating. Modern Western life has spread across the world, changing societies thousands of miles away. Yet here, close to the heart of modern America, is a community that has kept it at arm's length.
 
-Only a short drive from Iowa City—perhaps ten or fifteen minutes—is a settlement called Kolona. As you approach, you begin to see horse-drawn buggies on the road. They look like vehicles from an old European painting: a horse pulling a small enclosed carriage, often with people dressed in black sitting inside.
+Only a short drive from Iowa City—perhaps ten or fifteen minutes—is a settlement called Kalona.[^ed-12] As you approach, you begin to see horse-drawn buggies on the road. They look like seventeenth- or eighteenth-century European carriages: a horse pulling a small enclosed carriage, often with people dressed in black sitting inside.
 
 Even the road makes room for them. Separate lanes run alongside the car lanes because these residents do not use modern automobiles. Officials spent considerable effort persuading them that sharing the highway with fast-moving cars was dangerous and that they should put a bright red warning sign on the backs of their buggies.
 
@@ -537,9 +537,9 @@ Despite the changes that have come to some settlements over the years, their bas
 
 How has a civilization powerful enough to transform distant countries failed to transform these communities on its doorstep?
 
-I put this question to a writer living in Kolona, John M. Zielinski, who had written a book about these communities in America.
+I put this question to a writer living in Kalona, John M. Zielinski, who had written a book called *The Amish Across America*.
 
-“Imagine growing up in a place like this,” she told me, “and being taught these beliefs strictly from childhood. They would not be easy to abandon. And these people have not had much higher education. They have not been trained for modern jobs. They know farming. This is where they feel safest.”
+“Imagine growing up in a place like this,” Zielinski told me, “and being taught these beliefs strictly from childhood. They would not be easy to abandon. And these people have not had much higher education. They have not been trained for modern jobs. They know farming. This is where they feel safest.”
 
 That final point struck me as especially important: **this is where they feel safest.**
 
@@ -576,9 +576,9 @@ How could a community based on shared ownership survive in a country built aroun
 
 Amana has a long history. In 1714, two people in southwestern Germany began a religious movement that eventually became known as the Community of True Inspiration. The Amana community grew out of that movement.
 
-Its members later suffered persecution because of their religion. In 1842 their ancestors crossed the Atlantic to North America. They first established six villages in New York State and two in Canada. But the area around Buffalo began to grow into a city, and the community decided to buy land farther west.
+Its members later suffered persecution because of their religion. In 1842 their ancestors crossed the Atlantic to North America. They established four villages in New York State and two more in Canada.[^ed-13] But the area around Buffalo began to grow into a city, and the community decided to buy land farther west.
 
-In 1854 they purchased the land in Iowa where the colonies now stand: first 25,000 acres from the government, and later another 1,000 acres. There they farmed and built their lives.
+In 1855 they began buying land in Iowa, including about 3,300 acres from the government. The community eventually held some 26,000 acres there.[^ed-14] There they farmed and built their lives.
 
 They chose to live as a religious community. Land, buildings and other property belonged to everyone collectively. A single leadership group made decisions about both religious affairs and everyday life. The arrangement lasted for more than a century, until the members voted in 1932 to separate the church from the management of the community and move toward private enterprise.
 
@@ -590,7 +590,7 @@ Guided by that faith, the colonists owned everything together: the land, crops, 
 
 Its leadership arrangements were unusual too.
 
-Until 1883, the community was led by Christian Metz, who had helped bring its members from Europe to America. After his death, leadership passed to a thirteen-member board of trustees, chosen each year from a group of elders.
+Christian Metz, who had helped bring the community from Europe to America, was its spiritual leader until his death in 1867.[^ed-15] A thirteen-member board of trustees managed the community, chosen each year from a group of elders.
 
 Men who had signed the community charter could vote, as could widows and women over thirty. Originally Metz had chosen the elders himself. After 1883 they were nominated by an elders' council and approved by the board.
 
@@ -780,7 +780,7 @@ In a world with a rapidly growing population, **agriculture is a lifeline.**
 
 ## 1. The American Spirit
 
-H. S. Commager is a well-known American historian and commentator. His books can be found on the shelves of most university libraries in the United States, and he is regarded as one of the great interpreters of American life. His *Growth of the American Republic* is highly respected among Chinese scholars. Another of his books, which I will call *The American Spirit*, appeared in 1950, was warmly received, and has been reprinted more than twenty times.
+H. S. Commager is a well-known American historian and commentator. His books can be found on the shelves of most university libraries in the United States, and he is regarded as one of the great interpreters of American life. His co-authored *The Growth of the American Republic* is highly respected among Chinese scholars. Another of his books, *The American Mind*,[^ed-16] appeared in 1950, was warmly received, and has been reprinted more than twenty times.
 
 I brought a Chinese translation of it all the way from Shanghai. That was quite a journey for a book, but it was worth making. Anyone who wants to understand the American spirit should read it.
 
@@ -1120,7 +1120,7 @@ Philadelphia and Washington are linked by American history. Philadelphia was a c
 
 Washington, as the national capital, is where much of the system created by that document operates today.
 
-Americans are immensely proud of their Constitution. In 1988, as the country celebrated two hundred years of the Constitution, the government held a grand ceremony by the Statue of Liberty, and President Reagan gave a speech.
+Americans are immensely proud of their Constitution. In 1987, the country celebrated two hundred years since the Constitution was drafted. President Reagan also spoke at a ceremony at the Statue of Liberty in 1986, marking its centennial.[^ed-17]
 
 In Philadelphia, I went to see the building where the Constitution was written, but the crowds were so large that I could only look at it from outside. Later, in Annapolis, I saw a handwritten copy of the document.
 
@@ -1564,7 +1564,7 @@ The arch is one of the most extraordinary structures of its kind. It rises about
 
 At its base is a museum commemorating the westward expansion associated with President Thomas Jefferson in the early nineteenth century. Inside the arch are lifts that carry visitors up through its two curved sides to the top. There, a passage about ten metres long has windows offering a sweeping view of St. Louis.
 
-The idea is extraordinary. The design, by Finnish-American architect Fero Saarinean, won a national competition in 1947. Construction began in 1963 and was completed in 1965.
+The idea is extraordinary. The design, by Finnish-American architect Eero Saarinen[^ed-18], won a national competition in 1947. Construction began in 1963 and was completed in 1965.
 
 Even the building process was unusual. There was no great tower of scaffolding around it. Engineers began at the bottom of both legs, mounting cranes on the rising structure and moving them higher as work progressed. The two halves stretched up into the air, curving towards each other according to careful calculations, until they finally met.
 
@@ -1584,7 +1584,7 @@ The building had originally been a British church, first built in the twelfth ce
 
 For years the site remained a ruin. Then the Westminster College memorial committee proposed moving the stones across the Atlantic and rebuilding the church in Missouri, where it would also serve as a memorial to Churchill.
 
-Work began in 1965. Some seven hundred tons of stone crossed the ocean, at a cost of about $3 million. President Harry Truman laid the foundation stone, and the project was completed in 1969.
+Work began in 1964, when former president Harry Truman took part in a groundbreaking ceremony.[^ed-19] Some seven hundred tons of stone crossed the ocean, at a cost of about $3 million. The project was completed in 1969.
 
 Surely people asked questions here too. Why not use local stone? Why spend so much more? Were there really no stones in America? Why ship a heap of broken rock halfway around the world?
 
@@ -1756,7 +1756,7 @@ That is different from belief in the supernatural. The supernatural concerns the
 
 Americans have little patience for mystery, yet they have a remarkable talent for treating certain things as sacred. At first, that sounds like a contradiction. But there is an important difference between the two.
 
-In some societies, people treat extraordinary events or abilities as the work of powers beyond the human world. The author of *Chariots of the Gods?* describes examples of this. On some Pacific islands, people reportedly treated the unexpected arrival of American military aircraft during the Second World War as something supernatural. They even built wooden models of planes and worshipped them. In other places, healers are surrounded by an air of mystery. America has little of this tradition. There have been extraordinary exceptions, such as the Peoples Temple, in which hundreds of members died in a mass suicide. But such cases are rare.
+In some societies, people treat extraordinary events or abilities as the work of powers beyond the human world. The author of *Chariots of the Gods?* describes examples of this. On some Pacific islands, people reportedly treated the unexpected arrival of American military aircraft during the Second World War as something supernatural. They even built wooden models of planes and worshipped them. In other places, healers are surrounded by an air of mystery. America has little of this tradition. There have been extraordinary exceptions, such as the Peoples Temple, whose members died in a mass killing at Jonestown.[^ed-20] But such cases are rare.
 
 What I am talking about is something different. Americans are not especially inclined to turn people or things into gods. Instead, they have a habit of lifting ordinary, human achievements onto a pedestal. I call this *making things sacred*.
 
@@ -1852,7 +1852,7 @@ At the same time, technology has become a form of politics.
 
 After the successful launch of *Discovery*, Forrest McCartney, director of the Kennedy Space Center, said that every American had reason to hold their head high that day. President Reagan watched the launch on television in Washington and declared that America was back in space.
 
-Space exploration had been political from the beginning. In the 1960s, the Soviet Union succeeded in landing on the Moon, stirring anger in America. President Kennedy called for an enormous national effort, and the Apollo Moon landing eventually put the United States ahead in that contest.
+Space exploration had been political from the beginning. Early Soviet successes in space stirred anxiety in America. President Kennedy called for an enormous national effort in 1961. The Soviet Union made an uncrewed Moon landing in 1966, and the Apollo Moon landing later put the United States ahead in that contest.[^ed-21]
 
 Behind the contest in technology was a contest for political power and national standing. Political competition drove technological competition, while technological success strengthened political power.
 
@@ -1874,7 +1874,7 @@ I have heard that Japanese buyers have purchased so much property in Hawaii that
 
 Harvard professor Ezra Vogel put considerable effort into getting them to see it. His book *Japan as Number One* helped awaken Americans to a reality they had preferred to ignore. I suspect similar surprises lie ahead.
 
-The shuttle programme shows how tightly politics and technology have become entangled. Some scholars have begun to criticize the way this can distort people's priorities. A physics professor named Allen argued that after *Challenger* was lost, NASA became so concerned with restoring its reputation and achieving a political success that getting a shuttle back into space became its highest priority.
+The shuttle programme shows how tightly politics and technology have become entangled. Some scholars have begun to criticize the way this can distort people's priorities. The physicist James Van Allen[^ed-22] argued that after *Challenger* was lost, NASA became so concerned with restoring its reputation and achieving a political success that getting a shuttle back into space became its highest priority.
 
 That is why I speak of the shuttle leading people astray. The shuttle is only an example. What worries me is something much broader: **the belief that technology can answer questions that are, in the end, questions about human beings.**
 
@@ -1894,7 +1894,7 @@ Whatever the answer, Americans generally strike me as diligent, and some display
 
 In government offices, airports, shops, railway stations, hotels and other places I have visited, most employees are competent, helpful and ready to take the initiative. They know their work and get on with it. I have visited many public and private organizations, sometimes to carry out research and sometimes simply because I needed something done. In most places, I found people willing to help.
 
-At Congressman Negel's local office, two employees carefully explained everything I asked about and searched through drawers and files to find useful material. The three secretaries in the political science department where I stayed worked quietly at their desks, seldom talking to one another. They were occupied with their own tasks. In most American workplaces I have visited, people are busy. It is unusual to see anyone sitting around without work to do.
+At Congressman Nagle's local office[^ed-23], two employees carefully explained everything I asked about and searched through drawers and files to find useful material. The three secretaries in the political science department where I stayed worked quietly at their desks, seldom talking to one another. They were occupied with their own tasks. In most American workplaces I have visited, people are busy. It is unusual to see anyone sitting around without work to do.
 
 The service industries are especially good at making life convenient. Waiters are friendly and attentive. Shop assistants answer questions and often ask whether you need help before you approach them. Bus drivers look out for their passengers. After I had taken a particular bus for some time, the driver learned where I lived and began stopping at the right corner without my having to ask.
 
@@ -2008,7 +2008,7 @@ Others reject these claims entirely. They argue that homosexuality is not an ill
 
 **Is pornography harmful?**
 
-In 1968, President Nixon established a commission to examine the issue. Eight members studied adult magazines and films and reached different conclusions. The majority report argued that such material was not inherently harmful. It suggested that it could help adults understand one another and that the public would not accept broad legal bans.
+In 1967, a commission was established during President Johnson’s administration to examine the issue.[^ed-24] Its eighteen members reached different conclusions after studying adult magazines and films. The majority report argued that such material was not inherently harmful. It suggested that it could help adults understand one another and that the public would not accept broad legal bans.
 
 A minority report took the opposite view. It argued that pornography damaged public morality, family attitudes, culture and the values by which people live.
 
@@ -2072,7 +2072,7 @@ That is a real dilemma. Sexual liberation provides one of the clearest examples.
 
 ## 8. Lonely Hearts
 
-A recent book called *The Lonely American* has caused quite a stir. Its central argument is that loneliness has become a serious part of life in the United States. It affects people of every kind: single and married, young and old.
+A recent book with a Chinese title that translates as *The Lonely American*[^ed-25] has caused quite a stir. Its central argument is that loneliness has become a serious part of life in the United States. It affects people of every kind: single and married, young and old.
 
 Loneliness is more than an unpleasant private feeling. People need affection, companionship and some sense that they belong. When those needs go unmet, they may feel lost, anxious, restless, unhappy or painfully alone. These feelings can change the way they act, and that means they also affect the wider society. What begins in individual hearts can become a problem for families, communities and government.
 
@@ -2248,7 +2248,7 @@ Both parties tried to persuade voters that their policies would ensure that the 
 
 That promise was politically powerful.
 
-Richard Nixon's 1987 book *1999: Victory Without War* returned again and again to the same questions: what threats would America face, how could it respond, and how could it succeed in the world of the future? It quickly became a bestseller.
+Richard Nixon's book *1999: Victory Without War*, published in 1988,[^ed-26] returned again and again to the same questions: what threats would America face, how could it respond, and how could it succeed in the world of the future? It quickly became a bestseller.
 
 That tells us something important. It is not only politicians who care about the future. The public cares too. Otherwise, promising to defend America's place in the next century would hardly be such a useful way of winning votes.
 
@@ -2586,7 +2586,7 @@ No one may order these groups to examine their members. Often they decide to do 
 
 The tests help decide whether someone has the knowledge needed for a profession, a scholarship, a certificate, a licence or admission to further training.
 
-To give an idea of the range, ACT has worked with organizations such as:
+To give an idea of the range, ACT has worked with organizations such as the following:[^ed-27]
 
 - The American Academy of Ophthalmology
 - The American Academy of Otolaryngology
@@ -3182,7 +3182,7 @@ They were supposed to provide information about their work: their names and busi
 
 On paper, this looks like a reasonable system of oversight. In practice, it has serious gaps. Some people clearly influence legislation while insisting that they are not lobbyists and have no particular interest in the legislative process. Washington is said to have around 20,000 lobbyists busily at work.
 
-Lobbying can be remarkably effective. The organizations lobbying on behalf of Israel, for example, are powerful and have achieved important results. There are roughly six million Jewish people in the United States, and, according to the figures discussed here, their average educational level, social standing and involvement in politics are relatively high. A leading pro-Israel lobbying organization, AIPAC, was described as having seventy-five members and a budget of $5.7 million in 1985. Arab lobbying organizations also possess considerable resources.
+Lobbying can be remarkably effective. The organizations lobbying on behalf of Israel, for example, are powerful and have achieved important results. There are roughly six million Jewish people in the United States, and, according to the figures discussed here, their average educational level, social standing and involvement in politics are relatively high. A leading pro-Israel lobbying organization, AIPAC, was reported to have had seventy-five staff members and a budget of $5.7 million in 1985.[^ed-28] Arab lobbying organizations also possess considerable resources.
 
 The book *Washington Lobby* gives many examples intended to demonstrate how effective such efforts can be. Ordinary people, needless to say, rarely have professional lobbyists of their own.
 
@@ -3230,7 +3230,7 @@ The main speaker was a former press secretary to the prime minister of Grenada. 
 
 There are still plenty of people in the world who speak this way. Many at the meeting condemned American intervention in Cuba and Nicaragua as aggression and argued that it stood in the way of people's access to housing, education, bread, and other necessities of life.
 
-More interesting still, the newspaper carried a notice about the Socialist Workers Party's participation in the 1988 presidential election. Its presidential candidate was Warren, and its vice-presidential candidate was Mickells. It even had a campaign committee. Candidates like these were unlikely to make much noise. They would probably be drowned out altogether by the uproar surrounding Bush and Dukakis.
+More interesting still, the newspaper carried a notice about the Socialist Workers Party's participation in the 1988 presidential election. Its presidential candidate was James Warren, and its vice-presidential candidate was Kathleen Mickells.[^ed-29] It even had a campaign committee. Candidates like these were unlikely to make much noise. They would probably be drowned out altogether by the uproar surrounding Bush and Dukakis.
 
 *The Militant* also urged people to subscribe. Its advertisement promised to tell the truth about the wars the United States was waging against peoples around the world. If readers relied only on the major news organizations, it said, they would know nothing about America's wars against the people of El Salvador, Guatemala, and Nicaragua.
 
@@ -3434,7 +3434,7 @@ Consider the differences between Dukakis and Bush on several major issues, as re
 | **Arms control: anti-satellite weapons** | Wants negotiations to end testing and development. | Supports continued testing and development. |
 | **Social issues: death penalty** | Opposes it. | Supports it. |
 | **Social issues: help for families** | Supports a $2.5 billion measure to give states funds to help poor and middle-income families. | Opposes federal relief payments; supports a new $1,000 tax credit for each child in families earning less than $20,000 a year. |
-| **Social issues: abortion** | Opposes amending the Constitution to legalize abortion; supports federal funding. | No position given here. |
+| **Social issues: abortion** | Opposes a constitutional amendment restricting abortion; supports federal funding.[^ed-30] | No position given here. |
 | **Social issues: guns** | Supports the right to own weapons. | Opposes federal gun registration and licensing; favours easing gun-control laws. |
 | **Drugs: leadership** | Wants a cabinet-level body to coordinate all anti-drug programmes. | Also wants a cabinet-level body to lead the fight against drugs. |
 | **Drugs: foreign policy** | Wants more help for other countries to stop drug production and for governments willing to block drugs from entering America. | Supports the death penalty for drug offences resulting in death. |
@@ -3523,7 +3523,7 @@ The final campaign is nevertheless important and genuine. The two nominees race 
 
 There is another complication. When Americans vote for president, they do not directly elect the president. They choose members of the *Electoral College*.
 
-Each state has a certain number of electoral votes, equal to its representation in Congress. In the figures used here, California has forty-seven and Iowa has eight. The presidential candidate who wins a state takes all its electoral votes. This makes large and populous states especially important.
+Each state has a certain number of electoral votes, equal to its representation in Congress. In the figures used here, California has forty-seven and Iowa has eight. In most states, the presidential candidate who wins the statewide vote receives all its electoral votes.[^ed-31] This makes large and populous states especially important.
 
 That is why the second debate between Bush and Dukakis in 1988 was held in Los Angeles. California's forty-seven votes were worth fighting for. California and New York together accounted for eighty-three votes, while 270 were needed to win the presidency.
 
@@ -3587,17 +3587,17 @@ You might expect people in a society so devoted to individual freedom and privat
 
 The leading local Democrats were all there. Their presence mattered to the gathering, but the gathering also mattered to them. On one side, the organizers needed important visitors to make the event look impressive. On the other, the politicians needed to show their faces. It was both an obligation and part of creating a favourable public image.
 
-One of the most prominent people was a member of Congress named Nagel. He wore an apple-green T-shirt and walked around greeting everyone, looking relaxed and approachable.
+One of the most prominent people was a member of Congress named Nagle. He wore an apple-green T-shirt and walked around greeting everyone, looking relaxed and approachable.
 
-Another was the Democratic candidate for governor of Iowa, John Christal—a tall man with glasses and a scholarly manner. He moved easily through the crowd. I went over to talk to him. He was friendly and asked what I thought would happen to Gorbachev's reforms.
+Another was John Chrystal, an Iowa banker and Democrat who would run for governor[^ed-32]—a tall man with glasses and a scholarly manner. He moved easily through the crowd. I went over to talk to him. He was friendly and asked what I thought would happen to Gorbachev's reforms.
 
-I said Gorbachev faced many difficulties. Christal replied that the Soviet system was deeply entrenched and would be hard to change.
+I said Gorbachev faced many difficulties. Chrystal replied that the Soviet system was deeply entrenched and would be hard to change.
 
 For someone involved in local politics to take such an interest in an international question was unusual, at least in my experience. Americans active in local affairs often have a limited view of the world, something that does not seem to match their country's position as a major power.
 
-The conversation made me curious about Christal. Someone happened to hand me his campaign literature, so I read it.
+The conversation made me curious about Chrystal. Someone happened to hand me his campaign literature, so I read it.
 
-John Christal was the son of an Iowa farmer. He graduated from the University of Iowa with a degree in economics in 1949. From 1949 to 1959 he worked in farming, before moving into banking. Between 1960 and 1984 he served as chairman of an Iowa savings bank, and in 1973 he headed a state bankers' association.
+John Chrystal was the son of an Iowa farmer. He graduated from the University of Iowa with a degree in economics in 1949. From 1949 to 1959 he worked in farming, before moving into banking. Between 1960 and 1984 he served as chairman of an Iowa savings bank, and in 1973 he headed a state bankers' association.
 
 The brochure said his financial skills had saved many small farmers and agricultural banks from collapse. He had also been nominated as Iowa's “Farm Leader of the Year” in 1987.
 
@@ -3609,11 +3609,11 @@ It means that many officeholders have somewhere to return to when their politica
 
 More important, they bring years of business experience and practical social skills into government. That can make government particularly capable of handling economic questions and problems of social development. Local government is often less like a purely political organization and more like a large company managing a range of public affairs.
 
-Voters, after all, tend to judge politicians by the practical benefits they receive. Abstract political principles matter less. Christal's long experience with the economy was therefore a valuable qualification for public office.
+Voters, after all, tend to judge politicians by the practical benefits they receive. Abstract political principles matter less. Chrystal's long experience with the economy was therefore a valuable qualification for public office.
 
-I also met a state senator named Jane, whom I had interviewed in 1987 about the role and workings of the state senate. She was handing out fans printed with her name—a simple way to keep herself in people's minds. This was exactly the sort of occasion where she needed to be seen.
+I also met the state senator Jean Lloyd-Jones,[^ed-33] whom I had interviewed in 1987 about the role and workings of the state senate. She was handing out fans printed with her name—a simple way to keep herself in people's minds. This was exactly the sort of occasion where she needed to be seen.
 
-Several other leading Democrats from the county were there. Kerry Bowen, Nagel's representative in the county, joked that if I attended the Republican picnic, I must not tell them what I had learned here. The parties were, after all, fighting an election.
+Several other leading Democrats from the county were there. Kerry Bowen, Nagle's representative in the county, joked that if I attended the Republican picnic, I must not tell them what I had learned here. The parties were, after all, fighting an election.
 
 This gathering helped me understand something important. Although the Democratic and Republican parties have loose organizations and relatively little internal discipline, both have effective ways of working from the national level down to the local level.
 
@@ -3679,7 +3679,7 @@ There was applause and laughter at various moments throughout the ninety minutes
 
 Under pressure, both candidates also made mistakes. Bush once called himself “president” when he meant “vice-president.” Dukakis made a slip that brought laughter from the audience.
 
-Bush was the more practised speaker. At one point, halfway through an answer, he could not remember the name of a defence system. He covered himself by saying that only an iceman never makes mistakes. Later, a moderator miscalculated the time and interrupted Bush before his turn was over. When Bush protested, the moderator apologized and replied, “You said everyone makes mistakes.”
+Bush was the more practised speaker. At one point, halfway through an answer, he could not remember the name of a defence system. He covered himself by saying that only the “Iceman”—a jab at Dukakis's cool manner—never makes mistakes. Later, a moderator miscalculated the time and interrupted Bush before his turn was over. When Bush protested, the moderator apologized and replied, “You said everyone makes mistakes.”
 
 Both men were thinking carefully about every word, even their ways of addressing one another. Bush repeatedly called Dukakis “the governor of Massachusetts,” encouraging viewers to see him as no more than a state-level politician. Dukakis called Bush “Mr. Bush” or simply “George,” avoiding the title of vice-president.
 
@@ -3723,15 +3723,15 @@ That is extraordinarily difficult to achieve. America has not achieved it perfec
 
 Elections to the House of Representatives take place at the same time as presidential elections. On election day—November 8 in 1988—Americans would vote for both their president and their representative in Congress. So while the presidential race was gathering speed, candidates for Congress were campaigning just as hard.
 
-I contacted the Republican Party's county headquarters in Iowa City and asked if I could observe a congressional campaign. The people there were very welcoming. They arranged for me to follow their candidate, Don Redfeln, as he campaigned around the city.
+I contacted the Republican Party's county headquarters in Iowa City and asked if I could observe a congressional campaign. The people there were very welcoming. They arranged for me to follow their candidate, Don Redfern,[^ed-34] as he campaigned around the city.
 
 Members of the House are elected by district. Districts are drawn according to population, with roughly the same number of people in each, and each district chooses one representative. In this way, each member of the House represents about the same number of people. A district might cover one county or several, though things are different in big cities. Iowa is a farming state with a relatively small population, so its districts cover quite large areas.
 
 Both major parties have campaign offices in every district. Iowa City belongs to the third district, and below the district office there is a county office. These grand-sounding "headquarters" are usually nothing more than rented rooms with one or two people working in them. The Republican office in Iowa City occupied the second floor of a building. It was fairly spacious, with an area large enough for twenty-odd chairs and a speech. Two or three people worked there. One young woman was a regular employee; the others were volunteers. Their job was to arrange appearances for the party's candidate in the county.
 
-One item on Redfeln's schedule was breakfast with local business leaders. These people are the county's elite—something like the leading citizens or local notables of an earlier age. They have a club of their own and meet for breakfast every Tuesday to exchange news, discuss business and listen to invited speakers. They are a powerful local circle. Anyone hoping to win an election here must first try to win their support.
+One item on Redfern's schedule was breakfast with local business leaders. These people are the county's elite—something like the leading citizens or local notables of an earlier age. They have a club of their own and meet for breakfast every Tuesday to exchange news, discuss business and listen to invited speakers. They are a powerful local circle. Anyone hoping to win an election here must first try to win their support.
 
-Breakfast began at seven. After everyone had eaten for a few minutes, Redfeln gave a speech. He discussed his views on domestic and foreign affairs, mostly the familiar positions he had given many times before. As a Republican, he agreed with the party's presidential candidate, Bush, on many issues. The businesspeople then asked questions, and Redfeln answered them one by one.
+Breakfast began at seven. After everyone had eaten for a few minutes, Redfern gave a speech. He discussed his views on domestic and foreign affairs, mostly the familiar positions he had given many times before. As a Republican, he agreed with the party's presidential candidate, Bush, on many issues. The businesspeople then asked questions, and Redfern answered them one by one.
 
 Afterward they played a little game. Each person received a slip of paper and was asked to cast a pretend vote. Bush received eighteen votes; Dukakis received two. Of course, with a Republican candidate speaking that morning, this result was hardly surprising. Had the guest been a Democrat, things might have been very different.
 
@@ -3739,31 +3739,31 @@ As eight o'clock approached, the businesspeople began leaving. By eight, only fo
 
 Business leaders have their own organizations. No one can win an election without paying attention to them.
 
-Campaigning is exhausting. Candidates spend their days rushing from one place to another, with something to do at every stop. Around noon, Redfeln drove to Iowa City from a place 250 miles away so that he could attend the afternoon's events.
+Campaigning is exhausting. Candidates spend their days rushing from one place to another, with something to do at every stop. Around noon, Redfern drove to Iowa City from a place 250 miles away so that he could attend the afternoon's events.
 
-Our next stop was the University of Iowa's teaching hospital, an institution known throughout the country for its equipment and medical care. Redfeln drove himself. An American professor and I rode with him. There was no entourage, no one rushing ahead to clear the way.
+Our next stop was the University of Iowa's teaching hospital, an institution known throughout the country for its equipment and medical care. Redfern drove himself. An American professor and I rode with him. There was no entourage, no one rushing ahead to clear the way.
 
-At the hospital we were taken to a meeting room. Only sixteen to eighteen people were there. Five had come with Redfeln, including us; seven were journalists; the rest worked at the hospital. I was surprised by how small the audience was. Redfeln did not seem bothered. He gave a lively speech about his main domestic and foreign-policy positions, took questions, and finished. He then set aside twenty minutes for the reporters, speaking to each of them and answering several questions apiece.
+At the hospital we were taken to a meeting room. Only sixteen to eighteen people were there. Five had come with Redfern, including us; seven were journalists; the rest worked at the hospital. I was surprised by how small the audience was. Redfern did not seem bothered. He gave a lively speech about his main domestic and foreign-policy positions, took questions, and finished. He then set aside twenty minutes for the reporters, speaking to each of them and answering several questions apiece.
 
 That explained why the small audience did not matter very much. Through newspapers, television and radio, thousands of people who had not been in the room could still hear about him.
 
 In America, finding an audience may be the hardest part. Even visiting professors giving university lectures often struggle to attract listeners. A candidate for Congress seems to have little more drawing power. It is one of the interesting things about American politics: anyone who wants public office must ask something of the voters, not the other way around.
 
-After the hospital, we drove to a student residence. Redfeln's task there was to stand outside the student dining hall, shake hands and exchange a few words. He waited by the entrance and, whenever someone came along, introduced himself: "Hello, I'm Redfeln. I'm running for Congress." He would ask whether the student planned to vote, or say something else to make contact.
+After the hospital, we drove to a student residence. Redfern's task there was to stand outside the student dining hall, shake hands and exchange a few words. He waited by the entrance and, whenever someone came along, introduced himself: "Hello, I'm Redfern. I'm running for Congress." He would ask whether the student planned to vote, or say something else to make contact.
 
-It was difficult work. The students seemed almost entirely uninterested. Most answered with a quick "Hi" and walked past. Few wanted to stop and talk; some were positively cold. Watching from the side, I thought how hard it must be to run for Congress. There was no entourage here either. There were just three of us: Redfeln, his assistant and me. This, too, was American politics.
+It was difficult work. The students seemed almost entirely uninterested. Most answered with a quick "Hi" and walked past. Few wanted to stop and talk; some were positively cold. Watching from the side, I thought how hard it must be to run for Congress. There was no entourage here either. There were just three of us: Redfern, his assistant and me. This, too, was American politics.
 
-His opponent was Nagel, the district's sitting representative, who was seeking reelection. Nagel had also visited the campus several times and given speeches. Redfeln did not seem to enjoy this particular task. After a short while he decided to move on. "Let's go," he told his assistant, plainly discouraged. "I've got a bad feeling about this." He had reason to feel that way.
+His opponent was Nagle, the district's sitting representative, who was seeking reelection. Nagle had also visited the campus several times and given speeches. Redfern did not seem to enjoy this particular task. After a short while he decided to move on. "Let's go," he told his assistant, plainly discouraged. "I've got a bad feeling about this." He had reason to feel that way.
 
 The next stop was another residence hall, the Mayflower. The International Writing Program, well known in China, was housed in the same building. Once again, we drove ourselves. A female student welcomed us and led us to a meeting room where nearly twenty students were waiting.
 
-Redfeln spoke for forty minutes about domestic and foreign affairs, placing particular emphasis on education. The students then asked questions about social security, schooling and other matters. The whole visit lasted an hour. Again, the audience was small.
+Redfern spoke for forty minutes about domestic and foreign affairs, placing particular emphasis on education. The students then asked questions about social security, schooling and other matters. The whole visit lasted an hour. Again, the audience was small.
 
 Outside the meeting room was a student recreation area. Quite a few students were playing video games, pool or table tennis. Others were watching television. A congressional candidate was speaking in the building, but none of that seemed to draw them away from what they were doing.
 
-That was the end of the day's events. Redfeln drove me back to the university, and on the way we talked about how candidates for Congress are chosen.
+That was the end of the day's events. Redfern drove me back to the university, and on the way we talked about how candidates for Congress are chosen.
 
-A candidate runs in a particular district. Anyone who believes they are capable of running can put themselves forward, provided they obtain the support of a required number of people. But first they must win a primary election—a vote among people seeking the nomination of the same party. Redfeln had won the Republican primary and become his party's candidate. The party supported his campaign with funds permitted by law and with other forms of help.
+A candidate runs in a particular district. Anyone who believes they are capable of running can put themselves forward, provided they obtain the support of a required number of people. But first they must win a primary election—a vote among people seeking the nomination of the same party. Redfern had won the Republican primary and become his party's candidate. The party supported his campaign with funds permitted by law and with other forms of help.
 
 He told me that this support mattered enormously. Without a political party behind you, he said, winning was very difficult.
 
@@ -3777,9 +3777,9 @@ Apart from matters like taxation, politics in America often has little immediate
 
 It also pushes the parties to put forward candidates who can make a good impression. Appearance, character, experience, speaking ability, knowledge, conduct and a talent for dealing with people all matter. Someone who cannot present themselves convincingly has little hope of winning voters over.
 
-Redfeln, for example, was a lawyer with considerable experience. He looked the part, spoke extremely well, had a strong sense of humour and knew how to get along with people. I imagine Nagel had many of the same qualities. The election system and the party system together help produce capable candidates. Remove either one, and the outcome could become absurd.
+Redfern, for example, was a lawyer with considerable experience. He looked the part, spoke extremely well, had a strong sense of humour and knew how to get along with people. I imagine Nagle had many of the same qualities. The election system and the party system together help produce capable candidates. Remove either one, and the outcome could become absurd.
 
-Redfeln largely ran his own campaign. Very few people worked for him. He talked about the practical issues that ordinary people cared about, not necessarily because those were the subjects he would have chosen for himself, but because the election forced him to. Yet another force was even more important: the political party. An ordinary person without a party behind them has little chance of winning.
+Redfern largely ran his own campaign. Very few people worked for him. He talked about the practical issues that ordinary people cared about, not necessarily because those were the subjects he would have chosen for himself, but because the election forced him to. Yet another force was even more important: the political party. An ordinary person without a party behind them has little chance of winning.
 
 ## 6. Election Day
 
@@ -3819,9 +3819,9 @@ In this election, the outcome was already clear by around eleven o'clock Central
 
 Of course, the result became clear early only because the eastern and central states had voted so decisively. Had the contest there been close, western votes could have made all the difference. California, with its large population and many electoral votes, would have carried particular weight.
 
-The way Americans elect their president deserves closer examination. They use an Electoral College. Each state receives a certain number of electoral votes according to its representation, with larger states having more and smaller states fewer. In the system Wang describes, the number of individual votes does not translate directly into a national presidential result. It determines which party receives the state's electoral votes. If the Republicans win a state by even one vote, all that state's electoral votes go to their candidate. In that sense, the ballots cast for the Democratic candidate in that state count for nothing toward the final electoral tally.
+The way Americans elect their president deserves closer examination. They use an Electoral College. Each state receives a certain number of electoral votes according to its representation, with larger states having more and smaller states fewer. The number of individual votes does not translate directly into a national presidential result. It determines which party receives the state's electoral votes. In most states, if the Republicans win by even one vote, all that state's electoral votes go to their candidate. In that sense, the ballots cast for the Democratic candidate in that state count for nothing toward the final electoral tally.
 
-Look at the figures from 1988. Bush received 47 million votes, or 54 percent, while Dukakis received 41 million, or 46 percent. The popular-vote gap was not enormous. But in electoral votes the difference was striking: 426 for Bush, or 79 percent, against 112 for Dukakis, or 21 percent.
+Look at the final figures from 1988. Bush received about 48.9 million votes, or 53.4 percent, while Dukakis received about 41.8 million, or 45.6 percent. The popular-vote gap was not enormous. But in electoral votes the difference was striking: 426 for Bush and 111 for Dukakis. One elector voted for Dukakis’s running mate, Lloyd Bentsen.[^ed-35]
 
 Elections depend on the rule of the majority. One extra vote is enough to turn one side into the majority and the other into the minority. It is an old political difficulty that has never been fully solved. Must ten million people obey ten million and one? Yet anyone who accepts democratic elections must also accept that possibility. Lose this time, and the answer is to win that one extra voter—or many more—next time.
 
@@ -3853,7 +3853,7 @@ Dole's team had met on Wednesday and decided not to run negative advertisements.
 
 Koch wanted to know where Dukakis stood on Jackson. Dukakis was vague. Koch opposed Jackson and was dissatisfied with the answer. Gore, by contrast, behaved respectfully and appealed to Koch, who chose to endorse him. But Koch's feelings toward Jackson were so fierce that, at the event announcing his support for Gore, he launched into an attack on Jackson. The attack hurt Gore rather than helping him. Dukakis came out ahead.
 
-**3. Bush chooses to attack.** Once the nominees were chosen, the race became a direct contest between Bush and Dukakis. Early polls gave Dukakis a lead of ten to twelve percentage points. Bush's aides urged him to focus on his opponent's weaknesses. Sununu proposed attacking Dukakis over the Fuluhi plan, pollution in Boston Harbor and overcrowded prisons.
+**3. Bush chooses to attack.** Once the nominees were chosen, the race became a direct contest between Bush and Dukakis. Early polls gave Dukakis a lead of ten to twelve percentage points. Bush's aides urged him to focus on his opponent's weaknesses. Sununu proposed attacking Dukakis over the prison furlough programme,[^ed-36] pollution in Boston Harbor and overcrowded prisons.
 
 Bush hesitated, hoping to wait until the Republican national convention. But the polls suggested that by then Dukakis's lead might reach twenty points. Bush made up his mind and went on the offensive.
 
@@ -3903,7 +3903,7 @@ One day in September 1988, shortly before noon, we drove up to the Capitol. It i
 
 More security officers waited at the door. Getting into the building involved much the same checks as boarding a plane. Yet the Capitol is open to ordinary visitors. Anyone can come in and look around. When the chambers are not meeting, tourists can even sit in the seats and see what it feels like to be a member of Congress.
 
-Once inside, we first found Professor Sinclair, a well-known specialist on Congress. She had taught political science at the University of California, Berkeley, and was temporarily doing research in Congress, apparently also working as an assistant to the Speaker of the House. After a brief explanation of how Congress was organized, she showed us around.
+Once inside, we first found Professor Barbara Sinclair,[^ed-37] a well-known specialist on Congress who taught political science at the University of California, Riverside. She was temporarily doing research in Congress and observing the work of the Speaker’s office. After a brief explanation of how Congress was organized, she showed us around.
 
 We began with the corridors—the very place from which lobbyists take their name. Lobbyists try to persuade legislators to pass particular laws or influence legislation in other ways. I described their work earlier, in Chapter 5.
 
@@ -4019,13 +4019,13 @@ Most counties have their own governments. But these governments are by no means 
 
 Not every county has a county government. Around thirty-one are governed through other arrangements. A few have governments combined with those of cities; others are run directly by a large metropolitan authority. Even the number of counties varies sharply from state to state: Delaware has three, while Texas has 254.
 
-Their sizes differ just as dramatically. San Bernardino County in California covers more than twenty thousand square miles—almost twice the size of the Netherlands, according to the comparison given here, and roughly the combined area of Massachusetts, Connecticut, Rhode Island and Delaware. Arlington County in Virginia, by contrast, has only twenty-four square miles.
+Their sizes differ just as dramatically. San Bernardino County in California covers more than twenty thousand square miles—larger than the Netherlands,[^ed-38] and roughly the combined area of Massachusetts, Connecticut, Rhode Island and Delaware. Arlington County in Virginia, by contrast, has only twenty-four square miles.
 
 Economically, many counties are based on farming, with towns inside them serving as the main markets. Others depend on industry. Each has its own pattern of economic life and local organizations.
 
 County politics deserves close attention because it is one of the foundations of American politics. Counties are also important building blocks for the political parties. Some of the most substantial work of politics happens there.
 
-Herbert Sidney Ducombe, author of a book on American county government, wrote that the chair of a county political party is often a central figure in the local political organization. Winning county office can be a step toward state or federal office. Counties are also places where campaign funds are raised, and electoral districts often follow county boundaries. Most political organizations therefore maintain county branches. County party officials may help divide their areas into smaller voting districts and choose people to organize them.
+Herbert Sydney Duncombe, author of *County Government in America*,[^ed-39] wrote that the chair of a county political party is often a central figure in the local political organization. Winning county office can be a step toward state or federal office. Counties are also places where campaign funds are raised, and electoral districts often follow county boundaries. Most political organizations therefore maintain county branches. County party officials may help divide their areas into smaller voting districts and choose people to organize them.
 
 Below the county comes the *precinct*, the small local area in which people vote. In the countryside it may have only a dozen voters; in a city it may contain as many as two thousand.
 
@@ -4033,7 +4033,7 @@ Party organizations work at this level too. Some precincts elect a local party o
 
 In densely populated counties there may be other party organizations between the precinct and county levels. County party organizations are generally led by a committee or chair. They have no direct power over government, although they may influence government decisions. They must raise their own money and find their own staff and premises. They cannot simply use taxpayers' funds to support party activity.
 
-County government itself comes in many forms. Some counties use a traditional arrangement; others use a system with a professional manager, something resembling a manager, an elected executive, an administrative assistant or a county administrator. Ducombe groups these arrangements into two broad families.
+County government itself comes in many forms. Some counties use a traditional arrangement; others use a system with a professional manager, something resembling a manager, an elected executive, an administrative assistant or a county administrator. Duncombe groups these arrangements into two broad families.
 
 **The traditional system, with several elected officials sharing authority.** Roughly 85 to 90 percent of county governments have some form of elected governing board. It is usually called a *Board of Commissioners*, although names such as *County Court* and *Board of Supervisors* are also used. In some places its members perform only county duties; elsewhere they may also be town supervisors, judges or other officials.
 
@@ -4119,7 +4119,7 @@ Cities also have to live alongside other local governments. Most large cities li
 
 Here the American meaning of *county* differs from the Chinese one. In China, a county is generally thought of as rural and does not include large or medium-sized cities. In America, a county is both a geographical area and a unit of government. A large city may lie within a county's borders without being governed by the county in every respect. Counties often maintain their offices in the major city within their boundaries.
 
-County governments may oversee local courts, register marriages and supervise elections. Some help run welfare programs. In some places they operate hospitals and public health services. The exact arrangement varies. Counties may have their own entirely separate governments, or county officials may perform duties within city government, as in the examples Wang gives of New York, Philadelphia, Boston and New Orleans. Elsewhere the city and county form one government. San Francisco is an example of such a *city-county*, organized largely around the city.
+County governments may oversee local courts, register marriages and supervise elections. Some help run welfare programs. In some places they operate hospitals and public health services. The exact arrangement varies. Counties may have their own entirely separate governments, or county officials may perform duties within city government, as in New York, Philadelphia, Boston and New Orleans. Elsewhere the city and county form one government. San Francisco is an example of such a *city-county*, organized largely around the city.
 
 Most counties were established long before the cities within them grew to their present size. As towns expanded and their needs changed, the balance between county and city shifted. Some were brought together; others remained separate. The American arrangement often puts a city *inside* a county geographically. The Chinese arrangement more commonly separates cities and counties. Having cities within county areas can help the surrounding countryside develop.
 
@@ -4283,7 +4283,7 @@ Someone who wants to enter public service must generally either win election or 
 
 How does this work in practice? I investigated Iowa City's municipal government.
 
-Iowa City uses the council-manager system. Its highest governing body is a seven-member city council. One member serves as mayor, a largely ceremonial position. At the time of my visit the mayor was John Mc Donald, who ran an optician's shop on a street opposite the university. He could often be found there repairing customers' glasses. He went to city hall mainly when the council met or had official business.
+Iowa City uses the council-manager system. Its highest governing body is a seven-member city council. One member serves as mayor, a largely ceremonial position. At the time of my visit the mayor was John McDonald,[^ed-40] who ran an optician's shop on a street opposite the university. He could often be found there repairing customers' glasses. He went to city hall mainly when the council met or had official business.
 
 Daily administration was the responsibility of the city manager. Under the manager were departments dealing with finance, housing, public places, fire protection, cooperation, planning, public works, transport and personnel, along with the police. The library director, city clerk and chief legal official did not fall under the manager in the same way.
 
@@ -4354,7 +4354,7 @@ American politics has a double character. It draws talent from across society in
 
 America's political pyramid is large and complicated from top to bottom. Its parts are not held together particularly tightly, yet the whole structure runs with surprising steadiness. The different levels do not constantly clash, and the system manages to endure. There must be threads running through it, connecting one part with another. One such thread is the relationship between members of Congress and the people who elect them.
 
-Members of the House of Representatives are elected from districts, one representative for each district. Iowa's Third Congressional District was represented, at the time of my visit, by a man named Nagel. The Chinese expression for *congressman*, incidentally, could be translated word for word as “a person of Congress.”
+Members of the House of Representatives are elected from districts, one representative for each district. Iowa's Third Congressional District was represented, at the time of my visit, by a man named Nagle. The Chinese expression for *congressman*, incidentally, could be translated word for word as “a person of Congress.”
 
 A representative's job is to stay in touch with voters, listen to their concerns and help the district deal with practical problems, sometimes by changing the law.
 
@@ -4364,7 +4364,7 @@ Here the electoral system has a real effect. People may have only a small number
 
 A representative has an office in Washington, usually with fewer than ten staff members. Different people handle different areas: foreign affairs and national politics, welfare programs, business and economic questions, agriculture, industry and so on.
 
-But Washington is far from the district. The office there cannot easily stay in touch with everyone back home. Representatives therefore establish district offices—local places where voters can reach them. The number depends on the district's size. Because Iowa's Third District was relatively large, Nagel maintained four. One was in Iowa City, serving Johnson County. The University of Iowa's importance to the area was one reason for giving the county an office of its own.
+But Washington is far from the district. The office there cannot easily stay in touch with everyone back home. Representatives therefore establish district offices—local places where voters can reach them. The number depends on the district's size. Because Iowa's Third District was relatively large, Nagle maintained four. One was in Iowa City, serving Johnson County. The University of Iowa's importance to the area was one reason for giving the county an office of its own.
 
 What does one of these offices look like? I visited the one in Iowa City. It occupied two or three spacious rooms above a bank in the city centre. Two people worked there. The representative's four district offices employed roughly ten people altogether. Add the Washington staff, and a member of the House might have about twenty people working on the member's behalf.
 
@@ -4452,7 +4452,7 @@ The arrangement has another advantage: one card can replace several separate doc
 
 ## 2. The Rules of the Factory
 
-I knew very little about American factories, and I wanted to see one for myself. Ezra Vogel, a professor at Harvard, had written a book called *Japan as Number One*, comparing American and Japanese ways of managing businesses. He was trying to understand the extraordinary economic success Japan had achieved since the war. Now, with Jack Newman, the former manager of a factory, accompanying us, we went to have a look.
+I knew very little about American factories, and I wanted to see one for myself. Ezra Vogel, a professor at Harvard, had written a book called *Japan as Number One*, comparing American and Japanese ways of managing businesses. He was trying to understand the extraordinary economic success Japan had achieved since the war. Now, with Jack Newman,[^ed-41] the former manager of a factory, accompanying us, we went to have a look.
 
 It was the Iowa City plant of Procter & Gamble, a company that had grown into an international giant. It began in Ohio in 1837 as a small manufacturer of candles and soap. There is little need to make candles now. Its best-known products are household cleaners, including Tide washing powder and detergent, and Crest toothpaste. I had seen Crest advertised everywhere in Singapore and Hong Kong. The company also produces food and medicines.
 
@@ -4460,7 +4460,7 @@ Procter & Gamble puts enormous effort into developing new products. More recentl
 
 This kind of international organization is typical of American business, and reflects an important part of its business spirit. If an American company sees an opportunity to open another operation, at home or abroad, it is likely to take it. Companies then keep close track of the numbers their new ventures produce. They compete over those figures, too. Yet American business thinking is concerned with more than making money. Reputation matters. Americans are quite willing to spend money to acquire prestige, and that desire influences much of what they do.
 
-The company's growth is striking. Between 1850 and 1859, it employed around eighty people and recorded sales of one million dollars. By 1930, sales had reached two million dollars. It had taken roughly seventy years to double. But in 1956 sales reached one billion dollars, showing how quickly the company had expanded after the war. By the end of the 1970s it employed fifty-nine thousand people and had sales of ten billion dollars.
+The company's growth is striking. Between 1850 and 1859, it employed around eighty people and recorded sales of one million dollars. By 1930, sales had reached more than two hundred million dollars.[^ed-42] But in 1956 sales reached one billion dollars, showing how quickly the company had expanded after the war. By the end of the 1970s it employed fifty-nine thousand people and had sales of ten billion dollars.
 
 Such growth is astonishing, but it also illustrates a familiar pattern. Economic development often starts slowly. Once an enterprise reaches a certain size, it can move forward in great leaps. This is true of factories and businesses, and of countries and regions. Japan offers perhaps the clearest national example; many newly industrialized places have followed a similar path.
 
@@ -4808,7 +4808,7 @@ The sheer variety of religions is remarkable. Most Americans do not seem terribl
 
 Religious groups are so numerous that even a handful of people may declare themselves followers of a distinct faith. The Constitution protects freedom of religion. If somebody were to announce tomorrow that they had founded a religion in which bees were the angels of the world, no one could forbid the belief. Other people could simply refuse to share it.
 
-There are dangers, too. Some religious groups have caused terrible tragedies. Jim Jones founded the Peoples Temple, who forced more than nine hundred followers into mass suicide in Guyana. The tragedy shocked the world.
+There are dangers, too. Some religious groups have caused terrible tragedies. Jim Jones founded the Peoples Temple; more than nine hundred adults and children died in the mass murder and suicide at Jonestown in Guyana. The tragedy shocked the world.
 Religion, then, cannot be understood solely as a matter of personal faith. Religious organizations have a much wider social role. They connect thousands upon thousands of people, bring them together and guide their behaviour. That gives them considerable influence over public life.
 
 Robin W. Lovin, writing about religion and American public life, describes three important relationships between religion and society.
@@ -4905,13 +4905,13 @@ Human beings have one profound limitation: the knowledge and moral habits gained
 
 ## 2. MIT
 
-MIT is the Massachusetts Institute of Technology, one of America's best-known universities. Its established Chinese name is usually translated as the Massachusetts Institute of Technology, though a more literal modern rendering would be something like the Massachusetts College of Technology. It stands in Cambridge, Massachusetts, beside Boston.
+MIT is the Massachusetts Institute of Technology, one of America's best-known universities. Its familiar Chinese name follows an older translation convention; a newer convention would render the name differently in Chinese. It stands in Cambridge, Massachusetts, beside Boston.
 
 Professor Lucian Pye, president of the American Political Science Association, welcomed us. He teaches political science at MIT. That might sound odd at a university known for science and engineering. Yet its political science department is a distinguished one, just as the Naval Academy also has a political science department. Pye himself is a well-known scholar. I might add that in many places I have been struck by how closely the development of American political science and American political institutions have gone together.
 
 MIT is, in many respects, a typical American university. It was established in 1861 and began admitting students in 1865. Its growth accelerated during the Second World War and the years that followed, when much of its research was connected with wartime needs.
 
-Today it has five schools, covering agriculture and planning, humanities and social sciences, engineering, management, and science. Science, engineering and the natural sciences form its centre of gravity, but it also offers a wide range of subjects in the humanities and social sciences. Because fewer students enter those fields, the standard can be especially high.
+Today it has five schools, covering architecture and planning,[^ed-43] humanities and social sciences, engineering, management, and science. Science, engineering and the natural sciences form its centre of gravity, but it also offers a wide range of subjects in the humanities and social sciences. Because fewer students enter those fields, the standard can be especially high.
 
 MIT now has around ten thousand students, including approximately 4,500 undergraduates and 5,000 graduate students. About half study engineering and another fifth study science. Competition for places is exceptionally fierce. A student without outstanding ability is unlikely to get in.
 
@@ -5012,7 +5012,7 @@ Even so, the public sector's contribution to American society cannot be overlook
 
 ## 4. The Talent Factories
 
-The Maxwell School at Syracuse University in New York State is one of America's leading institutions for training public administrators. Its graduates enter the federal government, state governments and other public bodies, often rising to important positions. I was told that more than twenty American ambassadors had studied there. The former ambassador to Pakistan, who had recently died in the same plane crash as President Zia-ul-Haq, was also a graduate. In Washington, you find Maxwell alumni everywhere. They work not just across the United States but in many developing countries as well.
+The Maxwell School at Syracuse University in New York State is one of America's leading institutions for training public administrators. Its graduates enter the federal government, state governments and other public bodies, often rising to important positions. I was told that more than twenty American ambassadors had studied there. Arnold Raphel, the US ambassador to Pakistan who had recently died in the same plane crash as President Zia-ul-Haq, was also a graduate.[^ed-44] In Washington, you find Maxwell alumni everywhere. They work not just across the United States but in many developing countries as well.
 
 The Maxwell School of Citizenship and Public Affairs was founded in 1924. It is described as America's first school of public administration, established to educate and train civil servants. After more than sixty years, it has become a considerable *people factory*, steadily supplying government institutions with trained staff.
 
@@ -5054,7 +5054,7 @@ What do they teach their students? What kind of knowledge do they believe a publ
 
 These are only some of the subjects available to master's students. Most classes are taught through discussion. Before joining in, students must read a great deal, so that they know the existing research and arguments as fully as possible.
 
-Consider the course on national planning and management capacity. Its reading list includes:
+Consider the course on national planning and management capacity. Its reading list includes:[^ed-45]
 
 - Lodge and Vogel, *Ideology and National Competitiveness*.
 - *The Global 2000 Report and Its Critics*.
@@ -5064,9 +5064,9 @@ Consider the course on national planning and management capacity. Its reading li
 - Hayek, *The Road to Serfdom*.
 - Hirsch, *Social Limits to Growth*.
 - Palmer, *The Character of the Reagan Years*.
-- Pahrendorf, *Governing Modern Democracies*.
+- Dahrendorf,[^ed-46] *Governing Modern Democracies*.
 - Page, *Protection and Economic Efficiency*.
-- Baumal, *Productivity Growth*.
+- Baumol,[^ed-47] *Productivity Growth*.
 - Grieco, *Between Dependence and Autonomy*.
 - Wildavsky, *Searching for Safety*.
 - Tussman, *Government and the Mind*.
@@ -5216,7 +5216,7 @@ Its guiding principle was participation. Unlike a museum where people simply loo
 
 Press a button, and a voice would speak through a telephone; press another, and a television programme would start. You could operate a machine tool, walk inside an enormous model of the human heart and see how it worked, or sit in a driving simulator and try your hand at a car. Elsewhere you could descend beneath the surface of the earth and explore the structure of its crust.
 
-The museum was founded by **Julius Rosenwald** and opened in **1933**. It stood beside the beautiful waters of Jackson Lake, welcoming thousands of visitors every day.
+The museum was founded by **Julius Rosenwald** and opened in **1933**. It stood in Jackson Park, near the waters of Lake Michigan,[^ed-48] welcoming thousands of visitors every day.
 
 A short list gives some idea of the range of its displays: aircraft from different periods, old typewriters, news, telephones and telegraphs, agricultural machinery, city construction, computers, petroleum, geological layers, sound and vision, basic science, industry, cars, chemistry, cinema, medicine, bicycles, postal services, electricity, food, photography, money, energy, libraries, biology, the human body, railways, the sea and solar power.
 
@@ -5252,13 +5252,13 @@ The passing on of modern life, and the work of education, reproduce a social sys
 
 *Factories of ideas* is my own expression. The usual term is *think tanks*. America has so many different kinds of them that they have become one of the country's distinctive features. In a sense, Americans are happy to treat ideas as products: examine the quality, compare what is available and choose what suits you. Looking at the development of modern society, it is hard to miss the remarkable influence these organizations have had. Their importance is especially clear when we think about how a society preserves itself while continuing to change.
 
-In San Francisco I visited Stanford University. The famous **Hoover Institution** is located on its campus, though it is not itself a part of the university. Stanford's buildings show a strong Spanish influence, reflecting the history of the region. The Hoover Institution has a different appearance. It is known for its conservative ideas. Some professors jokingly call it “reactionary.” Many of the ideas behind the Reagan administration came from Hoover. But it has also attracted distinguished scholars, including the well-known political scientist **Lipset**.
+I visited Stanford University near Palo Alto, south of San Francisco.[^ed-49] The famous **Hoover Institution** is part of the university and is located on its campus.[^ed-50] Stanford's buildings show a strong Spanish influence, reflecting the history of the region. The Hoover Institution has a different appearance. It is known for its conservative ideas. Some professors jokingly call it “reactionary.” Many of the ideas behind the Reagan administration came from Hoover. But it has also attracted distinguished scholars, including the well-known political scientist **Lipset**.
 
 The Hoover Institution was founded in **1919**. According to a story I heard, its early collection of materials about the Soviet Union came from the Soviet government. President Hoover, so the story went, had provided aid to the Soviet Union. The Soviets could not pay, so the Americans asked for documents and other materials instead. I do not know whether the story is true. If it is, it shows considerable foresight.
 
 After the Second World War, the institution acquired a great many materials from Japan, and later from China. Its holdings in these areas became particularly rich. Gradually the institution grew on the strength of these collections.
 
-The **University of California at Berkeley** is another of America's finest universities, comparable in quality with an old institution like Harvard. There I visited the Institute of Governmental Studies. Its director was **Polsby**, another well-known political scientist. He wanted to make the institute influential in national policy. Previously it had concentrated mainly on problems facing California's state government. Now he intended to extend its reach across the country. In other words, it would become a think tank of national importance.
+The **University of California at Berkeley** is another of America's finest universities, comparable in quality with an old institution like Harvard. There I visited the Institute of Governmental Studies. Its director was **Nelson W. Polsby**,[^ed-51] another well-known political scientist. He wanted to make the institute influential in national policy. Previously it had concentrated mainly on problems facing California's state government. Now he intended to extend its reach across the country. In other words, it would become a think tank of national importance.
 
 These visits left me convinced that the contribution of think tanks to American development should not be underestimated. They also reminded me of an article by **R. Kent Weaver** of the Brookings Institution, “The Changing World of Think Tanks.” It offers a useful account of how these organizations have developed.
 
@@ -5294,7 +5294,7 @@ Finally, there is **managing the results**: getting studies published and making
 
 Whether they mean to or not, think tanks act as **doctors for society**. They continually search for problems, diagnose them and propose remedies. Their own survival depends partly on doing so. To obtain support, they must offer a fresh approach or discover something others have overlooked. That pressure encourages them to look for new policy problems.
 
-Whatever their motives, once those problems have been identified, somebody can investigate them. If the findings eventually become government policy, they may help society improve. Many think tanks probably have an explicit commitment to preserving the existing political order. Yet the work they do has precisely that effect, even when it begins as a criticism.
+Whatever their motives, once those problems have been identified, somebody can investigate them. If the findings eventually become government policy, they may help society improve. Perhaps most think tanks explicitly aim to preserve the existing political order. Their work does indeed have that effect.
 
 Like doctors, they examine society, identify symptoms, seek underlying principles, anticipate consequences and prescribe possible treatments. Their social function is clear enough. Many American think tanks began developing in the 1920s and 1930s, then expanded greatly after the Second World War.
 
@@ -5376,7 +5376,7 @@ A presidential centre, sometimes called a presidential library, can cost several
 
 The complex houses several organizations.
 
-**1. The Carter Center itself.** This is a partly commercial institution whose stated aim is to reduce social conflict, relieve suffering and deepen understanding among people through research and practical efforts. It also claims to be the only institution in the world in which a former president takes part in the daily work. Jimmy Carter has an office there.
+**1. The Carter Center itself.** This is a nonprofit institution[^ed-52] whose stated aim is to reduce social conflict, relieve suffering and deepen understanding among people through research and practical efforts. It also claims to be the only institution in the world in which a former president takes part in the daily work. Jimmy Carter has an office there.
 
 **2. The Emory University Carter Center.** Sharing the building with the main centre, this organization conducts research, holds discussions and publishes articles. Its subjects include Latin America and the Caribbean, the Middle East, Soviet–American relations, Africa, health, human rights and conflict. Its researchers work closely with Emory University, and graduate students come to the centre to carry out their research. Most members are professors in Emory's political science department.
 
@@ -5645,7 +5645,7 @@ When a society succeeds in organizing the spread of knowledge effectively and br
 
 ## 7. The City Library
 
-**Iowa City** is a small place. Its resident population, excluding students, was said to be around **15,000**. The university had approximately **35,000 students**. The population was described to me as roughly **60,000** in all.
+**Iowa City** is a small place. Its resident population, excluding students, was said to be around **15,000**. The university had approximately **35,000 students**. Together, these figures come to approximately **50,000**.[^ed-53]
 
 Small towns like this are scattered all over America. Many people prefer to live in them rather than in great cities such as New York or Chicago. Life is quieter, more relaxed, and often more straightforward. People in large cities may look down on small-town residents, but small-town residents do not all envy them.
 
@@ -5911,9 +5911,9 @@ The term I am using for these young people comes from Singapore. It is much like
 
 Why does this matter so much to me? Because young people are a society's future. Lose a generation of young people and you lose the future itself. The kind of society that will exist tomorrow depends on how today's children grow up. Americans understand this too. In 1976, Senator **Birch Bayh**, chairman of a Senate committee investigating juvenile delinquency, said that young people were the nation's most precious resource. A society may produce plenty of outstanding people. But it needs ordinary people as much as it needs a talented few. If the majority become a 'lost generation', how can society move forward?
 
-I have begun with the family and arrived at children who run away because I want to trace the problem back to what families are supposed to do. I have with me a book by **Arnold P. Rubin**, published in 1976, on juvenile delinquency and runaway young people in America. Although it appeared twelve years ago, it still has much to tell us.
+I have begun with the family and arrived at children who run away because I want to trace the problem back to what families are supposed to do. I have with me a book by **Arnold P. Rubin**, *The Youngest Outlaws: Runaways in America*, published in 1976[^ed-54]. Although it appeared twelve years ago, it still has much to tell us.
 
-The scale of the problem is alarming. An estimate for **1975** put the number of young people running away each year at **one million**, and that was considered conservative. In a country of a little over two hundred million people, this is hardly a small figure. In **1973**, police took **265,000** runaway young people into custody. The term refers to minors who leave home without their parents' consent. Some are children of only ten or so. Rubin describes what drove them away and what happened to them. Here are a few of his examples.
+The scale of the problem is alarming. An estimate for **1975** put the number of young people running away each year at **one million**, and that was considered conservative. In a country of a little over two hundred million people, this is hardly a small figure. In **1973**, police took **265,000** runaway young people into custody. The term refers to minors who leave home without their parents' consent. Some are children of only ten or so. Rubin describes what drove them away and what happened to them. Here are a few of his examples.[^ed-55]
 
 - **Terry, seventeen:** 'The main reason I left was the tension at home.' She had no desire to go back: the atmosphere was too strained. Nor did she want to return to school, where she felt she learned nothing useful.
 - **Randy, seventeen, from Florida:** 'My father put me on a bus and told me, “Don't let me see you again.”' His explanation was that his parents wanted to be rid of a burden. 'They think there's something wrong with my head.' He and his sister were adopted.
@@ -5947,13 +5947,13 @@ Criminal organizations have built themselves around the drug trade. They use eve
 
 Drugs are eating away at America. Their power may be greater than that of many of the forces that have shaken the country in the past. Their spread challenges the way American society works. Whether the country can contain and reduce drug use is a test not only of its institutions, but also of its moral beliefs.
 
-Young people are among the first to suffer. Drug use among them is extraordinarily serious. I saw a film about a secondary-school principal trying to restore order to a school that had become dirty, chaotic and badly managed. His main opponent was a Black student with a following of his own. The student openly sold drugs in the school toilets. He and his supporters arranged to beat the principal and tore apart his motorcycle. Eventually several of them came with guns to kill him. The principal was almost beaten to death before he was unexpectedly rescued. As the police took the student away, he stared at the principal with a look that suggested he had not given up. It was chilling.
+Young people are among the first to suffer. Drug use among them is extraordinarily serious. I saw *The Principal*,[^ed-56] a film about a secondary-school principal trying to restore order to a school that had become dirty, chaotic and badly managed. His main opponent was a Black student with a following of his own. The student openly sold drugs in the school toilets. He and his supporters arranged to beat the principal and tore apart his motorcycle. Eventually several of them came with guns to kill him. The principal was almost beaten to death before he was unexpectedly rescued. As the police took the student away, he stared at the principal with a look that suggested he had not given up. It was chilling.
 
 Of course a film contains artistic invention. But I fear that the story may not be far removed from what happens in some of the worst schools. Drug organizations have reached into every corner of society, especially places where young people gather. Small towns may be less badly affected. In the large cities, the problem is much more severe.
 
 Consider an article called 'Children and Drugs', published in the **May 1987** issue of *Ladies' Home Journal*. It began by quoting a letter President Reagan had written to the magazine. He warned that drugs threatened every American family and the American way of life. They deprived young people of the education they needed, left **eighteen out of every thousand Americans** unable to work, contributed to crime, destroyed property, raised insurance costs and placed a heavy burden on the police. The financial damage, he said, could be measured in hundreds of millions of dollars. But how could anyone measure the loss suffered by a nation whose people's lives were being ruined? The letter makes clear the seriousness of the challenge.
 
-What is happening to young drug users? The magazine interviewed several. One of them, **Tim Osiki**, described his experience:
+What is happening to young drug users? The magazine interviewed several. One of them, **Tim Osiki**,[^ed-57] described his experience:
 
 > 'I started taking drugs when I left elementary school for junior high. I found that there were lots of drugs at the new school, perhaps because I got to know some older children and children from the city centre. Some people I knew used drugs. At first I wasn't interested. Later I started smoking marijuana. After a while that stopped doing anything for me. Then I met some children from very wealthy families. They introduced me to expensive drugs, including cocaine. I tried it, and from then on cocaine became an inseparable part of my life.'
 
@@ -5989,7 +5989,7 @@ Most Americans who oppose drugs are worried about their own children. A smaller 
 
 ## 5. Organized Crime
 
-Organized crime has considerable power in American society. Its groups are tightly run, and their activities extend far beyond isolated criminal acts. Anyone who has seen *The Godfather* will have some idea of the Mafia and the ruthless struggles between its rival groups. *The Honor of the Family* also portrays its methods. Books, films and other works constantly return to this subject.
+Organized crime has considerable power in American society. Its groups are tightly run, and their activities extend far beyond isolated criminal acts. Anyone who has seen *The Godfather* will have some idea of the Mafia and the ruthless struggles between its rival groups. A work Wang calls *The Honor of the Family*[^ed-58] also portrays its methods. Books, films and other works constantly return to this subject.
 
 Of course, these are artistic portrayals, often heightened for dramatic effect. But the problem itself is real. Criminal organizations have become one of the most difficult problems facing this wealthy society. They threaten its security and challenge its institutions.
 
@@ -6056,7 +6056,7 @@ A few experiences of my own may help show what this means.
 - **Washington, August 1988.** A British political scholar invited me to dinner at a Lebanese restaurant. We agreed to walk there from the Washington Hilton, where we were staying, so that we could see the city at night. We set off at about seven in the evening and reached one of the busiest streets downtown. A Black man stopped us and asked whether we had any change. It was my first encounter with a homeless person in America. On the walk to dinner and back, we met no fewer than **ten** people who were homeless or asking us for money. That seemed an extraordinary number for a single evening.
 - **New York, December 1988.** People in such circumstances seemed particularly concentrated here. One night some friends and I drove into the city, intending to stay with an acquaintance. We did not know the streets well and accidentally drove into **Harlem**, an area with a very high crime rate. It was already past midnight. Groups of people stood at nearly every intersection, some shouting, others drinking. We felt increasingly uneasy. Only the next day did we learn just where we had driven, and the thought sent a chill through us.
 - **New York, December 1988.** On another occasion I approached a friend's apartment building and noticed someone sitting on the steps, eating. The person was badly dressed, with a heap of battered belongings nearby. I became wary and hesitated before going inside. Then the person looked up. It was an elderly woman. 'Please don't hurt me,' she said. 'I'm homeless. I'm only sitting here to eat. I'm not going to do anything else.' I felt a sudden, overwhelming pity for her.
-- **Berkeley, January 1988.** While visiting the Institute of East Asian Studies at the University of California, Berkeley, I walked along a shopping street every lunchtime. There were many people begging. For several days we noticed an empty doorway where someone had spread old newspapers, cardboard and scraps of paper on the ground. A person evidently slept there each night beneath a ragged cover. We never saw the sleeper, but it was easy to imagine the circumstances.
+- **Berkeley, January 1989.**[^ed-59] While visiting the Institute of East Asian Studies at the University of California, Berkeley, I walked along a shopping street every lunchtime. There were many people begging. For several days we noticed an empty doorway where someone had spread old newspapers, cardboard and scraps of paper on the ground. A person evidently slept there each night beneath a ragged cover. We never saw the sleeper, but it was easy to imagine the circumstances.
 
 Such scenes are common. Almost anyone who spends time in America is likely to encounter them. With the arrival of winter, homeless people have gathered in considerable numbers in West Coast cities. Groups can be seen outside San Francisco's City Hall. Seattle has many in its streets and alleyways. On the colder East Coast they gather in railway stations and public buildings. In the toilets at New York's railway stations, groups ask for money, making other people afraid to use them. The Greyhound bus stations are much the same.
 
@@ -6138,13 +6138,13 @@ Almost every society has some version of this difficulty: a group of people rega
 
 One important fact about America's colonial history is that the land was already inhabited when Europeans crossed the ocean to reach the New World. The people living there were the **Native Americans**, whom Europeans called **Indians**. Evidence of their earliest presence reaches far into the past.
 
-In **1925**, a Black cowboy named **George McJunkin** discovered a heap of partly burned animal bones in New Mexico. Scientists later concluded that the animals had been killed by hunters **ten thousand years earlier**. Until discoveries of this kind, people had generally assumed that the Indigenous peoples' history on the continent extended back only a few thousand years. Who were these ancient people? Where had they come from?
+In **1908**, a Black cowboy named **George McJunkin** discovered a heap of partly burned animal bones in New Mexico.[^ed-60] Scientists later concluded that the animals had been killed by hunters **ten thousand years earlier**. Until discoveries of this kind, people had generally assumed that the Indigenous peoples' history on the continent extended back only a few thousand years. Who were these ancient people? Where had they come from?
 
 Research after 1925 led some scientists to believe that people had been living in the Americas for at least **twenty thousand years**. But there was no agreement about how they arrived. One theory suggested that during the Ice Age the **Bering Strait** had been dry land, allowing people to cross from Asia. The earliest inhabitants of America may therefore have come from Asia. The physical resemblance some observers saw between Native Americans and Mongolian peoples seemed to support this explanation.
 
 Not all scholars accepted it. Some Native American scholars were especially opposed, believing that the theory weakened their claim to the land by suggesting that they too were immigrants from somewhere else. Where America's earliest inhabitants came from remains, perhaps, a difficult question to answer.
 
-The arrival of Europeans brought two cultures into conflict. Europeans tended to dismiss Native American culture as inferior. A book called *America: People and Values* compares the two ways of life. It describes several elements found in any culture: ways of obtaining food, clothing and shelter; religious practices; artistic creation; forms of group organization; and ways of passing on culture. Native American societies possessed all of these, in many distinctive forms.
+The arrival of Europeans brought two cultures into conflict. Europeans tended to dismiss Native American culture as inferior. The textbook *America: Its People and Values*[^ed-61] compares the two ways of life. It describes several elements found in any culture: ways of obtaining food, clothing and shelter; religious practices; artistic creation; forms of group organization; and ways of passing on culture. Native American societies possessed all of these, in many distinctive forms.
 
 The book then draws a distinction between **culture** and what it calls **civilization**. Civilization, in this account, includes advanced technologies such as metalworking; highly developed forms of settlement such as cities; bodies of knowledge expressed through calendars and writing; and a division of labour. According to this comparison, the Native American societies being discussed lacked these later features, whereas Europeans possessed them.
 
@@ -6168,7 +6168,7 @@ Native Americans, too, initially welcomed the Europeans. At that stage the newco
 
 Over time this changed, and trade was one important reason. Communities that had previously been largely self-sufficient became dependent on goods brought from outside, including alcohol. To obtain those goods, they had to work or trade on European terms. Debt bound them ever more tightly.
 
-**Thomas Jefferson** is quoted as saying in **1820**: 'We have the wolf by the ears; we can neither hold him nor safely let him go.' In the account before me, the wolf is taken to mean Native Americans. Whatever the precise history of the remark, the attitude it expresses is hardly the one Americans openly profess today.
+**Thomas Jefferson** is quoted as saying in **1820**: 'We have the wolf by the ears; we can neither hold him nor safely let him go.' Jefferson used the image while discussing slavery, not Native Americans.[^ed-62] The attitude this remark expresses is hardly the one Americans openly profess today.
 
 Then came a long period when European settlers seized Native American land, drove its inhabitants away and killed them. The prolonged wars between settlers and Indigenous peoples began. American films and historical writing contain countless portrayals of those struggles. In the end, the government created **reservations** and confined Native Americans within designated areas—rather as people set aside nature reserves for wild animals.
 
@@ -6180,7 +6180,7 @@ The difference in treatment is revealing. White Americans long denied Black peop
 
 Why the difference? Native Americans were born on the land and had been its owners. Black Americans had been brought to the continent from elsewhere. Although both groups were denied a full place in society, Native Americans were in a different position: **they were the original Americans**. The difficulty for European settlers was how to make the original inhabitants 'identify with their country'—a country the newcomers had established over them.
 
-The problem has not disappeared. At the time of my visit, there were said to be about **half a million Native Americans** in the United States. Most lived in conditions far below the national average. Disappointment and hopelessness had contributed to serious alcohol abuse. According to the figures I have seen, the suicide rate among Native American young people was **ten times the average**. **Half** were unemployed, while **80 per cent** depended on government assistance.
+The problem has not disappeared. A later Census Bureau estimate put the 1988 population at about **1.7 million American Indians and Alaska Natives**.[^ed-63] Most lived in conditions far below the national average. Disappointment and hopelessness had contributed to serious alcohol abuse. According to the figures I have seen, the suicide rate among Native American young people was **ten times the average**. **Half** were unemployed, while **80 per cent** depended on government assistance.
 
 Many Native Americans still did not identify with Anglo-Saxon or mainstream American culture. They had their own languages and traditions. Educational opportunities were often poor, making it difficult to compete for work outside the reservations. Some moved to cities but later returned home. Their sense of belonging remained tied to their own people and culture.
 
@@ -6274,11 +6274,11 @@ The strength of a great power has generally rested on three things: military for
 
 **The Empire of the Sun is putting America under pressure.** Japan's economic strength has forced Americans to look at it with new respect.
 
-Just before the Second World War ended, the distinguished cultural anthropologist **Ruth Benedict** wrote a book that caused a sensation: *The Chrysanthemum and the Sword*. Her examination of Japanese culture was penetrating and often insightful. Yet there was also something of the attitude of a supposedly superior people studying an inferior one. It was rather like a zoologist describing the habits of a gorilla or a golden snub-nosed monkey: meticulous, perhaps accurate, but without the slightest trace of admiration.
+After the Second World War, the distinguished cultural anthropologist **Ruth Benedict** published a book that caused a sensation: *The Chrysanthemum and the Sword*.[^ed-64] Her examination of Japanese culture was penetrating and often insightful. Yet there was also something of the attitude of a supposedly superior people studying an inferior one. It was rather like a zoologist describing the habits of a gorilla or a golden snub-nosed monkey: meticulous, perhaps accurate, but without the slightest trace of admiration.
 
 Decades later, another American, **Ezra Vogel**, a Harvard professor, wrote *Japan as Number One*. The zoologist's attitude was nowhere to be found. Vogel wrote with praise, and even envy. The change is striking, almost dramatic.
 
-On November 28, 1988, an anonymous Japanese buyer paid more than **$38 million** at an auction house in London for a Picasso painting made in 1905. According to the report, it set a record for a twentieth-century work of art and was the third-highest price ever paid for a painting. That gives some idea of the financial strength Japan now commands.
+On November 28, 1988, the Japanese department store Mitsukoshi paid more than **$38 million** at an auction in London for Picasso’s 1905 painting *Acrobat and Young Harlequin*.[^ed-65] According to the report, it set a record for a twentieth-century work of art and was the third-highest price ever paid for a painting. That gives some idea of the financial strength Japan now commands.
 
 Japan's economic invasion of America has gone far beyond the destruction wrought at Pearl Harbor. Look along an American street and Japanese cars are everywhere: **Toyota, Honda, Nissan**. Step into an electrical-goods store and the Japanese presence is even more obvious. Japanese products fill the shelves, of every kind one could imagine.
 
@@ -6298,7 +6298,7 @@ Yet the gap between their economies was not nearly so great. In **1987**, Japan'
 
 In 1987, exports to the United States accounted for **36.5 percent** of Japan's total exports, while imports from America accounted for **21 percent** of its total imports. For the United States, the corresponding 1986 figures were **11.9 percent** of exports going to Japan and **22.4 percent** of imports coming from Japan.
 
-Japanese investment is also high, with factories now operating in many American states. And measured by gross national product per person, Japan has already passed America. The figures for **1985** were **$17,244** in Japan and **$16,709** in the United States. Between **1981 and 1985**, America's gross national product had a reported growth rate of **2.4 percent**, compared with **4.1 percent** in Japan. The trade imbalance between the two countries continues to widen.
+Japanese investment is also high, with factories now operating in many American states. A World Bank comparison put gross national product per person in **1985** at **$11,270** in Japan and **$16,800** in the United States.[^ed-66] Between **1981 and 1985**, America's gross national product had a reported growth rate of **2.4 percent**, compared with **4.1 percent** in Japan. The trade imbalance between the two countries continues to widen.
 
 During the Second World War, Americans came to know Japan through the experience of war. Today they know Japan through the goods that make their lives more comfortable. The Japanese economic advance is visible in how thoroughly Japanese products have entered American homes.
 
@@ -6384,3 +6384,72 @@ Japan may be only the first country to challenge it in this way. In the coming c
 Of course, Japan cannot match America's natural resources or its territory. Those differences remain decisive advantages for the United States.
 
 The danger lies elsewhere. If the conflicting forces already at work in American society continue along their present course, they may do more than prevent the country from making full use of its strengths. **They may create an underlying current of crisis that becomes impossible to stop.**
+
+# Editorial Notes
+
+[^ed-1]: Editorial note: “Virginia Yan” is an approximate rendering of the name in the Chinese transcription; its original English spelling has not been confirmed.
+[^ed-2]: Editorial note: “Stevis” is an approximate rendering of the name in the Chinese transcription; the professor’s original English spelling has not been confirmed.
+[^ed-3]: Editorial note: The Chinese names only Professor Arnold. Walter Arnold taught political science at Miami University and wrote on East Asia at the time; this identification is an inference. Source: https://files.eric.ed.gov/fulltext/ED281792.pdf
+[^ed-4]: Editorial note: The supplied transcription reads 李佩如. The Michigan China scholar appears to be Kenneth Lieberthal, whose Chinese name is 李侃如; another Chinese transcription gives that name. Sources: https://public.websites.umich.edu/~crlteach/UMCNmovingFChinese.html and https://www.wenxuecity.com/blog/202407/72696/28634.html
+[^ed-5]: Editorial note: The Chinese gives only the surname. David H. Rosenbloom taught public administration and political science at Syracuse in 1988; this identification is an inference. Source: https://www.american.edu/uploads/resume/rosenbloom%20cv%20october30%2C%202011%20%5B1%5D.pdf
+[^ed-6]: Editorial note: The supplied Chinese transcription gives the name 马尔·卡勒. The San Diego political scientist appears to be Miles Kahler, who was teaching there at the time. Source: https://libraries.uark.edu/specialcollections/fulbrightdirectories/1986%20-%201987.pdf
+[^ed-7]: Editorial note: The Chinese names this Berkeley scholar 高若斯. The identification as Joyce Kallgren is an inference from her Berkeley appointment and a contemporary Chinese visitor’s account of a meeting with 高若思, the institute’s associate director. Sources: https://ieas.berkeley.edu/news/memoriam-%E2%80%94-joyce-kallgren and https://hvr-tms2em.stanford.edu/internal/media/dispatcher/365810/full
+[^ed-8]: Editorial note: The Chinese name 国分良成 is read Ryosei Kokubun, not Yoshinari Kokubun. Source: https://www.k-ris.keio.ac.jp/html/100000876_ja.html
+[^ed-9]: Editorial note: The supplied Chinese transcription calls King the vice-chancellor. Essex records identify him as a political scientist and name Martin Harris as vice-chancellor from 1987 to 1992. Sources: https://www.essex.ac.uk/news/2017/01/13/tributes-to-professor-anthony-king and https://www1.essex.ac.uk/news/event.aspx?e_id=5263
+[^ed-10]: Editorial note: The supplied Chinese transcription calls the network “Bignet”. The name of the academic network was BITNET. Source: https://www.cs.cornell.edu/wya/AcademicComputing/text/nationalnets.html
+[^ed-11]: Editorial note: The supplied Chinese transcription says 亚美尼亚人 (“Armenians”). The community described is Amish. Source: https://www.cityofkalona.org/index.asp?SEC=D5DB9FC7-80F0-474D-909C-D23D56F09F4B
+[^ed-12]: Editorial note: The supplied transcription spells the town “Kolona”; its name is Kalona. The book Wang mentions below is John M. Zielinski’s The Amish Across America. Source: https://ci.nii.ac.jp/ncid/BD19923744
+[^ed-13]: Editorial note: The supplied Chinese text gives six villages in New York and two in Canada. A history written by an Amana Society member describes four in New York and two in Canada. Source: https://upload.wikimedia.org/wikipedia/commons/7/74/The_Iowa_journal_of_history_and_politics%2C_v._II.pdf
+[^ed-14]: Editorial note: The supplied Chinese text dates the land purchase to 1854 and says the community initially bought 25,000 acres from the government. The Amana Society history says the search began in 1854 and the first government purchase was about 3,300 acres; later purchases increased the holding. Sources: https://upload.wikimedia.org/wikipedia/commons/7/74/The_Iowa_journal_of_history_and_politics%2C_v._II.pdf and https://amanacolonies.com/wp-content/uploads/2025/04/ACCVB-2025-Visitors-Guide.pdf
+[^ed-15]: Editorial note: The supplied Chinese text gives 1883 as the end of Metz’s leadership, but Metz died in 1867. Barbara Heinemann Landmann, who shared the spiritual leadership, died in 1883. Source: https://uipress.lib.uiowa.edu/bdi/DetailsPage.aspx?id=269
+[^ed-16]: Editorial note: Wang read the Chinese translation, titled 美国精神; the book’s original English title is The American Mind. Source: https://archivesspace.amherst.edu/repositories/2/resources/245
+[^ed-17]: Editorial note: The Constitution was signed in 1787 and its bicentennial was celebrated in 1987. Reagan also attended a Statue of Liberty centennial celebration in 1986. Sources: https://www.reaganlibrary.gov/reagans/reagan-administration/reagan-presidency and https://www.reaganlibrary.gov/exhibits/virtual-exhibits/celebrating-icons-freedom
+[^ed-18]: Editorial note: The supplied Chinese transcription gives the architect’s name as Fero Saarinean; the Gateway Arch was designed by Eero Saarinen. Source: https://www.nps.gov/jeff/faqs.htm
+[^ed-19]: Editorial note: The supplied Chinese text says work began in 1965 and describes Truman as laying a foundation stone. The National Churchill Museum dates his groundbreaking ceremony to 1964. Source: https://www.nationalchurchillmuseum.org/reconstruction-of-the-church-of-st-mary.html
+[^ed-20]: Editorial note: The tragedy at Jonestown included children and other people who were killed, as well as deaths by suicide. Source: https://www.archives.gov/news/articles/undaunted-jackie-speier-lecture
+[^ed-21]: Editorial note: The Soviet Luna 9 made an uncrewed Moon landing in 1966, after Kennedy’s 1961 call for a human Moon landing. Earlier Soviet achievements, including Gagarin’s 1961 flight, formed the background to his decision. Sources: https://science.nasa.gov/moon/missions/ and https://www.nasa.gov/history/the-decision-to-go-to-the-moon/
+[^ed-22]: Editorial note: The supplied Chinese transcription calls the physicist “Allen”. The statement matches a 1988 Iowa City newspaper interview with University of Iowa physicist James Van Allen. Source: https://dailyiowan.lib.uiowa.edu/DI/1988/di1988-09-29.pdf
+[^ed-23]: Editorial note: The Chinese transcription spells the representative’s name “Negel” and elsewhere “Nagel”. Iowa records identify him as David R. Nagle. Source: https://johnsoncountyiowa.gov/november-8-1988-general-election
+[^ed-24]: Editorial note: The Chinese text attributes the commission to Nixon in 1968. It was established by law in 1967, during Lyndon Johnson’s presidency; Nixon became president in 1969. The text also gives eight members, but the commission had eighteen. Sources: https://www.archives.gov/research/guide-fed-records/groups/220.html and https://www.nixonlibrary.gov/finding-aids/fg-95-commission-obscenity-and-pornography-white-house-central-files-subject-files
+[^ed-25]: Editorial note: Wang gives the title only in Chinese and does not identify its author. The original English title has not been established; the wording here is a translation of the Chinese title.
+[^ed-26]: Editorial note: The Chinese text says Nixon wrote the book in 1987. It was published in 1988. Source: https://store.nixonfoundation.org/products/1999-victory-without-war
+[^ed-27]: Editorial note: These organization names are translated from the Chinese. The exact English names of every body in the list have not been independently established.
+[^ed-28]: Editorial note: The Chinese text calls the seventy-five people members. A historical study describes them as staff; the group’s wider membership was much larger. Sources: https://www.rahs-open-lid.com/wp-content/uploads/2024/01/Terry-Janice-J.-U.S.-Foreign-Policy-in-the-Middle-East_-The-Role-of-Lobbies-and-Special-Interest-Groups-Pluto-Press-2005.pdf and https://www.reaganlibrary.gov/sites/default/files/2025-09/40-219-6927398-028-010-2025.pdf
+[^ed-29]: Editorial note: The Chinese gives only the candidates’ surnames. The full names come from Washington State’s 1988 voters’ pamphlet. Source: https://www.sos.wa.gov/sites/default/files/2025-05/SL_voterspamphlet_1988_ed6.pdf
+[^ed-30]: Editorial note: The supplied Chinese text states this, but Dukakis supported abortion rights and opposed an amendment to restrict them. Source: https://millercenter.org/the-presidency/presidential-speeches/september-25-1988-debate-michael-dukakis
+[^ed-31]: Editorial note: The Chinese text describes a winner-take-all rule for every state. Maine used a congressional-district method in 1988; Nebraska now does so too. Source: https://www.archives.gov/electoral-college/allocation
+[^ed-32]: Editorial note: Iowa State University identifies the banker as John Chrystal and records his campaign for the 1990 Democratic primary. He was not the Democratic nominee for governor in 1988. Source: https://findingaids.lib.iastate.edu/spcl/manuscripts/MS422.html
+[^ed-33]: Editorial note: The Chinese calls the senator “Jane”. The identification is an inference: Jean Lloyd-Jones was the Democratic state senator for the Iowa City district at the time. Source: https://www.johnsoncountyiowa.gov/november-4-1986-general-election
+[^ed-34]: Editorial note: The supplied Chinese transcription spells the candidate’s name “Redfeln”. Official election records give Donald B. Redfern. Source: https://johnsoncountyiowa.gov/november-8-1988-general-election
+[^ed-35]: Editorial note: Wang reports approximately 47 million votes for Bush, 41 million for Dukakis and 112 electoral votes for Dukakis; those figures differ from the final results. In the final Electoral College vote, a West Virginia elector voted for Bentsen as president. Sources: https://www.archives.gov/electoral-college/1988 and https://www.presidency.ucsb.edu/statistics/elections/1988
+[^ed-36]: Editorial note: The supplied transcription’s “Fuluhi” refers to the Massachusetts prison furlough programme. Source: https://time.com/archive/6713808/nine-key-moments-1988-campaign/
+[^ed-37]: Editorial note: The Chinese names Professor Sinclair and places her at Berkeley. Barbara Sinclair, a specialist on Congress at UC Riverside, observed the Speaker’s office in this period. Her identification is an inference from her work and position. Sources: https://www.americanprogress.org/events/checks-and-balances/ and https://digicoll.lib.berkeley.edu/record/82081/files/C098095996.pdf
+[^ed-38]: Editorial note: The supplied Chinese text says the county is almost twice the size of the Netherlands. San Bernardino County covers about 20,000 square miles; the Netherlands is smaller but not half that size. Sources: https://indicators.sbcounty.gov/county-profile/ and https://european-union.europa.eu/principles-countries-history/eu-countries/netherlands_nl
+[^ed-39]: Editorial note: The supplied Chinese transcription spells this name “Herbert Sidney Ducombe”. The author of *County Government in America* was Herbert Sydney Duncombe. Source: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/CBED3A5CCF3C9BFA21C4235B1CAB4DE4/S0003055400128163a.pdf/psr_volume_60_issue_4_cover_and_back_matter.pdf
+[^ed-40]: Editorial note: The supplied Chinese transcription prints “John Mc Donald”. His name was John McDonald. Source: https://dailyiowan.lib.uiowa.edu/DI/1988/di1988-01-19.pdf
+[^ed-41]: Editorial note: “Jack Newman” is an approximate rendering of the name in the Chinese transcription. Its original English spelling has not been confirmed.
+[^ed-42]: Editorial note: The supplied Chinese text says sales reached only two million dollars by 1930 and suggests they had merely doubled since 1859. A historical study puts 1930 sales at over two hundred million dollars. Source: https://citeseerx.ist.psu.edu/document?doi=49cd6d91f68cbd83ba637f5faa3389962e1d6a16&repid=rep1&type=pdf
+[^ed-43]: Editorial note: The supplied Chinese text says agriculture and planning. MIT had a School of Architecture and Planning. Source: https://dome.mit.edu/bitstream/handle/1721.3/82790/AC0598_001958.pdf?isAllowed=y&sequence=1
+[^ed-44]: Editorial note: The Chinese does not name the ambassador. Congressional records identify him as Arnold Raphel, who held the post when he died and had studied at the Maxwell School. Source: https://www.congress.gov/100/crecb/1988/09/14/GPO-CRECB-1988-pt16-6.pdf
+[^ed-45]: Editorial note: Wang gives these reading titles in Chinese. The English titles here are translations and may differ from the original titles.
+[^ed-46]: Editorial note: The supplied Chinese transcription spells the name “Pahrendorf”. The scholar is likely Ralf Dahrendorf, who wrote on the governability of democracies. Source: https://www.leo-bw.de/en/detail/-/Detail/details/DOKUMENT/bsz_swb/1636574688/Effectiveness%20and%20legitimacy%20On%20the%20%22governability%22%20of%20democracies%20Ralf%20Dahrendorf
+[^ed-47]: Editorial note: The supplied Chinese transcription spells the name “Baumal”. The economist is likely William J. Baumol, who wrote on productivity growth. Source: https://academic.oup.com/ia/article-abstract/62/1/164/2568404
+[^ed-48]: Editorial note: The supplied Chinese text calls the location “Jackson Lake”. The museum is in Jackson Park near Lake Michigan. Source: https://www.lib.uchicago.edu/ead/pdf/century0043.pdf
+[^ed-49]: Editorial note: The supplied Chinese text places the visit in San Francisco; Stanford is near Palo Alto, south of the city. Source: https://www.stanford.edu/about/
+[^ed-50]: Editorial note: The supplied Chinese text says the Hoover Institution is not part of Stanford. Stanford includes it among its research institutions. Source: https://web.stanford.edu/dept/registrar/bulletin_past/pdf/IndResLabIns.pdf
+[^ed-51]: Editorial note: The Chinese gives the director’s surname. Berkeley records identify him as Nelson W. Polsby. Source: https://digicoll.lib.berkeley.edu/record/82261/files/C3538020.pdf
+[^ed-52]: Editorial note: The supplied Chinese text calls the center partly commercial. The organization was founded as a nonprofit. Source: https://www.cartercenter.org/resources/pdfs/pdf-archive/annualreport1995-96-01011997.pdf
+[^ed-53]: Editorial note: The supplied Chinese text gives 15,000 residents and 35,000 students, but says their combined total was 60,000.
+[^ed-54]: Editorial note: Wang gives a Chinese title for Rubin’s book. Its published English title is *The Youngest Outlaws: Runaways in America*. Source: https://ojp.gov/pdffiles1/Digitization/114651-114653NCJRS.pdf
+[^ed-55]: Editorial note: The young people’s names are rendered from Chinese; their original English spellings in Rubin’s book have not been confirmed.
+[^ed-56]: Editorial note: Wang does not name the film. The story he describes closely matches *The Principal* (1987); the identification is an inference. Source: https://catalog.afi.com/Film/57789-THE-PRINCIPAL?cxt=filmography
+[^ed-57]: Editorial note: “Tim Osiki” is an approximate rendering of the name in the Chinese transcription; the spelling used in the magazine has not been confirmed.
+[^ed-58]: Editorial note: This title is translated from the Chinese; the work’s original English title has not been confirmed.
+[^ed-59]: Editorial note: The Chinese text says January 1988. January 1989 fits the dates of Wang’s visit and the surrounding entries, which run from August to December 1988. This correction is an inference.
+[^ed-60]: Editorial note: The date in the supplied Chinese text appears to be wrong: McJunkin found the site in 1908 and died in 1922. Source: https://www.nps.gov/articles/000/places-of-black-cowpokes.htm
+[^ed-61]: Editorial note: Wang gives the title in Chinese. The apparent English original is *America: Its People and Values*, a US history textbook that discusses Native Americans; this identification is an inference. Source: https://files.eric.ed.gov/fulltext/ED135905.pdf
+[^ed-62]: Editorial note: The supplied Chinese text interprets the “wolf” as Native Americans. Jefferson was discussing slavery and the Missouri question. Source: https://www.monticello.org/encyclopedia/wolf-ear-quotation
+[^ed-63]: Editorial note: The supplied Chinese text gives a figure of 500,000. A Census Bureau estimate for July 1988 counted about 1.699 million people in its American Indian, Eskimo or Aleut category. Source: https://www2.census.gov/library/publications/1990/demographics/P25-1045.pdf
+[^ed-64]: Editorial note: The supplied Chinese text dates the book to just before the end of the war. It grew out of wartime research but was published in 1946. Source: https://anthropology.columbia.edu/content/benedict
+[^ed-65]: Editorial note: The Chinese text describes the purchaser as anonymous. The day after the sale, Mitsukoshi identified itself as the buyer. Source: https://www.deseret.com/1988/11/29/18786021/1905-picasso-sells-for-record-38-million/
+[^ed-66]: Editorial note: The Chinese text gives $17,244 for Japan and $16,709 for the United States in 1985. The World Bank’s comparable figures for that year differ. Dollar comparisons depend on the method used to convert currencies. Source: https://documents1.worldbank.org/curated/en/757601497542809797/pdf/99106-PUB-v2-Box393192B-OUO-9-add-series-World-tables.pdf

@@ -357,7 +357,19 @@
     return b.sourceOriginIds ||= [...new Set(b.mapped.flatMap(x => (x.members || [x.el]).flatMap(el => [el.id, ...[...el.querySelectorAll('[id]')].map(n => n.id)])).filter(Boolean))];
   }
   function loadDraft() {
-    const raw = safeStore.get(draftKey);
+    let raw = safeStore.get(draftKey);
+    if (!raw && Array.isArray(CFG.previousVersions)) {
+      for (const version of CFG.previousVersions) {
+        const previous = safeStore.get(`tmoc-review-draft:${CFG.slug}:${version}`);
+        if (!previous) continue;
+        try {
+          JSON.parse(previous);
+          raw = previous;
+          safeStore.set(draftKey, previous);
+          break;
+        } catch {}
+      }
+    }
     if (raw) { try { const d = JSON.parse(raw); draft = { selected: Array.isArray(d.selected) ? d.selected : [], edits: d.edits || {}, notes: d.notes || {}, createdAt: d.createdAt || null, updatedAt: d.updatedAt || null }; } catch {} }
     draft.selected = draft.selected.filter(id => blockMap.has(id));
     if (!draft.createdAt) draft.createdAt = new Date().toISOString();

@@ -3,7 +3,7 @@
   "initiallyCollapsed": true,
   "languages": {
     "en": {
-      "sourceHash": "d8e7736ca0d5e200f3ebc1187bc5bcd7925a10662f2c35df0956e418d2f021d5",
+      "sourceHash": "f6d04129ee20e50d922a05fc1c119f72b2703c0f75377e6c98be90aa405bb043",
       "entries": [
         {
           "id": "passage-en-00009",
@@ -592,6 +592,12 @@
           "level": 2,
           "kind": "section",
           "label": "10. The Empire of the Sun"
+        },
+        {
+          "id": "en-editorial-notes",
+          "level": 1,
+          "kind": "chapter",
+          "label": "Editorial notes"
         }
       ]
     },

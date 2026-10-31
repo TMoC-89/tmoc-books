@@ -39,7 +39,10 @@
     "title": "America Against America",
     "sourceLanguage": "zh",
     "sourceLabel": "Chinese original",
-    "version": "ce51c4b456f0b2a4",
+    "version": "06a833322224628c",
+    "previousVersions": [
+      "ce51c4b456f0b2a4"
+    ],
     "englishMarkdown": "America Against America - English.md",
     "sourceMarkdown": "美国反对美国 - 中文.md"
   },
@@ -534,6 +537,11 @@
         "id": "passage-en-03232",
         "title": "10. The Empire of the Sun",
         "level": 2
+      },
+      {
+        "id": "en-editorial-notes",
+        "title": "Editorial notes",
+        "level": 1
       }
     ],
     "zh": [

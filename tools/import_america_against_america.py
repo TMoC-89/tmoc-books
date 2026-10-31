@@ -18,7 +18,8 @@ import re
 import shutil
 import zipfile
 from pathlib import Path
-from import_en_islam_iranien import Renderer, parse_blocks, plain, LABELS
+from urllib.parse import urlsplit
+from import_en_islam_iranien import Renderer, parse_blocks, parse_notes, plain, LABELS
 
 ROOT = Path(__file__).resolve().parents[1]
 SLUG = 'america-against-america'
@@ -42,6 +43,7 @@ def clean_source(text, lang):
 
 
 def split_chapters(text, lang):
+    text = text.split('\n# Editorial Notes\n', 1)[0]
     blocks=parse_blocks(text.splitlines())
     heads=[(i,b) for i,b in enumerate(blocks) if b['type']=='h']
     assert heads and heads[0][1]['level']==1
@@ -79,8 +81,10 @@ def split_chapters(text, lang):
 
 
 def render(text,lang):
-    sections,counts=split_chapters(text,lang)
-    r=Renderer(lang,None,{})
+    body, separator, note_text = text.partition('\n# Editorial Notes\n')
+    notes = parse_notes(note_text.splitlines()) if separator else {}
+    sections,counts=split_chapters(body,lang)
+    r=Renderer(lang,None,notes)
     parts=[f'<div class="language-view" data-lang="{lang}">']
     nav=[]
     opening={'en':('Opening pages','Preface','Printed contents'),
@@ -104,9 +108,18 @@ def render(text,lang):
                else next((x for x in reversed(titles) if not CHAPTER.match(x) and not CJK_CHAPTER.match(x)),titles[-1] if titles else key))
         cls=' title-pages' if key=='opening' else ' printed-contents' if key=='contents' else ''
         parts.append(f'<section class="book-section{cls}" id="{lang}-{key}" data-key="{key}" data-title="{html.escape(title,quote=True)}" lang="{lang}" dir="ltr">\n{content}\n</section>')
+    assert set(r.refs)==set(notes),(lang,'missing or unused editorial notes',set(r.refs)^set(notes))
+    if notes:
+        entries=[]
+        for key, note in notes.items():
+            number=int(key.rsplit('-',1)[1])
+            escaped=html.escape(note)
+            escaped=re.sub(r'https://[^\s)]+', lambda m: f'<a href="{m.group(0)}">{html.escape(urlsplit(html.unescape(m.group(0))).netloc.removeprefix("www."))}</a>', escaped)
+            entries.append(f'<li id="note-{lang}-{key}" value="{number}"><p>{escaped} <a class="backref" href="#ref-{lang}-{key}" aria-label="Back to text {number}">↩</a></p></li>')
+        parts.append(f'<section class="book-section notes" id="{lang}-editorial-notes" data-key="editorial-notes" data-title="Editorial notes" lang="{lang}" dir="ltr"><h2>Editorial notes</h2><ol class="notes-list">'+''.join(entries)+'</ol></section>')
+        nav.append({'id':f'{lang}-editorial-notes','title':'Editorial notes','level':1})
     parts.append('</div>')
-    assert not r.refs,(lang,'unexpected footnotes')
-    assert len(nav)==98,(lang,len(nav)) # 2 front matter, 11 chapter headings, 85 sections
+    assert len(nav)==98+(1 if notes else 0),(lang,len(nav))
     return '\n'.join(parts),nav,counts
 
 
@@ -147,6 +160,7 @@ def main():
       'downloads':downloads,'bilingualZip':'America Against America - Complete Bilingual Markdown.zip','home':{'href':'../','label':'Library'},
       'review':{'slug':SLUG,'title':'America Against America','sourceLanguage':'zh',
                 'sourceLabel':'Chinese original','version':hashlib.sha256((target/downloads['en']).read_bytes()+(target/downloads['zh']).read_bytes()).hexdigest()[:16],
+                'previousVersions':['ce51c4b456f0b2a4'],
                 'englishMarkdown':downloads['en'],'sourceMarkdown':downloads['zh']},
       'nav':nav,'contentsFile':'contents.json',
     }
@@ -164,6 +178,6 @@ def main():
     library.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     with zipfile.ZipFile(target/'America Against America - Complete Bilingual Markdown.zip','w',zipfile.ZIP_DEFLATED,compresslevel=9) as z:
         for l in ['en','zh']:z.write(target/downloads[l],downloads[l])
-    print('Imported: 11 chapters, 85 sections, 98 curated contents links per language; bilingual Markdown ZIP ready.')
+    print('Imported: 11 chapters, 85 sections, reviewed contents and editorial notes; bilingual Markdown ZIP ready.')
 
 if __name__=='__main__': main()

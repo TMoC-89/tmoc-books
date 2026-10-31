@@ -139,11 +139,17 @@ Shanghai Literature and Art Publishing House in 1991.
 Its 85 numbered sections correspond exactly across the two source files. The
 importer preserves these relationships using section keys such as
 `chapter-05-section-03`, and publishes 98 navigation entries per language:
-Preface, printed Contents, 11 chapter titles, and 85 section titles. A reviewed,
+Preface, printed Contents, 11 chapter titles, and 85 section titles. The English
+navigation also has an Editorial notes entry. A reviewed,
 hash-checked `contents.json` uses the **same explicit table-of-contents review**
 introduced for *The Four Journeys*, with chapters expanded only when a reader
 requests them. The Chinese headings have been standardized to `## 1. 标题`, etc.;
-the prose and translation have not been rewritten or shortened.
+the original import did not rewrite or shorten the prose or translation. Later
+English corrections appear in the text, with numbered editorial notes and sources.
+The Chinese transcription is unchanged. The English Markdown includes an
+`# Editorial Notes` section with one `[^ed-N]:` definition per line, in reading
+order; the importer builds the corresponding notes page and keeps earlier
+passage IDs stable. Details are in the edition notes.
 
 To regenerate, run:
 
