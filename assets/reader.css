@@ -70,18 +70,14 @@ html[data-lang="zh"] .language-view[data-lang="zh"] { display: block; }
 .bar-title .current:not(:disabled):hover { color: var(--text); }
 .bar-title .current:not(:empty)::before { content: "/"; margin-inline-end: 10px; color: var(--line-strong); }
 .bar-title .current[dir="rtl"] { font-family: var(--arabic); font-size: 14px; text-align: left; }
-/* Compact previous/next controls, always available while reading. */
-.section-controls {
-  display: flex; align-items: center; flex: none; overflow: hidden;
-  border: 1px solid var(--line); border-radius: 8px; background: var(--surface-2);
-}
-.section-controls .icon-btn { width: 38px; min-width: 38px; height: 36px; padding: 0; border-radius: 0; }
-.section-controls .icon-btn + .icon-btn { border-inline-start: 1px solid var(--line); }
+.section-controls { display: flex; align-items: center; flex: none; }
+.section-controls .icon-btn { border: 0; background: transparent; min-width: 40px; padding: 0 8px; }
 .section-controls .icon-btn .i { width: 17px; height: 17px; }
 .section-controls .icon-btn:disabled { opacity: .35; cursor: default; }
-.section-controls .icon-btn:not(:disabled):hover { background: var(--accent-soft); }
+.section-controls .icon-btn + .icon-btn { position: relative; margin-inline-start: 6px; padding-inline-start: 16px; }
+.section-controls .icon-btn + .icon-btn::before { content: ""; position: absolute; inset-block: 8px; inset-inline-start: 0; width: 1px; background: var(--line); }
 html[data-lang="ar"] .section-controls { direction: rtl; }
-html[data-lang="ar"] .section-controls .i { transform: scaleX(-1); }
+html[data-lang="ar"] .section-controls .icon-btn .i { transform: scaleX(-1); }
 .controls { display: flex; align-items: center; gap: 2px; flex: none; }
 .lang-btn { min-width: 50px; font-size: 14px; }
 .lang-btn [lang="ar"] { font-size: 16px; font-weight: 600; }
@@ -348,7 +344,8 @@ html[data-theme="dark"] .facsimile.plate img { filter: invert(.9) hue-rotate(180
 .language-view[data-lang="ar"] .book-section > :is(h1, h2):first-child { font-size: clamp(30px, 4vw, 42px); }
 .language-view[data-lang="ar"] .book-section blockquote { padding: .1em 1.25em .1em 0; border-left: 0; border-right: 2px solid var(--accent-line); }
 
-/* ---------- Separate-volume navigation & footer ------------------------------------------- */
+/* ---------- Pagers & footer --------------------------------------------------------------- */
+/* ---------- Separate-volume navigation & footer ------------------------------------------ */
 .series-pager {
   width: min(var(--measure), calc(100% - 2 * var(--gutter))); margin: 40px auto 0; padding-top: 28px;
   border-top: 1px solid var(--line); display: grid; grid-template-columns: 1fr 1fr; gap: 12px; direction: ltr;
@@ -422,11 +419,12 @@ html[data-theme="dark"] mark.search-hit { background: color-mix(in srgb, #e2b93b
   .bar-title .current:empty::after { content: attr(data-fallback); color: var(--text); font-weight: 600; }
   .icon-btn { min-width: 40px; padding: 0 8px; }
   .book-section { padding-top: 62px; }
+  .section-controls .icon-btn { min-width: 38px; padding: 0 6px; }
+  .section-controls .icon-btn + .icon-btn { margin-inline-start: 4px; padding-inline-start: 12px; }
   /* No automatic hyphenation: on Android it loads a dictionary and slows every re-layout of a book. */
   .book-section p, .book-section li { hyphens: manual; -webkit-hyphens: manual; }
   .series-pager { grid-template-columns: 1fr; }
   .series-pager a.next { grid-column: 1; }
-  .section-controls .icon-btn { width: 40px; min-width: 40px; height: 40px; }
   .cover { padding-top: 56px; }
   .cover-actions { margin-top: 36px; }
   .cover-actions .btn { width: 100%; }
@@ -450,7 +448,7 @@ html[data-theme="dark"] mark.search-hit { background: color-mix(in srgb, #e2b93b
 .side-heading [lang="ar"], .volume-switch .side-heading [lang="ar"] { font: 600 14px/1.4 var(--arabic); letter-spacing: 0; text-transform: none; }
 .side-link [lang="ar"] { font-family: var(--arabic); font-size: 15px; }
 .bar-title .current[dir="rtl"]::before { display: none; }
-.bar-title .current[dir="rtl"] { padding-left: 10px; border-left: 1px solid var(--line-strong); }
+.bar-title .current[dir="rtl"] { padding-left: 0; border-left: 0; }
 
 /* Nine-volume works: keep the full volume selector legible without scrolling sideways. */
 .volume-switch:has(li:nth-child(9)) ol { grid-template-columns: repeat(5, minmax(0, 1fr)); }
@@ -468,4 +466,6 @@ html[data-lang="zh"] .cover h1 { font-size: clamp(38px,5.4vw,66px); }
 html[data-lang="zh"] .cover .author, html[data-lang="zh"] .cover .edition, html[data-lang="zh"] .cover .eyebrow { font-family: var(--chinese-ui); letter-spacing: 0; }
 html[data-lang="zh"] .cover-actions .btn, html[data-lang="zh"] .site-footer { font-family: var(--chinese-ui); }
 .toc[data-l="zh"] a { font-family: var(--chinese-ui); font-size: 14px; line-height: 1.5; }
+.language-view[data-lang="zh"] .pager-link { font-family: var(--chinese-ui); }
+.language-view[data-lang="zh"] .pager-link span { letter-spacing: 0; }
 .language-view[data-lang="zh"] .book-section blockquote { border-inline-start: 2px solid var(--accent-line); }
