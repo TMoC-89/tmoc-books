@@ -160,7 +160,7 @@ def main():
       'downloads':downloads,'bilingualZip':'America Against America - Complete Bilingual Markdown.zip','home':{'href':'../','label':'Library'},
       'review':{'slug':SLUG,'title':'America Against America','sourceLanguage':'zh',
                 'sourceLabel':'Chinese original','version':hashlib.sha256((target/downloads['en']).read_bytes()+(target/downloads['zh']).read_bytes()).hexdigest()[:16],
-                'previousVersions':['ce51c4b456f0b2a4'],
+                'previousVersions':['06a833322224628c','ce51c4b456f0b2a4'],
                 'englishMarkdown':downloads['en'],'sourceMarkdown':downloads['zh']},
       'nav':nav,'contentsFile':'contents.json',
     }

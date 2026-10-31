@@ -50,7 +50,7 @@ Today we see the opposite extreme. Some people imagine America as a glittering p
 
 And within American society itself, forces that help the country grow exist alongside forces that hold it back or work against it. Wherever we find one, we can usually find the other. That is the meaning of the title.
 
-This is true of human societies in general. No society is one solid, unchanging block. None can be squeezed into a single ready-made description. I want to discover what produces these opposing forces inside America. If someone asks us to describe America in one sentence, perhaps all we can say is: **America is against America.**
+This is true of human societies in general. No society is one solid, unchanging mass. None can be squeezed into a single ready-made description. I want to discover what produces these opposing forces inside America. If someone asks us to describe America in one sentence, perhaps all we can say is: **America is against America.**
 
 The more closely we study the country, the more clearly these contradictions appear. To study a society seriously, we cannot paint everything rosy or cover everything in soot. We need to see both its strengths and its failings. A willingness to question existing arrangements is one of the forces that makes progress possible. That is the attitude I take toward America.
 
