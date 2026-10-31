@@ -64,9 +64,24 @@ html[data-lang="zh"] .language-view[data-lang="zh"] { display: block; }
 .bar-title .current {
   flex: 1 1 0; min-width: 0; overflow: hidden; text-overflow: ellipsis;
   color: var(--muted); font: 13px/1.2 var(--ui);
+  padding: 0; border: 0; background: transparent; text-align: start; cursor: pointer;
 }
+.bar-title .current:disabled { opacity: 1; cursor: default; }
+.bar-title .current:not(:disabled):hover { color: var(--text); }
 .bar-title .current:not(:empty)::before { content: "/"; margin-inline-end: 10px; color: var(--line-strong); }
 .bar-title .current[dir="rtl"] { font-family: var(--arabic); font-size: 14px; text-align: left; }
+/* Compact previous/next controls, always available while reading. */
+.section-controls {
+  display: flex; align-items: center; flex: none; overflow: hidden;
+  border: 1px solid var(--line); border-radius: 8px; background: var(--surface-2);
+}
+.section-controls .icon-btn { width: 38px; min-width: 38px; height: 36px; padding: 0; border-radius: 0; }
+.section-controls .icon-btn + .icon-btn { border-inline-start: 1px solid var(--line); }
+.section-controls .icon-btn .i { width: 17px; height: 17px; }
+.section-controls .icon-btn:disabled { opacity: .35; cursor: default; }
+.section-controls .icon-btn:not(:disabled):hover { background: var(--accent-soft); }
+html[data-lang="ar"] .section-controls { direction: rtl; }
+html[data-lang="ar"] .section-controls .i { transform: scaleX(-1); }
 .controls { display: flex; align-items: center; gap: 2px; flex: none; }
 .lang-btn { min-width: 50px; font-size: 14px; }
 .lang-btn [lang="ar"] { font-size: 16px; font-weight: 600; }
@@ -211,7 +226,7 @@ html[data-lang="ar"] .cover-actions .btn { font-family: var(--arabic); font-size
 /* ---------- Book text ----------------------------------------------------------------------- */
 .book-section {
   width: min(var(--measure), calc(100% - 2 * var(--gutter)));
-  margin: 0 auto; padding: 88px 0 40px;
+  margin: 0 auto; padding: 76px 0 32px;
   font: 400 var(--reader-size)/1.7 var(--serif);
   overflow-wrap: break-word;
   font-kerning: normal; font-variant-ligatures: common-ligatures;
@@ -333,21 +348,7 @@ html[data-theme="dark"] .facsimile.plate img { filter: invert(.9) hue-rotate(180
 .language-view[data-lang="ar"] .book-section > :is(h1, h2):first-child { font-size: clamp(30px, 4vw, 42px); }
 .language-view[data-lang="ar"] .book-section blockquote { padding: .1em 1.25em .1em 0; border-left: 0; border-right: 2px solid var(--accent-line); }
 
-/* ---------- Pagers & footer --------------------------------------------------------------- */
-.chapter-pager { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 64px; }
-.pager-link {
-  display: flex; flex-direction: column; gap: 5px; min-width: 0; padding: 14px 16px;
-  border: 1px solid var(--line); border-radius: 8px; text-decoration: none !important;
-  color: var(--text) !important; font-family: var(--ui);
-}
-.pager-link:hover { border-color: var(--accent-line); background: var(--accent-soft); }
-.pager-link span { color: var(--muted); font-size: 11px; letter-spacing: .1em; text-transform: uppercase; }
-.pager-link strong { font-size: 14px; line-height: 1.35; font-weight: 600; }
-.pager-link.next { grid-column: 2; text-align: end; align-items: flex-end; }
-.language-view[data-lang="ar"] .pager-link { font-family: var(--arabic); }
-.language-view[data-lang="ar"] .pager-link span { letter-spacing: 0; font-size: 13px; }
-.language-view[data-lang="ar"] .pager-link strong { font-size: 16px; }
-
+/* ---------- Separate-volume navigation & footer ------------------------------------------- */
 .series-pager {
   width: min(var(--measure), calc(100% - 2 * var(--gutter))); margin: 40px auto 0; padding-top: 28px;
   border-top: 1px solid var(--line); display: grid; grid-template-columns: 1fr 1fr; gap: 12px; direction: ltr;
@@ -417,14 +418,15 @@ html[data-theme="dark"] mark.search-hit { background: color-mix(in srgb, #e2b93b
   .topbar .home-mark, .bar-title .book-link, .bar-title .volume-badge, .bar-divider { display: none; }
   .bar-title { padding: 0 4px; }
   .bar-title .current::before { display: none; }
-  .bar-title .current, .bar-title .current[dir="rtl"] { color: var(--text); font-weight: 600; border: 0; padding: 0; }
+  .bar-title .current, .bar-title .current[dir="rtl"] { color: var(--text); font-weight: 600; border: 0; padding: 0; text-align: start; }
   .bar-title .current:empty::after { content: attr(data-fallback); color: var(--text); font-weight: 600; }
   .icon-btn { min-width: 40px; padding: 0 8px; }
-  .book-section { padding-top: 64px; }
+  .book-section { padding-top: 62px; }
   /* No automatic hyphenation: on Android it loads a dictionary and slows every re-layout of a book. */
   .book-section p, .book-section li { hyphens: manual; -webkit-hyphens: manual; }
-  .chapter-pager, .series-pager { grid-template-columns: 1fr; }
-  .pager-link.next, .series-pager a.next { grid-column: 1; }
+  .series-pager { grid-template-columns: 1fr; }
+  .series-pager a.next { grid-column: 1; }
+  .section-controls .icon-btn { width: 40px; min-width: 40px; height: 40px; }
   .cover { padding-top: 56px; }
   .cover-actions { margin-top: 36px; }
   .cover-actions .btn { width: 100%; }
@@ -435,7 +437,7 @@ html[data-theme="dark"] mark.search-hit { background: color-mix(in srgb, #e2b93b
 }
 
 @media print {
-  .topbar, .sidebar, .sidebar-backdrop, #progress, .chapter-pager, .series-pager, .cover-actions, .note-pop, .toast, .popover { display: none !important; }
+  .topbar, .sidebar, .sidebar-backdrop, #progress, .series-pager, .cover-actions, .note-pop, .toast, .popover { display: none !important; }
   .main { margin: 0 !important; }
   .layout { padding: 0; }
   body { background: #fff; color: #000; }
@@ -466,6 +468,4 @@ html[data-lang="zh"] .cover h1 { font-size: clamp(38px,5.4vw,66px); }
 html[data-lang="zh"] .cover .author, html[data-lang="zh"] .cover .edition, html[data-lang="zh"] .cover .eyebrow { font-family: var(--chinese-ui); letter-spacing: 0; }
 html[data-lang="zh"] .cover-actions .btn, html[data-lang="zh"] .site-footer { font-family: var(--chinese-ui); }
 .toc[data-l="zh"] a { font-family: var(--chinese-ui); font-size: 14px; line-height: 1.5; }
-.language-view[data-lang="zh"] .pager-link { font-family: var(--chinese-ui); }
-.language-view[data-lang="zh"] .pager-link span { letter-spacing: 0; }
 .language-view[data-lang="zh"] .book-section blockquote { border-inline-start: 2px solid var(--accent-line); }

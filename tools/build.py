@@ -74,6 +74,7 @@ ICONS = {
     'auto': '<circle cx="12" cy="12" r="8"/><path d="M12 4v16" /><path d="M12 4a8 8 0 0 1 0 16Z" fill="currentColor" stroke="none"/>',
     'type': '<path d="M3 19 8 6l5 13M4.8 14.5h6.4"/><path d="M14.5 19l3.5-9 3.5 9M15.6 16h4.8"/>',
     'chevron': '<path d="m9 6 6 6-6 6"/>',
+    'chevron-left': '<path d="m15 6-6 6 6 6"/>',
     'bookmark': '<path d="M7 4h10v16l-5-3.5L7 20V4Z"/>',
     'book': '<path d="M12 6.5C9.5 5 6.5 4.5 3.5 5v13c3-.5 6 0 8.5 1.5 2.5-1.5 5.5-2 8.5-1.5V5c-3-.5-6 0-8.5 1.5Zm0 0V19.5"/>',
     'exit': '<path d="M15 12H4M9 7l-5 5 5 5M13 4h6v16h-6"/>',
@@ -160,21 +161,8 @@ def parse_content(content):
     return views
 
 
-def pager_html(lang, prev, nxt):
-    ar = lang == 'ar'
-    words = {'ar': ('السابق', 'التالي'), 'fr': ('Précédent', 'Suivant'), 'zh': ('上一节', '下一节')}.get(lang, ('Previous', 'Next'))
-    label = {'ar': 'التنقل بين الفصول', 'fr': 'Navigation entre les chapitres', 'zh': '章节导航'}.get(lang, 'Chapter navigation')
-    out = [f'<nav class="chapter-pager" aria-label="{label}">']
-    if prev:
-        out.append(f'<a class="pager-link prev" href="#{esc(prev["id"])}" data-key="{esc(prev["key"])}"><span>{words[0]}</span><strong>{esc(prev["title"])}</strong></a>')
-    if nxt:
-        out.append(f'<a class="pager-link next" href="#{esc(nxt["id"])}" data-key="{esc(nxt["key"])}"><span>{words[1]}</span><strong>{esc(nxt["title"])}</strong></a>')
-    out.append('</nav>')
-    return ''.join(out)
-
-
 def normalise_content(content):
-    """Idempotent clean-up: regenerate chapter pagers and make sure each section has a key."""
+    """Idempotent clean-up: remove old in-text pagers and keep section metadata."""
     content = PAGER.sub('', content)
     content = VIEW_LOOSE.sub(lambda m: f'<div class="language-view" data-lang="{m.group(1)}">', content)
     views = parse_content(content)
@@ -191,16 +179,6 @@ def normalise_content(content):
             new_tag = tag[:-1] + f' data-chars="{chars}">'
             if new_tag != s['tag']:
                 edits.append((s['open'], len(s['tag']), new_tag))
-        groups = []
-        for s in secs:
-            if attr(s['tag'], 'data-continuation') == 'true' and groups:
-                groups[-1].append(s)
-            else:
-                groups.append([s])
-        for i, group in enumerate(groups):
-            prev = groups[i - 1][0] if i else None
-            nxt = groups[i + 1][0] if i + 1 < len(groups) else None
-            edits.append((group[-1]['close'], 0, pager_html(v['lang'], prev, nxt)))
     for pos, dl, ins in sorted(edits, key=lambda e: e[0], reverse=True):
         content = content[:pos] + ins + content[pos + dl:]
     return content, parse_content(content)
@@ -406,7 +384,7 @@ def render_reader(book, library, content, views, prefix, site):
         parts.append(f'<script src="{asset("assets/reviewer.js", prefix)}" defer></script>\n')
     parts.append(f'<script src="{asset("assets/reader.js", prefix)}" defer></script>\n')
     parts.append('</head>\n<body class="reader">\n')
-    parts.append(icon_sprite(['sidebar', 'close', 'search', 'back', 'arrow-down', 'download', 'review', 'check', 'sun', 'moon', 'auto', 'type', 'chevron', 'bookmark', 'exit', 'arrow-right']))
+    parts.append(icon_sprite(['sidebar', 'close', 'search', 'back', 'arrow-down', 'download', 'review', 'check', 'sun', 'moon', 'auto', 'type', 'chevron', 'chevron-left', 'bookmark', 'exit', 'arrow-right']))
     parts.append(f'\n<a class="skip-link" href="#{esc(first_ids.get(langs[0], "top"))}">Skip to the text</a>\n<div id="progress" aria-hidden="true"></div>\n')
 
     # top bar
@@ -428,7 +406,11 @@ def render_reader(book, library, content, views, prefix, site):
     parts.append(f'''<header class="topbar">
 <button class="icon-btn" id="menu-toggle" type="button" aria-controls="sidebar" aria-expanded="true" aria-label="Hide contents">{icon("sidebar")}</button>
 <a class="icon-btn home-mark" href="{prefix}" aria-label="{esc(site['name'])} — all books" title="{esc(site['name'])} — all books">{LOGO}</a>
-<div class="bar-title"><a class="book-link" href="#top" title="{esc(title_en)}">{both(book['title'], langs)}</a>{badge}<span class="current" data-fallback="{esc(title_en)}"></span></div>
+<div class="bar-title"><a class="book-link" href="#top" title="{esc(title_en)}">{both(book['title'], langs)}</a>{badge}<button class="current" id="current-section" type="button" disabled data-fallback="{esc(title_en)}"></button></div>
+<nav class="section-controls reading-only" aria-label="Section navigation">
+<button class="icon-btn" id="section-prev" type="button" aria-label="Previous section" title="Previous section" disabled>{icon("chevron-left")}</button>
+<button class="icon-btn" id="section-next" type="button" aria-label="Next section" title="Next section" disabled>{icon("chevron")}</button>
+</nav>
 <div class="controls">
 <button class="icon-btn" id="settings-toggle" type="button" aria-controls="settings" aria-expanded="false" aria-label="Text size and theme" title="Text size and theme">{icon("type")}</button>
 {lang_btn}{review_btn}

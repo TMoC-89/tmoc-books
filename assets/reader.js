@@ -148,13 +148,73 @@
   }
   $$('.toc-toggle').forEach(btn => btn.addEventListener('click', () => setExpanded(btn.closest('li'), btn.getAttribute('aria-expanded') !== 'true')));
 
-  const sidebar = $('.sidebar');
+  /* The arrows follow every contents link, including headings nested within a
+     book-section. Never infer the next destination from top-level sections. */
+  const prevSection = $('#section-prev'), nextSection = $('#section-next');
+  const currentSection = $('#current-section');
+  const stepCache = new Map();
+  const stepWords = {
+    en: ['Previous section', 'Next section', 'Go to start of'],
+    ar: ['القسم السابق', 'القسم التالي', 'الانتقال إلى بداية'],
+    fr: ['Section précédente', 'Section suivante', 'Aller au début de'],
+    zh: ['上一节', '下一节', '跳转到开头'],
+  };
+  function contentsSteps(l = lang) {
+    if (!stepCache.has(l)) {
+      const view = views.get(l);
+      const toc = $$('.toc').find(t => t.dataset.l === l);
+      stepCache.set(l, toc && view ? $$('a[href^="#"]', toc).map(a => ({
+        a, id: decodeURIComponent(a.hash.slice(1)),
+        title: a.dataset.title || a.textContent.trim(),
+      })).filter(item => view.contains(document.getElementById(item.id))) : []);
+    }
+    return stepCache.get(l);
+  }
   let activeLink = null;
+  function updateSectionControls() {
+    const steps = contentsSteps();
+    const at = steps.findIndex(item => item.a === activeLink);
+    const prev = at > 0 ? steps[at - 1] : null;
+    const next = at < 0 ? steps[0] : (steps[at + 1] || null);
+    const words = stepWords[lang] || stepWords.en;
+    for (const [button, step, label] of [[prevSection, prev, words[0]], [nextSection, next, words[1]]]) {
+      if (!button) continue;
+      button.disabled = !step;
+      const description = step ? `${label}: ${step.title}` : label;
+      button.title = description;
+      button.setAttribute('aria-label', description);
+    }
+    if (currentSection) {
+      const step = at >= 0 ? steps[at] : null;
+      currentSection.disabled = !step;
+      const label = step ? `${words[2]}: ${step.title}` : words[2];
+      currentSection.title = label;
+      currentSection.setAttribute('aria-label', label);
+    }
+  }
+  prevSection?.addEventListener('click', () => jumpByContents(-1));
+  nextSection?.addEventListener('click', () => jumpByContents(1));
+  updateSectionControls();
+  currentSection?.addEventListener('click', () => {
+    if (body.classList.contains('review-mode')) return;
+    const step = contentsSteps().find(item => item.a === activeLink);
+    if (step) goTo(step.id);
+  });
+  function jumpByContents(direction) {
+    if (body.classList.contains('review-mode')) return;
+    const steps = contentsSteps();
+    const at = steps.findIndex(item => item.a === activeLink);
+    const destination = direction < 0 ? steps[at - 1] : steps[at + 1];
+    // On the cover, the forward arrow begins at the first contents entry.
+    const step = destination || (direction > 0 && at < 0 ? steps[0] : null);
+    if (step && goTo(step.id)) markActive(step.a);
+  }
   function markActive(a) {
     if (a === activeLink) return;
     for (const x of $$('.toc a.active')) { x.classList.remove('active'); x.removeAttribute('aria-current'); }
     for (const x of $$('.toc li.has-active')) x.classList.remove('has-active');
     activeLink = a;
+    updateSectionControls();
     if (!a) return;
     a.classList.add('active');
     a.setAttribute('aria-current', 'location');
@@ -171,7 +231,7 @@
   const progressBar = $('#progress');
   let spyFrame = 0, lastSaved = 0;
 
-  const marker = () => bar() + Math.min(160, innerHeight * .2);
+  const marker = () => bar() + 36;
   function locate() {
     const secs = sections();
     const m = marker();
@@ -327,6 +387,7 @@
     document.title = book.documentTitles[next] || book.documentTitles.en;
     activeLink = null;
     navIndex = null;
+    updateSectionControls();
     if (place) restoreAnchor({ key: place.key, frac: place.frac });
     else if (keepPlace) scrollTo({ top: y, behavior: 'auto' });
     scheduleSpy();
