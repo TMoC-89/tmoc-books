@@ -104,7 +104,14 @@ def divide_source(text):
         raise ValueError('The manuscript is missing one or more expected headings.')
     for index, section in enumerate(sections):
         end = sections[index + 1]['start'] if index + 1 < len(sections) else len(text)
-        section['body'] = text[section['start']:end].strip()
+        body = text[section['start']:end].strip()
+        # The reader already draws a divider between sections. Keep the internal
+        # rule between the title and publication details on the opening pages.
+        if section['key'] == 'title-pages':
+            body = body.removesuffix('\n\n---')
+        else:
+            body = re.sub(r'^---[ \t]*$', '', body, flags=re.M)
+        section['body'] = body
     return sections
 
 
