@@ -1,3 +1,9 @@
+# Secret Movements in Islam — 26 November 2026
+
+- Added Mahmoud Ismail’s *Secret Movements in Islam* (*الحركات السرية في الإسلام*) as work № 13 and the latest addition to the Arabic shelf. The reader pairs the final English translation with the Arabic transcription of the 1997 fifth edition.
+- Added bilingual contents, both prefaces, five studies, eleven debate articles, and 378 linked footnotes per language. Reviewer Mode uses shared section keys and matching footnotes. Both texts are searchable and available as individual Markdown downloads or a bilingual ZIP.
+- Recorded the source, import checks, and known gaps in the [edition notes](secret-movements-in-islam/EDITION_NOTES.md).
+
 # America Against America — 30 October 2026
 
 - Corrected three prose cases in Volume III, Stage Seven, Chapter II of *The Four Journeys* in both languages. They no longer appear as headings or contents entries. Their wording, note references, passage IDs and saved section keys remain intact, and the text reads continuously.

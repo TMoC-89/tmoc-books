@@ -18,7 +18,7 @@ The collection brings together English translations and original texts in Arabic
 
 The translations are prepared by TMoC and other community members using frontier AI models. The Library treats translation as a shared, continuing task: original texts and review tools help readers examine the wording and contribute corrections. Individual edition notes record source choices, editorial decisions and known limits.
 
-The latest addition is Wang Huning’s *America Against America* (*美国反对美国*), presented in English alongside the Chinese original. The collection also includes works by Mullā Ṣadrā, Henry Corbin, Husayn Muruwwa, Hadi al-Alawi, Carl Schmitt and others.
+The latest addition is Mahmoud Ismail’s [*Secret Movements in Islam*](https://tmoc-89.github.io/tmoc-books/secret-movements-in-islam/) (*الحركات السرية في الإسلام*), presented in English alongside the original Arabic. The edition includes five studies of dissent and the debate they prompted. The collection also includes works by Mullā Ṣadrā, Henry Corbin, Husayn Muruwwa, Hadi al-Alawi, Carl Schmitt and others.
 
 Every work is free to read. Explore the [collection](https://tmoc-89.github.io/tmoc-books/#collection), follow an idea through [search](https://tmoc-89.github.io/tmoc-books/search/), or join the review of a passage that matters to you.
 

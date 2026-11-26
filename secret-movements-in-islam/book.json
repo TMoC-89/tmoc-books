@@ -1,0 +1,342 @@
+{
+  "searchId": 26,
+  "slug": "secret-movements-in-islam",
+  "path": "secret-movements-in-islam",
+  "pageTitle": "Secret Movements in Islam — Mahmoud Ismail",
+  "description": "Mahmoud Ismail’s study of five movements that challenged political and religious authority in Islamic history, followed by a debate on his approach. English and original Arabic, from the 1997 fifth edition.",
+  "languages": [
+    "en",
+    "ar"
+  ],
+  "langKey": "minimal-library-lang-secret-movements-in-islam",
+  "title": {
+    "en": "Secret Movements in Islam",
+    "ar": "الحركات السرية في الإسلام"
+  },
+  "author": {
+    "en": "Mahmoud Ismail",
+    "ar": "محمود إسماعيل"
+  },
+  "subtitle": {
+    "en": "",
+    "ar": ""
+  },
+  "edition": {
+    "en": "Final editorial edition · Fifth Arabic edition, 1997",
+    "ar": "الطبعة الخامسة · سينا للنشر، ١٩٩٧"
+  },
+  "downloads": {
+    "en": "Secret Movements in Islam - English.md",
+    "ar": "Secret Movements in Islam - Arabic.md"
+  },
+  "bilingualZip": "Secret Movements in Islam - Complete Bilingual Markdown.zip",
+  "home": {
+    "href": "../",
+    "label": "Library"
+  },
+  "review": {
+    "slug": "secret-movements-in-islam",
+    "title": "Secret Movements in Islam",
+    "sourceLanguage": "ar",
+    "version": "5eaa92f846b2fc66",
+    "englishMarkdown": "Secret Movements in Islam - English.md",
+    "sourceMarkdown": "Secret Movements in Islam - Arabic.md"
+  },
+  "nav": {
+    "en": [
+      {
+        "id": "en-title-pages",
+        "title": "Title and publication pages",
+        "level": 1
+      },
+      {
+        "id": "en-printed-contents",
+        "title": "Contents",
+        "level": 1
+      },
+      {
+        "id": "en-preface-fifth-edition",
+        "title": "Preface to the Fifth Edition",
+        "level": 1
+      },
+      {
+        "id": "en-preface-first-edition",
+        "title": "Preface to the First Edition",
+        "level": 1
+      },
+      {
+        "id": "en-kharijites",
+        "title": "The Kharijites: From Revolutionary Violence to an Organised Underground Movement",
+        "level": 1
+      },
+      {
+        "id": "en-murjiites",
+        "title": "The Murji'ites: From Defending the Rulers to Revolution",
+        "level": 1
+      },
+      {
+        "id": "en-abbasids",
+        "title": "The Abbasids: Riding the Revolutionary Wave",
+        "level": 1
+      },
+      {
+        "id": "en-mutazilites",
+        "title": "The Mu'tazilites: From Reason to Political Action",
+        "level": 1
+      },
+      {
+        "id": "en-qarmatians",
+        "title": "The Qarmatians: A Pioneering Experiment in Socialism",
+        "level": 1
+      },
+      {
+        "id": "en-debate",
+        "title": "A Debate on the Approach Taken in This Book",
+        "level": 1
+      },
+      {
+        "id": "en-critical-views",
+        "title": "1 — Critical Views",
+        "level": 2
+      },
+      {
+        "id": "en-counter-revolution",
+        "title": "The Secret Movements in Islamic History Were a Counter-Revolution",
+        "level": 3
+      },
+      {
+        "id": "en-criticising-an-approach",
+        "title": "Criticising an Approach Without Having One",
+        "level": 3
+      },
+      {
+        "id": "en-qarmatians-critique",
+        "title": "The Qarmatians Were Neither Muslims nor Socialists",
+        "level": 3
+      },
+      {
+        "id": "en-intellectual-intimidation",
+        "title": "Debate Through Intellectual Intimidation",
+        "level": 3
+      },
+      {
+        "id": "en-modern-approach-and-authenticity",
+        "title": "A Modern Approach Must Not Come at the Expense of Authenticity",
+        "level": 3
+      },
+      {
+        "id": "en-modern-approach-strengthens-authenticity",
+        "title": "A Modern Approach Strengthens Authenticity Rather Than Undermining It",
+        "level": 3
+      },
+      {
+        "id": "en-arab-thought-under-accusation",
+        "title": "Arab Thought Under False Accusation",
+        "level": 3
+      },
+      {
+        "id": "en-who-makes-the-accusations",
+        "title": "Who Is Really Making False Accusations?",
+        "level": 3
+      },
+      {
+        "id": "en-supportive-views",
+        "title": "2 — Supportive Views",
+        "level": 2
+      },
+      {
+        "id": "en-risen-from-their-coffins",
+        "title": "Those Who Have Risen from Their Coffins",
+        "level": 3
+      },
+      {
+        "id": "en-modest-opinion",
+        "title": "A Modest Opinion on a Serious Subject",
+        "level": 3
+      },
+      {
+        "id": "en-shuubiyya",
+        "title": "Shu'ubiyya in Historical Perspective",
+        "level": 3
+      },
+      {
+        "id": "en-footnotes",
+        "title": "Footnotes",
+        "level": 1
+      },
+      {
+        "id": "en-footnotes-kharijites",
+        "title": "The Kharijites",
+        "level": 2
+      },
+      {
+        "id": "en-footnotes-murjiites",
+        "title": "The Murji'ites",
+        "level": 2
+      },
+      {
+        "id": "en-footnotes-abbasids",
+        "title": "The Abbasids",
+        "level": 2
+      },
+      {
+        "id": "en-footnotes-mutazilites",
+        "title": "The Mu'tazilites",
+        "level": 2
+      },
+      {
+        "id": "en-footnotes-qarmatians",
+        "title": "The Qarmatians",
+        "level": 2
+      }
+    ],
+    "ar": [
+      {
+        "id": "ar-title-pages",
+        "title": "صفحات العنوان والنشر",
+        "level": 1
+      },
+      {
+        "id": "ar-printed-contents",
+        "title": "محتويات الكتاب",
+        "level": 1
+      },
+      {
+        "id": "ar-preface-fifth-edition",
+        "title": "مقدمة الطبعة الخامسة",
+        "level": 1
+      },
+      {
+        "id": "ar-preface-first-edition",
+        "title": "مقدمة الطبعة الأولى",
+        "level": 1
+      },
+      {
+        "id": "ar-kharijites",
+        "title": "الخوارج: من العنف الثوري إلى الدعوة السرية المنظمة",
+        "level": 1
+      },
+      {
+        "id": "ar-murjiites",
+        "title": "المرجئة: من التبرير إلى الثورة",
+        "level": 1
+      },
+      {
+        "id": "ar-abbasids",
+        "title": "العباسيون: ركوب التيار الثوري",
+        "level": 1
+      },
+      {
+        "id": "ar-mutazilites",
+        "title": "المعتزلة: بين النظر العقلي والعمل السياسي",
+        "level": 1
+      },
+      {
+        "id": "ar-qarmatians",
+        "title": "القرامطة: تجربة رائدة في الاشتراكية",
+        "level": 1
+      },
+      {
+        "id": "ar-debate",
+        "title": "حوار حول المنهج",
+        "level": 1
+      },
+      {
+        "id": "ar-critical-views",
+        "title": "١ - آراء معارضة",
+        "level": 2
+      },
+      {
+        "id": "ar-counter-revolution",
+        "title": "الحركات السرية في تاريخ الإسلام ثورة مضادة",
+        "level": 3
+      },
+      {
+        "id": "ar-criticising-an-approach",
+        "title": "نقد المنهج بلا منهج",
+        "level": 3
+      },
+      {
+        "id": "ar-qarmatians-critique",
+        "title": "القرامطة ليسوا مسلمين ولا اشتراكيين",
+        "level": 3
+      },
+      {
+        "id": "ar-intellectual-intimidation",
+        "title": "حوار بالإرهاب الفكري",
+        "level": 3
+      },
+      {
+        "id": "ar-modern-approach-and-authenticity",
+        "title": "المنهج العصري لا يكون على حساب الأصالة",
+        "level": 3
+      },
+      {
+        "id": "ar-modern-approach-strengthens-authenticity",
+        "title": "المنهج العصري دعم للأصالة وليس على حسابها",
+        "level": 3
+      },
+      {
+        "id": "ar-arab-thought-under-accusation",
+        "title": "الفكر العربي المفترى عليه",
+        "level": 3
+      },
+      {
+        "id": "ar-who-makes-the-accusations",
+        "title": "من المفتري!..",
+        "level": 3
+      },
+      {
+        "id": "ar-supportive-views",
+        "title": "٢ - آراء مؤيدة",
+        "level": 2
+      },
+      {
+        "id": "ar-risen-from-their-coffins",
+        "title": "الخارجون من التوابيت",
+        "level": 3
+      },
+      {
+        "id": "ar-modest-opinion",
+        "title": "رأي متواضع في موضوع خطير",
+        "level": 3
+      },
+      {
+        "id": "ar-shuubiyya",
+        "title": "الشعوبية تاريخياً",
+        "level": 3
+      },
+      {
+        "id": "ar-footnotes",
+        "title": "الهوامش",
+        "level": 1
+      },
+      {
+        "id": "ar-footnotes-kharijites",
+        "title": "الخوارج",
+        "level": 2
+      },
+      {
+        "id": "ar-footnotes-murjiites",
+        "title": "المرجئة",
+        "level": 2
+      },
+      {
+        "id": "ar-footnotes-abbasids",
+        "title": "العباسيون",
+        "level": 2
+      },
+      {
+        "id": "ar-footnotes-mutazilites",
+        "title": "المعتزلة",
+        "level": 2
+      },
+      {
+        "id": "ar-footnotes-qarmatians",
+        "title": "القرامطة",
+        "level": 2
+      }
+    ]
+  },
+  "contentsFile": "contents.json"
+}

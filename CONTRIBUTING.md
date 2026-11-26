@@ -88,6 +88,20 @@ every push and pull request, and deployment waits for it.
    For a French original on a catalogue card, set `originalTitle` to
    `{ "lang": "fr", "text": "Original title" }`. Existing `arabicTitle` values remain supported.
 
+### Secret Movements in Islam
+
+Mahmoud Ismail’s *Secret Movements in Islam* is work № 13 on the **From the Arabic** shelf. Its reader pairs the English translation with the Arabic transcription of the fifth edition (Sina Publishing, 1997). See the [edition notes](secret-movements-in-islam/EDITION_NOTES.md) for the source and known gaps.
+
+To rebuild the reader, pass the directory containing the two final Markdown files to the importer.
+
+```sh
+python3 tools/import_secret_movements.py /path/to/final-edition
+python3 tools/build.py
+python3 tools/build.py --check
+```
+
+The importer keeps the supplied Markdown downloads byte for byte. It checks the paired outline, all 220 PDF page markers, and the order and page of every footnote reference in both languages. Preserve the reader’s section keys and review version when making presentation-only changes.
+
 ### The City of Isis
 
 Pierre Rossi’s *The City of Isis / La Cité d’Isis* is in `the-city-of-isis/`, with the full English

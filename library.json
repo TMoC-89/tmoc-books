@@ -33,10 +33,26 @@
   ],
   "books": [
     {
+      "no": 13,
+      "shelf": "arabic",
+      "href": "secret-movements-in-islam/",
+      "tag": "Latest addition",
+      "title": "Secret Movements in Islam",
+      "subtitle": "Five studies of dissent in Islamic history",
+      "originalTitle": {
+        "lang": "ar",
+        "text": "الحركات السرية في الإسلام"
+      },
+      "author": "Mahmoud Ismail",
+      "readers": [
+        "secret-movements-in-islam"
+      ],
+      "description": "Mahmoud Ismail’s study of five movements that challenged political and religious authority in Islamic history, followed by a debate on his approach. English and original Arabic, from the 1997 fifth edition."
+    },
+    {
       "no": 12,
       "shelf": "chinese",
       "href": "america-against-america/",
-      "tag": "Latest addition",
       "title": "America Against America",
       "subtitle": "An Examination of American Society and Its Contradictions",
       "originalTitle": {

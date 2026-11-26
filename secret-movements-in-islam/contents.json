@@ -1,0 +1,316 @@
+{
+  "version": 1,
+  "initiallyCollapsed": true,
+  "languages": {
+    "en": {
+      "sourceHash": "2cbda9f82e09ee4960c3f0fb55a83d0d42d20bfe8b42777ecabcd9d6a53f8ad5",
+      "entries": [
+        {
+          "id": "en-title-pages",
+          "level": 1,
+          "kind": "opening"
+        },
+        {
+          "id": "en-printed-contents",
+          "level": 1,
+          "kind": "opening"
+        },
+        {
+          "id": "en-preface-fifth-edition",
+          "level": 1,
+          "kind": "opening"
+        },
+        {
+          "id": "en-preface-first-edition",
+          "level": 1,
+          "kind": "opening"
+        },
+        {
+          "id": "en-kharijites",
+          "level": 1,
+          "kind": "chapter",
+          "label": "The Kharijites"
+        },
+        {
+          "id": "en-murjiites",
+          "level": 1,
+          "kind": "chapter",
+          "label": "The Murji'ites"
+        },
+        {
+          "id": "en-abbasids",
+          "level": 1,
+          "kind": "chapter",
+          "label": "The Abbasids"
+        },
+        {
+          "id": "en-mutazilites",
+          "level": 1,
+          "kind": "chapter",
+          "label": "The Mu'tazilites"
+        },
+        {
+          "id": "en-qarmatians",
+          "level": 1,
+          "kind": "chapter",
+          "label": "The Qarmatians"
+        },
+        {
+          "id": "en-debate",
+          "level": 1,
+          "kind": "division"
+        },
+        {
+          "id": "en-critical-views",
+          "level": 2,
+          "kind": "group"
+        },
+        {
+          "id": "en-counter-revolution",
+          "level": 3,
+          "kind": "section"
+        },
+        {
+          "id": "en-criticising-an-approach",
+          "level": 3,
+          "kind": "section"
+        },
+        {
+          "id": "en-qarmatians-critique",
+          "level": 3,
+          "kind": "section"
+        },
+        {
+          "id": "en-intellectual-intimidation",
+          "level": 3,
+          "kind": "section"
+        },
+        {
+          "id": "en-modern-approach-and-authenticity",
+          "level": 3,
+          "kind": "section"
+        },
+        {
+          "id": "en-modern-approach-strengthens-authenticity",
+          "level": 3,
+          "kind": "section"
+        },
+        {
+          "id": "en-arab-thought-under-accusation",
+          "level": 3,
+          "kind": "section"
+        },
+        {
+          "id": "en-who-makes-the-accusations",
+          "level": 3,
+          "kind": "section"
+        },
+        {
+          "id": "en-supportive-views",
+          "level": 2,
+          "kind": "group"
+        },
+        {
+          "id": "en-risen-from-their-coffins",
+          "level": 3,
+          "kind": "section"
+        },
+        {
+          "id": "en-modest-opinion",
+          "level": 3,
+          "kind": "section"
+        },
+        {
+          "id": "en-shuubiyya",
+          "level": 3,
+          "kind": "section"
+        },
+        {
+          "id": "en-footnotes",
+          "level": 1,
+          "kind": "notes"
+        },
+        {
+          "id": "en-footnotes-kharijites",
+          "level": 2,
+          "kind": "group"
+        },
+        {
+          "id": "en-footnotes-murjiites",
+          "level": 2,
+          "kind": "group"
+        },
+        {
+          "id": "en-footnotes-abbasids",
+          "level": 2,
+          "kind": "group"
+        },
+        {
+          "id": "en-footnotes-mutazilites",
+          "level": 2,
+          "kind": "group"
+        },
+        {
+          "id": "en-footnotes-qarmatians",
+          "level": 2,
+          "kind": "group"
+        }
+      ]
+    },
+    "ar": {
+      "sourceHash": "e3b3d716902475937ce0e91fa9b0550efebd092a737e54e0355ccb97543e931b",
+      "entries": [
+        {
+          "id": "ar-title-pages",
+          "level": 1,
+          "kind": "opening"
+        },
+        {
+          "id": "ar-printed-contents",
+          "level": 1,
+          "kind": "opening"
+        },
+        {
+          "id": "ar-preface-fifth-edition",
+          "level": 1,
+          "kind": "opening"
+        },
+        {
+          "id": "ar-preface-first-edition",
+          "level": 1,
+          "kind": "opening"
+        },
+        {
+          "id": "ar-kharijites",
+          "level": 1,
+          "kind": "chapter",
+          "label": "الخوارج"
+        },
+        {
+          "id": "ar-murjiites",
+          "level": 1,
+          "kind": "chapter",
+          "label": "المرجئة"
+        },
+        {
+          "id": "ar-abbasids",
+          "level": 1,
+          "kind": "chapter",
+          "label": "العباسيون"
+        },
+        {
+          "id": "ar-mutazilites",
+          "level": 1,
+          "kind": "chapter",
+          "label": "المعتزلة"
+        },
+        {
+          "id": "ar-qarmatians",
+          "level": 1,
+          "kind": "chapter",
+          "label": "القرامطة"
+        },
+        {
+          "id": "ar-debate",
+          "level": 1,
+          "kind": "division"
+        },
+        {
+          "id": "ar-critical-views",
+          "level": 2,
+          "kind": "group"
+        },
+        {
+          "id": "ar-counter-revolution",
+          "level": 3,
+          "kind": "section"
+        },
+        {
+          "id": "ar-criticising-an-approach",
+          "level": 3,
+          "kind": "section"
+        },
+        {
+          "id": "ar-qarmatians-critique",
+          "level": 3,
+          "kind": "section"
+        },
+        {
+          "id": "ar-intellectual-intimidation",
+          "level": 3,
+          "kind": "section"
+        },
+        {
+          "id": "ar-modern-approach-and-authenticity",
+          "level": 3,
+          "kind": "section"
+        },
+        {
+          "id": "ar-modern-approach-strengthens-authenticity",
+          "level": 3,
+          "kind": "section"
+        },
+        {
+          "id": "ar-arab-thought-under-accusation",
+          "level": 3,
+          "kind": "section"
+        },
+        {
+          "id": "ar-who-makes-the-accusations",
+          "level": 3,
+          "kind": "section"
+        },
+        {
+          "id": "ar-supportive-views",
+          "level": 2,
+          "kind": "group"
+        },
+        {
+          "id": "ar-risen-from-their-coffins",
+          "level": 3,
+          "kind": "section"
+        },
+        {
+          "id": "ar-modest-opinion",
+          "level": 3,
+          "kind": "section"
+        },
+        {
+          "id": "ar-shuubiyya",
+          "level": 3,
+          "kind": "section"
+        },
+        {
+          "id": "ar-footnotes",
+          "level": 1,
+          "kind": "notes"
+        },
+        {
+          "id": "ar-footnotes-kharijites",
+          "level": 2,
+          "kind": "group"
+        },
+        {
+          "id": "ar-footnotes-murjiites",
+          "level": 2,
+          "kind": "group"
+        },
+        {
+          "id": "ar-footnotes-abbasids",
+          "level": 2,
+          "kind": "group"
+        },
+        {
+          "id": "ar-footnotes-mutazilites",
+          "level": 2,
+          "kind": "group"
+        },
+        {
+          "id": "ar-footnotes-qarmatians",
+          "level": 2,
+          "kind": "group"
+        }
+      ]
+    }
+  }
+}
