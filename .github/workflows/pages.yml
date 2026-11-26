@@ -8,8 +8,6 @@ on:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 concurrency:
   group: pages-${{ github.ref }}
@@ -29,6 +27,13 @@ jobs:
   deploy:
     needs: check
     if: github.event_name != 'pull_request'
+    permissions:
+      actions: read
+      contents: read
+      pages: write
+      id-token: write
+    env:
+      PAGES_ARTIFACT_NAME: github-pages-${{ github.run_attempt }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -41,10 +46,31 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Upload Pages artifact
+        id: pages_artifact
         uses: actions/upload-pages-artifact@v3
         with:
+          name: ${{ env.PAGES_ARTIFACT_NAME }}
           path: .
+
+      - name: Wait for the Pages artifact
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PAGES_ARTIFACT_ID: ${{ steps.pages_artifact.outputs.artifact_id }}
+        run: |
+          : "${PAGES_ARTIFACT_ID:?Upload did not return an artifact ID}"
+          for attempt in {1..12}; do
+            artifact_id=$(gh api "repos/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}/artifacts?name=${PAGES_ARTIFACT_NAME}" \
+              --jq '.artifacts[] | select(.expired == false) | .id') || artifact_id=
+            if [[ "$artifact_id" == "$PAGES_ARTIFACT_ID" ]]; then
+              exit 0
+            fi
+            sleep 5
+          done
+          echo "::error::GitHub Pages could not find the uploaded artifact within one minute."
+          exit 1
 
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          artifact_name: ${{ env.PAGES_ARTIFACT_NAME }}
